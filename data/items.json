@@ -1,5 +1,104 @@
 [
   {
+    "description": "Claude skill for CVE exploitability and mitigation intelligence. ",
+    "id": "mayur-esh/cve-check",
+    "language": "Python",
+    "name": "mayur-esh/cve-check",
+    "stars": 0,
+    "updated_at": "2026-09-27T07:00:02Z",
+    "url": "https://github.com/mayur-esh/cve-check"
+  },
+  {
+    "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
+    "id": "mblode/agent-skills",
+    "language": "Python",
+    "name": "mblode/agent-skills",
+    "stars": 130,
+    "updated_at": "2026-09-27T06:59:08Z",
+    "url": "https://github.com/mblode/agent-skills"
+  },
+  {
+    "description": "Cite Holmes - deep research skill that interrogates its own citations",
+    "id": "docsor1212/cite-holmes",
+    "language": "Python",
+    "name": "docsor1212/cite-holmes",
+    "stars": 0,
+    "updated_at": "2026-09-27T06:56:29Z",
+    "url": "https://github.com/docsor1212/cite-holmes"
+  },
+  {
+    "description": "Keeps AI-generated UI consistent with your project's own component vocabulary and prop conventions, while the code is be",
+    "id": "kamenkurtev/ui-consistency",
+    "language": "Shell",
+    "name": "kamenkurtev/ui-consistency",
+    "stars": 0,
+    "updated_at": "2026-09-27T06:56:02Z",
+    "url": "https://github.com/kamenkurtev/ui-consistency"
+  },
+  {
+    "description": "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and de",
+    "id": "Likenttt/garmin-connect-plugin-for-dsh",
+    "language": "TypeScript",
+    "name": "Likenttt/garmin-connect-plugin-for-dsh",
+    "stars": 22,
+    "updated_at": "2026-09-27T06:54:56Z",
+    "url": "https://github.com/Likenttt/garmin-connect-plugin-for-dsh"
+  },
+  {
+    "description": "Auto dlmm Meteora bot system",
+    "id": "romankurnovskii/etemaro",
+    "language": "TypeScript",
+    "name": "romankurnovskii/etemaro",
+    "stars": 55,
+    "updated_at": "2026-09-27T06:55:39Z",
+    "url": "https://github.com/romankurnovskii/etemaro"
+  },
+  {
+    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
+    "id": "ellmos-ai/skills",
+    "language": "Python",
+    "name": "ellmos-ai/skills",
+    "stars": 6,
+    "updated_at": "2026-09-27T06:53:03Z",
+    "url": "https://github.com/ellmos-ai/skills"
+  },
+  {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 15,
+    "updated_at": "2026-09-27T06:52:08Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "Claude Code plugins and skills: a Remotion promo video pipeline, production deploy pipelines, Codex loops, Google Stitch",
+    "id": "tomerhayundev/skills",
+    "language": "JavaScript",
+    "name": "tomerhayundev/skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T06:50:08Z",
+    "url": "https://github.com/tomerhayundev/skills"
+  },
+  {
+    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 168 repos by type, each ",
+    "id": "zhuyansen/awesome-claude-video-skills",
+    "language": "\u2014",
+    "name": "zhuyansen/awesome-claude-video-skills",
+    "stars": 1,
+    "updated_at": "2026-09-27T06:46:26Z",
+    "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-27T06:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "MCP server for AI hallucination detection & agent safety \u2014 verify claims, guard prompts, gate CUA actions",
     "id": "fredyee/hallucc-mcp",
     "language": "TypeScript",
@@ -13,7 +112,7 @@
     "id": "Vincentwei1021/video-shotcraft",
     "language": "TypeScript",
     "name": "Vincentwei1021/video-shotcraft",
-    "stars": 9653,
+    "stars": 9654,
     "updated_at": "2026-09-27T06:44:12Z",
     "url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
@@ -22,7 +121,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69528,
+    "stars": 69530,
     "updated_at": "2026-09-27T06:43:50Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -43,24 +142,6 @@
     "stars": 7,
     "updated_at": "2026-09-27T06:42:44Z",
     "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
-    "id": "mblode/agent-skills",
-    "language": "Python",
-    "name": "mblode/agent-skills",
-    "stars": 130,
-    "updated_at": "2026-09-27T06:42:21Z",
-    "url": "https://github.com/mblode/agent-skills"
-  },
-  {
-    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 168 repos by type, each ",
-    "id": "zhuyansen/awesome-claude-video-skills",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-claude-video-skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:42:20Z",
-    "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
   },
   {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
@@ -99,15 +180,6 @@
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-27T06:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Deterministic code quality gate for AI coding agents (Claude Code, Codex, pi): git hooks that block test tampering, hold",
     "id": "smixs/code-quality",
     "language": "TypeScript",
@@ -115,15 +187,6 @@
     "stars": 13,
     "updated_at": "2026-09-27T06:25:21Z",
     "url": "https://github.com/smixs/code-quality"
-  },
-  {
-    "description": "Keeps AI-generated UI consistent with your project's own component vocabulary and prop conventions, while the code is be",
-    "id": "kamenkurtev/ui-consistency",
-    "language": "Shell",
-    "name": "kamenkurtev/ui-consistency",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:24:08Z",
-    "url": "https://github.com/kamenkurtev/ui-consistency"
   },
   {
     "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T06:07:54Z",
     "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:07:52Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:07:51Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:07:45Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:07:44Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-09-27T06:07:43Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:07:21Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:07:10Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
   }
 ]
