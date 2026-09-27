@@ -1,12 +1,120 @@
 [
   {
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 45,
+    "updated_at": "2026-09-27T05:45:00Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-09-27T05:44:34Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-09-27T05:42:15Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
+    "id": "NYTC69/review-loop",
+    "language": "Python",
+    "name": "NYTC69/review-loop",
+    "stars": 3,
+    "updated_at": "2026-09-27T05:38:11Z",
+    "url": "https://github.com/NYTC69/review-loop"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:36:27Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "Troubleshooting memory for AI coding agents: a persistent, per-machine knowledge base of what broke, what fixed it, and ",
+    "id": "timmyjoe917/machine-forensics-loop",
+    "language": "\u2014",
+    "name": "timmyjoe917/machine-forensics-loop",
+    "stars": 1,
+    "updated_at": "2026-09-27T05:34:41Z",
+    "url": "https://github.com/timmyjoe917/machine-forensics-loop"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69519,
+    "updated_at": "2026-09-27T05:32:32Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Find which of your exact dependency versions your coding agent writes wrong, and fix it with a small AGENTS.md note veri",
+    "id": "MohammadHijjawi97/since-cutoff",
+    "language": "Python",
+    "name": "MohammadHijjawi97/since-cutoff",
+    "stars": 1,
+    "updated_at": "2026-09-27T05:32:24Z",
+    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-27T05:40:38Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-27T05:42:14Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
     "description": "A Claude Agent Skill that shows a live progress bar, step timeline and ETA for long-running agent tasks. \u8ba9 Claude \u957f\u4efb\u52a1\u6709\u5b9e\u65f6",
     "id": "bhu0345/claude-live-progress-skill",
     "language": "\u2014",
     "name": "bhu0345/claude-live-progress-skill",
     "stars": 1,
-    "updated_at": "2026-09-27T05:29:56Z",
+    "updated_at": "2026-09-27T05:30:40Z",
     "url": "https://github.com/bhu0345/claude-live-progress-skill"
+  },
+  {
+    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
+    "id": "icepower-385/Everything-Claude-Code",
+    "language": "\u2014",
+    "name": "icepower-385/Everything-Claude-Code",
+    "stars": 1,
+    "updated_at": "2026-09-27T05:30:28Z",
+    "url": "https://github.com/icepower-385/Everything-Claude-Code"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-27T05:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
@@ -16,15 +124,6 @@
     "stars": 2288,
     "updated_at": "2026-09-27T05:29:26Z",
     "url": "https://github.com/zenstory-ai/drama-skills"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T05:29:20Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
     "description": "Cairn: the principles, evidence and design decisions behind three Claude Code plugins that check the claims AI systems m",
@@ -108,15 +207,6 @@
     "url": "https://github.com/StanimirTenev/baton"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-27T05:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Keeps AI-generated UI consistent with your project's own component vocabulary and prop conventions, while the code is be",
     "id": "kamenkurtev/ui-consistency",
     "language": "Shell",
@@ -135,24 +225,6 @@
     "url": "https://github.com/ZxWyvern/unity-workflow-kit"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69516,
-    "updated_at": "2026-09-27T05:14:24Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-27T05:25:07Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "10 open OpenClaw agent skills for DeFi intelligence: Trail Heat, FarmScore, risk, yield, swaps, perps. Read-only, zero-c",
     "id": "Parmasanandgarlic/farmdash-openclaw-skills",
     "language": "TypeScript",
@@ -169,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-09-27T05:10:11Z",
     "url": "https://github.com/dinhanhthi/coding-friend"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-27T05:29:50Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T04:25:37Z",
     "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
-    "id": "Arindaag760/humanizer-cli",
-    "language": "JavaScript",
-    "name": "Arindaag760/humanizer-cli",
-    "stars": 2,
-    "updated_at": "2026-09-27T04:25:26Z",
-    "url": "https://github.com/Arindaag760/humanizer-cli"
-  },
-  {
-    "description": "Troubleshooting memory for AI coding agents: a persistent, per-machine knowledge base of what broke, what fixed it, and ",
-    "id": "timmyjoe917/machine-forensics-loop",
-    "language": "\u2014",
-    "name": "timmyjoe917/machine-forensics-loop",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:25:30Z",
-    "url": "https://github.com/timmyjoe917/machine-forensics-loop"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:24:27Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
-    "id": "Scoundrelwildness456/i-have-adhd",
-    "language": "Python",
-    "name": "Scoundrelwildness456/i-have-adhd",
-    "stars": 5,
-    "updated_at": "2026-09-27T04:24:02Z",
-    "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a",
-    "id": "hraness/textbutler",
-    "language": "TypeScript",
-    "name": "hraness/textbutler",
-    "stars": 5,
-    "updated_at": "2026-09-27T04:23:50Z",
-    "url": "https://github.com/hraness/textbutler"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:22:06Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:21:43Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
   }
 ]
