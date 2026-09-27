@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Agent \u6280\u80fd\u805a\u5408\u4ed3\uff1a29 \u4e2a\u751f\u4ea7\u7ea7 SKILL.md\uff08\u8de8\u5de5\u5177 + DSH \u517c\u5bb9\uff09\uff5c29 production-grade AI agent skills, cross-tool & DeepSeek Harness compati",
+    "id": "xingtu1996/xingtu-skills",
+    "language": "Python",
+    "name": "xingtu1996/xingtu-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T14:00:05Z",
+    "url": "https://github.com/xingtu1996/xingtu-skills"
+  },
+  {
+    "description": "\u970a\u5922\u3068\u9b54\u7406\u6c99\uff08\u305f\u306c\u304d\u5f0f\u3086\u3063\u304f\u308a\u7acb\u3061\u7d75\uff09\u304c\u639b\u3051\u5408\u3044\u3067\u89e3\u8aac\u3059\u308b\u300c\u3086\u3063\u304f\u308a\u89e3\u8aac\u98a8\u300d\u52d5\u753b\u3092\u3001\u8abf\u67fb\u30fb\u53f0\u672c\u30fb\u97f3\u58f0\u30fb\u5b57\u5e55\u30fb\u30b5\u30e0\u30cd\u30a4\u30eb\u307e\u3067Claude\u304c\u4f5c\u308bAgent Skill\u3002\u975e\u516c\u5f0f\u306e\u6771\u65b9Project\u4e8c\u6b21\u5275\u4f5c\u3067\u3059\u3002",
+    "id": "seiji1097g-cell/yukkuri-reimu-marisa-videos",
+    "language": "\u2014",
+    "name": "seiji1097g-cell/yukkuri-reimu-marisa-videos",
+    "stars": 0,
+    "updated_at": "2026-09-27T13:58:19Z",
+    "url": "https://github.com/seiji1097g-cell/yukkuri-reimu-marisa-videos"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-09-27T13:54:04Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
+    "id": "culfin/claude-skills-public",
+    "language": "Python",
+    "name": "culfin/claude-skills-public",
+    "stars": 0,
+    "updated_at": "2026-09-27T13:52:30Z",
+    "url": "https://github.com/culfin/claude-skills-public"
+  },
+  {
+    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
+    "id": "ergrelet/windiff",
+    "language": "Rust",
+    "name": "ergrelet/windiff",
+    "stars": 390,
+    "updated_at": "2026-09-27T13:48:23Z",
+    "url": "https://github.com/ergrelet/windiff"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-27T13:45:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
     "id": "Ford-1/postgresql-mcp-connector",
     "language": "HTML",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69564,
-    "updated_at": "2026-09-27T13:38:57Z",
+    "updated_at": "2026-09-27T13:54:55Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -122,26 +176,8 @@
     "language": "Shell",
     "name": "dT-Tb-labs/babel-orchestration",
     "stars": 1,
-    "updated_at": "2026-09-27T13:33:41Z",
+    "updated_at": "2026-09-27T13:49:55Z",
     "url": "https://github.com/dT-Tb-labs/babel-orchestration"
-  },
-  {
-    "description": "\u970a\u5922\u3068\u9b54\u7406\u6c99\uff08\u305f\u306c\u304d\u5f0f\u3086\u3063\u304f\u308a\u7acb\u3061\u7d75\uff09\u304c\u639b\u3051\u5408\u3044\u3067\u89e3\u8aac\u3059\u308b\u300c\u3086\u3063\u304f\u308a\u89e3\u8aac\u98a8\u300d\u52d5\u753b\u3092\u3001\u8abf\u67fb\u30fb\u53f0\u672c\u30fb\u97f3\u58f0\u30fb\u5b57\u5e55\u30fb\u30b5\u30e0\u30cd\u30a4\u30eb\u307e\u3067Claude\u304c\u4f5c\u308bAgent Skill\u3002\u975e\u516c\u5f0f\u306e\u6771\u65b9Project\u4e8c\u6b21\u5275\u4f5c\u3067\u3059\u3002",
-    "id": "seiji1097g-cell/yukkuri-reimu-marisa-videos",
-    "language": "Python",
-    "name": "seiji1097g-cell/yukkuri-reimu-marisa-videos",
-    "stars": 0,
-    "updated_at": "2026-09-27T13:31:30Z",
-    "url": "https://github.com/seiji1097g-cell/yukkuri-reimu-marisa-videos"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-27T13:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-27T13:41:30Z",
+    "updated_at": "2026-09-27T14:00:10Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T13:23:10Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "AI Agent \u6280\u80fd\u805a\u5408\u4ed3\uff1a29 \u4e2a\u751f\u4ea7\u7ea7 SKILL.md\uff08\u8de8\u5de5\u5177 + DSH \u517c\u5bb9\uff09\uff5c29 production-grade AI agent skills, cross-tool & DeepSeek Harness compati",
-    "id": "xingtu1996/xingtu-skills",
-    "language": "Python",
-    "name": "xingtu1996/xingtu-skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T13:22:39Z",
-    "url": "https://github.com/xingtu1996/xingtu-skills"
   },
   {
     "description": "Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex.",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 23,
-    "updated_at": "2026-09-27T13:40:07Z",
+    "updated_at": "2026-09-27T13:55:49Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 3,
     "updated_at": "2026-09-27T13:04:29Z",
     "url": "https://github.com/CrossRead/scholion"
-  },
-  {
-    "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
-    "id": "culfin/claude-skills-public",
-    "language": "Python",
-    "name": "culfin/claude-skills-public",
-    "stars": 0,
-    "updated_at": "2026-09-27T13:02:13Z",
-    "url": "https://github.com/culfin/claude-skills-public"
   },
   {
     "description": "\u6cd5\u4ee4\u30fb\u8ad6\u6587\u3092\u3001\u7701\u7565\u305b\u305a1\u6761\u305a\u3064\u30fb1\u6bb5\u843d\u305a\u3064\u5bfe\u8a71\u3067\u8aad\u307f\u89e3\u304fClaude\u7528\u30b9\u30ad\u30eb\u300c\u7c92\u8aad\u307f(\u3064\u3076\u3088\u307f)\u300d",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T12:45:34Z",
     "url": "https://github.com/Spirounkempt95/snifftest"
-  },
-  {
-    "description": "Explore and debug Codex, Claude Code, Pi, and Hermes agent traces locally with real-time token usage and cost tracking.",
-    "id": "Gamboasusana748/agent-monitor",
-    "language": "TypeScript",
-    "name": "Gamboasusana748/agent-monitor",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:45:07Z",
-    "url": "https://github.com/Gamboasusana748/agent-monitor"
-  },
-  {
-    "description": "Track developer roadmaps offline with progress tracking, spaced repetition, and career analytics\u2014no account or internet ",
-    "id": "Itzzni9454/skill-trail",
-    "language": "TypeScript",
-    "name": "Itzzni9454/skill-trail",
-    "stars": 0,
-    "updated_at": "2026-09-27T12:45:02Z",
-    "url": "https://github.com/Itzzni9454/skill-trail"
   }
 ]
