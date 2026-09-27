@@ -1,11 +1,92 @@
 [
   {
+    "description": "Sega Master System game dev & porting (devkitSMS) \u2014 a Claude Skill: Turn an idea, or an existing game to port, into a **",
+    "id": "haroldo-ok/sega-master-system-skill-for-claude",
+    "language": "C",
+    "name": "haroldo-ok/sega-master-system-skill-for-claude",
+    "stars": 7,
+    "updated_at": "2026-09-27T11:28:20Z",
+    "url": "https://github.com/haroldo-ok/sega-master-system-skill-for-claude"
+  },
+  {
+    "description": "4 AI skills for college students \u2014 STAR experience cards, exam cram planner, lunch picker, polite message rewriter. Work",
+    "id": "hwwwaan/steal-these-skills",
+    "language": "\u2014",
+    "name": "hwwwaan/steal-these-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T11:26:23Z",
+    "url": "https://github.com/hwwwaan/steal-these-skills"
+  },
+  {
+    "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
+    "id": "vaibhavarora14/job-application-agent",
+    "language": "JavaScript",
+    "name": "vaibhavarora14/job-application-agent",
+    "stars": 151,
+    "updated_at": "2026-09-27T11:25:34Z",
+    "url": "https://github.com/vaibhavarora14/job-application-agent"
+  },
+  {
+    "description": "My Claude Code settings and custom commands",
+    "id": "lacerbi/dotclaude",
+    "language": "Shell",
+    "name": "lacerbi/dotclaude",
+    "stars": 2,
+    "updated_at": "2026-09-27T11:25:16Z",
+    "url": "https://github.com/lacerbi/dotclaude"
+  },
+  {
+    "description": "A coordinated library of Claude skills with explicit phase/handoff routing, shared state, and a maker/checker loop.",
+    "id": "scoobydrew83/skills",
+    "language": "Python",
+    "name": "scoobydrew83/skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T11:23:20Z",
+    "url": "https://github.com/scoobydrew83/skills"
+  },
+  {
+    "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
+    "id": "liustack/pptwise",
+    "language": "TypeScript",
+    "name": "liustack/pptwise",
+    "stars": 16,
+    "updated_at": "2026-09-27T11:18:54Z",
+    "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "Self-hosted AI coding factory \u2014 sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local-",
+    "id": "tmj-90/gaffer",
+    "language": "TypeScript",
+    "name": "tmj-90/gaffer",
+    "stars": 2,
+    "updated_at": "2026-09-27T11:18:27Z",
+    "url": "https://github.com/tmj-90/gaffer"
+  },
+  {
+    "description": "Agent skill: Russian lyrics to three aligned lines - original with stress marks, letter-level romanization, and English ",
+    "id": "XXXG00W0/russian-lyrics-romanization",
+    "language": "Python",
+    "name": "XXXG00W0/russian-lyrics-romanization",
+    "stars": 1,
+    "updated_at": "2026-09-27T11:17:50Z",
+    "url": "https://github.com/XXXG00W0/russian-lyrics-romanization"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-27T11:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills for herdr \u2014 run parallel coding agents in git worktrees and watch each Claude Code worker in the herd",
     "id": "nyjin/herdr-skills",
     "language": "Python",
     "name": "nyjin/herdr-skills",
     "stars": 0,
-    "updated_at": "2026-09-27T11:15:09Z",
+    "updated_at": "2026-09-27T11:19:49Z",
     "url": "https://github.com/nyjin/herdr-skills"
   },
   {
@@ -63,6 +144,15 @@
     "url": "https://github.com/andresanemic/lore-plugin"
   },
   {
+    "description": "A Claude Code skill for critical paper reading: 4 modes (deep-read, quick-scan, recommend, lit-review) with evidence-anc",
+    "id": "WbleJ/Paper-reader",
+    "language": "\u2014",
+    "name": "WbleJ/Paper-reader",
+    "stars": 3,
+    "updated_at": "2026-09-27T11:08:06Z",
+    "url": "https://github.com/WbleJ/Paper-reader"
+  },
+  {
     "description": "The self-improving context engine for coding agents.",
     "id": "aerovato/operator-memory",
     "language": "TypeScript",
@@ -88,24 +178,6 @@
     "stars": 3,
     "updated_at": "2026-09-27T11:01:15Z",
     "url": "https://github.com/dinhanhthi/coding-friend"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-27T11:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Self-hosted AI coding factory \u2014 sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local-",
-    "id": "tmj-90/gaffer",
-    "language": "TypeScript",
-    "name": "tmj-90/gaffer",
-    "stars": 2,
-    "updated_at": "2026-09-27T11:07:16Z",
-    "url": "https://github.com/tmj-90/gaffer"
   },
   {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
@@ -187,15 +259,6 @@
     "stars": 13,
     "updated_at": "2026-09-27T10:45:01Z",
     "url": "https://github.com/smixs/code-quality"
-  },
-  {
-    "description": "A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own mac",
-    "id": "liustack/pptwise",
-    "language": "TypeScript",
-    "name": "liustack/pptwise",
-    "stars": 16,
-    "updated_at": "2026-09-27T10:42:04Z",
-    "url": "https://github.com/liustack/pptwise"
   },
   {
     "description": "doc-holmes \u2014 Agent Skill (SKILL.md open format)",
@@ -283,7 +346,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69555,
+    "stars": 69557,
     "updated_at": "2026-09-27T10:22:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T10:14:21Z",
     "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Put your AI agent under the law. 12 role-based AI Laws (KO/EN) with penalties, verdicts, and a Confession Ledger that fo",
-    "id": "jinyeong03/ai-lawbook",
-    "language": "Shell",
-    "name": "jinyeong03/ai-lawbook",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:14:07Z",
-    "url": "https://github.com/jinyeong03/ai-lawbook"
-  },
-  {
-    "description": "Build production-grade mobile apps faster with simulator-verified skills tested against top-grossing apps.",
-    "id": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "language": "\u2014",
-    "name": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:13:38Z",
-    "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (\u89c6\u9891\u89e3\u8bf4): scene detection, ASR, VLM, script, T",
-    "id": "zenstory-ai/video-recap-skills",
-    "language": "Python",
-    "name": "zenstory-ai/video-recap-skills",
-    "stars": 536,
-    "updated_at": "2026-09-27T10:13:12Z",
-    "url": "https://github.com/zenstory-ai/video-recap-skills"
-  },
-  {
-    "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
-    "id": "mucinous-riposte867/evidence-based-copywriting",
-    "language": "Python",
-    "name": "mucinous-riposte867/evidence-based-copywriting",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:13:11Z",
-    "url": "https://github.com/mucinous-riposte867/evidence-based-copywriting"
-  },
-  {
-    "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
-    "id": "Trudiemisanthropic314/tiktok-video-skill",
-    "language": "Python",
-    "name": "Trudiemisanthropic314/tiktok-video-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:12:24Z",
-    "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
-  },
-  {
-    "description": "Curated modular agent skills for LLM-based assistants to extend AI capabilities and enable autonomous agents.",
-    "id": "graceupperclass437/agent-skills-collection",
-    "language": "Python",
-    "name": "graceupperclass437/agent-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:12:23Z",
-    "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:11:42Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
   }
 ]
