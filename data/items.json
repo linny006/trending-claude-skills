@@ -1,12 +1,30 @@
 [
   {
-    "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
-    "id": "zenstory-ai/drama-skills",
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The mo",
+    "id": "anbeime/skill",
     "language": "Python",
-    "name": "zenstory-ai/drama-skills",
-    "stars": 2292,
-    "updated_at": "2026-09-27T07:14:59Z",
-    "url": "https://github.com/zenstory-ai/drama-skills"
+    "name": "anbeime/skill",
+    "stars": 7242,
+    "updated_at": "2026-09-27T07:29:49Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-27T07:28:31Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Claude skill that gives a verdict on a chess position: reads a board diagram or FEN, runs Stockfish, and returns the bes",
+    "id": "PavelKurochka/chess-verdict",
+    "language": "Python",
+    "name": "PavelKurochka/chess-verdict",
+    "stars": 0,
+    "updated_at": "2026-09-27T07:28:08Z",
+    "url": "https://github.com/PavelKurochka/chess-verdict"
   },
   {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
@@ -14,8 +32,44 @@
     "language": "Shell",
     "name": "lenamonj/jeffy-loop",
     "stars": 8,
-    "updated_at": "2026-09-27T07:13:44Z",
+    "updated_at": "2026-09-27T07:27:53Z",
     "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Find which of your exact dependency versions your coding agent writes wrong, and fix it with a small AGENTS.md note veri",
+    "id": "MohammadHijjawi97/since-cutoff",
+    "language": "Python",
+    "name": "MohammadHijjawi97/since-cutoff",
+    "stars": 1,
+    "updated_at": "2026-09-27T07:24:31Z",
+    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69534,
+    "updated_at": "2026-09-27T07:23:55Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
+    "id": "zenstory-ai/drama-skills",
+    "language": "Python",
+    "name": "zenstory-ai/drama-skills",
+    "stars": 2292,
+    "updated_at": "2026-09-27T07:24:22Z",
+    "url": "https://github.com/zenstory-ai/drama-skills"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-27T07:21:43Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -23,8 +77,35 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-27T07:13:30Z",
+    "updated_at": "2026-09-27T07:26:47Z",
     "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Decision-research skill for Claude Code and Codex - every claim states how well it is supported, and says when the evide",
+    "id": "dbhq-uk/legwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/legwork-skill",
+    "stars": 3,
+    "updated_at": "2026-09-27T07:17:49Z",
+    "url": "https://github.com/dbhq-uk/legwork-skill"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-09-27T07:17:18Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-27T07:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Auto dlmm Meteora bot system",
@@ -72,6 +153,15 @@
     "url": "https://github.com/kamenkurtev/ui-consistency"
   },
   {
+    "description": "Generates a test suite from acceptance criteria, then converges code against it with an agent that never sees those crit",
+    "id": "gal-a/qikly",
+    "language": "Python",
+    "name": "gal-a/qikly",
+    "stars": 14,
+    "updated_at": "2026-09-27T07:08:34Z",
+    "url": "https://github.com/gal-a/qikly"
+  },
+  {
     "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
     "id": "semlith/semlith",
     "language": "Rust",
@@ -106,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T07:06:04Z",
     "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69533,
-    "updated_at": "2026-09-27T07:14:33Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:03:48Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
   },
   {
     "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
@@ -169,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T07:00:23Z",
     "url": "https://github.com/docsor1212/academic-figures"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-27T07:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skill for CVE exploitability and mitigation intelligence. ",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T06:18:06Z",
     "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
-  },
-  {
-    "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
-    "id": "StanimirTenev/baton",
-    "language": "Python",
-    "name": "StanimirTenev/baton",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:17:33Z",
-    "url": "https://github.com/StanimirTenev/baton"
-  },
-  {
-    "description": "Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and",
-    "id": "burnabyjudicial666/agent-profiles",
-    "language": "Rust",
-    "name": "burnabyjudicial666/agent-profiles",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:16:51Z",
-    "url": "https://github.com/burnabyjudicial666/agent-profiles"
-  },
-  {
-    "description": "Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua",
-    "id": "thanhn3977/oh-story-claudecode",
-    "language": "\u2014",
-    "name": "thanhn3977/oh-story-claudecode",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:16:32Z",
-    "url": "https://github.com/thanhn3977/oh-story-claudecode"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-27T06:16:14Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Search and manage AI coding sessions locally with full-text search across 7 tools.",
-    "id": "Unstable-ascendingartery75/ai-session-search",
-    "language": "TypeScript",
-    "name": "Unstable-ascendingartery75/ai-session-search",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:16:08Z",
-    "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
-    "id": "Arindaag760/humanizer-cli",
-    "language": "JavaScript",
-    "name": "Arindaag760/humanizer-cli",
-    "stars": 2,
-    "updated_at": "2026-09-27T06:15:43Z",
-    "url": "https://github.com/Arindaag760/humanizer-cli"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-09-27T06:14:57Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
   }
 ]
