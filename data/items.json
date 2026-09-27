@@ -1,11 +1,119 @@
 [
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69581,
+    "updated_at": "2026-09-27T16:29:27Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Autonomous web-app QA skill for Claude Code: Playwright E2E, visual regression, axe-core a11y. LLM-generated self-healin",
+    "id": "c-c0rtex/web-qa",
+    "language": "Python",
+    "name": "c-c0rtex/web-qa",
+    "stars": 5,
+    "updated_at": "2026-09-27T16:27:37Z",
+    "url": "https://github.com/c-c0rtex/web-qa"
+  },
+  {
+    "description": "avis annotates web pages so Claude Code can see your comments in context.",
+    "id": "sryo/avis",
+    "language": "JavaScript",
+    "name": "sryo/avis",
+    "stars": 0,
+    "updated_at": "2026-09-27T16:27:25Z",
+    "url": "https://github.com/sryo/avis"
+  },
+  {
+    "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
+    "id": "culfin/claude-skills-public",
+    "language": "Python",
+    "name": "culfin/claude-skills-public",
+    "stars": 0,
+    "updated_at": "2026-09-27T16:26:17Z",
+    "url": "https://github.com/culfin/claude-skills-public"
+  },
+  {
+    "description": "An agent skill that builds and maintains auditable ticker universes for fourteen markets \u2014 every member carrying a role,",
+    "id": "bitpunklabs/ticker-universe-builder",
+    "language": "Python",
+    "name": "bitpunklabs/ticker-universe-builder",
+    "stars": 0,
+    "updated_at": "2026-09-27T16:26:07Z",
+    "url": "https://github.com/bitpunklabs/ticker-universe-builder"
+  },
+  {
+    "description": "13 open source Agent Skills (SKILL.md) for one-person companies run with AI: Vietnamese transcripts, copy and voice dict",
+    "id": "ducdg88/ducpt-skills",
+    "language": "Python",
+    "name": "ducdg88/ducpt-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T16:25:25Z",
+    "url": "https://github.com/ducdg88/ducpt-skills"
+  },
+  {
+    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
+    "id": "FynePool/fanta-carbonara",
+    "language": "Python",
+    "name": "FynePool/fanta-carbonara",
+    "stars": 0,
+    "updated_at": "2026-09-27T16:27:06Z",
+    "url": "https://github.com/FynePool/fanta-carbonara"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 62,
+    "updated_at": "2026-09-27T16:24:18Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer ",
+    "id": "ajitta/Game-Engagement-Retention-Skills",
+    "language": "Shell",
+    "name": "ajitta/Game-Engagement-Retention-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-27T16:23:58Z",
+    "url": "https://github.com/ajitta/Game-Engagement-Retention-Skills"
+  },
+  {
+    "description": "Claude Code skill that recommends Architectural decisions for your actual codebase",
+    "id": "angellane/stackfit",
+    "language": "Python",
+    "name": "angellane/stackfit",
+    "stars": 0,
+    "updated_at": "2026-09-27T16:23:14Z",
+    "url": "https://github.com/angellane/stackfit"
+  },
+  {
+    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
+    "id": "polar-bear-org/claude-skills",
+    "language": "Shell",
+    "name": "polar-bear-org/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-27T16:15:46Z",
+    "url": "https://github.com/polar-bear-org/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-27T16:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills for herdr \u2014 run parallel coding agents in git worktrees and watch each Claude Code worker in the herd",
     "id": "nyjin/herdr-skills",
     "language": "Python",
     "name": "nyjin/herdr-skills",
     "stars": 0,
-    "updated_at": "2026-09-27T16:14:50Z",
+    "updated_at": "2026-09-27T16:15:16Z",
     "url": "https://github.com/nyjin/herdr-skills"
   },
   {
@@ -36,15 +144,6 @@
     "url": "https://github.com/HehewCrew/claude-skills"
   },
   {
-    "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
-    "id": "culfin/claude-skills-public",
-    "language": "Shell",
-    "name": "culfin/claude-skills-public",
-    "stars": 0,
-    "updated_at": "2026-09-27T16:10:13Z",
-    "url": "https://github.com/culfin/claude-skills-public"
-  },
-  {
     "description": "Agent Skills by mr-kelly",
     "id": "mr-kelly/skills",
     "language": "JavaScript",
@@ -52,33 +151,6 @@
     "stars": 5,
     "updated_at": "2026-09-27T16:08:52Z",
     "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
-    "id": "FynePool/fanta-carbonara",
-    "language": "Python",
-    "name": "FynePool/fanta-carbonara",
-    "stars": 0,
-    "updated_at": "2026-09-27T16:08:36Z",
-    "url": "https://github.com/FynePool/fanta-carbonara"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69578,
-    "updated_at": "2026-09-27T16:08:31Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Install with /plugin marketplace add polar-b",
-    "id": "polar-bear-org/claude-skills",
-    "language": "Shell",
-    "name": "polar-bear-org/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T16:07:25Z",
-    "url": "https://github.com/polar-bear-org/claude-skills"
   },
   {
     "description": "Open-source AI design system builder. Load it into Claude, ChatGPT, Codex or Cursor: it interviews you, recommends sourc",
@@ -99,15 +171,6 @@
     "url": "https://github.com/auYeCoding/radish-plugins"
   },
   {
-    "description": "Claude Code skill that recommends Architectural decisions for your actual codebase",
-    "id": "angellane/stackfit",
-    "language": "Python",
-    "name": "angellane/stackfit",
-    "stars": 0,
-    "updated_at": "2026-09-27T16:02:47Z",
-    "url": "https://github.com/angellane/stackfit"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T16:00:26Z",
     "url": "https://github.com/postraid/agent-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-27T16:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
@@ -160,15 +214,6 @@
     "stars": 89,
     "updated_at": "2026-09-27T15:58:14Z",
     "url": "https://github.com/blacktop/ipsw-skill"
-  },
-  {
-    "description": "A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer ",
-    "id": "ajitta/Game-Engagement-Retention-Skills",
-    "language": "Shell",
-    "name": "ajitta/Game-Engagement-Retention-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T15:58:08Z",
-    "url": "https://github.com/ajitta/Game-Engagement-Retention-Skills"
   },
   {
     "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 9,
-    "updated_at": "2026-09-27T16:04:16Z",
+    "updated_at": "2026-09-27T16:20:44Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 30851,
     "updated_at": "2026-09-27T14:58:12Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "\u4e13\u4e3a\u4ea7\u54c1\u7ecf\u7406\u8bbe\u8ba1\u7684 AI\u5de5\u5177 Skills\u6280\u80fd\uff0c\u4e00\u952e\u5b9e\u73b0\u5168\u751f\u547d\u5468\u671f\u7684\u4ea7\u54c1\u7ba1\u7406\u5de5\u4f5c\u6d41\u3002skills frame for superPM\uff01",
-    "id": "konglong87/superPM",
-    "language": "JavaScript",
-    "name": "konglong87/superPM",
-    "stars": 71,
-    "updated_at": "2026-09-27T14:57:17Z",
-    "url": "https://github.com/konglong87/superPM"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-09-27T14:55:27Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Outline-Driven Development - opinionated methodology between vibes and specs. AST tooling + context engineering + loop e",
-    "id": "OutlineDriven/outline-driven-development",
-    "language": "Python",
-    "name": "OutlineDriven/outline-driven-development",
-    "stars": 54,
-    "updated_at": "2026-09-27T14:55:25Z",
-    "url": "https://github.com/OutlineDriven/outline-driven-development"
-  },
-  {
-    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
-    "id": "coldteadotai/pr-lens",
-    "language": "TypeScript",
-    "name": "coldteadotai/pr-lens",
-    "stars": 1724,
-    "updated_at": "2026-09-27T14:55:04Z",
-    "url": "https://github.com/coldteadotai/pr-lens"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 54,
-    "updated_at": "2026-09-27T14:52:42Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
   }
 ]
