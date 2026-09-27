@@ -1,12 +1,75 @@
 [
   {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 8,
+    "updated_at": "2026-09-27T15:59:58Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69577,
+    "updated_at": "2026-09-27T15:58:40Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Meta-skill toolkit: scaffold production-grade Agent Skills with versioning, baselines, packaging & release audit \u2014 initi",
     "id": "qiusuo0226/skill-devkit-skill",
     "language": "Python",
     "name": "qiusuo0226/skill-devkit-skill",
     "stars": 2,
-    "updated_at": "2026-09-27T15:48:52Z",
+    "updated_at": "2026-09-27T15:58:50Z",
     "url": "https://github.com/qiusuo0226/skill-devkit-skill"
+  },
+  {
+    "description": "A SKILL.md for ipsw",
+    "id": "blacktop/ipsw-skill",
+    "language": "Shell",
+    "name": "blacktop/ipsw-skill",
+    "stars": 89,
+    "updated_at": "2026-09-27T15:58:14Z",
+    "url": "https://github.com/blacktop/ipsw-skill"
+  },
+  {
+    "description": "A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer ",
+    "id": "ajitta/Game-Engagement-Retention-Skills",
+    "language": "Shell",
+    "name": "ajitta/Game-Engagement-Retention-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-27T15:58:08Z",
+    "url": "https://github.com/ajitta/Game-Engagement-Retention-Skills"
+  },
+  {
+    "description": "Practical plugins for Claude Code, maintained by auYeCoding.",
+    "id": "auYeCoding/radish-plugins",
+    "language": "JavaScript",
+    "name": "auYeCoding/radish-plugins",
+    "stars": 3,
+    "updated_at": "2026-09-27T15:57:44Z",
+    "url": "https://github.com/auYeCoding/radish-plugins"
+  },
+  {
+    "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
+    "id": "CrossRead/scholion",
+    "language": "Python",
+    "name": "CrossRead/scholion",
+    "stars": 3,
+    "updated_at": "2026-09-27T15:56:14Z",
+    "url": "https://github.com/CrossRead/scholion"
+  },
+  {
+    "description": "15 structured AI skills for product & design teams, Discovery to Shipping. Works with Claude, ChatGPT, Gemini.",
+    "id": "designedbythanh/ai-skills-library-product-design",
+    "language": "\u2014",
+    "name": "designedbythanh/ai-skills-library-product-design",
+    "stars": 2,
+    "updated_at": "2026-09-27T15:55:57Z",
+    "url": "https://github.com/designedbythanh/ai-skills-library-product-design"
   },
   {
     "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
@@ -14,8 +77,44 @@
     "language": "Python",
     "name": "FynePool/fanta-carbonara",
     "stars": 0,
-    "updated_at": "2026-09-27T15:47:02Z",
+    "updated_at": "2026-09-27T15:53:49Z",
     "url": "https://github.com/FynePool/fanta-carbonara"
+  },
+  {
+    "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
+    "id": "vaibhavarora14/job-application-agent",
+    "language": "JavaScript",
+    "name": "vaibhavarora14/job-application-agent",
+    "stars": 151,
+    "updated_at": "2026-09-27T15:52:03Z",
+    "url": "https://github.com/vaibhavarora14/job-application-agent"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-09-27T15:49:28Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 247,
+    "updated_at": "2026-09-27T15:49:08Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-27T15:48:56Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Stop your AI agent from lying about tests. Hierarchical engineering loops with machine-checkable proof gates.",
@@ -25,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-09-27T15:47:49Z",
     "url": "https://github.com/winterbim/wincreator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-27T15:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69573,
-    "updated_at": "2026-09-27T15:47:58Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Open-source AI design system builder. Load it into Claude, ChatGPT, Codex or Cursor: it interviews you, recommends sourc",
@@ -207,15 +288,6 @@
     "url": "https://github.com/noahfranklin/gideon"
   },
   {
-    "description": "A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer ",
-    "id": "ajitta/Game-Engagement-Retention-Skills",
-    "language": "Shell",
-    "name": "ajitta/Game-Engagement-Retention-Skills",
-    "stars": 1,
-    "updated_at": "2026-09-27T15:07:44Z",
-    "url": "https://github.com/ajitta/Game-Engagement-Retention-Skills"
-  },
-  {
     "description": "AI Agent \u6280\u80fd\u805a\u5408\u4ed3\uff1a29 \u4e2a\u751f\u4ea7\u7ea7 SKILL.md\uff08\u8de8\u5de5\u5177 + DSH \u517c\u5bb9\uff09\uff5c29 production-grade AI agent skills, cross-tool & DeepSeek Harness compati",
     "id": "xingtu1996/xingtu-skills",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T14:44:03Z",
     "url": "https://github.com/nyjin/herdr-skills"
-  },
-  {
-    "description": "Agent skill for Claude Code, Cursor and Codex to generate adult images, NSFW image-to-video and uncensored edits via Spi",
-    "id": "Spicy-API/nsfw-ai-skill",
-    "language": "Python",
-    "name": "Spicy-API/nsfw-ai-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:42:25Z",
-    "url": "https://github.com/Spicy-API/nsfw-ai-skill"
-  },
-  {
-    "description": "Bilingual (\u4e2d/\u82f1) interpretable model for repairing AI-drafted academic prose. Public methodology, trained coefficients, m",
-    "id": "Shawn200212/humanizer_formal_claude",
-    "language": "\u2014",
-    "name": "Shawn200212/humanizer_formal_claude",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:42:24Z",
-    "url": "https://github.com/Shawn200212/humanizer_formal_claude"
-  },
-  {
-    "description": "Open-source AI agent skills for tai chi sword (\u592a\u6781\u5251) \u2014 selection, safety, technique, legal travel/ownership, health benef",
-    "id": "Jackxu1978/tai-chi-sword-skills",
-    "language": "\u2014",
-    "name": "Jackxu1978/tai-chi-sword-skills",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:41:22Z",
-    "url": "https://github.com/Jackxu1978/tai-chi-sword-skills"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 23,
-    "updated_at": "2026-09-27T15:23:48Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-27T14:39:20Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Styled Markdown (.smd): Markdown for developers, PMs and AI agents \u2014 callouts, colors, diagrams, decisions, risks, APIs,",
-    "id": "bislink360/styled-markdown",
-    "language": "TypeScript",
-    "name": "bislink360/styled-markdown",
-    "stars": 0,
-    "updated_at": "2026-09-27T15:13:20Z",
-    "url": "https://github.com/bislink360/styled-markdown"
-  },
-  {
-    "description": "Claude Code plugin marketplace by DevOhMyCode \u2014 scanner: local, profile-driven repository scans",
-    "id": "devohmycode/claude-plugins",
-    "language": "JavaScript",
-    "name": "devohmycode/claude-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-27T14:38:26Z",
-    "url": "https://github.com/devohmycode/claude-plugins"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-09-27T14:37:26Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   }
 ]
