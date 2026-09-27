@@ -1,12 +1,57 @@
 [
   {
+    "description": "Keeps AI-generated UI consistent with your project's own component vocabulary and prop conventions, while the code is be",
+    "id": "kamenkurtev/ui-consistency",
+    "language": "Shell",
+    "name": "kamenkurtev/ui-consistency",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:15:06Z",
+    "url": "https://github.com/kamenkurtev/ui-consistency"
+  },
+  {
+    "description": "Production-grade workflow framework for AI coding agents that automatically inspect, ground, validate, and generate proj",
+    "id": "ZxWyvern/unity-workflow-kit",
+    "language": "Python",
+    "name": "ZxWyvern/unity-workflow-kit",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:14:57Z",
+    "url": "https://github.com/ZxWyvern/unity-workflow-kit"
+  },
+  {
+    "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
+    "id": "shimo4228/claude-harness",
+    "language": "Python",
+    "name": "shimo4228/claude-harness",
+    "stars": 3,
+    "updated_at": "2026-09-27T05:13:34Z",
+    "url": "https://github.com/shimo4228/claude-harness"
+  },
+  {
     "description": "Cairn Verify: a Claude Code skill that checks what your coding agent said it did \u2014 fixed, tested, removed, wired \u2014 claim",
     "id": "nicuk/did-ai-really-fix-it",
     "language": "Python",
     "name": "nicuk/did-ai-really-fix-it",
     "stars": 0,
-    "updated_at": "2026-09-27T04:59:32Z",
+    "updated_at": "2026-09-27T05:11:31Z",
     "url": "https://github.com/nicuk/did-ai-really-fix-it"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-09-27T05:11:03Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "10 open OpenClaw agent skills for DeFi intelligence: Trail Heat, FarmScore, risk, yield, swaps, perps. Read-only, zero-c",
+    "id": "Parmasanandgarlic/farmdash-openclaw-skills",
+    "language": "TypeScript",
+    "name": "Parmasanandgarlic/farmdash-openclaw-skills",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:10:25Z",
+    "url": "https://github.com/Parmasanandgarlic/farmdash-openclaw-skills"
   },
   {
     "description": "Cairn Signals: a Claude Code skill that checks whether an AI product's numbers are real: confidence scores, cost meters,",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "nicuk/llm-silent-failure-audit",
     "stars": 0,
-    "updated_at": "2026-09-27T04:59:12Z",
+    "updated_at": "2026-09-27T05:10:15Z",
     "url": "https://github.com/nicuk/llm-silent-failure-audit"
   },
   {
@@ -23,8 +68,89 @@
     "language": "Python",
     "name": "nicuk/claude-md-memory-architecture",
     "stars": 0,
-    "updated_at": "2026-09-27T04:59:10Z",
+    "updated_at": "2026-09-27T05:10:10Z",
     "url": "https://github.com/nicuk/claude-md-memory-architecture"
+  },
+  {
+    "description": "Cairn: the principles, evidence and design decisions behind three Claude Code plugins that check the claims AI systems m",
+    "id": "nicuk/cairn-principles",
+    "language": "Python",
+    "name": "nicuk/cairn-principles",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:10:06Z",
+    "url": "https://github.com/nicuk/cairn-principles"
+  },
+  {
+    "description": "Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig",
+    "id": "dinhanhthi/coding-friend",
+    "language": "TypeScript",
+    "name": "dinhanhthi/coding-friend",
+    "stars": 3,
+    "updated_at": "2026-09-27T05:10:11Z",
+    "url": "https://github.com/dinhanhthi/coding-friend"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-27T05:12:04Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69515,
+    "updated_at": "2026-09-27T05:14:24Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
+    "id": "mblode/agent-skills",
+    "language": "Python",
+    "name": "mblode/agent-skills",
+    "stars": 130,
+    "updated_at": "2026-09-27T05:06:48Z",
+    "url": "https://github.com/mblode/agent-skills"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-09-27T05:05:33Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 316,
+    "updated_at": "2026-09-27T05:05:17Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:03:43Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-27T05:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -63,15 +189,6 @@
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
-    "description": "Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig",
-    "id": "dinhanhthi/coding-friend",
-    "language": "TypeScript",
-    "name": "dinhanhthi/coding-friend",
-    "stars": 3,
-    "updated_at": "2026-09-27T04:55:50Z",
-    "url": "https://github.com/dinhanhthi/coding-friend"
-  },
-  {
     "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
     "id": "AnotherSava/claude-code-common",
     "language": "Python",
@@ -79,33 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T04:54:55Z",
     "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-27T04:59:46Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69515,
-    "updated_at": "2026-09-27T04:54:37Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-09-27T04:57:06Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "My Nix system configs!",
@@ -126,15 +216,6 @@
     "url": "https://github.com/bislink360/styled-markdown"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-27T04:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code plugins and skills: a Remotion promo video pipeline, production deploy pipelines, Codex loops, Google Stitch",
     "id": "tomerhayundev/skills",
     "language": "JavaScript",
@@ -142,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T04:45:05Z",
     "url": "https://github.com/tomerhayundev/skills"
-  },
-  {
-    "description": "Cairn: the principles, evidence and design decisions behind three Claude Code plugins that check the claims AI systems m",
-    "id": "nicuk/cairn-principles",
-    "language": "Python",
-    "name": "nicuk/cairn-principles",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:44:28Z",
-    "url": "https://github.com/nicuk/cairn-principles"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 316,
-    "updated_at": "2026-09-27T04:58:57Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-27T04:18:36Z",
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:17:51Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:17:49Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:17:34Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-09-27T04:17:33Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:17:28Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:17:25Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:17:24Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
   }
 ]
