@@ -1,12 +1,84 @@
 [
   {
+    "description": "Finds, scores, and ranks the best library, SDK, or tool for your exact stack \u2014 no Reddit threads, no outdated blogs. 4-t",
+    "id": "Magithar/SKILLmama",
+    "language": "TypeScript",
+    "name": "Magithar/SKILLmama",
+    "stars": 7,
+    "updated_at": "2026-09-27T01:59:51Z",
+    "url": "https://github.com/Magithar/SKILLmama"
+  },
+  {
+    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
+    "id": "illodev/drawn-by-code",
+    "language": "JavaScript",
+    "name": "illodev/drawn-by-code",
+    "stars": 9,
+    "updated_at": "2026-09-27T01:54:43Z",
+    "url": "https://github.com/illodev/drawn-by-code"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:54:17Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-09-27T01:53:31Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:53:09Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
     "description": "\u6267\u4e1a\u5f8b\u5e08\u5199\u7684 Claude Code \u6280\u80fd\uff1a\u8d77\u8349\u4e2d\u56fd\u6cd5\u5f8b\u6587\u4e66\u3002\u4e24\u6b65\u9a8c\u8bc1\u6cd5\uff08\u5bf9\u7167\u5408\u540c\u539f\u6587\uff0b\u5546\u4e1a\u5229\u76ca\u5206\u6790\uff09\uff0c\u52a8\u7b14\u524d\u5f3a\u5236\u68c0\u7d22\u5b98\u65b9\u529e\u6848\u6307\u5f15\uff0c\u9ed8\u8ba4\u8f93\u51fa .docx\u3002",
     "id": "xtzhych-beep/legal-drafting-skill",
     "language": "\u2014",
     "name": "xtzhych-beep/legal-drafting-skill",
     "stars": 0,
-    "updated_at": "2026-09-27T01:44:36Z",
+    "updated_at": "2026-09-27T01:52:32Z",
     "url": "https://github.com/xtzhych-beep/legal-drafting-skill"
+  },
+  {
+    "description": "Personal skills marketplace \u2014 add it once, install any plugin for terminal, devops... and whatever else comes up",
+    "id": "gfargo/skills",
+    "language": "TypeScript",
+    "name": "gfargo/skills",
+    "stars": 2,
+    "updated_at": "2026-09-27T01:52:10Z",
+    "url": "https://github.com/gfargo/skills"
+  },
+  {
+    "description": "Claude Code plugin + skill: turn a short brief into a looping kinetic-typography launch video. One self-contained HTML f",
+    "id": "Kimeur/motion-launch-videos",
+    "language": "HTML",
+    "name": "Kimeur/motion-launch-videos",
+    "stars": 0,
+    "updated_at": "2026-09-27T01:52:09Z",
+    "url": "https://github.com/Kimeur/motion-launch-videos"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 37,
+    "updated_at": "2026-09-27T01:50:15Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
     "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
@@ -14,8 +86,44 @@
     "language": "Go",
     "name": "ralvarezdev/ralvaskills",
     "stars": 2,
-    "updated_at": "2026-09-27T01:42:34Z",
+    "updated_at": "2026-09-27T01:49:40Z",
     "url": "https://github.com/ralvarezdev/ralvaskills"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 22,
+    "updated_at": "2026-09-27T01:52:52Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-09-27T01:47:57Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "A local workspace for security findings. Review findings from Hermes or other agents, inspect evidence, and export repor",
+    "id": "0xtbug/Recat",
+    "language": "TypeScript",
+    "name": "0xtbug/Recat",
+    "stars": 4,
+    "updated_at": "2026-09-27T01:46:13Z",
+    "url": "https://github.com/0xtbug/Recat"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-27T01:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -61,15 +169,6 @@
     "stars": 1718,
     "updated_at": "2026-09-27T01:37:12Z",
     "url": "https://github.com/coldteadotai/pr-lens"
-  },
-  {
-    "description": "A local workspace for security findings. Review findings from Hermes or other agents, inspect evidence, and export repor",
-    "id": "0xtbug/Recat",
-    "language": "TypeScript",
-    "name": "0xtbug/Recat",
-    "stars": 4,
-    "updated_at": "2026-09-27T01:35:46Z",
-    "url": "https://github.com/0xtbug/Recat"
   },
   {
     "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
@@ -124,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T01:30:21Z",
     "url": "https://github.com/ai4science-skills/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-27T01:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -324,15 +414,6 @@
     "url": "https://github.com/inkatze/planwright"
   },
   {
-    "description": "Animation drawn by code with Claude \u2014 no AI video: an engine, styles and skills that learn from every render, all in the",
-    "id": "illodev/drawn-by-code",
-    "language": "JavaScript",
-    "name": "illodev/drawn-by-code",
-    "stars": 9,
-    "updated_at": "2026-09-27T01:01:57Z",
-    "url": "https://github.com/illodev/drawn-by-code"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -347,7 +428,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-27T01:40:48Z",
+    "updated_at": "2026-09-27T01:49:36Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T00:55:54Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
-    "id": "jiawood2006/hermes-skills",
-    "language": "Python",
-    "name": "jiawood2006/hermes-skills",
-    "stars": 2,
-    "updated_at": "2026-09-27T00:55:18Z",
-    "url": "https://github.com/jiawood2006/hermes-skills"
-  },
-  {
-    "description": "Postraid agent skill: practical workflows, examples and account-scoped MCP guidance. From product brief to a reviewed so",
-    "id": "postraid/agent-skill",
-    "language": "\u2014",
-    "name": "postraid/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:51:49Z",
-    "url": "https://github.com/postraid/agent-skill"
-  },
-  {
-    "description": "Portable SKILL.md library for Claude Code, Codex-compatible agents, BACH, and local-first LLM workflows",
-    "id": "ellmos-ai/skills",
-    "language": "Python",
-    "name": "ellmos-ai/skills",
-    "stars": 6,
-    "updated_at": "2026-09-27T01:44:07Z",
-    "url": "https://github.com/ellmos-ai/skills"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:51:20Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Liftaven agent skill: practical workflows, examples and account-scoped MCP guidance. SEO research that leads to reviewed",
-    "id": "liftaven/agent-skill",
-    "language": "\u2014",
-    "name": "liftaven/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:49:10Z",
-    "url": "https://github.com/liftaven/agent-skill"
-  },
-  {
-    "description": "Facehunch agent skill: practical workflows, examples and account-scoped MCP guidance. Photo-search context with clear li",
-    "id": "facehunch/agent-skill",
-    "language": "\u2014",
-    "name": "facehunch/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:48:54Z",
-    "url": "https://github.com/facehunch/agent-skill"
-  },
-  {
-    "description": "Demovela agent skill: practical workflows, examples and account-scoped MCP guidance. Product demos and marketing videos ",
-    "id": "demovela/agent-skill",
-    "language": "\u2014",
-    "name": "demovela/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:48:53Z",
-    "url": "https://github.com/demovela/agent-skill"
-  },
-  {
-    "description": "Charmshots agent skill: practical workflows, examples and account-scoped MCP guidance. AI portraits for dating profiles ",
-    "id": "charmshots/agent-skill",
-    "language": "\u2014",
-    "name": "charmshots/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:48:51Z",
-    "url": "https://github.com/charmshots/agent-skill"
-  },
-  {
-    "description": "Adlane agent skill: practical workflows, examples and account-scoped MCP guidance. A clearer next move in Google and Met",
-    "id": "adlane-app/agent-skill",
-    "language": "\u2014",
-    "name": "adlane-app/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T00:48:49Z",
-    "url": "https://github.com/adlane-app/agent-skill"
   }
 ]
