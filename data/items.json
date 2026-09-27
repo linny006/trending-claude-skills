@@ -1,5 +1,122 @@
 [
   {
+    "description": "A Claude Agent Skill that shows a live progress bar, step timeline and ETA for long-running agent tasks. \u8ba9 Claude \u957f\u4efb\u52a1\u6709\u5b9e\u65f6",
+    "id": "bhu0345/claude-live-progress-skill",
+    "language": "\u2014",
+    "name": "bhu0345/claude-live-progress-skill",
+    "stars": 1,
+    "updated_at": "2026-09-27T05:29:56Z",
+    "url": "https://github.com/bhu0345/claude-live-progress-skill"
+  },
+  {
+    "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
+    "id": "zenstory-ai/drama-skills",
+    "language": "Python",
+    "name": "zenstory-ai/drama-skills",
+    "stars": 2288,
+    "updated_at": "2026-09-27T05:29:26Z",
+    "url": "https://github.com/zenstory-ai/drama-skills"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly, in Claude, ChatGPT, Codex, Copilot and more.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:29:20Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "Cairn: the principles, evidence and design decisions behind three Claude Code plugins that check the claims AI systems m",
+    "id": "nicuk/cairn-principles",
+    "language": "Python",
+    "name": "nicuk/cairn-principles",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:29:10Z",
+    "url": "https://github.com/nicuk/cairn-principles"
+  },
+  {
+    "description": "Cairn Signals: a Claude Code skill that checks whether an AI product's numbers are real: confidence scores, cost meters,",
+    "id": "nicuk/llm-silent-failure-audit",
+    "language": "Python",
+    "name": "nicuk/llm-silent-failure-audit",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:29:08Z",
+    "url": "https://github.com/nicuk/llm-silent-failure-audit"
+  },
+  {
+    "description": "Cairn Memory: a Claude Code skill that keeps CLAUDE.md and agent memory cheap and true. Stops Claude forgetting, re-read",
+    "id": "nicuk/claude-md-memory-architecture",
+    "language": "Python",
+    "name": "nicuk/claude-md-memory-architecture",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:29:06Z",
+    "url": "https://github.com/nicuk/claude-md-memory-architecture"
+  },
+  {
+    "description": "Cairn Verify: a Claude Code skill that checks what your coding agent said it did \u2014 fixed, tested, removed, wired \u2014 claim",
+    "id": "nicuk/did-ai-really-fix-it",
+    "language": "Python",
+    "name": "nicuk/did-ai-really-fix-it",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:28:17Z",
+    "url": "https://github.com/nicuk/did-ai-really-fix-it"
+  },
+  {
+    "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
+    "id": "shimo4228/claude-harness",
+    "language": "Python",
+    "name": "shimo4228/claude-harness",
+    "stars": 3,
+    "updated_at": "2026-09-27T05:26:34Z",
+    "url": "https://github.com/shimo4228/claude-harness"
+  },
+  {
+    "description": "Styled Markdown (.smd): Markdown for developers, PMs and AI agents \u2014 callouts, colors, diagrams, decisions, risks, APIs,",
+    "id": "bislink360/styled-markdown",
+    "language": "TypeScript",
+    "name": "bislink360/styled-markdown",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:29:54Z",
+    "url": "https://github.com/bislink360/styled-markdown"
+  },
+  {
+    "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
+    "id": "savanna0425/skillhot",
+    "language": "JavaScript",
+    "name": "savanna0425/skillhot",
+    "stars": 37,
+    "updated_at": "2026-09-27T05:26:07Z",
+    "url": "https://github.com/savanna0425/skillhot"
+  },
+  {
+    "description": "Agent skill that sets up website conversion tracking from scratch, diagnoses why existing tracking is missing, broken or",
+    "id": "ConversionKit/conversion-tracking",
+    "language": "JavaScript",
+    "name": "ConversionKit/conversion-tracking",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:17:16Z",
+    "url": "https://github.com/ConversionKit/conversion-tracking"
+  },
+  {
+    "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
+    "id": "StanimirTenev/baton",
+    "language": "Python",
+    "name": "StanimirTenev/baton",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:15:31Z",
+    "url": "https://github.com/StanimirTenev/baton"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-27T05:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Keeps AI-generated UI consistent with your project's own component vocabulary and prop conventions, while the code is be",
     "id": "kamenkurtev/ui-consistency",
     "language": "Shell",
@@ -18,22 +135,13 @@
     "url": "https://github.com/ZxWyvern/unity-workflow-kit"
   },
   {
-    "description": "Curated, MIT-licensed Agent Skills, subagents & rules from shimo4228's harness \u2014 open Agent Skills standard, not Claude-",
-    "id": "shimo4228/claude-harness",
-    "language": "Python",
-    "name": "shimo4228/claude-harness",
-    "stars": 3,
-    "updated_at": "2026-09-27T05:13:34Z",
-    "url": "https://github.com/shimo4228/claude-harness"
-  },
-  {
-    "description": "Cairn Verify: a Claude Code skill that checks what your coding agent said it did \u2014 fixed, tested, removed, wired \u2014 claim",
-    "id": "nicuk/did-ai-really-fix-it",
-    "language": "Python",
-    "name": "nicuk/did-ai-really-fix-it",
-    "stars": 0,
-    "updated_at": "2026-09-27T05:11:31Z",
-    "url": "https://github.com/nicuk/did-ai-really-fix-it"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69516,
+    "updated_at": "2026-09-27T05:14:24Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -41,7 +149,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-09-27T05:11:03Z",
+    "updated_at": "2026-09-27T05:25:07Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -52,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T05:10:25Z",
     "url": "https://github.com/Parmasanandgarlic/farmdash-openclaw-skills"
-  },
-  {
-    "description": "Cairn Signals: a Claude Code skill that checks whether an AI product's numbers are real: confidence scores, cost meters,",
-    "id": "nicuk/llm-silent-failure-audit",
-    "language": "Python",
-    "name": "nicuk/llm-silent-failure-audit",
-    "stars": 0,
-    "updated_at": "2026-09-27T05:10:15Z",
-    "url": "https://github.com/nicuk/llm-silent-failure-audit"
-  },
-  {
-    "description": "Cairn Memory: a Claude Code skill that keeps CLAUDE.md and agent memory cheap and true. Stops Claude forgetting, re-read",
-    "id": "nicuk/claude-md-memory-architecture",
-    "language": "Python",
-    "name": "nicuk/claude-md-memory-architecture",
-    "stars": 0,
-    "updated_at": "2026-09-27T05:10:10Z",
-    "url": "https://github.com/nicuk/claude-md-memory-architecture"
-  },
-  {
-    "description": "Cairn: the principles, evidence and design decisions behind three Claude Code plugins that check the claims AI systems m",
-    "id": "nicuk/cairn-principles",
-    "language": "Python",
-    "name": "nicuk/cairn-principles",
-    "stars": 0,
-    "updated_at": "2026-09-27T05:10:06Z",
-    "url": "https://github.com/nicuk/cairn-principles"
   },
   {
     "description": "Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig",
@@ -95,17 +176,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-27T05:12:04Z",
+    "updated_at": "2026-09-27T05:29:50Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69515,
-    "updated_at": "2026-09-27T05:14:24Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T05:03:43Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 48,
-    "updated_at": "2026-09-27T05:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -205,15 +268,6 @@
     "stars": 462,
     "updated_at": "2026-09-27T04:51:44Z",
     "url": "https://github.com/malob/nix-config"
-  },
-  {
-    "description": "Styled Markdown (.smd): Markdown for developers, PMs and AI agents \u2014 callouts, colors, diagrams, decisions, risks, APIs,",
-    "id": "bislink360/styled-markdown",
-    "language": "TypeScript",
-    "name": "bislink360/styled-markdown",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:51:15Z",
-    "url": "https://github.com/bislink360/styled-markdown"
   },
   {
     "description": "Claude Code plugins and skills: a Remotion promo video pipeline, production deploy pipelines, Codex loops, Google Stitch",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T04:21:43Z",
     "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:20:56Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:20:30Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-09-27T04:20:05Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 92,
-    "updated_at": "2026-09-27T04:19:39Z",
-    "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 3,
-    "updated_at": "2026-09-27T04:19:32Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-09-27T04:18:36Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
