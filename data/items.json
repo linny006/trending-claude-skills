@@ -1,12 +1,21 @@
 [
   {
-    "description": "Sega Master System game dev & porting (devkitSMS) \u2014 a Claude Skill: Turn an idea, or an existing game to port, into a **",
-    "id": "haroldo-ok/sega-master-system-skill-for-claude",
-    "language": "C",
-    "name": "haroldo-ok/sega-master-system-skill-for-claude",
-    "stars": 7,
-    "updated_at": "2026-09-27T11:28:20Z",
-    "url": "https://github.com/haroldo-ok/sega-master-system-skill-for-claude"
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-09-27T11:36:30Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-09-27T11:35:13Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
     "description": "4 AI skills for college students \u2014 STAR experience cards, exam cram planner, lunch picker, polite message rewriter. Work",
@@ -14,8 +23,53 @@
     "language": "\u2014",
     "name": "hwwwaan/steal-these-skills",
     "stars": 0,
-    "updated_at": "2026-09-27T11:26:23Z",
+    "updated_at": "2026-09-27T11:31:25Z",
     "url": "https://github.com/hwwwaan/steal-these-skills"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-27T11:31:10Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-27T11:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code skill: edit personal/family vlogs locally on a Mac \u2014 ingest, beat-aware EDL, render, automated QC",
+    "id": "ivanpastier-netizen/vlog-cut",
+    "language": "Python",
+    "name": "ivanpastier-netizen/vlog-cut",
+    "stars": 0,
+    "updated_at": "2026-09-27T11:30:09Z",
+    "url": "https://github.com/ivanpastier-netizen/vlog-cut"
+  },
+  {
+    "description": "Claude Code skill: turn long YouTube podcasts into a ~1-hour personal highlight cut picked for you",
+    "id": "ivanpastier-netizen/podcast-cut",
+    "language": "Python",
+    "name": "ivanpastier-netizen/podcast-cut",
+    "stars": 0,
+    "updated_at": "2026-09-27T11:30:03Z",
+    "url": "https://github.com/ivanpastier-netizen/podcast-cut"
+  },
+  {
+    "description": "Sega Master System game dev & porting (devkitSMS) \u2014 a Claude Skill: Turn an idea, or an existing game to port, into a **",
+    "id": "haroldo-ok/sega-master-system-skill-for-claude",
+    "language": "C",
+    "name": "haroldo-ok/sega-master-system-skill-for-claude",
+    "stars": 7,
+    "updated_at": "2026-09-27T11:28:20Z",
+    "url": "https://github.com/haroldo-ok/sega-master-system-skill-for-claude"
   },
   {
     "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
@@ -72,15 +126,6 @@
     "url": "https://github.com/XXXG00W0/russian-lyrics-romanization"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-27T11:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code skills for herdr \u2014 run parallel coding agents in git worktrees and watch each Claude Code worker in the herd",
     "id": "nyjin/herdr-skills",
     "language": "Python",
@@ -117,21 +162,12 @@
     "url": "https://github.com/prtvbiz-design/prtv-skills"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-09-27T11:11:50Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-27T11:08:47Z",
+    "updated_at": "2026-09-27T11:34:53Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -346,7 +382,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69557,
+    "stars": 69559,
     "updated_at": "2026-09-27T10:22:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T10:16:05Z",
     "url": "https://github.com/caucasianwalnutkennedy79/fake-foreign-health-audit"
-  },
-  {
-    "description": "Track developer roadmaps offline with progress tracking, spaced repetition, and career analytics\u2014no account or internet ",
-    "id": "Itzzni9454/skill-trail",
-    "language": "TypeScript",
-    "name": "Itzzni9454/skill-trail",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:16:03Z",
-    "url": "https://github.com/Itzzni9454/skill-trail"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:15:05Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-09-27T10:14:53Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-09-27T10:14:21Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
   }
 ]
