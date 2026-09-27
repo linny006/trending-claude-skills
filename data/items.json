@@ -1,5 +1,41 @@
 [
   {
+    "description": "houki MCP family \u3092\u6a2a\u65ad\u3057\u3066\u65e5\u672c\u306e\u6cd5\u4ee4\u30fb\u901a\u9054\u3092\u8abf\u3079\u308b\u3068\u304d\u306e\u884c\u52d5\u6307\u91dd\u3092 Claude \u306b\u4e0e\u3048\u308b Claude Skill\u3002 Claude Skill for researching Japanese law across th",
+    "id": "shuji-bonji/houki-research-skill",
+    "language": "JavaScript",
+    "name": "shuji-bonji/houki-research-skill",
+    "stars": 0,
+    "updated_at": "2026-09-27T22:34:25Z",
+    "url": "https://github.com/shuji-bonji/houki-research-skill"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Rust",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 9,
+    "updated_at": "2026-09-27T22:33:08Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
+    "id": "FynePool/fanta-carbonara",
+    "language": "Python",
+    "name": "FynePool/fanta-carbonara",
+    "stars": 0,
+    "updated_at": "2026-09-27T22:32:24Z",
+    "url": "https://github.com/FynePool/fanta-carbonara"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-27T22:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
     "id": "shortcuts/radin",
     "language": "Shell",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69600,
-    "updated_at": "2026-09-27T22:27:19Z",
+    "updated_at": "2026-09-27T22:31:17Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "hraness/oh",
     "stars": 4,
-    "updated_at": "2026-09-27T22:24:56Z",
+    "updated_at": "2026-09-27T22:30:34Z",
     "url": "https://github.com/hraness/oh"
   },
   {
@@ -90,6 +126,15 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
+    "description": "A skill framework for coding agents that sizes the job first, so a typo gets fixed and a new subsystem gets a design. Su",
+    "id": "MorganOnGitHub/tackle",
+    "language": "JavaScript",
+    "name": "MorganOnGitHub/tackle",
+    "stars": 0,
+    "updated_at": "2026-09-27T22:18:26Z",
+    "url": "https://github.com/MorganOnGitHub/tackle"
+  },
+  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -117,15 +162,6 @@
     "url": "https://github.com/gabriel-delavaud/skillscout"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-27T22:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -149,7 +185,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-27T22:26:50Z",
+    "updated_at": "2026-09-27T22:32:04Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T21:48:48Z",
     "url": "https://github.com/Itzzni9454/skill-trail"
-  },
-  {
-    "description": "\u9274\u522b\u836f\u54c1\u4fdd\u5065\u54c1\u662f\u5426\u4e3a\u5047\u6d0b\u8d27\u7684OpenClaw\u6280\u80fd\uff0c\u5feb\u901f\u8bc6\u522b\u4f2a\u9020\u6d0b\u54c1\u724c\u8eab\u4efd\u7684\u4ea7\u54c1\u3002",
-    "id": "caucasianwalnutkennedy79/fake-foreign-health-audit",
-    "language": "Python",
-    "name": "caucasianwalnutkennedy79/fake-foreign-health-audit",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:48:47Z",
-    "url": "https://github.com/caucasianwalnutkennedy79/fake-foreign-health-audit"
-  },
-  {
-    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
-    "id": "FynePool/fanta-carbonara",
-    "language": "Python",
-    "name": "FynePool/fanta-carbonara",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:48:33Z",
-    "url": "https://github.com/FynePool/fanta-carbonara"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:47:49Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-09-27T21:47:37Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
   }
 ]
