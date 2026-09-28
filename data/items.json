@@ -1,21 +1,147 @@
 [
   {
-    "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
-    "id": "qikairo7/tencent-oss-suite",
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
     "language": "Python",
-    "name": "qikairo7/tencent-oss-suite",
+    "name": "xr843/Master-skill",
+    "stars": 436,
+    "updated_at": "2026-09-28T13:00:07Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Project starting kit: method documents, GitHub scaffolding, and specification-to-board scripts. Stack-agnostic core, one",
+    "id": "romain-nicod/kickoff",
+    "language": "Python",
+    "name": "romain-nicod/kickoff",
+    "stars": 1,
+    "updated_at": "2026-09-28T12:59:19Z",
+    "url": "https://github.com/romain-nicod/kickoff"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 906,
+    "updated_at": "2026-09-28T13:00:10Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Public repo for skills",
+    "id": "igorbeethetech/skills",
+    "language": "JavaScript",
+    "name": "igorbeethetech/skills",
+    "stars": 1,
+    "updated_at": "2026-09-28T12:57:29Z",
+    "url": "https://github.com/igorbeethetech/skills"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
     "stars": 0,
-    "updated_at": "2026-09-28T12:44:45Z",
-    "url": "https://github.com/qikairo7/tencent-oss-suite"
+    "updated_at": "2026-09-28T12:57:04Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "\ud83e\udde0 Modular skills for autonomous AI agents. Production-ready Docker & Kubernetes tooling with built-in validators. Instal",
+    "id": "obeone/claude-skills",
+    "language": "Python",
+    "name": "obeone/claude-skills",
+    "stars": 4,
+    "updated_at": "2026-09-28T12:54:35Z",
+    "url": "https://github.com/obeone/claude-skills"
+  },
+  {
+    "description": "Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.",
+    "id": "devohmycode/skills-atlas",
+    "language": "TypeScript",
+    "name": "devohmycode/skills-atlas",
+    "stars": 1,
+    "updated_at": "2026-09-28T12:54:06Z",
+    "url": "https://github.com/devohmycode/skills-atlas"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-09-28T12:53:20Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69617,
-    "updated_at": "2026-09-28T12:42:47Z",
+    "stars": 69616,
+    "updated_at": "2026-09-28T12:59:44Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
+    "id": "qikairo7/tencent-oss-suite",
+    "language": "Python",
+    "name": "qikairo7/tencent-oss-suite",
+    "stars": 0,
+    "updated_at": "2026-09-28T12:50:17Z",
+    "url": "https://github.com/qikairo7/tencent-oss-suite"
+  },
+  {
+    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
+    "id": "Sylad/claude-code-codex",
+    "language": "HTML",
+    "name": "Sylad/claude-code-codex",
+    "stars": 0,
+    "updated_at": "2026-09-28T12:49:25Z",
+    "url": "https://github.com/Sylad/claude-code-codex"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-28T12:47:43Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-28T12:48:50Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-09-28T12:46:50Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Claude Code skill for React Bits (reactbits.dev) \u2014 fetches real component source from the live registry instead of recal",
+    "id": "Philotheephilix/reactbits.dev-skill",
+    "language": "HTML",
+    "name": "Philotheephilix/reactbits.dev-skill",
+    "stars": 2,
+    "updated_at": "2026-09-28T12:45:44Z",
+    "url": "https://github.com/Philotheephilix/reactbits.dev-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-28T12:45:35Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Source-verified Flutter/Dart skills for Claude Code (Flutter 3.47 / Dart 3.13): architecture, state management, testing,",
@@ -45,15 +171,6 @@
     "url": "https://github.com/codeswithroh/tastemaker"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-28T12:44:27Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "Unified 6-phase execution discipline + persistent cross-session memory protocol for AI agents (installable via skills.sh",
     "id": "hoshiyomiX/stellar-trail",
     "language": "Shell",
@@ -68,35 +185,8 @@
     "language": "TypeScript",
     "name": "tmj-90/gaffer",
     "stars": 2,
-    "updated_at": "2026-09-28T12:32:16Z",
+    "updated_at": "2026-09-28T12:49:12Z",
     "url": "https://github.com/tmj-90/gaffer"
-  },
-  {
-    "description": "Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.",
-    "id": "devohmycode/skills-atlas",
-    "language": "TypeScript",
-    "name": "devohmycode/skills-atlas",
-    "stars": 1,
-    "updated_at": "2026-09-28T12:31:23Z",
-    "url": "https://github.com/devohmycode/skills-atlas"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-28T12:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-28T12:42:07Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "AI Resilience skill: find silent failures in AI workflows from business invariants and prove them with faultkit",
@@ -130,7 +220,7 @@
     "id": "alexgreensh/anidoodle",
     "language": "TypeScript",
     "name": "alexgreensh/anidoodle",
-    "stars": 629,
+    "stars": 630,
     "updated_at": "2026-09-28T12:21:12Z",
     "url": "https://github.com/alexgreensh/anidoodle"
   },
@@ -140,7 +230,7 @@
     "language": "Python",
     "name": "ehzawad/codex-council",
     "stars": 1,
-    "updated_at": "2026-09-28T12:19:30Z",
+    "updated_at": "2026-09-28T12:46:16Z",
     "url": "https://github.com/ehzawad/codex-council"
   },
   {
@@ -234,15 +324,6 @@
     "url": "https://github.com/tomaszboloz/SkillSync"
   },
   {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-09-28T12:45:12Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
     "description": "A curated list of Agent Skills for SEO. Technical audits, keyword research, content briefs, schema, GEO and AI visibilit",
     "id": "RankSpotAI/awesome-seo-agent-skills",
     "language": "Python",
@@ -250,15 +331,6 @@
     "stars": 66,
     "updated_at": "2026-09-28T12:07:38Z",
     "url": "https://github.com/RankSpotAI/awesome-seo-agent-skills"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 436,
-    "updated_at": "2026-09-28T12:05:32Z",
-    "url": "https://github.com/xr843/Master-skill"
   },
   {
     "description": "Mini Program Engineering Skill Suite is an Agent Skill suite for evidence\u2011first mini\u2011program development. It helps agent",
@@ -360,15 +432,6 @@
     "url": "https://github.com/aaamaxito-prog/deadeye"
   },
   {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 0,
-    "updated_at": "2026-09-28T12:40:21Z",
-    "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
     "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
     "id": "Gonadotrophic-tangent41/ux-ui-skills",
     "language": "\u2014",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T11:44:02Z",
     "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:43:55Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-28T11:43:20Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 1,
-    "updated_at": "2026-09-28T11:42:50Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:42:49Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:41:32Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:41:18Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 906,
-    "updated_at": "2026-09-28T12:43:22Z",
-    "url": "https://github.com/reticlehq/reticle"
   }
 ]
