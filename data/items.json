@@ -1,12 +1,93 @@
 [
   {
+    "description": "Slash commands for Claude Code \u2014 manage GitHub issues and pull requests, one focused workflow at a time.",
+    "id": "claude-contrib/claude-skills",
+    "language": "jq",
+    "name": "claude-contrib/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-28T02:29:29Z",
+    "url": "https://github.com/claude-contrib/claude-skills"
+  },
+  {
+    "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (\u89c6\u9891\u89e3\u8bf4): scene detection, ASR, VLM, script, T",
+    "id": "zenstory-ai/video-recap-skills",
+    "language": "Python",
+    "name": "zenstory-ai/video-recap-skills",
+    "stars": 539,
+    "updated_at": "2026-09-28T02:29:16Z",
+    "url": "https://github.com/zenstory-ai/video-recap-skills"
+  },
+  {
+    "description": "A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true.",
+    "id": "nhhthong/clio",
+    "language": "Shell",
+    "name": "nhhthong/clio",
+    "stars": 2,
+    "updated_at": "2026-09-28T02:28:20Z",
+    "url": "https://github.com/nhhthong/clio"
+  },
+  {
+    "description": "\u4e2a\u4eba agent skill \u5408\u96c6 \u00b7 40 \u4e2a skill\uff1a\u6587\u6863\u5904\u7406 / \u8f6f\u4ef6\u5f00\u53d1 / \u8bbe\u8ba1\u521b\u610f / \u79d1\u7814\u5b66\u672f\u3002\u542b\u5f00\u6e90\u514b\u9686\u3001\u53d7\u9650\u91cd\u5199\u4e0e\u539f\u521b\u5b9a\u5236\u3002",
+    "id": "Andyt2666/agent-skills",
+    "language": "Python",
+    "name": "Andyt2666/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:26:04Z",
+    "url": "https://github.com/Andyt2666/agent-skills"
+  },
+  {
+    "description": "Downloadable agent skills for AI coding assistants \u2014 landing page replication, WebGL Three.js backgrounds, Doubao TTS & ",
+    "id": "lizliz404/agent-skills",
+    "language": "Python",
+    "name": "lizliz404/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:21:38Z",
+    "url": "https://github.com/lizliz404/agent-skills"
+  },
+  {
+    "description": "Sistema de governan\u00e7a de tokens, mem\u00f3ria persistente e registro de sess\u00f5es para Claude Code, Codex e Antigravity.",
+    "id": "murilolol/muri-saver",
+    "language": "JavaScript",
+    "name": "murilolol/muri-saver",
+    "stars": 2,
+    "updated_at": "2026-09-28T02:19:34Z",
+    "url": "https://github.com/murilolol/muri-saver"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 428,
-    "updated_at": "2026-09-28T02:14:31Z",
+    "updated_at": "2026-09-28T02:22:37Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Build kinetic-typography and logo promos as code with Remotion, shipping MP4s in 9:16 and 16:9 from one React codebase.",
+    "id": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
+    "language": "TypeScript",
+    "name": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:18:01Z",
+    "url": "https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics"
+  },
+  {
+    "description": "Styled Markdown (.smd): Markdown for developers, PMs and AI agents \u2014 callouts, colors, diagrams, decisions, risks, APIs,",
+    "id": "bislink360/styled-markdown",
+    "language": "TypeScript",
+    "name": "bislink360/styled-markdown",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:22:33Z",
+    "url": "https://github.com/bislink360/styled-markdown"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-28T02:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
@@ -54,15 +135,6 @@
     "url": "https://github.com/clarayu-hub/embedded-c-boundary-review"
   },
   {
-    "description": "Sistema de governan\u00e7a de tokens, mem\u00f3ria persistente e registro de sess\u00f5es para Claude Code, Codex e Antigravity.",
-    "id": "murilolol/muri-saver",
-    "language": "JavaScript",
-    "name": "murilolol/muri-saver",
-    "stars": 2,
-    "updated_at": "2026-09-28T02:08:13Z",
-    "url": "https://github.com/murilolol/muri-saver"
-  },
-  {
     "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
     "id": "hraness/oh",
     "language": "TypeScript",
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "hraness/textbutler",
     "stars": 6,
-    "updated_at": "2026-09-28T02:04:17Z",
+    "updated_at": "2026-09-28T02:25:25Z",
     "url": "https://github.com/hraness/textbutler"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T02:01:32Z",
     "url": "https://github.com/powersoftware-app/powersoftware-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-28T02:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Read your repo, assemble a team of Claude Code sessions, and watch them work from one local dashboard.",
@@ -198,15 +261,6 @@
     "url": "https://github.com/Gamboasusana748/agent-monitor"
   },
   {
-    "description": "Build kinetic-typography and logo promos as code with Remotion, shipping MP4s in 9:16 and 16:9 from one React codebase.",
-    "id": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "language": "TypeScript",
-    "name": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:57:22Z",
-    "url": "https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics"
-  },
-  {
     "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
     "id": "maravil5768/Wonder-Pill",
     "language": "\u2014",
@@ -238,7 +292,7 @@
     "id": "coldteadotai/pr-lens",
     "language": "TypeScript",
     "name": "coldteadotai/pr-lens",
-    "stars": 1729,
+    "stars": 1730,
     "updated_at": "2026-09-28T01:55:30Z",
     "url": "https://github.com/coldteadotai/pr-lens"
   },
@@ -248,7 +302,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 145,
-    "updated_at": "2026-09-28T01:55:24Z",
+    "updated_at": "2026-09-28T02:19:20Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/sa746062/web-perf-audit"
   },
   {
-    "description": "Styled Markdown (.smd): Markdown for developers, PMs and AI agents \u2014 callouts, colors, diagrams, decisions, risks, APIs,",
-    "id": "bislink360/styled-markdown",
-    "language": "TypeScript",
-    "name": "bislink360/styled-markdown",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:57:14Z",
-    "url": "https://github.com/bislink360/styled-markdown"
-  },
-  {
     "description": "Self-evolving bioinformatics figure library skill: learn plots from papers/PDFs/WeChat articles/screenshots into reusabl",
     "id": "Zessi-C/biofigure-self-evolve",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T01:44:43Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-09-28T01:44:16Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:44:07Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:44:04Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-09-28T01:44:00Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "Automate E2E Playwright tests and Lighthouse performance audits directly within Cursor using a simple slash command.",
-    "id": "close-shellflower7762/e2e-tester",
-    "language": "\u2014",
-    "name": "close-shellflower7762/e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:43:40Z",
-    "url": "https://github.com/close-shellflower7762/e2e-tester"
   }
 ]
