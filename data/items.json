@@ -1,5 +1,86 @@
 [
   {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 16,
+    "updated_at": "2026-09-28T02:44:15Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (\u89c6\u9891\u89e3\u8bf4): scene detection, ASR, VLM, script, T",
+    "id": "zenstory-ai/video-recap-skills",
+    "language": "Python",
+    "name": "zenstory-ai/video-recap-skills",
+    "stars": 539,
+    "updated_at": "2026-09-28T02:43:59Z",
+    "url": "https://github.com/zenstory-ai/video-recap-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69603,
+    "updated_at": "2026-09-28T02:41:27Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "",
+    "id": "fmschulz/omics-skills",
+    "language": "Python",
+    "name": "fmschulz/omics-skills",
+    "stars": 9,
+    "updated_at": "2026-09-28T02:39:15Z",
+    "url": "https://github.com/fmschulz/omics-skills"
+  },
+  {
+    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 85 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, customer academy, paid ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 16,
+    "updated_at": "2026-09-28T02:37:36Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "\u4e2a\u4eba agent skill \u5408\u96c6 \u00b7 40 \u4e2a skill\uff1a\u6587\u6863\u5904\u7406 / \u8f6f\u4ef6\u5f00\u53d1 / \u8bbe\u8ba1\u521b\u610f / \u79d1\u7814\u5b66\u672f\u3002\u542b\u5f00\u6e90\u514b\u9686\u3001\u53d7\u9650\u91cd\u5199\u4e0e\u539f\u521b\u5b9a\u5236\u3002",
+    "id": "Andyt2666/agent-skills",
+    "language": "Python",
+    "name": "Andyt2666/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:34:45Z",
+    "url": "https://github.com/Andyt2666/agent-skills"
+  },
+  {
+    "description": "Agent Skills for PowerSoftware (powersoftware.app): publish license-enabled software products end-to-end. \u5e42\u6808\u7f51\u6388\u6743\u4ea7\u54c1\u4e0a\u67b6\u81ea\u52a8\u5316 S",
+    "id": "powersoftware-app/powersoftware-agent-skills",
+    "language": "JavaScript",
+    "name": "powersoftware-app/powersoftware-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:33:07Z",
+    "url": "https://github.com/powersoftware-app/powersoftware-agent-skills"
+  },
+  {
+    "description": "Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a",
+    "id": "hraness/textbutler",
+    "language": "TypeScript",
+    "name": "hraness/textbutler",
+    "stars": 6,
+    "updated_at": "2026-09-28T02:45:09Z",
+    "url": "https://github.com/hraness/textbutler"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-28T02:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Slash commands for Claude Code \u2014 manage GitHub issues and pull requests, one focused workflow at a time.",
     "id": "claude-contrib/claude-skills",
     "language": "jq",
@@ -9,15 +90,6 @@
     "url": "https://github.com/claude-contrib/claude-skills"
   },
   {
-    "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (\u89c6\u9891\u89e3\u8bf4): scene detection, ASR, VLM, script, T",
-    "id": "zenstory-ai/video-recap-skills",
-    "language": "Python",
-    "name": "zenstory-ai/video-recap-skills",
-    "stars": 539,
-    "updated_at": "2026-09-28T02:29:16Z",
-    "url": "https://github.com/zenstory-ai/video-recap-skills"
-  },
-  {
     "description": "A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true.",
     "id": "nhhthong/clio",
     "language": "Shell",
@@ -25,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T02:28:20Z",
     "url": "https://github.com/nhhthong/clio"
-  },
-  {
-    "description": "\u4e2a\u4eba agent skill \u5408\u96c6 \u00b7 40 \u4e2a skill\uff1a\u6587\u6863\u5904\u7406 / \u8f6f\u4ef6\u5f00\u53d1 / \u8bbe\u8ba1\u521b\u610f / \u79d1\u7814\u5b66\u672f\u3002\u542b\u5f00\u6e90\u514b\u9686\u3001\u53d7\u9650\u91cd\u5199\u4e0e\u539f\u521b\u5b9a\u5236\u3002",
-    "id": "Andyt2666/agent-skills",
-    "language": "Python",
-    "name": "Andyt2666/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-28T02:26:04Z",
-    "url": "https://github.com/Andyt2666/agent-skills"
   },
   {
     "description": "Downloadable agent skills for AI coding assistants \u2014 landing page replication, WebGL Three.js backgrounds, Doubao TTS & ",
@@ -81,15 +144,6 @@
     "url": "https://github.com/bislink360/styled-markdown"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-28T02:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
     "id": "gagip/gagip-dev",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T02:10:19Z",
     "url": "https://github.com/Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69601,
-    "updated_at": "2026-09-28T02:09:56Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
@@ -140,7 +185,7 @@
     "language": "TypeScript",
     "name": "hraness/oh",
     "stars": 4,
-    "updated_at": "2026-09-28T02:05:20Z",
+    "updated_at": "2026-09-28T02:44:13Z",
     "url": "https://github.com/hraness/oh"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 967,
     "updated_at": "2026-09-28T02:04:19Z",
     "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a",
-    "id": "hraness/textbutler",
-    "language": "TypeScript",
-    "name": "hraness/textbutler",
-    "stars": 6,
-    "updated_at": "2026-09-28T02:25:25Z",
-    "url": "https://github.com/hraness/textbutler"
   },
   {
     "description": "Run several Claude Code sessions in parallel from any browser, phone included: live tmux terminals, per-session state fr",
@@ -198,15 +234,6 @@
     "url": "https://github.com/Itzzni9454/skill-trail"
   },
   {
-    "description": "Agent Skills for PowerSoftware (powersoftware.app): publish license-enabled software products end-to-end. \u5e42\u6808\u7f51\u6388\u6743\u4ea7\u54c1\u4e0a\u67b6\u81ea\u52a8\u5316 S",
-    "id": "powersoftware-app/powersoftware-agent-skills",
-    "language": "JavaScript",
-    "name": "powersoftware-app/powersoftware-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-28T02:01:32Z",
-    "url": "https://github.com/powersoftware-app/powersoftware-agent-skills"
-  },
-  {
     "description": "Read your repo, assemble a team of Claude Code sessions, and watch them work from one local dashboard.",
     "id": "havanafrog/agentsemble",
     "language": "JavaScript",
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T01:59:41Z",
     "url": "https://github.com/havanafrog/agentsemble"
-  },
-  {
-    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
-    "id": "hraness/wordcell",
-    "language": "TypeScript",
-    "name": "hraness/wordcell",
-    "stars": 16,
-    "updated_at": "2026-09-28T01:59:12Z",
-    "url": "https://github.com/hraness/wordcell"
   },
   {
     "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T01:46:13Z",
     "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:45:31Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:44:43Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
