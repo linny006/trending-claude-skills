@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-28 01:12 UTC
+> ⏰ Last updated: 2026-09-28 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [why20261/kuaishou-market-insight](https://github.com/why20261/kuaishou-market-insight) | 0 | JavaScript | 2026-09-28 | 分析快手各垂类行业视频和达人趋势，输出市场机会与风险。当用户询问快手市场规模、类目增长或达人结构时使用。支持三大能力：(1) 关键词搜索视频，可按点赞数、发布时间、视频时长筛选排序；(2) 博主作品抓取，按主页链接获取公开作品列表；(3)  |
-| 2 | [tonydzi/clawrush](https://github.com/tonydzi/clawrush) | 14 | Python | 2026-09-28 | C(H+A)RM build diary — a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to |
-| 3 | [Zessi-C/biofigure-self-evolve](https://github.com/Zessi-C/biofigure-self-evolve) | 0 | Python | 2026-09-28 | Self-evolving bioinformatics figure library skill: learn plots from papers/PDFs/WeChat articles/screenshots into reusabl |
-| 4 | [hraness/textbutler](https://github.com/hraness/textbutler) | 6 | TypeScript | 2026-09-28 | Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a |
-| 5 | [hraness/oh](https://github.com/hraness/oh) | 4 | TypeScript | 2026-09-28 | Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay. |
-| 6 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 182 | TypeScript | 2026-09-28 | Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi |
-| 7 | [ilyautov/ilyautov.github.io](https://github.com/ilyautov/ilyautov.github.io) | 1 | HTML | 2026-09-28 | Личный корневой сайт GitHub Pages: визитка и ссылки на проекты \| Showcase of open-source AI skills and MCP servers by il |
-| 8 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 117 | Kotlin | 2026-09-28 | Helping the Agents Compose the Things |
-| 9 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-09-28 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 49 | Python | 2026-09-28 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [tonydzi/clawrush](https://github.com/tonydzi/clawrush) | 14 | Python | 2026-09-28 | C(H+A)RM build diary — a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to |
+| 2 | [Zessi-C/biofigure-self-evolve](https://github.com/Zessi-C/biofigure-self-evolve) | 0 | Python | 2026-09-28 | Self-evolving bioinformatics figure library skill: learn plots from papers/PDFs/WeChat articles/screenshots into reusabl |
+| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 49 | Python | 2026-09-28 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 4 | [why20261/kuaishou-market-insight](https://github.com/why20261/kuaishou-market-insight) | 0 | JavaScript | 2026-09-28 | 分析快手各垂类行业视频和达人趋势，输出市场机会与风险。当用户询问快手市场规模、类目增长或达人结构时使用。支持三大能力：(1) 关键词搜索视频，可按点赞数、发布时间、视频时长筛选排序；(2) 博主作品抓取，按主页链接获取公开作品列表；(3)  |
+| 5 | [hraness/textbutler](https://github.com/hraness/textbutler) | 6 | TypeScript | 2026-09-28 | Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a |
+| 6 | [hraness/oh](https://github.com/hraness/oh) | 4 | TypeScript | 2026-09-28 | Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay. |
+| 7 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 182 | TypeScript | 2026-09-28 | Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi |
+| 8 | [ilyautov/ilyautov.github.io](https://github.com/ilyautov/ilyautov.github.io) | 1 | HTML | 2026-09-28 | Личный корневой сайт GitHub Pages: визитка и ссылки на проекты \| Showcase of open-source AI skills and MCP servers by il |
+| 9 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 117 | Kotlin | 2026-09-28 | Helping the Agents Compose the Things |
+| 10 | [tjq001/hv-code-templates](https://github.com/tjq001/hv-code-templates) | 0 | HTML | 2026-09-28 | Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026 |
 | 11 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-09-28 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
 | 12 | [LinklyAI/best-skills](https://github.com/LinklyAI/best-skills) | 605 | — | 2026-09-28 | Daily-updated Top 100 Agent Skills rankings — installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te |
 | 13 | [jiawood2006/hermes-skills](https://github.com/jiawood2006/hermes-skills) | 2 | Python | 2026-09-28 | Hermes Skills: 视频转文字 / AI文案去味 / 文档OCR / 电商素材工坊 (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio) |
