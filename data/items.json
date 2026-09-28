@@ -1,12 +1,93 @@
 [
   {
+    "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
+    "id": "qikairo7/tencent-oss-suite",
+    "language": "Python",
+    "name": "qikairo7/tencent-oss-suite",
+    "stars": 0,
+    "updated_at": "2026-09-28T12:44:45Z",
+    "url": "https://github.com/qikairo7/tencent-oss-suite"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69617,
+    "updated_at": "2026-09-28T12:42:47Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Source-verified Flutter/Dart skills for Claude Code (Flutter 3.47 / Dart 3.13): architecture, state management, testing,",
+    "id": "abugeek/flutter-skills",
+    "language": "Python",
+    "name": "abugeek/flutter-skills",
+    "stars": 0,
+    "updated_at": "2026-09-28T12:37:17Z",
+    "url": "https://github.com/abugeek/flutter-skills"
+  },
+  {
+    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
+    "id": "haoming-luo/agentfem",
+    "language": "Python",
+    "name": "haoming-luo/agentfem",
+    "stars": 18,
+    "updated_at": "2026-09-28T12:35:57Z",
+    "url": "https://github.com/haoming-luo/agentfem"
+  },
+  {
     "description": "A Claude Code skill that grounds AI-generated UI in real reference images and a persistent per-developer taste profile, ",
     "id": "codeswithroh/tastemaker",
     "language": "Python",
     "name": "codeswithroh/tastemaker",
     "stars": 423,
-    "updated_at": "2026-09-28T12:28:59Z",
+    "updated_at": "2026-09-28T12:35:56Z",
     "url": "https://github.com/codeswithroh/tastemaker"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 35,
+    "updated_at": "2026-09-28T12:44:27Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Unified 6-phase execution discipline + persistent cross-session memory protocol for AI agents (installable via skills.sh",
+    "id": "hoshiyomiX/stellar-trail",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trail",
+    "stars": 0,
+    "updated_at": "2026-09-28T12:35:21Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trail"
+  },
+  {
+    "description": "Self-hosted AI coding factory \u2014 sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local-",
+    "id": "tmj-90/gaffer",
+    "language": "TypeScript",
+    "name": "tmj-90/gaffer",
+    "stars": 2,
+    "updated_at": "2026-09-28T12:32:16Z",
+    "url": "https://github.com/tmj-90/gaffer"
+  },
+  {
+    "description": "Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.",
+    "id": "devohmycode/skills-atlas",
+    "language": "TypeScript",
+    "name": "devohmycode/skills-atlas",
+    "stars": 1,
+    "updated_at": "2026-09-28T12:31:23Z",
+    "url": "https://github.com/devohmycode/skills-atlas"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-28T12:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -14,7 +95,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-28T12:27:31Z",
+    "updated_at": "2026-09-28T12:42:07Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -45,20 +126,11 @@
     "url": "https://github.com/coinpaprika/skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69618,
-    "updated_at": "2026-09-28T12:23:16Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of st",
     "id": "alexgreensh/anidoodle",
     "language": "TypeScript",
     "name": "alexgreensh/anidoodle",
-    "stars": 627,
+    "stars": 629,
     "updated_at": "2026-09-28T12:21:12Z",
     "url": "https://github.com/alexgreensh/anidoodle"
   },
@@ -70,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T12:19:30Z",
     "url": "https://github.com/ehzawad/codex-council"
-  },
-  {
-    "description": "Self-hosted AI coding factory \u2014 sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local-",
-    "id": "tmj-90/gaffer",
-    "language": "TypeScript",
-    "name": "tmj-90/gaffer",
-    "stars": 2,
-    "updated_at": "2026-09-28T12:25:52Z",
-    "url": "https://github.com/tmj-90/gaffer"
-  },
-  {
-    "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
-    "id": "qikairo7/tencent-oss-suite",
-    "language": "Python",
-    "name": "qikairo7/tencent-oss-suite",
-    "stars": 0,
-    "updated_at": "2026-09-28T12:17:04Z",
-    "url": "https://github.com/qikairo7/tencent-oss-suite"
   },
   {
     "description": "Claude Code skills for Bria AI - generate, edit, and transform images with Fibo, RMBG-2.0, and VGL structured prompts",
@@ -106,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T12:15:20Z",
     "url": "https://github.com/Zaious/journal-atlas"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-28T12:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Thin lifecycle commands that orchestrate an agent roster bound by the Four Karpathy Rules, hooks that enforce everything",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-09-28T12:28:06Z",
+    "updated_at": "2026-09-28T12:30:27Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Shell",
     "name": "YoniChechik/claude-code-config",
     "stars": 0,
-    "updated_at": "2026-09-28T12:07:46Z",
+    "updated_at": "2026-09-28T12:45:12Z",
     "url": "https://github.com/YoniChechik/claude-code-config"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 66,
     "updated_at": "2026-09-28T12:07:38Z",
     "url": "https://github.com/RankSpotAI/awesome-seo-agent-skills"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 35,
-    "updated_at": "2026-09-28T12:22:59Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
@@ -259,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T11:57:00Z",
     "url": "https://github.com/bartosz-kuc/skanfirmy-mcp"
-  },
-  {
-    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
-    "id": "haoming-luo/agentfem",
-    "language": "Python",
-    "name": "haoming-luo/agentfem",
-    "stars": 18,
-    "updated_at": "2026-09-28T12:24:40Z",
-    "url": "https://github.com/haoming-luo/agentfem"
   },
   {
     "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "ragnarwestad/aide",
     "stars": 0,
-    "updated_at": "2026-09-28T11:44:56Z",
+    "updated_at": "2026-09-28T12:40:21Z",
     "url": "https://github.com/ragnarwestad/aide"
   },
   {
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 906,
-    "updated_at": "2026-09-28T11:41:18Z",
+    "updated_at": "2026-09-28T12:43:22Z",
     "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-09-28T11:41:18Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Run several Claude Code sessions in parallel from any browser, phone included: live tmux terminals, per-session state fr",
-    "id": "Ramillax/claude-code-control-room",
-    "language": "Python",
-    "name": "Ramillax/claude-code-control-room",
-    "stars": 3,
-    "updated_at": "2026-09-28T11:41:17Z",
-    "url": "https://github.com/Ramillax/claude-code-control-room"
-  },
-  {
-    "description": "Cucumber_Playwright_MCP",
-    "id": "rohitsaraswat7865/Cucumber_Playwright_MCP",
-    "language": "JavaScript",
-    "name": "rohitsaraswat7865/Cucumber_Playwright_MCP",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:41:04Z",
-    "url": "https://github.com/rohitsaraswat7865/Cucumber_Playwright_MCP"
   }
 ]
