@@ -1,12 +1,138 @@
 [
   {
+    "description": "Self-hosted AI coding factory \u2014 sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local-",
+    "id": "tmj-90/gaffer",
+    "language": "TypeScript",
+    "name": "tmj-90/gaffer",
+    "stars": 2,
+    "updated_at": "2026-09-28T21:13:57Z",
+    "url": "https://github.com/tmj-90/gaffer"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-28T21:13:51Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-28T21:12:19Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Multi-tasking upgrade! Store durable knowledge in all your projects and connect them together. Let agents work using the",
+    "id": "nathanaday/atlas-obsidian",
+    "language": "Go",
+    "name": "nathanaday/atlas-obsidian",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:11:46Z",
+    "url": "https://github.com/nathanaday/atlas-obsidian"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 23,
+    "updated_at": "2026-09-28T21:11:24Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "A Claude skill that checks whether a draft still sounds like you. Builds a personal voice profile, flags documented AI t",
+    "id": "btmoriarty/pherkad",
+    "language": "Python",
+    "name": "btmoriarty/pherkad",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:09:56Z",
+    "url": "https://github.com/btmoriarty/pherkad"
+  },
+  {
+    "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor ",
+    "id": "michael-denyer/pstack-claude",
+    "language": "TypeScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 661,
+    "updated_at": "2026-09-28T21:08:59Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "Agent skills for domain intelligence. Search newly registered domains, check availability, WHOIS lookup, expired domains",
+    "id": "ABTdomain/domainkits-skills",
+    "language": "\u2014",
+    "name": "ABTdomain/domainkits-skills",
+    "stars": 1,
+    "updated_at": "2026-09-28T21:08:33Z",
+    "url": "https://github.com/ABTdomain/domainkits-skills"
+  },
+  {
+    "description": "Portable, source-auditable Agent Skills for repository engineering, orchestrated delivery, and semantic workflows \u2014 for ",
+    "id": "hraness/skillpack",
+    "language": "JavaScript",
+    "name": "hraness/skillpack",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:08:27Z",
+    "url": "https://github.com/hraness/skillpack"
+  },
+  {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 7208,
+    "updated_at": "2026-09-28T21:07:06Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
     "description": "Agent skills for keeping an LLM wiki correct as it grows: record, ingest, query, lint, resolve conflicts, refactor, and ",
     "id": "dexio-wiki/llm-wiki-skills",
     "language": "Python",
     "name": "dexio-wiki/llm-wiki-skills",
     "stars": 0,
-    "updated_at": "2026-09-28T20:59:27Z",
+    "updated_at": "2026-09-28T21:06:53Z",
     "url": "https://github.com/dexio-wiki/llm-wiki-skills"
+  },
+  {
+    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
+    "id": "Sylad/claude-code-codex",
+    "language": "HTML",
+    "name": "Sylad/claude-code-codex",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:03:56Z",
+    "url": "https://github.com/Sylad/claude-code-codex"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Rust",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 9,
+    "updated_at": "2026-09-28T21:03:10Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Claude Code skill: one prompt, a 13-second launch video built from your real UI (Remotion)",
+    "id": "StanCosmin28/product-film-skill",
+    "language": "TypeScript",
+    "name": "StanCosmin28/product-film-skill",
+    "stars": 0,
+    "updated_at": "2026-09-28T21:02:17Z",
+    "url": "https://github.com/StanCosmin28/product-film-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-28T21:00:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -52,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T20:57:53Z",
     "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor ",
-    "id": "michael-denyer/pstack-claude",
-    "language": "TypeScript",
-    "name": "michael-denyer/pstack-claude",
-    "stars": 661,
-    "updated_at": "2026-09-28T20:56:56Z",
-    "url": "https://github.com/michael-denyer/pstack-claude"
-  },
-  {
-    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
-    "id": "Sylad/claude-code-codex",
-    "language": "HTML",
-    "name": "Sylad/claude-code-codex",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:56:25Z",
-    "url": "https://github.com/Sylad/claude-code-codex"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -162,6 +270,15 @@
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   },
   {
+    "description": "Curated motion design agent skills: GSAP, Motion, Remotion, Lottie and Rive for web animation, programmatic video and mo",
+    "id": "frankxai/awesome-motion-design-agent-skills",
+    "language": "\u2014",
+    "name": "frankxai/awesome-motion-design-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-28T20:50:09Z",
+    "url": "https://github.com/frankxai/awesome-motion-design-agent-skills"
+  },
+  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -194,17 +311,8 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 183,
-    "updated_at": "2026-09-28T20:46:57Z",
+    "updated_at": "2026-09-28T21:08:56Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Self-hosted AI coding factory \u2014 sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local-",
-    "id": "tmj-90/gaffer",
-    "language": "TypeScript",
-    "name": "tmj-90/gaffer",
-    "stars": 2,
-    "updated_at": "2026-09-28T20:51:10Z",
-    "url": "https://github.com/tmj-90/gaffer"
   },
   {
     "description": "AgentX is the inventory manager for your agents. View, manage, and sync skills, MCPs and plugins across machines. Availa",
@@ -212,26 +320,8 @@
     "language": "Go",
     "name": "grundmanise/agentx",
     "stars": 1,
-    "updated_at": "2026-09-28T20:45:48Z",
+    "updated_at": "2026-09-28T21:11:32Z",
     "url": "https://github.com/grundmanise/agentx"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-28T20:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 4,
-    "updated_at": "2026-09-28T20:52:24Z",
-    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
@@ -274,8 +364,8 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69626,
-    "updated_at": "2026-09-28T20:40:20Z",
+    "stars": 69627,
+    "updated_at": "2026-09-28T21:11:24Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -283,7 +373,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 19523,
+    "stars": 19524,
     "updated_at": "2026-09-28T20:38:42Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -295,15 +385,6 @@
     "stars": 8,
     "updated_at": "2026-09-28T20:38:33Z",
     "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "A Claude skill that checks whether a draft still sounds like you. Builds a personal voice profile, flags documented AI t",
-    "id": "btmoriarty/pherkad",
-    "language": "Python",
-    "name": "btmoriarty/pherkad",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:36:09Z",
-    "url": "https://github.com/btmoriarty/pherkad"
   },
   {
     "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T20:28:48Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "\ud83e\udead Agent Skills for technical event organizers: conferences, meetups, hackathons, speakers, and sponsorships.",
-    "id": "samber/dev-event-organizer-skills",
-    "language": "Python",
-    "name": "samber/dev-event-organizer-skills",
-    "stars": 2,
-    "updated_at": "2026-09-28T20:27:22Z",
-    "url": "https://github.com/samber/dev-event-organizer-skills"
-  },
-  {
-    "description": "\ud83c\udf99\ufe0f Agent Skills for DevRels: open source strategy, community programs, technical content, and developer GTM.",
-    "id": "samber/developer-relations-skills",
-    "language": "Python",
-    "name": "samber/developer-relations-skills",
-    "stars": 2,
-    "updated_at": "2026-09-28T20:27:13Z",
-    "url": "https://github.com/samber/developer-relations-skills"
-  },
-  {
-    "description": "\ud83d\udd01 Agent Skills for platform and SDK developer experience: API design, integrations, marketplace strategy, and onboarding",
-    "id": "samber/developer-platform-skills",
-    "language": "Python",
-    "name": "samber/developer-platform-skills",
-    "stars": 2,
-    "updated_at": "2026-09-28T20:21:42Z",
-    "url": "https://github.com/samber/developer-platform-skills"
-  },
-  {
-    "description": "Foreigner's POV: a stage-aware designer-founder partner for Claude Code and Claude.ai. Reframes, researches, stress test",
-    "id": "ForeignerfromJupiter/foreigners-pov",
-    "language": "Shell",
-    "name": "ForeignerfromJupiter/foreigners-pov",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:21:11Z",
-    "url": "https://github.com/ForeignerfromJupiter/foreigners-pov"
-  },
-  {
-    "description": "A small, growing collection of Claude Skills for real engineering workflows.",
-    "id": "alvincrespo/skills",
-    "language": "Python",
-    "name": "alvincrespo/skills",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:42:17Z",
-    "url": "https://github.com/alvincrespo/skills"
-  },
-  {
-    "description": "Auto dlmm Meteora bot system",
-    "id": "romankurnovskii/etemaro",
-    "language": "TypeScript",
-    "name": "romankurnovskii/etemaro",
-    "stars": 55,
-    "updated_at": "2026-09-28T20:18:28Z",
-    "url": "https://github.com/romankurnovskii/etemaro"
-  },
-  {
-    "description": "Relex plugin for Claude",
-    "id": "relexlegal/relex-claude",
-    "language": "Python",
-    "name": "relexlegal/relex-claude",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:17:23Z",
-    "url": "https://github.com/relexlegal/relex-claude"
-  },
-  {
-    "description": "Python framework + local Studio for reliable LLM workflows: typed files in your repo, pre-run checks, experiments and ev",
-    "id": "lastonoga/AQVEN",
-    "language": "Python",
-    "name": "lastonoga/AQVEN",
-    "stars": 1,
-    "updated_at": "2026-09-28T20:15:55Z",
-    "url": "https://github.com/lastonoga/AQVEN"
-  },
-  {
-    "description": "Take the reins of your real browser",
-    "id": "karnstack/reins",
-    "language": "TypeScript",
-    "name": "karnstack/reins",
-    "stars": 24,
-    "updated_at": "2026-09-28T20:16:59Z",
-    "url": "https://github.com/karnstack/reins"
   }
 ]
