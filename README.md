@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-28 08:30 UTC
+> ⏰ Last updated: 2026-09-28 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [coinpaprika/skills](https://github.com/coinpaprika/skills) | 7 | — | 2026-09-28 | Claude Code skills for querying Coinpaprika and DexPaprika crypto market data (CEX prices, DEX pools, tokens, OHLCV). |
-| 2 | [ragnarwestad/aide](https://github.com/ragnarwestad/aide) | 0 | TypeScript | 2026-09-28 | Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) — specs, skills and a dashboard |
-| 3 | [dinhanhthi/coding-friend](https://github.com/dinhanhthi/coding-friend) | 3 | TypeScript | 2026-09-28 | Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig |
-| 4 | [feverZHONG/liya-ruozhiba-wordbank](https://github.com/feverZHONG/liya-ruozhiba-wordbank) | 0 | — | 2026-09-28 | 弱智吧题 · 防御手册——中文互联网独有的逻辑陷阱题 160 道逐题拆解 + 三连防御法（拆前提→指谬误→反杀） |
-| 5 | [alekseevdenis1995-ai/mastermind](https://github.com/alekseevdenis1995-ai/mastermind) | 2 | Python | 2026-09-28 | One command → a whole AI team for your project: Master orchestrator + specialists + memory for Claude Code |
-| 6 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69615 | TypeScript | 2026-09-28 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 7 | [feverZHONG/liya-delegation-and-verification](https://github.com/feverZHONG/liya-delegation-and-verification) | 0 | Python | 2026-09-28 | 委派与验收：给子代理写任务书、并行隔离、把「自报」验成事实。 |
-| 8 | [alexgreensh/anidoodle](https://github.com/alexgreensh/anidoodle) | 604 | TypeScript | 2026-09-28 | Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of st |
-| 9 | [lcy362/flint](https://github.com/lcy362/flint) | 31 | TypeScript | 2026-09-28 | Flint · local-skills-hub — a local-first personal AI skills asset manager. Centralize, tag, deduplicate skills, and depl |
+| 1 | [tomerhayundev/skills](https://github.com/tomerhayundev/skills) | 0 | JavaScript | 2026-09-28 | Claude Code skills: a master Remotion video skill with ten specialists broken out of it, production deploys on GitHub Ac |
+| 2 | [YoniChechik/claude-code-config](https://github.com/YoniChechik/claude-code-config) | 0 | Shell | 2026-09-28 | Personal Claude Code configuration (hooks, commands, agents, settings). |
+| 3 | [Natchannnn/repository-engineering-skills](https://github.com/Natchannnn/repository-engineering-skills) | 0 | Python | 2026-09-28 | Agent skills for code review, scoped refactoring, and repository development. Includes Codex installation instructions,  |
+| 4 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | 1626 | Python | 2026-09-28 | ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u |
+| 5 | [feverZHONG/liya-story-revision-plan](https://github.com/feverZHONG/liya-story-revision-plan) | 0 | — | 2026-09-28 | 小说全稿修订方案写作——评估/缺口清单/逐章大纲/信息融合/优先级（纯文档，含标准模板） |
+| 6 | [feverZHONG/liya-corpus-line-mining](https://github.com/feverZHONG/liya-corpus-line-mining) | 0 | — | 2026-09-28 | 从本地语料/会话库里批量挖可复用原句——候选池筛选 + 人审落库（纯标准库 sqlite，零依赖） |
+| 7 | [feverZHONG/liya-subtitle-proofreading](https://github.com/feverZHONG/liya-subtitle-proofreading) | 0 | Python | 2026-09-28 | 字幕校对/重建/外挂 SRT——对照成稿逐处修正、按原文重建分块、md 转 SRT、多人语音 ASR 导出件解析（纯标准库，5 个工具） |
+| 8 | [feverZHONG/liya-ruozhiba-wordbank](https://github.com/feverZHONG/liya-ruozhiba-wordbank) | 0 | — | 2026-09-28 | 弱智吧题 · 防御手册——中文互联网独有的逻辑陷阱题 160 道逐题拆解 + 三连防御法（拆前提→指谬误→反杀） |
+| 9 | [feverZHONG/liya-delegation-and-verification](https://github.com/feverZHONG/liya-delegation-and-verification) | 0 | Python | 2026-09-28 | 委派与验收：给子代理写任务书、并行隔离、把「自报」验成事实。 |
 | 10 | [feverZHONG/liya-sea-turtle-soup](https://github.com/feverZHONG/liya-sea-turtle-soup) | 0 | Python | 2026-09-28 | 海龟汤推理手册 + 档案流水线 —— 推理方法论、提问纪律，以及 turtle CLI（建档 / 线索 / 关卡归档 / 提交并数学反推 / 复盘 + 索引重建）。 |
 | 11 | [feverZHONG/liya-spy-game](https://github.com/feverZHONG/liya-spy-game) | 0 | Python | 2026-09-28 | 谁是卧底 · 直播间裁判工具包 —— 黑板规则 / 出题方法论 / 词库验证 / 灵感来源 / 翻车分析 + 身份分配器 CLI。中文。 |
 | 12 | [feverZHONG/liya-chat-game-referee](https://github.com/feverZHONG/liya-chat-game-referee) | 0 | Python | 2026-09-28 | 群聊小游戏裁判合集 —— 扫雷 / 五子棋 / 大话骰 / 骗子牌 / 掷骰决斗：状态落盘跨会话续局、公平可自证、字符盘面 + 出图，一条 game 入口 + 六份自测。 |
 | 13 | [feverZHONG/liya-vision-recognition-traps](https://github.com/feverZHONG/liya-vision-recognition-traps) | 0 | Python | 2026-09-28 | 视觉模型识图陷阱手册 —— 22 条实测陷阱与对策，适用于任何视觉模型（附真 OCR 通道、AI 生图物理体检、两图差分）。 |
-| 14 | [Natchannnn/repository-engineering-skills](https://github.com/Natchannnn/repository-engineering-skills) | 0 | Python | 2026-09-28 | Agent skills for code review, scoped refactoring, and repository development. Includes Codex installation instructions,  |
-| 15 | [nicholyx/ai-skills](https://github.com/nicholyx/ai-skills) | 6 | Python | 2026-09-28 | 可复用的 Claude Code 技能集：Git 工作流、代码审查、Bug 根因分析、仓库分析等日常场景，以及把仓库改造成规范开源项目的完整流程。npx skills add nicholyx/ai-skills |
-| 16 | [feverZHONG/liya-sillytavern-cards](https://github.com/feverZHONG/liya-sillytavern-cards) | 0 | Python | 2026-09-28 | 莉娅的酒馆写卡方法 —— 把角色资料写成 SillyTavern 角色卡（V2 格式 / PList+Ali:Chat 写法 / 机制清单 / 三个 Python 工具 / 从资料到成品卡的完整实例）。中文。 |
-| 17 | [feverZHONG/liya-persona-authoring](https://github.com/feverZHONG/liya-persona-authoring) | 0 | — | 2026-09-28 | 莉娅的人格文件方法论 —— 给 AI agent 写身份文件（SOUL.md 类）：创作流程 / 砍装饰留行为 / 身份文件减法（de-bloat）/ 漂移对照。附阁下原创角色设定写作模板 v1.2。 |
-| 18 | [cuqu-net/cuqu-skill](https://github.com/cuqu-net/cuqu-skill) | 0 | Python | 2026-09-28 | CUQU找搭子官方 Agent Skill：让任意 AI Agent（Claude Code/Codex/Cursor/WorkBuddy）代用户找同城线下局、报名、支付、发局。MCP Streamable HTTP + 个人 API Ke |
-| 19 | [feverZHONG/liya-subtraction-skill](https://github.com/feverZHONG/liya-subtraction-skill) | 0 | Python | 2026-09-28 | 莉娅的减法 skill —— 技能库精简与维护的方法论（冗余检测 · 拆薄 · 合并 · 归档判断），适用于任何 SKILL.md 体系的 agent。中文。 |
-| 20 | [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) | 0 | JavaScript | 2026-09-28 | A very opinionated Claude Code plugin for software engineering |
-| 21 | [feverZHONG/liya-subtitle-proofreading](https://github.com/feverZHONG/liya-subtitle-proofreading) | 0 | Python | 2026-09-28 | 字幕校对/重建/外挂 SRT——对照成稿逐处修正、按原文重建分块、md 转 SRT、多人语音 ASR 导出件解析（纯标准库，5 个工具） |
-| 22 | [anbeime/skill](https://github.com/anbeime/skill) | 7299 | Python | 2026-09-28 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The mo |
-| 23 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 37 | — | 2026-09-28 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
-| 24 | [slopstopper/plumb-line](https://github.com/slopstopper/plumb-line) | 4 | Python | 2026-09-28 | Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va |
-| 25 | [V-Songbird/hush](https://github.com/V-Songbird/hush) | 50 | JavaScript | 2026-09-28 | Quieter sessions for Claude Code: less narration, shorter tool output and concise answers focused on the result. |
-| 26 | [haoming-luo/agentfem](https://github.com/haoming-luo/agentfem) | 17 | Python | 2026-09-28 | AI-native open-source finite-element platform connecting engineering, computation, data, and AI. |
-| 27 | [aliepratama/taiga-cli](https://github.com/aliepratama/taiga-cli) | 3 | Python | 2026-09-28 | Unofficial zero-dependency Taiga.io CLI and AI agent skill. Token-efficient TOON output for LLM context windows. Python  |
-| 28 | [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) | 6200 | Python | 2026-09-28 | Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests |
-| 29 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 49 | Python | 2026-09-28 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 30 | [nhhthong/clio](https://github.com/nhhthong/clio) | 2 | Shell | 2026-09-28 | A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true. |
-| 31 | [oujuncan/byteda-skill](https://github.com/oujuncan/byteda-skill) | 0 | Python | 2026-09-28 | ByteDa 百搭 Agent Skill — 一句话生成专业设计物料（海报/长图/社媒图文/PPT/条漫/H5/图片画布等），通过 ByteDa MCP 服务从文案到排版一站式完成。自包含 stdlib CLI。 |
-| 32 | [tonydzi/clawrush](https://github.com/tonydzi/clawrush) | 14 | Python | 2026-09-28 | C(H+A)RM build diary — a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to |
-| 33 | [zaha27/skills](https://github.com/zaha27/skills) | 1 | Shell | 2026-09-28 | Claude Code skills and the zaha workflow plugin |
-| 34 | [drnachio/postext](https://github.com/drnachio/postext) | 5 | TypeScript | 2026-09-28 | A programmable typesetter for the web |
-| 35 | [Kimeur/motion-launch-videos](https://github.com/Kimeur/motion-launch-videos) | 1 | HTML | 2026-09-28 | Claude Code plugin + skill: turn a short brief into a looping kinetic-typography launch video. One self-contained HTML f |
-| 36 | [hiyabh/claude-skills](https://github.com/hiyabh/claude-skills) | 0 | HTML | 2026-09-28 | כל הסקילים של בין קודש לקלוד ל-Claude Code במקום אחד - דף הסבר והתקנה בהדבקה אחת לכל סקיל |
-| 37 | [ajitta/Game-Engagement-Retention-Skills](https://github.com/ajitta/Game-Engagement-Retention-Skills) | 1 | Shell | 2026-09-28 | A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer  |
-| 38 | [ridelink0/ultimate-frontend-skills](https://github.com/ridelink0/ultimate-frontend-skills) | 6 | JavaScript | 2026-09-28 | Claude Code and Codex frontend skills for cinematic websites: art direction, WebGL, parallax, three.js, audit. |
-| 39 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | 1626 | Python | 2026-09-28 | ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u |
-| 40 | [hraness/textbutler](https://github.com/hraness/textbutler) | 6 | TypeScript | 2026-09-28 | Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a |
-| 41 | [devohmycode/claude-plugins](https://github.com/devohmycode/claude-plugins) | 0 | JavaScript | 2026-09-28 | Claude Code plugin marketplace by DevOhMyCode — scanner: local, profile-driven repository scans |
-| 42 | [mohitagw15856/pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) | 1411 | HTML | 2026-09-28 | 1166 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, l |
-| 43 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-09-28 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
-| 44 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 84403 | TypeScript | 2026-09-28 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
-| 45 | [Pedi-Solutions-Inc/pedi-skills](https://github.com/Pedi-Solutions-Inc/pedi-skills) | 3 | CSS | 2026-09-28 | Reusable, organization-wide Pedi skills for consistent product design and development across Codex, Claude Code, and oth |
-| 46 | [tomerhayundev/skills](https://github.com/tomerhayundev/skills) | 0 | JavaScript | 2026-09-28 | Claude Code skills: a master Remotion video skill with ten specialists broken out of it, production deploys on GitHub Ac |
-| 47 | [hanzhangzzz/agent-skills-zh](https://github.com/hanzhangzzz/agent-skills-zh) | 2 | Python | 2026-09-28 | Agent Skills for Claude Code & Codex (中文优先): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene,  |
-| 48 | [tmj-90/gaffer](https://github.com/tmj-90/gaffer) | 2 | TypeScript | 2026-09-28 | Self-hosted AI coding factory — sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local- |
-| 49 | [novanoticia/claude-skills-exporter](https://github.com/novanoticia/claude-skills-exporter) | 0 | Python | 2026-09-28 | Exporta skills de Claude al estándar Agent Skills. Audita compatibilidad destino a destino, escanea seguridad del paquet |
-| 50 | [raghuramsirigiri/raghuram-skills](https://github.com/raghuramsirigiri/raghuram-skills) | 1 | JavaScript | 2026-09-28 | Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero  |
+| 14 | [feverZHONG/liya-sillytavern-cards](https://github.com/feverZHONG/liya-sillytavern-cards) | 0 | Python | 2026-09-28 | 莉娅的酒馆写卡方法 —— 把角色资料写成 SillyTavern 角色卡（V2 格式 / PList+Ali:Chat 写法 / 机制清单 / 三个 Python 工具 / 从资料到成品卡的完整实例）。中文。 |
+| 15 | [feverZHONG/liya-persona-authoring](https://github.com/feverZHONG/liya-persona-authoring) | 0 | — | 2026-09-28 | 莉娅的人格文件方法论 —— 给 AI agent 写身份文件（SOUL.md 类）：创作流程 / 砍装饰留行为 / 身份文件减法（de-bloat）/ 漂移对照。附阁下原创角色设定写作模板 v1.2。 |
+| 16 | [feverZHONG/liya-subtraction-skill](https://github.com/feverZHONG/liya-subtraction-skill) | 0 | Python | 2026-09-28 | 莉娅的减法 skill —— 技能库精简与维护的方法论（冗余检测 · 拆薄 · 合并 · 归档判断），适用于任何 SKILL.md 体系的 agent。中文。 |
+| 17 | [feverZHONG/liya-dev-workflow](https://github.com/feverZHONG/liya-dev-workflow) | 0 | — | 2026-09-28 | 开发全流程方法论——环境侦查/计划/spike/TDD/迭代脚本/调试/预提交审查/推送排障/同步验收（纯文档，含 14 份调试手册） |
+| 18 | [hoshiyomiX/stellar-trail](https://github.com/hoshiyomiX/stellar-trail) | 0 | Shell | 2026-09-28 | Unified 6-phase execution discipline + persistent cross-session memory protocol for AI agents (installable via skills.sh |
+| 19 | [devohmycode/claude-plugins](https://github.com/devohmycode/claude-plugins) | 0 | JavaScript | 2026-09-28 | Claude Code plugin marketplace by DevOhMyCode — scanner: local, profile-driven repository scans |
+| 20 | [zaha27/skills](https://github.com/zaha27/skills) | 1 | Shell | 2026-09-28 | Claude Code skills and the zaha workflow plugin |
+| 21 | [dubaikseniia-wq/entra-search](https://github.com/dubaikseniia-wq/entra-search) | 1 | TypeScript | 2026-09-28 | Standalone MIT portal skill for ENTRA (entracareers.com). Copy into ai-job-search as .agents/skills/entra-search. Verifi |
+| 22 | [emirhansilsupur/elijr](https://github.com/emirhansilsupur/elijr) | 0 | — | 2026-09-28 | Explain Like I'm Junior: a Claude Code plugin that explains any topic to a junior developer with diagrams, code and comm |
+| 23 | [alexgreensh/anidoodle](https://github.com/alexgreensh/anidoodle) | 605 | TypeScript | 2026-09-28 | Art and animation, written as code. Illustrations, loops, interactive web art, stickers and scored films in dozens of st |
+| 24 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-09-28 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
+| 25 | [sgomez-dev/claude-skills](https://github.com/sgomez-dev/claude-skills) | 1 | Shell | 2026-09-28 | 327 specialists you can put to work inside Claude Code. Permission manifest on every skill, CI-validated, portable to Cu |
+| 26 | [coldteadotai/pr-lens](https://github.com/coldteadotai/pr-lens) | 1736 | TypeScript | 2026-09-28 | Understand a pull request, any codebase, or software visually, before you read a line of code |
+| 27 | [cuqu-net/cuqu-skill](https://github.com/cuqu-net/cuqu-skill) | 0 | Python | 2026-09-28 | CUQU找搭子官方 Agent Skill：让任意 AI Agent（Claude Code/Codex/Cursor/WorkBuddy）代用户找同城线下局、报名、支付、发局。MCP Streamable HTTP + 个人 API Ke |
+| 28 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 49 | Python | 2026-09-28 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 29 | [coinpaprika/skills](https://github.com/coinpaprika/skills) | 7 | — | 2026-09-28 | Claude Code skills for querying Coinpaprika and DexPaprika crypto market data (CEX prices, DEX pools, tokens, OHLCV). |
+| 30 | [ragnarwestad/aide](https://github.com/ragnarwestad/aide) | 0 | TypeScript | 2026-09-28 | Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) — specs, skills and a dashboard |
+| 31 | [dinhanhthi/coding-friend](https://github.com/dinhanhthi/coding-friend) | 3 | TypeScript | 2026-09-28 | Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig |
+| 32 | [alekseevdenis1995-ai/mastermind](https://github.com/alekseevdenis1995-ai/mastermind) | 2 | Python | 2026-09-28 | One command → a whole AI team for your project: Master orchestrator + specialists + memory for Claude Code |
+| 33 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69615 | TypeScript | 2026-09-28 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 34 | [lcy362/flint](https://github.com/lcy362/flint) | 31 | TypeScript | 2026-09-28 | Flint · local-skills-hub — a local-first personal AI skills asset manager. Centralize, tag, deduplicate skills, and depl |
+| 35 | [nicholyx/ai-skills](https://github.com/nicholyx/ai-skills) | 6 | Python | 2026-09-28 | 可复用的 Claude Code 技能集：Git 工作流、代码审查、Bug 根因分析、仓库分析等日常场景，以及把仓库改造成规范开源项目的完整流程。npx skills add nicholyx/ai-skills |
+| 36 | [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) | 0 | JavaScript | 2026-09-28 | A very opinionated Claude Code plugin for software engineering |
+| 37 | [anbeime/skill](https://github.com/anbeime/skill) | 7299 | Python | 2026-09-28 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The mo |
+| 38 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 37 | — | 2026-09-28 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
+| 39 | [slopstopper/plumb-line](https://github.com/slopstopper/plumb-line) | 4 | Python | 2026-09-28 | Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va |
+| 40 | [V-Songbird/hush](https://github.com/V-Songbird/hush) | 50 | JavaScript | 2026-09-28 | Quieter sessions for Claude Code: less narration, shorter tool output and concise answers focused on the result. |
+| 41 | [haoming-luo/agentfem](https://github.com/haoming-luo/agentfem) | 18 | Python | 2026-09-28 | AI-native open-source finite-element platform connecting engineering, computation, data, and AI. |
+| 42 | [aliepratama/taiga-cli](https://github.com/aliepratama/taiga-cli) | 3 | Python | 2026-09-28 | Unofficial zero-dependency Taiga.io CLI and AI agent skill. Token-efficient TOON output for LLM context windows. Python  |
+| 43 | [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) | 6200 | Python | 2026-09-28 | Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests |
+| 44 | [nhhthong/clio](https://github.com/nhhthong/clio) | 2 | Shell | 2026-09-28 | A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true. |
+| 45 | [oujuncan/byteda-skill](https://github.com/oujuncan/byteda-skill) | 0 | Python | 2026-09-28 | ByteDa 百搭 Agent Skill — 一句话生成专业设计物料（海报/长图/社媒图文/PPT/条漫/H5/图片画布等），通过 ByteDa MCP 服务从文案到排版一站式完成。自包含 stdlib CLI。 |
+| 46 | [tonydzi/clawrush](https://github.com/tonydzi/clawrush) | 14 | Python | 2026-09-28 | C(H+A)RM build diary — a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to |
+| 47 | [drnachio/postext](https://github.com/drnachio/postext) | 5 | TypeScript | 2026-09-28 | A programmable typesetter for the web |
+| 48 | [Kimeur/motion-launch-videos](https://github.com/Kimeur/motion-launch-videos) | 1 | HTML | 2026-09-28 | Claude Code plugin + skill: turn a short brief into a looping kinetic-typography launch video. One self-contained HTML f |
+| 49 | [hiyabh/claude-skills](https://github.com/hiyabh/claude-skills) | 0 | HTML | 2026-09-28 | כל הסקילים של בין קודש לקלוד ל-Claude Code במקום אחד - דף הסבר והתקנה בהדבקה אחת לכל סקיל |
+| 50 | [ajitta/Game-Engagement-Retention-Skills](https://github.com/ajitta/Game-Engagement-Retention-Skills) | 1 | Shell | 2026-09-28 | A Claude Code plugin of three routed skills for in-session reward moments and lifecycle retention in games and consumer  |
 <!-- TRACKER_TABLE_END -->
 
 ---
