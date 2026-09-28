@@ -1,5 +1,23 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-28T15:29:28Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Find the dead weight in your agent's skill library: what it costs per message, which skills never fire, and which SKILL.",
+    "id": "Galactic717/skillrot",
+    "language": "Python",
+    "name": "Galactic717/skillrot",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:28:51Z",
+    "url": "https://github.com/Galactic717/skillrot"
+  },
+  {
     "description": "A self-bootstrapping, self-healing agent engineering skill for any repository.",
     "id": "Drix10/agent-flow",
     "language": "TypeScript",
@@ -27,21 +45,12 @@
     "url": "https://github.com/Bria-AI/bria-skill"
   },
   {
-    "description": "Find the dead weight in your agent's skill library: what it costs per message, which skills never fire, and which SKILL.",
-    "id": "Galactic717/skillrot",
-    "language": "Python",
-    "name": "Galactic717/skillrot",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:28:51Z",
-    "url": "https://github.com/Galactic717/skillrot"
-  },
-  {
     "description": "Professional low-token mode for Claude: 62% fewer reply tokens than no skill, 41% fewer than caveman, same accuracy. Cla",
     "id": "sahilnikam2410/distill",
     "language": "Python",
     "name": "sahilnikam2410/distill",
     "stars": 0,
-    "updated_at": "2026-09-28T15:21:40Z",
+    "updated_at": "2026-09-28T15:29:51Z",
     "url": "https://github.com/sahilnikam2410/distill"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 70,
     "updated_at": "2026-09-28T15:16:30Z",
     "url": "https://github.com/roedyrustam/vibes-plug"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-28T15:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
