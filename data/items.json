@@ -1,5 +1,149 @@
 [
   {
+    "description": "Find the dead weight in your agent's skill library: what it costs per message, which skills never fire, and which SKILL.",
+    "id": "Galactic717/skillrot",
+    "language": "Python",
+    "name": "Galactic717/skillrot",
+    "stars": 0,
+    "updated_at": "2026-09-28T16:00:09Z",
+    "url": "https://github.com/Galactic717/skillrot"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 46,
+    "updated_at": "2026-09-28T15:59:48Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:59:42Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 7,
+    "updated_at": "2026-09-28T15:57:28Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Claude Code skill: use Overleaf through git \u2014 sync generated tables/figures with a shared paper without destroying coaut",
+    "id": "ChernXiangyu/overleaf-git-skill",
+    "language": "Shell",
+    "name": "ChernXiangyu/overleaf-git-skill",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:56:46Z",
+    "url": "https://github.com/ChernXiangyu/overleaf-git-skill"
+  },
+  {
+    "description": "Agent skills and a logged REPL surface for Guile Scheme: guile3 --debug --listen plus a transcript-logging proxy on PORT",
+    "id": "dsp-dr/guile-skills",
+    "language": "Shell",
+    "name": "dsp-dr/guile-skills",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:56:29Z",
+    "url": "https://github.com/dsp-dr/guile-skills"
+  },
+  {
+    "description": "Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig",
+    "id": "dinhanhthi/coding-friend",
+    "language": "TypeScript",
+    "name": "dinhanhthi/coding-friend",
+    "stars": 3,
+    "updated_at": "2026-09-28T15:56:39Z",
+    "url": "https://github.com/dinhanhthi/coding-friend"
+  },
+  {
+    "description": "International Justice and tribunals",
+    "id": "jeannesulzer/international-criminal-tribunals-skills",
+    "language": "Python",
+    "name": "jeannesulzer/international-criminal-tribunals-skills",
+    "stars": 4,
+    "updated_at": "2026-09-28T15:54:03Z",
+    "url": "https://github.com/jeannesulzer/international-criminal-tribunals-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69623,
+    "updated_at": "2026-09-28T15:59:26Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30857,
+    "updated_at": "2026-09-28T15:52:58Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:52:42Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Skills de IA em portugu\u00eas, por profiss\u00e3o: corretor de im\u00f3veis, prospec\u00e7\u00e3o e busca de vaga. Plugins do Claude Code que gu",
+    "id": "kapstanhq/oficina",
+    "language": "JavaScript",
+    "name": "kapstanhq/oficina",
+    "stars": 1,
+    "updated_at": "2026-09-28T15:52:05Z",
+    "url": "https://github.com/kapstanhq/oficina"
+  },
+  {
+    "description": "The go-to-market operating system for early-stage software products. AI marketing skills for Claude Code - scored audits",
+    "id": "adaptico/adaptico-os",
+    "language": "JavaScript",
+    "name": "adaptico/adaptico-os",
+    "stars": 19,
+    "updated_at": "2026-09-28T15:49:54Z",
+    "url": "https://github.com/adaptico/adaptico-os"
+  },
+  {
+    "description": "Professional low-token mode for Claude: 62% fewer reply tokens than no skill, 41% fewer than caveman, same accuracy. Cla",
+    "id": "sahilnikam2410/distill",
+    "language": "Python",
+    "name": "sahilnikam2410/distill",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:45:41Z",
+    "url": "https://github.com/sahilnikam2410/distill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-28T15:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-28T15:44:51Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
     "description": "\u5c0f\u7ea2\u4e66\u8fdd\u7981\u8bcd\u79bb\u7ebf\u68c0\u6d4b\uff08\u5355\u4e00\u771f\u76f8\u6e90\uff09\uff1a\u7eaf\u672c\u5730\u8bcd\u5e93 + \u626b\u63cf\u811a\u672c\uff0c\u4e0d\u4f9d\u8d56\u4ed8\u8d39 API\uff0c\u8986\u76d6\u514d\u8d39\u8bfe\u7a0b/\u8bc1\u4e66\u7b49\u573a\u666f\u7684\u5b9e\u6d4b\u9650\u6d41\u8bcd\u3002\u53d1\u5e03\u524d\u5fc5\u8dd1\uff0c\u9000\u51fa\u7801 0 \u624d\u53ef\u53d1\u5e03\u3002Offline prohibited-word checker for Xiaohon",
     "id": "bonniegeng-max/xiaohongshu-prohibited-words",
     "language": "Python",
@@ -7,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T15:44:38Z",
     "url": "https://github.com/bonniegeng-max/xiaohongshu-prohibited-words"
-  },
-  {
-    "description": "Find the dead weight in your agent's skill library: what it costs per message, which skills never fire, and which SKILL.",
-    "id": "Galactic717/skillrot",
-    "language": "Python",
-    "name": "Galactic717/skillrot",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:43:42Z",
-    "url": "https://github.com/Galactic717/skillrot"
   },
   {
     "description": "Craft, encoded. 152 skills and 16 agents that hold an agent to a professional standard: writing, documents, engineering,",
@@ -63,15 +198,6 @@
     "url": "https://github.com/tmj-90/gaffer"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69623,
-    "updated_at": "2026-09-28T15:44:10Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -79,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T15:38:57Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 46,
-    "updated_at": "2026-09-28T15:38:35Z",
-    "url": "https://github.com/Servosity/msp-skills"
   },
   {
     "description": "Claude Code skills for Bria AI - generate, edit, and transform images with Fibo, RMBG-2.0, and VGL structured prompts",
@@ -104,7 +221,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 35,
-    "updated_at": "2026-09-28T15:43:01Z",
+    "updated_at": "2026-09-28T15:59:17Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -135,24 +252,6 @@
     "url": "https://github.com/Mort1d/motion-graphics-skills"
   },
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 7,
-    "updated_at": "2026-09-28T15:35:26Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "Professional low-token mode for Claude: 62% fewer reply tokens than no skill, 41% fewer than caveman, same accuracy. Cla",
-    "id": "sahilnikam2410/distill",
-    "language": "Python",
-    "name": "sahilnikam2410/distill",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:44:52Z",
-    "url": "https://github.com/sahilnikam2410/distill"
-  },
-  {
     "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
     "id": "semlith/semlith",
     "language": "Rust",
@@ -180,15 +279,6 @@
     "url": "https://github.com/lauchunchee/claude-life-admin"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-28T15:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "0mlkrizzz655335v/Claudecodeskills-",
     "language": "Python",
@@ -214,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T15:26:54Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-28T15:44:51Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
@@ -277,6 +358,15 @@
     "stars": 0,
     "updated_at": "2026-09-28T15:11:35Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
+    "id": "zenstory-ai/drama-skills",
+    "language": "Python",
+    "name": "zenstory-ai/drama-skills",
+    "stars": 2338,
+    "updated_at": "2026-09-28T15:11:21Z",
+    "url": "https://github.com/zenstory-ai/drama-skills"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -338,7 +428,7 @@
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-09-28T15:37:24Z",
+    "updated_at": "2026-09-28T15:56:20Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T15:03:17Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
-    "id": "xsyetopz/dotclaude",
-    "language": "JavaScript",
-    "name": "xsyetopz/dotclaude",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:03:06Z",
-    "url": "https://github.com/xsyetopz/dotclaude"
-  },
-  {
-    "description": "Shared skills, rules, commands, subagents, and output styles for Claude Code, Cursor, and Codex.",
-    "id": "stijnvanhulle/agents",
-    "language": "JavaScript",
-    "name": "stijnvanhulle/agents",
-    "stars": 1,
-    "updated_at": "2026-09-28T15:02:59Z",
-    "url": "https://github.com/stijnvanhulle/agents"
-  },
-  {
-    "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
-    "id": "ralvarezdev/ralvaskills",
-    "language": "Go",
-    "name": "ralvarezdev/ralvaskills",
-    "stars": 2,
-    "updated_at": "2026-09-28T15:01:57Z",
-    "url": "https://github.com/ralvarezdev/ralvaskills"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for Stockbit (Indonesian / IDX market) \u2014 broker summary / bandarmology, quotes, top ",
-    "id": "INo-xious/stockbit-mcp",
-    "language": "TypeScript",
-    "name": "INo-xious/stockbit-mcp",
-    "stars": 45,
-    "updated_at": "2026-09-28T14:57:50Z",
-    "url": "https://github.com/INo-xious/stockbit-mcp"
-  },
-  {
-    "description": "My personal, curated set of artifacts for AI coding agents",
-    "id": "sergeyklay/.agents",
-    "language": "Python",
-    "name": "sergeyklay/.agents",
-    "stars": 6,
-    "updated_at": "2026-09-28T14:57:31Z",
-    "url": "https://github.com/sergeyklay/.agents"
-  },
-  {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 6,
-    "updated_at": "2026-09-28T15:10:41Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
-    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
-    "id": "gooseworks-ai/goose-skills",
-    "language": "Python",
-    "name": "gooseworks-ai/goose-skills",
-    "stars": 1226,
-    "updated_at": "2026-09-28T15:11:51Z",
-    "url": "https://github.com/gooseworks-ai/goose-skills"
-  },
-  {
-    "description": "AI-readable paper skill (Paper2Agent) for Fischer et al. 2025, J. Power Sources 656, 237921: capacity fade vs. resistanc",
-    "id": "MarcoFischer1995/JPSFischerEtAl2025",
-    "language": "\u2014",
-    "name": "MarcoFischer1995/JPSFischerEtAl2025",
-    "stars": 0,
-    "updated_at": "2026-09-28T14:54:40Z",
-    "url": "https://github.com/MarcoFischer1995/JPSFischerEtAl2025"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30856,
-    "updated_at": "2026-09-28T15:36:04Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-28T14:51:07Z",
-    "url": "https://github.com/Hefrock/agent-skills"
   }
 ]
