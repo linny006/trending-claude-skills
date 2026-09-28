@@ -1,5 +1,122 @@
 [
   {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 4,
+    "updated_at": "2026-09-28T03:13:39Z",
+    "url": "https://github.com/hraness/oh"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 3,
+    "updated_at": "2026-09-28T03:12:27Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-09-28T03:11:41Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Find which of your exact dependency versions your coding agent writes wrong, and fix it with a small AGENTS.md note veri",
+    "id": "MohammadHijjawi97/since-cutoff",
+    "language": "Python",
+    "name": "MohammadHijjawi97/since-cutoff",
+    "stars": 4,
+    "updated_at": "2026-09-28T03:11:02Z",
+    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
+  },
+  {
+    "description": "Agent skills for code review, scoped refactoring, and repository development. Includes Codex installation instructions, ",
+    "id": "Natchannnn/repository-engineering-skills",
+    "language": "Python",
+    "name": "Natchannnn/repository-engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-09-28T03:10:12Z",
+    "url": "https://github.com/Natchannnn/repository-engineering-skills"
+  },
+  {
+    "description": "14 open source Agent Skills (SKILL.md) for one-person companies run with AI: Vietnamese transcripts, copy and voice dict",
+    "id": "ducdg88/ducpt-skills",
+    "language": "Python",
+    "name": "ducdg88/ducpt-skills",
+    "stars": 0,
+    "updated_at": "2026-09-28T03:08:34Z",
+    "url": "https://github.com/ducdg88/ducpt-skills"
+  },
+  {
+    "description": "Run several Claude Code sessions in parallel from any browser, phone included: live tmux terminals, per-session state fr",
+    "id": "Ramillax/claude-code-control-room",
+    "language": "Python",
+    "name": "Ramillax/claude-code-control-room",
+    "stars": 0,
+    "updated_at": "2026-09-28T03:08:25Z",
+    "url": "https://github.com/Ramillax/claude-code-control-room"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 428,
+    "updated_at": "2026-09-28T03:04:14Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and de",
+    "id": "Likenttt/garmin-connect-plugin-for-dsh",
+    "language": "TypeScript",
+    "name": "Likenttt/garmin-connect-plugin-for-dsh",
+    "stars": 22,
+    "updated_at": "2026-09-28T03:03:11Z",
+    "url": "https://github.com/Likenttt/garmin-connect-plugin-for-dsh"
+  },
+  {
+    "description": "Second Take \u2014 \u5f53 AI \u7ed9\u7684\u7b54\u6848\u4e0d\u6ee1\u610f\uff0c\u8bf4\u4e00\u53e5\"\u518d\u6765\u4e00\u6761\"\uff0c\u5e26\u4e0a\u8bca\u65ad\u597d\u7684\u91cd\u62cd\u5355\uff0c\u8ba9\u539f AI \u76f4\u63a5\u7ed9\u51fa\u66f4\u597d\u7684\u6700\u7ec8\u7b54\u6848\u3002A meta-skill for diagnosing and re-shooting weak AI rea",
+    "id": "flashfrogluo/second-take",
+    "language": "Python",
+    "name": "flashfrogluo/second-take",
+    "stars": 0,
+    "updated_at": "2026-09-28T03:02:41Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "",
+    "id": "fmschulz/omics-skills",
+    "language": "Python",
+    "name": "fmschulz/omics-skills",
+    "stars": 9,
+    "updated_at": "2026-09-28T03:01:59Z",
+    "url": "https://github.com/fmschulz/omics-skills"
+  },
+  {
+    "description": "A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true.",
+    "id": "nhhthong/clio",
+    "language": "Shell",
+    "name": "nhhthong/clio",
+    "stars": 2,
+    "updated_at": "2026-09-28T03:01:10Z",
+    "url": "https://github.com/nhhthong/clio"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-28T03:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free agent skills for evidence-based competitor research and Google Search Console optimization. Optional Tracetify MCP ",
     "id": "tracetify/skills",
     "language": "Python",
@@ -9,15 +126,6 @@
     "url": "https://github.com/tracetify/skills"
   },
   {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 4,
-    "updated_at": "2026-09-28T02:58:36Z",
-    "url": "https://github.com/hraness/oh"
-  },
-  {
     "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
     "id": "JakeSelby/model-citizen",
     "language": "Python",
@@ -25,15 +133,6 @@
     "stars": 23,
     "updated_at": "2026-09-28T02:57:32Z",
     "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
-    "description": "Agent skills for code review, scoped refactoring, and repository development. Includes Codex installation instructions, ",
-    "id": "Natchannnn/repository-engineering-skills",
-    "language": "Python",
-    "name": "Natchannnn/repository-engineering-skills",
-    "stars": 0,
-    "updated_at": "2026-09-28T02:56:46Z",
-    "url": "https://github.com/Natchannnn/repository-engineering-skills"
   },
   {
     "description": "Claude Skills",
@@ -52,6 +151,15 @@
     "stars": 23,
     "updated_at": "2026-09-28T02:54:57Z",
     "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Whalory makes the AI you already use write like a professional copywriter, in English and Persian. Free Core edition.",
+    "id": "bjafaribox-prog/whalory",
+    "language": "\u2014",
+    "name": "bjafaribox-prog/whalory",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:54:38Z",
+    "url": "https://github.com/bjafaribox-prog/whalory"
   },
   {
     "description": "Cairn Memory: a Claude Code skill that keeps CLAUDE.md and agent memory cheap and true. Stops Claude forgetting, re-read",
@@ -90,13 +198,13 @@
     "url": "https://github.com/dlazy-ai/ecommerce-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-28T02:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69604,
+    "updated_at": "2026-09-28T03:13:13Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Textbutler is an AI butler for the iMessage, WhatsApp, and Beeper chats you choose. It runs on your Mac and answers as a",
@@ -124,24 +232,6 @@
     "stars": 539,
     "updated_at": "2026-09-28T02:43:59Z",
     "url": "https://github.com/zenstory-ai/video-recap-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69603,
-    "updated_at": "2026-09-28T02:48:18Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "",
-    "id": "fmschulz/omics-skills",
-    "language": "Python",
-    "name": "fmschulz/omics-skills",
-    "stars": 9,
-    "updated_at": "2026-09-28T02:39:15Z",
-    "url": "https://github.com/fmschulz/omics-skills"
   },
   {
     "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 85 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, customer academy, paid ",
@@ -180,15 +270,6 @@
     "url": "https://github.com/claude-contrib/claude-skills"
   },
   {
-    "description": "A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true.",
-    "id": "nhhthong/clio",
-    "language": "Shell",
-    "name": "nhhthong/clio",
-    "stars": 2,
-    "updated_at": "2026-09-28T02:28:20Z",
-    "url": "https://github.com/nhhthong/clio"
-  },
-  {
     "description": "Downloadable agent skills for AI coding assistants \u2014 landing page replication, WebGL Three.js backgrounds, Doubao TTS & ",
     "id": "lizliz404/agent-skills",
     "language": "Python",
@@ -205,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T02:19:34Z",
     "url": "https://github.com/murilolol/muri-saver"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 428,
-    "updated_at": "2026-09-28T02:22:37Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Build kinetic-typography and logo promos as code with Remotion, shipping MP4s in 9:16 and 16:9 from one React codebase.",
@@ -261,15 +333,6 @@
     "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
   },
   {
-    "description": "Boundary-risk review skill for embedded C code: 13-item checklist covering tick wraparound, overflow, out-of-bounds, and",
-    "id": "clarayu-hub/embedded-c-boundary-review",
-    "language": "Python",
-    "name": "clarayu-hub/embedded-c-boundary-review",
-    "stars": 0,
-    "updated_at": "2026-09-28T02:08:41Z",
-    "url": "https://github.com/clarayu-hub/embedded-c-boundary-review"
-  },
-  {
     "description": "Learn any unfamiliar topic by building a hierarchical mental model: see the whole first, then go one level deeper at a t",
     "id": "datamino/tafheem",
     "language": "\u2014",
@@ -286,15 +349,6 @@
     "stars": 967,
     "updated_at": "2026-09-28T02:04:19Z",
     "url": "https://github.com/bitjaru/styleseed"
-  },
-  {
-    "description": "Run several Claude Code sessions in parallel from any browser, phone included: live tmux terminals, per-session state fr",
-    "id": "Ramillax/claude-code-control-room",
-    "language": "Python",
-    "name": "Ramillax/claude-code-control-room",
-    "stars": 0,
-    "updated_at": "2026-09-28T02:03:27Z",
-    "url": "https://github.com/Ramillax/claude-code-control-room"
   },
   {
     "description": "GEO Playbook agent skill: audit and improve a website's visibility in AI answers (ChatGPT, Google AI Overviews/AI Mode, ",
@@ -394,59 +448,5 @@
     "stars": 1730,
     "updated_at": "2026-09-28T01:55:30Z",
     "url": "https://github.com/coldteadotai/pr-lens"
-  },
-  {
-    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 145,
-    "updated_at": "2026-09-28T02:19:20Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Build production-grade mobile apps faster with simulator-verified skills tested against top-grossing apps.",
-    "id": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "language": "\u2014",
-    "name": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:53:55Z",
-    "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
-    "id": "mucinous-riposte867/evidence-based-copywriting",
-    "language": "Python",
-    "name": "mucinous-riposte867/evidence-based-copywriting",
-    "stars": 1,
-    "updated_at": "2026-09-28T01:53:55Z",
-    "url": "https://github.com/mucinous-riposte867/evidence-based-copywriting"
-  },
-  {
-    "description": "Curated modular agent skills for LLM-based assistants to extend AI capabilities and enable autonomous agents.",
-    "id": "graceupperclass437/agent-skills-collection",
-    "language": "Python",
-    "name": "graceupperclass437/agent-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:53:08Z",
-    "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
-    "id": "Trudiemisanthropic314/tiktok-video-skill",
-    "language": "Python",
-    "name": "Trudiemisanthropic314/tiktok-video-skill",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:53:07Z",
-    "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:52:07Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
   }
 ]
