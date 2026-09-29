@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
+    "id": "nicholyx/ai-skills",
+    "language": "Python",
+    "name": "nicholyx/ai-skills",
+    "stars": 6,
+    "updated_at": "2026-09-29T06:57:29Z",
+    "url": "https://github.com/nicholyx/ai-skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-29T06:56:45Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "ego lite skill \u2014 each DOM step decided in ~0.4s, no LLM turn",
+    "id": "ZephyrDeng/ego-jev",
+    "language": "TypeScript",
+    "name": "ZephyrDeng/ego-jev",
+    "stars": 11,
+    "updated_at": "2026-09-29T06:56:12Z",
+    "url": "https://github.com/ZephyrDeng/ego-jev"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T06:56:04Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
     "id": "StanimirTenev/baton",
     "language": "Python",
@@ -40,7 +76,7 @@
     "id": "eatmoreduck/boss-zhipin-scraper",
     "language": "Python",
     "name": "eatmoreduck/boss-zhipin-scraper",
-    "stars": 1489,
+    "stars": 1490,
     "updated_at": "2026-09-29T06:51:57Z",
     "url": "https://github.com/eatmoreduck/boss-zhipin-scraper"
   },
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "tmj-90/gaffer",
     "stars": 2,
-    "updated_at": "2026-09-29T06:47:27Z",
+    "updated_at": "2026-09-29T06:58:09Z",
     "url": "https://github.com/tmj-90/gaffer"
   },
   {
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30862,
-    "updated_at": "2026-09-29T06:54:12Z",
+    "updated_at": "2026-09-29T06:59:44Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69640,
-    "updated_at": "2026-09-29T06:54:02Z",
+    "updated_at": "2026-09-29T06:58:23Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T06:47:06Z",
     "url": "https://github.com/docsor1212/cite-holmes"
-  },
-  {
-    "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
-    "id": "nicholyx/ai-skills",
-    "language": "Python",
-    "name": "nicholyx/ai-skills",
-    "stars": 6,
-    "updated_at": "2026-09-29T06:55:17Z",
-    "url": "https://github.com/nicholyx/ai-skills"
   },
   {
     "description": "A real PowerPoint, not a picture. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Ag",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T06:45:21Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T06:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "ragnarwestad/aide",
     "stars": 0,
-    "updated_at": "2026-09-29T06:51:37Z",
+    "updated_at": "2026-09-29T07:00:11Z",
     "url": "https://github.com/ragnarwestad/aide"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T06:11:20Z",
     "url": "https://github.com/hraness/soulscrape"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-29T06:04:19Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
-    "id": "icepower-385/Everything-Claude-Code",
-    "language": "\u2014",
-    "name": "icepower-385/Everything-Claude-Code",
-    "stars": 1,
-    "updated_at": "2026-09-29T06:03:09Z",
-    "url": "https://github.com/icepower-385/Everything-Claude-Code"
   }
 ]
