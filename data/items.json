@@ -1,12 +1,111 @@
 [
   {
+    "description": "One command \u2192 a whole AI team for your project: Master orchestrator + specialists + memory for Claude Code",
+    "id": "alekseevdenis1995-ai/mastermind",
+    "language": "Python",
+    "name": "alekseevdenis1995-ai/mastermind",
+    "stars": 2,
+    "updated_at": "2026-09-29T13:59:00Z",
+    "url": "https://github.com/alekseevdenis1995-ai/mastermind"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 23,
+    "updated_at": "2026-09-29T13:58:42Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 31,
+    "updated_at": "2026-09-29T13:58:23Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:57:56Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A small Bridgetown blog used as an end-to-end test fixture for the axc-og-cards skill",
+    "id": "alvincrespo/axc-og-fixture",
+    "language": "JavaScript",
+    "name": "alvincrespo/axc-og-fixture",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:57:26Z",
+    "url": "https://github.com/alvincrespo/axc-og-fixture"
+  },
+  {
+    "description": "Agent skill: find your ICP and validate GTM messaging by testing copy against simulated buyer personas",
+    "id": "ResearchifyLabs/icp-gtm-sim",
+    "language": "\u2014",
+    "name": "ResearchifyLabs/icp-gtm-sim",
+    "stars": 1,
+    "updated_at": "2026-09-29T13:57:18Z",
+    "url": "https://github.com/ResearchifyLabs/icp-gtm-sim"
+  },
+  {
+    "description": "Generates a test suite from acceptance criteria, then converges code against it with an agent that never sees those crit",
+    "id": "gal-a/qikly",
+    "language": "Python",
+    "name": "gal-a/qikly",
+    "stars": 15,
+    "updated_at": "2026-09-29T13:57:01Z",
+    "url": "https://github.com/gal-a/qikly"
+  },
+  {
+    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
+    "id": "reem-plus/quiver-compass",
+    "language": "HTML",
+    "name": "reem-plus/quiver-compass",
+    "stars": 0,
+    "updated_at": "2026-09-29T13:56:26Z",
+    "url": "https://github.com/reem-plus/quiver-compass"
+  },
+  {
+    "description": "Open-source Claude Code skills: refine-loop, sergio-loop, git-sync",
+    "id": "GeiserX/claude-skills",
+    "language": "Python",
+    "name": "GeiserX/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-09-29T13:55:42Z",
+    "url": "https://github.com/GeiserX/claude-skills"
+  },
+  {
     "description": "Agent skills that prove they work, plus a zero-dependency scanner that vets any skill before you install it.",
     "id": "nadirali1350/vetted",
     "language": "JavaScript",
     "name": "nadirali1350/vetted",
     "stars": 0,
-    "updated_at": "2026-09-29T13:53:19Z",
+    "updated_at": "2026-09-29T13:56:36Z",
     "url": "https://github.com/nadirali1350/vetted"
+  },
+  {
+    "description": "",
+    "id": "petersonsenadevs/dev-standars",
+    "language": "HTML",
+    "name": "petersonsenadevs/dev-standars",
+    "stars": 0,
+    "updated_at": "2026-09-29T14:00:06Z",
+    "url": "https://github.com/petersonsenadevs/dev-standars"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T13:53:24Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skills to help developers using AI agents with Lingui",
@@ -25,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-09-29T13:50:20Z",
     "url": "https://github.com/ethanaubuchon/dossier-tradecraft"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 31,
-    "updated_at": "2026-09-29T13:50:06Z",
-    "url": "https://github.com/travsteward/openwriter"
   },
   {
     "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
@@ -61,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-29T13:47:44Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T13:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Role-specialized engineering squad skills for AI coding agents.",
@@ -104,7 +185,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69645,
-    "updated_at": "2026-09-29T13:37:43Z",
+    "updated_at": "2026-09-29T13:59:08Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -142,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T13:37:49Z",
     "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 23,
-    "updated_at": "2026-09-29T13:53:12Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
     "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T13:16:40Z",
     "url": "https://github.com/Eliott0557/openclaw"
-  },
-  {
-    "description": "Seekter is a job-search agent that runs inside Claude Code: it searches job sources, filters postings against one candid",
-    "id": "selfishprimate/seekter",
-    "language": "Python",
-    "name": "selfishprimate/seekter",
-    "stars": 9,
-    "updated_at": "2026-09-29T13:17:02Z",
-    "url": "https://github.com/selfishprimate/seekter"
-  },
-  {
-    "description": "\ud83e\udd16 Connect DingTalk with OpenClaw Gateway for AI-driven chat responses and session management using a bot or DEAP Agent i",
-    "id": "ALI-FAHD/dingtalk-moltbot-connector",
-    "language": "TypeScript",
-    "name": "ALI-FAHD/dingtalk-moltbot-connector",
-    "stars": 3,
-    "updated_at": "2026-09-29T13:16:03Z",
-    "url": "https://github.com/ALI-FAHD/dingtalk-moltbot-connector"
-  },
-  {
-    "description": "\ud83d\udcb0 Optimize your Claude API usage to save 50-90% on costs with batching techniques and efficient request management.",
-    "id": "Louishin/claude-api-cost-optimization",
-    "language": "Python",
-    "name": "Louishin/claude-api-cost-optimization",
-    "stars": 4,
-    "updated_at": "2026-09-29T13:15:52Z",
-    "url": "https://github.com/Louishin/claude-api-cost-optimization"
-  },
-  {
-    "description": "Awesome Claude Code And Agent Tools",
-    "id": "cooler333/awesome-claude-code",
-    "language": "Python",
-    "name": "cooler333/awesome-claude-code",
-    "stars": 13,
-    "updated_at": "2026-09-29T13:13:15Z",
-    "url": "https://github.com/cooler333/awesome-claude-code"
-  },
-  {
-    "description": "Agent-driven proactive memory CLI for AI agents \u2014 autonomously recall, maintain, and evolve persistent, source-grounded ",
-    "id": "JanYork/llm-wiki-cli",
-    "language": "Rust",
-    "name": "JanYork/llm-wiki-cli",
-    "stars": 56,
-    "updated_at": "2026-09-29T13:12:08Z",
-    "url": "https://github.com/JanYork/llm-wiki-cli"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Gamify your career progression with SkillForge, an RPG system that turns your professional journey into an epic adven",
-    "id": "kriid08/SkillForge",
-    "language": "JavaScript",
-    "name": "kriid08/SkillForge",
-    "stars": 1,
-    "updated_at": "2026-09-29T13:11:32Z",
-    "url": "https://github.com/kriid08/SkillForge"
-  },
-  {
-    "description": "Research with Perplexity, ChatGPT or Gemini and know which claims hold up. An agent skill for source-demanding research ",
-    "id": "dogancoban/deep-research-companion",
-    "language": "Python",
-    "name": "dogancoban/deep-research-companion",
-    "stars": 1,
-    "updated_at": "2026-09-29T13:10:09Z",
-    "url": "https://github.com/dogancoban/deep-research-companion"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 429,
-    "updated_at": "2026-09-29T13:10:01Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   }
 ]
