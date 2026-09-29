@@ -1,5 +1,41 @@
 [
   {
+    "description": "A simple set of skills optimized for general-purpose software development across tech stacks.",
+    "id": "stevepolitodesign/skills",
+    "language": "JavaScript",
+    "name": "stevepolitodesign/skills",
+    "stars": 3,
+    "updated_at": "2026-09-29T01:14:12Z",
+    "url": "https://github.com/stevepolitodesign/skills"
+  },
+  {
+    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing know",
+    "id": "undefined-ui/second-brain-os",
+    "language": "HTML",
+    "name": "undefined-ui/second-brain-os",
+    "stars": 794,
+    "updated_at": "2026-09-29T01:13:02Z",
+    "url": "https://github.com/undefined-ui/second-brain-os"
+  },
+  {
+    "description": "Finds community Claude Code skills, reads every file, and produces a static security review with quoted findings. Instal",
+    "id": "bender1972/skill-finder",
+    "language": "PowerShell",
+    "name": "bender1972/skill-finder",
+    "stars": 0,
+    "updated_at": "2026-09-29T01:12:39Z",
+    "url": "https://github.com/bender1972/skill-finder"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T01:10:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -18,24 +54,6 @@
     "url": "https://github.com/qikairo7/penguin-oss-suite"
   },
   {
-    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing know",
-    "id": "undefined-ui/second-brain-os",
-    "language": "HTML",
-    "name": "undefined-ui/second-brain-os",
-    "stars": 794,
-    "updated_at": "2026-09-29T01:01:37Z",
-    "url": "https://github.com/undefined-ui/second-brain-os"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T01:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A cross-agent skill package manager with specialist skills for Java, JVM performance, software architecture, and distrib",
     "id": "robsonkades/agent-skills",
     "language": "TypeScript",
@@ -49,7 +67,7 @@
     "id": "LinklyAI/best-skills",
     "language": "\u2014",
     "name": "LinklyAI/best-skills",
-    "stars": 608,
+    "stars": 609,
     "updated_at": "2026-09-29T00:58:19Z",
     "url": "https://github.com/LinklyAI/best-skills"
   },
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-09-29T01:09:12Z",
+    "updated_at": "2026-09-29T01:15:05Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-29T01:05:17Z",
     "url": "https://github.com/Kimeur/motion-launch-videos"
-  },
-  {
-    "description": "Reusable Claude Code skills for Object Pascal work \u2014 dual-compiler Delphi/Lazarus projects",
-    "id": "fabianoallex/pascal-skills-faa",
-    "language": "Python",
-    "name": "fabianoallex/pascal-skills-faa",
-    "stars": 2,
-    "updated_at": "2026-09-29T00:14:15Z",
-    "url": "https://github.com/fabianoallex/pascal-skills-faa"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-09-29T00:13:41Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   }
 ]
