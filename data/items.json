@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
+    "id": "zeikar/dotfiles",
+    "language": "Shell",
+    "name": "zeikar/dotfiles",
+    "stars": 1,
+    "updated_at": "2026-09-29T12:28:25Z",
+    "url": "https://github.com/zeikar/dotfiles"
+  },
+  {
+    "description": "Everything published under your GitHub identity, approved card by card, and the homework before contributing upstream",
+    "id": "rokokol/contributing-skill",
+    "language": "Shell",
+    "name": "rokokol/contributing-skill",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:27:40Z",
+    "url": "https://github.com/rokokol/contributing-skill"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 5,
+    "updated_at": "2026-09-29T12:25:17Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-29T12:22:29Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Skills for claude code to follow dpdp rules 2025 based on dpdp act 2023",
+    "id": "sachin-uvera/dpdp-by-uvera",
+    "language": "\u2014",
+    "name": "sachin-uvera/dpdp-by-uvera",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:20:05Z",
+    "url": "https://github.com/sachin-uvera/dpdp-by-uvera"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6201,
+    "updated_at": "2026-09-29T12:19:33Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "Role-specialized engineering squad skills for AI coding agents.",
+    "id": "danh121097/squad-skills",
+    "language": "TypeScript",
+    "name": "danh121097/squad-skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:17:32Z",
+    "url": "https://github.com/danh121097/squad-skills"
+  },
+  {
+    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
+    "id": "FynePool/fanta-carbonara",
+    "language": "Python",
+    "name": "FynePool/fanta-carbonara",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:24:38Z",
+    "url": "https://github.com/FynePool/fanta-carbonara"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T12:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "120 \u0441\u043a\u0438\u043b\u043e\u0432 \u0438 40 \u043f\u0440\u0430\u0432\u0438\u043b \u0434\u043b\u044f Claude Code: \u0430\u0433\u0435\u043d\u0442 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0438\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438 1\u0421 (\u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435, \u0444\u043e\u0440\u043c\u044b, \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f, \u0440\u043e\u043b\u0438, \u0421\u041a\u0414, \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
     "id": "Desko77/claude-code-skills-1c",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
-    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
-    "id": "FynePool/fanta-carbonara",
-    "language": "Python",
-    "name": "FynePool/fanta-carbonara",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:11:43Z",
-    "url": "https://github.com/FynePool/fanta-carbonara"
-  },
-  {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
     "id": "geml-spec/geml",
     "language": "HTML",
@@ -41,7 +113,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69642,
-    "updated_at": "2026-09-29T12:11:22Z",
+    "updated_at": "2026-09-29T12:22:52Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -76,7 +148,7 @@
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 674,
+    "stars": 675,
     "updated_at": "2026-09-29T12:06:50Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
@@ -106,15 +178,6 @@
     "stars": 34,
     "updated_at": "2026-09-29T12:01:31Z",
     "url": "https://github.com/coupler-io/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T12:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code and Codex frontend skills for cinematic websites: art direction, WebGL, parallax, three.js, audit.",
@@ -211,7 +274,7 @@
     "id": "sergebulaev/youtube-skills",
     "language": "Python",
     "name": "sergebulaev/youtube-skills",
-    "stars": 40,
+    "stars": 41,
     "updated_at": "2026-09-29T11:48:02Z",
     "url": "https://github.com/sergebulaev/youtube-skills"
   },
@@ -241,15 +304,6 @@
     "stars": 3703,
     "updated_at": "2026-09-29T11:46:29Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
-  },
-  {
-    "description": "Role-specialized engineering squad skills for AI coding agents.",
-    "id": "danh121097/squad-skills",
-    "language": "TypeScript",
-    "name": "danh121097/squad-skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:46:20Z",
-    "url": "https://github.com/danh121097/squad-skills"
   },
   {
     "description": "\u7528\u4ee3\u7801\u526a\u97f3\u4e50\u89c6\u9891\uff1a\u4e00\u9996\u6b4c\uff0c\u4e09\u90e8\u7247\u5b50\uff0c\u4e24\u4e2a Claude Code \u6280\u80fd \u00b7 Music videos cut in code with Claude + HyperFrames + Three.js",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T11:28:13Z",
     "url": "https://github.com/petersonsenadevs/dev-standars"
-  },
-  {
-    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
-    "id": "gooseworks-ai/goose-skills",
-    "language": "Python",
-    "name": "gooseworks-ai/goose-skills",
-    "stars": 1226,
-    "updated_at": "2026-09-29T11:25:15Z",
-    "url": "https://github.com/gooseworks-ai/goose-skills"
-  },
-  {
-    "description": "A self-bootstrapping, self-healing agent engineering skill for any repository.",
-    "id": "Drix10/agent-flow",
-    "language": "JavaScript",
-    "name": "Drix10/agent-flow",
-    "stars": 10,
-    "updated_at": "2026-09-29T11:36:40Z",
-    "url": "https://github.com/Drix10/agent-flow"
-  },
-  {
-    "description": "Governed security-supply-chain framework for AI agents: 388 pinned skills, 39 commands and 33 personas, each behind a re",
-    "id": "devara1983ntr/blackheart-security-framework",
-    "language": "HTML",
-    "name": "devara1983ntr/blackheart-security-framework",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:24:31Z",
-    "url": "https://github.com/devara1983ntr/blackheart-security-framework"
-  },
-  {
-    "description": "Multi-agent stock and crypto research skill for Claude, a lite version of TradingAgents.",
-    "id": "RivaldoTimoty/trading-agents-lite",
-    "language": "Python",
-    "name": "RivaldoTimoty/trading-agents-lite",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:23:11Z",
-    "url": "https://github.com/RivaldoTimoty/trading-agents-lite"
-  },
-  {
-    "description": "Lets Claude Code manage Architecture Decision Records in your repository via the adrplus CLI, in plain language, instead",
-    "id": "FRACerqueira/AdrPlus-IA-Plugin",
-    "language": "Python",
-    "name": "FRACerqueira/AdrPlus-IA-Plugin",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:18:44Z",
-    "url": "https://github.com/FRACerqueira/AdrPlus-IA-Plugin"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 28,
-    "updated_at": "2026-09-29T11:17:03Z",
-    "url": "https://github.com/Borda/AI-Rig"
   }
 ]
