@@ -1,12 +1,57 @@
 [
   {
-    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
-    "id": "inbrace-tech/claude-skills",
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "HTML",
+    "name": "vanducng/skills",
+    "stars": 8,
+    "updated_at": "2026-09-29T06:12:36Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-29T06:12:21Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "A project-memory kit for .claude/: layout, ledgers, and the loop that keeps them true.",
+    "id": "nhhthong/clio",
+    "language": "Python",
+    "name": "nhhthong/clio",
+    "stars": 2,
+    "updated_at": "2026-09-29T06:11:38Z",
+    "url": "https://github.com/nhhthong/clio"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
-    "name": "inbrace-tech/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-09-29T06:00:02Z",
-    "url": "https://github.com/inbrace-tech/claude-skills"
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69638,
+    "updated_at": "2026-09-29T06:14:34Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
+    "id": "xsyetopz/dotclaude",
+    "language": "JavaScript",
+    "name": "xsyetopz/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-09-29T06:08:25Z",
+    "url": "https://github.com/xsyetopz/dotclaude"
+  },
+  {
+    "description": "Agent skills for code review, scoped refactoring, and repository development. Includes installation instructions, evalua",
+    "id": "Natchannnn/repository-engineering-skills",
+    "language": "Python",
+    "name": "Natchannnn/repository-engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T06:12:26Z",
+    "url": "https://github.com/Natchannnn/repository-engineering-skills"
   },
   {
     "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "StanimirTenev/baton",
     "stars": 0,
-    "updated_at": "2026-09-29T05:59:58Z",
+    "updated_at": "2026-09-29T06:05:28Z",
     "url": "https://github.com/StanimirTenev/baton"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-29T06:04:19Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
+    "id": "icepower-385/Everything-Claude-Code",
+    "language": "\u2014",
+    "name": "icepower-385/Everything-Claude-Code",
+    "stars": 1,
+    "updated_at": "2026-09-29T06:03:09Z",
+    "url": "https://github.com/icepower-385/Everything-Claude-Code"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T06:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
+    "id": "inbrace-tech/claude-skills",
+    "language": "TypeScript",
+    "name": "inbrace-tech/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-29T06:11:50Z",
+    "url": "https://github.com/inbrace-tech/claude-skills"
   },
   {
     "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
@@ -32,7 +113,7 @@
     "language": "JavaScript",
     "name": "Romandredan/1c-quality-gate",
     "stars": 27,
-    "updated_at": "2026-09-29T06:00:00Z",
+    "updated_at": "2026-09-29T06:03:19Z",
     "url": "https://github.com/Romandredan/1c-quality-gate"
   },
   {
@@ -54,12 +135,12 @@
     "url": "https://github.com/kamenkurtev/ui-consistency"
   },
   {
-    "description": "Six Claude Code skills (architect, review-swarm, ask-the-council, prompt-generator, up-to-date, ponytail) bundled as an ",
+    "description": "Six Claude Code skills + an unattended build loop, each measured with and without the plugin. 19/19 evals passing.",
     "id": "alonbaron/claude-skills",
     "language": "JavaScript",
     "name": "alonbaron/claude-skills",
     "stars": 12,
-    "updated_at": "2026-09-29T05:56:45Z",
+    "updated_at": "2026-09-29T06:05:13Z",
     "url": "https://github.com/alonbaron/claude-skills"
   },
   {
@@ -99,15 +180,6 @@
     "url": "https://github.com/jasonm4130/claude-skills"
   },
   {
-    "description": "Agent skills for code review, scoped refactoring, and repository development. Includes installation instructions, evalua",
-    "id": "Natchannnn/repository-engineering-skills",
-    "language": "Python",
-    "name": "Natchannnn/repository-engineering-skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:52:37Z",
-    "url": "https://github.com/Natchannnn/repository-engineering-skills"
-  },
-  {
     "description": "A reusable research-onboarding skill for Claude, ChatGPT, Codex, and other instruction-following agents.",
     "id": "ljx-chase/research-field-onboarding",
     "language": "Python",
@@ -126,15 +198,6 @@
     "url": "https://github.com/savanna0425/skillhot"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69637,
-    "updated_at": "2026-09-29T05:59:25Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Laravel Boost DDD gives agents the architectural rules they need to keep Domain, Application and Infrastructure boundari",
     "id": "maiobarbero/laravel-boost-ddd",
     "language": "PHP",
@@ -151,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-09-29T05:45:51Z",
     "url": "https://github.com/Neetx/ai-security-research-radar"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T05:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 86 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, paid media, social list",
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "hraness/textbutler",
     "stars": 6,
-    "updated_at": "2026-09-29T05:51:33Z",
+    "updated_at": "2026-09-29T06:11:05Z",
     "url": "https://github.com/hraness/textbutler"
   },
   {
@@ -275,7 +329,7 @@
     "language": "TypeScript",
     "name": "hraness/wordcell",
     "stars": 16,
-    "updated_at": "2026-09-29T05:30:45Z",
+    "updated_at": "2026-09-29T06:13:15Z",
     "url": "https://github.com/hraness/wordcell"
   },
   {
@@ -342,15 +396,6 @@
     "url": "https://github.com/Caroline0222/My-skills"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-09-29T05:44:28Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "CUQU\u627e\u642d\u5b50\u5b98\u65b9 Agent Skill\uff1a\u8ba9\u4efb\u610f AI Agent\uff08Claude Code/Codex/Cursor/WorkBuddy\uff09\u4ee3\u7528\u6237\u627e\u540c\u57ce\u7ebf\u4e0b\u5c40\u3001\u62a5\u540d\u3001\u652f\u4ed8\u3001\u53d1\u5c40\u3002MCP Streamable HTTP + \u4e2a\u4eba API Ke",
     "id": "cuqu-net/cuqu-skill",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T05:01:36Z",
     "url": "https://github.com/Parmasanandgarlic/farmdash-openclaw-skills"
-  },
-  {
-    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
-    "id": "haoming-luo/agentfem",
-    "language": "Python",
-    "name": "haoming-luo/agentfem",
-    "stars": 18,
-    "updated_at": "2026-09-29T05:02:30Z",
-    "url": "https://github.com/haoming-luo/agentfem"
-  },
-  {
-    "description": "Claude Agent Skills: photorealistic, fast browser 3D (three.js, Cycles lightmaps) and a web UI motion and layout system",
-    "id": "saad-git-007/claude-skills",
-    "language": "Python",
-    "name": "saad-git-007/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:59:44Z",
-    "url": "https://github.com/saad-git-007/claude-skills"
-  },
-  {
-    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
-    "id": "FynePool/fanta-carbonara",
-    "language": "Python",
-    "name": "FynePool/fanta-carbonara",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:57:40Z",
-    "url": "https://github.com/FynePool/fanta-carbonara"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 92,
-    "updated_at": "2026-09-29T04:52:01Z",
-    "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Claude Code / Agent Skill: /prompt-optimizer polishes your existing AI prompts \u2014 fixes wording, grammar and structure wi",
-    "id": "talki-io/prompt-optimizer",
-    "language": "\u2014",
-    "name": "talki-io/prompt-optimizer",
-    "stars": 4,
-    "updated_at": "2026-09-29T04:52:00Z",
-    "url": "https://github.com/talki-io/prompt-optimizer"
   }
 ]
