@@ -1,12 +1,192 @@
 [
   {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-09-29T12:44:55Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "Canonical Agent Skill for auditing and safely reorganizing shared project folders used by multiple AI agents.",
+    "id": "JesseRaber/multi-agent-folder-cleanup",
+    "language": "Python",
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "stars": 1,
+    "updated_at": "2026-09-29T12:44:09Z",
+    "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
+  },
+  {
+    "description": "25 Chinese books distilled into 25 callable methodology skill packs for AI agents \u2014 539 capability cards (RIA-TV++), quo",
+    "id": "AholicK/zh-book-skills",
+    "language": "HTML",
+    "name": "AholicK/zh-book-skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:42:49Z",
+    "url": "https://github.com/AholicK/zh-book-skills"
+  },
+  {
+    "description": "Riffkit agent skills, named by what you want to make. Generated daily from riffkit.ai/SKILL.md.",
+    "id": "riffkit/skills",
+    "language": "Python",
+    "name": "riffkit/skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:42:06Z",
+    "url": "https://github.com/riffkit/skills"
+  },
+  {
+    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
+    "id": "takimdigital/deckhand-skill",
+    "language": "Python",
+    "name": "takimdigital/deckhand-skill",
+    "stars": 1,
+    "updated_at": "2026-09-29T12:41:00Z",
+    "url": "https://github.com/takimdigital/deckhand-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69642,
+    "updated_at": "2026-09-29T12:40:54Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code skills for querying Coinpaprika and DexPaprika crypto market data (CEX prices, DEX pools, tokens, OHLCV).",
+    "id": "coinpaprika/skills",
+    "language": "\u2014",
+    "name": "coinpaprika/skills",
+    "stars": 7,
+    "updated_at": "2026-09-29T12:39:53Z",
+    "url": "https://github.com/coinpaprika/skills"
+  },
+  {
+    "description": "\ub17c\ubb38 \ucd08\ubcf4\uc790\uac00 5,000\uc790 \uc5f0\uc2b5 \ub17c\ubb38\uc744 8\ub2e8\uacc4\ub85c \uc644\uc8fc\ud558\ub294 \uc218\uc5c5\u00b7\uc6cc\ud06c\uc20d\uc6a9 Agent Skill",
+    "id": "methylo/paper-practice",
+    "language": "\u2014",
+    "name": "methylo/paper-practice",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:39:43Z",
+    "url": "https://github.com/methylo/paper-practice"
+  },
+  {
+    "description": "Reusable skills for AI coding agents.",
+    "id": "transitive-bullshit/skills",
+    "language": "Shell",
+    "name": "transitive-bullshit/skills",
+    "stars": 2,
+    "updated_at": "2026-09-29T12:38:17Z",
+    "url": "https://github.com/transitive-bullshit/skills"
+  },
+  {
+    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
+    "id": "haoming-luo/agentfem",
+    "language": "Python",
+    "name": "haoming-luo/agentfem",
+    "stars": 18,
+    "updated_at": "2026-09-29T12:36:51Z",
+    "url": "https://github.com/haoming-luo/agentfem"
+  },
+  {
+    "description": "Governed security-supply-chain framework for AI agents: 388 pinned skills, 39 commands and 33 personas, each behind a re",
+    "id": "devara1983ntr/blackheart-security-framework",
+    "language": "HTML",
+    "name": "devara1983ntr/blackheart-security-framework",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:44:00Z",
+    "url": "https://github.com/devara1983ntr/blackheart-security-framework"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-09-29T12:35:45Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-09-29T12:35:29Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "A self-bootstrapping, self-healing agent engineering skill for any repository.",
+    "id": "Drix10/agent-flow",
+    "language": "JavaScript",
+    "name": "Drix10/agent-flow",
+    "stars": 10,
+    "updated_at": "2026-09-29T12:35:21Z",
+    "url": "https://github.com/Drix10/agent-flow"
+  },
+  {
+    "description": "121 \u0441\u043a\u0438\u043b\u043e\u0432 \u0438 40 \u043f\u0440\u0430\u0432\u0438\u043b \u0434\u043b\u044f Claude Code: \u0430\u0433\u0435\u043d\u0442 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0438\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438 1\u0421 (\u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435, \u0444\u043e\u0440\u043c\u044b, \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f, \u0440\u043e\u043b\u0438, \u0421\u041a\u0414, \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
+    "id": "Desko77/claude-code-skills-1c",
+    "language": "Python",
+    "name": "Desko77/claude-code-skills-1c",
+    "stars": 72,
+    "updated_at": "2026-09-29T12:35:09Z",
+    "url": "https://github.com/Desko77/claude-code-skills-1c"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
     "id": "zeikar/dotfiles",
     "language": "Shell",
     "name": "zeikar/dotfiles",
     "stars": 1,
-    "updated_at": "2026-09-29T12:28:25Z",
+    "updated_at": "2026-09-29T12:34:50Z",
     "url": "https://github.com/zeikar/dotfiles"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 5,
+    "updated_at": "2026-09-29T12:33:43Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
+    "description": "Role-specialized engineering squad skills for AI coding agents.",
+    "id": "danh121097/squad-skills",
+    "language": "TypeScript",
+    "name": "danh121097/squad-skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:33:34Z",
+    "url": "https://github.com/danh121097/squad-skills"
+  },
+  {
+    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
+    "id": "FynePool/fanta-carbonara",
+    "language": "Python",
+    "name": "FynePool/fanta-carbonara",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:32:33Z",
+    "url": "https://github.com/FynePool/fanta-carbonara"
+  },
+  {
+    "description": "A maintainer for the app you built for yourself and shared with a few friends. Point your coding agent at this repo: eve",
+    "id": "crocsarecool/plumber",
+    "language": "\u2014",
+    "name": "crocsarecool/plumber",
+    "stars": 2,
+    "updated_at": "2026-09-29T12:31:26Z",
+    "url": "https://github.com/crocsarecool/plumber"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T12:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Everything published under your GitHub identity, approved card by card, and the homework before contributing upstream",
@@ -16,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T12:27:40Z",
     "url": "https://github.com/rokokol/contributing-skill"
-  },
-  {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 5,
-    "updated_at": "2026-09-29T12:25:17Z",
-    "url": "https://github.com/drnachio/postext"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -49,45 +220,9 @@
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
     "name": "ikaijua/Awesome-AITools",
-    "stars": 6201,
+    "stars": 6202,
     "updated_at": "2026-09-29T12:19:33Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Role-specialized engineering squad skills for AI coding agents.",
-    "id": "danh121097/squad-skills",
-    "language": "TypeScript",
-    "name": "danh121097/squad-skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:17:32Z",
-    "url": "https://github.com/danh121097/squad-skills"
-  },
-  {
-    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
-    "id": "FynePool/fanta-carbonara",
-    "language": "Python",
-    "name": "FynePool/fanta-carbonara",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:24:38Z",
-    "url": "https://github.com/FynePool/fanta-carbonara"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T12:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "120 \u0441\u043a\u0438\u043b\u043e\u0432 \u0438 40 \u043f\u0440\u0430\u0432\u0438\u043b \u0434\u043b\u044f Claude Code: \u0430\u0433\u0435\u043d\u0442 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442 \u0438\u0441\u0445\u043e\u0434\u043d\u0438\u043a\u0438 1\u0421 (\u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0435, \u0444\u043e\u0440\u043c\u044b, \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f, \u0440\u043e\u043b\u0438, \u0421\u041a\u0414, \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438",
-    "id": "Desko77/claude-code-skills-1c",
-    "language": "Python",
-    "name": "Desko77/claude-code-skills-1c",
-    "stars": 72,
-    "updated_at": "2026-09-29T12:14:51Z",
-    "url": "https://github.com/Desko77/claude-code-skills-1c"
   },
   {
     "description": "",
@@ -106,24 +241,6 @@
     "stars": 27,
     "updated_at": "2026-09-29T12:11:33Z",
     "url": "https://github.com/geml-spec/geml"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69642,
-    "updated_at": "2026-09-29T12:22:52Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "A maintainer for the app you built for yourself and shared with a few friends. Point your coding agent at this repo: eve",
-    "id": "crocsarecool/plumber",
-    "language": "\u2014",
-    "name": "crocsarecool/plumber",
-    "stars": 2,
-    "updated_at": "2026-09-29T12:09:02Z",
-    "url": "https://github.com/crocsarecool/plumber"
   },
   {
     "description": "A very opinionated Claude Code plugin designed by a Rustacean",
@@ -148,7 +265,7 @@
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 675,
+    "stars": 676,
     "updated_at": "2026-09-29T12:06:50Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
@@ -243,6 +360,15 @@
     "url": "https://github.com/riffkit/skill"
   },
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-09-29T11:49:06Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
     "description": "Facebook Pages marketing skills for Claude Code and Codex: high-share posts, hooks, engagement replies, and a weekly pla",
     "id": "sergebulaev/facebook-skills",
     "language": "Python",
@@ -283,7 +409,7 @@
     "id": "sergebulaev/instagram-skills",
     "language": "Python",
     "name": "sergebulaev/instagram-skills",
-    "stars": 201,
+    "stars": 202,
     "updated_at": "2026-09-29T11:47:59Z",
     "url": "https://github.com/sergebulaev/instagram-skills"
   },
@@ -301,7 +427,7 @@
     "id": "sergebulaev/linkedin-skills",
     "language": "Python",
     "name": "sergebulaev/linkedin-skills",
-    "stars": 3703,
+    "stars": 3704,
     "updated_at": "2026-09-29T11:46:29Z",
     "url": "https://github.com/sergebulaev/linkedin-skills"
   },
@@ -322,131 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-29T11:46:31Z",
     "url": "https://github.com/shortcuts/radin"
-  },
-  {
-    "description": "Free Claude Code plugin: blocks destructive commands and secrets edits before they run, prints an OK / WARN / SKIPPED se",
-    "id": "ahmed-alstaty/guardrails-plugin",
-    "language": "Python",
-    "name": "ahmed-alstaty/guardrails-plugin",
-    "stars": 1,
-    "updated_at": "2026-09-29T11:45:13Z",
-    "url": "https://github.com/ahmed-alstaty/guardrails-plugin"
-  },
-  {
-    "description": "Official Publora skills for AI agents: post and schedule to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, ",
-    "id": "publora/skills",
-    "language": "Python",
-    "name": "publora/skills",
-    "stars": 48,
-    "updated_at": "2026-09-29T11:44:06Z",
-    "url": "https://github.com/publora/skills"
-  },
-  {
-    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
-    "id": "tonydzi/clawrush",
-    "language": "Python",
-    "name": "tonydzi/clawrush",
-    "stars": 14,
-    "updated_at": "2026-09-29T11:43:50Z",
-    "url": "https://github.com/tonydzi/clawrush"
-  },
-  {
-    "description": "Marketing skills for Claude Code: SEO audits, content strategy, CRO, launches, reporting, and copy.",
-    "id": "risukisu/marketing-skills",
-    "language": "Python",
-    "name": "risukisu/marketing-skills",
-    "stars": 5,
-    "updated_at": "2026-09-29T11:43:14Z",
-    "url": "https://github.com/risukisu/marketing-skills"
-  },
-  {
-    "description": "Nitpicker \u2014 a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes",
-    "id": "ivuorinen/skills",
-    "language": "Python",
-    "name": "ivuorinen/skills",
-    "stars": 3,
-    "updated_at": "2026-09-29T11:42:05Z",
-    "url": "https://github.com/ivuorinen/skills"
-  },
-  {
-    "description": "A Claude skill for teaching yourself anything: learning that survives the cold test.",
-    "id": "romanprigodskii/indelible",
-    "language": "Python",
-    "name": "romanprigodskii/indelible",
-    "stars": 2,
-    "updated_at": "2026-09-29T11:41:14Z",
-    "url": "https://github.com/romanprigodskii/indelible"
-  },
-  {
-    "description": "25 Chinese books distilled into 25 callable methodology skill packs for AI agents \u2014 539 capability cards (RIA-TV++), quo",
-    "id": "AholicK/zh-book-skills",
-    "language": "\u2014",
-    "name": "AholicK/zh-book-skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:39:13Z",
-    "url": "https://github.com/AholicK/zh-book-skills"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:36:25Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
-    "id": "filippolmt/skills",
-    "language": "HTML",
-    "name": "filippolmt/skills",
-    "stars": 1,
-    "updated_at": "2026-09-29T11:35:43Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Claude Code skills that let a session compact or restart itself in a cmux pane and automatically resume its work",
-    "id": "chendrizzy/self-cycle",
-    "language": "Shell",
-    "name": "chendrizzy/self-cycle",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:35:34Z",
-    "url": "https://github.com/chendrizzy/self-cycle"
-  },
-  {
-    "description": "Reusable Claude Code skills for Object Pascal work \u2014 dual-compiler Delphi/Lazarus projects",
-    "id": "fabianoallex/pascal-skills-faa",
-    "language": "Python",
-    "name": "fabianoallex/pascal-skills-faa",
-    "stars": 2,
-    "updated_at": "2026-09-29T11:35:16Z",
-    "url": "https://github.com/fabianoallex/pascal-skills-faa"
-  },
-  {
-    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
-    "id": "davepoon/buildwithclaude",
-    "language": "Python",
-    "name": "davepoon/buildwithclaude",
-    "stars": 3567,
-    "updated_at": "2026-09-29T11:30:33Z",
-    "url": "https://github.com/davepoon/buildwithclaude"
-  },
-  {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:29:07Z",
-    "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
-    "description": "",
-    "id": "petersonsenadevs/dev-standars",
-    "language": "HTML",
-    "name": "petersonsenadevs/dev-standars",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:28:13Z",
-    "url": "https://github.com/petersonsenadevs/dev-standars"
   }
 ]
