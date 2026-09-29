@@ -1,12 +1,66 @@
 [
   {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
+    "description": "Open-source Claude Code skills: refine-loop, sergio-loop, git-sync",
+    "id": "GeiserX/agent-skills",
+    "language": "Python",
+    "name": "GeiserX/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-09-29T20:14:52Z",
+    "url": "https://github.com/GeiserX/agent-skills"
+  },
+  {
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. ",
+    "id": "K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "stars": 47123,
+    "updated_at": "2026-09-29T20:14:57Z",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "\ud83d\udcfc Declarative AI agent environment manager, written in Rust",
+    "id": "pivoshenko/kasetto",
+    "language": "Rust",
+    "name": "pivoshenko/kasetto",
+    "stars": 206,
+    "updated_at": "2026-09-29T20:13:59Z",
+    "url": "https://github.com/pivoshenko/kasetto"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-09-29T20:14:59Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30867,
+    "updated_at": "2026-09-29T20:12:00Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Your whole product team, not just a coding agent. Plan \u2192 design \u2192 build \u2192 QA, with you as the PM who signs off.",
+    "id": "AyeJK/phase-runner",
+    "language": "TypeScript",
+    "name": "AyeJK/phase-runner",
+    "stars": 0,
+    "updated_at": "2026-09-29T20:10:26Z",
+    "url": "https://github.com/AyeJK/phase-runner"
+  },
+  {
+    "description": "Desktop app for macOS, Windows, and Linux that installs Claude Code and curated tools \u2014 every action shown as a plan and",
+    "id": "SteveKinzey/claude-code-tools-installer",
     "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 253,
-    "updated_at": "2026-09-29T19:59:29Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 1,
+    "updated_at": "2026-09-29T20:10:24Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
   },
   {
     "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
@@ -14,8 +68,116 @@
     "language": "HTML",
     "name": "qikairo7/penguin-oss-suite",
     "stars": 1,
-    "updated_at": "2026-09-29T19:57:04Z",
+    "updated_at": "2026-09-29T20:10:06Z",
     "url": "https://github.com/qikairo7/penguin-oss-suite"
+  },
+  {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 16,
+    "updated_at": "2026-09-29T20:14:33Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "AI crypto signals, whale positions, 19 technical indicators, derivatives, a screener and backtests \u2014 17 read-only MCP to",
+    "id": "target1m/traderspy-mcp",
+    "language": "Shell",
+    "name": "target1m/traderspy-mcp",
+    "stars": 0,
+    "updated_at": "2026-09-29T20:09:04Z",
+    "url": "https://github.com/target1m/traderspy-mcp"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-09-29T20:07:54Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. ",
+    "id": "FavioVazquez/showtime",
+    "language": "Python",
+    "name": "FavioVazquez/showtime",
+    "stars": 5,
+    "updated_at": "2026-09-29T20:07:17Z",
+    "url": "https://github.com/FavioVazquez/showtime"
+  },
+  {
+    "description": "Decision-driven harness for coding agents, and humans.",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 2,
+    "updated_at": "2026-09-29T20:07:15Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 3,
+    "updated_at": "2026-09-29T20:05:35Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "Real things I automate at home with an AI agent - drop-in Claude Code skills + walkthroughs: Google Home speakers, Spoti",
+    "id": "zacha0dev/ai-at-home",
+    "language": "Python",
+    "name": "zacha0dev/ai-at-home",
+    "stars": 0,
+    "updated_at": "2026-09-29T20:04:30Z",
+    "url": "https://github.com/zacha0dev/ai-at-home"
+  },
+  {
+    "description": "Free Claude Code skill: audit your app's logging before an ELK rollout \u2014 inventory, keep/enrich/drop verdicts, PII flags",
+    "id": "Erick-CM/ecs-logging-audit",
+    "language": "\u2014",
+    "name": "Erick-CM/ecs-logging-audit",
+    "stars": 0,
+    "updated_at": "2026-09-29T20:04:01Z",
+    "url": "https://github.com/Erick-CM/ecs-logging-audit"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-09-29T20:02:23Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Agent skills for Claude Code and OpenAI Codex: audit subagents (subagent-optimizer), shrink SKILL.md files (skill-optimi",
+    "id": "IonDen/skills",
+    "language": "Python",
+    "name": "IonDen/skills",
+    "stars": 1,
+    "updated_at": "2026-09-29T20:14:29Z",
+    "url": "https://github.com/IonDen/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T20:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 253,
+    "updated_at": "2026-09-29T19:59:29Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
     "description": "Self-hosted AI coding factory \u2014 sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local-",
@@ -40,7 +202,7 @@
     "id": "reticlehq/reticle",
     "language": "TypeScript",
     "name": "reticlehq/reticle",
-    "stars": 940,
+    "stars": 944,
     "updated_at": "2026-09-29T19:51:47Z",
     "url": "https://github.com/reticlehq/reticle"
   },
@@ -72,15 +234,6 @@
     "url": "https://github.com/inbrace-tech/claude-skills"
   },
   {
-    "description": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. ",
-    "id": "FavioVazquez/showtime",
-    "language": "Python",
-    "name": "FavioVazquez/showtime",
-    "stars": 5,
-    "updated_at": "2026-09-29T19:50:30Z",
-    "url": "https://github.com/FavioVazquez/showtime"
-  },
-  {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
     "id": "YPares/rigup.nix",
     "language": "Nix",
@@ -90,15 +243,6 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "Desktop app for macOS, Windows, and Linux that installs Claude Code and curated tools \u2014 every action shown as a plan and",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "JavaScript",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:47:41Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
     "description": "Recherche d'alternance et de stage automatis\u00e9e : collecte sur cinq sources, d\u00e9doublonnage, notation, r\u00e9daction des lettr",
     "id": "Nayarr/dashboard_alternance",
     "language": "Python",
@@ -106,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T19:46:35Z",
     "url": "https://github.com/Nayarr/dashboard_alternance"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T19:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Agent Skills: photorealistic, fast browser 3D (three.js, Cycles lightmaps) and a web UI motion and layout system",
@@ -133,24 +268,6 @@
     "stars": 9,
     "updated_at": "2026-09-29T19:44:51Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-09-29T19:59:53Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "\ud83d\udcfc Declarative AI agent environment manager, written in Rust",
-    "id": "pivoshenko/kasetto",
-    "language": "Rust",
-    "name": "pivoshenko/kasetto",
-    "stars": 206,
-    "updated_at": "2026-09-29T19:59:41Z",
-    "url": "https://github.com/pivoshenko/kasetto"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -212,7 +329,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69655,
-    "updated_at": "2026-09-29T19:41:03Z",
+    "updated_at": "2026-09-29T20:07:08Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T19:12:49Z",
     "url": "https://github.com/postoncehq/pinterest-mcp"
-  },
-  {
-    "description": "Bluesky MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Bluesky posts with images and video throu",
-    "id": "postoncehq/bluesky-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/bluesky-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:12:44Z",
-    "url": "https://github.com/postoncehq/bluesky-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-09-29T19:12:41Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30866,
-    "updated_at": "2026-09-29T19:12:40Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Threads MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Threads posts with text, images, video an",
-    "id": "postoncehq/threads-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/threads-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:12:38Z",
-    "url": "https://github.com/postoncehq/threads-mcp"
-  },
-  {
-    "description": "X (Twitter) MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule tweets with images, GIFs and video th",
-    "id": "postoncehq/x-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/x-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:12:33Z",
-    "url": "https://github.com/postoncehq/x-mcp"
-  },
-  {
-    "description": "Facebook MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Facebook Page posts, photos and Reels th",
-    "id": "postoncehq/facebook-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/facebook-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:12:28Z",
-    "url": "https://github.com/postoncehq/facebook-mcp"
-  },
-  {
-    "description": "YouTube MCP server for Claude, ChatGPT, Cursor and Codex. Upload, publish and schedule YouTube videos and Shorts with ti",
-    "id": "postoncehq/youtube-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/youtube-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:12:23Z",
-    "url": "https://github.com/postoncehq/youtube-mcp"
-  },
-  {
-    "description": "TikTok MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule TikTok videos and photo slideshows, or sen",
-    "id": "postoncehq/tiktok-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/tiktok-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:12:18Z",
-    "url": "https://github.com/postoncehq/tiktok-mcp"
-  },
-  {
-    "description": "Instagram MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Instagram posts, carousels and Reels th",
-    "id": "postoncehq/instagram-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/instagram-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:12:13Z",
-    "url": "https://github.com/postoncehq/instagram-mcp"
-  },
-  {
-    "description": "LinkedIn MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule LinkedIn posts, images and video through",
-    "id": "postoncehq/linkedin-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/linkedin-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:12:08Z",
-    "url": "https://github.com/postoncehq/linkedin-mcp"
-  },
-  {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 4,
-    "updated_at": "2026-09-29T19:11:54Z",
-    "url": "https://github.com/hraness/oh"
-  },
-  {
-    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
-    "id": "howard-lynn-ye/fin-skills",
-    "language": "Python",
-    "name": "howard-lynn-ye/fin-skills",
-    "stars": 1,
-    "updated_at": "2026-09-29T19:09:45Z",
-    "url": "https://github.com/howard-lynn-ye/fin-skills"
-  },
-  {
-    "description": "LinkedIn agent skills for Claude Code, Codex, Cursor and OpenClaw: 31 free skills for posts, hooks, comments, profile au",
-    "id": "liftli-ai/linkedin-agent-skills",
-    "language": "Python",
-    "name": "liftli-ai/linkedin-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T19:09:45Z",
-    "url": "https://github.com/liftli-ai/linkedin-agent-skills"
   }
 ]
