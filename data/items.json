@@ -1,5 +1,104 @@
 [
   {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 16,
+    "updated_at": "2026-09-29T22:12:16Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-09-29T22:11:47Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Claude Code plugin: output styles, evaluate-before-you-build rules, opt-in orchestrator mode",
+    "id": "dimitritholen/1337-claude",
+    "language": "Shell",
+    "name": "dimitritholen/1337-claude",
+    "stars": 0,
+    "updated_at": "2026-09-29T22:11:11Z",
+    "url": "https://github.com/dimitritholen/1337-claude"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69658,
+    "updated_at": "2026-09-29T22:10:46Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
+    "id": "KijitoAI/kijito-tools",
+    "language": "JavaScript",
+    "name": "KijitoAI/kijito-tools",
+    "stars": 0,
+    "updated_at": "2026-09-29T22:09:49Z",
+    "url": "https://github.com/KijitoAI/kijito-tools"
+  },
+  {
+    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
+    "id": "mtangoz/grill",
+    "language": "JavaScript",
+    "name": "mtangoz/grill",
+    "stars": 1,
+    "updated_at": "2026-09-29T22:08:05Z",
+    "url": "https://github.com/mtangoz/grill"
+  },
+  {
+    "description": "Skill orquestradora de design para o Claude, em PT-BR e EN. Tr\u00eas agentes especialistas (Strategist, Researcher e Designe",
+    "id": "guilhermedworakowski/design-skill",
+    "language": "\u2014",
+    "name": "guilhermedworakowski/design-skill",
+    "stars": 1,
+    "updated_at": "2026-09-29T22:06:48Z",
+    "url": "https://github.com/guilhermedworakowski/design-skill"
+  },
+  {
+    "description": "Give your agent eyes: any video link in, one typed JSON out. A Claude skill + API.",
+    "id": "tomascupr/reelql",
+    "language": "HTML",
+    "name": "tomascupr/reelql",
+    "stars": 28,
+    "updated_at": "2026-09-29T22:05:08Z",
+    "url": "https://github.com/tomascupr/reelql"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-09-29T22:02:13Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
+    "id": "takimdigital/deckhand-skill",
+    "language": "Python",
+    "name": "takimdigital/deckhand-skill",
+    "stars": 1,
+    "updated_at": "2026-09-29T22:00:26Z",
+    "url": "https://github.com/takimdigital/deckhand-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T22:00:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "agentx is the inventory manager for your agents. View, manage, and sync skills, MCPs and plugins across machines. Availa",
     "id": "grundmanise/agentx",
     "language": "Go",
@@ -36,21 +135,12 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Skill orquestradora de design para o Claude, em PT-BR e EN. Tr\u00eas agentes especialistas (Strategist, Researcher e Designe",
-    "id": "guilhermedworakowski/design-skill",
-    "language": "\u2014",
-    "name": "guilhermedworakowski/design-skill",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:56:06Z",
-    "url": "https://github.com/guilhermedworakowski/design-skill"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-09-29T21:59:14Z",
+    "updated_at": "2026-09-29T22:09:05Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -79,15 +169,6 @@
     "stars": 22,
     "updated_at": "2026-09-29T21:53:20Z",
     "url": "https://github.com/heymegabyte/claude-skills"
-  },
-  {
-    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
-    "id": "takimdigital/deckhand-skill",
-    "language": "Python",
-    "name": "takimdigital/deckhand-skill",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:57:35Z",
-    "url": "https://github.com/takimdigital/deckhand-skill"
   },
   {
     "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
@@ -153,15 +234,6 @@
     "url": "https://github.com/Ramillax/claude-code-control-room"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T21:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A Claude Code plugin that designs websites people actually want to show off. Research, design system, imagery, a real co",
     "id": "patheonsceo/lets-build-something-pretty",
     "language": "Shell",
@@ -194,7 +266,7 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 9,
-    "updated_at": "2026-09-29T21:44:53Z",
+    "updated_at": "2026-09-29T22:02:10Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -270,15 +342,6 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "Give your agent eyes: any video link in, one typed JSON out. A Claude skill + API.",
-    "id": "tomascupr/reelql",
-    "language": "HTML",
-    "name": "tomascupr/reelql",
-    "stars": 28,
-    "updated_at": "2026-09-29T21:37:15Z",
-    "url": "https://github.com/tomascupr/reelql"
-  },
-  {
     "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
     "id": "getedgehq/skills",
     "language": "Python",
@@ -286,24 +349,6 @@
     "stars": 3,
     "updated_at": "2026-09-29T21:36:37Z",
     "url": "https://github.com/getedgehq/skills"
-  },
-  {
-    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
-    "id": "mtangoz/grill",
-    "language": "JavaScript",
-    "name": "mtangoz/grill",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:58:21Z",
-    "url": "https://github.com/mtangoz/grill"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69658,
-    "updated_at": "2026-09-29T21:54:12Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 2,
-    "updated_at": "2026-09-29T21:29:47Z",
+    "updated_at": "2026-09-29T22:13:16Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -365,7 +410,7 @@
     "language": "JavaScript",
     "name": "SebastienDegodez/skraft-plugin",
     "stars": 8,
-    "updated_at": "2026-09-29T21:44:58Z",
+    "updated_at": "2026-09-29T22:03:25Z",
     "url": "https://github.com/SebastienDegodez/skraft-plugin"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 142,
     "updated_at": "2026-09-29T21:24:39Z",
     "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 53,
-    "updated_at": "2026-09-29T21:15:01Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-09-29T21:12:47Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-09-29T21:12:47Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-09-29T21:10:04Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Claude Code skills for shipping small Flutter apps: 4.3/2.3 rejection checks, Google Play releases, frame performance, p",
-    "id": "jameskrupnik/indie-app-skills",
-    "language": "Python",
-    "name": "jameskrupnik/indie-app-skills",
-    "stars": 0,
-    "updated_at": "2026-09-29T21:08:46Z",
-    "url": "https://github.com/jameskrupnik/indie-app-skills"
   }
 ]
