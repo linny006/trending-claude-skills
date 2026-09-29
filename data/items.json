@@ -1,5 +1,131 @@
 [
   {
+    "description": "Agent skills for code review, scoped refactoring, and repository development. Includes Codex installation instructions, ",
+    "id": "Natchannnn/repository-engineering-skills",
+    "language": "Python",
+    "name": "Natchannnn/repository-engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T05:00:01Z",
+    "url": "https://github.com/Natchannnn/repository-engineering-skills"
+  },
+  {
+    "description": "Claude Agent Skills: photorealistic, fast browser 3D (three.js, Cycles lightmaps) and a web UI motion and layout system",
+    "id": "saad-git-007/claude-skills",
+    "language": "Python",
+    "name": "saad-git-007/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:59:44Z",
+    "url": "https://github.com/saad-git-007/claude-skills"
+  },
+  {
+    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
+    "id": "FynePool/fanta-carbonara",
+    "language": "Python",
+    "name": "FynePool/fanta-carbonara",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:57:40Z",
+    "url": "https://github.com/FynePool/fanta-carbonara"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69637,
+    "updated_at": "2026-09-29T04:55:35Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Measured Agent Skills for Claude Code and other agents. Every Skill ships its provenance, and the measured ones ship the",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:55:32Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 23,
+    "updated_at": "2026-09-29T04:56:42Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 92,
+    "updated_at": "2026-09-29T04:52:01Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Claude Code / Agent Skill: /prompt-optimizer polishes your existing AI prompts \u2014 fixes wording, grammar and structure wi",
+    "id": "talki-io/prompt-optimizer",
+    "language": "\u2014",
+    "name": "talki-io/prompt-optimizer",
+    "stars": 4,
+    "updated_at": "2026-09-29T04:52:00Z",
+    "url": "https://github.com/talki-io/prompt-optimizer"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "HTML",
+    "name": "geml-spec/geml",
+    "stars": 26,
+    "updated_at": "2026-09-29T04:51:37Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 4,
+    "updated_at": "2026-09-29T04:51:13Z",
+    "url": "https://github.com/hraness/oh"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 557,
+    "updated_at": "2026-09-29T04:50:09Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+  },
+  {
+    "description": "Decision-research skill for Claude Code and Codex - every claim states how well it is supported, and says when the evide",
+    "id": "dbhq-uk/legwork-skill",
+    "language": "Python",
+    "name": "dbhq-uk/legwork-skill",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:49:08Z",
+    "url": "https://github.com/dbhq-uk/legwork-skill"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-09-29T04:45:15Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T04:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for developers building NSW Government digital services: Australian Government Style Manual checks, WCAG au",
     "id": "digitalnsw/nswds-skills",
     "language": "JavaScript",
@@ -45,15 +171,6 @@
     "url": "https://github.com/Carlosdalv669/formify-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69637,
-    "updated_at": "2026-09-29T04:39:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
     "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
     "language": "Python",
@@ -97,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T04:36:25Z",
     "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 23,
-    "updated_at": "2026-09-29T04:37:14Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
     "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
@@ -157,7 +265,7 @@
     "id": "didrod205/brain-master",
     "language": "Shell",
     "name": "didrod205/brain-master",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-29T04:33:13Z",
     "url": "https://github.com/didrod205/brain-master"
   },
@@ -180,13 +288,13 @@
     "url": "https://github.com/jesusda3699/claude-rtl-persian"
   },
   {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 5,
-    "updated_at": "2026-09-29T04:32:15Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 914,
+    "updated_at": "2026-09-29T04:33:00Z",
+    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "You say the job; the playbook runs. 143 agent skills + 55 commands for Cursor, Claude Code, Codex, Gemini. React / Next.",
@@ -196,15 +304,6 @@
     "stars": 9,
     "updated_at": "2026-09-29T04:31:44Z",
     "url": "https://github.com/kensaurus/cursor-kenji"
-  },
-  {
-    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
-    "id": "oliver-kriska/claude-elixir-phoenix",
-    "language": "Python",
-    "name": "oliver-kriska/claude-elixir-phoenix",
-    "stars": 557,
-    "updated_at": "2026-09-29T04:30:43Z",
-    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
   },
   {
     "description": "",
@@ -232,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T04:30:23Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T04:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
@@ -358,95 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-29T04:27:47Z",
     "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Dazzler: frontend design skill for AI with expressive typography, vibrant color theory, and purposeful interfaces.",
-    "id": "jongos/Dazzler",
-    "language": "CSS",
-    "name": "jongos/Dazzler",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:33:08Z",
-    "url": "https://github.com/jongos/Dazzler"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-09-29T04:27:00Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "RunAPI GPT API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
-    "id": "runapi-ai/gpt",
-    "language": "\u2014",
-    "name": "runapi-ai/gpt",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:27:00Z",
-    "url": "https://github.com/runapi-ai/gpt"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-09-29T04:26:59Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:26:47Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Eleven free Claude skills that run an X account, with a virality engine behind every idea: posts off 21 hook formulas, t",
-    "id": "Jakeschincariol/x-agent-skill",
-    "language": "Python",
-    "name": "Jakeschincariol/x-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:26:23Z",
-    "url": "https://github.com/Jakeschincariol/x-agent-skill"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:26:22Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-09-29T04:26:18Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-09-29T04:26:15Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:26:13Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
   }
 ]
