@@ -1,5 +1,104 @@
 [
   {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 4,
+    "updated_at": "2026-09-29T12:57:31Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
+    "id": "zeikar/hyperclaude",
+    "language": "JavaScript",
+    "name": "zeikar/hyperclaude",
+    "stars": 3,
+    "updated_at": "2026-09-29T12:54:50Z",
+    "url": "https://github.com/zeikar/hyperclaude"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-09-29T12:52:46Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Deterministic GEO audits for AI search: a Python CLI and Claude Code skills that score how well AI engines can read, quo",
+    "id": "seo-skills/geo-audit-skill",
+    "language": "Python",
+    "name": "seo-skills/geo-audit-skill",
+    "stars": 4,
+    "updated_at": "2026-09-29T12:52:42Z",
+    "url": "https://github.com/seo-skills/geo-audit-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69643,
+    "updated_at": "2026-09-29T12:52:37Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
+    "id": "isamubas/coffee_price_predictor",
+    "language": "HTML",
+    "name": "isamubas/coffee_price_predictor",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:51:23Z",
+    "url": "https://github.com/isamubas/coffee_price_predictor"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "JavaScript",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 1,
+    "updated_at": "2026-09-29T12:49:34Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "A pixel-art backpack for your Claude Code context window. Pin what matters and it survives compaction.",
+    "id": "Msde-7/pack-light",
+    "language": "TypeScript",
+    "name": "Msde-7/pack-light",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:46:58Z",
+    "url": "https://github.com/Msde-7/pack-light"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-09-29T12:46:40Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Governed security-supply-chain framework for AI agents: 388 pinned skills, 39 commands and 33 personas, each behind a re",
+    "id": "devara1983ntr/blackheart-security-framework",
+    "language": "HTML",
+    "name": "devara1983ntr/blackheart-security-framework",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:45:47Z",
+    "url": "https://github.com/devara1983ntr/blackheart-security-framework"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T12:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
     "id": "slopstopper/plumb-line",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "Python",
     "name": "JesseRaber/multi-agent-folder-cleanup",
     "stars": 1,
-    "updated_at": "2026-09-29T12:44:09Z",
+    "updated_at": "2026-09-29T12:56:25Z",
     "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
   },
   {
@@ -41,17 +140,8 @@
     "language": "Python",
     "name": "takimdigital/deckhand-skill",
     "stars": 1,
-    "updated_at": "2026-09-29T12:41:00Z",
+    "updated_at": "2026-09-29T12:57:37Z",
     "url": "https://github.com/takimdigital/deckhand-skill"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69642,
-    "updated_at": "2026-09-29T12:40:54Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Claude Code skills for querying Coinpaprika and DexPaprika crypto market data (CEX prices, DEX pools, tokens, OHLCV).",
@@ -90,15 +180,6 @@
     "url": "https://github.com/haoming-luo/agentfem"
   },
   {
-    "description": "Governed security-supply-chain framework for AI agents: 388 pinned skills, 39 commands and 33 personas, each behind a re",
-    "id": "devara1983ntr/blackheart-security-framework",
-    "language": "HTML",
-    "name": "devara1983ntr/blackheart-security-framework",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:44:00Z",
-    "url": "https://github.com/devara1983ntr/blackheart-security-framework"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T12:35:45Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 28,
-    "updated_at": "2026-09-29T12:35:29Z",
-    "url": "https://github.com/Borda/AI-Rig"
   },
   {
     "description": "A self-bootstrapping, self-healing agent engineering skill for any repository.",
@@ -180,15 +252,6 @@
     "url": "https://github.com/crocsarecool/plumber"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T12:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Everything published under your GitHub identity, approved card by card, and the homework before contributing upstream",
     "id": "rokokol/contributing-skill",
     "language": "Shell",
@@ -220,7 +283,7 @@
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
     "name": "ikaijua/Awesome-AITools",
-    "stars": 6202,
+    "stars": 6203,
     "updated_at": "2026-09-29T12:19:33Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
   },
@@ -385,68 +448,5 @@
     "stars": 56,
     "updated_at": "2026-09-29T11:48:08Z",
     "url": "https://github.com/sergebulaev/tiktok-skills"
-  },
-  {
-    "description": "Threads marketing skills for Claude Code and Codex: posts, multi-post threads, hooks, replies, and a weekly plan in your",
-    "id": "sergebulaev/threads-skills",
-    "language": "Python",
-    "name": "sergebulaev/threads-skills",
-    "stars": 51,
-    "updated_at": "2026-09-29T11:48:05Z",
-    "url": "https://github.com/sergebulaev/threads-skills"
-  },
-  {
-    "description": "YouTube and YouTube Shorts marketing skills for Claude Code and Codex: high-CTR titles, SEO descriptions, retention hook",
-    "id": "sergebulaev/youtube-skills",
-    "language": "Python",
-    "name": "sergebulaev/youtube-skills",
-    "stars": 41,
-    "updated_at": "2026-09-29T11:48:02Z",
-    "url": "https://github.com/sergebulaev/youtube-skills"
-  },
-  {
-    "description": "Instagram marketing skills for Claude Code and Codex: captions, carousels, hooks, hashtag strategy, and a weekly plan. D",
-    "id": "sergebulaev/instagram-skills",
-    "language": "Python",
-    "name": "sergebulaev/instagram-skills",
-    "stars": 202,
-    "updated_at": "2026-09-29T11:47:59Z",
-    "url": "https://github.com/sergebulaev/instagram-skills"
-  },
-  {
-    "description": "X (Twitter) marketing skills for Claude Code and Codex: write tweets, threads, and replies in your voice, strip AI tells",
-    "id": "sergebulaev/x-skills",
-    "language": "Python",
-    "name": "sergebulaev/x-skills",
-    "stars": 105,
-    "updated_at": "2026-09-29T11:47:56Z",
-    "url": "https://github.com/sergebulaev/x-skills"
-  },
-  {
-    "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
-    "id": "sergebulaev/linkedin-skills",
-    "language": "Python",
-    "name": "sergebulaev/linkedin-skills",
-    "stars": 3704,
-    "updated_at": "2026-09-29T11:46:29Z",
-    "url": "https://github.com/sergebulaev/linkedin-skills"
-  },
-  {
-    "description": "\u7528\u4ee3\u7801\u526a\u97f3\u4e50\u89c6\u9891\uff1a\u4e00\u9996\u6b4c\uff0c\u4e09\u90e8\u7247\u5b50\uff0c\u4e24\u4e2a Claude Code \u6280\u80fd \u00b7 Music videos cut in code with Claude + HyperFrames + Three.js",
-    "id": "yangyue1974/code-native-mv-kit",
-    "language": "JavaScript",
-    "name": "yangyue1974/code-native-mv-kit",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:46:17Z",
-    "url": "https://github.com/yangyue1974/code-native-mv-kit"
-  },
-  {
-    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
-    "id": "shortcuts/radin",
-    "language": "Shell",
-    "name": "shortcuts/radin",
-    "stars": 5,
-    "updated_at": "2026-09-29T11:46:31Z",
-    "url": "https://github.com/shortcuts/radin"
   }
 ]
