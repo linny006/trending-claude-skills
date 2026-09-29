@@ -1,5 +1,131 @@
 [
   {
+    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
+    "id": "mtangoz/grill",
+    "language": "JavaScript",
+    "name": "mtangoz/grill",
+    "stars": 1,
+    "updated_at": "2026-09-29T17:30:09Z",
+    "url": "https://github.com/mtangoz/grill"
+  },
+  {
+    "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
+    "id": "qikairo7/penguin-oss-suite",
+    "language": "HTML",
+    "name": "qikairo7/penguin-oss-suite",
+    "stars": 1,
+    "updated_at": "2026-09-29T17:28:48Z",
+    "url": "https://github.com/qikairo7/penguin-oss-suite"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69649,
+    "updated_at": "2026-09-29T17:28:26Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "spike-faye-lei/dsh-skills",
+    "id": "spike-faye-lei/spike-faye-lei-dsh-skills",
+    "language": "Python",
+    "name": "spike-faye-lei/spike-faye-lei-dsh-skills",
+    "stars": 0,
+    "updated_at": "2026-09-29T17:27:06Z",
+    "url": "https://github.com/spike-faye-lei/spike-faye-lei-dsh-skills"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 916,
+    "updated_at": "2026-09-29T17:26:51Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "API gateway with managed auth. Connect your AI to Slack, HubSpot, Salesforce, Google Workspace, Shopify, and more with a",
+    "id": "maton-ai/api-gateway-skill",
+    "language": "\u2014",
+    "name": "maton-ai/api-gateway-skill",
+    "stars": 32,
+    "updated_at": "2026-09-29T17:22:08Z",
+    "url": "https://github.com/maton-ai/api-gateway-skill"
+  },
+  {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 4,
+    "updated_at": "2026-09-29T17:29:48Z",
+    "url": "https://github.com/hraness/oh"
+  },
+  {
+    "description": "Multi-tasking upgrade! Store durable knowledge in all your projects and connect them together. Let agents work using the",
+    "id": "nathanaday/atlas-obsidian",
+    "language": "Go",
+    "name": "nathanaday/atlas-obsidian",
+    "stars": 0,
+    "updated_at": "2026-09-29T17:20:30Z",
+    "url": "https://github.com/nathanaday/atlas-obsidian"
+  },
+  {
+    "description": "Cut AI token usage by over 85% \u2014 same model, same speed, same quality. Claude Code skill + plugin, Codex & Cursor rules,",
+    "id": "kashifali1234a12-beep/LEAN-TOKEN-USAGE",
+    "language": "Python",
+    "name": "kashifali1234a12-beep/LEAN-TOKEN-USAGE",
+    "stars": 0,
+    "updated_at": "2026-09-29T17:20:21Z",
+    "url": "https://github.com/kashifali1234a12-beep/LEAN-TOKEN-USAGE"
+  },
+  {
+    "description": "PostEverywhere for Claude, Cursor, Gemini CLI, Codex and Copilot: write, schedule and publish social posts to 12 platfor",
+    "id": "posteverywhere/claude-plugin",
+    "language": "\u2014",
+    "name": "posteverywhere/claude-plugin",
+    "stars": 0,
+    "updated_at": "2026-09-29T17:20:15Z",
+    "url": "https://github.com/posteverywhere/claude-plugin"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 0,
+    "updated_at": "2026-09-29T17:23:05Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "A Claude Code skill to make motion design videos in pure code: HTML + Playwright + ffmpeg. No After Effects, no Remotion",
+    "id": "howseen-ai/claude-motion-design",
+    "language": "Python",
+    "name": "howseen-ai/claude-motion-design",
+    "stars": 96,
+    "updated_at": "2026-09-29T17:18:54Z",
+    "url": "https://github.com/howseen-ai/claude-motion-design"
+  },
+  {
+    "description": "Skill per Claude Code: prima delle decisioni importanti (pagine, flussi, prezzi, testi, sistemi di gioco) cerca come far",
+    "id": "pippopippante/double-check",
+    "language": "Shell",
+    "name": "pippopippante/double-check",
+    "stars": 0,
+    "updated_at": "2026-09-29T17:18:38Z",
+    "url": "https://github.com/pippopippante/double-check"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-29T17:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A very opinionated Claude Code plugin designed by a Rustacean",
     "id": "xsyetopz/dotclaude",
     "language": "JavaScript",
@@ -32,35 +158,8 @@
     "language": "\u2014",
     "name": "MarcoFischer1995/ETRANFischerEtAl2026",
     "stars": 0,
-    "updated_at": "2026-09-29T17:13:36Z",
+    "updated_at": "2026-09-29T17:16:39Z",
     "url": "https://github.com/MarcoFischer1995/ETRANFischerEtAl2026"
-  },
-  {
-    "description": "Cut AI token usage by over 85% \u2014 same model, same speed, same quality. Claude Code skill + plugin, Codex & Cursor rules,",
-    "id": "kashifali1234a12-beep/LEAN-TOKEN-USAGE",
-    "language": "Python",
-    "name": "kashifali1234a12-beep/LEAN-TOKEN-USAGE",
-    "stars": 0,
-    "updated_at": "2026-09-29T17:12:45Z",
-    "url": "https://github.com/kashifali1234a12-beep/LEAN-TOKEN-USAGE"
-  },
-  {
-    "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
-    "id": "qikairo7/penguin-oss-suite",
-    "language": "HTML",
-    "name": "qikairo7/penguin-oss-suite",
-    "stars": 1,
-    "updated_at": "2026-09-29T17:11:59Z",
-    "url": "https://github.com/qikairo7/penguin-oss-suite"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 916,
-    "updated_at": "2026-09-29T17:08:01Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 23,
-    "updated_at": "2026-09-29T17:08:57Z",
+    "updated_at": "2026-09-29T17:29:28Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -90,24 +189,6 @@
     "url": "https://github.com/hraness/soulscrape"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69649,
-    "updated_at": "2026-09-29T17:10:49Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-29T17:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code skills for multi-agent software development: spec-driven planning, code review and bug hunting in which AI a",
     "id": "jsobolewski1/ensemble",
     "language": "\u2014",
@@ -124,24 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-29T16:57:07Z",
     "url": "https://github.com/tmj-90/gaffer"
-  },
-  {
-    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
-    "id": "mtangoz/grill",
-    "language": "JavaScript",
-    "name": "mtangoz/grill",
-    "stars": 1,
-    "updated_at": "2026-09-29T16:57:01Z",
-    "url": "https://github.com/mtangoz/grill"
-  },
-  {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 4,
-    "updated_at": "2026-09-29T17:14:08Z",
-    "url": "https://github.com/hraness/oh"
   },
   {
     "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
@@ -214,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T16:47:01Z",
     "url": "https://github.com/Athang-codes/ShrinkCode"
-  },
-  {
-    "description": "Multi-tasking upgrade! Store durable knowledge in all your projects and connect them together. Let agents work using the",
-    "id": "nathanaday/atlas-obsidian",
-    "language": "Go",
-    "name": "nathanaday/atlas-obsidian",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:46:46Z",
-    "url": "https://github.com/nathanaday/atlas-obsidian"
   },
   {
     "description": "Claude Code skills and sync tooling for Asana-based studio project management.",
@@ -333,15 +387,6 @@
     "url": "https://github.com/saad-git-007/claude-skills"
   },
   {
-    "description": "PostEverywhere plugin for Claude: schedule and publish social media posts to 11 platforms and WordPress, with skills for",
-    "id": "posteverywhere/claude-plugin",
-    "language": "\u2014",
-    "name": "posteverywhere/claude-plugin",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:30:26Z",
-    "url": "https://github.com/posteverywhere/claude-plugin"
-  },
-  {
     "description": "Una br\u00fajula necesaria para perderle el miedo a trabajar \"junto\" a Claude Code (u otros agentes) y desarrollar con confia",
     "id": "OrcaCl/suplemento-estrella",
     "language": "Shell",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T16:22:45Z",
     "url": "https://github.com/semlith/semlith"
-  },
-  {
-    "description": "\ud83c\udfaf Job Application Manager | Next.js \u2022 TypeScript \u2022 Prisma \u2022 PostgreSQL Full-stack application to organize, track & manag",
-    "id": "Schengii/job-application-career-manager",
-    "language": "TypeScript",
-    "name": "Schengii/job-application-career-manager",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:23:40Z",
-    "url": "https://github.com/Schengii/job-application-career-manager"
-  },
-  {
-    "description": "Skill de design com tr\u00eas agentes especializados: Strategist (estrat\u00e9gia, OKRs, MVPs), Researcher (pesquisas, benchmarks,",
-    "id": "guilhermedworakowski/design-skill",
-    "language": "\u2014",
-    "name": "guilhermedworakowski/design-skill",
-    "stars": 1,
-    "updated_at": "2026-09-29T16:20:11Z",
-    "url": "https://github.com/guilhermedworakowski/design-skill"
-  },
-  {
-    "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
-    "id": "royalpinto007/awesome-agent-skills",
-    "language": "HTML",
-    "name": "royalpinto007/awesome-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-29T16:20:01Z",
-    "url": "https://github.com/royalpinto007/awesome-agent-skills"
-  },
-  {
-    "description": "\u8b93 Claude \u66ff\u4f60\u6392\u6bcf\u9031\u884c\u7a0b\u7684 skill\uff0c\u4ee5 ADHD \u7684\u9700\u6c42\u70ba\u51fa\u767c\u9ede\u8a2d\u8a08\u3002",
-    "id": "Liviaaaaa33333/Weekly-Planner-Skill",
-    "language": "HTML",
-    "name": "Liviaaaaa33333/Weekly-Planner-Skill",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:18:05Z",
-    "url": "https://github.com/Liviaaaaa33333/Weekly-Planner-Skill"
-  },
-  {
-    "description": "Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex.",
-    "id": "tobihagemann/turbo",
-    "language": "Python",
-    "name": "tobihagemann/turbo",
-    "stars": 405,
-    "updated_at": "2026-09-29T16:17:58Z",
-    "url": "https://github.com/tobihagemann/turbo"
   }
 ]
