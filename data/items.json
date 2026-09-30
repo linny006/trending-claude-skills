@@ -1,12 +1,111 @@
 [
   {
-    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
-    "id": "tonydzi/clawrush",
+    "description": "Cucumber_Playwright_MCP",
+    "id": "rohitsaraswat7865/Cucumber_Playwright_MCP",
+    "language": "JavaScript",
+    "name": "rohitsaraswat7865/Cucumber_Playwright_MCP",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:59:22Z",
+    "url": "https://github.com/rohitsaraswat7865/Cucumber_Playwright_MCP"
+  },
+  {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
     "language": "Python",
-    "name": "tonydzi/clawrush",
-    "stars": 14,
-    "updated_at": "2026-09-30T12:45:00Z",
-    "url": "https://github.com/tonydzi/clawrush"
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-09-30T12:58:50Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1012,
+    "updated_at": "2026-09-30T12:57:12Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Open Source HeyReach & Gojiberry alternative",
+    "id": "vanshyadav1408/Omentir",
+    "language": "TypeScript",
+    "name": "vanshyadav1408/Omentir",
+    "stars": 46,
+    "updated_at": "2026-09-30T12:59:23Z",
+    "url": "https://github.com/vanshyadav1408/Omentir"
+  },
+  {
+    "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser",
+    "id": "TokiDEV/team-skills",
+    "language": "HTML",
+    "name": "TokiDEV/team-skills",
+    "stars": 1,
+    "updated_at": "2026-09-30T12:56:02Z",
+    "url": "https://github.com/TokiDEV/team-skills"
+  },
+  {
+    "description": "Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex.",
+    "id": "tobihagemann/turbo",
+    "language": "Python",
+    "name": "tobihagemann/turbo",
+    "stars": 405,
+    "updated_at": "2026-09-30T12:55:51Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "An agent skill that attacks your idea instead of agreeing with it. Every finding cites checkable evidence, or it is not ",
+    "id": "C4T4/adversary",
+    "language": "JavaScript",
+    "name": "C4T4/adversary",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:55:49Z",
+    "url": "https://github.com/C4T4/adversary"
+  },
+  {
+    "description": "Awesome Claude Code And Agent Tools",
+    "id": "cooler333/awesome-claude-code",
+    "language": "Python",
+    "name": "cooler333/awesome-claude-code",
+    "stars": 13,
+    "updated_at": "2026-09-30T12:53:52Z",
+    "url": "https://github.com/cooler333/awesome-claude-code"
+  },
+  {
+    "description": "Turn verified daily financial news into publish-ready short videos \u2014 a Claude Code plugin with fact-checking, card rende",
+    "id": "jian25746-prog/caijing-kuaibao-skill",
+    "language": "Python",
+    "name": "jian25746-prog/caijing-kuaibao-skill",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:53:03Z",
+    "url": "https://github.com/jian25746-prog/caijing-kuaibao-skill"
+  },
+  {
+    "description": "BoxLang AI skills repository and Claude Plugin",
+    "id": "ortus-boxlang/skills",
+    "language": "\u2014",
+    "name": "ortus-boxlang/skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:52:57Z",
+    "url": "https://github.com/ortus-boxlang/skills"
+  },
+  {
+    "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
+    "id": "vaibhavarora14/job-application-agent",
+    "language": "JavaScript",
+    "name": "vaibhavarora14/job-application-agent",
+    "stars": 153,
+    "updated_at": "2026-09-30T12:49:52Z",
+    "url": "https://github.com/vaibhavarora14/job-application-agent"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-09-30T12:57:22Z",
+    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Claude skill for publication-style matplotlib figures (thesis, papers, lectures; medical physics). Times + STIX, transpa",
@@ -14,8 +113,26 @@
     "language": "Python",
     "name": "juancarlosc504/scientific-figures",
     "stars": 0,
-    "updated_at": "2026-09-30T12:45:06Z",
+    "updated_at": "2026-09-30T12:45:42Z",
     "url": "https://github.com/juancarlosc504/scientific-figures"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 14,
+    "updated_at": "2026-09-30T12:45:20Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-09-30T12:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Reusable skills for AI coding agents working with PlayCanvas products",
@@ -32,17 +149,8 @@
     "language": "TypeScript",
     "name": "ragnarwestad/aide",
     "stars": 0,
-    "updated_at": "2026-09-30T12:42:41Z",
+    "updated_at": "2026-09-30T12:57:40Z",
     "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
-    "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
-    "id": "vaibhavarora14/job-application-agent",
-    "language": "JavaScript",
-    "name": "vaibhavarora14/job-application-agent",
-    "stars": 153,
-    "updated_at": "2026-09-30T12:41:24Z",
-    "url": "https://github.com/vaibhavarora14/job-application-agent"
   },
   {
     "description": "Community index of Claude skills for scientific work. Pinned, checked, one-line import.",
@@ -108,15 +216,6 @@
     "url": "https://github.com/geml-spec/geml"
   },
   {
-    "description": "Open Source HeyReach & Gojiberry alternative",
-    "id": "vanshyadav1408/Omentir",
-    "language": "TypeScript",
-    "name": "vanshyadav1408/Omentir",
-    "stars": 46,
-    "updated_at": "2026-09-30T12:39:27Z",
-    "url": "https://github.com/vanshyadav1408/Omentir"
-  },
-  {
     "description": "Raw idea \u2192 evidence-backed build blueprint \u2192 ship epic by epic with Claude Code or Codex. Agentic engineering, not vibe ",
     "id": "iniesohidham/idea-to-blueprint",
     "language": "Python",
@@ -131,7 +230,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-30T12:34:19Z",
+    "updated_at": "2026-09-30T12:57:17Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -158,7 +257,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-09-30T12:41:46Z",
+    "updated_at": "2026-09-30T12:57:22Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -169,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T12:31:29Z",
     "url": "https://github.com/nadirali1350/vetted"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-09-30T12:30:26Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Neovim agent skill for Claude Code and other AI coding agents.",
@@ -234,15 +324,6 @@
     "url": "https://github.com/riffkit/skills"
   },
   {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1012,
-    "updated_at": "2026-09-30T12:44:52Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -259,15 +340,6 @@
     "stars": 16,
     "updated_at": "2026-09-30T12:22:22Z",
     "url": "https://github.com/hraness/wordcell"
-  },
-  {
-    "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser",
-    "id": "TokiDEV/team-skills",
-    "language": "HTML",
-    "name": "TokiDEV/team-skills",
-    "stars": 1,
-    "updated_at": "2026-09-30T12:19:51Z",
-    "url": "https://github.com/TokiDEV/team-skills"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T12:14:19Z",
     "url": "https://github.com/Aries-Spring/motion-reel"
-  },
-  {
-    "description": "RunAPI GPT API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
-    "id": "runapi-ai/gpt",
-    "language": "\u2014",
-    "name": "runapi-ai/gpt",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:14:11Z",
-    "url": "https://github.com/runapi-ai/gpt"
-  },
-  {
-    "description": "RunAPI Grok API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
-    "id": "runapi-ai/grok",
-    "language": "\u2014",
-    "name": "runapi-ai/grok",
-    "stars": 1,
-    "updated_at": "2026-09-30T12:14:06Z",
-    "url": "https://github.com/runapi-ai/grok"
-  },
-  {
-    "description": "RunAPI Gemini API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
-    "id": "runapi-ai/gemini",
-    "language": "\u2014",
-    "name": "runapi-ai/gemini",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:13:52Z",
-    "url": "https://github.com/runapi-ai/gemini"
-  },
-  {
-    "description": "RunAPI Claude API skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
-    "id": "runapi-ai/claude",
-    "language": "\u2014",
-    "name": "runapi-ai/claude",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:13:49Z",
-    "url": "https://github.com/runapi-ai/claude"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 429,
-    "updated_at": "2026-09-30T12:09:01Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
-    "id": "oliver-kriska/claude-elixir-phoenix",
-    "language": "Python",
-    "name": "oliver-kriska/claude-elixir-phoenix",
-    "stars": 559,
-    "updated_at": "2026-09-30T12:08:07Z",
-    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
-  },
-  {
-    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
-    "id": "scenario-labs/skills",
-    "language": "Python",
-    "name": "scenario-labs/skills",
-    "stars": 772,
-    "updated_at": "2026-09-30T12:05:01Z",
-    "url": "https://github.com/scenario-labs/skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-09-30T12:04:28Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   }
 ]
