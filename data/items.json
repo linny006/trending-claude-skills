@@ -1,21 +1,102 @@
 [
   {
-    "description": "AI assistant skill for PromptBrake free tools: prompt-injection inputs, OWASP LLM risk guidance, release planning, and C",
-    "id": "AJ888/promptbrake-skills",
-    "language": "\u2014",
-    "name": "AJ888/promptbrake-skills",
+    "description": "Turn pull requests and code diffs into interactive HTML walkthroughs that explain the logical flow of a change.",
+    "id": "malav2110/explain-diff-html",
+    "language": "HTML",
+    "name": "malav2110/explain-diff-html",
+    "stars": 9,
+    "updated_at": "2026-09-30T02:12:48Z",
+    "url": "https://github.com/malav2110/explain-diff-html"
+  },
+  {
+    "description": "My daily-driver Claude Code and Codex loadout",
+    "id": "kennykankush/skillpack",
+    "language": "Python",
+    "name": "kennykankush/skillpack",
     "stars": 0,
-    "updated_at": "2026-09-30T01:59:13Z",
-    "url": "https://github.com/AJ888/promptbrake-skills"
+    "updated_at": "2026-09-30T02:12:22Z",
+    "url": "https://github.com/kennykankush/skillpack"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 7,
+    "updated_at": "2026-09-30T02:10:29Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Obsidian skills that I used to manage my second brain",
+    "id": "chidokun/obsidian-skills",
+    "language": "Shell",
+    "name": "chidokun/obsidian-skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T02:10:15Z",
+    "url": "https://github.com/chidokun/obsidian-skills"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69658,
-    "updated_at": "2026-09-30T01:57:19Z",
+    "stars": 69660,
+    "updated_at": "2026-09-30T02:10:07Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Multi-Model chat, code review and analysis MCP Server for Claude Code",
+    "id": "religa/multi_mcp",
+    "language": "Python",
+    "name": "religa/multi_mcp",
+    "stars": 36,
+    "updated_at": "2026-09-30T02:10:07Z",
+    "url": "https://github.com/religa/multi_mcp"
+  },
+  {
+    "description": "Local News API: a read-only agent skill for searching a local newsroom's articles, sources, meeting transcripts and even",
+    "id": "news-community/news-skills",
+    "language": "Python",
+    "name": "news-community/news-skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T02:10:02Z",
+    "url": "https://github.com/news-community/news-skills"
+  },
+  {
+    "description": "Stay on the top Claude model. Claude Code plugin for fewer false-positive safety stops on legitimate work: clean-convers",
+    "id": "WillyAR68/no-false-flags",
+    "language": "Shell",
+    "name": "WillyAR68/no-false-flags",
+    "stars": 2,
+    "updated_at": "2026-09-30T02:07:39Z",
+    "url": "https://github.com/WillyAR68/no-false-flags"
+  },
+  {
+    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
+    "id": "inbrace-tech/claude-skills",
+    "language": "TypeScript",
+    "name": "inbrace-tech/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-09-30T02:04:12Z",
+    "url": "https://github.com/inbrace-tech/claude-skills"
+  },
+  {
+    "description": "Ciclo de desarrollo asistido por agentes para Claude Code, empaquetado como plugin instalable \u2014 con una app de ejemplo c",
+    "id": "rarango10/GoHarness-es",
+    "language": "JavaScript",
+    "name": "rarango10/GoHarness-es",
+    "stars": 2,
+    "updated_at": "2026-09-30T02:02:55Z",
+    "url": "https://github.com/rarango10/GoHarness-es"
+  },
+  {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 4,
+    "updated_at": "2026-09-30T02:02:28Z",
+    "url": "https://github.com/hraness/oh"
   },
   {
     "description": "Six Claude Code skills that work in any project: rule sets that load only when called, a dev round, codex sessions, roas",
@@ -23,8 +104,26 @@
     "language": "Python",
     "name": "sijav/Sijav-Skills",
     "stars": 0,
-    "updated_at": "2026-09-30T01:57:17Z",
+    "updated_at": "2026-09-30T02:01:19Z",
     "url": "https://github.com/sijav/Sijav-Skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-30T02:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI assistant skill for PromptBrake free tools: prompt-injection inputs, OWASP LLM risk guidance, release planning, and C",
+    "id": "AJ888/promptbrake-skills",
+    "language": "\u2014",
+    "name": "AJ888/promptbrake-skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T01:59:13Z",
+    "url": "https://github.com/AJ888/promptbrake-skills"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -43,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T01:56:56Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "My daily-driver Claude Code and Codex loadout",
-    "id": "kennykankush/skillpack",
-    "language": "Python",
-    "name": "kennykankush/skillpack",
-    "stars": 0,
-    "updated_at": "2026-09-30T01:55:50Z",
-    "url": "https://github.com/kennykankush/skillpack"
   },
   {
     "description": "Method-driven agent skills for knowledge work: strategy, research, critical thinking, data analysis, docs, slides. Works",
@@ -95,17 +185,8 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 990,
-    "updated_at": "2026-09-30T01:45:50Z",
+    "updated_at": "2026-09-30T02:11:19Z",
     "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-30T01:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -162,15 +243,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 7,
-    "updated_at": "2026-09-30T01:34:17Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
     "description": "Practical plugins for Claude Code, maintained by auYeCoding.",
     "id": "auYeCoding/radish-plugins",
     "language": "JavaScript",
@@ -178,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-09-30T01:32:30Z",
     "url": "https://github.com/auYeCoding/radish-plugins"
-  },
-  {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 4,
-    "updated_at": "2026-09-30T01:49:53Z",
-    "url": "https://github.com/hraness/oh"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-09-30T01:11:43Z",
+    "updated_at": "2026-09-30T02:04:08Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-30T01:06:10Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 6,
-    "updated_at": "2026-09-30T01:04:42Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
-    "description": "Audit, plan, and adapt SwiftUI and UIKit apps for iPhone Duo, foldables, hinges, and multi-display layouts.",
-    "id": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
-    "language": "Python",
-    "name": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
-    "stars": 0,
-    "updated_at": "2026-09-30T01:03:57Z",
-    "url": "https://github.com/Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill"
-  },
-  {
-    "description": "Help your next AI chat pick up where this one left off with a portable skill that writes clear session handoff notes.",
-    "id": "draysen-yau/session-handoff",
-    "language": "JavaScript",
-    "name": "draysen-yau/session-handoff",
-    "stars": 0,
-    "updated_at": "2026-09-30T01:03:35Z",
-    "url": "https://github.com/draysen-yau/session-handoff"
-  },
-  {
-    "description": "Discover production-ready Claude Code configs: agents, skills, hooks, commands, rules, and MCP setups from an Anthropic ",
-    "id": "HABUBUSS/everything-claude-code",
-    "language": "JavaScript",
-    "name": "HABUBUSS/everything-claude-code",
-    "stars": 0,
-    "updated_at": "2026-09-30T01:03:21Z",
-    "url": "https://github.com/HABUBUSS/everything-claude-code"
-  },
-  {
-    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
-    "id": "Samuellalight8026/spam-filter-advisor-skill",
-    "language": "Python",
-    "name": "Samuellalight8026/spam-filter-advisor-skill",
-    "stars": 0,
-    "updated_at": "2026-09-30T01:02:30Z",
-    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
-  },
-  {
-    "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
-    "id": "qikairo7/penguin-oss-suite",
-    "language": "HTML",
-    "name": "qikairo7/penguin-oss-suite",
-    "stars": 1,
-    "updated_at": "2026-09-30T01:02:25Z",
-    "url": "https://github.com/qikairo7/penguin-oss-suite"
-  },
-  {
-    "description": "Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and",
-    "id": "burnabyjudicial666/agent-profiles",
-    "language": "Rust",
-    "name": "burnabyjudicial666/agent-profiles",
-    "stars": 0,
-    "updated_at": "2026-09-30T01:01:07Z",
-    "url": "https://github.com/burnabyjudicial666/agent-profiles"
   }
 ]
