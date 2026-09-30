@@ -1,12 +1,75 @@
 [
   {
+    "description": "Agent Skill for Claude Code, OpenAI Codex, Cursor, Gemini CLI, GitHub Copilot and OpenCode: builds an N2 interface matri",
+    "id": "macblackstuff/interface-matrix",
+    "language": "Python",
+    "name": "macblackstuff/interface-matrix",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:45:00Z",
+    "url": "https://github.com/macblackstuff/interface-matrix"
+  },
+  {
     "description": "configuration of claude code here you have the best practice of skillls, hooks, rules, cripts, and different tools to he",
     "id": "Univers42/claude-deal-with-the-devil",
     "language": "Shell",
     "name": "Univers42/claude-deal-with-the-devil",
     "stars": 4,
-    "updated_at": "2026-09-30T13:29:21Z",
+    "updated_at": "2026-09-30T13:44:00Z",
     "url": "https://github.com/Univers42/claude-deal-with-the-devil"
+  },
+  {
+    "description": "Local-first studio to create, organize, validate and export AI agent skills (SKILL.md) \u2014 100% private, runs in your brow",
+    "id": "devilking7x/agent-skill-studio",
+    "language": "TypeScript",
+    "name": "devilking7x/agent-skill-studio",
+    "stars": 2,
+    "updated_at": "2026-09-30T13:39:17Z",
+    "url": "https://github.com/devilking7x/agent-skill-studio"
+  },
+  {
+    "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
+    "id": "vaibhavarora14/job-application-agent",
+    "language": "JavaScript",
+    "name": "vaibhavarora14/job-application-agent",
+    "stars": 153,
+    "updated_at": "2026-09-30T13:43:48Z",
+    "url": "https://github.com/vaibhavarora14/job-application-agent"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1012,
+    "updated_at": "2026-09-30T13:43:41Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 23,
+    "updated_at": "2026-09-30T13:36:00Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "Five production-ready Claude Skill templates: one-pager writer, code reviewer, brand voice keeper, CSV cleaner, decision",
+    "id": "0xelitesystem/claude-skills-templates",
+    "language": "Python",
+    "name": "0xelitesystem/claude-skills-templates",
+    "stars": 2,
+    "updated_at": "2026-09-30T13:34:49Z",
+    "url": "https://github.com/0xelitesystem/claude-skills-templates"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-09-30T13:34:47Z",
+    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -14,8 +77,62 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-30T13:28:44Z",
+    "updated_at": "2026-09-30T13:38:23Z",
     "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "HTML",
+    "name": "geml-spec/geml",
+    "stars": 27,
+    "updated_at": "2026-09-30T13:44:47Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Lint a Claude Skill SKILL.md file for spec compliance and triggering quality. Browser-only, single HTML file.",
+    "id": "0xelitesystem/claude-skills-validator",
+    "language": "HTML",
+    "name": "0xelitesystem/claude-skills-validator",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:32:55Z",
+    "url": "https://github.com/0xelitesystem/claude-skills-validator"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-09-30T13:43:07Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-09-30T13:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:29:48Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:29:26Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
   },
   {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
@@ -43,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-30T13:27:50Z",
     "url": "https://github.com/netopsengineer/agent-skill-description-optimizer"
-  },
-  {
-    "description": "Privacy-first job Agent Skill for Claude/Cursor/Codex: verified facts only, OS secrets, confirmed submissions.",
-    "id": "vaibhavarora14/job-application-agent",
-    "language": "JavaScript",
-    "name": "vaibhavarora14/job-application-agent",
-    "stars": 153,
-    "updated_at": "2026-09-30T13:27:41Z",
-    "url": "https://github.com/vaibhavarora14/job-application-agent"
   },
   {
     "description": "Free subdomains under makes.fyi / agentdomains.co, as a Claude Code skill: agents claim a name and set DNS records, auto",
@@ -97,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T13:25:06Z",
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "HTML",
-    "name": "geml-spec/geml",
-    "stars": 27,
-    "updated_at": "2026-09-30T13:24:32Z",
-    "url": "https://github.com/geml-spec/geml"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -198,24 +297,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-09-30T13:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-09-30T13:14:36Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
     "id": "semlith/semlith",
     "language": "Rust",
@@ -279,15 +360,6 @@
     "url": "https://github.com/warodan/vscode-claude-code-patch"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 429,
-    "updated_at": "2026-09-30T13:05:19Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
     "description": "Open Source HeyReach & Gojiberry alternative",
     "id": "vanshyadav1408/Omentir",
     "language": "TypeScript",
@@ -320,7 +392,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-09-30T13:03:56Z",
+    "updated_at": "2026-09-30T13:38:15Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -351,15 +423,6 @@
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1012,
-    "updated_at": "2026-09-30T13:16:00Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "Axiom is a curated marketplace of shared plugins for Claude Code and Codex.",
     "id": "netopsengineer/axiom",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T12:59:22Z",
     "url": "https://github.com/rohitsaraswat7865/Cucumber_Playwright_MCP"
-  },
-  {
-    "description": "Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex.",
-    "id": "tobihagemann/turbo",
-    "language": "Python",
-    "name": "tobihagemann/turbo",
-    "stars": 405,
-    "updated_at": "2026-09-30T12:55:51Z",
-    "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "An agent skill that attacks your idea instead of agreeing with it. Every finding cites checkable evidence, or it is not ",
-    "id": "C4T4/adversary",
-    "language": "JavaScript",
-    "name": "C4T4/adversary",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:55:49Z",
-    "url": "https://github.com/C4T4/adversary"
-  },
-  {
-    "description": "Awesome Claude Code And Agent Tools",
-    "id": "cooler333/awesome-claude-code",
-    "language": "Python",
-    "name": "cooler333/awesome-claude-code",
-    "stars": 13,
-    "updated_at": "2026-09-30T12:53:52Z",
-    "url": "https://github.com/cooler333/awesome-claude-code"
-  },
-  {
-    "description": "Turn verified daily financial news into publish-ready short videos \u2014 a Claude Code plugin with fact-checking, card rende",
-    "id": "jian25746-prog/caijing-kuaibao-skill",
-    "language": "Python",
-    "name": "jian25746-prog/caijing-kuaibao-skill",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:53:03Z",
-    "url": "https://github.com/jian25746-prog/caijing-kuaibao-skill"
-  },
-  {
-    "description": "BoxLang AI skills repository and Claude Plugin",
-    "id": "ortus-boxlang/skills",
-    "language": "\u2014",
-    "name": "ortus-boxlang/skills",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:52:57Z",
-    "url": "https://github.com/ortus-boxlang/skills"
-  },
-  {
-    "description": "Claude skill for publication-style matplotlib figures (thesis, papers, lectures; medical physics). Times + STIX, transpa",
-    "id": "juancarlosc504/scientific-figures",
-    "language": "Python",
-    "name": "juancarlosc504/scientific-figures",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:45:42Z",
-    "url": "https://github.com/juancarlosc504/scientific-figures"
-  },
-  {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:57:40Z",
-    "url": "https://github.com/ragnarwestad/aide"
   }
 ]
