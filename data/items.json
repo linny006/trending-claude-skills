@@ -1,11 +1,119 @@
 [
   {
+    "description": "VS Code \uc138\ud305\uc744 AI \uc5d0\uc774\uc804\ud2b8\uc5d0\uac8c \ud1b5\uc9f8\ub85c \ub9e1\uae30\ub294 Windows\uc6a9 \ubc14\uc774\ube0c \ucf54\ub529 \uc2a4\ud0ac \u00b7 \ubbf8\ub9ac\ubcf4\uae30 | \ucf54\ub4dc | Codex 3\uc5f4, \ub300\ud654 \ub2e8\uc704 \ub418\ub3cc\ub9ac\uae30, \ud734\ub300\ud3f0 \uc6d0\uaca9 \uc791\uc5c5",
+    "id": "ARTHONG1/vsstudiovibecoding",
+    "language": "JavaScript",
+    "name": "ARTHONG1/vsstudiovibecoding",
+    "stars": 0,
+    "updated_at": "2026-09-30T15:20:38Z",
+    "url": "https://github.com/ARTHONG1/vsstudiovibecoding"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 7,
+    "updated_at": "2026-09-30T15:20:04Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 31,
+    "updated_at": "2026-09-30T15:19:14Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "300+ curated Agent Skills for Claude Code, Cursor, Copilot & any AI coder \u2014 React, Next.js, Tailwind, TypeScript, Python",
+    "id": "YousefSaad47/youseful-skills",
+    "language": "Shell",
+    "name": "YousefSaad47/youseful-skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T15:18:55Z",
+    "url": "https://github.com/YousefSaad47/youseful-skills"
+  },
+  {
+    "description": "Expert skills, agents, commands, rules, hooks & output styles for Claude Code \u2014 session continuity + modern CLI tooling ",
+    "id": "0xDarkMatter/claude-mods",
+    "language": "Shell",
+    "name": "0xDarkMatter/claude-mods",
+    "stars": 43,
+    "updated_at": "2026-09-30T15:18:48Z",
+    "url": "https://github.com/0xDarkMatter/claude-mods"
+  },
+  {
+    "description": "Reliable GIS for AI agents \u2014 vector/raster, terrain, network access and scanned-map georeferencing as a Claude Code / Co",
+    "id": "shio-vinyl/gis-kit",
+    "language": "Python",
+    "name": "shio-vinyl/gis-kit",
+    "stars": 0,
+    "updated_at": "2026-09-30T15:18:26Z",
+    "url": "https://github.com/shio-vinyl/gis-kit"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-30T15:19:48Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
+    "id": "kcy4334-lgtm/translate-book-arxiv",
+    "language": "Python",
+    "name": "kcy4334-lgtm/translate-book-arxiv",
+    "stars": 2,
+    "updated_at": "2026-09-30T15:16:21Z",
+    "url": "https://github.com/kcy4334-lgtm/translate-book-arxiv"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-09-30T15:15:38Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-09-30T15:15:35Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-09-30T15:15:35Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-09-30T15:15:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 429,
-    "updated_at": "2026-09-30T15:14:32Z",
+    "updated_at": "2026-09-30T15:20:33Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -25,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T15:11:46Z",
     "url": "https://github.com/Tipatask/tipatask"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-30T15:15:07Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 7,
-    "updated_at": "2026-09-30T15:11:37Z",
-    "url": "https://github.com/TyrusRC/praetor"
   },
   {
     "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
@@ -81,24 +171,6 @@
     "url": "https://github.com/shortcuts/radin"
   },
   {
-    "description": "Reliable GIS for AI agents \u2014 vector/raster, terrain, network access and scanned-map georeferencing as a Claude Code / Co",
-    "id": "shio-vinyl/gis-kit",
-    "language": "Python",
-    "name": "shio-vinyl/gis-kit",
-    "stars": 0,
-    "updated_at": "2026-09-30T15:07:54Z",
-    "url": "https://github.com/shio-vinyl/gis-kit"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 31,
-    "updated_at": "2026-09-30T15:07:53Z",
-    "url": "https://github.com/travsteward/openwriter"
-  },
-  {
     "description": "An agent skill for hand-painted animated shorts and music videos in code: watercolor, ink, crayon. \u8ba9 AI agent \u7528\u4ee3\u7801\u753b\u624b\u7ed8\u52a8\u753b\u77ed\u7247",
     "id": "nzl153/paint-video-skill",
     "language": "JavaScript",
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T15:06:52Z",
     "url": "https://github.com/nzl153/paint-video-skill"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-09-30T15:11:34Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Thousands of agent skills. The right ones for your repo. Repotify reads the skills developers and AI companies publish o",
@@ -167,17 +230,8 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 23,
-    "updated_at": "2026-09-30T15:01:42Z",
+    "updated_at": "2026-09-30T15:20:56Z",
     "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-09-30T15:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A job-search agent for Claude Code. It searches job sources every day, filters postings against your rules (location, vi",
@@ -211,7 +265,7 @@
     "id": "scenario-labs/skills",
     "language": "Python",
     "name": "scenario-labs/skills",
-    "stars": 779,
+    "stars": 780,
     "updated_at": "2026-09-30T14:57:03Z",
     "url": "https://github.com/scenario-labs/skills"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T14:31:48Z",
     "url": "https://github.com/Spirounkempt95/snifftest"
-  },
-  {
-    "description": "Explore and debug Codex, Claude Code, Pi, and Hermes agent traces locally with real-time token usage and cost tracking.",
-    "id": "Gamboasusana748/agent-monitor",
-    "language": "TypeScript",
-    "name": "Gamboasusana748/agent-monitor",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:31:36Z",
-    "url": "https://github.com/Gamboasusana748/agent-monitor"
-  },
-  {
-    "description": "Autarch turns uncertainty into structured decisions \u2014 a /autarch decision skill for Claude Code, evaluated by Jev",
-    "id": "hiromu1018ks/autarch",
-    "language": "Python",
-    "name": "hiromu1018ks/autarch",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:31:22Z",
-    "url": "https://github.com/hiromu1018ks/autarch"
-  },
-  {
-    "description": "Track developer roadmaps offline with progress tracking, spaced repetition, and career analytics\u2014no account or internet ",
-    "id": "Itzzni9454/skill-trail",
-    "language": "TypeScript",
-    "name": "Itzzni9454/skill-trail",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:31:19Z",
-    "url": "https://github.com/Itzzni9454/skill-trail"
-  },
-  {
-    "description": "Build kinetic-typography and logo promos as code with Remotion, shipping MP4s in 9:16 and 16:9 from one React codebase.",
-    "id": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "language": "TypeScript",
-    "name": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:31:18Z",
-    "url": "https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:30:08Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-09-30T14:29:54Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
   }
 ]
