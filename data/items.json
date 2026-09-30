@@ -1,21 +1,75 @@
 [
   {
-    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
-    "id": "alfadur7/llm-wiki-newsroom",
-    "language": "Python",
-    "name": "alfadur7/llm-wiki-newsroom",
-    "stars": 167,
-    "updated_at": "2026-09-30T03:29:56Z",
-    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
+    "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
+    "id": "dayvisonassis/sdd-skills",
+    "language": "JavaScript",
+    "name": "dayvisonassis/sdd-skills",
+    "stars": 2,
+    "updated_at": "2026-09-30T03:44:51Z",
+    "url": "https://github.com/dayvisonassis/sdd-skills"
   },
   {
-    "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
-    "id": "ralvarezdev/ralvaskills",
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
     "language": "Go",
-    "name": "ralvarezdev/ralvaskills",
-    "stars": 2,
-    "updated_at": "2026-09-30T03:28:55Z",
-    "url": "https://github.com/ralvarezdev/ralvaskills"
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-09-30T03:43:21Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance code searches with ast-grep, finding patterns in your code structure for improved error handling and analysis.",
+    "id": "Kayunangka/claude-skill",
+    "language": "\u2014",
+    "name": "Kayunangka/claude-skill",
+    "stars": 5,
+    "updated_at": "2026-09-30T03:41:23Z",
+    "url": "https://github.com/Kayunangka/claude-skill"
+  },
+  {
+    "description": "Claude Code skill \u2014 delegate coding tasks to Mistral Vibe, supervise via git diff & save 50-90% Claude token usage",
+    "id": "pcx-wave/vibe-skill",
+    "language": "Shell",
+    "name": "pcx-wave/vibe-skill",
+    "stars": 118,
+    "updated_at": "2026-09-30T03:41:05Z",
+    "url": "https://github.com/pcx-wave/vibe-skill"
+  },
+  {
+    "description": "MCP server that suggests repository-specific AI agent skills.",
+    "id": "sator-imaging/suggest-skills",
+    "language": "TypeScript",
+    "name": "sator-imaging/suggest-skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T03:43:40Z",
+    "url": "https://github.com/sator-imaging/suggest-skills"
+  },
+  {
+    "description": "A growing set of Claude Code skills. Starts with /uiux, which builds UI under strict UX rules and reviews it, or audits ",
+    "id": "MarvelCollin/agent-skills",
+    "language": "Shell",
+    "name": "MarvelCollin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T03:39:35Z",
+    "url": "https://github.com/MarvelCollin/agent-skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-09-30T03:38:53Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "\u817e\u8baf\u98ce\u683c\u5f00\u6e90\u8d21\u732e Agent Skill \u5957\u4ef6\u2014\u201412 \u4ed3 45k+ \u8bed\u6599\u5b9e\u6d4b\u84b8\u998f\u7684\u516b\u4e2a skill\uff1a\u6d41\u7a0b\u95e8\u7981 / \u6587\u6863\u98ce\u683c / \u7ef4\u62a4\u8005\u58f0\u7eb9 / \u5efa\u4ed3\u811a\u624b\u67b6 / \u8fd0\u8425\u65b9\u6cd5\u8bba\u3002\u4e09\u8f6e\u58f0\u7eb9\u76f2\u8bc4 + holdout \u96f6\u865a\u6784\u3002",
+    "id": "qikairo7/penguin-oss-suite",
+    "language": "HTML",
+    "name": "qikairo7/penguin-oss-suite",
+    "stars": 1,
+    "updated_at": "2026-09-30T03:38:17Z",
+    "url": "https://github.com/qikairo7/penguin-oss-suite"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
@@ -23,8 +77,89 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69660,
-    "updated_at": "2026-09-30T03:27:34Z",
+    "updated_at": "2026-09-30T03:36:57Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Multi-agent stock and crypto research skill for Claude, a lite version of TradingAgents.",
+    "id": "RivaldoTimoty/trading-agents-lite",
+    "language": "Python",
+    "name": "RivaldoTimoty/trading-agents-lite",
+    "stars": 0,
+    "updated_at": "2026-09-30T03:35:43Z",
+    "url": "https://github.com/RivaldoTimoty/trading-agents-lite"
+  },
+  {
+    "description": "Local News API: a read-only agent skill for searching a local newsroom's articles, sources, meeting transcripts and even",
+    "id": "news-community/news-skills",
+    "language": "Python",
+    "name": "news-community/news-skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T03:35:20Z",
+    "url": "https://github.com/news-community/news-skills"
+  },
+  {
+    "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
+    "id": "NYTC69/review-loop",
+    "language": "Python",
+    "name": "NYTC69/review-loop",
+    "stars": 3,
+    "updated_at": "2026-09-30T03:35:15Z",
+    "url": "https://github.com/NYTC69/review-loop"
+  },
+  {
+    "description": "Production-quality agent skills for Claude Code and OpenAI Codex: session handoff (putdown/pickup), knowledge harvesting",
+    "id": "cabaynes/charles-agent-skills",
+    "language": "Python",
+    "name": "cabaynes/charles-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-09-30T03:33:56Z",
+    "url": "https://github.com/cabaynes/charles-agent-skills"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1009,
+    "updated_at": "2026-09-30T03:33:01Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
+    "id": "ralvarezdev/ralvaskills",
+    "language": "Go",
+    "name": "ralvarezdev/ralvaskills",
+    "stars": 2,
+    "updated_at": "2026-09-30T03:31:28Z",
+    "url": "https://github.com/ralvarezdev/ralvaskills"
+  },
+  {
+    "description": "12 reusable Claude Code AI skills for product planning, UI/UX design, code review, QA, security, performance, DevOps, SE",
+    "id": "ack-solutions/claude-code-ai-skills",
+    "language": "JavaScript",
+    "name": "ack-solutions/claude-code-ai-skills",
+    "stars": 1,
+    "updated_at": "2026-09-30T03:30:21Z",
+    "url": "https://github.com/ack-solutions/claude-code-ai-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 49,
+    "updated_at": "2026-09-30T03:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into",
+    "id": "alfadur7/llm-wiki-newsroom",
+    "language": "Python",
+    "name": "alfadur7/llm-wiki-newsroom",
+    "stars": 167,
+    "updated_at": "2026-09-30T03:29:56Z",
+    "url": "https://github.com/alfadur7/llm-wiki-newsroom"
   },
   {
     "description": "Run several Claude Code sessions in parallel from any browser, phone included: live tmux terminals, per-session state fr",
@@ -52,15 +187,6 @@
     "stars": 6202,
     "updated_at": "2026-09-30T03:23:28Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-09-30T03:29:43Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
@@ -144,33 +270,6 @@
     "url": "https://github.com/100x-fi/ingfah-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 49,
-    "updated_at": "2026-09-30T03:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A growing set of Claude Code skills. Starts with /uiux, which builds UI under strict UX rules and reviews it, or audits ",
-    "id": "MarvelCollin/agent-skills",
-    "language": "Shell",
-    "name": "MarvelCollin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-09-30T03:13:59Z",
-    "url": "https://github.com/MarvelCollin/agent-skills"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1005,
-    "updated_at": "2026-09-30T03:27:51Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "Curated AI agent skills and plugins for Claude Code, OpenAI Codex CLI, and Cursor. Reusable workflows for prompt enginee",
     "id": "host452b/polish",
     "language": "Python",
@@ -185,17 +284,8 @@
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
     "stars": 19564,
-    "updated_at": "2026-09-30T03:08:04Z",
+    "updated_at": "2026-09-30T03:31:05Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 5,
-    "updated_at": "2026-09-30T03:06:14Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
   },
   {
     "description": "Official PostOnce skills + MCP server for Claude, ChatGPT, Cursor and Codex. Write native posts, crosspost to 9 social p",
@@ -358,95 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-30T02:43:01Z",
     "url": "https://github.com/transitive-bullshit/skills"
-  },
-  {
-    "description": "Local News API: a read-only agent skill for searching a local newsroom's articles, sources, meeting transcripts and even",
-    "id": "news-community/news-skills",
-    "language": "Python",
-    "name": "news-community/news-skills",
-    "stars": 0,
-    "updated_at": "2026-09-30T02:34:51Z",
-    "url": "https://github.com/news-community/news-skills"
-  },
-  {
-    "description": "Ontology, semantic-layer, concept-design, and presentation Agent Skills.",
-    "id": "ontology-of-everything/concept-skills",
-    "language": "Shell",
-    "name": "ontology-of-everything/concept-skills",
-    "stars": 11,
-    "updated_at": "2026-09-30T02:33:28Z",
-    "url": "https://github.com/ontology-of-everything/concept-skills"
-  },
-  {
-    "description": "PMO-Style multi-agent orchestrator for Claude Code. Fable 5 conducts, 18 agents build & verify. Give it a goal, get veri",
-    "id": "youki0p0/jen-marketplace",
-    "language": "Python",
-    "name": "youki0p0/jen-marketplace",
-    "stars": 0,
-    "updated_at": "2026-09-30T02:30:34Z",
-    "url": "https://github.com/youki0p0/jen-marketplace"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-09-30T02:28:39Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "\u7814\u7a76\u5feb\u624b\u641c\u7d22\u7ed3\u679c\u3001\u4f5c\u54c1\u7ed3\u6784\u3001\u8fbe\u4eba\u6570\u636e\u548c\u7528\u6237\u53cd\u9988\uff0c\u7b5b\u9009\u503c\u5f97\u7ee7\u7eed\u9a8c\u8bc1\u7684\u673a\u4f1a\u3002\u5f53\u7528\u6237\u8be2\u95ee\u5feb\u624b\u9009\u9898\u3001\u5feb\u624b\u589e\u957f\u6216\u7528\u6237\u75db\u70b9\u65f6\u4f7f\u7528\u3002",
-    "id": "why20261/kuaishou-opportunity-research",
-    "language": "JavaScript",
-    "name": "why20261/kuaishou-opportunity-research",
-    "stars": 0,
-    "updated_at": "2026-09-30T02:27:53Z",
-    "url": "https://github.com/why20261/kuaishou-opportunity-research"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-09-30T02:27:10Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-09-30T02:23:09Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "A curated collection of Claude Code skills \u2014 code-review loop, local chat-history search, session end/resume, Gemini ima",
-    "id": "BryceEWatson/claude-global-skills",
-    "language": "Python",
-    "name": "BryceEWatson/claude-global-skills",
-    "stars": 0,
-    "updated_at": "2026-09-30T02:19:25Z",
-    "url": "https://github.com/BryceEWatson/claude-global-skills"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-09-30T02:19:19Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
-    "id": "haoming-luo/agentfem",
-    "language": "Python",
-    "name": "haoming-luo/agentfem",
-    "stars": 18,
-    "updated_at": "2026-09-30T02:13:04Z",
-    "url": "https://github.com/haoming-luo/agentfem"
   }
 ]
