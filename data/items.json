@@ -1,12 +1,57 @@
 [
   {
-    "description": "Collection of skills for the ColdBox Platform and Claude Plugin",
-    "id": "ColdBox/skills",
-    "language": "\u2014",
-    "name": "ColdBox/skills",
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-09-30T17:59:28Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
+    "id": "nicholyx/ai-skills",
+    "language": "Python",
+    "name": "nicholyx/ai-skills",
+    "stars": 6,
+    "updated_at": "2026-09-30T17:59:08Z",
+    "url": "https://github.com/nicholyx/ai-skills"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 12,
+    "updated_at": "2026-09-30T17:57:49Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "A free Claude setup: skills and agents for real work (sub-agents, agent apps, careful coding, browser automation, human-",
+    "id": "marliechorgan/claude-setup",
+    "language": "Shell",
+    "name": "marliechorgan/claude-setup",
     "stars": 0,
-    "updated_at": "2026-09-30T17:44:46Z",
-    "url": "https://github.com/ColdBox/skills"
+    "updated_at": "2026-09-30T17:57:26Z",
+    "url": "https://github.com/marliechorgan/claude-setup"
+  },
+  {
+    "description": "Reusable Claude Code skills for Object Pascal work \u2014 dual-compiler Delphi/Lazarus projects",
+    "id": "fabianoallex/pascal-skills-faa",
+    "language": "Python",
+    "name": "fabianoallex/pascal-skills-faa",
+    "stars": 2,
+    "updated_at": "2026-09-30T17:51:41Z",
+    "url": "https://github.com/fabianoallex/pascal-skills-faa"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1014,
+    "updated_at": "2026-09-30T17:49:07Z",
+    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "AI Skills for Dentists - Research critique, clinical evidence review, and content creation tools for Claude Desktop and ",
@@ -14,8 +59,53 @@
     "language": "Python",
     "name": "Tuminha/dental-ai-skills",
     "stars": 7,
-    "updated_at": "2026-09-30T17:44:26Z",
+    "updated_at": "2026-09-30T17:58:09Z",
     "url": "https://github.com/Tuminha/dental-ai-skills"
+  },
+  {
+    "description": "BoxLang AI skills repository and Claude Plugin",
+    "id": "ortus-boxlang/skills",
+    "language": "\u2014",
+    "name": "ortus-boxlang/skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T17:46:56Z",
+    "url": "https://github.com/ortus-boxlang/skills"
+  },
+  {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 4,
+    "updated_at": "2026-09-30T17:46:15Z",
+    "url": "https://github.com/hraness/oh"
+  },
+  {
+    "description": "Agent Skill for Claude Code: working context for projects built on Apostol \u2014 libapostol (C++20) + db-platform (PostgreSQ",
+    "id": "apostoldevel/claude-plugins",
+    "language": "\u2014",
+    "name": "apostoldevel/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-09-30T17:45:22Z",
+    "url": "https://github.com/apostoldevel/claude-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-09-30T17:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Collection of skills for the ColdBox Platform and Claude Plugin",
+    "id": "ColdBox/skills",
+    "language": "\u2014",
+    "name": "ColdBox/skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T17:44:46Z",
+    "url": "https://github.com/ColdBox/skills"
   },
   {
     "description": "\u05db\u05dc \u05d4\u05e1\u05e7\u05d9\u05dc\u05d9\u05dd \u05e9\u05dc \u05d1\u05d9\u05df \u05e7\u05d5\u05d3\u05e9 \u05dc\u05e7\u05dc\u05d5\u05d3 \u05dc-Claude Code \u05d1\u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05d3 - \u05d3\u05e3 \u05d4\u05e1\u05d1\u05e8 \u05d5\u05d4\u05ea\u05e7\u05e0\u05d4 \u05d1\u05d4\u05d3\u05d1\u05e7\u05d4 \u05d0\u05d7\u05ea \u05dc\u05db\u05dc \u05e1\u05e7\u05d9\u05dc",
@@ -27,15 +117,6 @@
     "url": "https://github.com/hiyabh/claude-skills"
   },
   {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1013,
-    "updated_at": "2026-09-30T17:40:01Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
@@ -43,15 +124,6 @@
     "stars": 23,
     "updated_at": "2026-09-30T17:39:29Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Free Claude skills: brief sub-agents, run them in parallel, test agent apps, write and review code that doesn't fail sil",
-    "id": "marliechorgan/skills",
-    "language": "Shell",
-    "name": "marliechorgan/skills",
-    "stars": 0,
-    "updated_at": "2026-09-30T17:37:56Z",
-    "url": "https://github.com/marliechorgan/skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -95,17 +167,8 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69684,
-    "updated_at": "2026-09-30T17:40:20Z",
+    "updated_at": "2026-09-30T17:59:12Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
-    "id": "nicholyx/ai-skills",
-    "language": "Python",
-    "name": "nicholyx/ai-skills",
-    "stars": 6,
-    "updated_at": "2026-09-30T17:43:22Z",
-    "url": "https://github.com/nicholyx/ai-skills"
   },
   {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 23,
-    "updated_at": "2026-09-30T17:33:51Z",
+    "updated_at": "2026-09-30T17:57:04Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-30T17:32:00Z",
     "url": "https://github.com/sananthanarayan/skilldrop"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-09-30T17:30:52Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
@@ -185,7 +239,7 @@
     "language": "Python",
     "name": "haoming-luo/agentfem",
     "stars": 19,
-    "updated_at": "2026-09-30T17:29:56Z",
+    "updated_at": "2026-09-30T17:45:22Z",
     "url": "https://github.com/haoming-luo/agentfem"
   },
   {
@@ -194,7 +248,7 @@
     "language": "Shell",
     "name": "solanabr/ai-kit",
     "stars": 106,
-    "updated_at": "2026-09-30T17:36:33Z",
+    "updated_at": "2026-09-30T17:53:47Z",
     "url": "https://github.com/solanabr/ai-kit"
   },
   {
@@ -293,7 +347,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-30T17:38:04Z",
+    "updated_at": "2026-09-30T17:55:18Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T17:17:45Z",
     "url": "https://github.com/hraness/soulscrape"
-  },
-  {
-    "description": "Claude Code plugins for indie hackers doing their own growth: PostHog funnel investigations, ChatGPT & Apple Search Ads,",
-    "id": "josephbedminster/indie-marketing-skills",
-    "language": "Python",
-    "name": "josephbedminster/indie-marketing-skills",
-    "stars": 1,
-    "updated_at": "2026-09-30T17:01:44Z",
-    "url": "https://github.com/josephbedminster/indie-marketing-skills"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 93,
-    "updated_at": "2026-09-30T17:01:27Z",
-    "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Signed, audited registry of agent skills (SKILL.md) for Claude Code, OpenAI Codex, Aider and Antigravity: verified insta",
-    "id": "sebastienrousseau/agtmls",
-    "language": "Python",
-    "name": "sebastienrousseau/agtmls",
-    "stars": 1,
-    "updated_at": "2026-09-30T17:34:51Z",
-    "url": "https://github.com/sebastienrousseau/agtmls"
-  },
-  {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 4,
-    "updated_at": "2026-09-30T17:38:56Z",
-    "url": "https://github.com/hraness/oh"
-  },
-  {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:56:08Z",
-    "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
-    "description": "Claude skill for end-to-end UI/UX: interviews first, picks from 95 design styles, maps every screen state, and plans bef",
-    "id": "noam1a1/ui-ux-compass",
-    "language": "Python",
-    "name": "noam1a1/ui-ux-compass",
-    "stars": 1,
-    "updated_at": "2026-09-30T16:55:35Z",
-    "url": "https://github.com/noam1a1/ui-ux-compass"
   }
 ]
