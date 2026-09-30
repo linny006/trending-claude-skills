@@ -1,5 +1,23 @@
 [
   {
+    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
+    "id": "xsyetopz/dotclaude",
+    "language": "JavaScript",
+    "name": "xsyetopz/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:14:14Z",
+    "url": "https://github.com/xsyetopz/dotclaude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-09-30T20:13:41Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
     "id": "nicholyx/ai-skills",
     "language": "Python",
@@ -34,6 +52,15 @@
     "stars": 1,
     "updated_at": "2026-09-30T20:09:14Z",
     "url": "https://github.com/hraness/soulscrape"
+  },
+  {
+    "description": "Agent Skill for TradingView, Telegram, webhook and multi-platform trading automation with AlgoWay.                 Do yo",
+    "id": "Algoway/algoway-trading-automation-skill",
+    "language": "\u2014",
+    "name": "Algoway/algoway-trading-automation-skill",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:07:07Z",
+    "url": "https://github.com/Algoway/algoway-trading-automation-skill"
   },
   {
     "description": "Thousands of agent skills. The right ones for your repo. Repotify reads the skills developers and AI companies publish o",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T20:00:58Z",
     "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-09-30T20:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "hraness/wordcell",
     "stars": 16,
-    "updated_at": "2026-09-30T19:49:21Z",
+    "updated_at": "2026-09-30T20:14:30Z",
     "url": "https://github.com/hraness/wordcell"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-09-30T19:48:51Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-09-30T19:48:27Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
   }
 ]
