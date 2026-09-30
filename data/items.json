@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-09-30T23:43:47Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95027,
+    "updated_at": "2026-09-30T23:43:28Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-09-30T23:37:48Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-09-30T23:43:03Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "The proactive-agent skill turns a goal into an agent that runs on a schedule. It checks your apps, picks its next task, ",
+    "id": "jerid-cyber/proactive-ai-agent",
+    "language": "Shell",
+    "name": "jerid-cyber/proactive-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T23:34:24Z",
+    "url": "https://github.com/jerid-cyber/proactive-ai-agent"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69687,
+    "updated_at": "2026-09-30T23:34:13Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
+    "id": "takimdigital/deckhand-skill",
+    "language": "Python",
+    "name": "takimdigital/deckhand-skill",
+    "stars": 1,
+    "updated_at": "2026-09-30T23:38:13Z",
+    "url": "https://github.com/takimdigital/deckhand-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-09-30T23:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
     "id": "hraness/soulscrape",
     "language": "TypeScript",
@@ -18,7 +90,7 @@
     "url": "https://github.com/repotify/repotify"
   },
   {
-    "description": "Platform Blocks skills for AI agents \u2014 setup, theming, layout, forms, and charts, verified against the source",
+    "description": "Plocks skills for AI agents \u2014 setup, theming, layout, forms, and charts, verified against the source",
     "id": "platform-blocks/skills",
     "language": "\u2014",
     "name": "platform-blocks/skills",
@@ -34,15 +106,6 @@
     "stars": 166,
     "updated_at": "2026-09-30T23:26:14Z",
     "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-09-30T23:27:57Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -61,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-09-30T23:19:34Z",
     "url": "https://github.com/nmoinvaz/speedy-gonzales"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95027,
-    "updated_at": "2026-09-30T23:22:53Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -117,24 +171,6 @@
     "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-09-30T23:15:21Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69686,
-    "updated_at": "2026-09-30T23:24:03Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -160,15 +196,6 @@
     "stars": 37,
     "updated_at": "2026-09-30T23:07:49Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
-    "id": "takimdigital/deckhand-skill",
-    "language": "Python",
-    "name": "takimdigital/deckhand-skill",
-    "stars": 1,
-    "updated_at": "2026-09-30T23:22:26Z",
-    "url": "https://github.com/takimdigital/deckhand-skill"
   },
   {
     "description": "API gateway with managed auth. Connect your AI to Slack, HubSpot, Salesforce, Google Workspace, Shopify, and more with a",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-09-30T23:03:06Z",
+    "updated_at": "2026-09-30T23:41:37Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T22:54:39Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "The proactive-agent skill turns a goal into an agent that runs on a schedule. It checks your apps, picks its next task, ",
-    "id": "jerid-cyber/proactive-ai-agent",
-    "language": "Shell",
-    "name": "jerid-cyber/proactive-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T22:52:39Z",
-    "url": "https://github.com/jerid-cyber/proactive-ai-agent"
   },
   {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
@@ -396,15 +414,6 @@
     "url": "https://github.com/tenequm/skills"
   },
   {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 5,
-    "updated_at": "2026-09-30T23:14:20Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
     "description": "AI code reviews by Elon Musk, Steve Jobs & Linus Torvalds. Three personas debate your code until consensus. Claude Code ",
     "id": "Atypical-Consulting/claude-legends-review",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T22:32:10Z",
     "url": "https://github.com/serious-ai/claude-skills-starter"
-  },
-  {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 4,
-    "updated_at": "2026-09-30T22:29:28Z",
-    "url": "https://github.com/hraness/oh"
   }
 ]
