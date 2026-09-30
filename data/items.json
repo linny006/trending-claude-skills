@@ -1,5 +1,104 @@
 [
   {
+    "description": "Claude Code skills for Bria AI - generate, edit, and transform images with Fibo, RMBG-2.0, and VGL structured prompts",
+    "id": "Bria-AI/bria-skill",
+    "language": "Python",
+    "name": "Bria-AI/bria-skill",
+    "stars": 68,
+    "updated_at": "2026-09-30T15:30:09Z",
+    "url": "https://github.com/Bria-AI/bria-skill"
+  },
+  {
+    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
+    "id": "isatimur/excalidraw-skill-pack",
+    "language": "TypeScript",
+    "name": "isatimur/excalidraw-skill-pack",
+    "stars": 4,
+    "updated_at": "2026-09-30T15:29:44Z",
+    "url": "https://github.com/isatimur/excalidraw-skill-pack"
+  },
+  {
+    "description": "Evidence-first Lenovo ThinkSystem/ThinkAgile presales skill for Claude, ChatGPT, Codex and any LLM: TCE rules, verified ",
+    "id": "lukemitchelladams/lenovo-skill",
+    "language": "Python",
+    "name": "lukemitchelladams/lenovo-skill",
+    "stars": 0,
+    "updated_at": "2026-09-30T15:29:04Z",
+    "url": "https://github.com/lukemitchelladams/lenovo-skill"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-09-30T15:28:48Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Claude Code skills that give AI agents live theme park data (crowd forecasts, hours, weather).",
+    "id": "ianlchapman/park-skills",
+    "language": "\u2014",
+    "name": "ianlchapman/park-skills",
+    "stars": 0,
+    "updated_at": "2026-09-30T15:27:28Z",
+    "url": "https://github.com/ianlchapman/park-skills"
+  },
+  {
+    "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
+    "id": "nullphase-net/enfurbish",
+    "language": "TypeScript",
+    "name": "nullphase-net/enfurbish",
+    "stars": 1,
+    "updated_at": "2026-09-30T15:27:13Z",
+    "url": "https://github.com/nullphase-net/enfurbish"
+  },
+  {
+    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
+    "id": "Machai-Kydoimos/dependabot-audit",
+    "language": "Python",
+    "name": "Machai-Kydoimos/dependabot-audit",
+    "stars": 0,
+    "updated_at": "2026-09-30T15:29:05Z",
+    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
+  },
+  {
+    "description": "Preserves a long-lived repository's engineering context \u2014 an architecture index, an impact map, session records, and the",
+    "id": "ArcticFox2029/chamnan",
+    "language": "Python",
+    "name": "ArcticFox2029/chamnan",
+    "stars": 9,
+    "updated_at": "2026-09-30T15:24:25Z",
+    "url": "https://github.com/ArcticFox2029/chamnan"
+  },
+  {
+    "description": "Claude Code skill that reads your repo, then picks the right service, API or SDK for a feature: scored, grounded in your",
+    "id": "angellane/stackfit",
+    "language": "Python",
+    "name": "angellane/stackfit",
+    "stars": 3,
+    "updated_at": "2026-09-30T15:22:19Z",
+    "url": "https://github.com/angellane/stackfit"
+  },
+  {
+    "description": "One sentence in, a researched 3D motion graphic out \u2014 a Claude Code skill that makes looping real-time HTML films (Three",
+    "id": "Seokwoooo/promptfilm",
+    "language": "JavaScript",
+    "name": "Seokwoooo/promptfilm",
+    "stars": 1,
+    "updated_at": "2026-09-30T15:21:38Z",
+    "url": "https://github.com/Seokwoooo/promptfilm"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-09-30T15:21:02Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "VS Code \uc138\ud305\uc744 AI \uc5d0\uc774\uc804\ud2b8\uc5d0\uac8c \ud1b5\uc9f8\ub85c \ub9e1\uae30\ub294 Windows\uc6a9 \ubc14\uc774\ube0c \ucf54\ub529 \uc2a4\ud0ac \u00b7 \ubbf8\ub9ac\ubcf4\uae30 | \ucf54\ub4dc | Codex 3\uc5f4, \ub300\ud654 \ub2e8\uc704 \ub418\ub3cc\ub9ac\uae30, \ud734\ub300\ud3f0 \uc6d0\uaca9 \uc791\uc5c5",
     "id": "ARTHONG1/vsstudiovibecoding",
     "language": "JavaScript",
@@ -23,11 +122,11 @@
     "language": "TypeScript",
     "name": "travsteward/openwriter",
     "stars": 31,
-    "updated_at": "2026-09-30T15:19:14Z",
+    "updated_at": "2026-09-30T15:30:09Z",
     "url": "https://github.com/travsteward/openwriter"
   },
   {
-    "description": "300+ curated Agent Skills for Claude Code, Cursor, Copilot & any AI coder \u2014 React, Next.js, Tailwind, TypeScript, Python",
+    "description": "338 curated Agent Skills for Claude Code, Cursor, Copilot & any AI coder \u2014 React, Next.js, Tailwind, TypeScript, Python,",
     "id": "YousefSaad47/youseful-skills",
     "language": "Shell",
     "name": "YousefSaad47/youseful-skills",
@@ -59,7 +158,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-09-30T15:19:48Z",
+    "updated_at": "2026-09-30T15:25:50Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -86,7 +185,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-09-30T15:15:35Z",
+    "updated_at": "2026-09-30T15:29:41Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -97,24 +196,6 @@
     "stars": 53,
     "updated_at": "2026-09-30T15:15:35Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-09-30T15:15:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 429,
-    "updated_at": "2026-09-30T15:20:33Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "The Synapti Marketplace is a curated collection of Claude Code plugins designed for AI-augmented development + advanced ",
@@ -130,7 +211,7 @@
     "id": "Tipatask/tipatask",
     "language": "JavaScript",
     "name": "Tipatask/tipatask",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-30T15:11:46Z",
     "url": "https://github.com/Tipatask/tipatask"
   },
@@ -257,7 +338,7 @@
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
     "stars": 1638,
-    "updated_at": "2026-09-30T15:09:32Z",
+    "updated_at": "2026-09-30T15:29:20Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
@@ -274,7 +355,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69671,
+    "stars": 69672,
     "updated_at": "2026-09-30T14:56:05Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -324,15 +405,6 @@
     "url": "https://github.com/thepictishbeast/claude-tools"
   },
   {
-    "description": "Claude Code skills for Bria AI - generate, edit, and transform images with Fibo, RMBG-2.0, and VGL structured prompts",
-    "id": "Bria-AI/bria-skill",
-    "language": "Python",
-    "name": "Bria-AI/bria-skill",
-    "stars": 68,
-    "updated_at": "2026-09-30T14:51:29Z",
-    "url": "https://github.com/Bria-AI/bria-skill"
-  },
-  {
     "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
     "id": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
     "language": "JavaScript",
@@ -360,15 +432,6 @@
     "url": "https://github.com/afonsoft/skills"
   },
   {
-    "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
-    "id": "nullphase-net/enfurbish",
-    "language": "TypeScript",
-    "name": "nullphase-net/enfurbish",
-    "stars": 1,
-    "updated_at": "2026-09-30T14:45:51Z",
-    "url": "https://github.com/nullphase-net/enfurbish"
-  },
-  {
     "description": "AI Copilot & free Astro MCP alternative for iOS App Store Optimization (ASO), keyword rankings, and growth",
     "id": "rusel95/ios-aso-copilot",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1013,
     "updated_at": "2026-09-30T14:56:47Z",
     "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Open-source AI agent skills for tai chi sword (\u592a\u6781\u5251) \u2014 selection, safety, technique, legal travel/ownership, health benef",
-    "id": "Jackxu1978/tai-chi-sword-skills",
-    "language": "\u2014",
-    "name": "Jackxu1978/tai-chi-sword-skills",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:39:54Z",
-    "url": "https://github.com/Jackxu1978/tai-chi-sword-skills"
-  },
-  {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "HTML",
-    "name": "geml-spec/geml",
-    "stars": 28,
-    "updated_at": "2026-09-30T14:37:48Z",
-    "url": "https://github.com/geml-spec/geml"
-  },
-  {
-    "description": "bridge.ai: Claude Code plugins for AI-assisted development",
-    "id": "chris-peterson/claude-marketplace",
-    "language": "Python",
-    "name": "chris-peterson/claude-marketplace",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:36:36Z",
-    "url": "https://github.com/chris-peterson/claude-marketplace"
-  },
-  {
-    "description": "BoxLang AI skills repository and Claude Plugin",
-    "id": "ortus-boxlang/skills",
-    "language": "\u2014",
-    "name": "ortus-boxlang/skills",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:35:49Z",
-    "url": "https://github.com/ortus-boxlang/skills"
-  },
-  {
-    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
-    "id": "Jsnnmsc/10000x-engineer",
-    "language": "\u2014",
-    "name": "Jsnnmsc/10000x-engineer",
-    "stars": 1,
-    "updated_at": "2026-09-30T14:35:46Z",
-    "url": "https://github.com/Jsnnmsc/10000x-engineer"
-  },
-  {
-    "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
-    "id": "ice-lfernandes/claude-spring-architect",
-    "language": "Java",
-    "name": "ice-lfernandes/claude-spring-architect",
-    "stars": 3,
-    "updated_at": "2026-09-30T14:32:39Z",
-    "url": "https://github.com/ice-lfernandes/claude-spring-architect"
-  },
-  {
-    "description": "Sniff your Markdown drafts against house rules with local regex checks and optional AI judgment calls.",
-    "id": "Spirounkempt95/snifftest",
-    "language": "TypeScript",
-    "name": "Spirounkempt95/snifftest",
-    "stars": 0,
-    "updated_at": "2026-09-30T14:31:48Z",
-    "url": "https://github.com/Spirounkempt95/snifftest"
   }
 ]
