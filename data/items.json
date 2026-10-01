@@ -1,5 +1,95 @@
 [
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95037,
+    "updated_at": "2026-10-01T04:45:01Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-01T04:44:45Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2629,
+    "updated_at": "2026-10-01T04:41:09Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-10-01T04:40:30Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "Thousands of agent skills. The right ones for your repo. Repotify reads the skills developers and AI companies publish o",
+    "id": "repotify/repotify",
+    "language": "JavaScript",
+    "name": "repotify/repotify",
+    "stars": 1,
+    "updated_at": "2026-10-01T04:36:43Z",
+    "url": "https://github.com/repotify/repotify"
+  },
+  {
+    "description": "\u300a\u65e0\u6094\u534e\u590f\u300b\u98ce\u683c\u8f6c\u6362 Skill\uff1a\u628a\u542b\u4eba\u7269\u56fe\u7247\u8f6c\u4e3a\u65b0\u56fd\u98ce\u6241\u5e73\u63d2\u753b\u2014\u2014\u4eba\u7269\u786c\u5207\u9762\u5e73\u6d82\u3001\u4e0d\u753b\u773c\u775b\u3001\u80cc\u666f\u67d4\u8fb9\u4e91\u6c14\u6e10\u53d8 | Agent Skill for converting images into a flat guofeng illustra",
+    "id": "cloudxys/wu-hui-hua-xia-style",
+    "language": "\u2014",
+    "name": "cloudxys/wu-hui-hua-xia-style",
+    "stars": 1,
+    "updated_at": "2026-10-01T04:34:15Z",
+    "url": "https://github.com/cloudxys/wu-hui-hua-xia-style"
+  },
+  {
+    "description": "Claude Code skill that makes guided meditation audio with ElevenLabs: script, voice, narration, music and nature sounds",
+    "id": "donth77/guided-meditation-skill",
+    "language": "Python",
+    "name": "donth77/guided-meditation-skill",
+    "stars": 0,
+    "updated_at": "2026-10-01T04:33:40Z",
+    "url": "https://github.com/donth77/guided-meditation-skill"
+  },
+  {
+    "description": "Styled Markdown (.smd): Markdown for developers, PMs and AI agents \u2014 callouts, colors, diagrams, decisions, risks, APIs,",
+    "id": "bislink360/styled-markdown",
+    "language": "TypeScript",
+    "name": "bislink360/styled-markdown",
+    "stars": 1,
+    "updated_at": "2026-10-01T04:31:16Z",
+    "url": "https://github.com/bislink360/styled-markdown"
+  },
+  {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 4,
+    "updated_at": "2026-10-01T04:31:07Z",
+    "url": "https://github.com/hraness/oh"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T04:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83c\udfb5 Background music for Claude Code \u2014 play YouTube audio with /music, or let Claude pick songs for your mood",
     "id": "tungnt1203/claude-music",
     "language": "Shell",
@@ -18,13 +108,13 @@
     "url": "https://github.com/phreakocious/symbion"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95036,
-    "updated_at": "2026-10-01T04:30:04Z",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69696,
+    "updated_at": "2026-10-01T04:39:41Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "",
@@ -43,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T04:26:56Z",
     "url": "https://github.com/docsor1212/doc-holmes"
-  },
-  {
-    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
-    "id": "slopstopper/plumb-line",
-    "language": "Python",
-    "name": "slopstopper/plumb-line",
-    "stars": 4,
-    "updated_at": "2026-10-01T04:23:54Z",
-    "url": "https://github.com/slopstopper/plumb-line"
   },
   {
     "description": "\u51fa\u6d77\u7535\u5546 Agent Skills: Shopify \u5bf9\u6807\u5e97\u62c6\u89e3\u7b49, \u53ea\u8bfb\u516c\u5f00\u4fe1\u606f, \u5e26\u8bc1\u636e\u5206\u7ea7\u7684\u4e2d\u6587\u62a5\u544a / Agent Skills for cross-border e-commerce sellers",
@@ -90,24 +171,6 @@
     "url": "https://github.com/shumingyang-opencode/superpowers-zh-tw"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T04:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\u300a\u65e0\u6094\u534e\u590f\u300b\u98ce\u683c\u8f6c\u6362 Skill\uff1a\u628a\u542b\u4eba\u7269\u56fe\u7247\u8f6c\u4e3a\u65b0\u56fd\u98ce\u6241\u5e73\u63d2\u753b\u2014\u2014\u4eba\u7269\u786c\u5207\u9762\u5e73\u6d82\u3001\u4e0d\u753b\u773c\u775b\u3001\u80cc\u666f\u67d4\u8fb9\u4e91\u6c14\u6e10\u53d8 | Agent Skill for converting images into a flat guofeng illustra",
-    "id": "cloudxys/wu-hui-hua-xia-style",
-    "language": "\u2014",
-    "name": "cloudxys/wu-hui-hua-xia-style",
-    "stars": 1,
-    "updated_at": "2026-10-01T04:13:50Z",
-    "url": "https://github.com/cloudxys/wu-hui-hua-xia-style"
-  },
-  {
     "description": "Role-specialized engineering squad skills for AI coding agents.",
     "id": "danh121097/squad-skills",
     "language": "TypeScript",
@@ -126,24 +189,6 @@
     "url": "https://github.com/donth77/celebration-card-skill"
   },
   {
-    "description": "Thousands of agent skills. The right ones for your repo. Repotify reads the skills developers and AI companies publish o",
-    "id": "repotify/repotify",
-    "language": "JavaScript",
-    "name": "repotify/repotify",
-    "stars": 1,
-    "updated_at": "2026-10-01T04:06:45Z",
-    "url": "https://github.com/repotify/repotify"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69695,
-    "updated_at": "2026-10-01T04:26:49Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Collection of my personal claude skills",
     "id": "pgoell/pgoell-claude-tools",
     "language": "HTML",
@@ -158,7 +203,7 @@
     "language": "Shell",
     "name": "Yehiak/skill-quarantine",
     "stars": 0,
-    "updated_at": "2026-10-01T04:28:05Z",
+    "updated_at": "2026-10-01T04:36:01Z",
     "url": "https://github.com/Yehiak/skill-quarantine"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-10-01T03:56:41Z",
     "url": "https://github.com/Ramillax/claude-code-control-room"
-  },
-  {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 4,
-    "updated_at": "2026-10-01T04:24:16Z",
-    "url": "https://github.com/hraness/oh"
   },
   {
     "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T02:57:31Z",
     "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:56:34Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Build production-grade mobile apps faster with simulator-verified skills tested against top-grossing apps.",
-    "id": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "language": "\u2014",
-    "name": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:55:19Z",
-    "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
-    "id": "mucinous-riposte867/evidence-based-copywriting",
-    "language": "Python",
-    "name": "mucinous-riposte867/evidence-based-copywriting",
-    "stars": 1,
-    "updated_at": "2026-10-01T02:55:17Z",
-    "url": "https://github.com/mucinous-riposte867/evidence-based-copywriting"
-  },
-  {
-    "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
-    "id": "Trudiemisanthropic314/tiktok-video-skill",
-    "language": "Python",
-    "name": "Trudiemisanthropic314/tiktok-video-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:54:39Z",
-    "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
   }
 ]
