@@ -1,5 +1,77 @@
 [
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95035,
+    "updated_at": "2026-10-01T04:00:08Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 446,
+    "updated_at": "2026-10-01T03:56:44Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Run several Claude Code sessions in parallel from any browser, phone included: live tmux terminals, per-session state fr",
+    "id": "Ramillax/claude-code-control-room",
+    "language": "Python",
+    "name": "Ramillax/claude-code-control-room",
+    "stars": 6,
+    "updated_at": "2026-10-01T03:56:41Z",
+    "url": "https://github.com/Ramillax/claude-code-control-room"
+  },
+  {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 4,
+    "updated_at": "2026-10-01T03:54:46Z",
+    "url": "https://github.com/hraness/oh"
+  },
+  {
+    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 3,
+    "updated_at": "2026-10-01T03:54:36Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-01T03:52:19Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
+    "id": "ralvarezdev/ralvaskills",
+    "language": "Go",
+    "name": "ralvarezdev/ralvaskills",
+    "stars": 2,
+    "updated_at": "2026-10-01T03:46:38Z",
+    "url": "https://github.com/ralvarezdev/ralvaskills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T03:45:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
     "id": "hraness/soulscrape",
     "language": "TypeScript",
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69695,
-    "updated_at": "2026-10-01T03:39:49Z",
+    "updated_at": "2026-10-01T04:00:48Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -79,15 +151,6 @@
     "stars": 14,
     "updated_at": "2026-10-01T03:30:42Z",
     "url": "https://github.com/MbappeWU/murder-board"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T03:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skill that makes interactive celebration cards: music-synced websites with 3D effects, photos and a Suno, El",
@@ -108,15 +171,6 @@
     "url": "https://github.com/reticlehq/reticle"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95035,
-    "updated_at": "2026-10-01T03:43:00Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -126,15 +180,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 4,
-    "updated_at": "2026-10-01T03:30:00Z",
-    "url": "https://github.com/hraness/oh"
-  },
-  {
     "description": "Skills I wrote for Claude. Published from a private working library.",
     "id": "LarrySequino/skills",
     "language": "Python",
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T03:18:10Z",
     "url": "https://github.com/LarrySequino/skills"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-10-01T03:19:35Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T02:47:54Z",
     "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Automate BigQuery tasks with Claude Code. Use this plugin to generate SQL, optimize costs, design schemas, and detect an",
-    "id": "Ocean1346/bigquery-expert",
-    "language": "\u2014",
-    "name": "Ocean1346/bigquery-expert",
-    "stars": 1,
-    "updated_at": "2026-10-01T02:47:01Z",
-    "url": "https://github.com/Ocean1346/bigquery-expert"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-10-01T02:46:46Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-10-01T02:46:42Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:46:34Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
   }
 ]
