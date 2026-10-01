@@ -1,5 +1,149 @@
 [
   {
+    "description": "Set of skills for globalizing and localizing app",
+    "id": "globalize-now/globalize-skills",
+    "language": "TypeScript",
+    "name": "globalize-now/globalize-skills",
+    "stars": 3,
+    "updated_at": "2026-10-01T19:29:37Z",
+    "url": "https://github.com/globalize-now/globalize-skills"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Shell",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:29:24Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
+    "id": "SELAT-AI/selat-plugins",
+    "language": "Shell",
+    "name": "SELAT-AI/selat-plugins",
+    "stars": 1,
+    "updated_at": "2026-10-01T19:28:04Z",
+    "url": "https://github.com/SELAT-AI/selat-plugins"
+  },
+  {
+    "description": "Styled Markdown (.smd): Markdown for developers, PMs and AI agents \u2014 callouts, colors, diagrams, decisions, risks, APIs,",
+    "id": "bislink360/styled-markdown",
+    "language": "TypeScript",
+    "name": "bislink360/styled-markdown",
+    "stars": 1,
+    "updated_at": "2026-10-01T19:26:33Z",
+    "url": "https://github.com/bislink360/styled-markdown"
+  },
+  {
+    "description": "Claude Code skills for construction professionals. ",
+    "id": "dleerdefi/claude-code-construction",
+    "language": "Python",
+    "name": "dleerdefi/claude-code-construction",
+    "stars": 43,
+    "updated_at": "2026-10-01T19:25:31Z",
+    "url": "https://github.com/dleerdefi/claude-code-construction"
+  },
+  {
+    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
+    "id": "ashfulcra/fulcra-tools",
+    "language": "Python",
+    "name": "ashfulcra/fulcra-tools",
+    "stars": 10,
+    "updated_at": "2026-10-01T19:25:22Z",
+    "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
+    "description": "Spec Driven \u2014 orchestrator-first Agent Skills for spec-driven development. The orchestrator skill turns a PRD or idea in",
+    "id": "afonsoft/skills",
+    "language": "Shell",
+    "name": "afonsoft/skills",
+    "stars": 8,
+    "updated_at": "2026-10-01T19:25:13Z",
+    "url": "https://github.com/afonsoft/skills"
+  },
+  {
+    "description": "Recherche d'alternance et de stage automatis\u00e9e : collecte sur cinq sources, d\u00e9doublonnage, notation, r\u00e9daction des lettr",
+    "id": "Nayarr/dashboard_alternance",
+    "language": "Python",
+    "name": "Nayarr/dashboard_alternance",
+    "stars": 1,
+    "updated_at": "2026-10-01T19:28:43Z",
+    "url": "https://github.com/Nayarr/dashboard_alternance"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 63,
+    "updated_at": "2026-10-01T19:21:43Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69736,
+    "updated_at": "2026-10-01T19:19:10Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "[ARCHIVED] SQLite workflow engine for coding agents, superseded by native harness features and GSD-2",
+    "id": "mattjaikaran/meridian",
+    "language": "Python",
+    "name": "mattjaikaran/meridian",
+    "stars": 1,
+    "updated_at": "2026-10-01T19:18:41Z",
+    "url": "https://github.com/mattjaikaran/meridian"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-01T19:17:14Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95105,
+    "updated_at": "2026-10-01T19:16:58Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Free, open SKILL.md skills for AI agents, by area of life: daily ops, health, parenting, money, home, car, work. CC0.",
+    "id": "swarmhq-skills/agent-skills",
+    "language": "\u2014",
+    "name": "swarmhq-skills/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:16:15Z",
+    "url": "https://github.com/swarmhq-skills/agent-skills"
+  },
+  {
+    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
+    "id": "crabbuild/compass",
+    "language": "Rust",
+    "name": "crabbuild/compass",
+    "stars": 166,
+    "updated_at": "2026-10-01T19:16:21Z",
+    "url": "https://github.com/crabbuild/compass"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T19:15:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skill that turns your chat history into a categorised developer profile, project memory and team skills. Rep",
     "id": "sumant22/claude-dev-profile",
     "language": "\u2014",
@@ -18,15 +162,6 @@
     "url": "https://github.com/amit-mizrachi/claude-amit-mizrachi"
   },
   {
-    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
-    "id": "ashfulcra/fulcra-tools",
-    "language": "Python",
-    "name": "ashfulcra/fulcra-tools",
-    "stars": 10,
-    "updated_at": "2026-10-01T19:14:15Z",
-    "url": "https://github.com/ashfulcra/fulcra-tools"
-  },
-  {
     "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
     "id": "mykpono/ultimate-seo-geo",
     "language": "Python",
@@ -41,7 +176,7 @@
     "language": "Rust",
     "name": "ratel-ai/ratel",
     "stars": 464,
-    "updated_at": "2026-10-01T19:12:58Z",
+    "updated_at": "2026-10-01T19:19:34Z",
     "url": "https://github.com/ratel-ai/ratel"
   },
   {
@@ -58,7 +193,7 @@
     "id": "zenbu-labs/terminal-browser",
     "language": "TypeScript",
     "name": "zenbu-labs/terminal-browser",
-    "stars": 3574,
+    "stars": 3575,
     "updated_at": "2026-10-01T19:11:35Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
   },
@@ -70,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T19:10:48Z",
     "url": "https://github.com/thiagoxikota/figma-maxxing"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-10-01T19:14:33Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Two complementary Claude skills for short product reels: reel-taste (idea \u2192 video prompt + motion notes) and motion-stud",
@@ -97,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T19:07:29Z",
     "url": "https://github.com/BlackAngel242/skill-market"
-  },
-  {
-    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
-    "id": "l4ci/hv-skills",
-    "language": "Shell",
-    "name": "l4ci/hv-skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T19:06:16Z",
-    "url": "https://github.com/l4ci/hv-skills"
   },
   {
     "description": "German tax, payroll and social benefit calculations for AI agents via the rechner-hub.de API",
@@ -131,26 +248,8 @@
     "language": "Python",
     "name": "ellehelvig/hr-ai-transformation-playbook",
     "stars": 1,
-    "updated_at": "2026-10-01T19:03:44Z",
+    "updated_at": "2026-10-01T19:25:53Z",
     "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69735,
-    "updated_at": "2026-10-01T19:09:05Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T19:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -338,7 +437,7 @@
     "language": "JavaScript",
     "name": "Drix10/agent-flow",
     "stars": 10,
-    "updated_at": "2026-10-01T19:14:25Z",
+    "updated_at": "2026-10-01T19:26:53Z",
     "url": "https://github.com/Drix10/agent-flow"
   },
   {
@@ -346,107 +445,8 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 19587,
+    "stars": 19588,
     "updated_at": "2026-10-01T18:38:44Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Claude Code skills for construction professionals. ",
-    "id": "dleerdefi/claude-code-construction",
-    "language": "Python",
-    "name": "dleerdefi/claude-code-construction",
-    "stars": 43,
-    "updated_at": "2026-10-01T19:14:27Z",
-    "url": "https://github.com/dleerdefi/claude-code-construction"
-  },
-  {
-    "description": "",
-    "id": "petersonsenadevs/dev-standars",
-    "language": "Python",
-    "name": "petersonsenadevs/dev-standars",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:33:14Z",
-    "url": "https://github.com/petersonsenadevs/dev-standars"
-  },
-  {
-    "description": "Claude skill that gives a verdict on a chess position: reads a board diagram or FEN, runs Stockfish, and returns the bes",
-    "id": "PavelKurochka/chess-verdict",
-    "language": "Python",
-    "name": "PavelKurochka/chess-verdict",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:32:32Z",
-    "url": "https://github.com/PavelKurochka/chess-verdict"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-01T18:31:46Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
-    "id": "coldteadotai/pr-lens",
-    "language": "TypeScript",
-    "name": "coldteadotai/pr-lens",
-    "stars": 1795,
-    "updated_at": "2026-10-01T18:30:02Z",
-    "url": "https://github.com/coldteadotai/pr-lens"
-  },
-  {
-    "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
-    "id": "culfin/claude-skills-public",
-    "language": "Python",
-    "name": "culfin/claude-skills-public",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:28:32Z",
-    "url": "https://github.com/culfin/claude-skills-public"
-  },
-  {
-    "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
-    "id": "indocindesertplant48/claude-vault",
-    "language": "TypeScript",
-    "name": "indocindesertplant48/claude-vault",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:28:25Z",
-    "url": "https://github.com/indocindesertplant48/claude-vault"
-  },
-  {
-    "description": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 1\u0421-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u043b\u044f Claude Code: \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b, \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u041e\u041e\u041f \u0438 \u043f\u0430\u0442\u0442\u0435\u0440\u043d\u044b, XML \u043c\u0435\u0442\u0430\u0434\u0430\u043d\u043d\u044b\u0445, \u0431\u043b\u043e\u043a\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u0433\u0435\u0439\u0442\u044b \u0438",
-    "id": "Romandredan/1c-quality-gate",
-    "language": "JavaScript",
-    "name": "Romandredan/1c-quality-gate",
-    "stars": 29,
-    "updated_at": "2026-10-01T18:29:03Z",
-    "url": "https://github.com/Romandredan/1c-quality-gate"
-  },
-  {
-    "description": "Fold your MacBook display for a soft, blurring desktop effect\u2014animated live at 60 fps with lid-angle smoothing on Apple ",
-    "id": "lazybean3/hinge",
-    "language": "\u2014",
-    "name": "lazybean3/hinge",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:27:57Z",
-    "url": "https://github.com/lazybean3/hinge"
-  },
-  {
-    "description": "Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly",
-    "id": "Carlosdalv669/formify-skills",
-    "language": "HTML",
-    "name": "Carlosdalv669/formify-skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:27:55Z",
-    "url": "https://github.com/Carlosdalv669/formify-skills"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:27:35Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
   }
 ]
