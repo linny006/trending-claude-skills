@@ -1,12 +1,156 @@
 [
   {
+    "description": "",
+    "id": "andresnator/agents-orchestrator",
+    "language": "JavaScript",
+    "name": "andresnator/agents-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-01T17:44:57Z",
+    "url": "https://github.com/andresnator/agents-orchestrator"
+  },
+  {
+    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
+    "id": "Sylad/claude-code-codex",
+    "language": "HTML",
+    "name": "Sylad/claude-code-codex",
+    "stars": 0,
+    "updated_at": "2026-10-01T17:44:25Z",
+    "url": "https://github.com/Sylad/claude-code-codex"
+  },
+  {
+    "description": "Eight read-only audit skills for AI coding agents: codeauditor, secauditor, dbauditor, llmauditor, seoauditor, uiauditor",
+    "id": "hannsxpeter/auditor-suite",
+    "language": "Shell",
+    "name": "hannsxpeter/auditor-suite",
+    "stars": 0,
+    "updated_at": "2026-10-01T17:44:15Z",
+    "url": "https://github.com/hannsxpeter/auditor-suite"
+  },
+  {
+    "description": "Wallet auth for Claude Code. Add condition-based access to any project: token balances, NFT ownership, on-chain eligibil",
+    "id": "insumerapi/insumer-skill",
+    "language": "\u2014",
+    "name": "insumerapi/insumer-skill",
+    "stars": 0,
+    "updated_at": "2026-10-01T17:44:04Z",
+    "url": "https://github.com/insumerapi/insumer-skill"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-01T17:43:04Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 23,
+    "updated_at": "2026-10-01T17:42:44Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "Claude Code skills: a docs fact-checker, a code auditor, a bug-memory log and more. ",
+    "id": "NotRedFox/NotRedFoxs-Claude-skills",
+    "language": "HTML",
+    "name": "NotRedFox/NotRedFoxs-Claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T17:42:31Z",
+    "url": "https://github.com/NotRedFox/NotRedFoxs-Claude-skills"
+  },
+  {
+    "description": "Claude Code skill that reads your repo, then picks the right service, API or SDK for a feature: scored, grounded in your",
+    "id": "angellane/stackfit",
+    "language": "Python",
+    "name": "angellane/stackfit",
+    "stars": 3,
+    "updated_at": "2026-10-01T17:42:03Z",
+    "url": "https://github.com/angellane/stackfit"
+  },
+  {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 16,
+    "updated_at": "2026-10-01T17:40:47Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1644,
+    "updated_at": "2026-10-01T17:38:54Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
+    "id": "hraness/soulscrape",
+    "language": "TypeScript",
+    "name": "hraness/soulscrape",
+    "stars": 1,
+    "updated_at": "2026-10-01T17:38:37Z",
+    "url": "https://github.com/hraness/soulscrape"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 63,
+    "updated_at": "2026-10-01T17:36:18Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Hub de conhecimento sobre *vibe coding*: programa\u00e7\u00e3o guiada por IA, agentes e contexto. Re\u00fane guias, configs e experimen",
+    "id": "SoftMissT/tudo-sobre-vibe-coding",
+    "language": "HTML",
+    "name": "SoftMissT/tudo-sobre-vibe-coding",
+    "stars": 8,
+    "updated_at": "2026-10-01T17:33:20Z",
+    "url": "https://github.com/SoftMissT/tudo-sobre-vibe-coding"
+  },
+  {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-10-01T17:30:45Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T17:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI Resilience skill: declare what must never happen, find the silent failures in your AI workflow, and prove the fixes w",
     "id": "faultkit/skills",
     "language": "Python",
     "name": "faultkit/skills",
     "stars": 0,
-    "updated_at": "2026-10-01T17:30:13Z",
+    "updated_at": "2026-10-01T17:32:22Z",
     "url": "https://github.com/faultkit/skills"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30867,
+    "updated_at": "2026-10-01T17:29:50Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. ",
@@ -16,15 +160,6 @@
     "stars": 47286,
     "updated_at": "2026-10-01T17:29:37Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T17:29:35Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code and Codex agent skills: motion graphics, After Effects scripting, YouTube thumbnails, UI polish, GitHub publ",
@@ -59,7 +194,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-01T17:23:30Z",
+    "updated_at": "2026-10-01T17:42:35Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -90,15 +225,6 @@
     "url": "https://github.com/AY0-design/product-qa"
   },
   {
-    "description": "Hub de conhecimento sobre *vibe coding*: programa\u00e7\u00e3o guiada por IA, agentes e contexto. Re\u00fane guias, configs e experimen",
-    "id": "SoftMissT/tudo-sobre-vibe-coding",
-    "language": "HTML",
-    "name": "SoftMissT/tudo-sobre-vibe-coding",
-    "stars": 8,
-    "updated_at": "2026-10-01T17:16:34Z",
-    "url": "https://github.com/SoftMissT/tudo-sobre-vibe-coding"
-  },
-  {
     "description": "Lifecharts turns the chapters of your life into one timeline you can share as a link or embed on your own site.",
     "id": "hraness/lifecharts",
     "language": "JavaScript",
@@ -115,15 +241,6 @@
     "stars": 16,
     "updated_at": "2026-10-01T17:13:40Z",
     "url": "https://github.com/liustack/pptwise"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 63,
-    "updated_at": "2026-10-01T17:13:37Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
     "description": "Two complementary Claude skills for short product reels: reel-taste (idea \u2192 video prompt + motion notes) and motion-stud",
@@ -148,7 +265,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69731,
+    "stars": 69733,
     "updated_at": "2026-10-01T17:11:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -175,7 +292,7 @@
     "id": "MiddleSugar7000/premium-saas-web-skill",
     "language": "Python",
     "name": "MiddleSugar7000/premium-saas-web-skill",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-01T17:11:14Z",
     "url": "https://github.com/MiddleSugar7000/premium-saas-web-skill"
   },
@@ -185,7 +302,7 @@
     "language": "TypeScript",
     "name": "hraness/oh",
     "stars": 4,
-    "updated_at": "2026-10-01T17:11:03Z",
+    "updated_at": "2026-10-01T17:44:09Z",
     "url": "https://github.com/hraness/oh"
   },
   {
@@ -207,15 +324,6 @@
     "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
   },
   {
-    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
-    "id": "hraness/wordcell",
-    "language": "TypeScript",
-    "name": "hraness/wordcell",
-    "stars": 16,
-    "updated_at": "2026-10-01T17:20:59Z",
-    "url": "https://github.com/hraness/wordcell"
-  },
-  {
     "description": "Generates a test suite from acceptance criteria, then converges code against it with an agent that never sees those crit",
     "id": "gal-a/qikly",
     "language": "Python",
@@ -232,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-10-01T17:00:02Z",
     "url": "https://github.com/Yarosl4v-Grigoriev/claude-study-kit"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1644,
-    "updated_at": "2026-10-01T17:01:05Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
     "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
@@ -297,15 +396,6 @@
     "url": "https://github.com/hoobnn/hoobnn-skills"
   },
   {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30868,
-    "updated_at": "2026-10-01T17:29:50Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "Este proyecto analiza la din\u00e1mica entre la inflaci\u00f3n (\u00cdndice de Precios al Consumidor) y los salarios en Argentina duran",
     "id": "MaycoLC/inflacion-salarios-argentina",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-01T16:36:34Z",
     "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "Plugin for Claude Code: sends each coding task to the cheapest model that can do it right, keeps your main chat lean, re",
-    "id": "mefayed/boss-skill",
-    "language": "Shell",
-    "name": "mefayed/boss-skill",
-    "stars": 5,
-    "updated_at": "2026-10-01T16:36:32Z",
-    "url": "https://github.com/mefayed/boss-skill"
-  },
-  {
-    "description": "\u4e00\u4e2a\u9762\u5411\u4e2d\u6587\u7f16\u7801\u73af\u5883\u7684\u5168\u6808\u6280\u80fd\u63d2\u4ef6",
-    "id": "foreturn/product-studio",
-    "language": "Python",
-    "name": "foreturn/product-studio",
-    "stars": 3,
-    "updated_at": "2026-10-01T16:35:46Z",
-    "url": "https://github.com/foreturn/product-studio"
-  },
-  {
-    "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
-    "id": "indocindesertplant48/claude-vault",
-    "language": "TypeScript",
-    "name": "indocindesertplant48/claude-vault",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:34:34Z",
-    "url": "https://github.com/indocindesertplant48/claude-vault"
-  },
-  {
-    "description": "Fold your MacBook display for a soft, blurring desktop effect\u2014animated live at 60 fps with lid-angle smoothing on Apple ",
-    "id": "lazybean3/hinge",
-    "language": "\u2014",
-    "name": "lazybean3/hinge",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:34:11Z",
-    "url": "https://github.com/lazybean3/hinge"
-  },
-  {
-    "description": "Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly",
-    "id": "Carlosdalv669/formify-skills",
-    "language": "HTML",
-    "name": "Carlosdalv669/formify-skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:34:07Z",
-    "url": "https://github.com/Carlosdalv669/formify-skills"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:33:51Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:33:30Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:32:44Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:32:38Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:30:58Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
   }
 ]
