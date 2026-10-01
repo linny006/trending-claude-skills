@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-01 17:29 UTC
+> ⏰ Last updated: 2026-10-01 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 47286 | Python | 2026-10-01 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide.  |
-| 2 | [blixvip/skills](https://github.com/blixvip/skills) | 3 | Python | 2026-10-01 | Claude Code and Codex agent skills: motion graphics, After Effects scripting, YouTube thumbnails, UI polish, GitHub publ |
-| 3 | [amit-mizrachi/claude-amit-mizrachi](https://github.com/amit-mizrachi/claude-amit-mizrachi) | 0 | Shell | 2026-10-01 | Claude Code skills for unattended work: hand a session off (next-prompt), take a feature through the night as one PR (ni |
-| 4 | [playcanvas/skills](https://github.com/playcanvas/skills) | 24 | JavaScript | 2026-10-01 | Reusable skills for AI coding agents working with PlayCanvas products |
-| 5 | [curie-eng/curie](https://github.com/curie-eng/curie) | 36 | Python | 2026-10-01 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
-| 6 | [Armitanemati/yap-to-product](https://github.com/Armitanemati/yap-to-product) | 0 | — | 2026-10-01 | Claude Code plugin: turn a brainstormed idea into a phased Jira backlog with guided setup, vibe analysis, legal and secu |
-| 7 | [auYeCoding/radish-plugins](https://github.com/auYeCoding/radish-plugins) | 4 | JavaScript | 2026-10-01 | Practical plugins for Claude Code, maintained by auYeCoding. |
-| 8 | [AY0-design/product-qa](https://github.com/AY0-design/product-qa) | 0 | Python | 2026-10-01 | Senior QA skill for Claude: risk-based testing, failure-path tests, bug reports and release-readiness verdicts. |
-| 9 | [SoftMissT/tudo-sobre-vibe-coding](https://github.com/SoftMissT/tudo-sobre-vibe-coding) | 8 | HTML | 2026-10-01 | Hub de conhecimento sobre *vibe coding*: programação guiada por IA, agentes e contexto. Reúne guias, configs e experimen |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 50 | Python | 2026-10-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 11 | [hraness/lifecharts](https://github.com/hraness/lifecharts) | 0 | JavaScript | 2026-10-01 | Lifecharts turns the chapters of your life into one timeline you can share as a link or embed on your own site. |
-| 12 | [liustack/pptwise](https://github.com/liustack/pptwise) | 16 | TypeScript | 2026-10-01 | A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s |
-| 13 | [getaero-io/gtm-eng-skills](https://github.com/getaero-io/gtm-eng-skills) | 63 | TypeScript | 2026-10-01 | 10 AI agent skills for Claude Code — waterfall email enrichment, TAM building, signal discovery, job change detection, a |
-| 14 | [witcharon/claude-reel-skills](https://github.com/witcharon/claude-reel-skills) | 0 | Python | 2026-10-01 | Two complementary Claude skills for short product reels: reel-taste (idea → video prompt + motion notes) and motion-stud |
-| 15 | [ellehelvig/hr-ai-transformation-playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook) | 1 | Python | 2026-10-01 | An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul |
-| 16 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69731 | TypeScript | 2026-10-01 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 17 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-10-01 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
-| 18 | [WhiteMuush/Your-Claude-DevOps](https://github.com/WhiteMuush/Your-Claude-DevOps) | 2 | JavaScript | 2026-10-01 | Ready-to-use Claude Code configuration for Dev and Ops work: global rules, 29 skills, hooks and memory scaffolding. Gene |
-| 19 | [MiddleSugar7000/premium-saas-web-skill](https://github.com/MiddleSugar7000/premium-saas-web-skill) | 0 | Python | 2026-10-01 | Agent Skill (SKILL.md) for Claude Code, Codex, Cursor & Antigravity that builds premium SaaS landing pages: sculpted glo |
-| 20 | [hraness/oh](https://github.com/hraness/oh) | 4 | TypeScript | 2026-10-01 | Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay. |
-| 21 | [thepushkarp/cc-gemini-plugin](https://github.com/thepushkarp/cc-gemini-plugin) | 72 | JavaScript | 2026-10-01 | Gemini CLI integration for Claude Code and Codex (basically, any agent) |
-| 22 | [The-Artificer-of-Ciphers-LLC/skills-from-the-artificer](https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer) | 4 | JavaScript | 2026-10-01 | 29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an |
-| 23 | [hraness/wordcell](https://github.com/hraness/wordcell) | 16 | TypeScript | 2026-10-01 | Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file  |
-| 24 | [faultkit/skills](https://github.com/faultkit/skills) | 0 | Python | 2026-10-01 | AI Resilience skill: declare what must never happen, find the silent failures in your AI workflow, and prove the fixes w |
+| 1 | [faultkit/skills](https://github.com/faultkit/skills) | 0 | Python | 2026-10-01 | AI Resilience skill: declare what must never happen, find the silent failures in your AI workflow, and prove the fixes w |
+| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 47286 | Python | 2026-10-01 | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide.  |
+| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 50 | Python | 2026-10-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 4 | [blixvip/skills](https://github.com/blixvip/skills) | 3 | Python | 2026-10-01 | Claude Code and Codex agent skills: motion graphics, After Effects scripting, YouTube thumbnails, UI polish, GitHub publ |
+| 5 | [amit-mizrachi/claude-amit-mizrachi](https://github.com/amit-mizrachi/claude-amit-mizrachi) | 0 | Shell | 2026-10-01 | Claude Code skills for unattended work: hand a session off (next-prompt), take a feature through the night as one PR (ni |
+| 6 | [playcanvas/skills](https://github.com/playcanvas/skills) | 24 | JavaScript | 2026-10-01 | Reusable skills for AI coding agents working with PlayCanvas products |
+| 7 | [curie-eng/curie](https://github.com/curie-eng/curie) | 36 | Python | 2026-10-01 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
+| 8 | [Armitanemati/yap-to-product](https://github.com/Armitanemati/yap-to-product) | 0 | — | 2026-10-01 | Claude Code plugin: turn a brainstormed idea into a phased Jira backlog with guided setup, vibe analysis, legal and secu |
+| 9 | [auYeCoding/radish-plugins](https://github.com/auYeCoding/radish-plugins) | 4 | JavaScript | 2026-10-01 | Practical plugins for Claude Code, maintained by auYeCoding. |
+| 10 | [AY0-design/product-qa](https://github.com/AY0-design/product-qa) | 0 | Python | 2026-10-01 | Senior QA skill for Claude: risk-based testing, failure-path tests, bug reports and release-readiness verdicts. |
+| 11 | [SoftMissT/tudo-sobre-vibe-coding](https://github.com/SoftMissT/tudo-sobre-vibe-coding) | 8 | HTML | 2026-10-01 | Hub de conhecimento sobre *vibe coding*: programação guiada por IA, agentes e contexto. Reúne guias, configs e experimen |
+| 12 | [hraness/lifecharts](https://github.com/hraness/lifecharts) | 0 | JavaScript | 2026-10-01 | Lifecharts turns the chapters of your life into one timeline you can share as a link or embed on your own site. |
+| 13 | [liustack/pptwise](https://github.com/liustack/pptwise) | 16 | TypeScript | 2026-10-01 | A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s |
+| 14 | [getaero-io/gtm-eng-skills](https://github.com/getaero-io/gtm-eng-skills) | 63 | TypeScript | 2026-10-01 | 10 AI agent skills for Claude Code — waterfall email enrichment, TAM building, signal discovery, job change detection, a |
+| 15 | [witcharon/claude-reel-skills](https://github.com/witcharon/claude-reel-skills) | 0 | Python | 2026-10-01 | Two complementary Claude skills for short product reels: reel-taste (idea → video prompt + motion notes) and motion-stud |
+| 16 | [ellehelvig/hr-ai-transformation-playbook](https://github.com/ellehelvig/hr-ai-transformation-playbook) | 1 | Python | 2026-10-01 | An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul |
+| 17 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69731 | TypeScript | 2026-10-01 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 18 | [saumit2401273106-lab/preflight-checklist](https://github.com/saumit2401273106-lab/preflight-checklist) | 1 | HTML | 2026-10-01 | The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026 |
+| 19 | [WhiteMuush/Your-Claude-DevOps](https://github.com/WhiteMuush/Your-Claude-DevOps) | 2 | JavaScript | 2026-10-01 | Ready-to-use Claude Code configuration for Dev and Ops work: global rules, 29 skills, hooks and memory scaffolding. Gene |
+| 20 | [MiddleSugar7000/premium-saas-web-skill](https://github.com/MiddleSugar7000/premium-saas-web-skill) | 0 | Python | 2026-10-01 | Agent Skill (SKILL.md) for Claude Code, Codex, Cursor & Antigravity that builds premium SaaS landing pages: sculpted glo |
+| 21 | [hraness/oh](https://github.com/hraness/oh) | 4 | TypeScript | 2026-10-01 | Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay. |
+| 22 | [thepushkarp/cc-gemini-plugin](https://github.com/thepushkarp/cc-gemini-plugin) | 72 | JavaScript | 2026-10-01 | Gemini CLI integration for Claude Code and Codex (basically, any agent) |
+| 23 | [The-Artificer-of-Ciphers-LLC/skills-from-the-artificer](https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer) | 4 | JavaScript | 2026-10-01 | 29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an |
+| 24 | [hraness/wordcell](https://github.com/hraness/wordcell) | 16 | TypeScript | 2026-10-01 | Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file  |
 | 25 | [gal-a/qikly](https://github.com/gal-a/qikly) | 15 | Python | 2026-10-01 | Generates a test suite from acceptance criteria, then converges code against it with an agent that never sees those crit |
 | 26 | [Yarosl4v-Grigoriev/claude-study-kit](https://github.com/Yarosl4v-Grigoriev/claude-study-kit) | 3 | Python | 2026-10-01 | Claude Code превращает фото лекций, раздатки и учебник в строгий PDF-конспект: теоремы, доказательства, примеры, точные  |
 | 27 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | 1644 | Python | 2026-10-01 | ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u |

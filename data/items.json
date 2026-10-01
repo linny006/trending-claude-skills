@@ -1,12 +1,30 @@
 [
   {
+    "description": "AI Resilience skill: declare what must never happen, find the silent failures in your AI workflow, and prove the fixes w",
+    "id": "faultkit/skills",
+    "language": "Python",
+    "name": "faultkit/skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T17:30:13Z",
+    "url": "https://github.com/faultkit/skills"
+  },
+  {
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. ",
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
     "stars": 47286,
-    "updated_at": "2026-10-01T17:29:10Z",
+    "updated_at": "2026-10-01T17:29:37Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T17:29:35Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code and Codex agent skills: motion graphics, After Effects scripting, YouTube thumbnails, UI polish, GitHub publ",
@@ -79,15 +97,6 @@
     "stars": 8,
     "updated_at": "2026-10-01T17:16:34Z",
     "url": "https://github.com/SoftMissT/tudo-sobre-vibe-coding"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T17:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Lifecharts turns the chapters of your life into one timeline you can share as a link or embed on your own site.",
@@ -207,15 +216,6 @@
     "url": "https://github.com/hraness/wordcell"
   },
   {
-    "description": "AI Resilience skill: declare what must never happen, find the silent failures in your AI workflow, and prove the fixes w",
-    "id": "faultkit/skills",
-    "language": "Python",
-    "name": "faultkit/skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T17:28:31Z",
-    "url": "https://github.com/faultkit/skills"
-  },
-  {
     "description": "Generates a test suite from acceptance criteria, then converges code against it with an agent that never sees those crit",
     "id": "gal-a/qikly",
     "language": "Python",
@@ -302,7 +302,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30868,
-    "updated_at": "2026-10-01T16:58:44Z",
+    "updated_at": "2026-10-01T17:29:50Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
