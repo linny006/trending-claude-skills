@@ -1,12 +1,39 @@
 [
   {
-    "description": "Shared project memory for Claude Code: notes that survive /clear and compaction, messages between sessions, token-free e",
-    "id": "krllx/longrun",
+    "description": "BoxLang AI skills repository and Claude Plugin",
+    "id": "ortus-boxlang/skills",
+    "language": "\u2014",
+    "name": "ortus-boxlang/skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:44:59Z",
+    "url": "https://github.com/ortus-boxlang/skills"
+  },
+  {
+    "description": "Agent skill for writing authentic Arabic short stories: \u0627\u0644\u0639\u0642\u062f\u0629/\u0627\u0644\u0635\u0631\u0627\u0639/\u0627\u0644\u062d\u0644 + \u0641\u0635\u062d\u0649 (anti-\u0627\u0644\u0639\u0631\u0646\u062c\u064a\u0629). Works with Claude Cod",
+    "id": "specailm5/arabic-story-skill",
+    "language": "\u2014",
+    "name": "specailm5/arabic-story-skill",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:44:44Z",
+    "url": "https://github.com/specailm5/arabic-story-skill"
+  },
+  {
+    "description": "Claude Code plugin marketplace and skill library. Install: /plugin marketplace add Anlo-Ventures/skills-and-agents-libra",
+    "id": "skills-agents-co/skills-and-agents-library",
     "language": "Python",
-    "name": "krllx/longrun",
+    "name": "skills-agents-co/skills-and-agents-library",
     "stars": 1,
-    "updated_at": "2026-10-01T09:29:57Z",
-    "url": "https://github.com/krllx/longrun"
+    "updated_at": "2026-10-01T09:44:35Z",
+    "url": "https://github.com/skills-agents-co/skills-and-agents-library"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:42:35Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
     "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
@@ -14,8 +41,71 @@
     "language": "Python",
     "name": "CorvinLabs/CorvinOS",
     "stars": 12,
-    "updated_at": "2026-10-01T09:29:42Z",
+    "updated_at": "2026-10-01T09:40:55Z",
     "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Free, open SKILL.md skills for AI agents, by area of life: daily ops, health, parenting, money, home, car, work. CC0.",
+    "id": "swarmhq-skills/agent-skills",
+    "language": "\u2014",
+    "name": "swarmhq-skills/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:39:08Z",
+    "url": "https://github.com/swarmhq-skills/agent-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-01T09:38:21Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claud",
+    "id": "yaniv-golan/skill-creator-plus",
+    "language": "Python",
+    "name": "yaniv-golan/skill-creator-plus",
+    "stars": 5,
+    "updated_at": "2026-10-01T09:37:35Z",
+    "url": "https://github.com/yaniv-golan/skill-creator-plus"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 54,
+    "updated_at": "2026-10-01T09:31:43Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "Claude Code \u00b7 Codex \ud55c\uae00 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ud50c\ub7ec\uadf8\uc778 \u2014 \uc544\uc774\ub514\uc5b4 \u2192 PRD \u2192 \uc124\uacc4 \u2192 \ud0dc\uc2a4\ud06c \u2192 \uac80\uc99d \ud558\ub124\uc2a4 \u2192 \uc790\uc728 \uac1c\ubc1c \ub8e8\ud504 / Korean agent skills: idea to autonomou",
+    "id": "GangJaeYu/harness_loop_full_korean",
+    "language": "\u2014",
+    "name": "GangJaeYu/harness_loop_full_korean",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:31:42Z",
+    "url": "https://github.com/GangJaeYu/harness_loop_full_korean"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T09:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Shared project memory for Claude Code: notes that survive /clear and compaction, messages between sessions, token-free e",
+    "id": "krllx/longrun",
+    "language": "Python",
+    "name": "krllx/longrun",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:29:57Z",
+    "url": "https://github.com/krllx/longrun"
   },
   {
     "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
@@ -32,17 +122,8 @@
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 7,
-    "updated_at": "2026-10-01T09:29:20Z",
+    "updated_at": "2026-10-01T09:43:34Z",
     "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "Agent skill for writing authentic Arabic short stories: \u0627\u0644\u0639\u0642\u062f\u0629/\u0627\u0644\u0635\u0631\u0627\u0639/\u0627\u0644\u062d\u0644 + \u0641\u0635\u062d\u0649 (anti-\u0627\u0644\u0639\u0631\u0646\u062c\u064a\u0629). Works with Claude Cod",
-    "id": "specailm5/arabic-story-skill",
-    "language": "\u2014",
-    "name": "specailm5/arabic-story-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T09:29:17Z",
-    "url": "https://github.com/specailm5/arabic-story-skill"
   },
   {
     "description": "Your AI gives advice but never learns if it worked. A Claude Code skill that logs advice as a hypothesis, checks back on",
@@ -59,7 +140,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 117,
-    "updated_at": "2026-10-01T09:28:20Z",
+    "updated_at": "2026-10-01T09:44:17Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -95,7 +176,7 @@
     "language": "Shell",
     "name": "amit-mizrachi/claude-amit-mizrachi",
     "stars": 0,
-    "updated_at": "2026-10-01T09:23:33Z",
+    "updated_at": "2026-10-01T09:37:36Z",
     "url": "https://github.com/amit-mizrachi/claude-amit-mizrachi"
   },
   {
@@ -108,22 +189,13 @@
     "url": "https://github.com/PollyGlot/google-play-cli"
   },
   {
-    "description": "Claude Code \u00b7 Codex \ud55c\uae00 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ud50c\ub7ec\uadf8\uc778 \u2014 \uc544\uc774\ub514\uc5b4 \u2192 PRD \u2192 \uc124\uacc4 \u2192 \ud0dc\uc2a4\ud06c \u2192 \uac80\uc99d \ud558\ub124\uc2a4 \u2192 \uc790\uc728 \uac1c\ubc1c \ub8e8\ud504 / Korean agent skills: idea to autonomou",
-    "id": "GangJaeYu/harness_loop_full_korean",
-    "language": "\u2014",
-    "name": "GangJaeYu/harness_loop_full_korean",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:22:32Z",
-    "url": "https://github.com/GangJaeYu/harness_loop_full_korean"
-  },
-  {
-    "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claud",
-    "id": "yaniv-golan/skill-creator-plus",
-    "language": "Python",
-    "name": "yaniv-golan/skill-creator-plus",
-    "stars": 5,
-    "updated_at": "2026-10-01T09:30:01Z",
-    "url": "https://github.com/yaniv-golan/skill-creator-plus"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69710,
+    "updated_at": "2026-10-01T09:42:27Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -135,15 +207,6 @@
     "url": "https://github.com/martinambrus/haive"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-01T09:29:33Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "Agent skills for Claude Code and OpenAI Codex: audit subagents (subagent-optimizer), shrink SKILL.md files (skill-optimi",
     "id": "IonDen/skills",
     "language": "Python",
@@ -151,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T09:17:22Z",
     "url": "https://github.com/IonDen/skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69709,
-    "updated_at": "2026-10-01T09:21:42Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "One-command setup for a full VS Code Copilot Chat agent-skills stack on Windows - 254 bundled skills (281 on disk), 18 C",
@@ -178,15 +232,6 @@
     "stars": 53,
     "updated_at": "2026-10-01T09:16:16Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T09:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "DeutschDNA: a German tutor skill for Claude Code and Codex that remembers your mistakes and the hints that helped.",
@@ -256,7 +301,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 95055,
+    "stars": 95056,
     "updated_at": "2026-10-01T09:09:50Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T08:45:27Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Turn a book you already own into a Claude skill: a short index plus one file per chapter, loaded only when needed. Free,",
-    "id": "shaunmarsden/book-to-skill",
-    "language": "\u2014",
-    "name": "shaunmarsden/book-to-skill",
-    "stars": 1,
-    "updated_at": "2026-10-01T08:45:01Z",
-    "url": "https://github.com/shaunmarsden/book-to-skill"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-01T08:42:32Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
-    "id": "mickzijdel/dev-hooks",
-    "language": "Python",
-    "name": "mickzijdel/dev-hooks",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:41:16Z",
-    "url": "https://github.com/mickzijdel/dev-hooks"
-  },
-  {
-    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
-    "id": "gooseworks-ai/goose-skills",
-    "language": "Python",
-    "name": "gooseworks-ai/goose-skills",
-    "stars": 1229,
-    "updated_at": "2026-10-01T08:40:56Z",
-    "url": "https://github.com/gooseworks-ai/goose-skills"
-  },
-  {
-    "description": "You say the job; the playbook runs. 158 agent skills + 63 slash commands for Claude Code, Cursor, Codex, and Gemini CLI.",
-    "id": "kensaurus/skills",
-    "language": "JavaScript",
-    "name": "kensaurus/skills",
-    "stars": 9,
-    "updated_at": "2026-10-01T08:43:18Z",
-    "url": "https://github.com/kensaurus/skills"
   }
 ]
