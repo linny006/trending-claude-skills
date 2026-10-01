@@ -1,11 +1,128 @@
 [
   {
+    "description": "A template system for Claude-assisted client engagement folders. Drop a new client into a folder and every Claude surfac",
+    "id": "16wells/claude-project-setup",
+    "language": "Shell",
+    "name": "16wells/claude-project-setup",
+    "stars": 2,
+    "updated_at": "2026-10-01T15:45:03Z",
+    "url": "https://github.com/16wells/claude-project-setup"
+  },
+  {
+    "description": "Free skills from iGamingTextLab editorial ",
+    "id": "igamingtextlab/IGTL-SKILLS",
+    "language": "\u2014",
+    "name": "igamingtextlab/IGTL-SKILLS",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:44:56Z",
+    "url": "https://github.com/igamingtextlab/IGTL-SKILLS"
+  },
+  {
+    "description": "Cross-platform agent skills and plugin distributions for OpenAI Codex and Claude Code.",
+    "id": "ValentinNikolaev/agent-skills",
+    "language": "Python",
+    "name": "ValentinNikolaev/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:43:00Z",
+    "url": "https://github.com/ValentinNikolaev/agent-skills"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:42:40Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:42:21Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-01T15:39:12Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/skills",
+    "language": "Shell",
+    "name": "yschimke/skills",
+    "stars": 2,
+    "updated_at": "2026-10-01T15:37:36Z",
+    "url": "https://github.com/yschimke/skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69730,
+    "updated_at": "2026-10-01T15:44:28Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "TableBI for Claude Code: connect Search Console, GA4, Google Ads and Meta Ads, ask across channels in SQL, pin live dash",
+    "id": "cooldk/tablebi-plugin",
+    "language": "\u2014",
+    "name": "cooldk/tablebi-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:34:34Z",
+    "url": "https://github.com/cooldk/tablebi-plugin"
+  },
+  {
+    "description": "\u2b50\ufe0f Discover ECC Everything Claude Code the powerful all-in-one solution with Setup Installer v1.0. This release delivers",
+    "id": "icepower-385/Everything-Claude-Code",
+    "language": "\u2014",
+    "name": "icepower-385/Everything-Claude-Code",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:33:29Z",
+    "url": "https://github.com/icepower-385/Everything-Claude-Code"
+  },
+  {
+    "description": "Proof-carrying defensive security reviews for AI-assisted software, with deterministic policy, portable evidence, and hu",
+    "id": "TanKimGwan/linmas",
+    "language": "JavaScript",
+    "name": "TanKimGwan/linmas",
+    "stars": 2,
+    "updated_at": "2026-10-01T15:32:45Z",
+    "url": "https://github.com/TanKimGwan/linmas"
+  },
+  {
+    "description": "Claude Code skills for Flutter: /alishan \u2014 architecture, functional Dart, design tokens, Figma-to-Flutter, UI testing",
+    "id": "MAlishanNawaz/flutter-skills",
+    "language": "Dart",
+    "name": "MAlishanNawaz/flutter-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:30:34Z",
+    "url": "https://github.com/MAlishanNawaz/flutter-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T15:30:31Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills that prove they work, plus a zero-dependency scanner that vets any skill before you install it.",
     "id": "nadirali1350/vetted",
     "language": "JavaScript",
     "name": "nadirali1350/vetted",
     "stars": 2,
-    "updated_at": "2026-10-01T15:29:30Z",
+    "updated_at": "2026-10-01T15:43:34Z",
     "url": "https://github.com/nadirali1350/vetted"
   },
   {
@@ -14,7 +131,7 @@
     "language": "Python",
     "name": "nzanepro/tvr-skills-rv",
     "stars": 0,
-    "updated_at": "2026-10-01T15:29:13Z",
+    "updated_at": "2026-10-01T15:38:28Z",
     "url": "https://github.com/nzanepro/tvr-skills-rv"
   },
   {
@@ -45,12 +162,21 @@
     "url": "https://github.com/A2194008525/av-to-transcript-and-minutes"
   },
   {
+    "description": "Agent skill that turns business requirements into JsonLogic rules: generate, run, validate, and debug JsonLogic for Clau",
+    "id": "valeryia-piatrova/jsonlogic-skill",
+    "language": "HTML",
+    "name": "valeryia-piatrova/jsonlogic-skill",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:42:36Z",
+    "url": "https://github.com/valeryia-piatrova/jsonlogic-skill"
+  },
+  {
     "description": "Gemini CLI integration for Claude Code and Codex.",
     "id": "thepushkarp/cc-gemini-plugin",
     "language": "JavaScript",
     "name": "thepushkarp/cc-gemini-plugin",
     "stars": 71,
-    "updated_at": "2026-10-01T15:23:47Z",
+    "updated_at": "2026-10-01T15:39:27Z",
     "url": "https://github.com/thepushkarp/cc-gemini-plugin"
   },
   {
@@ -61,15 +187,6 @@
     "stars": 8,
     "updated_at": "2026-10-01T15:22:47Z",
     "url": "https://github.com/vanducng/skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69729,
-    "updated_at": "2026-10-01T15:22:24Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
@@ -171,24 +288,6 @@
     "url": "https://github.com/travsteward/openwriter"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T15:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-01T15:11:56Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
     "id": "ice-lfernandes/claude-spring-architect",
     "language": "Java",
@@ -284,7 +383,7 @@
     "language": "Python",
     "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "stars": 16,
-    "updated_at": "2026-10-01T15:27:42Z",
+    "updated_at": "2026-10-01T15:41:02Z",
     "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   },
   {
@@ -313,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T14:54:55Z",
     "url": "https://github.com/stijnvanhulle/agents"
-  },
-  {
-    "description": "Claude Code skills for Flutter: /alishan \u2014 architecture, functional Dart, design tokens, Figma-to-Flutter, UI testing",
-    "id": "MAlishanNawaz/flutter-skills",
-    "language": "Dart",
-    "name": "MAlishanNawaz/flutter-skills",
-    "stars": 1,
-    "updated_at": "2026-10-01T14:54:29Z",
-    "url": "https://github.com/MAlishanNawaz/flutter-skills"
   },
   {
     "description": "Arena Skill is a workflow extension for Claude Code that lets multiple AI agents work on the same task using different a",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-01T14:51:32Z",
     "url": "https://github.com/ralvarezdev/ralvaskills"
-  },
-  {
-    "description": "Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders \u2014 the ",
-    "id": "yerdaulet-damir/awesome-solo-ai",
-    "language": "\u2014",
-    "name": "yerdaulet-damir/awesome-solo-ai",
-    "stars": 36,
-    "updated_at": "2026-10-01T14:49:27Z",
-    "url": "https://github.com/yerdaulet-damir/awesome-solo-ai"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-10-01T14:47:37Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Push notifications + human-in-the-loop for AI agents. Approve from your lock screen. Claude Code, Claude Cowork, Codex, ",
-    "id": "Pushary/pushary-skill",
-    "language": "\u2014",
-    "name": "Pushary/pushary-skill",
-    "stars": 1,
-    "updated_at": "2026-10-01T14:46:59Z",
-    "url": "https://github.com/Pushary/pushary-skill"
-  },
-  {
-    "description": "VoidMob MCP server for mobile proxies, non-VoIP SMS verifications, dedicated private numbers and global eSIMs.",
-    "id": "voidmobcom/voidmob-mcp",
-    "language": "TypeScript",
-    "name": "voidmobcom/voidmob-mcp",
-    "stars": 30,
-    "updated_at": "2026-10-01T14:46:23Z",
-    "url": "https://github.com/voidmobcom/voidmob-mcp"
-  },
-  {
-    "description": "Claude Code skills and sync tooling for Asana-based studio project management.",
-    "id": "markbaindesign/bain-studio",
-    "language": "Python",
-    "name": "markbaindesign/bain-studio",
-    "stars": 0,
-    "updated_at": "2026-10-01T14:46:17Z",
-    "url": "https://github.com/markbaindesign/bain-studio"
-  },
-  {
-    "description": "Collection of skills for the ColdBox Platform and Claude Plugin",
-    "id": "ColdBox/skills",
-    "language": "\u2014",
-    "name": "ColdBox/skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T14:45:38Z",
-    "url": "https://github.com/ColdBox/skills"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-10-01T14:45:10Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Agent skill that turns business requirements into JsonLogic rules: generate, run, validate, and debug JsonLogic for Clau",
-    "id": "valeryia-piatrova/jsonlogic-skill",
-    "language": "HTML",
-    "name": "valeryia-piatrova/jsonlogic-skill",
-    "stars": 1,
-    "updated_at": "2026-10-01T15:25:06Z",
-    "url": "https://github.com/valeryia-piatrova/jsonlogic-skill"
-  },
-  {
-    "description": "AI Copilot & free Astro MCP alternative for iOS App Store Optimization (ASO), keyword rankings, and growth",
-    "id": "rusel95/ios-aso-copilot",
-    "language": "Python",
-    "name": "rusel95/ios-aso-copilot",
-    "stars": 2,
-    "updated_at": "2026-10-01T14:41:43Z",
-    "url": "https://github.com/rusel95/ios-aso-copilot"
-  },
-  {
-    "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
-    "id": "NYTC69/review-loop",
-    "language": "Python",
-    "name": "NYTC69/review-loop",
-    "stars": 3,
-    "updated_at": "2026-10-01T14:41:11Z",
-    "url": "https://github.com/NYTC69/review-loop"
   }
 ]
