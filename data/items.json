@@ -1,12 +1,111 @@
 [
   {
-    "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
-    "id": "ralvarezdev/ralvaskills",
-    "language": "Go",
-    "name": "ralvarezdev/ralvaskills",
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-01T13:30:07Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 3,
+    "updated_at": "2026-10-01T13:28:46Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "publish-website agent skill: deploy a static site or HTML from Claude Code, Codex, Cursor or Gemini CLI and get a live U",
+    "id": "chorus-host/skill",
+    "language": "Python",
+    "name": "chorus-host/skill",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:25:39Z",
+    "url": "https://github.com/chorus-host/skill"
+  },
+  {
+    "description": "Skills for product design",
+    "id": "ommakes/Skills",
+    "language": "HTML",
+    "name": "ommakes/Skills",
+    "stars": 20,
+    "updated_at": "2026-10-01T13:24:03Z",
+    "url": "https://github.com/ommakes/Skills"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 442,
+    "updated_at": "2026-10-01T13:23:28Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
     "stars": 2,
-    "updated_at": "2026-10-01T13:13:36Z",
-    "url": "https://github.com/ralvarezdev/ralvaskills"
+    "updated_at": "2026-10-01T13:21:23Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "Tri et notification automatiques des mails support avec n8n, IA et Slack \u2014 et skills Claude Code pour concevoir, constru",
+    "id": "noenoenoenoenoe/m2-n8n",
+    "language": "TypeScript",
+    "name": "noenoenoenoenoe/m2-n8n",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:21:05Z",
+    "url": "https://github.com/noenoenoenoenoe/m2-n8n"
+  },
+  {
+    "description": "A memory hub and curated skill set for Claude Code \u2014 persistent memory that loads from any directory, plus a guided loca",
+    "id": "ManceRayder42/jarvis-os",
+    "language": "JavaScript",
+    "name": "ManceRayder42/jarvis-os",
+    "stars": 5,
+    "updated_at": "2026-10-01T13:19:59Z",
+    "url": "https://github.com/ManceRayder42/jarvis-os"
+  },
+  {
+    "description": "Free, open SKILL.md skills for AI agents, by area of life: daily ops, health, parenting, money, home, car, work. CC0.",
+    "id": "swarmhq-skills/agent-skills",
+    "language": "\u2014",
+    "name": "swarmhq-skills/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:19:56Z",
+    "url": "https://github.com/swarmhq-skills/agent-skills"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:19:35Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "Claude Code skills for Flutter: /alishan \u2014 architecture, functional Dart, design tokens, Figma-to-Flutter, UI testing",
+    "id": "MAlishanNawaz/flutter-skills",
+    "language": "Dart",
+    "name": "MAlishanNawaz/flutter-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T13:19:20Z",
+    "url": "https://github.com/MAlishanNawaz/flutter-skills"
+  },
+  {
+    "description": "DeutschDNA: a German tutor skill for Claude Code and Codex that remembers your mistakes and the hints that helped.",
+    "id": "ahmtsahin/deutsch-dna",
+    "language": "Python",
+    "name": "ahmtsahin/deutsch-dna",
+    "stars": 5,
+    "updated_at": "2026-10-01T13:18:51Z",
+    "url": "https://github.com/ahmtsahin/deutsch-dna"
   },
   {
     "description": "PBL skill for Claude Code, Codex & OpenCode: turns every dev session into learning docs (glossary, step-by-step, errors ",
@@ -14,8 +113,44 @@
     "language": "HTML",
     "name": "D4vRAM369/pbl-project-chronicler",
     "stars": 0,
-    "updated_at": "2026-10-01T13:13:01Z",
+    "updated_at": "2026-10-01T13:17:55Z",
     "url": "https://github.com/D4vRAM369/pbl-project-chronicler"
+  },
+  {
+    "description": "Skills Claude Code en fran\u00e7ais : interview, doubt-driven-dev, hostile-review (m\u00e9thode 10/80/10)",
+    "id": "noenoenoenoenoe/claude-skills",
+    "language": "\u2014",
+    "name": "noenoenoenoenoe/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:17:35Z",
+    "url": "https://github.com/noenoenoenoenoe/claude-skills"
+  },
+  {
+    "description": "Skills for Claude Code that carry a house style for Java projects",
+    "id": "dmitriy-iliyov/java-agent-skills",
+    "language": "\u2014",
+    "name": "dmitriy-iliyov/java-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:17:00Z",
+    "url": "https://github.com/dmitriy-iliyov/java-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T13:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
+    "id": "ralvarezdev/ralvaskills",
+    "language": "Go",
+    "name": "ralvarezdev/ralvaskills",
+    "stars": 2,
+    "updated_at": "2026-10-01T13:13:36Z",
+    "url": "https://github.com/ralvarezdev/ralvaskills"
   },
   {
     "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
@@ -59,7 +194,7 @@
     "language": "Python",
     "name": "sananthanarayan/skilldrop",
     "stars": 2,
-    "updated_at": "2026-10-01T13:09:57Z",
+    "updated_at": "2026-10-01T13:28:20Z",
     "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
@@ -68,7 +203,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69722,
-    "updated_at": "2026-10-01T13:14:08Z",
+    "updated_at": "2026-10-01T13:29:41Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -216,15 +351,6 @@
     "url": "https://github.com/koenvdheide/codex-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T13:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
     "id": "Poetic-squamouscell685/aahl-web-scraper",
     "language": "HTML",
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T12:54:01Z",
     "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Train video world models with diffusion-forcing using this minimalist framework.",
-    "id": "Tiroleansculptor548/nano-world-model",
-    "language": "\u2014",
-    "name": "Tiroleansculptor548/nano-world-model",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:53:59Z",
-    "url": "https://github.com/Tiroleansculptor548/nano-world-model"
-  },
-  {
-    "description": "Claude Code skill that hands builds, fixes and reviews to OpenAI Codex CLI \u2014 validated model/effort, detached runs, work",
-    "id": "guydotan55/codex-use",
-    "language": "Shell",
-    "name": "guydotan55/codex-use",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:53:53Z",
-    "url": "https://github.com/guydotan55/codex-use"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:53:52Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-10-01T12:53:37Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:53:37Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "An agent skill that sets up a markdown memory layout for agents. The layout keeps a short always-on file and loads every",
-    "id": "baberarjumand/agentic_markdown_memory_agent-skill",
-    "language": "\u2014",
-    "name": "baberarjumand/agentic_markdown_memory_agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:53:37Z",
-    "url": "https://github.com/baberarjumand/agentic_markdown_memory_agent-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-10-01T12:53:23Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:53:07Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-10-01T12:52:59Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Claude Code skills \u2014 each folder in skills/ is self-contained; read its SKILL.md. Install: copy the folder to ~/.claude/",
-    "id": "gildeshiro/claude-code-skills",
-    "language": "\u2014",
-    "name": "gildeshiro/claude-code-skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:52:47Z",
-    "url": "https://github.com/gildeshiro/claude-code-skills"
-  },
-  {
-    "description": "Generates a test suite from acceptance criteria, then converges code against it with an agent that never sees those crit",
-    "id": "gal-a/qikly",
-    "language": "Python",
-    "name": "gal-a/qikly",
-    "stars": 15,
-    "updated_at": "2026-10-01T13:03:40Z",
-    "url": "https://github.com/gal-a/qikly"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-10-01T12:52:18Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:51:58Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "EPLAN Electric P8 2026  2027 + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. E",
-    "id": "covagashi/eplan-rag-mcp",
-    "language": "Python",
-    "name": "covagashi/eplan-rag-mcp",
-    "stars": 106,
-    "updated_at": "2026-10-01T12:57:50Z",
-    "url": "https://github.com/covagashi/eplan-rag-mcp"
   }
 ]
