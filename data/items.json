@@ -1,11 +1,83 @@
 [
   {
+    "description": "AI \u6570\u5b57\u4eba\u8bfe\u7a0b\u89c6\u9891\u751f\u6210\uff1a\u8bb2\u7a3f/\u6587\u6863\u4e00\u952e\u53d8\u5f55\u64ad\u8bfe\uff08\u6570\u5b57\u4eba\u8bb2\u5e08+\u58f0\u97f3\u514b\u9686+\u81ea\u52a8\u8bfe\u4ef6\uff09| Turn scripts & docs into AI-avatar course videos",
+    "id": "CoheeYang/digitalme",
+    "language": "\u2014",
+    "name": "CoheeYang/digitalme",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:05:43Z",
+    "url": "https://github.com/CoheeYang/digitalme"
+  },
+  {
+    "description": "Agent Skills for Claude - incl. a Sage 300 (Accpac) assistant: verified T-SQL, upgrades & release notes, .NET (ACCPAC.Ad",
+    "id": "fdtaljaard/claude-skills",
+    "language": "Python",
+    "name": "fdtaljaard/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T05:04:50Z",
+    "url": "https://github.com/fdtaljaard/claude-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69699,
+    "updated_at": "2026-10-01T05:03:52Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Mobile AI Skills, Agents and workflow to help you build mobile apps and games faster. A collection of AI skills, agents,",
+    "id": "salmanashraf/mobile-ai-agents",
+    "language": "JavaScript",
+    "name": "salmanashraf/mobile-ai-agents",
+    "stars": 29,
+    "updated_at": "2026-10-01T05:03:07Z",
+    "url": "https://github.com/salmanashraf/mobile-ai-agents"
+  },
+  {
+    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
+    "id": "FynePool/fanta-carbonara",
+    "language": "Python",
+    "name": "FynePool/fanta-carbonara",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:02:50Z",
+    "url": "https://github.com/FynePool/fanta-carbonara"
+  },
+  {
+    "description": "Publication-ready research figures from a single command: forest plots, KM curves with risk tables, PRISMA 2020, ROC wit",
+    "id": "docsor1212/academic-figures",
+    "language": "Python",
+    "name": "docsor1212/academic-figures",
+    "stars": 1,
+    "updated_at": "2026-10-01T05:01:48Z",
+    "url": "https://github.com/docsor1212/academic-figures"
+  },
+  {
+    "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
+    "id": "royalpinto007/awesome-agent-skills",
+    "language": "HTML",
+    "name": "royalpinto007/awesome-agent-skills",
+    "stars": 3,
+    "updated_at": "2026-10-01T05:01:26Z",
+    "url": "https://github.com/royalpinto007/awesome-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T05:00:54Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
     "stars": 95037,
-    "updated_at": "2026-10-01T04:59:57Z",
+    "updated_at": "2026-10-01T05:06:39Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -27,24 +99,6 @@
     "url": "https://github.com/tungnt1203/claude-music"
   },
   {
-    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
-    "id": "FynePool/fanta-carbonara",
-    "language": "Python",
-    "name": "FynePool/fanta-carbonara",
-    "stars": 0,
-    "updated_at": "2026-10-01T04:59:38Z",
-    "url": "https://github.com/FynePool/fanta-carbonara"
-  },
-  {
-    "description": "AI \u6570\u5b57\u4eba\u8bfe\u7a0b\u89c6\u9891\u751f\u6210\uff1a\u8bb2\u7a3f/\u6587\u6863\u4e00\u952e\u53d8\u5f55\u64ad\u8bfe\uff08\u6570\u5b57\u4eba\u8bb2\u5e08+\u58f0\u97f3\u514b\u9686+\u81ea\u52a8\u8bfe\u4ef6\uff09| Turn scripts & docs into AI-avatar course videos",
-    "id": "CoheeYang/digitalme",
-    "language": "\u2014",
-    "name": "CoheeYang/digitalme",
-    "stars": 0,
-    "updated_at": "2026-10-01T04:55:06Z",
-    "url": "https://github.com/CoheeYang/digitalme"
-  },
-  {
     "description": "The control plane for game-dev agents \u2014 close the loop with verified compile, test, and cross-model review across Unity,",
     "id": "tykisgod/quick-question",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 93,
     "updated_at": "2026-10-01T04:51:09Z",
     "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69697,
-    "updated_at": "2026-10-01T04:59:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T04:45:18Z",
     "url": "https://github.com/xnjiang/qumg-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T04:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Project orchestration and AI agentic workflow utility.",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-01T04:24:13Z",
+    "updated_at": "2026-10-01T05:03:15Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-01T03:20:57Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Skills I wrote for Claude. Published from a private working library.",
-    "id": "LarrySequino/skills",
-    "language": "Python",
-    "name": "LarrySequino/skills",
-    "stars": 1,
-    "updated_at": "2026-10-01T03:18:10Z",
-    "url": "https://github.com/LarrySequino/skills"
-  },
-  {
-    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
-    "id": "raghuramsirigiri/raghuram-skills",
-    "language": "JavaScript",
-    "name": "raghuramsirigiri/raghuram-skills",
-    "stars": 1,
-    "updated_at": "2026-10-01T03:14:25Z",
-    "url": "https://github.com/raghuramsirigiri/raghuram-skills"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-01T03:14:24Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19583,
-    "updated_at": "2026-10-01T03:13:46Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   }
 ]
