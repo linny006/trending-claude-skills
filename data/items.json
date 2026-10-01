@@ -1,5 +1,41 @@
 [
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69700,
+    "updated_at": "2026-10-01T05:13:34Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+    "id": "nowork-studio/notfair-plugin",
+    "language": "TypeScript",
+    "name": "nowork-studio/notfair-plugin",
+    "stars": 3884,
+    "updated_at": "2026-10-01T05:12:03Z",
+    "url": "https://github.com/nowork-studio/notfair-plugin"
+  },
+  {
+    "description": "Skills that help YOU operate at staff-researcher level. The agent does the grunt work; you stay in the driver's seat. A ",
+    "id": "shubham0704/claude-skills",
+    "language": "Python",
+    "name": "shubham0704/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T05:11:10Z",
+    "url": "https://github.com/shubham0704/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T05:06:47Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI \u6570\u5b57\u4eba\u8bfe\u7a0b\u89c6\u9891\u751f\u6210\uff1a\u8bb2\u7a3f/\u6587\u6863\u4e00\u952e\u53d8\u5f55\u64ad\u8bfe\uff08\u6570\u5b57\u4eba\u8bb2\u5e08+\u58f0\u97f3\u514b\u9686+\u81ea\u52a8\u8bfe\u4ef6\uff09| Turn scripts & docs into AI-avatar course videos",
     "id": "CoheeYang/digitalme",
     "language": "\u2014",
@@ -16,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T05:04:50Z",
     "url": "https://github.com/fdtaljaard/claude-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69699,
-    "updated_at": "2026-10-01T05:03:52Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Mobile AI Skills, Agents and workflow to help you build mobile apps and games faster. A collection of AI skills, agents,",
@@ -63,21 +90,12 @@
     "url": "https://github.com/royalpinto007/awesome-agent-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T05:00:54Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
     "stars": 95037,
-    "updated_at": "2026-10-01T05:06:39Z",
+    "updated_at": "2026-10-01T05:12:23Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "hraness/oh",
     "stars": 4,
-    "updated_at": "2026-10-01T04:45:36Z",
+    "updated_at": "2026-10-01T05:09:24Z",
     "url": "https://github.com/hraness/oh"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 429,
-    "updated_at": "2026-10-01T03:42:46Z",
+    "updated_at": "2026-10-01T05:08:35Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 322,
-    "updated_at": "2026-10-01T03:41:38Z",
+    "updated_at": "2026-10-01T05:09:46Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 14,
     "updated_at": "2026-10-01T03:30:42Z",
     "url": "https://github.com/MbappeWU/murder-board"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1021,
-    "updated_at": "2026-10-01T03:24:19Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 53,
-    "updated_at": "2026-10-01T03:20:57Z",
-    "url": "https://github.com/costiash/claude-code-docs"
   }
 ]
