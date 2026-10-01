@@ -1,5 +1,149 @@
 [
   {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 32,
+    "updated_at": "2026-10-01T15:13:54Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "\u9a6c\u65af\u514b\u601d\u7ef4\u6846\u67b6 \u00b7 \u4e0d\u662f\u8bed\u5f55\u96c6\uff0c\u662f\u4e00\u5957\u5e26\u5931\u6548\u8fb9\u754c\u7684\u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf | Elon Musk Wisdom: not a quote collection, a cognitive OS with stated failure boundarie",
+    "id": "heikeyangle-code/elon-musk-wisdom",
+    "language": "Python",
+    "name": "heikeyangle-code/elon-musk-wisdom",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:12:48Z",
+    "url": "https://github.com/heikeyangle-code/elon-musk-wisdom"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-01T15:11:56Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 9,
+    "updated_at": "2026-10-01T15:11:12Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69727,
+    "updated_at": "2026-10-01T15:13:29Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
+    "id": "ice-lfernandes/claude-spring-architect",
+    "language": "Java",
+    "name": "ice-lfernandes/claude-spring-architect",
+    "stars": 3,
+    "updated_at": "2026-10-01T15:09:50Z",
+    "url": "https://github.com/ice-lfernandes/claude-spring-architect"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19585,
+    "updated_at": "2026-10-01T15:09:38Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
+    "id": "gooseworks-ai/goose-skills",
+    "language": "Python",
+    "name": "gooseworks-ai/goose-skills",
+    "stars": 1229,
+    "updated_at": "2026-10-01T15:06:43Z",
+    "url": "https://github.com/gooseworks-ai/goose-skills"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 2,
+    "updated_at": "2026-10-01T15:06:22Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-01T15:05:56Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30867,
+    "updated_at": "2026-10-01T15:15:04Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
+    "id": "Jsnnmsc/10000x-engineer",
+    "language": "\u2014",
+    "name": "Jsnnmsc/10000x-engineer",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:04:15Z",
+    "url": "https://github.com/Jsnnmsc/10000x-engineer"
+  },
+  {
+    "description": "57 portable AI-agent skills for the deliverables knowledge work actually ships \u2014 ADRs, design docs, PRDs, runbooks, deck",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-10-01T15:01:36Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 7,
+    "updated_at": "2026-10-01T15:00:29Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T15:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 12,
+    "updated_at": "2026-10-01T15:00:06Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
     "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
     "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "language": "Python",
@@ -16,15 +160,6 @@
     "stars": 63,
     "updated_at": "2026-10-01T14:57:02Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 7,
-    "updated_at": "2026-10-01T14:56:05Z",
-    "url": "https://github.com/drnachio/postext"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -68,7 +203,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 322,
-    "updated_at": "2026-10-01T14:56:42Z",
+    "updated_at": "2026-10-01T15:07:21Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -97,24 +232,6 @@
     "stars": 36,
     "updated_at": "2026-10-01T14:49:27Z",
     "url": "https://github.com/yerdaulet-damir/awesome-solo-ai"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69726,
-    "updated_at": "2026-10-01T14:48:57Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "57 portable AI-agent skills for the deliverables knowledge work actually ships \u2014 ADRs, design docs, PRDs, runbooks, deck",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 2,
-    "updated_at": "2026-10-01T14:58:13Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -162,15 +279,6 @@
     "url": "https://github.com/ColdBox/skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T14:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -180,15 +288,6 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-01T14:52:40Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Agent skill that turns business requirements into JsonLogic rules: generate, run, validate, and debug JsonLogic for Clau",
     "id": "valeryia-piatrova/jsonlogic-skill",
     "language": "HTML",
@@ -196,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T14:43:12Z",
     "url": "https://github.com/valeryia-piatrova/jsonlogic-skill"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 32,
-    "updated_at": "2026-10-01T14:42:46Z",
-    "url": "https://github.com/travsteward/openwriter"
   },
   {
     "description": "AI Copilot & free Astro MCP alternative for iOS App Store Optimization (ASO), keyword rankings, and growth",
@@ -279,15 +369,6 @@
     "url": "https://github.com/villagesql/villagesql-skills"
   },
   {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30868,
-    "updated_at": "2026-10-01T14:35:26Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "Forward deployed engineering skills for AI coding agents.",
     "id": "suboss87/FDEOps",
     "language": "JavaScript",
@@ -302,7 +383,7 @@
     "language": "JavaScript",
     "name": "thepushkarp/cc-gemini-plugin",
     "stars": 71,
-    "updated_at": "2026-10-01T14:59:14Z",
+    "updated_at": "2026-10-01T15:05:09Z",
     "url": "https://github.com/thepushkarp/cc-gemini-plugin"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T14:15:39Z",
     "url": "https://github.com/Canlah-AI/geo-playbook"
-  },
-  {
-    "description": "Claude Code \u043f\u0440\u0435\u0432\u0440\u0430\u0449\u0430\u0435\u0442 \u0444\u043e\u0442\u043e \u043b\u0435\u043a\u0446\u0438\u0439, \u0440\u0430\u0437\u0434\u0430\u0442\u043a\u0438 \u0438 \u0443\u0447\u0435\u0431\u043d\u0438\u043a \u0432 \u0441\u0442\u0440\u043e\u0433\u0438\u0439 PDF-\u043a\u043e\u043d\u0441\u043f\u0435\u043a\u0442: \u0442\u0435\u043e\u0440\u0435\u043c\u044b, \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430, \u043f\u0440\u0438\u043c\u0435\u0440\u044b, \u0442\u043e\u0447\u043d\u044b\u0435 ",
-    "id": "Yarosl4v-Grigoriev/claude-study-kit",
-    "language": "Python",
-    "name": "Yarosl4v-Grigoriev/claude-study-kit",
-    "stars": 3,
-    "updated_at": "2026-10-01T14:15:34Z",
-    "url": "https://github.com/Yarosl4v-Grigoriev/claude-study-kit"
-  },
-  {
-    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
-    "id": "coldteadotai/pr-lens",
-    "language": "TypeScript",
-    "name": "coldteadotai/pr-lens",
-    "stars": 1787,
-    "updated_at": "2026-10-01T14:15:06Z",
-    "url": "https://github.com/coldteadotai/pr-lens"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-10-01T14:14:46Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Turn a goal into an employee that works on a schedule. The proactive-agent skill wakes itself up, checks your inbox, cal",
-    "id": "jerid-cyber/proactive-ai-agent",
-    "language": "Shell",
-    "name": "jerid-cyber/proactive-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T14:13:26Z",
-    "url": "https://github.com/jerid-cyber/proactive-ai-agent"
-  },
-  {
-    "description": "Based on Anthropic's skill-creator \u2014 with bug fixes, working Cowork support, and official best practices baked in. Claud",
-    "id": "yaniv-golan/skill-creator-plus",
-    "language": "Python",
-    "name": "yaniv-golan/skill-creator-plus",
-    "stars": 5,
-    "updated_at": "2026-10-01T14:13:29Z",
-    "url": "https://github.com/yaniv-golan/skill-creator-plus"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-10-01T14:12:35Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "",
-    "id": "LevNas/ccmemo",
-    "language": "Python",
-    "name": "LevNas/ccmemo",
-    "stars": 4,
-    "updated_at": "2026-10-01T14:10:37Z",
-    "url": "https://github.com/LevNas/ccmemo"
-  },
-  {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 0,
-    "updated_at": "2026-10-01T14:10:35Z",
-    "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
-    "description": "A skill that generates and edits images with ChatGPT Images 2.5, using your own ChatGPT login through the Codex CLI. No ",
-    "id": "AmineTabtani/chatgpt-Image-2.5-claude-skill",
-    "language": "JavaScript",
-    "name": "AmineTabtani/chatgpt-Image-2.5-claude-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T14:09:51Z",
-    "url": "https://github.com/AmineTabtani/chatgpt-Image-2.5-claude-skill"
   }
 ]
