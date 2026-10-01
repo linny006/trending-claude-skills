@@ -1,5 +1,167 @@
 [
   {
+    "description": "Claude Code skill that turns your chat history into a categorised developer profile, project memory and team skills. Rep",
+    "id": "sumant22/claude-dev-profile",
+    "language": "\u2014",
+    "name": "sumant22/claude-dev-profile",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:14:53Z",
+    "url": "https://github.com/sumant22/claude-dev-profile"
+  },
+  {
+    "description": "Claude Code skills for unattended work: hand a session off (next-prompt), take a feature through the night as one PR (ni",
+    "id": "amit-mizrachi/claude-amit-mizrachi",
+    "language": "Shell",
+    "name": "amit-mizrachi/claude-amit-mizrachi",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:14:52Z",
+    "url": "https://github.com/amit-mizrachi/claude-amit-mizrachi"
+  },
+  {
+    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
+    "id": "ashfulcra/fulcra-tools",
+    "language": "Python",
+    "name": "ashfulcra/fulcra-tools",
+    "stars": 10,
+    "updated_at": "2026-10-01T19:14:15Z",
+    "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
+    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
+    "id": "mykpono/ultimate-seo-geo",
+    "language": "Python",
+    "name": "mykpono/ultimate-seo-geo",
+    "stars": 85,
+    "updated_at": "2026-10-01T19:15:15Z",
+    "url": "https://github.com/mykpono/ultimate-seo-geo"
+  },
+  {
+    "description": "Context engineering for AI agents. ~80% fewer tokens. Fix tool overload. Skills and memory with in-process BM25 and sema",
+    "id": "ratel-ai/ratel",
+    "language": "Rust",
+    "name": "ratel-ai/ratel",
+    "stars": 464,
+    "updated_at": "2026-10-01T19:12:58Z",
+    "url": "https://github.com/ratel-ai/ratel"
+  },
+  {
+    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
+    "id": "gooseworks-ai/goose-skills",
+    "language": "Python",
+    "name": "gooseworks-ai/goose-skills",
+    "stars": 1229,
+    "updated_at": "2026-10-01T19:12:32Z",
+    "url": "https://github.com/gooseworks-ai/goose-skills"
+  },
+  {
+    "description": "A browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "TypeScript",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 3574,
+    "updated_at": "2026-10-01T19:11:35Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
+  },
+  {
+    "description": "Figma skills for AI agents that work on real files, not just pretty first drafts. Plugin API gotchas, pre-write and hand",
+    "id": "thiagoxikota/figma-maxxing",
+    "language": "Python",
+    "name": "thiagoxikota/figma-maxxing",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:10:48Z",
+    "url": "https://github.com/thiagoxikota/figma-maxxing"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-01T19:14:33Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Two complementary Claude skills for short product reels: reel-taste (idea \u2192 video prompt + motion notes) and motion-stud",
+    "id": "witcharon/claude-reel-skills",
+    "language": "Python",
+    "name": "witcharon/claude-reel-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:08:34Z",
+    "url": "https://github.com/witcharon/claude-reel-skills"
+  },
+  {
+    "description": "Agent skills marketplace: install via 'market install' or 'npx skills add'. Global install, tool detection, versioned up",
+    "id": "BlackAngel242/skill-market",
+    "language": "JavaScript",
+    "name": "BlackAngel242/skill-market",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:07:29Z",
+    "url": "https://github.com/BlackAngel242/skill-market"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Shell",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:06:16Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "German tax, payroll and social benefit calculations for AI agents via the rechner-hub.de API",
+    "id": "L1nch-lab/german-tax-skills",
+    "language": "Python",
+    "name": "L1nch-lab/german-tax-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:05:50Z",
+    "url": "https://github.com/L1nch-lab/german-tax-skills"
+  },
+  {
+    "description": "ChainPrompt: Queue up a series of prompts for Claude Code and walk away",
+    "id": "mehmetkahya0/chain-prompt",
+    "language": "TypeScript",
+    "name": "mehmetkahya0/chain-prompt",
+    "stars": 0,
+    "updated_at": "2026-10-01T19:05:39Z",
+    "url": "https://github.com/mehmetkahya0/chain-prompt"
+  },
+  {
+    "description": "An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul",
+    "id": "ellehelvig/hr-ai-transformation-playbook",
+    "language": "Python",
+    "name": "ellehelvig/hr-ai-transformation-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-01T19:03:44Z",
+    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69735,
+    "updated_at": "2026-10-01T19:09:05Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T19:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-01T19:05:32Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
     "description": "Claude Code skills that teach inside your zone of proximal development: adaptive testing finds your edge, an Obsidian va",
     "id": "Nightdreams-bat/zpd-learning",
     "language": "Python",
@@ -54,33 +216,6 @@
     "url": "https://github.com/djorshuam/powerbi-mcp-studio"
   },
   {
-    "description": "An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul",
-    "id": "ellehelvig/hr-ai-transformation-playbook",
-    "language": "Python",
-    "name": "ellehelvig/hr-ai-transformation-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:57:26Z",
-    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
-  },
-  {
-    "description": "ChainPrompt: Queue up a series of prompts for Claude Code and walk away",
-    "id": "mehmetkahya0/chain-prompt",
-    "language": "TypeScript",
-    "name": "mehmetkahya0/chain-prompt",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:57:11Z",
-    "url": "https://github.com/mehmetkahya0/chain-prompt"
-  },
-  {
-    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
-    "id": "gooseworks-ai/goose-skills",
-    "language": "Python",
-    "name": "gooseworks-ai/goose-skills",
-    "stars": 1229,
-    "updated_at": "2026-10-01T18:54:27Z",
-    "url": "https://github.com/gooseworks-ai/goose-skills"
-  },
-  {
     "description": "Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude ",
     "id": "JayPokale/Chisle",
     "language": "JavaScript",
@@ -99,15 +234,6 @@
     "url": "https://github.com/plori-ai/skills"
   },
   {
-    "description": "German tax, payroll and social benefit calculations for AI agents via the rechner-hub.de API",
-    "id": "L1nch-lab/german-tax-skills",
-    "language": "Python",
-    "name": "L1nch-lab/german-tax-skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:52:41Z",
-    "url": "https://github.com/L1nch-lab/german-tax-skills"
-  },
-  {
     "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
     "id": "JakeSelby/model-citizen",
     "language": "Python",
@@ -115,15 +241,6 @@
     "stars": 23,
     "updated_at": "2026-10-01T18:50:49Z",
     "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
-    "description": "A browser inside your terminal",
-    "id": "zenbu-labs/terminal-browser",
-    "language": "TypeScript",
-    "name": "zenbu-labs/terminal-browser",
-    "stars": 3574,
-    "updated_at": "2026-10-01T18:50:38Z",
-    "url": "https://github.com/zenbu-labs/terminal-browser"
   },
   {
     "description": "Claude Code skill that builds animated landing-page product demos from live DOM/CSS instead of video or GIF \u2014 scripted c",
@@ -189,21 +306,12 @@
     "url": "https://github.com/Joe-Simo/a0"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T18:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
     "id": "inkatze/planwright",
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 5,
-    "updated_at": "2026-10-01T18:44:11Z",
+    "updated_at": "2026-10-01T19:00:35Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -214,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-10-01T18:44:02Z",
     "url": "https://github.com/SentiSenseApp/skills"
-  },
-  {
-    "description": "The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimization (Google AI Over",
-    "id": "mykpono/ultimate-seo-geo",
-    "language": "Python",
-    "name": "mykpono/ultimate-seo-geo",
-    "stars": 85,
-    "updated_at": "2026-10-01T18:52:40Z",
-    "url": "https://github.com/mykpono/ultimate-seo-geo"
   },
   {
     "description": "Translate arXiv papers into book-quality PDFs with parallel sub-agents. Reads the LaTeX source, so equations and the pap",
@@ -239,7 +338,7 @@
     "language": "JavaScript",
     "name": "Drix10/agent-flow",
     "stars": 10,
-    "updated_at": "2026-10-01T18:54:31Z",
+    "updated_at": "2026-10-01T19:14:25Z",
     "url": "https://github.com/Drix10/agent-flow"
   },
   {
@@ -252,21 +351,12 @@
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69735,
-    "updated_at": "2026-10-01T18:37:47Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Claude Code skills for construction professionals. ",
     "id": "dleerdefi/claude-code-construction",
     "language": "Python",
     "name": "dleerdefi/claude-code-construction",
     "stars": 43,
-    "updated_at": "2026-10-01T18:44:30Z",
+    "updated_at": "2026-10-01T19:14:27Z",
     "url": "https://github.com/dleerdefi/claude-code-construction"
   },
   {
@@ -295,15 +385,6 @@
     "stars": 117,
     "updated_at": "2026-10-01T18:31:46Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-01T19:00:13Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T18:27:35Z",
     "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:27:00Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:26:28Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:26:16Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Practical plugins for Claude Code, maintained by auYeCoding.",
-    "id": "auYeCoding/radish-plugins",
-    "language": "JavaScript",
-    "name": "auYeCoding/radish-plugins",
-    "stars": 4,
-    "updated_at": "2026-10-01T18:25:21Z",
-    "url": "https://github.com/auYeCoding/radish-plugins"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:24:49Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:24:12Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:24:06Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:23:04Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-10-01T18:22:58Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
   }
 ]
