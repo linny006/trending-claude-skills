@@ -1,12 +1,84 @@
 [
   {
+    "description": "\u300a\u65e0\u6094\u534e\u590f\u300b\u98ce\u683c\u8f6c\u6362 Skill\uff1a\u628a\u542b\u4eba\u7269\u56fe\u7247\u8f6c\u4e3a\u65b0\u56fd\u98ce\u6241\u5e73\u63d2\u753b\u2014\u2014\u4eba\u7269\u786c\u5207\u9762\u5e73\u6d82\u3001\u4e0d\u753b\u773c\u775b\u3001\u80cc\u666f\u67d4\u8fb9\u4e91\u6c14\u6e10\u53d8 | Agent Skill for converting images into a flat guofeng illustra",
+    "id": "cloudxys/wu-hui-hua-xia-style",
+    "language": "\u2014",
+    "name": "cloudxys/wu-hui-hua-xia-style",
+    "stars": 1,
+    "updated_at": "2026-10-01T04:13:50Z",
+    "url": "https://github.com/cloudxys/wu-hui-hua-xia-style"
+  },
+  {
+    "description": "Role-specialized engineering squad skills for AI coding agents.",
+    "id": "danh121097/squad-skills",
+    "language": "TypeScript",
+    "name": "danh121097/squad-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T04:14:00Z",
+    "url": "https://github.com/danh121097/squad-skills"
+  },
+  {
+    "description": "Claude Code skill that makes interactive celebration cards: music-synced websites with 3D effects, photos and a Suno, El",
+    "id": "donth77/celebration-card-skill",
+    "language": "JavaScript",
+    "name": "donth77/celebration-card-skill",
+    "stars": 0,
+    "updated_at": "2026-10-01T04:12:26Z",
+    "url": "https://github.com/donth77/celebration-card-skill"
+  },
+  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 95035,
-    "updated_at": "2026-10-01T04:00:08Z",
+    "stars": 95036,
+    "updated_at": "2026-10-01T04:07:04Z",
     "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Thousands of agent skills. The right ones for your repo. Repotify reads the skills developers and AI companies publish o",
+    "id": "repotify/repotify",
+    "language": "JavaScript",
+    "name": "repotify/repotify",
+    "stars": 1,
+    "updated_at": "2026-10-01T04:06:45Z",
+    "url": "https://github.com/repotify/repotify"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69695,
+    "updated_at": "2026-10-01T04:06:39Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Collection of my personal claude skills",
+    "id": "pgoell/pgoell-claude-tools",
+    "language": "HTML",
+    "name": "pgoell/pgoell-claude-tools",
+    "stars": 0,
+    "updated_at": "2026-10-01T04:05:47Z",
+    "url": "https://github.com/pgoell/pgoell-claude-tools"
+  },
+  {
+    "description": "Vet third-party Claude Code skills in a disposable Docker sandbox before installing them",
+    "id": "Yehiak/skill-quarantine",
+    "language": "Shell",
+    "name": "Yehiak/skill-quarantine",
+    "stars": 0,
+    "updated_at": "2026-10-01T04:05:33Z",
+    "url": "https://github.com/Yehiak/skill-quarantine"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T04:00:52Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-01T03:52:19Z",
+    "updated_at": "2026-10-01T04:05:43Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -61,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-10-01T03:46:38Z",
     "url": "https://github.com/ralvarezdev/ralvaskills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T03:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
@@ -108,15 +171,6 @@
     "url": "https://github.com/jrejaud/mars-hydro-skill"
   },
   {
-    "description": "Thousands of agent skills. The right ones for your repo. Repotify reads the skills developers and AI companies publish o",
-    "id": "repotify/repotify",
-    "language": "JavaScript",
-    "name": "repotify/repotify",
-    "stars": 1,
-    "updated_at": "2026-10-01T03:36:42Z",
-    "url": "https://github.com/repotify/repotify"
-  },
-  {
     "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
     "id": "NYTC69/review-loop",
     "language": "Python",
@@ -135,15 +189,6 @@
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69695,
-    "updated_at": "2026-10-01T04:00:48Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Get grilled by AI before you get grilled by humans. A hostile-but-fair AI panel for exec reviews, pitches, interviews an",
     "id": "MbappeWU/murder-board",
     "language": "HTML",
@@ -151,15 +196,6 @@
     "stars": 14,
     "updated_at": "2026-10-01T03:30:42Z",
     "url": "https://github.com/MbappeWU/murder-board"
-  },
-  {
-    "description": "Claude Code skill that makes interactive celebration cards: music-synced websites with 3D effects, photos and a Suno, El",
-    "id": "donth77/celebration-card-skill",
-    "language": "JavaScript",
-    "name": "donth77/celebration-card-skill",
-    "stars": 0,
-    "updated_at": "2026-10-01T03:26:14Z",
-    "url": "https://github.com/donth77/celebration-card-skill"
   },
   {
     "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-01T02:49:39Z",
     "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-10-01T02:49:18Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:48:38Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 54,
-    "updated_at": "2026-10-01T02:48:21Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:47:54Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
   }
 ]
