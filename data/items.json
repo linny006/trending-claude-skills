@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83c\udfb5 Background music for Claude Code \u2014 play YouTube audio with /music, or let Claude pick songs for your mood",
+    "id": "tungnt1203/claude-music",
+    "language": "Shell",
+    "name": "tungnt1203/claude-music",
+    "stars": 0,
+    "updated_at": "2026-10-01T04:28:52Z",
+    "url": "https://github.com/tungnt1203/claude-music"
+  },
+  {
+    "description": "A notebook and ticket registry for agents: dated rows attached to a commit, a file, an item, an arc or the project, kept",
+    "id": "phreakocious/symbion",
+    "language": "Python",
+    "name": "phreakocious/symbion",
+    "stars": 2,
+    "updated_at": "2026-10-01T04:27:42Z",
+    "url": "https://github.com/phreakocious/symbion"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95036,
+    "updated_at": "2026-10-01T04:30:04Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-10-01T04:25:56Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "doc-holmes \u2014 Agent Skill (SKILL.md open format)",
+    "id": "docsor1212/doc-holmes",
+    "language": "Python",
+    "name": "docsor1212/doc-holmes",
+    "stars": 0,
+    "updated_at": "2026-10-01T04:26:56Z",
+    "url": "https://github.com/docsor1212/doc-holmes"
+  },
+  {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-10-01T04:23:54Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "\u51fa\u6d77\u7535\u5546 Agent Skills: Shopify \u5bf9\u6807\u5e97\u62c6\u89e3\u7b49, \u53ea\u8bfb\u516c\u5f00\u4fe1\u606f, \u5e26\u8bc1\u636e\u5206\u7ea7\u7684\u4e2d\u6587\u62a5\u544a / Agent Skills for cross-border e-commerce sellers",
+    "id": "harrison-ming/chuhai-skills",
+    "language": "Python",
+    "name": "harrison-ming/chuhai-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T04:23:38Z",
+    "url": "https://github.com/harrison-ming/chuhai-skills"
+  },
+  {
+    "description": "Bilingual, review-gated Twitter/X automation skill suite powered by ThreadWave",
+    "id": "ohmyskyhigh/threadwave-skill",
+    "language": "JavaScript",
+    "name": "ohmyskyhigh/threadwave-skill",
+    "stars": 1,
+    "updated_at": "2026-10-01T04:21:48Z",
+    "url": "https://github.com/ohmyskyhigh/threadwave-skill"
+  },
+  {
+    "description": "Distill any crowd text (comments, survey open-ends, interviews, feedback, issue threads) into an evidence-cited action g",
+    "id": "TrueFurina/comment-distillery",
+    "language": "Python",
+    "name": "TrueFurina/comment-distillery",
+    "stars": 1,
+    "updated_at": "2026-10-01T04:17:07Z",
+    "url": "https://github.com/TrueFurina/comment-distillery"
+  },
+  {
+    "description": "obra/superpowers \u5168\u91cf\u7e41\u9ad4\u4e2d\u6587\u7ffb\u8b6f\u6559\u5b78\u7ad9\uff08Traditional Chinese\uff09\u00b7 14 \u500b coding-agent \u6280\u80fd + GitHub Pages \u4e2d\u82f1\u9010\u6bb5\u5c0d\u7167\u95b1\u8b80\u7ad9",
+    "id": "shumingyang-opencode/superpowers-zh-tw",
+    "language": "HTML",
+    "name": "shumingyang-opencode/superpowers-zh-tw",
+    "stars": 0,
+    "updated_at": "2026-10-01T04:16:30Z",
+    "url": "https://github.com/shumingyang-opencode/superpowers-zh-tw"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T04:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u300a\u65e0\u6094\u534e\u590f\u300b\u98ce\u683c\u8f6c\u6362 Skill\uff1a\u628a\u542b\u4eba\u7269\u56fe\u7247\u8f6c\u4e3a\u65b0\u56fd\u98ce\u6241\u5e73\u63d2\u753b\u2014\u2014\u4eba\u7269\u786c\u5207\u9762\u5e73\u6d82\u3001\u4e0d\u753b\u773c\u775b\u3001\u80cc\u666f\u67d4\u8fb9\u4e91\u6c14\u6e10\u53d8 | Agent Skill for converting images into a flat guofeng illustra",
     "id": "cloudxys/wu-hui-hua-xia-style",
     "language": "\u2014",
@@ -27,15 +126,6 @@
     "url": "https://github.com/donth77/celebration-card-skill"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95036,
-    "updated_at": "2026-10-01T04:07:04Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "Thousands of agent skills. The right ones for your repo. Repotify reads the skills developers and AI companies publish o",
     "id": "repotify/repotify",
     "language": "JavaScript",
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69695,
-    "updated_at": "2026-10-01T04:06:39Z",
+    "updated_at": "2026-10-01T04:26:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -68,17 +158,8 @@
     "language": "Shell",
     "name": "Yehiak/skill-quarantine",
     "stars": 0,
-    "updated_at": "2026-10-01T04:05:33Z",
+    "updated_at": "2026-10-01T04:28:05Z",
     "url": "https://github.com/Yehiak/skill-quarantine"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T04:00:52Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
@@ -104,7 +185,7 @@
     "language": "TypeScript",
     "name": "hraness/oh",
     "stars": 4,
-    "updated_at": "2026-10-01T03:54:46Z",
+    "updated_at": "2026-10-01T04:24:16Z",
     "url": "https://github.com/hraness/oh"
   },
   {
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-01T04:05:43Z",
+    "updated_at": "2026-10-01T04:24:13Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T02:54:39Z",
     "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
-  },
-  {
-    "description": "The five steps from How I Make Videos With AI as a Skill for your assistant (make-a-video), every prompt, and six exampl",
-    "id": "hubeiqiao/how-i-make-videos-with-ai",
-    "language": "\u2014",
-    "name": "hubeiqiao/how-i-make-videos-with-ai",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:53:56Z",
-    "url": "https://github.com/hubeiqiao/how-i-make-videos-with-ai"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:53:49Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
-  },
-  {
-    "description": "Export UniFi network topologies as zoomable vector diagrams and editable draw.io files using real device data.",
-    "id": "Josiecontrolling326/unifi-map",
-    "language": "Python",
-    "name": "Josiecontrolling326/unifi-map",
-    "stars": 1,
-    "updated_at": "2026-10-01T02:53:46Z",
-    "url": "https://github.com/Josiecontrolling326/unifi-map"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:53:22Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:52:57Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:52:01Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Autarch turns uncertainty into structured decisions \u2014 a /autarch decision skill for Claude Code, evaluated by Jev",
-    "id": "hiromu1018ks/autarch",
-    "language": "Python",
-    "name": "hiromu1018ks/autarch",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:51:26Z",
-    "url": "https://github.com/hiromu1018ks/autarch"
-  },
-  {
-    "description": "\u89d2\u8272\u5efa\u9020-\u516b\u5b57\u6cd5\uff1a\u7528\u516b\u5b57\u7ed9\u5c0f\u8bf4\u89d2\u8272\u5b8c\u6574\u7684\u4eba\u683c\u548c\u751f\u5e73\uff08Claude Code skill\uff09",
-    "id": "DRMCT/bazi-writing",
-    "language": "Python",
-    "name": "DRMCT/bazi-writing",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:49:57Z",
-    "url": "https://github.com/DRMCT/bazi-writing"
-  },
-  {
-    "description": "A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management",
-    "id": "JuneYaooo/awesome-ai-media-skills",
-    "language": "\u2014",
-    "name": "JuneYaooo/awesome-ai-media-skills",
-    "stars": 5,
-    "updated_at": "2026-10-01T02:49:39Z",
-    "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
   }
 ]
