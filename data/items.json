@@ -1,5 +1,131 @@
 [
   {
+    "description": "\u68c0\u6d4b Claude API \u4e2d\u8f6c / \u4ee3\u7406\u662f\u5426\u63ba\u6c34\uff08\u6a21\u578b\u66ff\u6362\u3001\u5077\u6362\u3001\u964d\u667a\u3001\u6ce8\u5165\u3001\u622a\u65ad\uff09\u7684 Claude Code Skill \u4e0e\u53c2\u8003\u5b9e\u73b0",
+    "id": "wxmb01/Claude-Detection",
+    "language": "Python",
+    "name": "wxmb01/Claude-Detection",
+    "stars": 1,
+    "updated_at": "2026-10-01T11:28:03Z",
+    "url": "https://github.com/wxmb01/Claude-Detection"
+  },
+  {
+    "description": "Agent skills for Claude Code and OpenAI Codex: audit subagents (subagent-optimizer), shrink SKILL.md files (skill-optimi",
+    "id": "IonDen/skills",
+    "language": "Python",
+    "name": "IonDen/skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T11:27:59Z",
+    "url": "https://github.com/IonDen/skills"
+  },
+  {
+    "description": "Agent Skills for Claude - incl. a Sage 300 (Accpac) assistant: verified T-SQL, upgrades & release notes, .NET (ACCPAC.Ad",
+    "id": "fdtaljaard/claude-skills",
+    "language": "Python",
+    "name": "fdtaljaard/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T11:26:49Z",
+    "url": "https://github.com/fdtaljaard/claude-skills"
+  },
+  {
+    "description": "Agent skills for building cross-platform mobile apps (Expo, React Native, Flutter) and web apps (MERN, Next.js, Django, ",
+    "id": "wisdom-dosoo/dev-agent-skills",
+    "language": "Shell",
+    "name": "wisdom-dosoo/dev-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-01T11:25:59Z",
+    "url": "https://github.com/wisdom-dosoo/dev-agent-skills"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 12,
+    "updated_at": "2026-10-01T11:24:13Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-01T11:20:48Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1641,
+    "updated_at": "2026-10-01T11:19:08Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.",
+    "id": "devohmycode/skills-atlas",
+    "language": "TypeScript",
+    "name": "devohmycode/skills-atlas",
+    "stars": 1,
+    "updated_at": "2026-10-01T11:18:56Z",
+    "url": "https://github.com/devohmycode/skills-atlas"
+  },
+  {
+    "description": "AI \u6570\u5b57\u4eba\u8bfe\u7a0b\u89c6\u9891\u751f\u6210\uff1a\u8bb2\u7a3f/\u6587\u6863\u4e00\u952e\u53d8\u5f55\u64ad\u8bfe\uff08\u6570\u5b57\u4eba\u8bb2\u5e08+\u58f0\u97f3\u514b\u9686+\u81ea\u52a8\u8bfe\u4ef6\uff09| Turn scripts & docs into AI-avatar course videos",
+    "id": "CoheeYang/digitalme",
+    "language": "\u2014",
+    "name": "CoheeYang/digitalme",
+    "stars": 0,
+    "updated_at": "2026-10-01T11:16:03Z",
+    "url": "https://github.com/CoheeYang/digitalme"
+  },
+  {
+    "description": "Claude Code plugin for Elixir/Phoenix/LiveView \u2014 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrati",
+    "id": "oliver-kriska/claude-elixir-phoenix",
+    "language": "Python",
+    "name": "oliver-kriska/claude-elixir-phoenix",
+    "stars": 559,
+    "updated_at": "2026-10-01T11:15:53Z",
+    "url": "https://github.com/oliver-kriska/claude-elixir-phoenix"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69715,
+    "updated_at": "2026-10-01T11:21:22Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Transcribe meeting or call recordings, archive them under the project's arch/ folder, and brief you back as a spoken aud",
+    "id": "marks97/meeting-brief",
+    "language": "JavaScript",
+    "name": "marks97/meeting-brief",
+    "stars": 0,
+    "updated_at": "2026-10-01T11:15:48Z",
+    "url": "https://github.com/marks97/meeting-brief"
+  },
+  {
+    "description": "16 structured AI skills for product & design teams, Discovery to Shipping. Works with Claude, ChatGPT, Gemini.",
+    "id": "designedbythanh/ai-skills-library-product-design",
+    "language": "Python",
+    "name": "designedbythanh/ai-skills-library-product-design",
+    "stars": 2,
+    "updated_at": "2026-10-01T11:15:16Z",
+    "url": "https://github.com/designedbythanh/ai-skills-library-product-design"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-01T11:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free, open SKILL.md skills for AI agents, by area of life: daily ops, health, parenting, money, home, car, work. CC0.",
     "id": "swarmhq-skills/agent-skills",
     "language": "\u2014",
@@ -99,15 +225,6 @@
     "url": "https://github.com/agenthouse-org/skills"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-01T11:13:02Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
     "id": "Gonadotrophic-tangent41/ux-ui-skills",
     "language": "\u2014",
@@ -180,24 +297,6 @@
     "url": "https://github.com/jesusda3699/claude-rtl-persian"
   },
   {
-    "description": "16 structured AI skills for product & design teams, Discovery to Shipping. Works with Claude, ChatGPT, Gemini.",
-    "id": "designedbythanh/ai-skills-library-product-design",
-    "language": "Python",
-    "name": "designedbythanh/ai-skills-library-product-design",
-    "stars": 2,
-    "updated_at": "2026-10-01T11:02:01Z",
-    "url": "https://github.com/designedbythanh/ai-skills-library-product-design"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69715,
-    "updated_at": "2026-10-01T11:14:32Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Original Agent Skills for Claude Code, Cursor & Copilot: current-sources (research before answering), propose-before-edi",
     "id": "YousefSaad47/youseful-skills",
     "language": "Shell",
@@ -225,15 +324,6 @@
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
   },
   {
-    "description": "Agent skills for building cross-platform mobile apps (Expo, React Native, Flutter) and web apps (MERN, Next.js, Django, ",
-    "id": "wisdom-dosoo/dev-agent-skills",
-    "language": "Shell",
-    "name": "wisdom-dosoo/dev-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-01T11:00:42Z",
-    "url": "https://github.com/wisdom-dosoo/dev-agent-skills"
-  },
-  {
     "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
     "id": "subhad2218/Sheet-Agent",
     "language": "\u2014",
@@ -250,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T11:00:20Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-01T11:00:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T10:57:29Z",
     "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
-    "id": "shauryalowkeygotaura/brand-launchpad",
-    "language": "HTML",
-    "name": "shauryalowkeygotaura/brand-launchpad",
-    "stars": 1,
-    "updated_at": "2026-10-01T10:57:16Z",
-    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-01T10:57:15Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-10-01T10:56:52Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-10-01T10:56:52Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-10-01T10:56:44Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-10-01T10:56:42Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-10-01T10:56:39Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-10-01T10:56:33Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-10-01T10:56:28Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
   }
 ]
