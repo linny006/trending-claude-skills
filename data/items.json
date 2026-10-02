@@ -1,11 +1,137 @@
 [
   {
+    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
+    "id": "xsyetopz/dotclaude",
+    "language": "Shell",
+    "name": "xsyetopz/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:29:56Z",
+    "url": "https://github.com/xsyetopz/dotclaude"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:29:41Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6203,
+    "updated_at": "2026-10-02T12:25:22Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 323,
+    "updated_at": "2026-10-02T12:29:09Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:24:02Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Reference-backed ERP assistants for Claude Code \u2014 Sage 300 (Accpac), Sage 200 Evolution (Pastel), and SAP Business One. ",
+    "id": "fdtaljaard/claude-skills",
+    "language": "Python",
+    "name": "fdtaljaard/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:23:45Z",
+    "url": "https://github.com/fdtaljaard/claude-skills"
+  },
+  {
+    "description": "Agent skills for managing multi-step tasks as GitHub issues. Create, implement, update, and   close execution plans that",
+    "id": "gjoranv/claude-plan-skills",
+    "language": "\u2014",
+    "name": "gjoranv/claude-plan-skills",
+    "stars": 5,
+    "updated_at": "2026-10-02T12:19:18Z",
+    "url": "https://github.com/gjoranv/claude-plan-skills"
+  },
+  {
+    "description": "Agent skill for Claude Code, Cursor, Codex and Windsurf: put a finished static site online with DropTheHassle (free HTTP",
+    "id": "bosmdavid-gif/dropthehassle-skill",
+    "language": "JavaScript",
+    "name": "bosmdavid-gif/dropthehassle-skill",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:19:05Z",
+    "url": "https://github.com/bosmdavid-gif/dropthehassle-skill"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-10-02T12:18:13Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Audit, plan, and adapt SwiftUI and UIKit apps for iPhone Duo, foldables, hinges, and multi-display layouts.",
+    "id": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
+    "language": "Python",
+    "name": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:16:31Z",
+    "url": "https://github.com/Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill"
+  },
+  {
+    "description": "Help your next AI chat pick up where this one left off with a portable skill that writes clear session handoff notes.",
+    "id": "draysen-yau/session-handoff",
+    "language": "JavaScript",
+    "name": "draysen-yau/session-handoff",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:16:05Z",
+    "url": "https://github.com/draysen-yau/session-handoff"
+  },
+  {
+    "description": "Shared skills, rules, commands, subagents, and output styles for Claude Code, Cursor, and Codex.",
+    "id": "stijnvanhulle/agents",
+    "language": "JavaScript",
+    "name": "stijnvanhulle/agents",
+    "stars": 1,
+    "updated_at": "2026-10-02T12:16:50Z",
+    "url": "https://github.com/stijnvanhulle/agents"
+  },
+  {
+    "description": "Discover production-ready Claude Code configs: agents, skills, hooks, commands, rules, and MCP setups from an Anthropic ",
+    "id": "HABUBUSS/everything-claude-code",
+    "language": "JavaScript",
+    "name": "HABUBUSS/everything-claude-code",
+    "stars": 0,
+    "updated_at": "2026-10-02T12:15:49Z",
+    "url": "https://github.com/HABUBUSS/everything-claude-code"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T12:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Project orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-02T12:15:03Z",
+    "updated_at": "2026-10-02T12:19:27Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -16,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T12:14:48Z",
     "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 323,
-    "updated_at": "2026-10-02T12:15:09Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "Run coding agents like Claude, ChatGPT, and Codex side-by-side with separate profiles per account on macOS, Windows, and",
@@ -104,7 +221,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-02T12:09:44Z",
+    "updated_at": "2026-10-02T12:22:07Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -194,7 +311,7 @@
     "language": "Shell",
     "name": "solanabr/ai-kit",
     "stars": 106,
-    "updated_at": "2026-10-02T12:05:38Z",
+    "updated_at": "2026-10-02T12:19:12Z",
     "url": "https://github.com/solanabr/ai-kit"
   },
   {
@@ -306,15 +423,6 @@
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-02T12:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
     "id": "allans4635/memctx",
     "language": "TypeScript",
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-02T12:00:07Z",
     "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-02T12:00:06Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:59:59Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:59:36Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:59:27Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
-  },
-  {
-    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
-    "id": "dinho-afsn/agentic-harness-patterns-skill",
-    "language": "\u2014",
-    "name": "dinho-afsn/agentic-harness-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:59:10Z",
-    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-10-02T11:59:08Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Reverse-engineer Claude Code CLI in Bun for a fast, local command-line tool with clear source structure and telemetry co",
-    "id": "deadgirlbad-source/claude-code-reverse",
-    "language": "\u2014",
-    "name": "deadgirlbad-source/claude-code-reverse",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:59:02Z",
-    "url": "https://github.com/deadgirlbad-source/claude-code-reverse"
-  },
-  {
-    "description": "Official plugin marketplace for Bindry \u2014 compiles your Binders into Claude Code, Codex and Copilot skills, so instructio",
-    "id": "bindryai/Plugins",
-    "language": "JavaScript",
-    "name": "bindryai/Plugins",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:58:55Z",
-    "url": "https://github.com/bindryai/Plugins"
-  },
-  {
-    "description": "Recover and reset Claude Code in Python with a faithful CLI port that preserves core logic and removes the UI layer",
-    "id": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "language": "\u2014",
-    "name": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:58:46Z",
-    "url": "https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset"
-  },
-  {
-    "description": "Preserve a TypeScript Claude Code source snapshot for security research, supply-chain analysis, and archival reference",
-    "id": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "language": "\u2014",
-    "name": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:58:45Z",
-    "url": "https://github.com/stuffinesslamedh281/claude-code-snapshot-backup"
-  },
-  {
-    "description": "Recover Claude Code source for TypeScript and React UI analysis and reuse",
-    "id": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "language": "\u2014",
-    "name": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "stars": 2,
-    "updated_at": "2026-10-02T11:58:41Z",
-    "url": "https://github.com/cacodaemonic-impulseexplosive956/claude_code_src"
-  },
-  {
-    "description": "\u9762\u5411 Spring Boot 4.x + Vue 3 \u9879\u76ee\u7684 Agent Skills \u5305\uff1a\u5f3a\u7ea6\u5b9a\u7684\u6807\u51c6\u6808\uff08Java 25 \u00b7 MyBatis-Plus \u00b7 PostgreSQL \u00b7 Redis\uff1bVue3 \u00b7 Vite \u00b7 Pinia \u00b7 ",
-    "id": "yangxj96/spring-vue-stack",
-    "language": "JavaScript",
-    "name": "yangxj96/spring-vue-stack",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:58:33Z",
-    "url": "https://github.com/yangxj96/spring-vue-stack"
   }
 ]
