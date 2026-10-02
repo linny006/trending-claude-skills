@@ -1,12 +1,93 @@
 [
   {
+    "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
+    "id": "nullphase-net/enfurbish",
+    "language": "TypeScript",
+    "name": "nullphase-net/enfurbish",
+    "stars": 1,
+    "updated_at": "2026-10-02T01:59:55Z",
+    "url": "https://github.com/nullphase-net/enfurbish"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95132,
+    "updated_at": "2026-10-02T01:58:50Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Small app to read your notes as .MD files, companion function for your Claude skills and documentation projects (to make",
+    "id": "annoyances-studio/margin",
+    "language": "Dart",
+    "name": "annoyances-studio/margin",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:55:04Z",
+    "url": "https://github.com/annoyances-studio/margin"
+  },
+  {
     "description": "A skill pack that turns your AI into an expert website builder: current research, design, code, accessibility, speed, SE",
     "id": "aunysillyme/website-build-skill",
     "language": "JavaScript",
     "name": "aunysillyme/website-build-skill",
     "stars": 3,
-    "updated_at": "2026-10-02T01:44:54Z",
+    "updated_at": "2026-10-02T01:55:10Z",
     "url": "https://github.com/aunysillyme/website-build-skill"
+  },
+  {
+    "description": "Pre-commit review for robot learning research plans: checks prior art, confounded comparisons, sample size and claim sco",
+    "id": "lhtrongai/research-direction-check",
+    "language": "\u2014",
+    "name": "lhtrongai/research-direction-check",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:53:40Z",
+    "url": "https://github.com/lhtrongai/research-direction-check"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-10-02T01:53:25Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
+    "id": "KijitoAI/kijito-tools",
+    "language": "JavaScript",
+    "name": "KijitoAI/kijito-tools",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:50:11Z",
+    "url": "https://github.com/KijitoAI/kijito-tools"
+  },
+  {
+    "description": "Claude Code workflow recipes built on dossier-mcp \u2014 research \u2192 design \u2192 scope \u2192 decompose \u2192 implement as overridable sla",
+    "id": "ethanaubuchon/dossier-tradecraft",
+    "language": "Shell",
+    "name": "ethanaubuchon/dossier-tradecraft",
+    "stars": 3,
+    "updated_at": "2026-10-02T01:49:50Z",
+    "url": "https://github.com/ethanaubuchon/dossier-tradecraft"
+  },
+  {
+    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
+    "id": "inbrace-tech/claude-skills",
+    "language": "TypeScript",
+    "name": "inbrace-tech/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-02T01:49:14Z",
+    "url": "https://github.com/inbrace-tech/claude-skills"
+  },
+  {
+    "description": "A BetterDiscord-style enhancement suite for Claude. Themes, plugins, and a pile of productivity tools layered on top of ",
+    "id": "ara-mkr/BetterClaude",
+    "language": "JavaScript",
+    "name": "ara-mkr/BetterClaude",
+    "stars": 5,
+    "updated_at": "2026-10-02T01:49:53Z",
+    "url": "https://github.com/ara-mkr/BetterClaude"
   },
   {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
@@ -14,17 +95,35 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-02T01:44:50Z",
+    "updated_at": "2026-10-02T01:47:37Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
-    "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
-    "id": "nullphase-net/enfurbish",
-    "language": "TypeScript",
-    "name": "nullphase-net/enfurbish",
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-02T01:44:39Z",
-    "url": "https://github.com/nullphase-net/enfurbish"
+    "updated_at": "2026-10-02T01:46:12Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T01:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Autohand Code Desktop releases, changelogs, downloads, and issue tracker. Application source is private.",
+    "id": "autohandai/autohand-code-desktop",
+    "language": "\u2014",
+    "name": "autohandai/autohand-code-desktop",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:44:26Z",
+    "url": "https://github.com/autohandai/autohand-code-desktop"
   },
   {
     "description": "Which AI agent Skills survive a real build? Every pick is field-tested by building a product from scratch, then rated on",
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "stars": 16,
-    "updated_at": "2026-10-02T01:37:13Z",
+    "updated_at": "2026-10-02T01:49:32Z",
     "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   },
   {
@@ -67,18 +166,9 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 19590,
-    "updated_at": "2026-10-02T01:33:46Z",
+    "stars": 19591,
+    "updated_at": "2026-10-02T01:57:43Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-02T01:33:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Curated Claude Code plugins by Knitli",
@@ -95,7 +185,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69743,
-    "updated_at": "2026-10-02T01:31:31Z",
+    "updated_at": "2026-10-02T01:45:51Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -112,7 +202,7 @@
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 742,
+    "stars": 744,
     "updated_at": "2026-10-02T01:30:03Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
@@ -270,15 +360,6 @@
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95132,
-    "updated_at": "2026-10-02T01:18:32Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-02T00:55:17Z",
     "url": "https://github.com/jiawood2006/hermes-skills"
-  },
-  {
-    "description": "Utsuri transforms code changes into evidence-based, human-readable visual reviews. It connects Git hunks, intent, real-b",
-    "id": "hokupod/utsuri",
-    "language": "JavaScript",
-    "name": "hokupod/utsuri",
-    "stars": 2,
-    "updated_at": "2026-10-02T00:56:03Z",
-    "url": "https://github.com/hokupod/utsuri"
-  },
-  {
-    "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
-    "id": "SELAT-AI/selat-plugins",
-    "language": "Shell",
-    "name": "SELAT-AI/selat-plugins",
-    "stars": 1,
-    "updated_at": "2026-10-02T00:49:44Z",
-    "url": "https://github.com/SELAT-AI/selat-plugins"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-02T00:45:27Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Agent skills for building with the spinf scoring API (Claude Code plugin marketplace and skills.sh)",
-    "id": "spinfinc/skills",
-    "language": "\u2014",
-    "name": "spinfinc/skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T00:45:18Z",
-    "url": "https://github.com/spinfinc/skills"
-  },
-  {
-    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
-    "id": "filippolmt/skills",
-    "language": "HTML",
-    "name": "filippolmt/skills",
-    "stars": 1,
-    "updated_at": "2026-10-02T00:44:02Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-02T00:49:12Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-10-02T00:39:39Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-10-02T00:38:42Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-02T00:36:13Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   }
 ]
