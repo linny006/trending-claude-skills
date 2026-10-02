@@ -1,5 +1,113 @@
 [
   {
+    "description": "Claude Code skill that writes ad headlines by following an ad agency workflow (planner, CD, creative teams, client revie",
+    "id": "5hyuns/ad-copy-agency-skill",
+    "language": "Python",
+    "name": "5hyuns/ad-copy-agency-skill",
+    "stars": 2,
+    "updated_at": "2026-10-02T10:29:33Z",
+    "url": "https://github.com/5hyuns/ad-copy-agency-skill"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-10-02T10:29:22Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "ASD-STE100 (Simplified Technical English, Issue 9) for Claude Code: /ste mod, agent skill, and linter. Inspired by Karpa",
+    "id": "JAICHANGPARK/ASD-STE100",
+    "language": "JavaScript",
+    "name": "JAICHANGPARK/ASD-STE100",
+    "stars": 0,
+    "updated_at": "2026-10-02T10:27:30Z",
+    "url": "https://github.com/JAICHANGPARK/ASD-STE100"
+  },
+  {
+    "description": "Vibe-Accelerated Intent Blocks",
+    "id": "Chalarangelo/vaib",
+    "language": "Python",
+    "name": "Chalarangelo/vaib",
+    "stars": 2,
+    "updated_at": "2026-10-02T10:27:30Z",
+    "url": "https://github.com/Chalarangelo/vaib"
+  },
+  {
+    "description": "Claude Code plugin: build step-by-step user manuals (PPTX + PDF) from real app screenshots with numbered callouts",
+    "id": "JiramedFirst/MSlides",
+    "language": "Python",
+    "name": "JiramedFirst/MSlides",
+    "stars": 1,
+    "updated_at": "2026-10-02T10:26:29Z",
+    "url": "https://github.com/JiramedFirst/MSlides"
+  },
+  {
+    "description": "",
+    "id": "petersonsenadevs/senzu",
+    "language": "Python",
+    "name": "petersonsenadevs/senzu",
+    "stars": 0,
+    "updated_at": "2026-10-02T10:25:19Z",
+    "url": "https://github.com/petersonsenadevs/senzu"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-02T10:30:03Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 323,
+    "updated_at": "2026-10-02T10:30:09Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex.",
+    "id": "tobihagemann/turbo",
+    "language": "Python",
+    "name": "tobihagemann/turbo",
+    "stars": 405,
+    "updated_at": "2026-10-02T10:20:20Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
+    "description": "Set of skills for globalizing and localizing app",
+    "id": "globalize-now/globalize-skills",
+    "language": "TypeScript",
+    "name": "globalize-now/globalize-skills",
+    "stars": 3,
+    "updated_at": "2026-10-02T10:15:31Z",
+    "url": "https://github.com/globalize-now/globalize-skills"
+  },
+  {
+    "description": "CAAS (Chat\u2013Agent Auto Session): talk only to your everyday Claude.ai conversation; running Claude Code sessions do the w",
+    "id": "Rurimpa/caas",
+    "language": "JavaScript",
+    "name": "Rurimpa/caas",
+    "stars": 0,
+    "updated_at": "2026-10-02T10:15:27Z",
+    "url": "https://github.com/Rurimpa/caas"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T10:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Lightweight, local-first Python DAG workflow compiler and execution engine with human-in-the-loop checkpoints for CLI an",
     "id": "google/lightflow",
     "language": "Python",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "stars": 16,
-    "updated_at": "2026-10-02T10:08:22Z",
+    "updated_at": "2026-10-02T10:22:25Z",
     "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   },
   {
@@ -99,15 +207,6 @@
     "url": "https://github.com/selfishprimate/seekter"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-10-02T10:04:46Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "ajitta's Claude Code plugin marketplace \u2014 a catalog; each plugin lives in its own repository",
     "id": "ajitta/claude-plugins",
     "language": "\u2014",
@@ -122,7 +221,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 117,
-    "updated_at": "2026-10-02T10:07:00Z",
+    "updated_at": "2026-10-02T10:25:25Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -135,42 +234,6 @@
     "url": "https://github.com/andykear/FileMaker-XMLsnippet-Layout-Claude-Skill"
   },
   {
-    "description": "CAAS (Chat\u2013Agent Auto Session): talk only to your everyday Claude.ai conversation; running Claude Code sessions do the w",
-    "id": "Rurimpa/caas",
-    "language": "JavaScript",
-    "name": "Rurimpa/caas",
-    "stars": 0,
-    "updated_at": "2026-10-02T10:01:31Z",
-    "url": "https://github.com/Rurimpa/caas"
-  },
-  {
-    "description": "Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex.",
-    "id": "tobihagemann/turbo",
-    "language": "Python",
-    "name": "tobihagemann/turbo",
-    "stars": 405,
-    "updated_at": "2026-10-02T10:01:09Z",
-    "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "Claude Code skill that writes ad headlines by following an ad agency workflow (planner, CD, creative teams, client revie",
-    "id": "5hyuns/ad-copy-agency-skill",
-    "language": "Python",
-    "name": "5hyuns/ad-copy-agency-skill",
-    "stars": 1,
-    "updated_at": "2026-10-02T10:00:25Z",
-    "url": "https://github.com/5hyuns/ad-copy-agency-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-02T10:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Desktop app for macOS, Windows, and Linux that installs Claude Code and curated tools \u2014 every action shown as a plan and",
     "id": "SteveKinzey/claude-code-tools-installer",
     "language": "JavaScript",
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T10:01:06Z",
     "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
-    "description": "Vibe-Accelerated Intent Blocks",
-    "id": "Chalarangelo/vaib",
-    "language": "Python",
-    "name": "Chalarangelo/vaib",
-    "stars": 2,
-    "updated_at": "2026-10-02T10:15:13Z",
-    "url": "https://github.com/Chalarangelo/vaib"
   },
   {
     "description": "Claude Code skill for Ecko, the language where ai is a keyword. Every code sample is executed before it ships.",
@@ -302,7 +356,7 @@
     "language": "JavaScript",
     "name": "stijnvanhulle/agents",
     "stars": 1,
-    "updated_at": "2026-10-02T09:47:34Z",
+    "updated_at": "2026-10-02T10:20:30Z",
     "url": "https://github.com/stijnvanhulle/agents"
   },
   {
@@ -333,15 +387,6 @@
     "url": "https://github.com/NovaCode37/claude-security-skills"
   },
   {
-    "description": "Claude Code plugin: build step-by-step user manuals (PPTX + PDF) from real app screenshots with numbered callouts",
-    "id": "JiramedFirst/MSlides",
-    "language": "Python",
-    "name": "JiramedFirst/MSlides",
-    "stars": 1,
-    "updated_at": "2026-10-02T09:44:45Z",
-    "url": "https://github.com/JiramedFirst/MSlides"
-  },
-  {
     "description": "Pre-commit review for robot learning research plans: checks prior art, confounded comparisons, sample size and claim sco",
     "id": "lhtrongai/research-direction-check",
     "language": "\u2014",
@@ -349,24 +394,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T09:43:48Z",
     "url": "https://github.com/lhtrongai/research-direction-check"
-  },
-  {
-    "description": "ASD-STE100 (Simplified Technical English, Issue 9) for Claude Code: /ste mod, agent skill, and linter. Inspired by Karpa",
-    "id": "JAICHANGPARK/ASD-STE100",
-    "language": "JavaScript",
-    "name": "JAICHANGPARK/ASD-STE100",
-    "stars": 0,
-    "updated_at": "2026-10-02T09:43:28Z",
-    "url": "https://github.com/JAICHANGPARK/ASD-STE100"
-  },
-  {
-    "description": "",
-    "id": "petersonsenadevs/senzu",
-    "language": "Python",
-    "name": "petersonsenadevs/senzu",
-    "stars": 0,
-    "updated_at": "2026-10-02T09:42:36Z",
-    "url": "https://github.com/petersonsenadevs/senzu"
   },
   {
     "description": "Free Claude skill: Goethe-Zertifikat (A1\u2013C2) exam coach for Lesen, Schreiben & Sprechen \u2014 by GoetheCoach",
@@ -421,32 +448,5 @@
     "stars": 281,
     "updated_at": "2026-10-02T09:40:33Z",
     "url": "https://github.com/karanb192/algo-sensei"
-  },
-  {
-    "description": "Claude paints with code: a Claude Code skill for procedural illustration in 59 styles, from ink wash (\u6c34\u58a8), watercolour a",
-    "id": "cloveric/claude-drawing-skill",
-    "language": "Python",
-    "name": "cloveric/claude-drawing-skill",
-    "stars": 13,
-    "updated_at": "2026-10-02T09:40:27Z",
-    "url": "https://github.com/cloveric/claude-drawing-skill"
-  },
-  {
-    "description": "Claude Code skill (VS Code, Windows): image previews and open buttons under file paths in the chat, clickable local link",
-    "id": "warodan/vscode-claude-code-patch",
-    "language": "JavaScript",
-    "name": "warodan/vscode-claude-code-patch",
-    "stars": 0,
-    "updated_at": "2026-10-02T09:40:27Z",
-    "url": "https://github.com/warodan/vscode-claude-code-patch"
-  },
-  {
-    "description": "File your Indian income tax return (ITR) from your terminal. Deterministic tax engine, both regimes, AY 2026-27. Claude ",
-    "id": "karanb192/itr-wala",
-    "language": "Python",
-    "name": "karanb192/itr-wala",
-    "stars": 873,
-    "updated_at": "2026-10-02T09:40:05Z",
-    "url": "https://github.com/karanb192/itr-wala"
   }
 ]
