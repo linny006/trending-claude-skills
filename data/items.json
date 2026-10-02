@@ -1,5 +1,68 @@
 [
   {
+    "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
+    "id": "Joe-Simo/a0",
+    "language": "TypeScript",
+    "name": "Joe-Simo/a0",
+    "stars": 0,
+    "updated_at": "2026-10-02T03:59:47Z",
+    "url": "https://github.com/Joe-Simo/a0"
+  },
+  {
+    "description": "A curated, opinionated guide to Amazon Web Services \u2014 services, tools, official docs, deep-dive guides, and battle-teste",
+    "id": "palpalani/aws-open-guide",
+    "language": "Python",
+    "name": "palpalani/aws-open-guide",
+    "stars": 1,
+    "updated_at": "2026-10-02T03:58:54Z",
+    "url": "https://github.com/palpalani/aws-open-guide"
+  },
+  {
+    "description": "A Claude Code plugin marketplace bundling 12 plugins and 54 skills across PKM, project planning, DevOps, content writing",
+    "id": "natthasath/natthasath-marketplace",
+    "language": "HTML",
+    "name": "natthasath/natthasath-marketplace",
+    "stars": 1,
+    "updated_at": "2026-10-02T03:56:31Z",
+    "url": "https://github.com/natthasath/natthasath-marketplace"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 27,
+    "updated_at": "2026-10-02T03:53:17Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Agentic skills for Word (.docx), PowerPoint (.pptx), Excel (.xlsx), and reference verification. Features LaTeX math to W",
+    "id": "AlpaZZ/office-agent-skills",
+    "language": "Python",
+    "name": "AlpaZZ/office-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T03:49:34Z",
+    "url": "https://github.com/AlpaZZ/office-agent-skills"
+  },
+  {
+    "description": "Portable agent skills for Codex, Claude Code, and other Agent Skills hosts.",
+    "id": "Thakay/agent-skills",
+    "language": "JavaScript",
+    "name": "Thakay/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T03:48:51Z",
+    "url": "https://github.com/Thakay/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T03:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Community index of Claude skills for scientific work. Pinned, checked, one-line import.",
     "id": "ai4science-skills/skills",
     "language": "Python",
@@ -25,15 +88,6 @@
     "stars": 63,
     "updated_at": "2026-10-02T03:42:07Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Agentic skills for Word (.docx), PowerPoint (.pptx), Excel (.xlsx), and reference verification. Features LaTeX math to W",
-    "id": "AlpaZZ/office-agent-skills",
-    "language": "Python",
-    "name": "AlpaZZ/office-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T03:41:27Z",
-    "url": "https://github.com/AlpaZZ/office-agent-skills"
   },
   {
     "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
@@ -126,15 +180,6 @@
     "url": "https://github.com/varunk130/ai-ux-skill-library"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-02T03:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Official plugin marketplace for Bindry \u2014 compiles your Binders into Claude Code, Codex and Copilot skills, so instructio",
     "id": "bindryai/Plugins",
     "language": "JavaScript",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T03:28:48Z",
     "url": "https://github.com/bindryai/Plugins"
-  },
-  {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "JavaScript",
-    "name": "geml-spec/geml",
-    "stars": 27,
-    "updated_at": "2026-10-02T03:25:05Z",
-    "url": "https://github.com/geml-spec/geml"
   },
   {
     "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 322,
-    "updated_at": "2026-10-02T03:18:22Z",
+    "updated_at": "2026-10-02T03:57:07Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -275,17 +311,8 @@
     "language": "TypeScript",
     "name": "inbrace-tech/claude-skills",
     "stars": 1,
-    "updated_at": "2026-10-02T03:36:25Z",
+    "updated_at": "2026-10-02T03:59:52Z",
     "url": "https://github.com/inbrace-tech/claude-skills"
-  },
-  {
-    "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
-    "id": "Joe-Simo/a0",
-    "language": "TypeScript",
-    "name": "Joe-Simo/a0",
-    "stars": 0,
-    "updated_at": "2026-10-02T03:06:34Z",
-    "url": "https://github.com/Joe-Simo/a0"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T02:48:48Z",
     "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T02:47:05Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-10-02T02:46:34Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-10-02T02:46:28Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
   }
 ]
