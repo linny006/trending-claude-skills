@@ -1,12 +1,147 @@
 [
   {
+    "description": "The self-improving context engine for coding agents.",
+    "id": "aerovato/operator-memory",
+    "language": "TypeScript",
+    "name": "aerovato/operator-memory",
+    "stars": 67,
+    "updated_at": "2026-10-02T07:14:09Z",
+    "url": "https://github.com/aerovato/operator-memory"
+  },
+  {
+    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
+    "id": "Mann1988/awesome-claude-skills",
+    "language": "Python",
+    "name": "Mann1988/awesome-claude-skills",
+    "stars": 66,
+    "updated_at": "2026-10-02T07:13:42Z",
+    "url": "https://github.com/Mann1988/awesome-claude-skills"
+  },
+  {
+    "description": "Agentic skills for Word (.docx), PowerPoint (.pptx), Excel (.xlsx), and reference verification. Features LaTeX math to W",
+    "id": "AlpaZZ/office-agent-skills",
+    "language": "Python",
+    "name": "AlpaZZ/office-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T07:13:25Z",
+    "url": "https://github.com/AlpaZZ/office-agent-skills"
+  },
+  {
+    "description": "One sentence in, a researched 3D motion graphic out \u2014 a Claude Code skill that makes looping real-time HTML films (Three",
+    "id": "Seokwoooo/promptfilm",
+    "language": "JavaScript",
+    "name": "Seokwoooo/promptfilm",
+    "stars": 19,
+    "updated_at": "2026-10-02T07:12:42Z",
+    "url": "https://github.com/Seokwoooo/promptfilm"
+  },
+  {
+    "description": "Translate full academic papers into searchable Chinese PDFs, preserving two-column layout, equations, figures and citati",
+    "id": "vittta/translate-paper-zh",
+    "language": "Python",
+    "name": "vittta/translate-paper-zh",
+    "stars": 0,
+    "updated_at": "2026-10-02T07:11:52Z",
+    "url": "https://github.com/vittta/translate-paper-zh"
+  },
+  {
+    "description": "Daymon puts your favorite AI to work 24/7. It schedules, remembers, and orchestrates your own virtual team. Free.",
+    "id": "daymonio/daymon",
+    "language": "TypeScript",
+    "name": "daymonio/daymon",
+    "stars": 365,
+    "updated_at": "2026-10-02T07:14:53Z",
+    "url": "https://github.com/daymonio/daymon"
+  },
+  {
+    "description": "Reference-backed ERP assistants for Claude Code \u2014 Sage 300 (Accpac), Sage 200 Evolution (Pastel), and SAP Business One. ",
+    "id": "fdtaljaard/claude-skills",
+    "language": "Python",
+    "name": "fdtaljaard/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-02T07:09:12Z",
+    "url": "https://github.com/fdtaljaard/claude-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-02T07:09:03Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 7,
+    "updated_at": "2026-10-02T07:08:52Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
     "description": "\u8e0f\u96ea\u51b3\u7b56\u7cfb\u7edf\uff1a13 \u4e2a\u4e92\u76f8\u8def\u7531\u7684\u6280\u80fd\uff08\u603b\u5165\u53e3 + 12 \u5b50\u6280\u80fd\uff09\u2014\u2014\u96f6\u786c\u7f16\u7801\u8def\u5f84\uff0c\u53ef\u63a5\u5165\u4f60\u7684\u4e2a\u4eba\u77e5\u8bc6\u5e93 / The taxue Decision System: 13 mutually-routed skills",
     "id": "taxueseek/taxueskills",
     "language": "Python",
     "name": "taxueseek/taxueskills",
     "stars": 24,
-    "updated_at": "2026-10-02T06:59:33Z",
+    "updated_at": "2026-10-02T07:07:23Z",
     "url": "https://github.com/taxueseek/taxueskills"
+  },
+  {
+    "description": "Open Source HeyReach & Gojiberry alternative",
+    "id": "vanshyadav1408/Omentir",
+    "language": "TypeScript",
+    "name": "vanshyadav1408/Omentir",
+    "stars": 46,
+    "updated_at": "2026-10-02T07:07:33Z",
+    "url": "https://github.com/vanshyadav1408/Omentir"
+  },
+  {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T07:05:01Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Claude skills that turn your Seobility MCP data into clear next steps",
+    "id": "seobility-net/seobility-mcp-skills",
+    "language": "Python",
+    "name": "seobility-net/seobility-mcp-skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T07:03:31Z",
+    "url": "https://github.com/seobility-net/seobility-mcp-skills"
+  },
+  {
+    "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
+    "id": "Joe-Simo/a0",
+    "language": "TypeScript",
+    "name": "Joe-Simo/a0",
+    "stars": 0,
+    "updated_at": "2026-10-02T07:02:56Z",
+    "url": "https://github.com/Joe-Simo/a0"
+  },
+  {
+    "description": "Pre-commit review for robot learning research plans: checks prior art, confounded comparisons, sample size and claim sco",
+    "id": "lhtrongai/research-direction-check",
+    "language": "\u2014",
+    "name": "lhtrongai/research-direction-check",
+    "stars": 0,
+    "updated_at": "2026-10-02T07:01:21Z",
+    "url": "https://github.com/lhtrongai/research-direction-check"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T07:00:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
@@ -14,7 +149,7 @@
     "language": "Shell",
     "name": "l4ci/hv-skills",
     "stars": 0,
-    "updated_at": "2026-10-02T06:59:32Z",
+    "updated_at": "2026-10-02T07:13:12Z",
     "url": "https://github.com/l4ci/hv-skills"
   },
   {
@@ -23,7 +158,7 @@
     "language": "Python",
     "name": "HiroHyun/grounded-copy",
     "stars": 20,
-    "updated_at": "2026-10-02T07:00:10Z",
+    "updated_at": "2026-10-02T07:08:02Z",
     "url": "https://github.com/HiroHyun/grounded-copy"
   },
   {
@@ -43,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-10-02T06:54:37Z",
     "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "Reference-backed ERP assistants for Claude Code \u2014 Sage 300 (Accpac), Sage 200 Evolution (Pastel), and SAP Business One. ",
-    "id": "fdtaljaard/claude-skills",
-    "language": "Python",
-    "name": "fdtaljaard/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-02T06:54:11Z",
-    "url": "https://github.com/fdtaljaard/claude-skills"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -81,6 +207,15 @@
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
+    "description": "Focus Motion: a Claude Code plugin that directs, builds and edits videos, in Hebrew by default. By Focus AI Academy.",
+    "id": "FOCUS-OS-DEV/focus-motion",
+    "language": "JavaScript",
+    "name": "FOCUS-OS-DEV/focus-motion",
+    "stars": 0,
+    "updated_at": "2026-10-02T06:49:18Z",
+    "url": "https://github.com/FOCUS-OS-DEV/focus-motion"
+  },
+  {
     "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
     "id": "galleonlabs/hypergrok-trading-desk",
     "language": "Python",
@@ -88,24 +223,6 @@
     "stars": 74,
     "updated_at": "2026-10-02T06:48:49Z",
     "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
-  },
-  {
-    "description": "Agentic skills for Word (.docx), PowerPoint (.pptx), Excel (.xlsx), and reference verification. Features LaTeX math to W",
-    "id": "AlpaZZ/office-agent-skills",
-    "language": "Python",
-    "name": "AlpaZZ/office-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:45:34Z",
-    "url": "https://github.com/AlpaZZ/office-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-02T06:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
@@ -221,7 +338,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69750,
-    "updated_at": "2026-10-02T06:35:14Z",
+    "updated_at": "2026-10-02T07:11:40Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 153,
     "updated_at": "2026-10-02T06:23:11Z",
     "url": "https://github.com/vaibhavarora14/job-application-agent"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-02T06:19:41Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 53,
-    "updated_at": "2026-10-02T06:18:17Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
-    "id": "Joe-Simo/a0",
-    "language": "TypeScript",
-    "name": "Joe-Simo/a0",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:18:14Z",
-    "url": "https://github.com/Joe-Simo/a0"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:17:53Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "My dev identity as a Claude Code plugin \u2014 a full Laravel team in a box: SDLC pipeline, task board, coding agents, and au",
-    "id": "digitaldreams/tuhin",
-    "language": "Shell",
-    "name": "digitaldreams/tuhin",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:15:00Z",
-    "url": "https://github.com/digitaldreams/tuhin"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-10-02T06:12:37Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Proof-carrying defensive security reviews for AI-assisted software, with deterministic policy, portable evidence, and hu",
-    "id": "TanKimGwan/linmas",
-    "language": "JavaScript",
-    "name": "TanKimGwan/linmas",
-    "stars": 2,
-    "updated_at": "2026-10-02T06:10:54Z",
-    "url": "https://github.com/TanKimGwan/linmas"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:09:06Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:08:08Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "",
-    "id": "fmschulz/omics-skills",
-    "language": "Python",
-    "name": "fmschulz/omics-skills",
-    "stars": 9,
-    "updated_at": "2026-10-02T06:05:56Z",
-    "url": "https://github.com/fmschulz/omics-skills"
-  },
-  {
-    "description": "\u7cfb\u7edf\u5316\u8c03\u8bd5 skill\uff1a\u590d\u73b0\u2192\u5b9a\u4f4d\u2192\u4fee\u590d\u2192\u9a8c\u8bc1\uff0cZeller \u79d1\u5b66\u8c03\u8bd5\u6cd5 + Agans \u4e5d\u89c4\u5219\uff08\u5218\u6d2a\u5149 / lhg-skills\uff09 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-debug",
-    "id": "lhg-skills/lhg-debug",
-    "language": "Python",
-    "name": "lhg-skills/lhg-debug",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:41Z",
-    "url": "https://github.com/lhg-skills/lhg-debug"
-  },
-  {
-    "description": "\u6df1\u5ea6\u8c03\u7814\uff1a\u8f93\u5165\u4e00\u4e2a\u4e3b\u9898\uff0c\u6309\u591a\u6e90\u68c0\u7d22\u2192\u70ed\u5ea6\u6392\u540d\u2192\u4f5c\u8005\u6df1\u6316\u2192\u9700\u6c42\u63d0\u70bc\u2192\u529f\u80fd\u5206\u7c7b\u2192\u590d\u523b/\u8d85\u8d8a\u65b9\u6848\u7684\u6d41\u7a0b\uff0c\u8f93\u51fa\u7ed3\u6784\u5316\u4e2d\u6587\u8c03\u7814\u62a5\u544a\u3002 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-deep-research",
-    "id": "lhg-skills/lhg-deep-research",
-    "language": "\u2014",
-    "name": "lhg-skills/lhg-deep-research",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:39Z",
-    "url": "https://github.com/lhg-skills/lhg-deep-research"
-  },
-  {
-    "description": "\u5bf9\u6807\u62c6\u89e3\u9009\u9898\u5de5\u5382 skill\uff1a\u627e\u5bf9\u6807\u2192\u5185\u5bb9\u6df1\u62c6\u2192\u9006\u5411100\u6761\u9009\u9898\u5e93\u2192\u53e3\u64ad\u6587\u6848\u5e93\u2192\u6392\u671f\u89c4\u5212\uff0c8\u9636\u6bb5\u6d41\u6c34\u7ebf\uff0c\u4efb\u610f\u884c\u4e1a\u53ef\u590d\u523b\uff08\u5218\u6d2a\u5149 / lhg-skills\uff09 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-bench",
-    "id": "lhg-skills/lhg-benchmark-topic-factory",
-    "language": "Python",
-    "name": "lhg-skills/lhg-benchmark-topic-factory",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:37Z",
-    "url": "https://github.com/lhg-skills/lhg-benchmark-topic-factory"
   }
 ]
