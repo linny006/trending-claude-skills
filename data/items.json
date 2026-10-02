@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u8e0f\u96ea\u51b3\u7b56\u7cfb\u7edf\uff1a13 \u4e2a\u4e92\u76f8\u8def\u7531\u7684\u6280\u80fd\uff08\u603b\u5165\u53e3 + 12 \u5b50\u6280\u80fd\uff09\u2014\u2014\u96f6\u786c\u7f16\u7801\u8def\u5f84\uff0c\u53ef\u63a5\u5165\u4f60\u7684\u4e2a\u4eba\u77e5\u8bc6\u5e93 / The taxue Decision System: 13 mutually-routed skills",
+    "id": "taxueseek/taxueskills",
+    "language": "Python",
+    "name": "taxueseek/taxueskills",
+    "stars": 24,
+    "updated_at": "2026-10-02T06:59:33Z",
+    "url": "https://github.com/taxueseek/taxueskills"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Shell",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T06:59:32Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "Writing rules and a copy checker for AI agents. Use it when you write product pages, project docs, or everyday replies. ",
+    "id": "HiroHyun/grounded-copy",
+    "language": "Python",
+    "name": "HiroHyun/grounded-copy",
+    "stars": 20,
+    "updated_at": "2026-10-02T07:00:10Z",
+    "url": "https://github.com/HiroHyun/grounded-copy"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-10-02T06:54:54Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-02T06:54:37Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "Reference-backed ERP assistants for Claude Code \u2014 Sage 300 (Accpac), Sage 200 Evolution (Pastel), and SAP Business One. ",
+    "id": "fdtaljaard/claude-skills",
+    "language": "Python",
+    "name": "fdtaljaard/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-02T06:54:11Z",
+    "url": "https://github.com/fdtaljaard/claude-skills"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-10-02T06:53:34Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "AI skills for NMTC eligibility, bank-CDFI peer benchmarking & HMDA analysis \u2014 grounded in audited PyPI tools, not halluc",
+    "id": "Jaypatel1511/cdfi-superpowers",
+    "language": "Python",
+    "name": "Jaypatel1511/cdfi-superpowers",
+    "stars": 1,
+    "updated_at": "2026-10-02T06:53:43Z",
+    "url": "https://github.com/Jaypatel1511/cdfi-superpowers"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1645,
+    "updated_at": "2026-10-02T06:51:12Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
+    "id": "galleonlabs/hypergrok-trading-desk",
+    "language": "Python",
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "stars": 74,
+    "updated_at": "2026-10-02T06:48:49Z",
+    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
+  },
+  {
+    "description": "Agentic skills for Word (.docx), PowerPoint (.pptx), Excel (.xlsx), and reference verification. Features LaTeX math to W",
+    "id": "AlpaZZ/office-agent-skills",
+    "language": "Python",
+    "name": "AlpaZZ/office-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T06:45:34Z",
+    "url": "https://github.com/AlpaZZ/office-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T06:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -63,15 +171,6 @@
     "url": "https://github.com/sjsbshshs/math-modeling-skillpack"
   },
   {
-    "description": "Agentic skills for Word (.docx), PowerPoint (.pptx), Excel (.xlsx), and reference verification. Features LaTeX math to W",
-    "id": "AlpaZZ/office-agent-skills",
-    "language": "Python",
-    "name": "AlpaZZ/office-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:37:41Z",
-    "url": "https://github.com/AlpaZZ/office-agent-skills"
-  },
-  {
     "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
     "id": "victorrentea/human-review",
     "language": "Python",
@@ -79,15 +178,6 @@
     "stars": 10,
     "updated_at": "2026-10-02T06:36:57Z",
     "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "Reference-backed ERP assistants for Claude Code \u2014 Sage 300 (Accpac), Sage 200 Evolution (Pastel), and SAP Business One. ",
-    "id": "fdtaljaard/claude-skills",
-    "language": "Python",
-    "name": "fdtaljaard/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-02T06:36:40Z",
-    "url": "https://github.com/fdtaljaard/claude-skills"
   },
   {
     "description": "Replace Redis, MongoDB, n8n, Elasticsearch with native PostgreSQL. A Claude Skill.",
@@ -171,24 +261,6 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
-    "description": "Writing rules and a copy checker for AI agents. Use it when you write product pages, project docs, or everyday replies. ",
-    "id": "HiroHyun/grounded-copy",
-    "language": "Python",
-    "name": "HiroHyun/grounded-copy",
-    "stars": 20,
-    "updated_at": "2026-10-02T06:30:20Z",
-    "url": "https://github.com/HiroHyun/grounded-copy"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-02T06:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
     "id": "lobisomenhomemafeminado/skill-vault",
     "language": "HTML",
@@ -229,7 +301,7 @@
     "id": "howseen-ai/claude-motion-design",
     "language": "Python",
     "name": "howseen-ai/claude-motion-design",
-    "stars": 189,
+    "stars": 190,
     "updated_at": "2026-10-02T06:24:45Z",
     "url": "https://github.com/howseen-ai/claude-motion-design"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T06:05:37Z",
     "url": "https://github.com/lhg-skills/lhg-benchmark-topic-factory"
-  },
-  {
-    "description": "\u4e2d\u6587\u5199\u4f5c skill\uff1a\u98ce\u683c\u6307\u7eb9\u63d0\u53d6 \u2192 Orwell \u516d\u89c4\u5219\u5199\u4f5c \u2192 AI \u5473\u8bca\u65ad \u2192 \u4e00\u81f4\u6027\u6821\u9a8c\uff08\u5218\u6d2a\u5149 / lhg-skills\uff09 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-writing",
-    "id": "lhg-skills/lhg-writing",
-    "language": "\u2014",
-    "name": "lhg-skills/lhg-writing",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:35Z",
-    "url": "https://github.com/lhg-skills/lhg-writing"
-  },
-  {
-    "description": "AI \u7f16\u7a0b\u5de5\u7a0b\u89c4\u8303\uff1a\u5206\u7ea7\u6f84\u6e05\u3001\u8ba1\u5212\u4e66\u3001TDD\u3001\u72ec\u7acb\u8bc4\u5ba1\u3001\u8bc1\u636e\u95e8\u7981 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-craft",
-    "id": "lhg-skills/lhg-craft",
-    "language": "Python",
-    "name": "lhg-skills/lhg-craft",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:33Z",
-    "url": "https://github.com/lhg-skills/lhg-craft"
-  },
-  {
-    "description": "\u8fd1 30 \u5929\u5168\u7f51\u70ed\u70b9\u626b\u63cf\uff1a\u8de8\u5e73\u53f0\u70ed\u5ea6\u6392\u5e8f\uff0c\u76f4\u63a5\u670d\u52a1\u5185\u5bb9\u9009\u9898 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-trend",
-    "id": "lhg-skills/lhg-trend",
-    "language": "Python",
-    "name": "lhg-skills/lhg-trend",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:31Z",
-    "url": "https://github.com/lhg-skills/lhg-trend"
-  },
-  {
-    "description": "\u4ee3\u7801\u5b89\u5168\u5ba1\u8ba1\uff1a\u4e5d\u7ef4\u5ea6\u626b\u63cf\u3001\u5bf9\u6297\u9a8c\u8bc1\u3001\u5206\u7ea7\u98ce\u9669\u6e05\u5355 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-secure",
-    "id": "lhg-skills/lhg-secure",
-    "language": "Python",
-    "name": "lhg-skills/lhg-secure",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:29Z",
-    "url": "https://github.com/lhg-skills/lhg-secure"
-  },
-  {
-    "description": "\u4e92\u8054\u7f51\u80fd\u529b\u5c42\uff1a\u4e2d\u6587\u4f18\u5148\u591a\u5e73\u53f0\u53d6\u6570\uff0c\u5de5\u5177\u2192\u6d41\u7a0b\u53cc\u8f68\u964d\u7ea7 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-net",
-    "id": "lhg-skills/lhg-net",
-    "language": "Python",
-    "name": "lhg-skills/lhg-net",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:27Z",
-    "url": "https://github.com/lhg-skills/lhg-net"
-  },
-  {
-    "description": "\u627e skill \u7684\u8d28\u68c0\u95e8\uff1ablocker \u4e09\u4ef6\u5957 + \u516d\u7ef4\u8bc4\u5206\u5361\uff0c\u4e24\u9053\u786e\u8ba4\u95e8\u6c38\u4e0d\u81ea\u52a8\u5b89\u88c5 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-finder",
-    "id": "lhg-skills/lhg-finder",
-    "language": "Python",
-    "name": "lhg-skills/lhg-finder",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:25Z",
-    "url": "https://github.com/lhg-skills/lhg-finder"
-  },
-  {
-    "description": "\u5e26\u7f8e\u672f\u62a4\u680f\u3001\u53ef\u6d4f\u89c8\u5668\u5185\u7f16\u8f91\u7684\u5355\u6587\u4ef6 HTML \u6f14\u793a\u6587\u7a3f\u751f\u6210 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-slides",
-    "id": "lhg-skills/lhg-slides",
-    "language": "Python",
-    "name": "lhg-skills/lhg-slides",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:05:22Z",
-    "url": "https://github.com/lhg-skills/lhg-slides"
-  },
-  {
-    "description": "\u7f51\u9875 UI \u4e13\u5bb6\u8d70\u67e5\uff1a\u622a\u56fe/\u4ee3\u7801/\u94fe\u63a5\u4e09\u8f93\u5165\uff0c\u4e94\u652f\u67f1\u8d70\u67e5\u627e\u7f3a\u70b9\u5e76\u7ed9\u53ef\u6267\u884c\u4fee\u590d\u610f\u89c1 \uff5c \u4e00\u952e\u5b89\u88c5\uff1anpx skills add lhg-skills/lhg-ui-review",
-    "id": "lhg-skills/lhg-ui-review",
-    "language": "Python",
-    "name": "lhg-skills/lhg-ui-review",
-    "stars": 0,
-    "updated_at": "2026-10-02T06:03:44Z",
-    "url": "https://github.com/lhg-skills/lhg-ui-review"
   }
 ]
