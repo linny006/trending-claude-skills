@@ -1,5 +1,95 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-02T09:29:17Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Vibe-Accelerated Intent Blocks",
+    "id": "Chalarangelo/vaib",
+    "language": "Python",
+    "name": "Chalarangelo/vaib",
+    "stars": 2,
+    "updated_at": "2026-10-02T09:28:39Z",
+    "url": "https://github.com/Chalarangelo/vaib"
+  },
+  {
+    "description": "ASD-STE100 (Simplified Technical English, Issue 9) for Claude Code: /ste mod, agent skill, and linter. Inspired by Karpa",
+    "id": "JAICHANGPARK/ASD-STE100",
+    "language": "JavaScript",
+    "name": "JAICHANGPARK/ASD-STE100",
+    "stars": 0,
+    "updated_at": "2026-10-02T09:25:35Z",
+    "url": "https://github.com/JAICHANGPARK/ASD-STE100"
+  },
+  {
+    "description": "\u9762\u5411 Spring Boot 4.x + Vue 3 \u9879\u76ee\u7684 Agent Skills \u5305\uff1a\u5f3a\u7ea6\u5b9a\u7684\u6807\u51c6\u6808\uff08Java 25 \u00b7 MyBatis-Plus \u00b7 PostgreSQL \u00b7 Redis\uff1bVue3 \u00b7 Vite \u00b7 Pinia \u00b7 ",
+    "id": "yangxj96/spring-vue-stack",
+    "language": "JavaScript",
+    "name": "yangxj96/spring-vue-stack",
+    "stars": 0,
+    "updated_at": "2026-10-02T09:24:14Z",
+    "url": "https://github.com/yangxj96/spring-vue-stack"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-02T09:30:06Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-10-02T09:21:26Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Lightweight, local-first Python DAG workflow compiler and execution engine with human-in-the-loop checkpoints for CLI an",
+    "id": "google/lightflow",
+    "language": "Python",
+    "name": "google/lightflow",
+    "stars": 0,
+    "updated_at": "2026-10-02T09:19:34Z",
+    "url": "https://github.com/google/lightflow"
+  },
+  {
+    "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
+    "id": "ice-lfernandes/claude-spring-architect",
+    "language": "Java",
+    "name": "ice-lfernandes/claude-spring-architect",
+    "stars": 3,
+    "updated_at": "2026-10-02T09:16:45Z",
+    "url": "https://github.com/ice-lfernandes/claude-spring-architect"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 53,
+    "updated_at": "2026-10-02T09:15:19Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T09:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skill for Claude Code, Cursor, Codex and Windsurf: put a finished static site online with DropTheHassle (free HTTP",
     "id": "bosmdavid-gif/dropthehassle-skill",
     "language": "JavaScript",
@@ -13,18 +103,9 @@
     "id": "5hyuns/ad-copy-agency-skill",
     "language": "Python",
     "name": "5hyuns/ad-copy-agency-skill",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-02T09:14:14Z",
     "url": "https://github.com/5hyuns/ad-copy-agency-skill"
-  },
-  {
-    "description": "ASD-STE100 (Simplified Technical English, Issue 9) for Claude Code: /ste mod, agent skill, and linter. Inspired by Karpa",
-    "id": "JAICHANGPARK/ASD-STE100",
-    "language": "JavaScript",
-    "name": "JAICHANGPARK/ASD-STE100",
-    "stars": 0,
-    "updated_at": "2026-10-02T09:14:08Z",
-    "url": "https://github.com/JAICHANGPARK/ASD-STE100"
   },
   {
     "description": "Claude Code skills for developers who code like cats \u2014 never more effort than the problem requires.",
@@ -34,15 +115,6 @@
     "stars": 51,
     "updated_at": "2026-10-02T09:13:15Z",
     "url": "https://github.com/albertobarnabo/lazy-cat"
-  },
-  {
-    "description": "Vibe-Accelerated Intent Blocks",
-    "id": "Chalarangelo/vaib",
-    "language": "Shell",
-    "name": "Chalarangelo/vaib",
-    "stars": 2,
-    "updated_at": "2026-10-02T09:11:50Z",
-    "url": "https://github.com/Chalarangelo/vaib"
   },
   {
     "description": "Replace boring SaaS with a bunch of skills and have them self-update. Skills for Codex/Hermes etc. that marketers and fr",
@@ -144,21 +216,12 @@
     "url": "https://github.com/geml-spec/geml"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-02T09:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69754,
-    "updated_at": "2026-10-02T09:09:39Z",
+    "updated_at": "2026-10-02T09:25:46Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -166,7 +229,7 @@
     "id": "cloveric/claude-drawing-skill",
     "language": "Python",
     "name": "cloveric/claude-drawing-skill",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-10-02T08:59:32Z",
     "url": "https://github.com/cloveric/claude-drawing-skill"
   },
@@ -193,7 +256,7 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1645,
+    "stars": 1646,
     "updated_at": "2026-10-02T08:53:20Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
@@ -239,17 +302,8 @@
     "language": "Shell",
     "name": "l4ci/hv-skills",
     "stars": 0,
-    "updated_at": "2026-10-02T09:11:54Z",
+    "updated_at": "2026-10-02T09:28:29Z",
     "url": "https://github.com/l4ci/hv-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-02T08:46:04Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "A Claude Code skill that measures video on your Mac: UI animation timing and easing as CSS, scene cuts, on-screen text a",
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 323,
-    "updated_at": "2026-10-02T08:41:22Z",
+    "updated_at": "2026-10-02T09:28:48Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T08:22:50Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:19:41Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "\u901a\u7528\u3001\u6a21\u5757\u5316\u7684\u81ea\u5a92\u4f53\u5185\u5bb9\u751f\u4ea7\u4e0e\u7ecf\u8425 Skills / A modular, tool-agnostic self-media content skill suite",
-    "id": "yanhua1010/self-media-content-workflow",
-    "language": "Python",
-    "name": "yanhua1010/self-media-content-workflow",
-    "stars": 493,
-    "updated_at": "2026-10-02T08:19:19Z",
-    "url": "https://github.com/yanhua1010/self-media-content-workflow"
-  },
-  {
-    "description": "Desktop app for macOS, Windows, and Linux that installs Claude Code and curated tools \u2014 every action shown as a plan and",
-    "id": "SteveKinzey/claude-code-tools-installer",
-    "language": "JavaScript",
-    "name": "SteveKinzey/claude-code-tools-installer",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:19:28Z",
-    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
-  },
-  {
-    "description": "200+ production-ready Claude Code skills for sales, marketing, design, engineering, and AI agent architecture. Built and",
-    "id": "OneWave-AI/claude-skills",
-    "language": "Python",
-    "name": "OneWave-AI/claude-skills",
-    "stars": 313,
-    "updated_at": "2026-10-02T08:18:42Z",
-    "url": "https://github.com/OneWave-AI/claude-skills"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:14:43Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:13:25Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
