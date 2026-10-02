@@ -1,5 +1,113 @@
 [
   {
+    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
+    "id": "LinklyAI/best-skills",
+    "language": "\u2014",
+    "name": "LinklyAI/best-skills",
+    "stars": 625,
+    "updated_at": "2026-10-02T00:58:48Z",
+    "url": "https://github.com/LinklyAI/best-skills"
+  },
+  {
+    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 447,
+    "updated_at": "2026-10-02T00:56:49Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
+    "id": "ashfulcra/fulcra-tools",
+    "language": "Python",
+    "name": "ashfulcra/fulcra-tools",
+    "stars": 10,
+    "updated_at": "2026-10-02T00:56:17Z",
+    "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
+    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
+    "id": "jiawood2006/hermes-skills",
+    "language": "Python",
+    "name": "jiawood2006/hermes-skills",
+    "stars": 2,
+    "updated_at": "2026-10-02T00:55:17Z",
+    "url": "https://github.com/jiawood2006/hermes-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69742,
+    "updated_at": "2026-10-02T00:55:50Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Utsuri transforms code changes into evidence-based, human-readable visual reviews. It connects Git hunks, intent, real-b",
+    "id": "hokupod/utsuri",
+    "language": "JavaScript",
+    "name": "hokupod/utsuri",
+    "stars": 2,
+    "updated_at": "2026-10-02T00:56:03Z",
+    "url": "https://github.com/hokupod/utsuri"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 27,
+    "updated_at": "2026-10-02T00:50:50Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
+    "id": "SELAT-AI/selat-plugins",
+    "language": "Shell",
+    "name": "SELAT-AI/selat-plugins",
+    "stars": 1,
+    "updated_at": "2026-10-02T00:49:44Z",
+    "url": "https://github.com/SELAT-AI/selat-plugins"
+  },
+  {
+    "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
+    "id": "Joe-Simo/a0",
+    "language": "TypeScript",
+    "name": "Joe-Simo/a0",
+    "stars": 0,
+    "updated_at": "2026-10-02T00:49:31Z",
+    "url": "https://github.com/Joe-Simo/a0"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-02T00:45:27Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Agent skills for building with the spinf scoring API (Claude Code plugin marketplace and skills.sh)",
+    "id": "spinfinc/skills",
+    "language": "\u2014",
+    "name": "spinfinc/skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T00:45:18Z",
+    "url": "https://github.com/spinfinc/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T00:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
     "id": "filippolmt/skills",
     "language": "HTML",
@@ -14,7 +122,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-02T00:43:59Z",
+    "updated_at": "2026-10-02T00:49:12Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -34,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T00:39:39Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "JavaScript",
-    "name": "geml-spec/geml",
-    "stars": 27,
-    "updated_at": "2026-10-02T00:39:10Z",
-    "url": "https://github.com/geml-spec/geml"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -68,7 +167,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-02T00:35:32Z",
+    "updated_at": "2026-10-02T01:00:09Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -90,24 +189,6 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-02T00:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69743,
-    "updated_at": "2026-10-02T00:37:31Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
     "id": "nullphase-net/enfurbish",
     "language": "TypeScript",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 0,
-    "updated_at": "2026-10-02T00:29:33Z",
+    "updated_at": "2026-10-02T00:51:54Z",
     "url": "https://github.com/MrBinnacle/skills"
   },
   {
@@ -315,15 +396,6 @@
     "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
-    "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
-    "id": "Joe-Simo/a0",
-    "language": "TypeScript",
-    "name": "Joe-Simo/a0",
-    "stars": 0,
-    "updated_at": "2026-10-02T00:05:51Z",
-    "url": "https://github.com/Joe-Simo/a0"
-  },
-  {
     "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
     "id": "haoming-luo/agentfem",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T23:58:17Z",
     "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-02T00:40:05Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-10-02T00:37:17Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-10-01T23:56:37Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
-    "id": "gagip/gagip-dev",
-    "language": "Python",
-    "name": "gagip/gagip-dev",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:56:10Z",
-    "url": "https://github.com/gagip/gagip-dev"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-10-01T23:54:12Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "CLI & library to faithfully translate coding agent customizations across harnesses",
-    "id": "Texarkanine/a16n",
-    "language": "TypeScript",
-    "name": "Texarkanine/a16n",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:52:52Z",
-    "url": "https://github.com/Texarkanine/a16n"
-  },
-  {
-    "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
-    "id": "indocindesertplant48/claude-vault",
-    "language": "TypeScript",
-    "name": "indocindesertplant48/claude-vault",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:48:19Z",
-    "url": "https://github.com/indocindesertplant48/claude-vault"
-  },
-  {
-    "description": "A browser inside your terminal",
-    "id": "zenbu-labs/terminal-browser",
-    "language": "Rust",
-    "name": "zenbu-labs/terminal-browser",
-    "stars": 3581,
-    "updated_at": "2026-10-01T23:48:05Z",
-    "url": "https://github.com/zenbu-labs/terminal-browser"
   }
 ]
