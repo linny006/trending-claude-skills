@@ -1,11 +1,119 @@
 [
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30862,
+    "updated_at": "2026-10-02T22:14:22Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Go",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T22:14:22Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 10,
+    "updated_at": "2026-10-02T22:11:48Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Agent skills and plugins for AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity. One plugin marketpla",
+    "id": "ph3on1x/agent-plugins-skills",
+    "language": "TypeScript",
+    "name": "ph3on1x/agent-plugins-skills",
+    "stars": 0,
+    "updated_at": "2026-10-02T22:09:40Z",
+    "url": "https://github.com/ph3on1x/agent-plugins-skills"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 258,
+    "updated_at": "2026-10-02T22:13:19Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
+    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "language": "Python",
+    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "stars": 16,
+    "updated_at": "2026-10-02T22:08:50Z",
+    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 13,
+    "updated_at": "2026-10-02T22:07:44Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Claude skill for scripting multi-clip AI videos in VideoExpress 3.5: multishot prompts, Create Mode styles, chaining and",
+    "id": "ratava/videoexpress-scripting-skill",
+    "language": "\u2014",
+    "name": "ratava/videoexpress-scripting-skill",
+    "stars": 0,
+    "updated_at": "2026-10-02T22:14:42Z",
+    "url": "https://github.com/ratava/videoexpress-scripting-skill"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-02T22:04:58Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69760,
+    "updated_at": "2026-10-02T22:03:42Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dep",
+    "id": "ice-lfernandes/claude-spring-architect",
+    "language": "Java",
+    "name": "ice-lfernandes/claude-spring-architect",
+    "stars": 3,
+    "updated_at": "2026-10-02T22:03:30Z",
+    "url": "https://github.com/ice-lfernandes/claude-spring-architect"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-02T22:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
     "id": "inkatze/planwright",
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 5,
-    "updated_at": "2026-10-02T21:58:57Z",
+    "updated_at": "2026-10-02T22:10:44Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -95,7 +203,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-02T21:54:57Z",
+    "updated_at": "2026-10-02T22:04:28Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -117,15 +225,6 @@
     "url": "https://github.com/ralvarezdev/ralvaskills"
   },
   {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 258,
-    "updated_at": "2026-10-02T21:52:39Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
     "description": "Compact Claude Code sessions early to save cost without losing anything: archive every transcript before compaction (Pre",
     "id": "yikaiwang1/claude-compact-archive",
     "language": "Shell",
@@ -133,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T21:48:09Z",
     "url": "https://github.com/yikaiwang1/claude-compact-archive"
-  },
-  {
-    "description": "Claude skill for scripting multi-clip AI videos in VideoExpress 3.5: multishot prompts, Create Mode styles, chaining and",
-    "id": "ratava/videoexpress-scripting-skill",
-    "language": "\u2014",
-    "name": "ratava/videoexpress-scripting-skill",
-    "stars": 0,
-    "updated_at": "2026-10-02T21:47:23Z",
-    "url": "https://github.com/ratava/videoexpress-scripting-skill"
   },
   {
     "description": "\u81fa\u7063 K-12 \u6559\u80b2 Agent Harness \u2014 108 \u8ab2\u7db1\u6559\u5b78\u6280\u80fd\u4e09\u5c64\u67b6\u69cb\uff08Skill / Bundle / Preset\uff09",
@@ -162,15 +252,6 @@
     "url": "https://github.com/vast-ai/vast-cli"
   },
   {
-    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
-    "id": "l4ci/hv-skills",
-    "language": "Go",
-    "name": "l4ci/hv-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T21:46:14Z",
-    "url": "https://github.com/l4ci/hv-skills"
-  },
-  {
     "description": "Apply to Jobs with Jev and Claude Code",
     "id": "qbeka/applywithjev",
     "language": "TypeScript",
@@ -189,15 +270,6 @@
     "url": "https://github.com/grundmanise/agentx"
   },
   {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 13,
-    "updated_at": "2026-10-02T21:45:52Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
     "description": "Fourteen Claude skills for evidence-backed industry, competitor, case and GLO-BUS analysis \u2014 industry overview, 10-K-see",
     "id": "Brads777/stratos-external-analysis",
     "language": "Python",
@@ -207,24 +279,6 @@
     "url": "https://github.com/Brads777/stratos-external-analysis"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-02T21:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69761,
-    "updated_at": "2026-10-02T21:44:44Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Claude Code skill: run an approved implementation plan as parallel lanes of reviewed tasks",
     "id": "noderaven/parallel-lanes",
     "language": "JavaScript",
@@ -232,24 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T21:43:12Z",
     "url": "https://github.com/noderaven/parallel-lanes"
-  },
-  {
-    "description": "Agent skills and plugins for AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity. One plugin marketpla",
-    "id": "ph3on1x/agent-plugins-skills",
-    "language": "TypeScript",
-    "name": "ph3on1x/agent-plugins-skills",
-    "stars": 0,
-    "updated_at": "2026-10-02T21:42:43Z",
-    "url": "https://github.com/ph3on1x/agent-plugins-skills"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 10,
-    "updated_at": "2026-10-02T21:42:36Z",
-    "url": "https://github.com/victorrentea/human-review"
   },
   {
     "description": "Publication-ready research figures from a single command: forest plots, KM curves with risk tables, PRISMA 2020, ROC wit",
@@ -270,21 +306,12 @@
     "url": "https://github.com/Rishab-Ghosh/reviewer-zero"
   },
   {
-    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
-    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "language": "Python",
-    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "stars": 16,
-    "updated_at": "2026-10-02T21:54:56Z",
-    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
-  },
-  {
     "description": "Agent Skill that interviews you until every detail is settled, then writes a validated Markdown handoff pack so Claude C",
     "id": "SergVina/Handoff-pack-skill",
     "language": "Shell",
     "name": "SergVina/Handoff-pack-skill",
     "stars": 1,
-    "updated_at": "2026-10-02T21:38:00Z",
+    "updated_at": "2026-10-02T22:01:04Z",
     "url": "https://github.com/SergVina/Handoff-pack-skill"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-02T21:16:00Z",
     "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Skills and agents for Claude and Gemini",
-    "id": "AnaCataVC/amiga-ia",
-    "language": "JavaScript",
-    "name": "AnaCataVC/amiga-ia",
-    "stars": 1,
-    "updated_at": "2026-10-02T21:15:38Z",
-    "url": "https://github.com/AnaCataVC/amiga-ia"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 7243,
-    "updated_at": "2026-10-02T21:47:31Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-02T21:09:44Z",
-    "url": "https://github.com/gaia-react/gaia"
   }
 ]
