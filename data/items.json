@@ -1,21 +1,102 @@
 [
   {
+    "description": "17 modular skills that give Claude Code's everyday loop \u2014 brainstorm, plan, build, review, document \u2014 a fixed shape.",
+    "id": "matis-dev/m-skills",
+    "language": "Shell",
+    "name": "matis-dev/m-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T20:29:49Z",
+    "url": "https://github.com/matis-dev/m-skills"
+  },
+  {
+    "description": "Design intelligence for AI coding agents: 19 skills, 109 world design styles (Bauhaus \u2192 \u0130znik \u2192 Y2K), every medium (UI/U",
+    "id": "cumabozkurt/god-of-design",
+    "language": "JavaScript",
+    "name": "cumabozkurt/god-of-design",
+    "stars": 0,
+    "updated_at": "2026-10-03T20:28:44Z",
+    "url": "https://github.com/cumabozkurt/god-of-design"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-03T20:28:36Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/skills",
+    "language": "Python",
+    "name": "TsukiNi22/skills",
+    "stars": 1,
+    "updated_at": "2026-10-03T20:28:33Z",
+    "url": "https://github.com/TsukiNi22/skills"
+  },
+  {
+    "description": "Skill Heaven -- for real software engineers. Agent Plugin that treats your skills like RAM, not Storage. Summon skills w",
+    "id": "gaia-research/gaia-skill-heaven",
+    "language": "JavaScript",
+    "name": "gaia-research/gaia-skill-heaven",
+    "stars": 4,
+    "updated_at": "2026-10-03T20:28:32Z",
+    "url": "https://github.com/gaia-research/gaia-skill-heaven"
+  },
+  {
     "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
     "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "language": "Python",
     "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "stars": 16,
-    "updated_at": "2026-10-03T20:14:25Z",
+    "updated_at": "2026-10-03T20:28:45Z",
     "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
+    "description": "Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.",
+    "id": "dembrandt/dembrandt-skills",
+    "language": "JavaScript",
+    "name": "dembrandt/dembrandt-skills",
+    "stars": 64,
+    "updated_at": "2026-10-03T20:25:13Z",
+    "url": "https://github.com/dembrandt/dembrandt-skills"
+  },
+  {
+    "description": "The Karpathy Ladder for Claude Code: explain anything as ASD-STE100 prose, a diagram, an engineering-drawing spec sheet ",
+    "id": "FutureAtoms/karpathy-ladder",
+    "language": "Python",
+    "name": "FutureAtoms/karpathy-ladder",
+    "stars": 0,
+    "updated_at": "2026-10-03T20:30:11Z",
+    "url": "https://github.com/FutureAtoms/karpathy-ladder"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly \u2014 tried in Claude and Claude Code.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T20:17:34Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-03T20:13:09Z",
-    "url": "https://github.com/martinambrus/haive"
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69771,
+    "updated_at": "2026-10-03T20:16:30Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-10-03T20:16:23Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -23,17 +104,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 50,
-    "updated_at": "2026-10-03T20:12:54Z",
+    "updated_at": "2026-10-03T20:15:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "17 modular skills that give Claude Code's everyday loop \u2014 brainstorm, plan, build, review, document \u2014 a fixed shape.",
-    "id": "matis-dev/m-skills",
-    "language": "Shell",
-    "name": "matis-dev/m-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T20:12:13Z",
-    "url": "https://github.com/matis-dev/m-skills"
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-03T20:29:35Z",
+    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Agent skills (SKILL.md) for TypeScript and JavaScript developers: tested scripts, no guessing.",
@@ -45,15 +126,6 @@
     "url": "https://github.com/realdreamer/agent-skills"
   },
   {
-    "description": "Skill Heaven -- for real software engineers. Agent Plugin that treats your skills like RAM, not Storage. Summon skills w",
-    "id": "gaia-research/gaia-skill-heaven",
-    "language": "JavaScript",
-    "name": "gaia-research/gaia-skill-heaven",
-    "stars": 4,
-    "updated_at": "2026-10-03T20:09:07Z",
-    "url": "https://github.com/gaia-research/gaia-skill-heaven"
-  },
-  {
     "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
     "id": "l4ci/hv-skills",
     "language": "Go",
@@ -63,30 +135,12 @@
     "url": "https://github.com/l4ci/hv-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69770,
-    "updated_at": "2026-10-03T20:11:44Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/skills",
-    "language": "HTML",
-    "name": "TsukiNi22/skills",
-    "stars": 1,
-    "updated_at": "2026-10-03T20:14:24Z",
-    "url": "https://github.com/TsukiNi22/skills"
-  },
-  {
     "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
     "id": "hoangsonww/Claude-Code-Agent-Monitor",
     "language": "JavaScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 1038,
-    "updated_at": "2026-10-03T20:06:22Z",
+    "updated_at": "2026-10-03T20:29:41Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -106,15 +160,6 @@
     "stars": 11,
     "updated_at": "2026-10-03T20:02:40Z",
     "url": "https://github.com/metahub-ai/assay"
-  },
-  {
-    "description": "The Karpathy Ladder for Claude Code: explain anything as ASD-STE100 prose, a diagram, an engineering-drawing spec sheet ",
-    "id": "FutureAtoms/karpathy-ladder",
-    "language": "Python",
-    "name": "FutureAtoms/karpathy-ladder",
-    "stars": 0,
-    "updated_at": "2026-10-03T20:00:21Z",
-    "url": "https://github.com/FutureAtoms/karpathy-ladder"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "scenario-labs/skills",
     "stars": 851,
-    "updated_at": "2026-10-03T20:07:29Z",
+    "updated_at": "2026-10-03T20:26:14Z",
     "url": "https://github.com/scenario-labs/skills"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-03T19:25:15Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-10-03T19:23:05Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly \u2014 tried in Claude and Claude Code.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T19:31:33Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 261,
-    "updated_at": "2026-10-03T19:20:49Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-03T19:19:05Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Free, open SKILL.md skills for AI agents, by area of life: daily ops, health, parenting, money, home, car, work. CC0.",
-    "id": "swarmhq-skills/agent-skills",
-    "language": "\u2014",
-    "name": "swarmhq-skills/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T19:15:49Z",
-    "url": "https://github.com/swarmhq-skills/agent-skills"
   }
 ]
