@@ -1,5 +1,41 @@
 [
   {
+    "description": "Agent skill for Claude Code, Cursor, OpenCode and more: sell access to a private GitHub repo with Stripe. Hands you to t",
+    "id": "EdgeKits/repoaccess-skill",
+    "language": "\u2014",
+    "name": "EdgeKits/repoaccess-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T07:59:51Z",
+    "url": "https://github.com/EdgeKits/repoaccess-skill"
+  },
+  {
+    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
+    "id": "mickzijdel/dev-hooks",
+    "language": "Python",
+    "name": "mickzijdel/dev-hooks",
+    "stars": 0,
+    "updated_at": "2026-10-03T07:58:56Z",
+    "url": "https://github.com/mickzijdel/dev-hooks"
+  },
+  {
+    "description": "Spec-driven pipeline for coding agents: nine skills and gates the agent cannot skip. Each runtime works on its own model",
+    "id": "shepaland/LexForge",
+    "language": "TypeScript",
+    "name": "shepaland/LexForge",
+    "stars": 1,
+    "updated_at": "2026-10-03T07:58:46Z",
+    "url": "https://github.com/shepaland/LexForge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T07:58:01Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Two Agent Skills that help an AI agent make an interface clear, consistent, easy to use and scalable, and Russian text c",
     "id": "nickture/skills",
     "language": "\u2014",
@@ -59,17 +95,8 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69764,
-    "updated_at": "2026-10-03T07:55:29Z",
+    "updated_at": "2026-10-03T07:58:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Spec-driven pipeline for coding agents: nine skills and gates the agent cannot skip. Each runtime works on its own model",
-    "id": "shepaland/LexForge",
-    "language": "TypeScript",
-    "name": "shepaland/LexForge",
-    "stars": 1,
-    "updated_at": "2026-10-03T07:52:21Z",
-    "url": "https://github.com/shepaland/LexForge"
   },
   {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
@@ -97,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-10-03T07:45:58Z",
     "url": "https://github.com/getedgehq/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T07:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Audit, plan, and adapt SwiftUI and UIKit apps for iPhone Duo, foldables, hinges, and multi-display layouts.",
@@ -176,7 +194,7 @@
     "language": "Go",
     "name": "l4ci/hv-skills",
     "stars": 0,
-    "updated_at": "2026-10-03T07:51:26Z",
+    "updated_at": "2026-10-03T07:58:58Z",
     "url": "https://github.com/l4ci/hv-skills"
   },
   {
@@ -396,15 +414,6 @@
     "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
   },
   {
-    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
-    "id": "mickzijdel/dev-hooks",
-    "language": "Python",
-    "name": "mickzijdel/dev-hooks",
-    "stars": 0,
-    "updated_at": "2026-10-03T07:32:39Z",
-    "url": "https://github.com/mickzijdel/dev-hooks"
-  },
-  {
     "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
     "id": "Georgiannebedded725/zenodo-skill",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T07:32:19Z",
     "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-10-03T07:32:18Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
   }
 ]
