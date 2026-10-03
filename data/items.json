@@ -1,12 +1,57 @@
 [
   {
-    "description": "Agent skills for evaluating, planning and stress-testing ideas (Claude, Copilot, ChatGPT)",
-    "id": "Sae-l/Idea-Evaluation",
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
     "language": "Python",
-    "name": "Sae-l/Idea-Evaluation",
-    "stars": 1,
-    "updated_at": "2026-10-03T00:30:05Z",
-    "url": "https://github.com/Sae-l/Idea-Evaluation"
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-10-03T00:44:20Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Desktop app for macOS, Windows, and Linux that installs Claude Code and curated tools \u2014 every action shown as a plan and",
+    "id": "SteveKinzey/claude-code-tools-installer",
+    "language": "JavaScript",
+    "name": "SteveKinzey/claude-code-tools-installer",
+    "stars": 0,
+    "updated_at": "2026-10-03T00:45:09Z",
+    "url": "https://github.com/SteveKinzey/claude-code-tools-installer"
+  },
+  {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-03T00:42:40Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude Code as a second brain: 100 battle-tested skills, a working CRM engine, vault templates and the handover map. Met",
+    "id": "tonydzi/second-brain-starter-kit",
+    "language": "Python",
+    "name": "tonydzi/second-brain-starter-kit",
+    "stars": 9,
+    "updated_at": "2026-10-03T00:41:38Z",
+    "url": "https://github.com/tonydzi/second-brain-starter-kit"
+  },
+  {
+    "description": "\u96d9\u8a9e\u6a19\u8a3b\u5de5\u5177 / Zweisprachiges Annotations-Toolkit / Bilingual Annotator Toolkit",
+    "id": "si-kui-a/Bilingual-Annotator-Toolkit",
+    "language": "Python",
+    "name": "si-kui-a/Bilingual-Annotator-Toolkit",
+    "stars": 0,
+    "updated_at": "2026-10-03T00:41:09Z",
+    "url": "https://github.com/si-kui-a/Bilingual-Annotator-Toolkit"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Go",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T00:40:53Z",
+    "url": "https://github.com/l4ci/hv-skills"
   },
   {
     "description": "Apply to Jobs with Jev and Claude Code",
@@ -14,8 +59,62 @@
     "language": "TypeScript",
     "name": "qbeka/applywithjev",
     "stars": 1,
-    "updated_at": "2026-10-03T00:29:44Z",
+    "updated_at": "2026-10-03T00:40:35Z",
     "url": "https://github.com/qbeka/applywithjev"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 323,
+    "updated_at": "2026-10-03T00:40:02Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Agent skills to evaluate, prioritize, plan and red-team ideas (Claude, Copilot, ChatGPT)",
+    "id": "Sae-l/Idea-Evaluation",
+    "language": "Python",
+    "name": "Sae-l/Idea-Evaluation",
+    "stars": 1,
+    "updated_at": "2026-10-03T00:42:14Z",
+    "url": "https://github.com/Sae-l/Idea-Evaluation"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-03T00:37:24Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Six Claude Code skills that work in any project: rule sets that load only when called, a dev round, codex sessions, roas",
+    "id": "sijav/Sijav-Skills",
+    "language": "Python",
+    "name": "sijav/Sijav-Skills",
+    "stars": 1,
+    "updated_at": "2026-10-03T00:36:42Z",
+    "url": "https://github.com/sijav/Sijav-Skills"
+  },
+  {
+    "description": "",
+    "id": "madisonrickert/claude-skills",
+    "language": "\u2014",
+    "name": "madisonrickert/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-10-03T00:33:21Z",
+    "url": "https://github.com/madisonrickert/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T00:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Zero-dependency Bun CLI + Claude Code skill for the UniFi Network Integrations API",
@@ -25,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T00:29:42Z",
     "url": "https://github.com/baileywickham/unifi-cli"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 28,
-    "updated_at": "2026-10-03T00:28:58Z",
-    "url": "https://github.com/Borda/AI-Rig"
   },
   {
     "description": "Native macOS utility for Claude Desktop 3P inference. Features HTTP/1.1 persistent keep-alive proxy, wire-model rewritin",
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69760,
-    "updated_at": "2026-10-03T00:30:05Z",
+    "updated_at": "2026-10-03T00:36:26Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -61,15 +151,6 @@
     "stars": 10,
     "updated_at": "2026-10-03T00:25:51Z",
     "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
-    "id": "l4ci/hv-skills",
-    "language": "Go",
-    "name": "l4ci/hv-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T00:26:02Z",
-    "url": "https://github.com/l4ci/hv-skills"
   },
   {
     "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cur",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "stars": 16,
-    "updated_at": "2026-10-03T00:26:38Z",
+    "updated_at": "2026-10-03T00:39:53Z",
     "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-03T00:17:32Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
     "id": "yngbrll/vb-winforms-toolkit",
     "language": "HTML",
@@ -198,15 +270,6 @@
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T00:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
     "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
     "language": "HTML",
@@ -221,7 +284,7 @@
     "language": "Shell",
     "name": "solanabr/ai-kit",
     "stars": 106,
-    "updated_at": "2026-10-03T00:14:39Z",
+    "updated_at": "2026-10-03T00:44:48Z",
     "url": "https://github.com/solanabr/ai-kit"
   },
   {
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "MadaraUchiha-314/the-loop",
     "stars": 6,
-    "updated_at": "2026-10-03T00:09:40Z",
+    "updated_at": "2026-10-03T00:34:22Z",
     "url": "https://github.com/MadaraUchiha-314/the-loop"
   },
   {
@@ -338,7 +401,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-02T23:36:22Z",
+    "updated_at": "2026-10-03T00:40:49Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 13,
     "updated_at": "2026-10-02T23:30:01Z",
     "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Skills for coding agents, one installable plugin per folder. Includes cf-cli: the Cloudflare CLI (cf) manual, condensed ",
-    "id": "validllc/skills",
-    "language": "\u2014",
-    "name": "validllc/skills",
-    "stars": 1,
-    "updated_at": "2026-10-02T23:29:19Z",
-    "url": "https://github.com/validllc/skills"
-  },
-  {
-    "description": "Native, local-first knowledge graph engine for code and project artifacts\u2014inspired by Graphify, built in Rust, and evolv",
-    "id": "crabbuild/compass",
-    "language": "Rust",
-    "name": "crabbuild/compass",
-    "stars": 165,
-    "updated_at": "2026-10-02T23:28:05Z",
-    "url": "https://github.com/crabbuild/compass"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-02T23:26:03Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 54,
-    "updated_at": "2026-10-02T23:22:17Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-10-02T23:21:22Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-10-02T23:20:39Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
-    "id": "AN0099/toothpaste-kit",
-    "language": "Python",
-    "name": "AN0099/toothpaste-kit",
-    "stars": 1,
-    "updated_at": "2026-10-02T23:15:20Z",
-    "url": "https://github.com/AN0099/toothpaste-kit"
   }
 ]
