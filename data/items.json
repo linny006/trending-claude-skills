@@ -1,5 +1,131 @@
 [
   {
+    "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandb",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 148,
+    "updated_at": "2026-10-03T06:59:54Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Handcrafted Agent Skills \u00b7 PPT/PDF \u2192 page-by-page explainer video with AI narration and burned-in subtitles, rendered lo",
+    "id": "cernetman/agent-skills",
+    "language": "Python",
+    "name": "cernetman/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:58:49Z",
+    "url": "https://github.com/cernetman/agent-skills"
+  },
+  {
+    "description": "Five agent skills for guided single-cell RNA-seq analysis in Codex, Claude Code, and DeepSeek Harness.",
+    "id": "Sculptor815/scrna-seq-workbench",
+    "language": "Python",
+    "name": "Sculptor815/scrna-seq-workbench",
+    "stars": 1,
+    "updated_at": "2026-10-03T06:59:30Z",
+    "url": "https://github.com/Sculptor815/scrna-seq-workbench"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69763,
+    "updated_at": "2026-10-03T07:00:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-03T06:56:29Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "Draw first, code second, measure both. Design-first skill for AI coding agents (Claude Code, Cursor, Codex) + zero-depen",
+    "id": "kennetvn/nextcore-design",
+    "language": "JavaScript",
+    "name": "kennetvn/nextcore-design",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:55:59Z",
+    "url": "https://github.com/kennetvn/nextcore-design"
+  },
+  {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-10-03T06:58:24Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "The self-improving context engine for coding agents.",
+    "id": "aerovato/operator-memory",
+    "language": "TypeScript",
+    "name": "aerovato/operator-memory",
+    "stars": 69,
+    "updated_at": "2026-10-03T06:52:39Z",
+    "url": "https://github.com/aerovato/operator-memory"
+  },
+  {
+    "description": "Lightweight, local-first Python DAG workflow compiler and execution engine with human-in-the-loop checkpoints for CLI an",
+    "id": "google/lightflow",
+    "language": "Python",
+    "name": "google/lightflow",
+    "stars": 12,
+    "updated_at": "2026-10-03T06:49:14Z",
+    "url": "https://github.com/google/lightflow"
+  },
+  {
+    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 88 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, paid media, social list",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 16,
+    "updated_at": "2026-10-03T06:47:20Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "CUQU\u627e\u642d\u5b50\u5b98\u65b9 Agent Skill\uff1a\u8ba9\u4efb\u610f AI Agent\uff08Claude Code/Codex/Cursor/WorkBuddy\uff09\u4ee3\u7528\u6237\u627e\u540c\u57ce\u7ebf\u4e0b\u5c40\u3001\u62a5\u540d\u3001\u652f\u4ed8\u3001\u53d1\u5c40\u3002MCP Streamable HTTP + \u4e2a\u4eba API Ke",
+    "id": "cuqu-net/cuqu-skill",
+    "language": "Python",
+    "name": "cuqu-net/cuqu-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:46:47Z",
+    "url": "https://github.com/cuqu-net/cuqu-skill"
+  },
+  {
+    "description": "Bulk-delete old Claude Code scheduled-task (routine) runs safely: keeps the newest N and every run you replied in. A Cla",
+    "id": "naw103/claude-routine-cleanup",
+    "language": "Python",
+    "name": "naw103/claude-routine-cleanup",
+    "stars": 1,
+    "updated_at": "2026-10-03T06:46:11Z",
+    "url": "https://github.com/naw103/claude-routine-cleanup"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-03T06:45:44Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T06:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "An Agent Skill that makes Word files with Thai text render correctly \u2014 tried in Claude and Claude Code.",
     "id": "sayam/thai-docx-skill",
     "language": "Python",
@@ -27,15 +153,6 @@
     "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
   },
   {
-    "description": "Draw first, code second, measure both. Design-first skill for AI coding agents (Claude Code, Cursor, Codex) + zero-depen",
-    "id": "kennetvn/nextcore-design",
-    "language": "JavaScript",
-    "name": "kennetvn/nextcore-design",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:40:58Z",
-    "url": "https://github.com/kennetvn/nextcore-design"
-  },
-  {
     "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
     "id": "l4ci/hv-skills",
     "language": "Go",
@@ -59,7 +176,7 @@
     "language": "Python",
     "name": "xr843/Master-skill",
     "stars": 437,
-    "updated_at": "2026-10-03T06:38:20Z",
+    "updated_at": "2026-10-03T06:58:39Z",
     "url": "https://github.com/xr843/Master-skill"
   },
   {
@@ -81,13 +198,13 @@
     "url": "https://github.com/fdtaljaard/claude-skills"
   },
   {
-    "description": "The self-improving context engine for coding agents.",
-    "id": "aerovato/operator-memory",
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
     "language": "TypeScript",
-    "name": "aerovato/operator-memory",
-    "stars": 69,
-    "updated_at": "2026-10-03T06:34:57Z",
-    "url": "https://github.com/aerovato/operator-memory"
+    "name": "thedotmack/claude-mem",
+    "stars": 95211,
+    "updated_at": "2026-10-03T06:33:20Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "",
@@ -108,24 +225,6 @@
     "url": "https://github.com/liustack/pptwise"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T06:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "CUQU\u627e\u642d\u5b50\u5b98\u65b9 Agent Skill\uff1a\u8ba9\u4efb\u610f AI Agent\uff08Claude Code/Codex/Cursor/WorkBuddy\uff09\u4ee3\u7528\u6237\u627e\u540c\u57ce\u7ebf\u4e0b\u5c40\u3001\u62a5\u540d\u3001\u652f\u4ed8\u3001\u53d1\u5c40\u3002MCP Streamable HTTP + \u4e2a\u4eba API Ke",
-    "id": "cuqu-net/cuqu-skill",
-    "language": "Python",
-    "name": "cuqu-net/cuqu-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:30:10Z",
-    "url": "https://github.com/cuqu-net/cuqu-skill"
-  },
-  {
     "description": "Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude ",
     "id": "JayPokale/Chisle",
     "language": "JavaScript",
@@ -144,15 +243,6 @@
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
-    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
-    "id": "slopstopper/plumb-line",
-    "language": "Python",
-    "name": "slopstopper/plumb-line",
-    "stars": 4,
-    "updated_at": "2026-10-03T06:41:15Z",
-    "url": "https://github.com/slopstopper/plumb-line"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -162,15 +252,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69762,
-    "updated_at": "2026-10-03T06:36:18Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Claude Code skills: a master Remotion video skill with ten specialists broken out of it, production deploys on GitHub Ac",
     "id": "tomerhayundev/skills",
     "language": "JavaScript",
@@ -178,24 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T06:25:02Z",
     "url": "https://github.com/tomerhayundev/skills"
-  },
-  {
-    "description": "Bulk-delete old Claude Code scheduled-task (routine) runs safely: keeps the newest N and every run you replied in. A Cla",
-    "id": "naw103/claude-routine-cleanup",
-    "language": "Python",
-    "name": "naw103/claude-routine-cleanup",
-    "stars": 1,
-    "updated_at": "2026-10-03T06:24:13Z",
-    "url": "https://github.com/naw103/claude-routine-cleanup"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-03T06:22:27Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
     "description": "Production-grade agent skills for Claude Code, Cursor and Codex: evidence research, product ops, QA, release gates and d",
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-03T06:42:16Z",
+    "updated_at": "2026-10-03T06:59:42Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -306,24 +369,6 @@
     "url": "https://github.com/hieu5882/telos-customer-validator"
   },
   {
-    "description": "Lightweight, local-first Python DAG workflow compiler and execution engine with human-in-the-loop checkpoints for CLI an",
-    "id": "google/lightflow",
-    "language": "Python",
-    "name": "google/lightflow",
-    "stars": 12,
-    "updated_at": "2026-10-03T06:11:45Z",
-    "url": "https://github.com/google/lightflow"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95210,
-    "updated_at": "2026-10-03T06:33:20Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
     "id": "bokyostudio/pg-practice-knowledgebase",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T06:05:20Z",
     "url": "https://github.com/humbleteam/extract-design-tokens"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-10-03T06:05:06Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Pixel-faithful HTML mockups from a reference screenshot - census first, then render",
-    "id": "humbleteam/html-mockup",
-    "language": "\u2014",
-    "name": "humbleteam/html-mockup",
-    "stars": 1,
-    "updated_at": "2026-10-03T06:05:05Z",
-    "url": "https://github.com/humbleteam/html-mockup"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 10,
-    "updated_at": "2026-10-03T06:03:54Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "Agent Skill: turn a guitar tab image (tablature + jianpu) into a play-along web page with a moving cursor, synced accomp",
-    "id": "jinjin20220405/guitar-playalong-simulator",
-    "language": "HTML",
-    "name": "jinjin20220405/guitar-playalong-simulator",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:01:43Z",
-    "url": "https://github.com/jinjin20220405/guitar-playalong-simulator"
-  },
-  {
-    "description": "Make AI code review less noisy: Claude Code skills that check every review comment against the code. Keeps 93% of real b",
-    "id": "TanayK07/pr-proof",
-    "language": "Python",
-    "name": "TanayK07/pr-proof",
-    "stars": 1,
-    "updated_at": "2026-10-03T05:55:07Z",
-    "url": "https://github.com/TanayK07/pr-proof"
   }
 ]
