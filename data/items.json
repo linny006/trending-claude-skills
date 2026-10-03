@@ -1,12 +1,84 @@
 [
   {
-    "description": "Claude Code skill: run an approved implementation plan as parallel lanes of reviewed tasks",
-    "id": "noderaven/parallel-lanes",
-    "language": "JavaScript",
-    "name": "noderaven/parallel-lanes",
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1148,
+    "updated_at": "2026-10-03T04:44:58Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69760,
+    "updated_at": "2026-10-03T04:40:28Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code / Codex skills that turn a video into a Chinese narration recap (\u89c6\u9891\u89e3\u8bf4): scene detection, ASR, VLM, script, T",
+    "id": "zenstory-ai/video-recap-skills",
+    "language": "Python",
+    "name": "zenstory-ai/video-recap-skills",
+    "stars": 545,
+    "updated_at": "2026-10-03T04:40:05Z",
+    "url": "https://github.com/zenstory-ai/video-recap-skills"
+  },
+  {
+    "description": "A file-based mailbox and operating model for running one project across several AI chats and agents. Plain Markdown, no ",
+    "id": "fightingforsidewalk/skill-claude-relay",
+    "language": "Python",
+    "name": "fightingforsidewalk/skill-claude-relay",
     "stars": 0,
-    "updated_at": "2026-10-03T04:29:13Z",
-    "url": "https://github.com/noderaven/parallel-lanes"
+    "updated_at": "2026-10-03T04:39:19Z",
+    "url": "https://github.com/fightingforsidewalk/skill-claude-relay"
+  },
+  {
+    "description": "V\u1ebd tr\u01b0\u1edbc, code sau \u2014 design-first skill cho AI agent (Claude Code/Cursor/Codex): kho\u00e1 token, 5 tr\u1ea1ng th\u00e1i, \u0111o tr\u00ean tr\u00ecnh",
+    "id": "kennetvn/nextcore-design",
+    "language": "JavaScript",
+    "name": "kennetvn/nextcore-design",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:38:54Z",
+    "url": "https://github.com/kennetvn/nextcore-design"
+  },
+  {
+    "description": "Stop copying and pasting between AI chats: Claude (or any LLM) relays messages for your other chats as Markdown files.",
+    "id": "fightingforsidewalk/vault-relay",
+    "language": "Python",
+    "name": "fightingforsidewalk/vault-relay",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:39:08Z",
+    "url": "https://github.com/fightingforsidewalk/vault-relay"
+  },
+  {
+    "description": "",
+    "id": "LevNas/ccmemo",
+    "language": "Python",
+    "name": "LevNas/ccmemo",
+    "stars": 4,
+    "updated_at": "2026-10-03T04:38:09Z",
+    "url": "https://github.com/LevNas/ccmemo"
+  },
+  {
+    "description": "\u4e2d\u6587\u7ade\u8d5b\u8c03\u7814\u62a5\u544a\u5199\u4f5c Agent Skill\uff1a\u7ed3\u8bba\u5f3a\u5ea6\u4e0d\u8d85\u8fc7\u8bc1\u636e\u5f3a\u5ea6\uff0c\u628a\u6750\u6599\u8303\u56f4\u3001\u5b9e\u540d\u6388\u6743\u3001\u5b57\u6570\u51c0\u53d8\u5316\u548c\u94fe\u63a5\u6838\u9a8c\u7ed3\u679c\u4e00\u5e76\u4ea4\u51fa",
+    "id": "brain898/write-competition-research-reports",
+    "language": "\u2014",
+    "name": "brain898/write-competition-research-reports",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:33:13Z",
+    "url": "https://github.com/brain898/write-competition-research-reports"
+  },
+  {
+    "description": "\u4e2d\u56fd\u5927\u5b66\u751f\u7684\u89c4\u5212\u7f57\u76d8 Agent Skill\uff1a\u6309\u516d\u6761\u6bd5\u4e1a\u8def\u7ebf\u7684\u8003\u5bdf\u7ef4\u5ea6\u6743\u91cd\uff0c\u5224\u65ad\u4f60\u624b\u4e0a\u7684\u7ecf\u5386\u503c\u7b2c\u51e0\u4f4d\uff0c\u6bcf\u4e2a\u5224\u65ad\u90fd\u5199\u660e\u4f9d\u636e",
+    "id": "brain898/college-compass",
+    "language": "\u2014",
+    "name": "brain898/college-compass",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:33:01Z",
+    "url": "https://github.com/brain898/college-compass"
   },
   {
     "description": "Battle-tested agent skills on judgment before action, distilled from real OSS work",
@@ -14,8 +86,35 @@
     "language": "\u2014",
     "name": "HelloWorldU/skill-collection",
     "stars": 0,
-    "updated_at": "2026-10-03T04:28:54Z",
+    "updated_at": "2026-10-03T04:31:52Z",
     "url": "https://github.com/HelloWorldU/skill-collection"
+  },
+  {
+    "description": "A skill for Unity game code walkthroughs: module analysis, call flow, architecture, and code structure, without decompil",
+    "id": "eighthoursleep/unity-game-codebase-walkthrough-skill",
+    "language": "\u2014",
+    "name": "eighthoursleep/unity-game-codebase-walkthrough-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:30:18Z",
+    "url": "https://github.com/eighthoursleep/unity-game-codebase-walkthrough-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T04:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code skill: run an approved implementation plan as parallel lanes of reviewed tasks",
+    "id": "noderaven/parallel-lanes",
+    "language": "JavaScript",
+    "name": "noderaven/parallel-lanes",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:29:13Z",
+    "url": "https://github.com/noderaven/parallel-lanes"
   },
   {
     "description": "The loop for everything!",
@@ -45,13 +144,13 @@
     "url": "https://github.com/notque/vexjoy-agent"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
     "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69760,
-    "updated_at": "2026-10-03T04:20:37Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+    "name": "thedotmack/claude-mem",
+    "stars": 95207,
+    "updated_at": "2026-10-03T04:17:51Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Claude Code as a second brain: 100 battle-tested skills, a working CRM engine, vault templates and the handover map. Met",
@@ -61,24 +160,6 @@
     "stars": 9,
     "updated_at": "2026-10-03T04:16:06Z",
     "url": "https://github.com/tonydzi/second-brain-starter-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T04:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1147,
-    "updated_at": "2026-10-03T04:25:34Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
@@ -149,7 +230,7 @@
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 126,
-    "updated_at": "2026-10-03T03:59:11Z",
+    "updated_at": "2026-10-03T04:42:59Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
@@ -178,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T03:54:26Z",
     "url": "https://github.com/artheras/skills"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95206,
-    "updated_at": "2026-10-03T04:17:51Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Playbooks that teach AI coding agents to fix Termux and Android failures: pip and npm native builds, proot, signal 9 kil",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T02:44:43Z",
     "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly \u2014 tried in Claude and Claude Code.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:54:51Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
-    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
-    "id": "Arindaag760/humanizer-cli",
-    "language": "JavaScript",
-    "name": "Arindaag760/humanizer-cli",
-    "stars": 2,
-    "updated_at": "2026-10-03T02:43:42Z",
-    "url": "https://github.com/Arindaag760/humanizer-cli"
-  },
-  {
-    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
-    "id": "slopstopper/plumb-line",
-    "language": "Python",
-    "name": "slopstopper/plumb-line",
-    "stars": 4,
-    "updated_at": "2026-10-03T03:04:28Z",
-    "url": "https://github.com/slopstopper/plumb-line"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:41:46Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
-    "id": "Scoundrelwildness456/i-have-adhd",
-    "language": "Python",
-    "name": "Scoundrelwildness456/i-have-adhd",
-    "stars": 5,
-    "updated_at": "2026-10-03T02:40:51Z",
-    "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 54,
-    "updated_at": "2026-10-03T02:38:11Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 2,
-    "updated_at": "2026-10-03T02:34:21Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "Agentic-native linting tool to enforce deterministic quality gates",
-    "id": "ironlint/ironlint",
-    "language": "Rust",
-    "name": "ironlint/ironlint",
-    "stars": 20,
-    "updated_at": "2026-10-03T02:33:42Z",
-    "url": "https://github.com/ironlint/ironlint"
   }
 ]
