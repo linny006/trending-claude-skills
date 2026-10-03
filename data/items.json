@@ -1,5 +1,131 @@
 [
   {
+    "description": "A self-learning system for Claude Code that captures corrections, positive feedback, and preferences \u2014 then syncs them t",
+    "id": "BayramAnnakov/claude-reflect",
+    "language": "Python",
+    "name": "BayramAnnakov/claude-reflect",
+    "stars": 1702,
+    "updated_at": "2026-10-03T05:15:12Z",
+    "url": "https://github.com/BayramAnnakov/claude-reflect"
+  },
+  {
+    "description": "A Claude Code Mod that turns your global skills, agents, rules and tools on or off per repo with named profiles.",
+    "id": "shimo4228/harness-scope",
+    "language": "TypeScript",
+    "name": "shimo4228/harness-scope",
+    "stars": 0,
+    "updated_at": "2026-10-03T05:14:56Z",
+    "url": "https://github.com/shimo4228/harness-scope"
+  },
+  {
+    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 3,
+    "updated_at": "2026-10-03T05:14:44Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/raghuram-skills",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/raghuram-skills",
+    "stars": 1,
+    "updated_at": "2026-10-03T05:14:03Z",
+    "url": "https://github.com/raghuramsirigiri/raghuram-skills"
+  },
+  {
+    "description": "Agent skill that scales subagents, builds and tests to the machine it runs on, so small VPS sessions stay responsive.",
+    "id": "mihajloS/headroom",
+    "language": "Shell",
+    "name": "mihajloS/headroom",
+    "stars": 0,
+    "updated_at": "2026-10-03T05:10:26Z",
+    "url": "https://github.com/mihajloS/headroom"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69761,
+    "updated_at": "2026-10-03T05:12:48Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Skills SAP",
+    "id": "williamcorrea23/sap-router-skill",
+    "language": "Python",
+    "name": "williamcorrea23/sap-router-skill",
+    "stars": 1,
+    "updated_at": "2026-10-03T05:09:27Z",
+    "url": "https://github.com/williamcorrea23/sap-router-skill"
+  },
+  {
+    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
+    "id": "EricTechPro/super-board",
+    "language": "HTML",
+    "name": "EricTechPro/super-board",
+    "stars": 30,
+    "updated_at": "2026-10-03T05:07:47Z",
+    "url": "https://github.com/EricTechPro/super-board"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95208,
+    "updated_at": "2026-10-03T05:09:13Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Open build standards for back-office workflows, as installable Agent Skills. Ordered checks, object schemas, a conforman",
+    "id": "digitalgym/aipathway-standards",
+    "language": "TypeScript",
+    "name": "digitalgym/aipathway-standards",
+    "stars": 0,
+    "updated_at": "2026-10-03T05:06:39Z",
+    "url": "https://github.com/digitalgym/aipathway-standards"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1148,
+    "updated_at": "2026-10-03T05:04:52Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-10-03T05:04:14Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
+    "description": "Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude ",
+    "id": "JayPokale/Chisle",
+    "language": "JavaScript",
+    "name": "JayPokale/Chisle",
+    "stars": 593,
+    "updated_at": "2026-10-03T05:00:57Z",
+    "url": "https://github.com/JayPokale/Chisle"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T05:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
     "id": "FynePool/fanta-carbonara",
     "language": "Python",
@@ -32,7 +158,7 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 323,
-    "updated_at": "2026-10-03T05:00:05Z",
+    "updated_at": "2026-10-03T05:12:48Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -50,7 +176,7 @@
     "language": "Python",
     "name": "Lycheetah/Lycheetah-Framework",
     "stars": 5,
-    "updated_at": "2026-10-03T04:55:31Z",
+    "updated_at": "2026-10-03T05:11:15Z",
     "url": "https://github.com/Lycheetah/Lycheetah-Framework"
   },
   {
@@ -61,15 +187,6 @@
     "stars": 545,
     "updated_at": "2026-10-03T04:55:18Z",
     "url": "https://github.com/zenstory-ai/video-recap-skills"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1148,
-    "updated_at": "2026-10-03T04:55:06Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusa",
@@ -97,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T04:53:34Z",
     "url": "https://github.com/docsor1212/paper-polisher-pro"
-  },
-  {
-    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
-    "id": "getedgehq/skills",
-    "language": "Python",
-    "name": "getedgehq/skills",
-    "stars": 3,
-    "updated_at": "2026-10-03T04:53:00Z",
-    "url": "https://github.com/getedgehq/skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69761,
-    "updated_at": "2026-10-03T04:59:22Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
@@ -169,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T04:46:13Z",
     "url": "https://github.com/fightingforsidewalk/skill-claude-relay"
-  },
-  {
-    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
-    "id": "raghuramsirigiri/raghuram-skills",
-    "language": "JavaScript",
-    "name": "raghuramsirigiri/raghuram-skills",
-    "stars": 1,
-    "updated_at": "2026-10-03T04:46:02Z",
-    "url": "https://github.com/raghuramsirigiri/raghuram-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T04:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "V\u1ebd tr\u01b0\u1edbc, code sau \u2014 design-first skill cho AI agent (Claude Code/Cursor/Codex): kho\u00e1 token, 5 tr\u1ea1ng th\u00e1i, \u0111o tr\u00ean tr\u00ecnh",
@@ -279,15 +360,6 @@
     "url": "https://github.com/notque/vexjoy-agent"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95207,
-    "updated_at": "2026-10-03T04:54:22Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "Claude Code as a second brain: 100 battle-tested skills, a working CRM engine, vault templates and the handover map. Met",
     "id": "tonydzi/second-brain-starter-kit",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-03T03:54:26Z",
     "url": "https://github.com/artheras/skills"
-  },
-  {
-    "description": "Playbooks that teach AI coding agents to fix Termux and Android failures: pip and npm native builds, proot, signal 9 kil",
-    "id": "Alex72-py/termux-elite",
-    "language": "Python",
-    "name": "Alex72-py/termux-elite",
-    "stars": 1,
-    "updated_at": "2026-10-03T03:46:14Z",
-    "url": "https://github.com/Alex72-py/termux-elite"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 3,
-    "updated_at": "2026-10-03T03:44:47Z",
-    "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "Skills that let multiple AI agents develop one Git repo in parallel: branch/worktree isolation, dependency-aware plannin",
-    "id": "UlyssesLeoLee/MAGOS",
-    "language": "Python",
-    "name": "UlyssesLeoLee/MAGOS",
-    "stars": 1,
-    "updated_at": "2026-10-03T03:40:33Z",
-    "url": "https://github.com/UlyssesLeoLee/MAGOS"
-  },
-  {
-    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
-    "id": "WYRE-AI/msp-claude-plugins",
-    "language": "Astro",
-    "name": "WYRE-AI/msp-claude-plugins",
-    "stars": 48,
-    "updated_at": "2026-10-03T03:26:11Z",
-    "url": "https://github.com/WYRE-AI/msp-claude-plugins"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 53,
-    "updated_at": "2026-10-03T03:26:10Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Security help for defenders: grade your site's security headers (fixes + README badge) and read logs/code to find what h",
-    "id": "smilemino/unchore-defend",
-    "language": "JavaScript",
-    "name": "smilemino/unchore-defend",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:25:21Z",
-    "url": "https://github.com/smilemino/unchore-defend"
-  },
-  {
-    "description": "Claude'a T\u00fcrk\u00e7e i\u015fleri do\u011fru yapt\u0131ran 10 haz\u0131r Agent Skill: TDK imla, dilek\u00e7e, KVKK, resmi e-posta, Excel \u00f6zeti | Turkis",
-    "id": "maderinmad/turkce-claude-skills",
-    "language": "\u2014",
-    "name": "maderinmad/turkce-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:23:55Z",
-    "url": "https://github.com/maderinmad/turkce-claude-skills"
-  },
-  {
-    "description": "Companion for The Mathematics of AI Agents: 29 executed notebooks, AI skills for every chapter, a workbook with separate",
-    "id": "KarpelesPublishing/math-ai-agents",
-    "language": "HTML",
-    "name": "KarpelesPublishing/math-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-10-03T03:17:55Z",
-    "url": "https://github.com/KarpelesPublishing/math-ai-agents"
   }
 ]
