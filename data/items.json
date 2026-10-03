@@ -1,21 +1,66 @@
 [
   {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 1,
-    "updated_at": "2026-10-03T17:14:47Z",
-    "url": "https://github.com/ragnarwestad/aide"
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Go",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T17:29:43Z",
+    "url": "https://github.com/l4ci/hv-skills"
   },
   {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-10-03T17:29:13Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Claude Code skill that builds impact-first resumes for any field: researches your market, interviews you until every cla",
+    "id": "vrarora/resume-forge",
     "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 13,
-    "updated_at": "2026-10-03T17:11:33Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
+    "name": "vrarora/resume-forge",
+    "stars": 0,
+    "updated_at": "2026-10-03T17:27:11Z",
+    "url": "https://github.com/vrarora/resume-forge"
+  },
+  {
+    "description": "Claude skill for scripting multi-clip AI videos in VideoExpress 3.5: multishot prompts, Create Mode styles, chaining and",
+    "id": "ratava/videoexpress-scripting-skill",
+    "language": "\u2014",
+    "name": "ratava/videoexpress-scripting-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T17:26:22Z",
+    "url": "https://github.com/ratava/videoexpress-scripting-skill"
+  },
+  {
+    "description": "Naren's Claude skills: unique, installable Agent Skills & Claude Code plugins for developers. One-command install via pl",
+    "id": "NarenDawar/narens-claude-skills",
+    "language": "Python",
+    "name": "NarenDawar/narens-claude-skills",
+    "stars": 2,
+    "updated_at": "2026-10-03T17:25:53Z",
+    "url": "https://github.com/NarenDawar/narens-claude-skills"
+  },
+  {
+    "description": "Hooks and skills for Claude to write better code and verify its work, and an easy start to using Claude Code",
+    "id": "mickzijdel/dev-hooks",
+    "language": "Python",
+    "name": "mickzijdel/dev-hooks",
+    "stars": 0,
+    "updated_at": "2026-10-03T17:25:22Z",
+    "url": "https://github.com/mickzijdel/dev-hooks"
+  },
+  {
+    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
+    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "language": "Python",
+    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "stars": 16,
+    "updated_at": "2026-10-03T17:24:23Z",
+    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   },
   {
     "description": "A small, verified, security-aware directory of Agent Skills (SKILL.md format).",
@@ -23,8 +68,71 @@
     "language": "HTML",
     "name": "royalpinto007/awesome-agent-skills",
     "stars": 3,
-    "updated_at": "2026-10-03T17:11:53Z",
+    "updated_at": "2026-10-03T17:22:07Z",
     "url": "https://github.com/royalpinto007/awesome-agent-skills"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 13,
+    "updated_at": "2026-10-03T17:22:03Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
+    "id": "mtangoz/grill",
+    "language": "JavaScript",
+    "name": "mtangoz/grill",
+    "stars": 1,
+    "updated_at": "2026-10-03T17:28:28Z",
+    "url": "https://github.com/mtangoz/grill"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 10,
+    "updated_at": "2026-10-03T17:19:24Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-03T17:18:23Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69766,
+    "updated_at": "2026-10-03T17:18:44Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T17:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-03T17:21:58Z",
+    "url": "https://github.com/ragnarwestad/aide"
   },
   {
     "description": "Claude Code plugin that reminds the session when context is getting full and automatically drafts tailored /compact <ins",
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T17:09:11Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Naren's Claude skills: unique, installable Agent Skills & Claude Code plugins for developers. One-command install via pl",
-    "id": "NarenDawar/narens-claude-skills",
-    "language": "Python",
-    "name": "NarenDawar/narens-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-10-03T17:08:20Z",
-    "url": "https://github.com/NarenDawar/narens-claude-skills"
   },
   {
     "description": "/build - a Claude Code skill that runs a big job as a team: one Claude plans, Opus coder agents build, a read-only verif",
@@ -131,17 +230,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-03T17:13:29Z",
+    "updated_at": "2026-10-03T17:24:17Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-10-03T17:06:27Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
     "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
@@ -232,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T17:00:26Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T17:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T16:48:52Z",
     "url": "https://github.com/Tipatask/tipatask"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-03T16:48:29Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-10-03T16:47:46Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30870,
-    "updated_at": "2026-10-03T16:47:29Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Agent skill for structured prompts, artifact routing and evaluation. Includes a linter and a published benchmark.",
-    "id": "AdrianAdem/prompt-engineer-skill",
-    "language": "Python",
-    "name": "AdrianAdem/prompt-engineer-skill",
-    "stars": 1,
-    "updated_at": "2026-10-03T16:47:05Z",
-    "url": "https://github.com/AdrianAdem/prompt-engineer-skill"
-  },
-  {
-    "description": "A standard for Nix: what the formatter cannot check, and a checker that holds it",
-    "id": "rokokol/nix-best-practices-skill",
-    "language": "Shell",
-    "name": "rokokol/nix-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T16:45:45Z",
-    "url": "https://github.com/rokokol/nix-best-practices-skill"
-  },
-  {
-    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
-    "id": "ramboz/jig",
-    "language": "Python",
-    "name": "ramboz/jig",
-    "stars": 7,
-    "updated_at": "2026-10-03T16:45:07Z",
-    "url": "https://github.com/ramboz/jig"
-  },
-  {
-    "description": "\"We can solve anything with the good ol' method of trial & error\" - Senku",
-    "id": "SentImperior666/TrialError",
-    "language": "Python",
-    "name": "SentImperior666/TrialError",
-    "stars": 0,
-    "updated_at": "2026-10-03T16:44:46Z",
-    "url": "https://github.com/SentImperior666/TrialError"
-  },
-  {
-    "description": "\ud83e\uded5 One pot, everyone brings a fork, no double-dipping. A team of AI agents that plan, build and review each other's work,",
-    "id": "jsobolewski1/fondue",
-    "language": "Python",
-    "name": "jsobolewski1/fondue",
-    "stars": 5,
-    "updated_at": "2026-10-03T16:43:28Z",
-    "url": "https://github.com/jsobolewski1/fondue"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-10-03T16:43:26Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   }
 ]
