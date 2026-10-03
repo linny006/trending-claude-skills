@@ -1,5 +1,59 @@
 [
   {
+    "description": "The \"Stop-and-Think\" Product Brain for AI Coding Agents. No Spec, No Code.",
+    "id": "Koaaa-sysu/stop-before-code",
+    "language": "Shell",
+    "name": "Koaaa-sysu/stop-before-code",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:16:39Z",
+    "url": "https://github.com/Koaaa-sysu/stop-before-code"
+  },
+  {
+    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
+    "id": "ergrelet/windiff",
+    "language": "Rust",
+    "name": "ergrelet/windiff",
+    "stars": 390,
+    "updated_at": "2026-10-03T13:16:05Z",
+    "url": "https://github.com/ergrelet/windiff"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:15:52Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-10-03T13:16:45Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T13:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code plugins that build the control before the comparison: verifygate, strictnull, searchdiff, sameness",
+    "id": "tsurutanmen/claude-plugins",
+    "language": "Python",
+    "name": "tsurutanmen/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:15:14Z",
+    "url": "https://github.com/tsurutanmen/claude-plugins"
+  },
+  {
     "description": "17 modular skills that give Claude Code's everyday loop \u2014 brainstorm, plan, build, review, document \u2014 a fixed shape.",
     "id": "matis-dev/m.skills",
     "language": "Shell",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T13:14:58Z",
     "url": "https://github.com/swarmhq-skills/agent-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 429,
-    "updated_at": "2026-10-03T13:14:47Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "Design intelligence for AI coding agents: 19 skills, 109 world design styles (Bauhaus \u2192 \u0130znik \u2192 Y2K), every medium (UI/U",
@@ -81,15 +126,6 @@
     "url": "https://github.com/victorrentea/human-review"
   },
   {
-    "description": "The \"Stop-and-Think\" Product Brain for AI Coding Agents. No Spec, No Code.",
-    "id": "Koaaa-sysu/stop-before-code",
-    "language": "Shell",
-    "name": "Koaaa-sysu/stop-before-code",
-    "stars": 1,
-    "updated_at": "2026-10-03T13:06:17Z",
-    "url": "https://github.com/Koaaa-sysu/stop-before-code"
-  },
-  {
     "description": "You built it. Now flex. Turn any project or website into a short, polished, shareable launch video with one command. Sta",
     "id": "Jmaity434/flex",
     "language": "\u2014",
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T13:01:03Z",
     "url": "https://github.com/Jsnnmsc/10000x-engineer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T13:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Reverse-engineered specification of FileMaker's undocumented FIELD and TABLE definition XML format. Covers field types, ",
@@ -374,7 +401,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69768,
-    "updated_at": "2026-10-03T12:47:09Z",
+    "updated_at": "2026-10-03T13:16:37Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:45:16Z",
     "url": "https://github.com/Itzzni9454/skill-trail"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-10-03T12:43:45Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:42:34Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:42:20Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
   }
 ]
