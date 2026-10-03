@@ -1,12 +1,93 @@
 [
   {
+    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
+    "id": "OKHP3/skillz",
+    "language": "Python",
+    "name": "OKHP3/skillz",
+    "stars": 3,
+    "updated_at": "2026-10-03T03:44:47Z",
+    "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Playbooks that teach AI coding agents to fix Termux and Android failures: pip and npm native builds, proot, signal 9 kil",
+    "id": "Alex72-py/termux-elite",
+    "language": "Python",
+    "name": "Alex72-py/termux-elite",
+    "stars": 1,
+    "updated_at": "2026-10-03T03:44:26Z",
+    "url": "https://github.com/Alex72-py/termux-elite"
+  },
+  {
+    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
+    "id": "Jsnnmsc/10000x-engineer",
+    "language": "\u2014",
+    "name": "Jsnnmsc/10000x-engineer",
+    "stars": 1,
+    "updated_at": "2026-10-03T03:39:32Z",
+    "url": "https://github.com/Jsnnmsc/10000x-engineer"
+  },
+  {
+    "description": "Claude Code skill: run an approved implementation plan as parallel lanes of reviewed tasks",
+    "id": "noderaven/parallel-lanes",
+    "language": "JavaScript",
+    "name": "noderaven/parallel-lanes",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:42:38Z",
+    "url": "https://github.com/noderaven/parallel-lanes"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1147,
+    "updated_at": "2026-10-03T03:37:51Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95204,
+    "updated_at": "2026-10-03T03:34:56Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
+    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "language": "Python",
+    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "stars": 16,
+    "updated_at": "2026-10-03T03:44:55Z",
+    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
+  },
+  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69760,
-    "updated_at": "2026-10-03T03:29:42Z",
+    "updated_at": "2026-10-03T03:32:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Skills that let multiple AI agents develop one Git repo in parallel: branch/worktree isolation, dependency-aware plannin",
+    "id": "UlyssesLeoLee/MAGOS",
+    "language": "Python",
+    "name": "UlyssesLeoLee/MAGOS",
+    "stars": 1,
+    "updated_at": "2026-10-03T03:40:33Z",
+    "url": "https://github.com/UlyssesLeoLee/MAGOS"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T03:30:33Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T03:25:21Z",
     "url": "https://github.com/smilemino/unchore-defend"
-  },
-  {
-    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
-    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "language": "Python",
-    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "stars": 16,
-    "updated_at": "2026-10-03T03:30:22Z",
-    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   },
   {
     "description": "Six Claude Code skills that work in any project: rule sets that load only when called, a dev round, codex sessions, roas",
@@ -81,15 +153,6 @@
     "url": "https://github.com/KarpelesPublishing/math-ai-agents"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T03:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusa",
     "id": "JasonColapietro/suede-creator-skills",
     "language": "JavaScript",
@@ -97,15 +160,6 @@
     "stars": 126,
     "updated_at": "2026-10-03T03:15:04Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1147,
-    "updated_at": "2026-10-03T03:27:57Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "How ready is your software to evolve itself safely, and how much does AI drive? Autonomy levels with file-level evidence",
@@ -337,7 +391,7 @@
     "id": "qbeka/jev-job-search",
     "language": "TypeScript",
     "name": "qbeka/jev-job-search",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-03T02:31:11Z",
     "url": "https://github.com/qbeka/jev-job-search"
   },
@@ -394,59 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-03T02:26:19Z",
     "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-10-03T02:26:07Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:24:28Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:24:22Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Claude Code plugin: from a one-line idea to a published Power Apps Canvas + Power Automate app, one guided /pp-en:* comm",
-    "id": "stage2dev/power-platform-skills",
-    "language": "Python",
-    "name": "stage2dev/power-platform-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:23:53Z",
-    "url": "https://github.com/stage2dev/power-platform-skills"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 1,
-    "updated_at": "2026-10-03T02:23:45Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-10-03T02:23:37Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
   }
 ]
