@@ -1,12 +1,39 @@
 [
   {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:29:36Z",
-    "url": "https://github.com/ragnarwestad/aide"
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 324,
+    "updated_at": "2026-10-03T14:44:26Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+    "id": "Jeffallan/claude-skills",
+    "language": "Python",
+    "name": "Jeffallan/claude-skills",
+    "stars": 11716,
+    "updated_at": "2026-10-03T14:44:10Z",
+    "url": "https://github.com/Jeffallan/claude-skills"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 27,
+    "updated_at": "2026-10-03T14:41:09Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
+    "id": "AN0099/toothpaste-kit",
+    "language": "Python",
+    "name": "AN0099/toothpaste-kit",
+    "stars": 1,
+    "updated_at": "2026-10-03T14:39:11Z",
+    "url": "https://github.com/AN0099/toothpaste-kit"
   },
   {
     "description": "Tokmeter is a comprehensive observability and cost-tracking tool for AI coding agents, it monitors token consumption acr",
@@ -14,8 +41,116 @@
     "language": "TypeScript",
     "name": "sriinnu/tokmeter",
     "stars": 1,
-    "updated_at": "2026-10-03T14:29:43Z",
+    "updated_at": "2026-10-03T14:37:43Z",
     "url": "https://github.com/sriinnu/tokmeter"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69767,
+    "updated_at": "2026-10-03T14:40:28Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "When you can't trust yourself with your code base, trust Arbiter. ",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 147,
+    "updated_at": "2026-10-03T14:39:29Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s",
+    "id": "liustack/pptwise",
+    "language": "TypeScript",
+    "name": "liustack/pptwise",
+    "stars": 17,
+    "updated_at": "2026-10-03T14:35:30Z",
+    "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "Two Agent Skills that help an AI agent make an interface clear, consistent, easy to use and scalable, and Russian text c",
+    "id": "nickture/skills",
+    "language": "\u2014",
+    "name": "nickture/skills",
+    "stars": 14,
+    "updated_at": "2026-10-03T14:34:52Z",
+    "url": "https://github.com/nickture/skills"
+  },
+  {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly \u2014 tried in Claude and Claude Code.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:33:46Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "A standard for Nix: what the formatter cannot check, and a checker that holds it",
+    "id": "rokokol/nix-best-practices-skill",
+    "language": "Shell",
+    "name": "rokokol/nix-best-practices-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:33:40Z",
+    "url": "https://github.com/rokokol/nix-best-practices-skill"
+  },
+  {
+    "description": "Agent skill to read, search, diff, measure, edit and plot CAD drawings (DWG/DXF) with ezdxf and your own AutoCAD. Cross-",
+    "id": "numikel/cad-drawings",
+    "language": "Python",
+    "name": "numikel/cad-drawings",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:32:41Z",
+    "url": "https://github.com/numikel/cad-drawings"
+  },
+  {
+    "description": "A curated collection of Claude Agent Skills designed to enhance AI workflows with specialized capabilities.",
+    "id": "ckanner/agent-skills",
+    "language": "Shell",
+    "name": "ckanner/agent-skills",
+    "stars": 23,
+    "updated_at": "2026-10-03T14:32:11Z",
+    "url": "https://github.com/ckanner/agent-skills"
+  },
+  {
+    "description": "Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more",
+    "id": "jamditis/claude-skills-journalism",
+    "language": "Python",
+    "name": "jamditis/claude-skills-journalism",
+    "stars": 413,
+    "updated_at": "2026-10-03T14:30:32Z",
+    "url": "https://github.com/jamditis/claude-skills-journalism"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 7,
+    "updated_at": "2026-10-03T14:30:23Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T14:30:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:29:36Z",
+    "url": "https://github.com/ragnarwestad/aide"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -36,24 +171,6 @@
     "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
-    "description": "Agent skill to read, search, diff, measure, edit and plot CAD drawings (DWG/DXF) with ezdxf and your own AutoCAD. Cross-",
-    "id": "numikel/cad-drawings",
-    "language": "Python",
-    "name": "numikel/cad-drawings",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:26:43Z",
-    "url": "https://github.com/numikel/cad-drawings"
-  },
-  {
-    "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-    "id": "Jeffallan/claude-skills",
-    "language": "Python",
-    "name": "Jeffallan/claude-skills",
-    "stars": 11716,
-    "updated_at": "2026-10-03T14:26:29Z",
-    "url": "https://github.com/Jeffallan/claude-skills"
-  },
-  {
     "description": "Language-agnostic AI workflow plugins for Claude Code and Codex. Every workflow is a skill.",
     "id": "tony/skills",
     "language": "Python",
@@ -61,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-10-03T14:24:15Z",
     "url": "https://github.com/tony/skills"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 324,
-    "updated_at": "2026-10-03T14:24:10Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "A standard for shell utilities: one shape, help as the truth, the bash macOS ships",
@@ -117,15 +225,6 @@
     "url": "https://github.com/winsley-jeune/harborrank-skills"
   },
   {
-    "description": "Two Agent Skills that help an AI agent make an interface clear, consistent, easy to use and scalable, and Russian text c",
-    "id": "nickture/skills",
-    "language": "\u2014",
-    "name": "nickture/skills",
-    "stars": 14,
-    "updated_at": "2026-10-03T14:20:36Z",
-    "url": "https://github.com/nickture/skills"
-  },
-  {
     "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
     "id": "serpro69/claude-toolbox",
     "language": "Shell",
@@ -158,7 +257,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-03T14:17:35Z",
+    "updated_at": "2026-10-03T14:44:47Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -171,15 +270,6 @@
     "url": "https://github.com/MiddleSugar7000/premium-saas-web-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T14:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
@@ -187,15 +277,6 @@
     "stars": 6206,
     "updated_at": "2026-10-03T14:11:47Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69768,
-    "updated_at": "2026-10-03T14:29:47Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\ucee4\uc2a4\ud140 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac.",
@@ -270,21 +351,12 @@
     "url": "https://github.com/isatimur/excalidraw-skill-pack"
   },
   {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "JavaScript",
-    "name": "geml-spec/geml",
-    "stars": 27,
-    "updated_at": "2026-10-03T14:17:25Z",
-    "url": "https://github.com/geml-spec/geml"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-03T14:29:42Z",
+    "updated_at": "2026-10-03T14:43:02Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -374,79 +446,7 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 9,
-    "updated_at": "2026-10-03T14:28:21Z",
+    "updated_at": "2026-10-03T14:44:02Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 63,
-    "updated_at": "2026-10-03T13:52:16Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cur",
-    "id": "michael-denyer/pstack-claude",
-    "language": "JavaScript",
-    "name": "michael-denyer/pstack-claude",
-    "stars": 908,
-    "updated_at": "2026-10-03T13:52:07Z",
-    "url": "https://github.com/michael-denyer/pstack-claude"
-  },
-  {
-    "description": "AI Copilot & free Astro MCP alternative for iOS App Store Optimization (ASO), keyword rankings, and growth",
-    "id": "rusel95/ios-aso-copilot",
-    "language": "Python",
-    "name": "rusel95/ios-aso-copilot",
-    "stars": 2,
-    "updated_at": "2026-10-03T13:49:57Z",
-    "url": "https://github.com/rusel95/ios-aso-copilot"
-  },
-  {
-    "description": "Claude Code skills and agents",
-    "id": "cassc/claude-skills",
-    "language": "JavaScript",
-    "name": "cassc/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:49:34Z",
-    "url": "https://github.com/cassc/claude-skills"
-  },
-  {
-    "description": "Open-source AI agent skills for agenthouse and compatible SKILL.md-based platforms.",
-    "id": "agenthouse-org/skills",
-    "language": "HTML",
-    "name": "agenthouse-org/skills",
-    "stars": 1,
-    "updated_at": "2026-10-03T13:48:58Z",
-    "url": "https://github.com/agenthouse-org/skills"
-  },
-  {
-    "description": "\u53f0\u7063\u65e5\u5e38\u751f\u6d3b\u67e5\u8a62\u7684 AI \u4ee3\u7406\u6280\u80fd\u96c6(\u5b98\u65b9\u516c\u958b\u8cc7\u6599\u30fb\u514d\u767b\u5165\u514d\u91d1\u9470)/ AI-agent skills for daily life in Taiwan - keyless official open data",
-    "id": "tahodev/baodao-skill",
-    "language": "Python",
-    "name": "tahodev/baodao-skill",
-    "stars": 1,
-    "updated_at": "2026-10-03T13:47:17Z",
-    "url": "https://github.com/tahodev/baodao-skill"
-  },
-  {
-    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
-    "id": "RemiAsselin42/claude-config",
-    "language": "Shell",
-    "name": "RemiAsselin42/claude-config",
-    "stars": 1,
-    "updated_at": "2026-10-03T14:28:59Z",
-    "url": "https://github.com/RemiAsselin42/claude-config"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2652,
-    "updated_at": "2026-10-03T13:36:17Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   }
 ]
