@@ -1,5 +1,104 @@
 [
   {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 261,
+    "updated_at": "2026-10-03T23:07:24Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/skills",
+    "language": "Python",
+    "name": "TsukiNi22/skills",
+    "stars": 1,
+    "updated_at": "2026-10-03T23:05:49Z",
+    "url": "https://github.com/TsukiNi22/skills"
+  },
+  {
+    "description": "A Claude Code skill for documenting work sessions, capturing learnings, and improving collaboration",
+    "id": "quicksketcherz/session-log-companion",
+    "language": "Python",
+    "name": "quicksketcherz/session-log-companion",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:05:23Z",
+    "url": "https://github.com/quicksketcherz/session-log-companion"
+  },
+  {
+    "description": "Curated Claude Code plugin marketplace \u2014 opinionated, production-ready skills for AI-assisted work, focused on craft, ri",
+    "id": "fernando-bertholdo/4-successful-AI-life",
+    "language": "Shell",
+    "name": "fernando-bertholdo/4-successful-AI-life",
+    "stars": 2,
+    "updated_at": "2026-10-03T23:03:59Z",
+    "url": "https://github.com/fernando-bertholdo/4-successful-AI-life"
+  },
+  {
+    "description": "Free, tested Agent Skills for Shopify store owners: image alt text, policy audit, title cleanup, review replies.",
+    "id": "kaiventurafounder/shopify-store-skills",
+    "language": "Python",
+    "name": "kaiventurafounder/shopify-store-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:03:55Z",
+    "url": "https://github.com/kaiventurafounder/shopify-store-skills"
+  },
+  {
+    "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
+    "id": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
+    "language": "JavaScript",
+    "name": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
+    "stars": 4,
+    "updated_at": "2026-10-03T23:03:46Z",
+    "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 325,
+    "updated_at": "2026-10-03T23:02:31Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
+    "id": "culfin/claude-skills-public",
+    "language": "Python",
+    "name": "culfin/claude-skills-public",
+    "stars": 0,
+    "updated_at": "2026-10-03T23:01:07Z",
+    "url": "https://github.com/culfin/claude-skills-public"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69772,
+    "updated_at": "2026-10-03T23:00:49Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T23:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-03T23:00:14Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
     "description": "A Claude skill that thinks like dyslexic thinkers, and works the way dyslexic people say helps. Built by the dyslexic co",
     "id": "mvdypsis/i-have-dyslexia",
     "language": "Python",
@@ -27,15 +126,6 @@
     "url": "https://github.com/nrzz/claude-code-handover"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69771,
-    "updated_at": "2026-10-03T22:59:09Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
     "id": "eduair94/cambio-uruguay",
     "language": "TypeScript",
@@ -52,33 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T22:57:25Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 261,
-    "updated_at": "2026-10-03T22:54:42Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/skills",
-    "language": "Python",
-    "name": "TsukiNi22/skills",
-    "stars": 1,
-    "updated_at": "2026-10-03T22:52:00Z",
-    "url": "https://github.com/TsukiNi22/skills"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 325,
-    "updated_at": "2026-10-03T22:51:50Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "A Claude Skill that analyzes any problem through 12 lenses and returns 5 diverse solutions plus an Occam's Razor anchor.",
@@ -115,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-10-03T22:45:53Z",
     "url": "https://github.com/ice-lfernandes/claude-spring-architect"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T22:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -175,7 +229,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 95550,
+    "stars": 95551,
     "updated_at": "2026-10-03T22:41:41Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T22:31:35Z",
     "url": "https://github.com/chrisamz/crypto-skills"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:31:03Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-10-03T22:29:29Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:28:47Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
-    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "language": "Python",
-    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "stars": 16,
-    "updated_at": "2026-10-03T22:58:36Z",
-    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:28:03Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:27:07Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
