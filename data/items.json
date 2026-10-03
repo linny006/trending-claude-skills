@@ -1,5 +1,149 @@
 [
   {
+    "description": "17 modular skills that give Claude Code's everyday loop \u2014 brainstorm, plan, build, review, document \u2014 a fixed shape.",
+    "id": "matis-dev/m.skills",
+    "language": "Shell",
+    "name": "matis-dev/m.skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:14:58Z",
+    "url": "https://github.com/matis-dev/m.skills"
+  },
+  {
+    "description": "Free, open SKILL.md skills for AI agents, by area of life: daily ops, health, parenting, money, home, car, work. CC0.",
+    "id": "swarmhq-skills/agent-skills",
+    "language": "\u2014",
+    "name": "swarmhq-skills/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:14:58Z",
+    "url": "https://github.com/swarmhq-skills/agent-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-10-03T13:14:47Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Design intelligence for AI coding agents: 19 skills, 109 world design styles (Bauhaus \u2192 \u0130znik \u2192 Y2K), every medium (UI/U",
+    "id": "cumabozkurt/god-of-design",
+    "language": "JavaScript",
+    "name": "cumabozkurt/god-of-design",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:12:16Z",
+    "url": "https://github.com/cumabozkurt/god-of-design"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-10-03T13:12:13Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6206,
+    "updated_at": "2026-10-03T13:12:08Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "10 \u0440\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0445 \u0430\u0433\u0435\u043d\u0442\u0441\u043a\u0438\u0445 \u0441\u043a\u0438\u043b\u043b\u043e\u0432 \u0434\u043b\u044f QA: \u0442\u0435\u0441\u0442-\u043f\u043b\u0430\u043d \u0438 \u043f\u0440\u043e\u0433\u043e\u043d \u043f\u043e \u0437\u0430\u0434\u0430\u0447\u0435 Jira, \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u0438 \u043f\u0440\u0438\u0451\u043c\u043a\u0438, \u0431\u0430\u0433-\u0440\u0435\u043f\u043e\u0440\u0442\u044b, \u043e\u0442\u0447\u0451\u0442\u044b, All",
+    "id": "KonstantinVCH/QA-agent-skills",
+    "language": "Python",
+    "name": "KonstantinVCH/QA-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:10:26Z",
+    "url": "https://github.com/KonstantinVCH/QA-agent-skills"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 13,
+    "updated_at": "2026-10-03T13:07:16Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 10,
+    "updated_at": "2026-10-03T13:06:30Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "The \"Stop-and-Think\" Product Brain for AI Coding Agents. No Spec, No Code.",
+    "id": "Koaaa-sysu/stop-before-code",
+    "language": "Shell",
+    "name": "Koaaa-sysu/stop-before-code",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:06:17Z",
+    "url": "https://github.com/Koaaa-sysu/stop-before-code"
+  },
+  {
+    "description": "You built it. Now flex. Turn any project or website into a short, polished, shareable launch video with one command. Sta",
+    "id": "Jmaity434/flex",
+    "language": "\u2014",
+    "name": "Jmaity434/flex",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:06:14Z",
+    "url": "https://github.com/Jmaity434/flex"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 324,
+    "updated_at": "2026-10-03T13:05:28Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:03:36Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
+    "id": "xsyetopz/dotclaude",
+    "language": "Shell",
+    "name": "xsyetopz/dotclaude",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:02:10Z",
+    "url": "https://github.com/xsyetopz/dotclaude"
+  },
+  {
+    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
+    "id": "Jsnnmsc/10000x-engineer",
+    "language": "\u2014",
+    "name": "Jsnnmsc/10000x-engineer",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:01:03Z",
+    "url": "https://github.com/Jsnnmsc/10000x-engineer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T13:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Reverse-engineered specification of FileMaker's undocumented FIELD and TABLE definition XML format. Covers field types, ",
     "id": "andykear/FileMaker-XML-field-definitions",
     "language": "\u2014",
@@ -77,7 +221,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-03T12:57:08Z",
+    "updated_at": "2026-10-03T13:13:20Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -88,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T12:57:04Z",
     "url": "https://github.com/andykear/FileMaker-second-opinion"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 10,
-    "updated_at": "2026-10-03T12:56:06Z",
-    "url": "https://github.com/victorrentea/human-review"
   },
   {
     "description": "Agent skills used at OpsCom Corp",
@@ -180,15 +315,6 @@
     "url": "https://github.com/Sarakael78/Bridge-Search"
   },
   {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 324,
-    "updated_at": "2026-10-03T12:57:21Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -205,15 +331,6 @@
     "stars": 55,
     "updated_at": "2026-10-03T12:50:45Z",
     "url": "https://github.com/eai-org/agent-toolkit"
-  },
-  {
-    "description": "The \"Stop-and-Think\" Product Brain for AI Coding Agents. No Spec, No Code.",
-    "id": "Koaaa-sysu/stop-before-code",
-    "language": "Shell",
-    "name": "Koaaa-sysu/stop-before-code",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:49:53Z",
-    "url": "https://github.com/Koaaa-sysu/stop-before-code"
   },
   {
     "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
@@ -306,15 +423,6 @@
     "url": "https://github.com/Itzzni9454/skill-trail"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T12:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -340,113 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T12:42:20Z",
     "url": "https://github.com/sexya3624/InsertAny3D"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:41:54Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Build production-grade mobile apps faster with simulator-verified skills tested against top-grossing apps.",
-    "id": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "language": "\u2014",
-    "name": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:40:39Z",
-    "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Ship verified marketing copy with adversarial checks \u2014 every factual claim traced to fetched sources before it goes live",
-    "id": "mucinous-riposte867/evidence-based-copywriting",
-    "language": "Python",
-    "name": "mucinous-riposte867/evidence-based-copywriting",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:40:37Z",
-    "url": "https://github.com/mucinous-riposte867/evidence-based-copywriting"
-  },
-  {
-    "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
-    "id": "Trudiemisanthropic314/tiktok-video-skill",
-    "language": "Python",
-    "name": "Trudiemisanthropic314/tiktok-video-skill",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:38:19Z",
-    "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
-  },
-  {
-    "description": "Curated modular agent skills for LLM-based assistants to extend AI capabilities and enable autonomous agents.",
-    "id": "graceupperclass437/agent-skills-collection",
-    "language": "Python",
-    "name": "graceupperclass437/agent-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:38:18Z",
-    "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:37:26Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
-  },
-  {
-    "description": "Export UniFi network topologies as zoomable vector diagrams and editable draw.io files using real device data.",
-    "id": "Josiecontrolling326/unifi-map",
-    "language": "Python",
-    "name": "Josiecontrolling326/unifi-map",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:37:22Z",
-    "url": "https://github.com/Josiecontrolling326/unifi-map"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:36:53Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "The last mile of the academic figure toolchain \u2014 a Claude Code skill that draws editable, paper-exact vector figures dir",
-    "id": "yushiran/Academic-Figure-Figma-CC-Skills",
-    "language": "Python",
-    "name": "yushiran/Academic-Figure-Figma-CC-Skills",
-    "stars": 5,
-    "updated_at": "2026-10-03T12:36:53Z",
-    "url": "https://github.com/yushiran/Academic-Figure-Figma-CC-Skills"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:36:33Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "Claude code token saviour and coding orchestration package by Bajzi",
-    "id": "bajzaa975/claude-alapcsomag",
-    "language": "JavaScript",
-    "name": "bajzaa975/claude-alapcsomag",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:36:18Z",
-    "url": "https://github.com/bajzaa975/claude-alapcsomag"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:35:40Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
   }
 ]
