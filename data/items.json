@@ -1,12 +1,129 @@
 [
   {
+    "description": "An Agent Skill that makes Word files with Thai text render correctly \u2014 tried in Claude and Claude Code.",
+    "id": "sayam/thai-docx-skill",
+    "language": "Python",
+    "name": "sayam/thai-docx-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:43:04Z",
+    "url": "https://github.com/sayam/thai-docx-skill"
+  },
+  {
+    "description": "11 Claude skills that make professional motion-graphics videos (launch films, explainers, social ads, data stories) as H",
+    "id": "Neelshah1810/Claude-Video-Skills",
+    "language": "HTML",
+    "name": "Neelshah1810/Claude-Video-Skills",
+    "stars": 3,
+    "updated_at": "2026-10-03T06:42:56Z",
+    "url": "https://github.com/Neelshah1810/Claude-Video-Skills"
+  },
+  {
+    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each ",
+    "id": "zhuyansen/awesome-claude-video-skills",
+    "language": "\u2014",
+    "name": "zhuyansen/awesome-claude-video-skills",
+    "stars": 385,
+    "updated_at": "2026-10-03T06:41:56Z",
+    "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
+  },
+  {
+    "description": "Draw first, code second, measure both. Design-first skill for AI coding agents (Claude Code, Cursor, Codex) + zero-depen",
+    "id": "kennetvn/nextcore-design",
+    "language": "JavaScript",
+    "name": "kennetvn/nextcore-design",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:40:58Z",
+    "url": "https://github.com/kennetvn/nextcore-design"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Go",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:39:09Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "Agent skills for source-grounded novel-to-game adaptation (\u5c0f\u8bf4\u6539\u7f16\u6e38\u620f / story to game): cited design docs, target-runtime bu",
+    "id": "zenstory-ai/novel-to-game",
+    "language": "Markdown",
+    "name": "zenstory-ai/novel-to-game",
+    "stars": 820,
+    "updated_at": "2026-10-03T06:38:27Z",
+    "url": "https://github.com/zenstory-ai/novel-to-game"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 437,
+    "updated_at": "2026-10-03T06:38:20Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Keeps AI-generated UI consistent with your project's own component vocabulary and prop conventions, while the code is be",
+    "id": "kamenkurtev/ui-consistency",
+    "language": "Shell",
+    "name": "kamenkurtev/ui-consistency",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:37:08Z",
+    "url": "https://github.com/kamenkurtev/ui-consistency"
+  },
+  {
     "description": "Reference-backed ERP assistants for Claude Code \u2014 Sage 300 (Accpac), Sage 200 Evolution (Pastel), and SAP Business One. ",
     "id": "fdtaljaard/claude-skills",
     "language": "Python",
     "name": "fdtaljaard/claude-skills",
     "stars": 6,
-    "updated_at": "2026-10-03T06:30:03Z",
+    "updated_at": "2026-10-03T06:38:15Z",
     "url": "https://github.com/fdtaljaard/claude-skills"
+  },
+  {
+    "description": "The self-improving context engine for coding agents.",
+    "id": "aerovato/operator-memory",
+    "language": "TypeScript",
+    "name": "aerovato/operator-memory",
+    "stars": 69,
+    "updated_at": "2026-10-03T06:34:57Z",
+    "url": "https://github.com/aerovato/operator-memory"
+  },
+  {
+    "description": "",
+    "id": "LevNas/ccmemo",
+    "language": "Python",
+    "name": "LevNas/ccmemo",
+    "stars": 4,
+    "updated_at": "2026-10-03T06:32:52Z",
+    "url": "https://github.com/LevNas/ccmemo"
+  },
+  {
+    "description": "A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s",
+    "id": "liustack/pptwise",
+    "language": "TypeScript",
+    "name": "liustack/pptwise",
+    "stars": 16,
+    "updated_at": "2026-10-03T06:32:02Z",
+    "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T06:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "CUQU\u627e\u642d\u5b50\u5b98\u65b9 Agent Skill\uff1a\u8ba9\u4efb\u610f AI Agent\uff08Claude Code/Codex/Cursor/WorkBuddy\uff09\u4ee3\u7528\u6237\u627e\u540c\u57ce\u7ebf\u4e0b\u5c40\u3001\u62a5\u540d\u3001\u652f\u4ed8\u3001\u53d1\u5c40\u3002MCP Streamable HTTP + \u4e2a\u4eba API Ke",
+    "id": "cuqu-net/cuqu-skill",
+    "language": "Python",
+    "name": "cuqu-net/cuqu-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T06:30:10Z",
+    "url": "https://github.com/cuqu-net/cuqu-skill"
   },
   {
     "description": "Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude ",
@@ -18,30 +135,12 @@
     "url": "https://github.com/JayPokale/Chisle"
   },
   {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 437,
-    "updated_at": "2026-10-03T06:29:07Z",
-    "url": "https://github.com/xr843/Master-skill"
-  },
-  {
-    "description": "An Agent Skill that makes Word files with Thai text render correctly \u2014 tried in Claude and Claude Code.",
-    "id": "sayam/thai-docx-skill",
-    "language": "Python",
-    "name": "sayam/thai-docx-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:27:50Z",
-    "url": "https://github.com/sayam/thai-docx-skill"
-  },
-  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 323,
-    "updated_at": "2026-10-03T06:27:49Z",
+    "updated_at": "2026-10-03T06:45:10Z",
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
@@ -50,7 +149,7 @@
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-10-03T06:28:15Z",
+    "updated_at": "2026-10-03T06:41:15Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -63,31 +162,13 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
-    "id": "l4ci/hv-skills",
-    "language": "Go",
-    "name": "l4ci/hv-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:27:10Z",
-    "url": "https://github.com/l4ci/hv-skills"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69762,
-    "updated_at": "2026-10-03T06:26:50Z",
+    "updated_at": "2026-10-03T06:36:18Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "11 Claude skills that make professional motion-graphics videos (launch films, explainers, social ads, data stories) as H",
-    "id": "Neelshah1810/Claude-Video-Skills",
-    "language": "HTML",
-    "name": "Neelshah1810/Claude-Video-Skills",
-    "stars": 3,
-    "updated_at": "2026-10-03T06:26:17Z",
-    "url": "https://github.com/Neelshah1810/Claude-Video-Skills"
   },
   {
     "description": "Claude Code skills: a master Remotion video skill with ten specialists broken out of it, production deploys on GitHub Ac",
@@ -140,7 +221,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-03T06:24:12Z",
+    "updated_at": "2026-10-03T06:42:16Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -160,15 +241,6 @@
     "stars": 11,
     "updated_at": "2026-10-03T06:19:55Z",
     "url": "https://github.com/nickture/skills"
-  },
-  {
-    "description": "",
-    "id": "LevNas/ccmemo",
-    "language": "Python",
-    "name": "LevNas/ccmemo",
-    "stars": 4,
-    "updated_at": "2026-10-03T06:29:44Z",
-    "url": "https://github.com/LevNas/ccmemo"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -198,15 +270,6 @@
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T06:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
     "id": "munexor/seo-opportunity-nexus",
     "language": "HTML",
@@ -234,15 +297,6 @@
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
-    "description": "Keeps AI-generated UI consistent with your project's own component vocabulary and prop conventions, while the code is be",
-    "id": "kamenkurtev/ui-consistency",
-    "language": "Shell",
-    "name": "kamenkurtev/ui-consistency",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:29:48Z",
-    "url": "https://github.com/kamenkurtev/ui-consistency"
-  },
-  {
     "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
     "id": "hieu5882/telos-customer-validator",
     "language": "HTML",
@@ -266,7 +320,7 @@
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
     "stars": 95210,
-    "updated_at": "2026-10-03T06:11:26Z",
+    "updated_at": "2026-10-03T06:33:20Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -333,20 +387,11 @@
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   },
   {
-    "description": "Agent skills for source-grounded novel-to-game adaptation (\u5c0f\u8bf4\u6539\u7f16\u6e38\u620f / story to game): cited design docs, target-runtime bu",
-    "id": "zenstory-ai/novel-to-game",
-    "language": "Markdown",
-    "name": "zenstory-ai/novel-to-game",
-    "stars": 820,
-    "updated_at": "2026-10-03T06:06:42Z",
-    "url": "https://github.com/zenstory-ai/novel-to-game"
-  },
-  {
     "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
     "id": "zenstory-ai/drama-skills",
     "language": "Python",
     "name": "zenstory-ai/drama-skills",
-    "stars": 2453,
+    "stars": 2454,
     "updated_at": "2026-10-03T06:06:40Z",
     "url": "https://github.com/zenstory-ai/drama-skills"
   },
@@ -387,15 +432,6 @@
     "url": "https://github.com/victorrentea/human-review"
   },
   {
-    "description": "V\u1ebd tr\u01b0\u1edbc, code sau \u2014 design-first skill cho AI agent (Claude Code/Cursor/Codex): kho\u00e1 token, 5 tr\u1ea1ng th\u00e1i, \u0111o tr\u00ean tr\u00ecnh",
-    "id": "kennetvn/nextcore-design",
-    "language": "JavaScript",
-    "name": "kennetvn/nextcore-design",
-    "stars": 0,
-    "updated_at": "2026-10-03T06:00:22Z",
-    "url": "https://github.com/kennetvn/nextcore-design"
-  },
-  {
     "description": "Agent Skill: turn a guitar tab image (tablature + jianpu) into a play-along web page with a moving cursor, synced accomp",
     "id": "jinjin20220405/guitar-playalong-simulator",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T05:55:07Z",
     "url": "https://github.com/TanayK07/pr-proof"
-  },
-  {
-    "description": "Audit, plan, and adapt SwiftUI and UIKit apps for iPhone Duo, foldables, hinges, and multi-display layouts.",
-    "id": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
-    "language": "Python",
-    "name": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:53:39Z",
-    "url": "https://github.com/Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill"
-  },
-  {
-    "description": "Help your next AI chat pick up where this one left off with a portable skill that writes clear session handoff notes.",
-    "id": "draysen-yau/session-handoff",
-    "language": "JavaScript",
-    "name": "draysen-yau/session-handoff",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:53:19Z",
-    "url": "https://github.com/draysen-yau/session-handoff"
-  },
-  {
-    "description": "Discover production-ready Claude Code configs: agents, skills, hooks, commands, rules, and MCP setups from an Anthropic ",
-    "id": "HABUBUSS/everything-claude-code",
-    "language": "JavaScript",
-    "name": "HABUBUSS/everything-claude-code",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:53:06Z",
-    "url": "https://github.com/HABUBUSS/everything-claude-code"
-  },
-  {
-    "description": "Claude skill for scripting multi-clip AI videos in VideoExpress 3.5: multishot prompts, Create Mode styles, chaining and",
-    "id": "ratava/videoexpress-scripting-skill",
-    "language": "\u2014",
-    "name": "ratava/videoexpress-scripting-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T05:52:45Z",
-    "url": "https://github.com/ratava/videoexpress-scripting-skill"
   }
 ]
