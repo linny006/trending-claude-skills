@@ -1,5 +1,104 @@
 [
   {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-03T18:44:25Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "The control plane for game-dev agents \u2014 close the loop with verified compile, test, and cross-model review across Unity,",
+    "id": "tykisgod/quick-question",
+    "language": "Python",
+    "name": "tykisgod/quick-question",
+    "stars": 11,
+    "updated_at": "2026-10-03T18:42:56Z",
+    "url": "https://github.com/tykisgod/quick-question"
+  },
+  {
+    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
+    "id": "sebin-gg/article-sweeper",
+    "language": "Python",
+    "name": "sebin-gg/article-sweeper",
+    "stars": 1,
+    "updated_at": "2026-10-03T18:41:39Z",
+    "url": "https://github.com/sebin-gg/article-sweeper"
+  },
+  {
+    "description": "The 12-skill AI UX design engine for Claude Code & GitHub Copilot \u2014 purpose-built for designing UX for AI products, agen",
+    "id": "varunk130/ai-ux-skill-library",
+    "language": "Python",
+    "name": "varunk130/ai-ux-skill-library",
+    "stars": 3,
+    "updated_at": "2026-10-03T18:35:00Z",
+    "url": "https://github.com/varunk130/ai-ux-skill-library"
+  },
+  {
+    "description": "Production-ready AI marketing automation skills for Claude Code, Cursor, Codex, and AI coding agents. 12 battle-tested s",
+    "id": "varunk130/ai-marketing-claude-skills",
+    "language": "Python",
+    "name": "varunk130/ai-marketing-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-03T18:33:49Z",
+    "url": "https://github.com/varunk130/ai-marketing-claude-skills"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 10,
+    "updated_at": "2026-10-03T18:33:46Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Run your marketing org as an orchestrated AI team instead of a $50K/mo tool stack and scarce specialists. 9 agents own t",
+    "id": "varunk130/ai-marketing-os",
+    "language": "TypeScript",
+    "name": "varunk130/ai-marketing-os",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:33:42Z",
+    "url": "https://github.com/varunk130/ai-marketing-os"
+  },
+  {
+    "description": "12 AI-powered skills for product discovery \u2014 from raw customer signal to validated opportunity. Built for Claude Code & ",
+    "id": "varunk130/ai-customer-discovery-skills",
+    "language": "Python",
+    "name": "varunk130/ai-customer-discovery-skills",
+    "stars": 2,
+    "updated_at": "2026-10-03T18:33:40Z",
+    "url": "https://github.com/varunk130/ai-customer-discovery-skills"
+  },
+  {
+    "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
+    "id": "culfin/claude-skills-public",
+    "language": "Python",
+    "name": "culfin/claude-skills-public",
+    "stars": 0,
+    "updated_at": "2026-10-03T18:31:45Z",
+    "url": "https://github.com/culfin/claude-skills-public"
+  },
+  {
+    "description": "AI Legal Agents OS - an agentic operating system for legal work: one master agent, nine specialist skills, MCP + MCP App",
+    "id": "varunk130/ai-legal-agents-skills-os",
+    "language": "TypeScript",
+    "name": "varunk130/ai-legal-agents-skills-os",
+    "stars": 1,
+    "updated_at": "2026-10-03T18:30:56Z",
+    "url": "https://github.com/varunk130/ai-legal-agents-skills-os"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T18:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Speed is the product. 11 Claude Code skills that help AI builders move fast, decide sharp, and 10x their impact.",
     "id": "varunk130/AI-Builder-Decision-Analyst",
     "language": "\u2014",
@@ -18,24 +117,6 @@
     "url": "https://github.com/varunk130/ai-workflow-playbooks"
   },
   {
-    "description": "Production-ready AI marketing automation skills for Claude Code, Cursor, Codex, and AI coding agents. 12 battle-tested s",
-    "id": "varunk130/ai-marketing-claude-skills",
-    "language": "Python",
-    "name": "varunk130/ai-marketing-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-03T18:29:40Z",
-    "url": "https://github.com/varunk130/ai-marketing-claude-skills"
-  },
-  {
-    "description": "AI Legal Agents OS - an agentic operating system for legal work: one master agent, nine specialist skills, MCP + MCP App",
-    "id": "varunk130/ai-legal-agents-skills-os",
-    "language": "TypeScript",
-    "name": "varunk130/ai-legal-agents-skills-os",
-    "stars": 1,
-    "updated_at": "2026-10-03T18:29:38Z",
-    "url": "https://github.com/varunk130/ai-legal-agents-skills-os"
-  },
-  {
     "description": "LLM skill files for MIST and other upcoming tools",
     "id": "mist-medical/skills",
     "language": "\u2014",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "CometWeb-io/agent-skills",
     "stars": 1,
-    "updated_at": "2026-10-03T18:29:07Z",
+    "updated_at": "2026-10-03T18:37:19Z",
     "url": "https://github.com/CometWeb-io/agent-skills"
   },
   {
@@ -59,17 +140,8 @@
     "language": "Go",
     "name": "l4ci/hv-skills",
     "stars": 0,
-    "updated_at": "2026-10-03T18:28:46Z",
+    "updated_at": "2026-10-03T18:37:59Z",
     "url": "https://github.com/l4ci/hv-skills"
-  },
-  {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 1,
-    "updated_at": "2026-10-03T18:28:43Z",
-    "url": "https://github.com/ragnarwestad/aide"
   },
   {
     "description": "A curated, categorized library of 29 production-grade Claude Code custom skills across finance, product, strategy, game ",
@@ -90,15 +162,6 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "The 12-skill AI UX design engine for Claude Code & GitHub Copilot \u2014 purpose-built for designing UX for AI products, agen",
-    "id": "varunk130/ai-ux-skill-library",
-    "language": "Python",
-    "name": "varunk130/ai-ux-skill-library",
-    "stars": 3,
-    "updated_at": "2026-10-03T18:27:20Z",
-    "url": "https://github.com/varunk130/ai-ux-skill-library"
-  },
-  {
     "description": "Unified suite of AI agents for product managers \u2014 a 6-agent orchestrated pipeline that turns customer feedback into stra",
     "id": "varunk130/ai-pm-agents-suite",
     "language": "Python",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T18:27:10Z",
     "url": "https://github.com/varunk130/ai-pm-agents-suite"
-  },
-  {
-    "description": "12 AI-powered skills for product discovery \u2014 from raw customer signal to validated opportunity. Built for Claude Code & ",
-    "id": "varunk130/ai-customer-discovery-skills",
-    "language": "Python",
-    "name": "varunk130/ai-customer-discovery-skills",
-    "stars": 2,
-    "updated_at": "2026-10-03T18:27:09Z",
-    "url": "https://github.com/varunk130/ai-customer-discovery-skills"
   },
   {
     "description": "Curated AI agent evaluation skills from Microsoft's Eval Guide \u2014 plan, generate, run, and interpret eval suites for Copi",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T18:26:51Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Run your marketing org as an orchestrated AI team instead of a $50K/mo tool stack and scarce specialists. 9 agents own t",
-    "id": "varunk130/ai-marketing-os",
-    "language": "TypeScript",
-    "name": "varunk130/ai-marketing-os",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:26:43Z",
-    "url": "https://github.com/varunk130/ai-marketing-os"
   },
   {
     "description": "31 opinionated GTM skills for Claude Code & GitHub Copilot \u2014 a complete revenue engine spanning discover, design, positi",
@@ -243,15 +288,6 @@
     "url": "https://github.com/Gamboasusana748/agent-monitor"
   },
   {
-    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
-    "id": "sebin-gg/article-sweeper",
-    "language": "Python",
-    "name": "sebin-gg/article-sweeper",
-    "stars": 1,
-    "updated_at": "2026-10-03T18:16:47Z",
-    "url": "https://github.com/sebin-gg/article-sweeper"
-  },
-  {
     "description": "Claude Code skill for technical SEO and AEO: scored audits, cited best-practice patterns, and a guardian that flags risk",
     "id": "FarhanImtiaz/seo-architect",
     "language": "Python",
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T18:15:21Z",
     "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T18:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
@@ -421,32 +448,5 @@
     "stars": 46,
     "updated_at": "2026-10-03T18:13:31Z",
     "url": "https://github.com/vanshyadav1408/Omentir"
-  },
-  {
-    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
-    "id": "hoangsonww/Claude-Code-Agent-Monitor",
-    "language": "JavaScript",
-    "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 1038,
-    "updated_at": "2026-10-03T18:09:42Z",
-    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:09:33Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "The universal open database and semantic vector search engine for AI Agent Skills, MCP Servers, Project Directives, and ",
-    "id": "nsozturk/open-agent-db",
-    "language": "Python",
-    "name": "nsozturk/open-agent-db",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:09:16Z",
-    "url": "https://github.com/nsozturk/open-agent-db"
   }
 ]
