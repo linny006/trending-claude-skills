@@ -1,12 +1,30 @@
 [
   {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 324,
-    "updated_at": "2026-10-03T14:44:26Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:59:48Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Skill Heaven -- for real software engineers. Agent Plugin that treats your skills like RAM, not Storage. Summon skills w",
+    "id": "gaia-research/gaia-skill-heaven",
+    "language": "JavaScript",
+    "name": "gaia-research/gaia-skill-heaven",
+    "stars": 4,
+    "updated_at": "2026-10-03T14:59:18Z",
+    "url": "https://github.com/gaia-research/gaia-skill-heaven"
+  },
+  {
+    "description": "Agent Skill: turn a guitar tab image (tablature + jianpu) into a play-along web page with a moving cursor, synced accomp",
+    "id": "jinjin20220405/guitar-playalong-simulator",
+    "language": "HTML",
+    "name": "jinjin20220405/guitar-playalong-simulator",
+    "stars": 1,
+    "updated_at": "2026-10-03T14:58:17Z",
+    "url": "https://github.com/jinjin20220405/guitar-playalong-simulator"
   },
   {
     "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
@@ -14,8 +32,80 @@
     "language": "Python",
     "name": "Jeffallan/claude-skills",
     "stars": 11716,
-    "updated_at": "2026-10-03T14:44:10Z",
+    "updated_at": "2026-10-03T14:59:10Z",
     "url": "https://github.com/Jeffallan/claude-skills"
+  },
+  {
+    "description": "Turn any AI chatbot into Claude Code CLI using a smart terminal copy-paste loop.",
+    "id": "apon133/chat-claude-code",
+    "language": "\u2014",
+    "name": "apon133/chat-claude-code",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:55:31Z",
+    "url": "https://github.com/apon133/chat-claude-code"
+  },
+  {
+    "description": "Agent skill: iPhone Safari layout gotchas that headless tests can't show \u2014 measured in the iOS simulator, with fixes and",
+    "id": "radiantnode/ios-safari-gotchas-skill",
+    "language": "Python",
+    "name": "radiantnode/ios-safari-gotchas-skill",
+    "stars": 2,
+    "updated_at": "2026-10-03T14:54:10Z",
+    "url": "https://github.com/radiantnode/ios-safari-gotchas-skill"
+  },
+  {
+    "description": "Agent \u6280\u80fd\uff1a\u989d\u5ea6\u8017\u5c3d\u3001\u65e0\u6cd5\u5199\u6587\u4ef6\u65f6\uff0c\u628a\u5bf9\u8bdd\u6574\u7406\u6210\u53ef\u76f4\u63a5\u590d\u5236\u7684\u4ea4\u63a5\u6587\u672c\uff0c\u8ba9\u4e0b\u4e00\u4e2a\u667a\u80fd\u4f53\u65e0\u7f1d\u63a5\u624b\u672a\u5b8c\u6210\u4efb\u52a1\u3002\u542b\u963b\u65ad\u9879\u3001\u9a8c\u8bc1\u8bc1\u636e\u4e0e\u53ef\u590d\u5236\u547d\u4ee4\u3002",
+    "id": "64922/luna-reserve-handoff",
+    "language": "\u2014",
+    "name": "64922/luna-reserve-handoff",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:52:10Z",
+    "url": "https://github.com/64922/luna-reserve-handoff"
+  },
+  {
+    "description": "Evidence-chain memory for AI agents - verbatim-first, auditable, anti-fabrication. Tell your story once, recall it with ",
+    "id": "caix84476-netizen/personal-understanding",
+    "language": "Python",
+    "name": "caix84476-netizen/personal-understanding",
+    "stars": 2,
+    "updated_at": "2026-10-03T14:50:51Z",
+    "url": "https://github.com/caix84476-netizen/personal-understanding"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:50:42Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "\u6296\u97f3\u4ea7\u4e1a\u89c6\u9891\u5206\u6790\uff1a\u63d0\u53d6\u5b57\u5e55\u5e76\u5206\u6790\u4ea7\u4e1a\u94fe\u903b\u8f91\uff5cShort-video transcription and Chinese industry-chain research skill",
+    "id": "fengziliang43-cmyk/douyin-industry-video-skill",
+    "language": "Python",
+    "name": "fengziliang43-cmyk/douyin-industry-video-skill",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:49:30Z",
+    "url": "https://github.com/fengziliang43-cmyk/douyin-industry-video-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T14:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 324,
+    "updated_at": "2026-10-03T14:46:17Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
@@ -23,7 +113,7 @@
     "language": "JavaScript",
     "name": "geml-spec/geml",
     "stars": 27,
-    "updated_at": "2026-10-03T14:41:09Z",
+    "updated_at": "2026-10-03T14:46:10Z",
     "url": "https://github.com/geml-spec/geml"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "AN0099/toothpaste-kit",
     "stars": 1,
-    "updated_at": "2026-10-03T14:39:11Z",
+    "updated_at": "2026-10-03T14:58:01Z",
     "url": "https://github.com/AN0099/toothpaste-kit"
   },
   {
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69767,
-    "updated_at": "2026-10-03T14:40:28Z",
+    "updated_at": "2026-10-03T15:00:03Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -59,7 +149,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 147,
-    "updated_at": "2026-10-03T14:39:29Z",
+    "updated_at": "2026-10-03T15:00:07Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -135,15 +225,6 @@
     "url": "https://github.com/TyrusRC/praetor"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T14:30:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
     "id": "ragnarwestad/aide",
     "language": "TypeScript",
@@ -196,24 +277,6 @@
     "stars": 546,
     "updated_at": "2026-10-03T14:24:49Z",
     "url": "https://github.com/zenstory-ai/video-recap-skills"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:22:06Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Turn any AI chatbot into Claude Code CLI using a smart terminal copy-paste loop.",
-    "id": "apon133/chat-claude-code",
-    "language": "\u2014",
-    "name": "apon133/chat-claude-code",
-    "stars": 0,
-    "updated_at": "2026-10-03T14:21:47Z",
-    "url": "https://github.com/apon133/chat-claude-code"
   },
   {
     "description": "SEO skills for Claude Code and Codex, powered by the HarborRank MCP server",
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "ikaijua/Awesome-AITools",
     "stars": 6206,
-    "updated_at": "2026-10-03T14:11:47Z",
+    "updated_at": "2026-10-03T14:46:20Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
@@ -315,15 +378,6 @@
     "url": "https://github.com/thirdsai/skills"
   },
   {
-    "description": "Evidence-chain memory for AI agents - verbatim-first, auditable, anti-fabrication. Tell your story once, recall it with ",
-    "id": "caix84476-netizen/personal-understanding",
-    "language": "Python",
-    "name": "caix84476-netizen/personal-understanding",
-    "stars": 2,
-    "updated_at": "2026-10-03T14:08:16Z",
-    "url": "https://github.com/caix84476-netizen/personal-understanding"
-  },
-  {
     "description": "A notebook and ticket registry for agents: dated rows attached to a commit, a file, an item, an arc or the project, kept",
     "id": "phreakocious/symbion",
     "language": "Python",
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "sebin-gg/article-sweeper",
     "stars": 1,
-    "updated_at": "2026-10-03T14:06:46Z",
+    "updated_at": "2026-10-03T14:54:52Z",
     "url": "https://github.com/sebin-gg/article-sweeper"
   },
   {
@@ -356,7 +410,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-03T14:43:02Z",
+    "updated_at": "2026-10-03T14:54:34Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -374,7 +428,7 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 429,
-    "updated_at": "2026-10-03T14:01:49Z",
+    "updated_at": "2026-10-03T14:55:46Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 54,
     "updated_at": "2026-10-03T14:01:28Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-10-03T14:00:56Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Grok Bot's official external channel gateway, with a return path you choose.",
-    "id": "dimpurr/grok-bot-gateway",
-    "language": "Python",
-    "name": "dimpurr/grok-bot-gateway",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:59:54Z",
-    "url": "https://github.com/dimpurr/grok-bot-gateway"
-  },
-  {
-    "description": "Agent Skills for Signado: LinkedIn warm lead workflows through the Signado MCP server.",
-    "id": "signado-io/signado-skills",
-    "language": "\u2014",
-    "name": "signado-io/signado-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:58:21Z",
-    "url": "https://github.com/signado-io/signado-skills"
-  },
-  {
-    "description": "Agent skill for Senzing entity resolution \u2014 data mapping, SDK code generation, documentation search, error troubleshooti",
-    "id": "Senzing/senzing-mcp-skill",
-    "language": "\u2014",
-    "name": "Senzing/senzing-mcp-skill",
-    "stars": 13,
-    "updated_at": "2026-10-03T13:57:20Z",
-    "url": "https://github.com/Senzing/senzing-mcp-skill"
-  },
-  {
-    "description": "Get Cowork task updates and answer its questions from your phone or Mac. Pushary OAuth connector and skill for Claude Co",
-    "id": "Pushary/cowork-plugin",
-    "language": "\u2014",
-    "name": "Pushary/cowork-plugin",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:58:56Z",
-    "url": "https://github.com/Pushary/cowork-plugin"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Rust",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 9,
-    "updated_at": "2026-10-03T14:44:02Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
   }
 ]
