@@ -1,5 +1,23 @@
 [
   {
+    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
+    "id": "mtangoz/grill",
+    "language": "JavaScript",
+    "name": "mtangoz/grill",
+    "stars": 1,
+    "updated_at": "2026-10-03T17:30:41Z",
+    "url": "https://github.com/mtangoz/grill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T17:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
     "id": "l4ci/hv-skills",
     "language": "Go",
@@ -81,15 +99,6 @@
     "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
-    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
-    "id": "mtangoz/grill",
-    "language": "JavaScript",
-    "name": "mtangoz/grill",
-    "stars": 1,
-    "updated_at": "2026-10-03T17:28:28Z",
-    "url": "https://github.com/mtangoz/grill"
-  },
-  {
     "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
     "id": "victorrentea/human-review",
     "language": "Python",
@@ -117,21 +126,12 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-03T17:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
     "id": "ragnarwestad/aide",
     "language": "TypeScript",
     "name": "ragnarwestad/aide",
     "stars": 1,
-    "updated_at": "2026-10-03T17:21:58Z",
+    "updated_at": "2026-10-03T17:30:44Z",
     "url": "https://github.com/ragnarwestad/aide"
   },
   {
@@ -337,7 +337,7 @@
     "id": "sebastianhaba/book-to-course-skill",
     "language": "Python",
     "name": "sebastianhaba/book-to-course-skill",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-03T16:54:41Z",
     "url": "https://github.com/sebastianhaba/book-to-course-skill"
   },
