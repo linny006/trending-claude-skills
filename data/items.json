@@ -1,6 +1,150 @@
 [
   {
-    "description": "Claude Skills Marketplace: 29 478 free skill packs,  Claude Skills (Agent Skills) for Claude Code and Claude.ai. HR, man",
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:28:53Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Agent skills and a logged REPL surface for Guile Scheme: guile3 --debug --listen plus a transcript-logging proxy on PORT",
+    "id": "dsp-dr/guile-skills",
+    "language": "Shell",
+    "name": "dsp-dr/guile-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:29:35Z",
+    "url": "https://github.com/dsp-dr/guile-skills"
+  },
+  {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 16,
+    "updated_at": "2026-10-04T21:26:47Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:26:22Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 37,
+    "updated_at": "2026-10-04T21:23:42Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 4,
+    "updated_at": "2026-10-04T21:23:12Z",
+    "url": "https://github.com/hraness/oh"
+  },
+  {
+    "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
+    "id": "hraness/soulscrape",
+    "language": "TypeScript",
+    "name": "hraness/soulscrape",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:22:27Z",
+    "url": "https://github.com/hraness/soulscrape"
+  },
+  {
+    "description": "An Agent Skill that tags your reaction GIFs and memes once, then finds the right one for the moment.",
+    "id": "vdelaurenti/reaction-library",
+    "language": "\u2014",
+    "name": "vdelaurenti/reaction-library",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:22:16Z",
+    "url": "https://github.com/vdelaurenti/reaction-library"
+  },
+  {
+    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
+    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "language": "Python",
+    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "stars": 16,
+    "updated_at": "2026-10-04T21:22:27Z",
+    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 63,
+    "updated_at": "2026-10-04T21:20:04Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Agent Skills for repository work, multi-phase delivery with review, and named reasoning methods. Works in Codex, Cursor,",
+    "id": "hraness/skillpack",
+    "language": "TypeScript",
+    "name": "hraness/skillpack",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:19:46Z",
+    "url": "https://github.com/hraness/skillpack"
+  },
+  {
+    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
+    "id": "heymegabyte/agent-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/agent-skills",
+    "stars": 22,
+    "updated_at": "2026-10-04T21:19:28Z",
+    "url": "https://github.com/heymegabyte/agent-skills"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 24,
+    "updated_at": "2026-10-04T21:26:32Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-10-04T21:16:34Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-04T21:16:25Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 52,
+    "updated_at": "2026-10-04T21:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Skills Marketplace: 34 free skill packs, 668 Claude Skills (Agent Skills) for Claude Code and Claude.ai. HR, mana",
     "id": "polar-bear-org/claude-skills",
     "language": "Shell",
     "name": "polar-bear-org/claude-skills",
@@ -27,15 +171,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Claude Code skill to clone a reference motion-design video (timing, choreography, sound), prove it with measured gates, ",
-    "id": "christopher-lasgi/motion-mirror",
-    "language": "Shell",
-    "name": "christopher-lasgi/motion-mirror",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:14:14Z",
-    "url": "https://github.com/christopher-lasgi/motion-mirror"
-  },
-  {
     "description": "Skills for Claude Code that carry a house style for Java projects",
     "id": "dmitriy-iliyov/java-agent-skills",
     "language": "\u2014",
@@ -50,7 +185,7 @@
     "language": "Python",
     "name": "ting-hong-shieh/polish-open-source-prose",
     "stars": 8,
-    "updated_at": "2026-10-04T21:13:38Z",
+    "updated_at": "2026-10-04T21:26:54Z",
     "url": "https://github.com/ting-hong-shieh/polish-open-source-prose"
   },
   {
@@ -61,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T21:12:02Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:11:31Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
-    "id": "heymegabyte/agent-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/agent-skills",
-    "stars": 22,
-    "updated_at": "2026-10-04T21:11:00Z",
-    "url": "https://github.com/heymegabyte/agent-skills"
   },
   {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
@@ -180,22 +297,13 @@
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   },
   {
-    "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
-    "id": "hraness/soulscrape",
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
-    "name": "hraness/soulscrape",
-    "stars": 1,
-    "updated_at": "2026-10-04T21:07:09Z",
-    "url": "https://github.com/hraness/soulscrape"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 52,
-    "updated_at": "2026-10-04T21:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69797,
+    "updated_at": "2026-10-04T21:02:10Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Drop your raw clips, type /video-edit, get a finished short-form video. Best takes, kinetic captions, words behind you, ",
@@ -223,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T20:58:34Z",
     "url": "https://github.com/kartikchadha25/agent-evals-explained"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 24,
-    "updated_at": "2026-10-04T21:07:41Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
     "description": "",
@@ -292,18 +391,9 @@
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 1126,
+    "stars": 1129,
     "updated_at": "2026-10-04T20:53:10Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69796,
-    "updated_at": "2026-10-04T21:02:10Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
@@ -322,15 +412,6 @@
     "stars": 5,
     "updated_at": "2026-10-04T20:50:16Z",
     "url": "https://github.com/michalstrnadel/source-to-skill"
-  },
-  {
-    "description": "Agent Skills for repository work, multi-phase delivery with review, and named reasoning methods. Works in Codex, Cursor,",
-    "id": "hraness/skillpack",
-    "language": "TypeScript",
-    "name": "hraness/skillpack",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:47:59Z",
-    "url": "https://github.com/hraness/skillpack"
   },
   {
     "description": "Skills for Claude Code and Codex: durable goal loops, parallel review, research, investigation and implementation, and r",
@@ -367,86 +448,5 @@
     "stars": 40197,
     "updated_at": "2026-10-04T20:49:16Z",
     "url": "https://github.com/wshobson/agents"
-  },
-  {
-    "description": "Claude Code plugins I use every day: skills and mods, cleaned up so they work on anyone's machine.",
-    "id": "mutlumehmet/claude-plugins",
-    "language": "TypeScript",
-    "name": "mutlumehmet/claude-plugins",
-    "stars": 3,
-    "updated_at": "2026-10-04T20:42:12Z",
-    "url": "https://github.com/mutlumehmet/claude-plugins"
-  },
-  {
-    "description": "houki MCP family \u3092\u6a2a\u65ad\u3057\u3066\u65e5\u672c\u306e\u6cd5\u4ee4\u30fb\u901a\u9054\u3092\u8abf\u3079\u308b\u3068\u304d\u306e\u884c\u52d5\u6307\u91dd\u3092 Claude \u306b\u4e0e\u3048\u308b Claude Skill\u3002 Claude Skill for researching Japanese law across th",
-    "id": "shuji-bonji/houki-research-skill",
-    "language": "JavaScript",
-    "name": "shuji-bonji/houki-research-skill",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:40:48Z",
-    "url": "https://github.com/shuji-bonji/houki-research-skill"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-04T20:40:29Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-04T20:38:52Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
-    "id": "hraness/wordcell",
-    "language": "TypeScript",
-    "name": "hraness/wordcell",
-    "stars": 16,
-    "updated_at": "2026-10-04T20:40:27Z",
-    "url": "https://github.com/hraness/wordcell"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 265,
-    "updated_at": "2026-10-04T20:35:44Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
-    "description": "API tests built to question your code, not just copy it. Claude Code or Codex builds a suite from your backend repo and ",
-    "id": "lawli/repo2test",
-    "language": "Python",
-    "name": "lawli/repo2test",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:35:29Z",
-    "url": "https://github.com/lawli/repo2test"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 53,
-    "updated_at": "2026-10-04T20:34:20Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
-    "id": "indocindesertplant48/claude-vault",
-    "language": "TypeScript",
-    "name": "indocindesertplant48/claude-vault",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:34:04Z",
-    "url": "https://github.com/indocindesertplant48/claude-vault"
   }
 ]
