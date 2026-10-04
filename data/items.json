@@ -1,12 +1,129 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 37,
+    "updated_at": "2026-10-04T00:58:52Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-04T00:56:14Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "Your whole product team, not just a coding agent. Plan \u2192 design \u2192 build \u2192 QA, with you as the PM who signs off.",
+    "id": "AyeJK/phase-runner",
+    "language": "TypeScript",
+    "name": "AyeJK/phase-runner",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:55:41Z",
+    "url": "https://github.com/AyeJK/phase-runner"
+  },
+  {
+    "description": "14-category autonomous product-building OS for 32+ AI coding tools. One-line prompts \u2192 deployed products.",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 22,
+    "updated_at": "2026-10-04T00:55:38Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-04T00:55:20Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
+    "id": "jiawood2006/hermes-skills",
+    "language": "Python",
+    "name": "jiawood2006/hermes-skills",
+    "stars": 2,
+    "updated_at": "2026-10-04T00:55:18Z",
+    "url": "https://github.com/jiawood2006/hermes-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95582,
+    "updated_at": "2026-10-04T00:57:25Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "Ai skills based on my precedent work and style of dev",
     "id": "TsukiNi22/skills",
     "language": "Python",
     "name": "TsukiNi22/skills",
     "stars": 1,
-    "updated_at": "2026-10-04T00:44:43Z",
+    "updated_at": "2026-10-04T00:53:34Z",
     "url": "https://github.com/TsukiNi22/skills"
+  },
+  {
+    "description": "\ud83e\udd4a Mini Arena: a Claude skill that makes rival drafts fight it out and hands you only the winner. Works in regular Claude",
+    "id": "Brain-ai-biz/mini-arena",
+    "language": "\u2014",
+    "name": "Brain-ai-biz/mini-arena",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:52:25Z",
+    "url": "https://github.com/Brain-ai-biz/mini-arena"
+  },
+  {
+    "description": "A Claude Code skill for documenting work sessions, capturing learnings, and improving collaboration",
+    "id": "quicksketcherz/session-log-companion",
+    "language": "Python",
+    "name": "quicksketcherz/session-log-companion",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:52:15Z",
+    "url": "https://github.com/quicksketcherz/session-log-companion"
+  },
+  {
+    "description": "Put your idea on trial in front of a jury of 12 Claudes. A free Claude Code skill.",
+    "id": "alexyc9381/court-skill",
+    "language": "Python",
+    "name": "alexyc9381/court-skill",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:49:54Z",
+    "url": "https://github.com/alexyc9381/court-skill"
+  },
+  {
+    "description": "Pitch your idea to a Shark Tank-style panel of Claude sharks who want to say no. A free Claude Code skill.",
+    "id": "alexyc9381/shark-skill",
+    "language": "Python",
+    "name": "alexyc9381/shark-skill",
+    "stars": 1,
+    "updated_at": "2026-10-04T00:49:51Z",
+    "url": "https://github.com/alexyc9381/shark-skill"
+  },
+  {
+    "description": "Workflow skills for Claude Code: skill-harvest turns sessions into skills, pots keeps todos that scan your files (solo o",
+    "id": "HehewCrew/claude-skills",
+    "language": "Python",
+    "name": "HehewCrew/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:46:47Z",
+    "url": "https://github.com/HehewCrew/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-04T00:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Which AI agent Skills survive a real build? Every pick is field-tested by building a product from scratch, then rated on",
@@ -18,24 +135,6 @@
     "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
   },
   {
-    "description": "A Claude Code skill for documenting work sessions, capturing learnings, and improving collaboration",
-    "id": "quicksketcherz/session-log-companion",
-    "language": "Python",
-    "name": "quicksketcherz/session-log-companion",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:43:53Z",
-    "url": "https://github.com/quicksketcherz/session-log-companion"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-04T00:43:49Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
     "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
     "language": "HTML",
@@ -43,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-04T00:43:45Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Put your idea on trial in front of a jury of 12 Claudes. A free Claude Code skill.",
-    "id": "alexyc9381/court-skill",
-    "language": "Python",
-    "name": "alexyc9381/court-skill",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:41:10Z",
-    "url": "https://github.com/alexyc9381/court-skill"
-  },
-  {
-    "description": "Pitch your idea to a Shark Tank-style panel of Claude sharks who want to say no. A free Claude Code skill.",
-    "id": "alexyc9381/shark-skill",
-    "language": "Python",
-    "name": "alexyc9381/shark-skill",
-    "stars": 1,
-    "updated_at": "2026-10-04T00:41:09Z",
-    "url": "https://github.com/alexyc9381/shark-skill"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "selfishprimate/seekter",
     "stars": 48,
-    "updated_at": "2026-10-04T00:36:35Z",
+    "updated_at": "2026-10-04T00:57:45Z",
     "url": "https://github.com/selfishprimate/seekter"
   },
   {
@@ -112,7 +193,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69774,
+    "stars": 69775,
     "updated_at": "2026-10-04T00:35:22Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -140,7 +221,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 24,
-    "updated_at": "2026-10-04T00:39:52Z",
+    "updated_at": "2026-10-04T00:48:35Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -160,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T00:30:18Z",
     "url": "https://github.com/proskillpacks/shopify-store-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-04T00:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95578,
-    "updated_at": "2026-10-04T00:28:35Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "configuration of claude code here you have the best practice of skillls, hooks, rules, cripts, and different tools to he",
@@ -284,7 +347,7 @@
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 126,
-    "updated_at": "2026-10-04T00:10:23Z",
+    "updated_at": "2026-10-04T00:59:13Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 9,
-    "updated_at": "2026-10-04T00:39:20Z",
+    "updated_at": "2026-10-04T00:54:33Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -383,70 +446,7 @@
     "language": "TypeScript",
     "name": "qbeka/jev-job-search",
     "stars": 6,
-    "updated_at": "2026-10-04T00:43:12Z",
+    "updated_at": "2026-10-04T00:51:37Z",
     "url": "https://github.com/qbeka/jev-job-search"
-  },
-  {
-    "description": "A collection of reusable skills for AI coding agents (OpenCode, Claude Code, Cursor, Copilot, and any agent that reads t",
-    "id": "DevJuanP/skills",
-    "language": "Shell",
-    "name": "DevJuanP/skills",
-    "stars": 1,
-    "updated_at": "2026-10-03T23:51:16Z",
-    "url": "https://github.com/DevJuanP/skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
-    "id": "air-gapped/skills",
-    "language": "Python",
-    "name": "air-gapped/skills",
-    "stars": 5,
-    "updated_at": "2026-10-03T23:50:15Z",
-    "url": "https://github.com/air-gapped/skills"
-  },
-  {
-    "description": "Compact Claude Code sessions early to save cost without losing anything: archive every transcript before compaction (Pre",
-    "id": "yikaiwang1/claude-compact-archive",
-    "language": "Python",
-    "name": "yikaiwang1/claude-compact-archive",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:44:52Z",
-    "url": "https://github.com/yikaiwang1/claude-compact-archive"
-  },
-  {
-    "description": "Balzac is an AI-powered SEO and GEO content engine, shipped as a CLI, MCP server, and API. The perfect skill for Claude ",
-    "id": "hirebalzac/cli",
-    "language": "TypeScript",
-    "name": "hirebalzac/cli",
-    "stars": 3,
-    "updated_at": "2026-10-03T23:44:30Z",
-    "url": "https://github.com/hirebalzac/cli"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:43:20Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:40:23Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:38:48Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
