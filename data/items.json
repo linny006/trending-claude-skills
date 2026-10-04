@@ -1,12 +1,120 @@
 [
   {
+    "description": "Project orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-04T13:29:34Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude Code plugin and CLI: the agent writes a Markdown script and renders it as a single-file explainer HTML page or an",
+    "id": "nu0ma/explain",
+    "language": "TypeScript",
+    "name": "nu0ma/explain",
+    "stars": 0,
+    "updated_at": "2026-10-04T13:28:38Z",
+    "url": "https://github.com/nu0ma/explain"
+  },
+  {
+    "description": "1166 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1421,
+    "updated_at": "2026-10-04T13:28:36Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a",
+    "id": "wshobson/agents",
+    "language": "Python",
+    "name": "wshobson/agents",
+    "stars": 40186,
+    "updated_at": "2026-10-04T13:27:36Z",
+    "url": "https://github.com/wshobson/agents"
+  },
+  {
+    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
+    "id": "FynePool/fanta-carbonara",
+    "language": "Python",
+    "name": "FynePool/fanta-carbonara",
+    "stars": 0,
+    "updated_at": "2026-10-04T13:27:33Z",
+    "url": "https://github.com/FynePool/fanta-carbonara"
+  },
+  {
+    "description": "Claude Code skill that turns your chat history into a categorised developer profile, project memory and team skills. Rep",
+    "id": "sumant22/claude-dev-profile",
+    "language": "\u2014",
+    "name": "sumant22/claude-dev-profile",
+    "stars": 0,
+    "updated_at": "2026-10-04T13:26:02Z",
+    "url": "https://github.com/sumant22/claude-dev-profile"
+  },
+  {
+    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
+    "id": "coldteadotai/pr-lens",
+    "language": "TypeScript",
+    "name": "coldteadotai/pr-lens",
+    "stars": 1851,
+    "updated_at": "2026-10-04T13:26:00Z",
+    "url": "https://github.com/coldteadotai/pr-lens"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-04T13:23:40Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
+    "id": "RemiAsselin42/claude-config",
+    "language": "Shell",
+    "name": "RemiAsselin42/claude-config",
+    "stars": 1,
+    "updated_at": "2026-10-04T13:22:24Z",
+    "url": "https://github.com/RemiAsselin42/claude-config"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 3,
+    "updated_at": "2026-10-04T13:16:29Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "AI Agent \u6280\u80fd\u805a\u5408\u4ed3\uff1a29 \u4e2a\u751f\u4ea7\u7ea7 SKILL.md\uff08\u8de8\u5de5\u5177 + DSH \u517c\u5bb9\uff09\uff5c29 production-grade AI agent skills, cross-tool & DeepSeek Harness compati",
+    "id": "xingtu1996/xingtu-skills",
+    "language": "Python",
+    "name": "xingtu1996/xingtu-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T13:15:33Z",
+    "url": "https://github.com/xingtu1996/xingtu-skills"
+  },
+  {
     "description": "Free, open SKILL.md skills for AI agents, by area of life: daily ops, health, parenting, money, home, car, work. CC0.",
     "id": "swarmhq-skills/agent-skills",
     "language": "\u2014",
     "name": "swarmhq-skills/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-04T13:14:52Z",
+    "updated_at": "2026-10-04T13:15:18Z",
     "url": "https://github.com/swarmhq-skills/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 52,
+    "updated_at": "2026-10-04T13:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
@@ -41,17 +149,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-04T13:11:54Z",
+    "updated_at": "2026-10-04T13:29:23Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Claude Code skill that turns your chat history into a categorised developer profile, project memory and team skills. Rep",
-    "id": "sumant22/claude-dev-profile",
-    "language": "\u2014",
-    "name": "sumant22/claude-dev-profile",
-    "stars": 0,
-    "updated_at": "2026-10-04T13:09:33Z",
-    "url": "https://github.com/sumant22/claude-dev-profile"
   },
   {
     "description": "No longer developed. Continues as rota: https://github.com/l4ci/rota",
@@ -86,7 +185,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69789,
-    "updated_at": "2026-10-04T13:02:51Z",
+    "updated_at": "2026-10-04T13:16:38Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -97,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T13:05:15Z",
     "url": "https://github.com/malkreide/mcp-audit-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 52,
-    "updated_at": "2026-10-04T13:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Claude Code plugin for Siemens TIA Portal engineering automation.",
@@ -122,7 +212,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-04T13:05:43Z",
+    "updated_at": "2026-10-04T13:22:27Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -133,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T12:57:18Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Review code 100X faster. Lens draws every PR as animated architecture and data-flow walkthroughs, inside the pull reques",
-    "id": "coldteadotai/pr-lens",
-    "language": "TypeScript",
-    "name": "coldteadotai/pr-lens",
-    "stars": 1851,
-    "updated_at": "2026-10-04T12:58:20Z",
-    "url": "https://github.com/coldteadotai/pr-lens"
-  },
-  {
-    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
-    "id": "FynePool/fanta-carbonara",
-    "language": "Python",
-    "name": "FynePool/fanta-carbonara",
-    "stars": 0,
-    "updated_at": "2026-10-04T12:56:03Z",
-    "url": "https://github.com/FynePool/fanta-carbonara"
   },
   {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
@@ -185,17 +257,8 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 24,
-    "updated_at": "2026-10-04T13:02:27Z",
+    "updated_at": "2026-10-04T13:20:50Z",
     "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
-    "description": "Project orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-04T13:09:29Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -220,25 +283,16 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 76964,
+    "stars": 76973,
     "updated_at": "2026-10-04T12:49:45Z",
     "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "Claude Code plugin and CLI: the agent writes a Markdown script and renders it as a single-file explainer HTML page or an",
-    "id": "nu0ma/explain",
-    "language": "TypeScript",
-    "name": "nu0ma/explain",
-    "stars": 0,
-    "updated_at": "2026-10-04T12:47:19Z",
-    "url": "https://github.com/nu0ma/explain"
   },
   {
     "description": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-s",
     "id": "sebastianhaba/book-to-course-skill",
     "language": "Python",
     "name": "sebastianhaba/book-to-course-skill",
-    "stars": 20,
+    "stars": 21,
     "updated_at": "2026-10-04T12:44:19Z",
     "url": "https://github.com/sebastianhaba/book-to-course-skill"
   },
@@ -270,20 +324,11 @@
     "url": "https://github.com/xianyu110/brand-ip-kit-skills"
   },
   {
-    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a",
-    "id": "wshobson/agents",
-    "language": "Python",
-    "name": "wshobson/agents",
-    "stars": 40186,
-    "updated_at": "2026-10-04T12:40:23Z",
-    "url": "https://github.com/wshobson/agents"
-  },
-  {
     "description": "12 \u7535\u5546\u51fa\u56fe Agent Skills for Claude Code / Codex / Cursor \u00b7 GPT Image 2.5 (Flare/Sunburst) \u00b7 Amazon \u767d\u5e95\u4e3b\u56fe, A+, \u573a\u666f\u56fe, \u6a21\u7279\u56fe, \u5c0f\u7ea2\u4e66\u5c01",
     "id": "xianyu110/ecommerce-image-skills",
     "language": "Python",
     "name": "xianyu110/ecommerce-image-skills",
-    "stars": 30,
+    "stars": 31,
     "updated_at": "2026-10-04T12:40:18Z",
     "url": "https://github.com/xianyu110/ecommerce-image-skills"
   },
@@ -319,7 +364,7 @@
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 1081,
+    "stars": 1082,
     "updated_at": "2026-10-04T12:39:49Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T12:35:45Z",
     "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-10-04T12:35:37Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "\u901a\u7528\u5199\u4f5c\u65b9\u6cd5\u8bba skill:\u628a\u590d\u6742\u4e3b\u9898\u5199\u6210\u8bfb\u8005\u80fd\u4e00\u8def\u8ddf\u4e0a\u3001\u4eb2\u624b\u9a8c\u8bc1\u3001\u8bfb\u5b8c\u4fe1\u4efb\u7684\u6df1\u5ea6\u89e3\u91ca\u6587;\u84b8\u998f\u81ea Distill \u540d\u7bc7,\u4e0d\u7ed1\u5b9a\u9886\u57df (A writing-methodology skill: deep explainers readers ",
-    "id": "MicTx/gentle-introduction-skill",
-    "language": "JavaScript",
-    "name": "MicTx/gentle-introduction-skill",
-    "stars": 0,
-    "updated_at": "2026-10-04T12:35:41Z",
-    "url": "https://github.com/MicTx/gentle-introduction-skill"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-10-04T13:04:37Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 1,
-    "updated_at": "2026-10-04T12:34:36Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-10-04T12:34:32Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
   }
 ]
