@@ -1,5 +1,167 @@
 [
   {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30872,
+    "updated_at": "2026-10-04T01:29:17Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "SKILL.md for creating animations with Manim. Coding Agent autonomously plans scenes, writes Manim code, renders videos, ",
+    "id": "Yusuke710/manim-skill",
+    "language": "HTML",
+    "name": "Yusuke710/manim-skill",
+    "stars": 159,
+    "updated_at": "2026-10-04T01:29:05Z",
+    "url": "https://github.com/Yusuke710/manim-skill"
+  },
+  {
+    "description": "14 open source Agent Skills (SKILL.md) for one-person companies run with AI: Vietnamese transcripts, copy and voice dict",
+    "id": "ducdg88/ducpt-skills",
+    "language": "Python",
+    "name": "ducdg88/ducpt-skills",
+    "stars": 6,
+    "updated_at": "2026-10-04T01:28:35Z",
+    "url": "https://github.com/ducdg88/ducpt-skills"
+  },
+  {
+    "description": "Names the harness piece behind each problem in your sessions, what it cost, and whether the fix worked.",
+    "id": "guilhermebkel/harness-ledger",
+    "language": "TypeScript",
+    "name": "guilhermebkel/harness-ledger",
+    "stars": 1,
+    "updated_at": "2026-10-04T01:28:51Z",
+    "url": "https://github.com/guilhermebkel/harness-ledger"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-04T01:27:16Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
+    "id": "sebin-gg/article-sweeper",
+    "language": "Python",
+    "name": "sebin-gg/article-sweeper",
+    "stars": 1,
+    "updated_at": "2026-10-04T01:26:40Z",
+    "url": "https://github.com/sebin-gg/article-sweeper"
+  },
+  {
+    "description": "Android-use for coding agents: give Claude Code, Codex, Cursor or any MCP client a disposable Android device it can see,",
+    "id": "ramus-dev/android-use",
+    "language": "Python",
+    "name": "ramus-dev/android-use",
+    "stars": 2,
+    "updated_at": "2026-10-04T01:25:22Z",
+    "url": "https://github.com/ramus-dev/android-use"
+  },
+  {
+    "description": "Free Claude Code skills. safe-multi-session-deploy: stop multiple AI agents / Claude Code sessions from clobbering work,",
+    "id": "Madwr1d/skills",
+    "language": "Shell",
+    "name": "Madwr1d/skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:23:45Z",
+    "url": "https://github.com/Madwr1d/skills"
+  },
+  {
+    "description": "A Claude Skill that analyzes any problem through 12 lenses and returns 5 diverse solutions plus an Occam's Razor anchor.",
+    "id": "davehallmon/problem-lens",
+    "language": "Python",
+    "name": "davehallmon/problem-lens",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:24:36Z",
+    "url": "https://github.com/davehallmon/problem-lens"
+  },
+  {
+    "description": "AI skills for Claude Code: product marketing, strategy and GTM frameworks from a product leader.",
+    "id": "yannickYamo/skills",
+    "language": "\u2014",
+    "name": "yannickYamo/skills",
+    "stars": 23,
+    "updated_at": "2026-10-04T01:22:03Z",
+    "url": "https://github.com/yannickYamo/skills"
+  },
+  {
+    "description": "Free, tested Agent Skills for Shopify store owners: image alt text, policy audit, title cleanup, review replies and an A",
+    "id": "proskillpacks/shopify-store-skills",
+    "language": "Python",
+    "name": "proskillpacks/shopify-store-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T01:20:12Z",
+    "url": "https://github.com/proskillpacks/shopify-store-skills"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/skills",
+    "language": "Python",
+    "name": "TsukiNi22/skills",
+    "stars": 1,
+    "updated_at": "2026-10-04T01:20:16Z",
+    "url": "https://github.com/TsukiNi22/skills"
+  },
+  {
+    "description": "A job-search agent for Claude Code. It searches job sources every day, filters postings against your rules (location, vi",
+    "id": "selfishprimate/seekter",
+    "language": "Python",
+    "name": "selfishprimate/seekter",
+    "stars": 48,
+    "updated_at": "2026-10-04T01:19:33Z",
+    "url": "https://github.com/selfishprimate/seekter"
+  },
+  {
+    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 447,
+    "updated_at": "2026-10-04T01:19:06Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95595,
+    "updated_at": "2026-10-04T01:18:09Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 14,
+    "updated_at": "2026-10-04T01:16:45Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "Find software internships and new-grad jobs, fill the application forms, check every answer on the page, and send the on",
+    "id": "qbeka/jev-job-search",
+    "language": "TypeScript",
+    "name": "qbeka/jev-job-search",
+    "stars": 6,
+    "updated_at": "2026-10-04T01:28:04Z",
+    "url": "https://github.com/qbeka/jev-job-search"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-04T01:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "589 searchable agent skills for GPT/Codex, Claude and OpenCode, including reproducible medical/physio literature researc",
     "id": "yigityildiz0/universal-ai-skill-library",
     "language": "Python",
@@ -9,24 +171,6 @@
     "url": "https://github.com/yigityildiz0/universal-ai-skill-library"
   },
   {
-    "description": "A very opinionated Claude Code plugin designed by a Rustacean",
-    "id": "xsyetopz/dotclaude",
-    "language": "JavaScript",
-    "name": "xsyetopz/dotclaude",
-    "stars": 0,
-    "updated_at": "2026-10-04T01:13:51Z",
-    "url": "https://github.com/xsyetopz/dotclaude"
-  },
-  {
-    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
-    "id": "sebin-gg/article-sweeper",
-    "language": "Python",
-    "name": "sebin-gg/article-sweeper",
-    "stars": 1,
-    "updated_at": "2026-10-04T01:13:36Z",
-    "url": "https://github.com/sebin-gg/article-sweeper"
-  },
-  {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
     "id": "geml-spec/geml",
     "language": "JavaScript",
@@ -34,15 +178,6 @@
     "stars": 27,
     "updated_at": "2026-10-04T01:13:16Z",
     "url": "https://github.com/geml-spec/geml"
-  },
-  {
-    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
-    "id": "tonydzi/clawrush",
-    "language": "Python",
-    "name": "tonydzi/clawrush",
-    "stars": 14,
-    "updated_at": "2026-10-04T01:12:16Z",
-    "url": "https://github.com/tonydzi/clawrush"
   },
   {
     "description": "Agent Skill that lets Claude (Code/Desktop) and Cursor edit real video \u2014 auto-edit, clipping, subtitles, avatars, publis",
@@ -58,27 +193,9 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69777,
+    "stars": 69778,
     "updated_at": "2026-10-04T01:10:02Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Android-use for coding agents: give Claude Code, Codex, Cursor or any MCP client a disposable Android device it can see,",
-    "id": "ramus-dev/android-use",
-    "language": "Python",
-    "name": "ramus-dev/android-use",
-    "stars": 2,
-    "updated_at": "2026-10-04T01:09:37Z",
-    "url": "https://github.com/ramus-dev/android-use"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95588,
-    "updated_at": "2026-10-04T01:06:26Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -144,15 +261,6 @@
     "url": "https://github.com/LinklyAI/best-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-04T01:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -160,15 +268,6 @@
     "stars": 37,
     "updated_at": "2026-10-04T00:58:52Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-04T00:56:14Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
     "description": "Your whole product team, not just a coding agent. Plan \u2192 design \u2192 build \u2192 QA, with you as the PM who signs off.",
@@ -205,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-10-04T00:55:18Z",
     "url": "https://github.com/jiawood2006/hermes-skills"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/skills",
-    "language": "Python",
-    "name": "TsukiNi22/skills",
-    "stars": 1,
-    "updated_at": "2026-10-04T00:53:34Z",
-    "url": "https://github.com/TsukiNi22/skills"
   },
   {
     "description": "A Claude Code skill for documenting work sessions, capturing learnings, and improving collaboration",
@@ -297,15 +387,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "A job-search agent for Claude Code. It searches job sources every day, filters postings against your rules (location, vi",
-    "id": "selfishprimate/seekter",
-    "language": "Python",
-    "name": "selfishprimate/seekter",
-    "stars": 48,
-    "updated_at": "2026-10-04T00:57:45Z",
-    "url": "https://github.com/selfishprimate/seekter"
-  },
-  {
     "description": "Six Claude Code skills that work in any project: rule sets that load only when called, a dev round, codex sessions, roas",
     "id": "sijav/Sijav-Skills",
     "language": "Python",
@@ -338,7 +419,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 24,
-    "updated_at": "2026-10-04T01:05:00Z",
+    "updated_at": "2026-10-04T01:17:31Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -347,17 +428,8 @@
     "language": "Python",
     "name": "Aperivue/medsci-skills",
     "stars": 325,
-    "updated_at": "2026-10-04T00:40:39Z",
+    "updated_at": "2026-10-04T01:24:22Z",
     "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "Free, tested Agent Skills for Shopify store owners: image alt text, policy audit, title cleanup, review replies and an A",
-    "id": "proskillpacks/shopify-store-skills",
-    "language": "Python",
-    "name": "proskillpacks/shopify-store-skills",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:30:18Z",
-    "url": "https://github.com/proskillpacks/shopify-store-skills"
   },
   {
     "description": "configuration of claude code here you have the best practice of skillls, hooks, rules, cripts, and different tools to he",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T00:22:53Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "Claude Desktop brings the Claude AI assistant directly to your Windows PC. Instead of relying only on a browser, the des",
-    "id": "Claude-Desktop-2026/.github",
-    "language": "\u2014",
-    "name": "Claude-Desktop-2026/.github",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:21:57Z",
-    "url": "https://github.com/Claude-Desktop-2026/.github"
-  },
-  {
-    "description": "",
-    "id": "madisonrickert/claude-skills",
-    "language": "\u2014",
-    "name": "madisonrickert/claude-skills",
-    "stars": 3,
-    "updated_at": "2026-10-04T00:18:22Z",
-    "url": "https://github.com/madisonrickert/claude-skills"
-  },
-  {
-    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
-    "id": "getedgehq/skills",
-    "language": "Python",
-    "name": "getedgehq/skills",
-    "stars": 3,
-    "updated_at": "2026-10-04T00:17:11Z",
-    "url": "https://github.com/getedgehq/skills"
-  },
-  {
-    "description": "Unified 6-phase execution discipline + persistent cross-session memory protocol for AI agents (installable via skills.sh",
-    "id": "hoshiyomiX/stellar-trail",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trail",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:16:31Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trail"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-04T00:14:55Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
-    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "language": "HTML",
-    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
-    "stars": 54,
-    "updated_at": "2026-10-04T00:11:07Z",
-    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po",
-    "id": "indranilbanerjee/neels-plugins",
-    "language": "Python",
-    "name": "indranilbanerjee/neels-plugins",
-    "stars": 6,
-    "updated_at": "2026-10-04T00:10:37Z",
-    "url": "https://github.com/indranilbanerjee/neels-plugins"
-  },
-  {
-    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
-    "id": "indranilbanerjee/socialforge",
-    "language": "Python",
-    "name": "indranilbanerjee/socialforge",
-    "stars": 39,
-    "updated_at": "2026-10-04T00:10:28Z",
-    "url": "https://github.com/indranilbanerjee/socialforge"
   }
 ]
