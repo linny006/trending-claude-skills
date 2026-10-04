@@ -1,5 +1,77 @@
 [
   {
+    "description": "Steal ideas, not content: a Telegram link stash + Claude Code skill",
+    "id": "elviisaeva/petty-thief",
+    "language": "TypeScript",
+    "name": "elviisaeva/petty-thief",
+    "stars": 0,
+    "updated_at": "2026-10-04T14:44:53Z",
+    "url": "https://github.com/elviisaeva/petty-thief"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 77028,
+    "updated_at": "2026-10-04T14:43:06Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6207,
+    "updated_at": "2026-10-04T14:42:50Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "An agent skill for academic research, powered by Agent Bayes, for Claude Code, Codex, and other MCP harnesses. It handle",
+    "id": "loudinthecloud/z4n4-automated-research-skills",
+    "language": "Python",
+    "name": "loudinthecloud/z4n4-automated-research-skills",
+    "stars": 1,
+    "updated_at": "2026-10-04T14:42:41Z",
+    "url": "https://github.com/loudinthecloud/z4n4-automated-research-skills"
+  },
+  {
+    "description": "Claude Code skills for repository audits and documentation: verify README and docs claims against the code, run audits w",
+    "id": "basitalisandhu/repo-engineering-skills",
+    "language": "Python",
+    "name": "basitalisandhu/repo-engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T14:42:36Z",
+    "url": "https://github.com/basitalisandhu/repo-engineering-skills"
+  },
+  {
+    "description": "\u65e5\u672c\u8a9e\u30e9\u30a4\u30c6\u30a3\u30f3\u30b0\u652f\u63f4\u3092\u76ee\u7684\u3068\u3057\u305fClaude Skills",
+    "id": "finelagusaz/ja-writing-tools",
+    "language": "\u2014",
+    "name": "finelagusaz/ja-writing-tools",
+    "stars": 6,
+    "updated_at": "2026-10-04T14:41:57Z",
+    "url": "https://github.com/finelagusaz/ja-writing-tools"
+  },
+  {
+    "description": "Battle-tested agent skills on judgment before action, distilled from real OSS work",
+    "id": "HelloWorldU/skill-collection",
+    "language": "\u2014",
+    "name": "HelloWorldU/skill-collection",
+    "stars": 0,
+    "updated_at": "2026-10-04T14:41:40Z",
+    "url": "https://github.com/HelloWorldU/skill-collection"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 52,
+    "updated_at": "2026-10-04T14:41:05Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
     "id": "Aperivue/medsci-skills",
     "language": "Python",
@@ -9,13 +81,13 @@
     "url": "https://github.com/Aperivue/medsci-skills"
   },
   {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 77025,
-    "updated_at": "2026-10-04T14:38:13Z",
-    "url": "https://github.com/tt-a1i/archify"
+    "description": "Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent",
+    "id": "MohammadHijjawi97/since-cutoff",
+    "language": "Python",
+    "name": "MohammadHijjawi97/since-cutoff",
+    "stars": 6,
+    "updated_at": "2026-10-04T14:39:17Z",
+    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
   },
   {
     "description": "Open-source AI agent skills for tai chi sword (\u592a\u6781\u5251) \u2014 selection, safety, technique, legal travel/ownership, health benef",
@@ -90,15 +162,6 @@
     "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
   },
   {
-    "description": "An interoperable system of agent skills for academic research, powered by Agent Bayes",
-    "id": "loudinthecloud/z4n4-automated-research-skills",
-    "language": "Python",
-    "name": "loudinthecloud/z4n4-automated-research-skills",
-    "stars": 1,
-    "updated_at": "2026-10-04T14:35:31Z",
-    "url": "https://github.com/loudinthecloud/z4n4-automated-research-skills"
-  },
-  {
     "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
     "id": "alicekane437/cv-job-market-research",
     "language": "\u2014",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T14:34:31Z",
     "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent",
-    "id": "MohammadHijjawi97/since-cutoff",
-    "language": "Python",
-    "name": "MohammadHijjawi97/since-cutoff",
-    "stars": 6,
-    "updated_at": "2026-10-04T14:39:17Z",
-    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
   },
   {
     "description": "",
@@ -203,17 +257,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-04T14:38:30Z",
+    "updated_at": "2026-10-04T14:44:46Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 52,
-    "updated_at": "2026-10-04T14:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex.",
@@ -268,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T14:28:12Z",
     "url": "https://github.com/jesusda3699/claude-rtl-persian"
-  },
-  {
-    "description": "Steal ideas, not content: a Telegram link stash + Claude Code skill",
-    "id": "elviisaeva/petty-thief",
-    "language": "TypeScript",
-    "name": "elviisaeva/petty-thief",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:27:41Z",
-    "url": "https://github.com/elviisaeva/petty-thief"
   },
   {
     "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-04T14:22:38Z",
     "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:22:29Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-10-04T14:22:23Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69788,
-    "updated_at": "2026-10-04T14:22:14Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:22:09Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
   }
 ]
