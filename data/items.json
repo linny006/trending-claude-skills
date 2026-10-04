@@ -1,11 +1,128 @@
 [
   {
+    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
+    "id": "sebin-gg/article-sweeper",
+    "language": "Python",
+    "name": "sebin-gg/article-sweeper",
+    "stars": 1,
+    "updated_at": "2026-10-04T06:15:04Z",
+    "url": "https://github.com/sebin-gg/article-sweeper"
+  },
+  {
+    "description": "Distills evidence-constrained Chinese patent disclosures from technical material, product ideas, or existing drafts",
+    "id": "MicTx/patent-disclosure-distiller",
+    "language": "Python",
+    "name": "MicTx/patent-disclosure-distiller",
+    "stars": 0,
+    "updated_at": "2026-10-04T06:14:17Z",
+    "url": "https://github.com/MicTx/patent-disclosure-distiller"
+  },
+  {
+    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
+    "id": "heymegabyte/claude-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/claude-skills",
+    "stars": 22,
+    "updated_at": "2026-10-04T06:12:40Z",
+    "url": "https://github.com/heymegabyte/claude-skills"
+  },
+  {
+    "description": "Give your app a night crew: three Claude Code routines that build, find customers and check your app while you sleep. A ",
+    "id": "alexyc9381/night-crew-skill",
+    "language": "\u2014",
+    "name": "alexyc9381/night-crew-skill",
+    "stars": 0,
+    "updated_at": "2026-10-04T06:11:24Z",
+    "url": "https://github.com/alexyc9381/night-crew-skill"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 24,
+    "updated_at": "2026-10-04T06:12:18Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "Claude Code skills and agents",
+    "id": "cassc/claude-skills",
+    "language": "JavaScript",
+    "name": "cassc/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T06:10:11Z",
+    "url": "https://github.com/cassc/claude-skills"
+  },
+  {
+    "description": "Plan with intent, ship atomic commits, retain hard-won knowledge \u2014 a zero-dependency development workflow for Claude Cod",
+    "id": "l4ci/hv-skills",
+    "language": "Go",
+    "name": "l4ci/hv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T06:10:38Z",
+    "url": "https://github.com/l4ci/hv-skills"
+  },
+  {
+    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
+    "id": "EricTechPro/super-board",
+    "language": "HTML",
+    "name": "EricTechPro/super-board",
+    "stars": 30,
+    "updated_at": "2026-10-04T06:10:05Z",
+    "url": "https://github.com/EricTechPro/super-board"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95698,
+    "updated_at": "2026-10-04T06:07:13Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
+    "id": "savanna0425/skillhot",
+    "language": "JavaScript",
+    "name": "savanna0425/skillhot",
+    "stars": 38,
+    "updated_at": "2026-10-04T06:02:16Z",
+    "url": "https://github.com/savanna0425/skillhot"
+  },
+  {
+    "description": "Canonical Agent Skill for auditing and safely reorganizing shared project folders used by multiple AI agents.",
+    "id": "JesseRaber/multi-agent-folder-cleanup",
+    "language": "Python",
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "stars": 1,
+    "updated_at": "2026-10-04T06:01:21Z",
+    "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 51,
+    "updated_at": "2026-10-04T06:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A collection of agent skills for GitHub Copilot, Claude, and other AI coding assistants",
+    "id": "Jeff-Tian/agent-skills",
+    "language": "Shell",
+    "name": "Jeff-Tian/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-04T05:59:05Z",
+    "url": "https://github.com/Jeff-Tian/agent-skills"
+  },
+  {
     "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
     "id": "solanabr/ai-kit",
     "language": "Shell",
     "name": "solanabr/ai-kit",
     "stars": 107,
-    "updated_at": "2026-10-04T05:54:29Z",
+    "updated_at": "2026-10-04T06:02:50Z",
     "url": "https://github.com/solanabr/ai-kit"
   },
   {
@@ -54,24 +171,6 @@
     "url": "https://github.com/yikaiwang1/claude-compact-archive"
   },
   {
-    "description": "Evidence-constrained patent disclosure writing skill with a reproducible Markdown/DOCX pipeline",
-    "id": "MicTx/patent-disclosure-distiller",
-    "language": "Python",
-    "name": "MicTx/patent-disclosure-distiller",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:50:04Z",
-    "url": "https://github.com/MicTx/patent-disclosure-distiller"
-  },
-  {
-    "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
-    "id": "sebin-gg/article-sweeper",
-    "language": "Python",
-    "name": "sebin-gg/article-sweeper",
-    "stars": 1,
-    "updated_at": "2026-10-04T06:00:08Z",
-    "url": "https://github.com/sebin-gg/article-sweeper"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -99,24 +198,6 @@
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-04T05:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
-    "id": "heymegabyte/claude-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/claude-skills",
-    "stars": 22,
-    "updated_at": "2026-10-04T05:37:59Z",
-    "url": "https://github.com/heymegabyte/claude-skills"
-  },
-  {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
     "id": "0xc000022070/agentic-flake",
     "language": "Nix",
@@ -142,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T05:33:14Z",
     "url": "https://github.com/why20261/kuaishou-videos-search"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95695,
-    "updated_at": "2026-10-04T05:30:58Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "My Nix system configs!",
@@ -198,15 +270,6 @@
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   },
   {
-    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
-    "id": "EricTechPro/super-board",
-    "language": "HTML",
-    "name": "EricTechPro/super-board",
-    "stars": 30,
-    "updated_at": "2026-10-04T05:53:12Z",
-    "url": "https://github.com/EricTechPro/super-board"
-  },
-  {
     "description": "Keeps new UI consistent with a project's existing pages",
     "id": "kamenkurtev/ui-consistency",
     "language": "Shell",
@@ -239,7 +302,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-04T05:57:22Z",
+    "updated_at": "2026-10-04T06:04:19Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/fabricioctelles/skills"
   },
   {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 24,
-    "updated_at": "2026-10-04T05:52:47Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
     "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-04T04:41:00Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Free Agent Skills for agencies & nonprofits: RFP responses, grant writing, agency SOPs, content-decay monitoring, cold-e",
-    "id": "zicula/skills",
-    "language": "HTML",
-    "name": "zicula/skills",
-    "stars": 0,
-    "updated_at": "2026-10-04T04:38:43Z",
-    "url": "https://github.com/zicula/skills"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-10-04T04:35:15Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang",
-    "id": "charliechenye/SkillGate",
-    "language": "Python",
-    "name": "charliechenye/SkillGate",
-    "stars": 2,
-    "updated_at": "2026-10-04T04:35:13Z",
-    "url": "https://github.com/charliechenye/SkillGate"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 325,
-    "updated_at": "2026-10-04T05:19:13Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "MCP server for Google Ads, Meta Ads, GA4, TikTok Ads, and LinkedIn Ads. Manage 300+ ad operations from Claude, ChatGPT, ",
-    "id": "markifact/markifact-mcp",
-    "language": "Shell",
-    "name": "markifact/markifact-mcp",
-    "stars": 49,
-    "updated_at": "2026-10-04T04:32:47Z",
-    "url": "https://github.com/markifact/markifact-mcp"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-10-04T04:30:44Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   }
 ]
