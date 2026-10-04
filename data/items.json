@@ -1,5 +1,59 @@
 [
   {
+    "description": "Easiest way to go text -> 3b1b style animation with audio",
+    "id": "Yusuke710/Manimate",
+    "language": "TypeScript",
+    "name": "Yusuke710/Manimate",
+    "stars": 4,
+    "updated_at": "2026-10-04T21:47:59Z",
+    "url": "https://github.com/Yusuke710/Manimate"
+  },
+  {
+    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
+    "id": "heymegabyte/agent-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/agent-skills",
+    "stars": 22,
+    "updated_at": "2026-10-04T21:47:39Z",
+    "url": "https://github.com/heymegabyte/agent-skills"
+  },
+  {
+    "description": "Spec-driven development skills for Claude Code: PRD \u2192 spec/contract \u2192 implement \u2192 contract-based evaluation with auto-fi",
+    "id": "dayvisonassis/sdd-skills",
+    "language": "JavaScript",
+    "name": "dayvisonassis/sdd-skills",
+    "stars": 3,
+    "updated_at": "2026-10-04T21:47:27Z",
+    "url": "https://github.com/dayvisonassis/sdd-skills"
+  },
+  {
+    "description": "Agent skill: work messages the way Turkish IT people write them, in Turkish and English, without changing what they say.",
+    "id": "Murat7Ay/devce",
+    "language": "Python",
+    "name": "Murat7Ay/devce",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:46:54Z",
+    "url": "https://github.com/Murat7Ay/devce"
+  },
+  {
+    "description": "Claude Code skill that turns basic prompts into high-performing prompts tuned for Claude Opus 5.5 or Sonnet 5.5",
+    "id": "lifeofpi-lgtm/prompt-optimizer",
+    "language": "\u2014",
+    "name": "lifeofpi-lgtm/prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:45:49Z",
+    "url": "https://github.com/lifeofpi-lgtm/prompt-optimizer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 52,
+    "updated_at": "2026-10-04T21:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Gated marketing pipeline skill for Claude Code: research-grounded copy with an anti-AI-slop review gate and a living tro",
     "id": "laltaffer/claude-cmo-skill",
     "language": "\u2014",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 2,
-    "updated_at": "2026-10-04T21:44:54Z",
+    "updated_at": "2026-10-04T21:45:25Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 7,
-    "updated_at": "2026-10-04T21:37:37Z",
+    "updated_at": "2026-10-04T21:46:35Z",
     "url": "https://github.com/drnachio/postext"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 52,
-    "updated_at": "2026-10-04T21:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
     "id": "aisenseapi/aisense-free-public-rest-apis",
     "language": "HTML",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T21:19:46Z",
     "url": "https://github.com/hraness/skillpack"
-  },
-  {
-    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
-    "id": "heymegabyte/agent-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/agent-skills",
-    "stars": 22,
-    "updated_at": "2026-10-04T21:19:28Z",
-    "url": "https://github.com/heymegabyte/agent-skills"
   },
   {
     "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T21:06:13Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-10-04T21:05:28Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-04T21:04:24Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69797,
-    "updated_at": "2026-10-04T21:45:10Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Drop your raw clips, type /video-edit, get a finished short-form video. Best takes, kinetic captions, words behind you, ",
-    "id": "yerinsabraham/video-edit-skill",
-    "language": "Python",
-    "name": "yerinsabraham/video-edit-skill",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:59:10Z",
-    "url": "https://github.com/yerinsabraham/video-edit-skill"
   }
 ]
