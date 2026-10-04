@@ -1,12 +1,129 @@
 [
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/skills",
+    "language": "Python",
+    "name": "TsukiNi22/skills",
+    "stars": 1,
+    "updated_at": "2026-10-04T00:44:43Z",
+    "url": "https://github.com/TsukiNi22/skills"
+  },
+  {
+    "description": "Which AI agent Skills survive a real build? Every pick is field-tested by building a product from scratch, then rated on",
+    "id": "phoebefu6/agent-skills-phoebe-picks",
+    "language": "JavaScript",
+    "name": "phoebefu6/agent-skills-phoebe-picks",
+    "stars": 1,
+    "updated_at": "2026-10-04T00:43:59Z",
+    "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
+  },
+  {
+    "description": "A Claude Code skill for documenting work sessions, capturing learnings, and improving collaboration",
+    "id": "quicksketcherz/session-log-companion",
+    "language": "Python",
+    "name": "quicksketcherz/session-log-companion",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:43:53Z",
+    "url": "https://github.com/quicksketcherz/session-log-companion"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
     "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 95571,
-    "updated_at": "2026-10-04T00:28:35Z",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-04T00:43:49Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
+    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "language": "HTML",
+    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
+    "stars": 3,
+    "updated_at": "2026-10-04T00:43:45Z",
+    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
+  },
+  {
+    "description": "Put your idea on trial in front of a jury of 12 Claudes. A free Claude Code skill.",
+    "id": "alexyc9381/court-skill",
+    "language": "Python",
+    "name": "alexyc9381/court-skill",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:41:10Z",
+    "url": "https://github.com/alexyc9381/court-skill"
+  },
+  {
+    "description": "Pitch your idea to a Shark Tank-style panel of Claude sharks who want to say no. A free Claude Code skill.",
+    "id": "alexyc9381/shark-skill",
+    "language": "Python",
+    "name": "alexyc9381/shark-skill",
+    "stars": 1,
+    "updated_at": "2026-10-04T00:41:09Z",
+    "url": "https://github.com/alexyc9381/shark-skill"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-10-04T00:40:29Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "Turn pull requests and code diffs into interactive HTML walkthroughs that explain the logical flow of a change.",
+    "id": "malav2110/explain-diff-html",
+    "language": "HTML",
+    "name": "malav2110/explain-diff-html",
+    "stars": 14,
+    "updated_at": "2026-10-04T00:38:09Z",
+    "url": "https://github.com/malav2110/explain-diff-html"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:37:17Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "A job-search agent for Claude Code. It searches job sources every day, filters postings against your rules (location, vi",
+    "id": "selfishprimate/seekter",
+    "language": "Python",
+    "name": "selfishprimate/seekter",
+    "stars": 48,
+    "updated_at": "2026-10-04T00:36:35Z",
+    "url": "https://github.com/selfishprimate/seekter"
+  },
+  {
+    "description": "Six Claude Code skills that work in any project: rule sets that load only when called, a dev round, codex sessions, roas",
+    "id": "sijav/Sijav-Skills",
+    "language": "Python",
+    "name": "sijav/Sijav-Skills",
+    "stars": 1,
+    "updated_at": "2026-10-04T00:36:30Z",
+    "url": "https://github.com/sijav/Sijav-Skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69774,
+    "updated_at": "2026-10-04T00:35:22Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "A collection of opinionated plugins.",
+    "id": "ipapadop/plugins",
+    "language": "\u2014",
+    "name": "ipapadop/plugins",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:32:50Z",
+    "url": "https://github.com/ipapadop/plugins"
   },
   {
     "description": "Scale your marketing without sacrificing quality.",
@@ -14,8 +131,53 @@
     "language": "JavaScript",
     "name": "t0ddharris/compound-marketing",
     "stars": 1,
-    "updated_at": "2026-10-04T00:26:26Z",
+    "updated_at": "2026-10-04T00:32:44Z",
     "url": "https://github.com/t0ddharris/compound-marketing"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 24,
+    "updated_at": "2026-10-04T00:39:52Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
+    "id": "Aperivue/medsci-skills",
+    "language": "Python",
+    "name": "Aperivue/medsci-skills",
+    "stars": 325,
+    "updated_at": "2026-10-04T00:40:39Z",
+    "url": "https://github.com/Aperivue/medsci-skills"
+  },
+  {
+    "description": "Free, tested Agent Skills for Shopify store owners: image alt text, policy audit, title cleanup, review replies and an A",
+    "id": "proskillpacks/shopify-store-skills",
+    "language": "Python",
+    "name": "proskillpacks/shopify-store-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:30:18Z",
+    "url": "https://github.com/proskillpacks/shopify-store-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-04T00:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 95578,
+    "updated_at": "2026-10-04T00:28:35Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "configuration of claude code here you have the best practice of skillls, hooks, rules, cripts, and different tools to he",
@@ -25,24 +187,6 @@
     "stars": 4,
     "updated_at": "2026-10-04T00:25:53Z",
     "url": "https://github.com/Univers42/claude-deal-with-the-devil"
-  },
-  {
-    "description": "Put your idea on trial in front of a jury of 12 Claudes. A free Claude Code skill.",
-    "id": "alexyc9381/court-skill",
-    "language": "Python",
-    "name": "alexyc9381/court-skill",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:25:32Z",
-    "url": "https://github.com/alexyc9381/court-skill"
-  },
-  {
-    "description": "Pitch your idea to a Shark Tank-style panel of Claude sharks who want to say no. A free Claude Code skill.",
-    "id": "alexyc9381/shark-skill",
-    "language": "Python",
-    "name": "alexyc9381/shark-skill",
-    "stars": 0,
-    "updated_at": "2026-10-04T00:25:30Z",
-    "url": "https://github.com/alexyc9381/shark-skill"
   },
   {
     "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
@@ -61,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T00:21:57Z",
     "url": "https://github.com/Claude-Desktop-2026/.github"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/skills",
-    "language": "Python",
-    "name": "TsukiNi22/skills",
-    "stars": 1,
-    "updated_at": "2026-10-04T00:19:04Z",
-    "url": "https://github.com/TsukiNi22/skills"
   },
   {
     "description": "",
@@ -97,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T00:16:31Z",
     "url": "https://github.com/hoshiyomiX/stellar-trail"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 50,
-    "updated_at": "2026-10-04T00:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -203,17 +329,8 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 9,
-    "updated_at": "2026-10-04T00:28:45Z",
+    "updated_at": "2026-10-04T00:39:20Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Turn pull requests and code diffs into interactive HTML walkthroughs that explain the logical flow of a change.",
-    "id": "malav2110/explain-diff-html",
-    "language": "HTML",
-    "name": "malav2110/explain-diff-html",
-    "stars": 14,
-    "updated_at": "2026-10-03T23:59:21Z",
-    "url": "https://github.com/malav2110/explain-diff-html"
   },
   {
     "description": "Agent-ergonomic AXI wrapper for the HEY CLI",
@@ -223,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T00:21:35Z",
     "url": "https://github.com/TangentialSolutions/hey-axi"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-03T23:57:45Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
     "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
@@ -261,15 +369,6 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Free, tested Agent Skills for Shopify store owners: image alt text, policy audit, title cleanup, review replies and an A",
-    "id": "proskillpacks/shopify-store-skills",
-    "language": "Python",
-    "name": "proskillpacks/shopify-store-skills",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:54:51Z",
-    "url": "https://github.com/proskillpacks/shopify-store-skills"
-  },
-  {
     "description": "A Claude Skill that analyzes any problem through 12 lenses and returns 5 diverse solutions plus an Occam's Razor anchor.",
     "id": "davehallmon/problem-lens",
     "language": "\u2014",
@@ -284,7 +383,7 @@
     "language": "TypeScript",
     "name": "qbeka/jev-job-search",
     "stars": 6,
-    "updated_at": "2026-10-04T00:25:17Z",
+    "updated_at": "2026-10-04T00:43:12Z",
     "url": "https://github.com/qbeka/jev-job-search"
   },
   {
@@ -342,15 +441,6 @@
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
   },
   {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 325,
-    "updated_at": "2026-10-04T00:20:33Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
     "id": "munexor/seo-opportunity-nexus",
     "language": "HTML",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T23:38:48Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-10-03T23:38:25Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-03T23:37:40Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code,",
-    "id": "davepoon/buildwithclaude",
-    "language": "Python",
-    "name": "davepoon/buildwithclaude",
-    "stars": 3586,
-    "updated_at": "2026-10-03T23:37:11Z",
-    "url": "https://github.com/davepoon/buildwithclaude"
-  },
-  {
-    "description": "A Claude skill that thinks like dyslexic thinkers, and works the way dyslexic people say helps. Built by the dyslexic co",
-    "id": "mvdypsis/i-have-dyslexia",
-    "language": "Python",
-    "name": "mvdypsis/i-have-dyslexia",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:36:31Z",
-    "url": "https://github.com/mvdypsis/i-have-dyslexia"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:36:12Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:35:53Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:35:25Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-10-03T23:34:27Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 24,
-    "updated_at": "2026-10-04T00:02:27Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-10-03T23:34:09Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
   }
 ]
