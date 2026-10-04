@@ -1,5 +1,59 @@
 [
   {
+    "description": "Drop your raw clips, type /video-edit, get a finished short-form video. Best takes, kinetic captions, words behind you, ",
+    "id": "yerinsabraham/video-edit-skill",
+    "language": "Python",
+    "name": "yerinsabraham/video-edit-skill",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:59:08Z",
+    "url": "https://github.com/yerinsabraham/video-edit-skill"
+  },
+  {
+    "description": "Skills for Claude Code that carry a house style for Java projects",
+    "id": "dmitriy-iliyov/java-agent-skills",
+    "language": "\u2014",
+    "name": "dmitriy-iliyov/java-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:59:04Z",
+    "url": "https://github.com/dmitriy-iliyov/java-agent-skills"
+  },
+  {
+    "description": "Language-agnostic AI workflow plugins for Claude Code and Codex. Every workflow is a skill.",
+    "id": "tony/skills",
+    "language": "Python",
+    "name": "tony/skills",
+    "stars": 3,
+    "updated_at": "2026-10-04T21:58:07Z",
+    "url": "https://github.com/tony/skills"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-10-04T21:56:12Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Claude Agent Skill for Google Nano Banana (Gemini image generation, editing, restoration)",
+    "id": "batou9150/nanobanana-skill",
+    "language": "Python",
+    "name": "batou9150/nanobanana-skill",
+    "stars": 0,
+    "updated_at": "2026-10-04T21:50:34Z",
+    "url": "https://github.com/batou9150/nanobanana-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 52,
+    "updated_at": "2026-10-04T21:48:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Easiest way to go text -> 3b1b style animation with audio",
     "id": "Yusuke710/Manimate",
     "language": "TypeScript",
@@ -45,15 +99,6 @@
     "url": "https://github.com/lifeofpi-lgtm/prompt-optimizer"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 52,
-    "updated_at": "2026-10-04T21:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Gated marketing pipeline skill for Claude Code: research-grounded copy with an anti-AI-slop review gate and a living tro",
     "id": "laltaffer/claude-cmo-skill",
     "language": "\u2014",
@@ -68,7 +113,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 5,
-    "updated_at": "2026-10-04T21:45:02Z",
+    "updated_at": "2026-10-04T21:54:41Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-04T21:43:06Z",
+    "updated_at": "2026-10-04T21:56:59Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 7,
-    "updated_at": "2026-10-04T21:46:35Z",
+    "updated_at": "2026-10-04T21:50:16Z",
     "url": "https://github.com/drnachio/postext"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Shell",
     "name": "dsp-dr/guile-skills",
     "stars": 0,
-    "updated_at": "2026-10-04T21:29:35Z",
+    "updated_at": "2026-10-04T21:52:01Z",
     "url": "https://github.com/dsp-dr/guile-skills"
   },
   {
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "stars": 16,
-    "updated_at": "2026-10-04T21:22:27Z",
+    "updated_at": "2026-10-04T21:56:01Z",
     "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Skills for Claude Code that carry a house style for Java projects",
-    "id": "dmitriy-iliyov/java-agent-skills",
-    "language": "\u2014",
-    "name": "dmitriy-iliyov/java-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:13:49Z",
-    "url": "https://github.com/dmitriy-iliyov/java-agent-skills"
-  },
-  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-04T21:07:45Z",
     "url": "https://github.com/fdtaljaard/claude-skills"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:07:26Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Claude Code / Codex \u5411\u3051 Agent Skill\u3002README\u30fb\u624b\u9806\u66f8\u30fbPR\u30fb\u5831\u544a\u66f8\u3092\u3001\u8a2d\u8a08\u3057\u3066\u304b\u3089\u57f7\u7b46\u3059\u308b\u3002Di\u00e1taxis \u3067\u5206\u985e\u3057\u3001\u65e5\u672c\u8a9e\u306e\u6587\u4f53\u307e\u3067\u6821\u6b63\u3059\u308b / Design-then-write skill fo",
-    "id": "sumx21t-3310/document-writing",
-    "language": "\u2014",
-    "name": "sumx21t-3310/document-writing",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:07:25Z",
-    "url": "https://github.com/sumx21t-3310/document-writing"
-  },
-  {
-    "description": "A practical Claude Code guide with clear mental models and copy-paste examples \u2014 setup, prompt engineering, slash comman",
-    "id": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
-    "language": "Python",
-    "name": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
-    "stars": 3094,
-    "updated_at": "2026-10-04T21:06:24Z",
-    "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:06:13Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
   }
 ]
