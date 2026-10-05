@@ -1,12 +1,111 @@
 [
   {
+    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
+    "id": "heymegabyte/agent-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/agent-skills",
+    "stars": 22,
+    "updated_at": "2026-10-05T03:43:11Z",
+    "url": "https://github.com/heymegabyte/agent-skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-05T03:43:10Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-10-05T03:42:16Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
     "description": "Keeps new UI consistent with a project's existing pages",
     "id": "kamenkurtev/ui-consistency",
     "language": "Shell",
     "name": "kamenkurtev/ui-consistency",
     "stars": 0,
-    "updated_at": "2026-10-05T03:25:27Z",
+    "updated_at": "2026-10-05T03:44:26Z",
     "url": "https://github.com/kamenkurtev/ui-consistency"
+  },
+  {
+    "description": "Proof-First Development for Claude Code: never trust the agent's report, only an artifact observable from outside the ag",
+    "id": "MartinOlivero/proof-first",
+    "language": "Python",
+    "name": "MartinOlivero/proof-first",
+    "stars": 0,
+    "updated_at": "2026-10-05T03:41:50Z",
+    "url": "https://github.com/MartinOlivero/proof-first"
+  },
+  {
+    "description": "11 specialized AI agents for Claude Code \u2014 auto-orchestrated team with 9 operating modes",
+    "id": "z1nun/buildcrew",
+    "language": "JavaScript",
+    "name": "z1nun/buildcrew",
+    "stars": 1,
+    "updated_at": "2026-10-05T03:40:14Z",
+    "url": "https://github.com/z1nun/buildcrew"
+  },
+  {
+    "description": "CAAS (Chat\u2013Agent Auto Session): talk only to your everyday Claude.ai conversation; running Claude Code sessions do the w",
+    "id": "Rurimpa/caas",
+    "language": "JavaScript",
+    "name": "Rurimpa/caas",
+    "stars": 0,
+    "updated_at": "2026-10-05T03:39:16Z",
+    "url": "https://github.com/Rurimpa/caas"
+  },
+  {
+    "description": "Wordcell keeps decisions, plans, and sources as Markdown beside your code, so coding agents can find them from the file ",
+    "id": "hraness/wordcell",
+    "language": "TypeScript",
+    "name": "hraness/wordcell",
+    "stars": 16,
+    "updated_at": "2026-10-05T03:36:53Z",
+    "url": "https://github.com/hraness/wordcell"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 63,
+    "updated_at": "2026-10-05T03:33:33Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Personal agent skills.",
+    "id": "transitive-bullshit/skills",
+    "language": "JavaScript",
+    "name": "transitive-bullshit/skills",
+    "stars": 3,
+    "updated_at": "2026-10-05T03:31:17Z",
+    "url": "https://github.com/transitive-bullshit/skills"
+  },
+  {
+    "description": "12 \u4e2a\u7535\u5546\u77ed\u89c6\u9891 Agent Skills\uff1a3\u79d2\u94a9\u5b50\u3001\u5356\u70b9\u5206\u955c\u3001\u56fe\u751f\u89c6\u9891\u63d0\u793a\u8bcd\u3001edge-tts \u914d\u97f3\u3001\u5b57\u5e55\u82b1\u5b57\u3001ffmpeg \u81ea\u52a8\u6210\u7247\u3001\u6296\u97f3/TikTok Shop/\u89c6\u9891\u53f7\u5bfc\u51fa\u3001\u76f4\u64ad\u5207\u7247\u3001\u591a\u8bed\u8a00\u914d\u97f3\u3001\u5c01\u9762A/B \u00b7 Claude Cod",
+    "id": "xianyu110/ecommerce-video-skills",
+    "language": "Python",
+    "name": "xianyu110/ecommerce-video-skills",
+    "stars": 0,
+    "updated_at": "2026-10-05T03:30:24Z",
+    "url": "https://github.com/xianyu110/ecommerce-video-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 52,
+    "updated_at": "2026-10-05T03:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
@@ -22,18 +121,9 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 77530,
+    "stars": 77536,
     "updated_at": "2026-10-05T03:24:53Z",
     "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "Personal agent skills.",
-    "id": "transitive-bullshit/skills",
-    "language": "JavaScript",
-    "name": "transitive-bullshit/skills",
-    "stars": 3,
-    "updated_at": "2026-10-05T03:24:33Z",
-    "url": "https://github.com/transitive-bullshit/skills"
   },
   {
     "description": "A skill pack that turns your AI into an expert website builder: current research, design, code, accessibility, speed, SE",
@@ -151,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T03:15:17Z",
     "url": "https://github.com/SkillMedev/real-estate-agent-stack"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 52,
-    "updated_at": "2026-10-05T03:15:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "For creators: turn expertise into a course and launch it to your list \u2014 outline to open cart.",
@@ -288,15 +369,6 @@
     "url": "https://github.com/SkillMedev/gym-growth-engine"
   },
   {
-    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
-    "id": "heymegabyte/agent-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/agent-skills",
-    "stars": 22,
-    "updated_at": "2026-10-05T03:13:34Z",
-    "url": "https://github.com/heymegabyte/agent-skills"
-  },
-  {
     "description": "Hire, onboard, and run a team fairly \u2014 without a full HR department.",
     "id": "SkillMedev/people-ops-recruiting",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T03:12:32Z",
     "url": "https://github.com/SkillMedev/database-performance"
-  },
-  {
-    "description": "Author, test, and curate Claude Agent Skills with confidence",
-    "id": "SkillMedev/skill-builder-studio",
-    "language": "\u2014",
-    "name": "SkillMedev/skill-builder-studio",
-    "stars": 0,
-    "updated_at": "2026-10-05T03:12:24Z",
-    "url": "https://github.com/SkillMedev/skill-builder-studio"
-  },
-  {
-    "description": "Six skills for building brands that look intentional from day one.",
-    "id": "SkillMedev/brand-visual-identity",
-    "language": "\u2014",
-    "name": "SkillMedev/brand-visual-identity",
-    "stars": 1,
-    "updated_at": "2026-10-05T03:12:17Z",
-    "url": "https://github.com/SkillMedev/brand-visual-identity"
-  },
-  {
-    "description": "Build a solid financial foundation \u2014 budget, pay off debt, and plan for the future.",
-    "id": "SkillMedev/personal-finance-mastery",
-    "language": "\u2014",
-    "name": "SkillMedev/personal-finance-mastery",
-    "stars": 0,
-    "updated_at": "2026-10-05T03:12:09Z",
-    "url": "https://github.com/SkillMedev/personal-finance-mastery"
-  },
-  {
-    "description": "Audit, test, and scale paid channels with rigorous, data-driven playbooks.",
-    "id": "SkillMedev/performance-marketing",
-    "language": "\u2014",
-    "name": "SkillMedev/performance-marketing",
-    "stars": 0,
-    "updated_at": "2026-10-05T03:12:02Z",
-    "url": "https://github.com/SkillMedev/performance-marketing"
-  },
-  {
-    "description": "Map journeys, activate users, and protect your sender reputation end to end.",
-    "id": "SkillMedev/lifecycle-marketing",
-    "language": "\u2014",
-    "name": "SkillMedev/lifecycle-marketing",
-    "stars": 0,
-    "updated_at": "2026-10-05T03:11:55Z",
-    "url": "https://github.com/SkillMedev/lifecycle-marketing"
-  },
-  {
-    "description": "Evidence-informed skills for building strength, mobility, and lasting health.",
-    "id": "SkillMedev/health-and-longevity",
-    "language": "\u2014",
-    "name": "SkillMedev/health-and-longevity",
-    "stars": 1,
-    "updated_at": "2026-10-05T03:11:48Z",
-    "url": "https://github.com/SkillMedev/health-and-longevity"
-  },
-  {
-    "description": "Close the books, build the forecast, and control spend with precision.",
-    "id": "SkillMedev/finance-accounting-ops",
-    "language": "\u2014",
-    "name": "SkillMedev/finance-accounting-ops",
-    "stars": 0,
-    "updated_at": "2026-10-05T03:11:41Z",
-    "url": "https://github.com/SkillMedev/finance-accounting-ops"
-  },
-  {
-    "description": "Plan, assess, and differentiate \u2014 everything a teacher needs in one pack.",
-    "id": "SkillMedev/educators-toolkit",
-    "language": "\u2014",
-    "name": "SkillMedev/educators-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-05T03:11:34Z",
-    "url": "https://github.com/SkillMedev/educators-toolkit"
   }
 ]
