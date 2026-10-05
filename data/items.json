@@ -1,19 +1,118 @@
 [
   {
+    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
+    "id": "heymegabyte/agent-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/agent-skills",
+    "stars": 22,
+    "updated_at": "2026-10-05T12:12:42Z",
+    "url": "https://github.com/heymegabyte/agent-skills"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 429,
+    "updated_at": "2026-10-05T12:11:42Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "AiFinPay agent skills: pay for x402-gated APIs as an agent (aifinpay) and charge agents for your API as a merchant (aifi",
+    "id": "AiFinPay/skill",
+    "language": "JavaScript",
+    "name": "AiFinPay/skill",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:11:00Z",
+    "url": "https://github.com/AiFinPay/skill"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-05T12:09:59Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "\ud83c\udfa8 Claude skill: one sentence in, five genuinely different design versions out. Claude picks one, you decide. Claude Code",
+    "id": "Brain-ai-biz/design-versions",
+    "language": "\u2014",
+    "name": "Brain-ai-biz/design-versions",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:09:25Z",
+    "url": "https://github.com/Brain-ai-biz/design-versions"
+  },
+  {
     "description": "Claude Code skills, every skill I maintain in one repository: 87 skills in 13 plugins for AWS and Microsoft 365 security",
     "id": "basitalisandhu/claude-skills",
     "language": "Python",
     "name": "basitalisandhu/claude-skills",
     "stars": 0,
-    "updated_at": "2026-10-05T12:00:10Z",
+    "updated_at": "2026-10-05T12:07:44Z",
     "url": "https://github.com/basitalisandhu/claude-skills"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2682,
+    "updated_at": "2026-10-05T12:07:22Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-10-05T12:07:11Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Kyo-so (Kyoso / \u5354\u594f) is an MCP-native, ACP-powered multi-agent review gate for AI coding workflows.",
+    "id": "hokupod/kyoso",
+    "language": "TypeScript",
+    "name": "hokupod/kyoso",
+    "stars": 3,
+    "updated_at": "2026-10-05T12:11:34Z",
+    "url": "https://github.com/hokupod/kyoso"
+  },
+  {
+    "description": "Art and animation, written as code. Illustrations, loops, interactive web art, launch-videos and scored films in dozens ",
+    "id": "alexgreensh/anidoodle",
+    "language": "TypeScript",
+    "name": "alexgreensh/anidoodle",
+    "stars": 791,
+    "updated_at": "2026-10-05T12:06:12Z",
+    "url": "https://github.com/alexgreensh/anidoodle"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 77832,
+    "updated_at": "2026-10-05T12:03:45Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 56,
+    "updated_at": "2026-10-05T12:00:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cur",
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 1293,
+    "stars": 1296,
     "updated_at": "2026-10-05T11:57:07Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
@@ -36,15 +135,6 @@
     "url": "https://github.com/jabrena/plinth"
   },
   {
-    "description": "Kyo-so (Kyoso / \u5354\u594f) is an MCP-native, ACP-powered multi-agent review gate for AI coding workflows.",
-    "id": "hokupod/kyoso",
-    "language": "TypeScript",
-    "name": "hokupod/kyoso",
-    "stars": 3,
-    "updated_at": "2026-10-05T11:55:56Z",
-    "url": "https://github.com/hokupod/kyoso"
-  },
-  {
     "description": "Agent skills marketplace: install via 'market install' or 'npx skills add'. Global install, tool detection, versioned up",
     "id": "BlackAngel242/skill-market",
     "language": "JavaScript",
@@ -59,7 +149,7 @@
     "language": "JavaScript",
     "name": "hokupod/utsuri",
     "stars": 2,
-    "updated_at": "2026-10-05T11:55:14Z",
+    "updated_at": "2026-10-05T12:10:20Z",
     "url": "https://github.com/hokupod/utsuri"
   },
   {
@@ -153,15 +243,6 @@
     "url": "https://github.com/basitalisandhu/ways-of-working-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 56,
-    "updated_at": "2026-10-05T11:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
     "id": "eai-org/agent-toolkit",
     "language": "Shell",
@@ -169,24 +250,6 @@
     "stars": 55,
     "updated_at": "2026-10-05T11:45:04Z",
     "url": "https://github.com/eai-org/agent-toolkit"
-  },
-  {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 77826,
-    "updated_at": "2026-10-05T11:42:23Z",
-    "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 429,
-    "updated_at": "2026-10-05T11:37:26Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "A unified, high-performance i18next CLI.",
@@ -270,15 +333,6 @@
     "url": "https://github.com/tomerhayundev/skills"
   },
   {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 1,
-    "updated_at": "2026-10-05T11:50:07Z",
-    "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
     "description": "Claude Code skills for cleaning up and speeding up a Mac: a read-only survey of what takes space and memory, a safe tier",
     "id": "basitalisandhu/mac-maintenance-skills",
     "language": "Python",
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T11:27:31Z",
     "url": "https://github.com/Grit-77/cinematic-site"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:26:31Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
     "description": "Claude Code plugin that QA-tests your whole app with a team of AI agents: maps every feature, tests each one in parallel",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T11:18:11Z",
     "url": "https://github.com/nathanpitman/WordPress-to-Astro-migration-skill"
-  },
-  {
-    "description": "What a code comment says and what it must not, with a checker that reads comments out of the syntax tree",
-    "id": "rokokol/code-comments-skill",
-    "language": "Shell",
-    "name": "rokokol/code-comments-skill",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:18:06Z",
-    "url": "https://github.com/rokokol/code-comments-skill"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 96359,
-    "updated_at": "2026-10-05T11:17:15Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each ",
-    "id": "zhuyansen/awesome-claude-video-skills",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-claude-video-skills",
-    "stars": 415,
-    "updated_at": "2026-10-05T11:15:12Z",
-    "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
-  },
-  {
-    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
-    "id": "heymegabyte/agent-skills",
-    "language": "TypeScript",
-    "name": "heymegabyte/agent-skills",
-    "stars": 22,
-    "updated_at": "2026-10-05T11:14:21Z",
-    "url": "https://github.com/heymegabyte/agent-skills"
-  },
-  {
-    "description": "How a good skill is written, and the gate that checks it",
-    "id": "rokokol/skill-authoring-skill",
-    "language": "Shell",
-    "name": "rokokol/skill-authoring-skill",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:14:20Z",
-    "url": "https://github.com/rokokol/skill-authoring-skill"
   }
 ]
