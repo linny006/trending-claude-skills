@@ -1,5 +1,140 @@
 [
   {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 11,
+    "updated_at": "2026-10-05T17:27:29Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1164,
+    "updated_at": "2026-10-05T17:27:21Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Compose Skill (Compose Kit): agent skills for Jetpack Compose & Compose Multiplatform. Makes Claude Code, Codex, Cursor,",
+    "id": "Meet-Miyani/compose-skill",
+    "language": "Shell",
+    "name": "Meet-Miyani/compose-skill",
+    "stars": 300,
+    "updated_at": "2026-10-05T17:26:44Z",
+    "url": "https://github.com/Meet-Miyani/compose-skill"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-05T17:25:49Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 14,
+    "updated_at": "2026-10-05T17:22:54Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Claude Code skill for technical SEO and AEO: scored audits, cited best-practice patterns, and a guardian that flags risk",
+    "id": "FarhanImtiaz/seo-architect",
+    "language": "Python",
+    "name": "FarhanImtiaz/seo-architect",
+    "stars": 1,
+    "updated_at": "2026-10-05T17:22:26Z",
+    "url": "https://github.com/FarhanImtiaz/seo-architect"
+  },
+  {
+    "description": "Agent Skills for legal research and legal work: works in Claude, ChatGPT/Codex, Gemini CLI, Copilot, Cursor, and other a",
+    "id": "attorneynate/legal-skills",
+    "language": "Python",
+    "name": "attorneynate/legal-skills",
+    "stars": 0,
+    "updated_at": "2026-10-05T17:26:38Z",
+    "url": "https://github.com/attorneynate/legal-skills"
+  },
+  {
+    "description": "No receipt, no claim. Makes your coding agent separate what it verified from what it assumes.",
+    "id": "LEE-ok/receipts",
+    "language": "Python",
+    "name": "LEE-ok/receipts",
+    "stars": 1,
+    "updated_at": "2026-10-05T17:21:48Z",
+    "url": "https://github.com/LEE-ok/receipts"
+  },
+  {
+    "description": "Agent skill for Claude Code, Codex & Cursor: gap analysis of any plan against named laws, standards and frameworks (LGPD",
+    "id": "WednyFernandes/what-am-i-missing",
+    "language": "\u2014",
+    "name": "WednyFernandes/what-am-i-missing",
+    "stars": 0,
+    "updated_at": "2026-10-05T17:21:15Z",
+    "url": "https://github.com/WednyFernandes/what-am-i-missing"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30872,
+    "updated_at": "2026-10-05T17:21:01Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 59,
+    "updated_at": "2026-10-05T17:20:08Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-05T17:29:48Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Plugin for Claude Code: sends each coding task to the cheapest model that can do it right, keeps your main chat lean, re",
+    "id": "mefayed/boss-skill",
+    "language": "Python",
+    "name": "mefayed/boss-skill",
+    "stars": 5,
+    "updated_at": "2026-10-05T17:17:45Z",
+    "url": "https://github.com/mefayed/boss-skill"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 37,
+    "updated_at": "2026-10-05T17:17:12Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandb",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 148,
+    "updated_at": "2026-10-05T17:16:55Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
     "description": "Give your AI agent a credit line: it borrows and repays on Aave V3 via credit delegation, within limits you set.",
     "id": "aaronjmars/agent-credit",
     "language": "Shell",
@@ -13,7 +148,7 @@
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 1368,
+    "stars": 1372,
     "updated_at": "2026-10-05T17:12:06Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
@@ -23,26 +158,8 @@
     "language": "Python",
     "name": "Jishnuraj07/daedalus",
     "stars": 0,
-    "updated_at": "2026-10-05T17:12:03Z",
+    "updated_at": "2026-10-05T17:19:23Z",
     "url": "https://github.com/Jishnuraj07/daedalus"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 11,
-    "updated_at": "2026-10-05T17:12:02Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "Plugin for Claude Code: sends each coding task to the cheapest model that can do it right, keeps your main chat lean, re",
-    "id": "mefayed/boss-skill",
-    "language": "Python",
-    "name": "mefayed/boss-skill",
-    "stars": 5,
-    "updated_at": "2026-10-05T17:11:46Z",
-    "url": "https://github.com/mefayed/boss-skill"
   },
   {
     "description": "\u00c1gora: a Claude skill for deep understanding and applied reasoning, in any language. Diagnostic, 12-week plan, daily ses",
@@ -63,15 +180,6 @@
     "url": "https://github.com/luftwaffe66/ai-memory-system"
   },
   {
-    "description": "Agent skill for Claude Code, Codex & Cursor: gap analysis of any plan against named laws, standards and frameworks (LGPD",
-    "id": "WednyFernandes/what-am-i-missing",
-    "language": "\u2014",
-    "name": "WednyFernandes/what-am-i-missing",
-    "stars": 0,
-    "updated_at": "2026-10-05T17:10:18Z",
-    "url": "https://github.com/WednyFernandes/what-am-i-missing"
-  },
-  {
     "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
@@ -79,15 +187,6 @@
     "stars": 1659,
     "updated_at": "2026-10-05T17:10:29Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 14,
-    "updated_at": "2026-10-05T17:06:05Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -167,7 +266,7 @@
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 7,
-    "updated_at": "2026-10-05T16:57:09Z",
+    "updated_at": "2026-10-05T17:21:04Z",
     "url": "https://github.com/drnachio/postext"
   },
   {
@@ -333,15 +432,6 @@
     "url": "https://github.com/L1nch-lab/german-tax-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 59,
-    "updated_at": "2026-10-05T16:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skills from VIOLINET Tech: ComfyUI fixes, de-Googling apps, looping video, readable UI over artwork, lean repos.",
     "id": "Violinet-tech/violet-skills",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 950,
     "updated_at": "2026-10-05T16:43:30Z",
     "url": "https://github.com/suboss87/FDEOps"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-05T16:42:15Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "Claude Code schneidet deine Handy-Clips zu fertigen Reels f\u00fcr Instagram und TikTok. Kostenlos, mit einem Prompt eingeric",
-    "id": "TobiB1505/faber-cut",
-    "language": "Python",
-    "name": "TobiB1505/faber-cut",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:39:36Z",
-    "url": "https://github.com/TobiB1505/faber-cut"
-  },
-  {
-    "description": "Link WhatsApp to Claude (or any MCP client) in ~20 minutes: a live self-refreshing QR page that makes pairing actually w",
-    "id": "tonydzi/whatsapp-mcp-kit",
-    "language": "Python",
-    "name": "tonydzi/whatsapp-mcp-kit",
-    "stars": 11,
-    "updated_at": "2026-10-05T16:39:06Z",
-    "url": "https://github.com/tonydzi/whatsapp-mcp-kit"
-  },
-  {
-    "description": "Voice -> text -> your personal knowledge base. A primitive, not a platform: 4 small Python scripts turn voice notes into",
-    "id": "tonydzi/voice2brain",
-    "language": "Python",
-    "name": "tonydzi/voice2brain",
-    "stars": 1,
-    "updated_at": "2026-10-05T16:39:04Z",
-    "url": "https://github.com/tonydzi/voice2brain"
-  },
-  {
-    "description": "Your scheduled job says exit 0 \u2014 prove it did the work. Three stdlib-only checks: output freshness, silent no-op detecti",
-    "id": "tonydzi/verified-ops-starter",
-    "language": "Python",
-    "name": "tonydzi/verified-ops-starter",
-    "stars": 1,
-    "updated_at": "2026-10-05T16:39:01Z",
-    "url": "https://github.com/tonydzi/verified-ops-starter"
-  },
-  {
-    "description": "Your LLM reviewer said APPROVE. Did it? A structured verdict contract: prompt rule + parser + exit-code gate in one stdl",
-    "id": "tonydzi/verdict-contract",
-    "language": "Python",
-    "name": "tonydzi/verdict-contract",
-    "stars": 3,
-    "updated_at": "2026-10-05T16:38:59Z",
-    "url": "https://github.com/tonydzi/verdict-contract"
-  },
-  {
-    "description": "Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framewo",
-    "id": "tonydzi/verbatim-citation-gate",
-    "language": "Python",
-    "name": "tonydzi/verbatim-citation-gate",
-    "stars": 4,
-    "updated_at": "2026-10-05T16:38:58Z",
-    "url": "https://github.com/tonydzi/verbatim-citation-gate"
-  },
-  {
-    "description": "Connect Claude (or any MCP client) to your own Telegram in ~15 minutes: setup prompt for Claude Code/Codex, production p",
-    "id": "tonydzi/telegram-mcp-kit",
-    "language": "PowerShell",
-    "name": "tonydzi/telegram-mcp-kit",
-    "stars": 5,
-    "updated_at": "2026-10-05T16:38:54Z",
-    "url": "https://github.com/tonydzi/telegram-mcp-kit"
-  },
-  {
-    "description": "Graph RAG on SQLite for AI agents: vector retrieval + hand-curated wikilink graph + cross-encoder rerank, with a zero-to",
-    "id": "tonydzi/sqlite-graph-memory",
-    "language": "Python",
-    "name": "tonydzi/sqlite-graph-memory",
-    "stars": 8,
-    "updated_at": "2026-10-05T16:38:50Z",
-    "url": "https://github.com/tonydzi/sqlite-graph-memory"
-  },
-  {
-    "description": "Nobody reviews themselves - and one reviewer model is one blind spot. Fan every change out to several model FAMILIES at ",
-    "id": "tonydzi/secondop-panel",
-    "language": "Python",
-    "name": "tonydzi/secondop-panel",
-    "stars": 0,
-    "updated_at": "2026-10-05T16:38:45Z",
-    "url": "https://github.com/tonydzi/secondop-panel"
   }
 ]
