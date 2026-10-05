@@ -1,5 +1,158 @@
 [
   {
+    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
+    "id": "shauryalowkeygotaura/brand-launchpad",
+    "language": "HTML",
+    "name": "shauryalowkeygotaura/brand-launchpad",
+    "stars": 1,
+    "updated_at": "2026-10-05T11:29:24Z",
+    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
+  },
+  {
+    "description": "A Claude Code skill for award-level websites that ship checked: one story, every claim sourced, every section looked at ",
+    "id": "Grit-77/cinematic-site",
+    "language": "JavaScript",
+    "name": "Grit-77/cinematic-site",
+    "stars": 0,
+    "updated_at": "2026-10-05T11:27:31Z",
+    "url": "https://github.com/Grit-77/cinematic-site"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-10-05T11:26:31Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Claude Code plugin that QA-tests your whole app with a team of AI agents: maps every feature, tests each one in parallel",
+    "id": "DrunkenDealer/claude-code-qa-cycle",
+    "language": "JavaScript",
+    "name": "DrunkenDealer/claude-code-qa-cycle",
+    "stars": 1,
+    "updated_at": "2026-10-05T11:28:53Z",
+    "url": "https://github.com/DrunkenDealer/claude-code-qa-cycle"
+  },
+  {
+    "description": "Claude Code skills for engineering managers that compute from exported GitHub data: a stuck-PR and review-queue digest, ",
+    "id": "basitalisandhu/github-manager-skills",
+    "language": "Python",
+    "name": "basitalisandhu/github-manager-skills",
+    "stars": 0,
+    "updated_at": "2026-10-05T11:25:24Z",
+    "url": "https://github.com/basitalisandhu/github-manager-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1657,
+    "updated_at": "2026-10-05T11:27:45Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Skill for Super Productivity Local REST API",
+    "id": "rokokol/super-productivity-skill",
+    "language": "Shell",
+    "name": "rokokol/super-productivity-skill",
+    "stars": 1,
+    "updated_at": "2026-10-05T11:23:09Z",
+    "url": "https://github.com/rokokol/super-productivity-skill"
+  },
+  {
+    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
+    "id": "gooseworks-ai/goose-skills",
+    "language": "Python",
+    "name": "gooseworks-ai/goose-skills",
+    "stars": 1232,
+    "updated_at": "2026-10-05T11:22:04Z",
+    "url": "https://github.com/gooseworks-ai/goose-skills"
+  },
+  {
+    "description": "\ud83e\udd16 The strongest curated list of open-source AI-agent tools for literature review \u2014 70+ tools across 11 categories (Claud",
+    "id": "brycewang-stanford/lit-review-agent-tools",
+    "language": "Python",
+    "name": "brycewang-stanford/lit-review-agent-tools",
+    "stars": 31,
+    "updated_at": "2026-10-05T11:21:43Z",
+    "url": "https://github.com/brycewang-stanford/lit-review-agent-tools"
+  },
+  {
+    "description": "Write a project's README to a fixed set of structure, tone and formatting rules",
+    "id": "rokokol/create-readme-skill",
+    "language": "Shell",
+    "name": "rokokol/create-readme-skill",
+    "stars": 0,
+    "updated_at": "2026-10-05T11:18:41Z",
+    "url": "https://github.com/rokokol/create-readme-skill"
+  },
+  {
+    "description": "Claude Code skill: crawl a live WordPress site and rebuild it in Astro with SEO-identical markup.",
+    "id": "nathanpitman/WordPress-to-Astro-migration-skill",
+    "language": "Python",
+    "name": "nathanpitman/WordPress-to-Astro-migration-skill",
+    "stars": 1,
+    "updated_at": "2026-10-05T11:18:11Z",
+    "url": "https://github.com/nathanpitman/WordPress-to-Astro-migration-skill"
+  },
+  {
+    "description": "What a code comment says and what it must not, with a checker that reads comments out of the syntax tree",
+    "id": "rokokol/code-comments-skill",
+    "language": "Shell",
+    "name": "rokokol/code-comments-skill",
+    "stars": 0,
+    "updated_at": "2026-10-05T11:18:06Z",
+    "url": "https://github.com/rokokol/code-comments-skill"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 96353,
+    "updated_at": "2026-10-05T11:17:15Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-05T11:24:03Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "\uc601\uc0c1\uc758 \ub9d0\uacfc \ud654\uba74 \uae00\uc790\ub97c \ud55c \uc904\ub3c4 \ube7c\uc9c0 \uc54a\uc740 \uae00 \ud30c\uc77c\ub85c \uc62e\uae30\uace0, \ud544\uc694\ud558\uba74 \ud074\ub85c\ub4dc \ucf54\ub4dc \ud658\uacbd\uc5d0 \ub4e4\uc5ec\uc624\ub294 \ud074\ub85c\ub4dc \ucf54\ub4dc \uc2a4\ud0ac (\ud55c\uad6d\uc5b4)",
+    "id": "young-geun-shim/video-to-claude",
+    "language": "Python",
+    "name": "young-geun-shim/video-to-claude",
+    "stars": 0,
+    "updated_at": "2026-10-05T11:27:23Z",
+    "url": "https://github.com/young-geun-shim/video-to-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 56,
+    "updated_at": "2026-10-05T11:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each ",
+    "id": "zhuyansen/awesome-claude-video-skills",
+    "language": "\u2014",
+    "name": "zhuyansen/awesome-claude-video-skills",
+    "stars": 415,
+    "updated_at": "2026-10-05T11:15:12Z",
+    "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
+  },
+  {
     "description": "Claude Code skills, every skill I maintain in one repository: 87 skills in 13 plugins for AWS and Microsoft 365 security",
     "id": "basitalisandhu/claude-skills",
     "language": "Python",
@@ -58,7 +211,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 77795,
+    "stars": 77808,
     "updated_at": "2026-10-05T11:10:38Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -234,15 +387,6 @@
     "url": "https://github.com/matuskalis/autoskill"
   },
   {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 1,
-    "updated_at": "2026-10-05T11:14:24Z",
-    "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
     "description": "Agent skill for Claude Code, Cursor, Codex and Windsurf: your AI puts your site online on a free link with HTTPS, then o",
     "id": "bosmdavid-gif/dropthehassle-skill",
     "language": "JavaScript",
@@ -304,149 +448,5 @@
     "stars": 49,
     "updated_at": "2026-10-05T11:00:20Z",
     "url": "https://github.com/0xDarkMatter/claude-mods"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 56,
-    "updated_at": "2026-10-05T11:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:00:15Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "A standard for CI that stays green for the right reasons",
-    "id": "rokokol/ci-skill",
-    "language": "Shell",
-    "name": "rokokol/ci-skill",
-    "stars": 0,
-    "updated_at": "2026-10-05T11:00:03Z",
-    "url": "https://github.com/rokokol/ci-skill"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:59:58Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:59:49Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 4,
-    "updated_at": "2026-10-05T10:59:10Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 11,
-    "updated_at": "2026-10-05T10:58:55Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "A standard for Nix: what the formatter cannot check, and a checker that holds it",
-    "id": "rokokol/nix-best-practices-skill",
-    "language": "Shell",
-    "name": "rokokol/nix-best-practices-skill",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:58:28Z",
-    "url": "https://github.com/rokokol/nix-best-practices-skill"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-10-05T10:58:14Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Everything published under your GitHub identity, approved card by card, and the homework before contributing upstream",
-    "id": "rokokol/contributing-skill",
-    "language": "Shell",
-    "name": "rokokol/contributing-skill",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:57:54Z",
-    "url": "https://github.com/rokokol/contributing-skill"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:57:33Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:57:32Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "A standard for making Nix-flake-first Linux repos installable on any distribution",
-    "id": "rokokol/huix-standard-skill",
-    "language": "Shell",
-    "name": "rokokol/huix-standard-skill",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:57:24Z",
-    "url": "https://github.com/rokokol/huix-standard-skill"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:57:19Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-10-05T10:57:09Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-10-05T10:57:06Z",
-    "url": "https://github.com/allans4635/memctx"
   }
 ]
