@@ -1,12 +1,75 @@
 [
   {
+    "description": "A collection of custom skills for academic writing, automation, specialized workflows, and more to come.",
+    "id": "xjsongphy/skills",
+    "language": "Python",
+    "name": "xjsongphy/skills",
+    "stars": 7,
+    "updated_at": "2026-10-05T15:15:03Z",
+    "url": "https://github.com/xjsongphy/skills"
+  },
+  {
+    "description": "Projet M2 avec n8n : RAG sur \u00ab Le Capital au XXIe si\u00e8cle \u00bb (V1 \u2192 V3 : recherche hybride, reranking, streaming), tri des ",
+    "id": "noenoenoenoenoe/m2-n8n",
+    "language": "TypeScript",
+    "name": "noenoenoenoenoe/m2-n8n",
+    "stars": 0,
+    "updated_at": "2026-10-05T15:14:52Z",
+    "url": "https://github.com/noenoenoenoenoe/m2-n8n"
+  },
+  {
     "description": "A practical Claude Code guide with clear mental models and copy-paste examples \u2014 setup, prompt engineering, slash comman",
     "id": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
     "language": "JavaScript",
     "name": "wesammustafa/Claude-Code-Everything-You-Need-to-Know",
     "stars": 3096,
-    "updated_at": "2026-10-05T15:07:35Z",
+    "updated_at": "2026-10-05T15:14:43Z",
     "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know"
+  },
+  {
+    "description": "Free, tested Agent Skills in plain SKILL.md format: store owners, freelancers, developers. Works in any assistant that r",
+    "id": "proskillpacks/skills",
+    "language": "Python",
+    "name": "proskillpacks/skills",
+    "stars": 0,
+    "updated_at": "2026-10-05T15:14:16Z",
+    "url": "https://github.com/proskillpacks/skills"
+  },
+  {
+    "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cur",
+    "id": "michael-denyer/pstack-claude",
+    "language": "JavaScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 1318,
+    "updated_at": "2026-10-05T15:14:11Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-05T15:12:42Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Local MCP server and live project board for agent-assisted development",
+    "id": "frostdev-ops/rimewire",
+    "language": "TypeScript",
+    "name": "frostdev-ops/rimewire",
+    "stars": 0,
+    "updated_at": "2026-10-05T15:11:28Z",
+    "url": "https://github.com/frostdev-ops/rimewire"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 58,
+    "updated_at": "2026-10-05T15:09:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Awesome Claude Code And Agent Tools",
@@ -31,7 +94,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 77922,
+    "stars": 77924,
     "updated_at": "2026-10-05T15:04:09Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -67,18 +130,9 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2693,
+    "stars": 2694,
     "updated_at": "2026-10-05T15:02:22Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 58,
-    "updated_at": "2026-10-05T15:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skill per la revisione del codice dei progetti PA italiani rispetto alle linee guida nazionali e agli obblighi del",
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 0,
-    "updated_at": "2026-10-05T14:51:18Z",
+    "updated_at": "2026-10-05T15:13:37Z",
     "url": "https://github.com/MrBinnacle/skills"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/TsukiNi22/skills"
   },
   {
-    "description": "Projet M2 avec n8n : RAG sur \u00ab Le Capital au XXIe si\u00e8cle \u00bb (V1 \u2192 V3 : recherche hybride, reranking, streaming), tri des ",
-    "id": "noenoenoenoenoe/m2-n8n",
-    "language": "TypeScript",
-    "name": "noenoenoenoenoe/m2-n8n",
-    "stars": 0,
-    "updated_at": "2026-10-05T14:46:28Z",
-    "url": "https://github.com/noenoenoenoenoe/m2-n8n"
-  },
-  {
     "description": "Decision-driven harness for coding agents, and humans.",
     "id": "nevenincs/vaultspec-core",
     "language": "Python",
@@ -214,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T14:53:03Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
-  },
-  {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-05T15:01:35Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Agent Skills for legal research and legal work: works in Claude, ChatGPT/Codex, Gemini CLI, Copilot, Cursor, and other a",
@@ -297,15 +333,6 @@
     "url": "https://github.com/effectustasi/kit"
   },
   {
-    "description": "Local MCP server and live project board for agent-assisted development",
-    "id": "frostdev-ops/rimewire",
-    "language": "TypeScript",
-    "name": "frostdev-ops/rimewire",
-    "stars": 0,
-    "updated_at": "2026-10-05T14:36:30Z",
-    "url": "https://github.com/frostdev-ops/rimewire"
-  },
-  {
     "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
     "id": "isamubas/coffee_price_predictor",
     "language": "HTML",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "effectustasi/agent-receipts",
     "stars": 1,
-    "updated_at": "2026-10-05T14:28:07Z",
+    "updated_at": "2026-10-05T15:09:16Z",
     "url": "https://github.com/effectustasi/agent-receipts"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T14:22:21Z",
     "url": "https://github.com/display-dev/product-film"
-  },
-  {
-    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
-    "id": "archubbuck/workspace-architect",
-    "language": "Python",
-    "name": "archubbuck/workspace-architect",
-    "stars": 18,
-    "updated_at": "2026-10-05T14:21:26Z",
-    "url": "https://github.com/archubbuck/workspace-architect"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-05T14:56:19Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Soulscrape is a free agent skill that writes a dated dossier on a person, with every claim tied to its sources, kept pri",
-    "id": "hraness/soulscrape",
-    "language": "TypeScript",
-    "name": "hraness/soulscrape",
-    "stars": 1,
-    "updated_at": "2026-10-05T14:20:30Z",
-    "url": "https://github.com/hraness/soulscrape"
   }
 ]
