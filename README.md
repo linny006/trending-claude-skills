@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 00:30 UTC
+> ⏰ Last updated: 2026-10-05 00:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [polar-bear-org/claude-skills](https://github.com/polar-bear-org/claude-skills) | 2 | Shell | 2026-10-05 | Claude Skills Marketplace: 39 free skill packs, 819 Claude Skills (Agent Skills) for Claude Code and Claude.ai. HR, mana |
-| 2 | [curie-eng/curie](https://github.com/curie-eng/curie) | 36 | Python | 2026-10-05 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
-| 3 | [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) | 53 | Python | 2026-10-05 | Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's |
-| 4 | [nathanaday/atlas-obsidian](https://github.com/nathanaday/atlas-obsidian) | 0 | Go | 2026-10-05 | Multi-tasking upgrade! Store durable knowledge in all your projects and connect them together. Let agents work using the |
-| 5 | [somesh-ghaturle/agentic-boundary-terraform-skills](https://github.com/somesh-ghaturle/agentic-boundary-terraform-skills) | 0 | Shell | 2026-10-05 | Claude Code skills that adapt the Agentic-AI-Systems Terraform to AWS, Azure, GCP and Snowflake without breaking the hum |
-| 6 | [charliechenye/SkillGate](https://github.com/charliechenye/SkillGate) | 2 | Python | 2026-10-05 | Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang |
-| 7 | [JakeSelby/model-citizen](https://github.com/JakeSelby/model-citizen) | 24 | Python | 2026-10-05 | The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan |
-| 8 | [ducdg88/ducpt-skills](https://github.com/ducdg88/ducpt-skills) | 6 | Python | 2026-10-05 | 14 open source Agent Skills (SKILL.md) for one-person companies run with AI: Vietnamese transcripts, copy and voice dict |
-| 9 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 52 | Python | 2026-10-05 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 10 | [heymegabyte/agent-skills](https://github.com/heymegabyte/agent-skills) | 22 | TypeScript | 2026-10-05 | Agent Skills — agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories · 28 agents · 1 |
-| 11 | [inkatze/planwright](https://github.com/inkatze/planwright) | 5 | Shell | 2026-10-05 | Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and |
-| 12 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | 4 | TypeScript | 2026-10-05 | Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on t |
-| 13 | [AThevon/genjutsu](https://github.com/AThevon/genjutsu) | 399 | Python | 2026-10-05 | Creative coding skills for Claude Code, claude.ai and Cowork. Motion, micro-interactions and design systems across Web ( |
-| 14 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 96126 | TypeScript | 2026-10-05 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
-| 15 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-10-05 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
-| 16 | [air-gapped/skills](https://github.com/air-gapped/skills) | 5 | Python | 2026-10-05 | Claude Code plugin marketplace — 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G |
-| 17 | [Leonxlnx/cinetic](https://github.com/Leonxlnx/cinetic) | 18 | Python | 2026-10-05 | Cinematic launch films and motion design from code, directed by your coding agent. |
-| 18 | [mutlumehmet/claude-plugins](https://github.com/mutlumehmet/claude-plugins) | 3 | TypeScript | 2026-10-05 | Claude Code plugins I use every day: skills and mods, cleaned up so they work on anyone's machine. |
-| 19 | [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) | 930 | JavaScript | 2026-10-05 | Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and res |
-| 20 | [travsteward/openwriter](https://github.com/travsteward/openwriter) | 32 | TypeScript | 2026-10-05 | The open-source writing surface for AI agents. Markdown-native editor with pending change review — your agent writes, yo |
-| 21 | [tykisgod/quick-question](https://github.com/tykisgod/quick-question) | 11 | Python | 2026-10-05 | The control plane for game-dev agents — close the loop with verified compile, test, and cross-model review across Unity, |
-| 22 | [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom) | 170 | Python | 2026-10-05 | Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into |
+| 1 | [nathanaday/atlas-obsidian](https://github.com/nathanaday/atlas-obsidian) | 0 | Go | 2026-10-05 | Multi-tasking upgrade! Store durable knowledge in all your projects and connect them together. Let agents work using the |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 52 | Python | 2026-10-05 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom) | 170 | Python | 2026-10-05 | Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into |
+| 4 | [polar-bear-org/claude-skills](https://github.com/polar-bear-org/claude-skills) | 2 | Shell | 2026-10-05 | Claude Skills Marketplace: 39 free skill packs, 819 Claude Skills (Agent Skills) for Claude Code and Claude.ai. HR, mana |
+| 5 | [curie-eng/curie](https://github.com/curie-eng/curie) | 36 | Python | 2026-10-05 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
+| 6 | [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) | 53 | Python | 2026-10-05 | Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's |
+| 7 | [somesh-ghaturle/agentic-boundary-terraform-skills](https://github.com/somesh-ghaturle/agentic-boundary-terraform-skills) | 0 | Shell | 2026-10-05 | Claude Code skills that adapt the Agentic-AI-Systems Terraform to AWS, Azure, GCP and Snowflake without breaking the hum |
+| 8 | [charliechenye/SkillGate](https://github.com/charliechenye/SkillGate) | 2 | Python | 2026-10-05 | Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang |
+| 9 | [JakeSelby/model-citizen](https://github.com/JakeSelby/model-citizen) | 24 | Python | 2026-10-05 | The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan |
+| 10 | [ducdg88/ducpt-skills](https://github.com/ducdg88/ducpt-skills) | 6 | Python | 2026-10-05 | 14 open source Agent Skills (SKILL.md) for one-person companies run with AI: Vietnamese transcripts, copy and voice dict |
+| 11 | [heymegabyte/agent-skills](https://github.com/heymegabyte/agent-skills) | 22 | TypeScript | 2026-10-05 | Agent Skills — agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories · 28 agents · 1 |
+| 12 | [inkatze/planwright](https://github.com/inkatze/planwright) | 5 | Shell | 2026-10-05 | Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and |
+| 13 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | 4 | TypeScript | 2026-10-05 | Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on t |
+| 14 | [AThevon/genjutsu](https://github.com/AThevon/genjutsu) | 399 | Python | 2026-10-05 | Creative coding skills for Claude Code, claude.ai and Cowork. Motion, micro-interactions and design systems across Web ( |
+| 15 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 96126 | TypeScript | 2026-10-05 | Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it |
+| 16 | [LilityV/multai-ai-agent-arsenal](https://github.com/LilityV/multai-ai-agent-arsenal) | 0 | HTML | 2026-10-05 | MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator |
+| 17 | [air-gapped/skills](https://github.com/air-gapped/skills) | 5 | Python | 2026-10-05 | Claude Code plugin marketplace — 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G |
+| 18 | [Leonxlnx/cinetic](https://github.com/Leonxlnx/cinetic) | 18 | Python | 2026-10-05 | Cinematic launch films and motion design from code, directed by your coding agent. |
+| 19 | [mutlumehmet/claude-plugins](https://github.com/mutlumehmet/claude-plugins) | 3 | TypeScript | 2026-10-05 | Claude Code plugins I use every day: skills and mods, cleaned up so they work on anyone's machine. |
+| 20 | [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills) | 930 | JavaScript | 2026-10-05 | Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and res |
+| 21 | [travsteward/openwriter](https://github.com/travsteward/openwriter) | 32 | TypeScript | 2026-10-05 | The open-source writing surface for AI agents. Markdown-native editor with pending change review — your agent writes, yo |
+| 22 | [tykisgod/quick-question](https://github.com/tykisgod/quick-question) | 11 | Python | 2026-10-05 | The control plane for game-dev agents — close the loop with verified compile, test, and cross-model review across Unity, |
 | 23 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-10-04 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
 | 24 | [Darkmalan-1987/sparring-reason](https://github.com/Darkmalan-1987/sparring-reason) | 1 | HTML | 2026-10-04 | Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources |
 | 25 | [Mereyani/claude-reel-editor](https://github.com/Mereyani/claude-reel-editor) | 0 | Python | 2026-10-04 | Claude Code skill: raw talking-head footage → publish-ready reel (silence cuts, captions, motion graphics) with HyperFra |
