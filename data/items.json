@@ -1,5 +1,149 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-05T09:28:02Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "File-based Chief of Staff \u2014 public template (sanitized). Based on dx-dzbor/chief-of-staff.",
+    "id": "gasyoun/chief-of-staff-template",
+    "language": "HTML",
+    "name": "gasyoun/chief-of-staff-template",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:27:49Z",
+    "url": "https://github.com/gasyoun/chief-of-staff-template"
+  },
+  {
+    "description": "Free, tested Agent Skills in plain SKILL.md format: store owners, freelancers, developers. Works in any assistant that r",
+    "id": "proskillpacks/skills",
+    "language": "Python",
+    "name": "proskillpacks/skills",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:27:31Z",
+    "url": "https://github.com/proskillpacks/skills"
+  },
+  {
+    "description": "The issue-pipeline workflow system as a Claude Code plugin: GitHub Issues as the work-item SSOT, labels as the pipeline,",
+    "id": "itw-creative-works/workkit",
+    "language": "JavaScript",
+    "name": "itw-creative-works/workkit",
+    "stars": 4,
+    "updated_at": "2026-10-05T09:27:06Z",
+    "url": "https://github.com/itw-creative-works/workkit"
+  },
+  {
+    "description": "An AI-assistant skill that turns a short story (Chinese, English or Korean) into an episodic AI drama: script, storyboar",
+    "id": "azrianobr/dramazing",
+    "language": "JavaScript",
+    "name": "azrianobr/dramazing",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:24:15Z",
+    "url": "https://github.com/azrianobr/dramazing"
+  },
+  {
+    "description": "Claude Code skills: a master Remotion video skill with ten specialists broken out of it, production deploys on GitHub Ac",
+    "id": "tomerhayundev/skills",
+    "language": "JavaScript",
+    "name": "tomerhayundev/skills",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:24:00Z",
+    "url": "https://github.com/tomerhayundev/skills"
+  },
+  {
+    "description": "A Claude Skill that turns a content brief into a designed business deck (.pptx) \u2014 with per-slide visual reasoning, stock",
+    "id": "carriexlaw/xlaw-ppt-skill",
+    "language": "Python",
+    "name": "carriexlaw/xlaw-ppt-skill",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:23:15Z",
+    "url": "https://github.com/carriexlaw/xlaw-ppt-skill"
+  },
+  {
+    "description": "Lightweight coding agent harness built in Rust for zero vendor lock-in. 8 MB, BYOK, Support Codex and grok subscriptions",
+    "id": "milisp/keke-agent",
+    "language": "Rust",
+    "name": "milisp/keke-agent",
+    "stars": 4,
+    "updated_at": "2026-10-05T09:21:21Z",
+    "url": "https://github.com/milisp/keke-agent"
+  },
+  {
+    "description": "Self-explanatory. A massive AI manual for everyone from beginners to advanced beginners!",
+    "id": "TheMassiveAIManual/themassiveaimanual.github.io",
+    "language": "Python",
+    "name": "TheMassiveAIManual/themassiveaimanual.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:21:08Z",
+    "url": "https://github.com/TheMassiveAIManual/themassiveaimanual.github.io"
+  },
+  {
+    "description": "Audit, plan, and adapt SwiftUI and UIKit apps for iPhone Duo, foldables, hinges, and multi-display layouts.",
+    "id": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
+    "language": "Python",
+    "name": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:17:32Z",
+    "url": "https://github.com/Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill"
+  },
+  {
+    "description": "Help your next AI chat pick up where this one left off with a portable skill that writes clear session handoff notes.",
+    "id": "draysen-yau/session-handoff",
+    "language": "JavaScript",
+    "name": "draysen-yau/session-handoff",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:17:12Z",
+    "url": "https://github.com/draysen-yau/session-handoff"
+  },
+  {
+    "description": "Discover production-ready Claude Code configs: agents, skills, hooks, commands, rules, and MCP setups from an Anthropic ",
+    "id": "HABUBUSS/everything-claude-code",
+    "language": "JavaScript",
+    "name": "HABUBUSS/everything-claude-code",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:16:58Z",
+    "url": "https://github.com/HABUBUSS/everything-claude-code"
+  },
+  {
+    "description": "Built while contributing to open-chat-studio to compare LLM APIs & repeat bugs. Experimenting with AI assisted dev",
+    "id": "lisa-tarbo/LLM-integration-play",
+    "language": "Jupyter Notebook",
+    "name": "lisa-tarbo/LLM-integration-play",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:28:12Z",
+    "url": "https://github.com/lisa-tarbo/LLM-integration-play"
+  },
+  {
+    "description": "Turn saved spam into ranked mail filter rules Claude can install, with honest cost estimates for each match.",
+    "id": "Samuellalight8026/spam-filter-advisor-skill",
+    "language": "Python",
+    "name": "Samuellalight8026/spam-filter-advisor-skill",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:16:12Z",
+    "url": "https://github.com/Samuellalight8026/spam-filter-advisor-skill"
+  },
+  {
+    "description": "The self-improving context engine for coding agents.",
+    "id": "aerovato/operator-memory",
+    "language": "TypeScript",
+    "name": "aerovato/operator-memory",
+    "stars": 294,
+    "updated_at": "2026-10-05T09:16:00Z",
+    "url": "https://github.com/aerovato/operator-memory"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 54,
+    "updated_at": "2026-10-05T09:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -16,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T09:14:48Z",
     "url": "https://github.com/burnabyjudicial666/agent-profiles"
-  },
-  {
-    "description": "The self-improving context engine for coding agents.",
-    "id": "aerovato/operator-memory",
-    "language": "TypeScript",
-    "name": "aerovato/operator-memory",
-    "stars": 294,
-    "updated_at": "2026-10-05T09:14:40Z",
-    "url": "https://github.com/aerovato/operator-memory"
   },
   {
     "description": "Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua",
@@ -126,15 +261,6 @@
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-05T09:13:23Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
     "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
     "language": "TypeScript",
@@ -211,8 +337,8 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 96304,
-    "updated_at": "2026-10-05T09:07:05Z",
+    "stars": 96313,
+    "updated_at": "2026-10-05T09:30:06Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-05T09:05:11Z",
     "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-10-05T09:04:53Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
-  },
-  {
-    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
-    "id": "dinho-afsn/agentic-harness-patterns-skill",
-    "language": "\u2014",
-    "name": "dinho-afsn/agentic-harness-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-10-05T09:04:39Z",
-    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
-  },
-  {
-    "description": "Reverse-engineer Claude Code CLI in Bun for a fast, local command-line tool with clear source structure and telemetry co",
-    "id": "deadgirlbad-source/claude-code-reverse",
-    "language": "\u2014",
-    "name": "deadgirlbad-source/claude-code-reverse",
-    "stars": 0,
-    "updated_at": "2026-10-05T09:04:36Z",
-    "url": "https://github.com/deadgirlbad-source/claude-code-reverse"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
-    "id": "Max-Levitskiy/skills",
-    "language": "TypeScript",
-    "name": "Max-Levitskiy/skills",
-    "stars": 0,
-    "updated_at": "2026-10-05T09:04:18Z",
-    "url": "https://github.com/Max-Levitskiy/skills"
-  },
-  {
-    "description": "Recover and reset Claude Code in Python with a faithful CLI port that preserves core logic and removes the UI layer",
-    "id": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "language": "\u2014",
-    "name": "Unswept-puffing907/claude-code-recover-and-python-reset",
-    "stars": 1,
-    "updated_at": "2026-10-05T09:04:16Z",
-    "url": "https://github.com/Unswept-puffing907/claude-code-recover-and-python-reset"
-  },
-  {
-    "description": "Recover Claude Code source for TypeScript and React UI analysis and reuse",
-    "id": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "language": "\u2014",
-    "name": "cacodaemonic-impulseexplosive956/claude_code_src",
-    "stars": 2,
-    "updated_at": "2026-10-05T09:04:14Z",
-    "url": "https://github.com/cacodaemonic-impulseexplosive956/claude_code_src"
-  },
-  {
-    "description": "Preserve a TypeScript Claude Code source snapshot for security research, supply-chain analysis, and archival reference",
-    "id": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "language": "\u2014",
-    "name": "stuffinesslamedh281/claude-code-snapshot-backup",
-    "stars": 0,
-    "updated_at": "2026-10-05T09:04:13Z",
-    "url": "https://github.com/stuffinesslamedh281/claude-code-snapshot-backup"
-  },
-  {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-10-05T09:03:58Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
-    "description": "Coordinate agent brainstorming to generate research proposals and manage future experiment and review workflows",
-    "id": "Daisybastioned440/lite-research-agents",
-    "language": "Python",
-    "name": "Daisybastioned440/lite-research-agents",
-    "stars": 2,
-    "updated_at": "2026-10-05T09:03:47Z",
-    "url": "https://github.com/Daisybastioned440/lite-research-agents"
-  },
-  {
-    "description": "agent-ops",
-    "id": "whchoi98/agent-ops",
-    "language": "TypeScript",
-    "name": "whchoi98/agent-ops",
-    "stars": 5,
-    "updated_at": "2026-10-05T09:03:26Z",
-    "url": "https://github.com/whchoi98/agent-ops"
-  },
-  {
-    "description": "Ask once, get a cited research brief. AI social listening, market research & competitive intelligence as one Claude Code",
-    "id": "Runesmith-Studio/deep-reach",
-    "language": "\u2014",
-    "name": "Runesmith-Studio/deep-reach",
-    "stars": 0,
-    "updated_at": "2026-10-05T09:02:41Z",
-    "url": "https://github.com/Runesmith-Studio/deep-reach"
-  },
-  {
-    "description": "Build modular project blueprints for Claude Code, Obsidian, and Figma teams from solo MVPs to multi-agent systems",
-    "id": "maduwanthasathsara0-hub/claude-proj-blueprint",
-    "language": "Shell",
-    "name": "maduwanthasathsara0-hub/claude-proj-blueprint",
-    "stars": 1,
-    "updated_at": "2026-10-05T09:02:39Z",
-    "url": "https://github.com/maduwanthasathsara0-hub/claude-proj-blueprint"
-  },
-  {
-    "description": "Extract, structure, and apply visual design identity as machine-readable Design DNA across tokens, style, and effects",
-    "id": "Tricholomaaurantiumknottiness355/design-dna",
-    "language": "\u2014",
-    "name": "Tricholomaaurantiumknottiness355/design-dna",
-    "stars": 4,
-    "updated_at": "2026-10-05T09:02:34Z",
-    "url": "https://github.com/Tricholomaaurantiumknottiness355/design-dna"
-  },
-  {
-    "description": "Build AI-friendly web interfaces with semantic HTML, ARIA, stable locators, and form best practices for better automatio",
-    "id": "avilaok8647/ai-friendly-web-design-skill",
-    "language": "JavaScript",
-    "name": "avilaok8647/ai-friendly-web-design-skill",
-    "stars": 1,
-    "updated_at": "2026-10-05T09:02:24Z",
-    "url": "https://github.com/avilaok8647/ai-friendly-web-design-skill"
   }
 ]
