@@ -1,5 +1,104 @@
 [
   {
+    "description": "\u00c1gora: a Claude skill for deep understanding and applied reasoning, in any language. Diagnostic, 12-week plan, daily ses",
+    "id": "Mlle-LondonG/agora-skill",
+    "language": "Python",
+    "name": "Mlle-LondonG/agora-skill",
+    "stars": 0,
+    "updated_at": "2026-10-05T02:58:39Z",
+    "url": "https://github.com/Mlle-LondonG/agora-skill"
+  },
+  {
+    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
+    "id": "gooseworks-ai/goose-skills",
+    "language": "Python",
+    "name": "gooseworks-ai/goose-skills",
+    "stars": 1232,
+    "updated_at": "2026-10-05T02:58:25Z",
+    "url": "https://github.com/gooseworks-ai/goose-skills"
+  },
+  {
+    "description": "Slash commands for Claude Code \u2014 manage GitHub issues and pull requests, one focused workflow at a time.",
+    "id": "claude-contrib/claude-skills",
+    "language": "jq",
+    "name": "claude-contrib/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-05T02:56:30Z",
+    "url": "https://github.com/claude-contrib/claude-skills"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1160,
+    "updated_at": "2026-10-05T02:56:28Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Turn PRs, architectures, and incidents into diagrams and narrated walkthroughs\u2014with automatic layout, synchronized narra",
+    "id": "nu0ma/explain",
+    "language": "TypeScript",
+    "name": "nu0ma/explain",
+    "stars": 0,
+    "updated_at": "2026-10-05T02:55:08Z",
+    "url": "https://github.com/nu0ma/explain"
+  },
+  {
+    "description": "Naren's Claude toolkit: skills, mods and MCP servers for Claude Code. One-command install via plugin marketplace.",
+    "id": "NarenDawar/narens-claude-toolkit",
+    "language": "Python",
+    "name": "NarenDawar/narens-claude-toolkit",
+    "stars": 2,
+    "updated_at": "2026-10-05T02:52:25Z",
+    "url": "https://github.com/NarenDawar/narens-claude-toolkit"
+  },
+  {
+    "description": "Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framewo",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1527,
+    "updated_at": "2026-10-05T02:49:54Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
+    "id": "hraness/oh",
+    "language": "TypeScript",
+    "name": "hraness/oh",
+    "stars": 4,
+    "updated_at": "2026-10-05T02:49:22Z",
+    "url": "https://github.com/hraness/oh"
+  },
+  {
+    "description": "Turn a product page into a narrated, captioned explainer video. Free local AI voice, one JSON file. Works as a Claude sk",
+    "id": "dmakam/explainer-video",
+    "language": "HTML",
+    "name": "dmakam/explainer-video",
+    "stars": 0,
+    "updated_at": "2026-10-05T02:46:27Z",
+    "url": "https://github.com/dmakam/explainer-video"
+  },
+  {
+    "description": "A framework- and language-agnostic guide to DDD-based backend service design, implemented identically across 5 languages",
+    "id": "kyhsa93/backend-service-playbook",
+    "language": "Java",
+    "name": "kyhsa93/backend-service-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-05T02:45:35Z",
+    "url": "https://github.com/kyhsa93/backend-service-playbook"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 52,
+    "updated_at": "2026-10-05T02:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -18,15 +117,6 @@
     "url": "https://github.com/heymegabyte/agent-skills"
   },
   {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1160,
-    "updated_at": "2026-10-05T02:42:11Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "Claude Code / Codex / opencode \u901a\u7528\u7684 Agent Skills\uff1aGit \u5de5\u4f5c\u6d41\u3001\u6570\u636e\u7ade\u8d5b\u3001\u6570\u5b66\u5efa\u6a21 \u00b7 Agent Skills for coding agents",
     "id": "hoobnn/hoobnn-skills",
     "language": "Python",
@@ -40,8 +130,8 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 77506,
-    "updated_at": "2026-10-05T02:39:28Z",
+    "stars": 77518,
+    "updated_at": "2026-10-05T02:58:51Z",
     "url": "https://github.com/tt-a1i/archify"
   },
   {
@@ -50,7 +140,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69801,
-    "updated_at": "2026-10-05T02:42:07Z",
+    "updated_at": "2026-10-05T02:59:01Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -61,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-10-05T02:34:47Z",
     "url": "https://github.com/IvMisticos/misticos.Claude"
-  },
-  {
-    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
-    "id": "gooseworks-ai/goose-skills",
-    "language": "Python",
-    "name": "gooseworks-ai/goose-skills",
-    "stars": 1232,
-    "updated_at": "2026-10-05T02:33:13Z",
-    "url": "https://github.com/gooseworks-ai/goose-skills"
   },
   {
     "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
@@ -88,15 +169,6 @@
     "stars": 63,
     "updated_at": "2026-10-05T02:32:02Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 52,
-    "updated_at": "2026-10-05T02:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "CAAS (Chat\u2013Agent Auto Session): talk only to your everyday Claude.ai conversation; running Claude Code sessions do the w",
@@ -252,31 +324,13 @@
     "url": "https://github.com/hraness/wordcell"
   },
   {
-    "description": "\u00c1gora: a Claude skill for deep understanding and applied reasoning, in any language. Diagnostic, 12-week plan, daily ses",
-    "id": "Mlle-LondonG/agora-skill",
-    "language": "Python",
-    "name": "Mlle-LondonG/agora-skill",
-    "stars": 0,
-    "updated_at": "2026-10-05T01:58:13Z",
-    "url": "https://github.com/Mlle-LondonG/agora-skill"
-  },
-  {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
     "name": "ikaijua/Awesome-AITools",
     "stars": 6207,
-    "updated_at": "2026-10-05T01:56:32Z",
+    "updated_at": "2026-10-05T02:59:33Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Oh is open-source memory for agents that stores each fact with its sources and every change in a history you can replay.",
-    "id": "hraness/oh",
-    "language": "TypeScript",
-    "name": "hraness/oh",
-    "stars": 4,
-    "updated_at": "2026-10-05T02:30:45Z",
-    "url": "https://github.com/hraness/oh"
   },
   {
     "description": "Nerviz \u2014 an agent harness for Spring Boot. Claude Code skills, agents and hooks that generate Spring Boot projects and k",
@@ -286,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-10-05T01:54:37Z",
     "url": "https://github.com/nerviz-ai/nerviz"
-  },
-  {
-    "description": "Turn PRs, architectures, and incidents into diagrams and narrated walkthroughs\u2014with automatic layout, synchronized narra",
-    "id": "nu0ma/explain",
-    "language": "TypeScript",
-    "name": "nu0ma/explain",
-    "stars": 0,
-    "updated_at": "2026-10-05T01:53:42Z",
-    "url": "https://github.com/nu0ma/explain"
   },
   {
     "description": "When you can't trust yourself with your code base, trust Arbiter. ",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-05T01:40:06Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-10-05T01:39:03Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-10-05T01:37:45Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "multilingual web search and page reading for Claude Code \u2014 search in any language, read pages that wall off plain client",
-    "id": "purr/weltsuche",
-    "language": "Python",
-    "name": "purr/weltsuche",
-    "stars": 0,
-    "updated_at": "2026-10-05T01:37:44Z",
-    "url": "https://github.com/purr/weltsuche"
-  },
-  {
-    "description": "Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framewo",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "JavaScript",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 1527,
-    "updated_at": "2026-10-05T02:31:16Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
-  },
-  {
-    "description": "Index of my agent skills \u2014 each skill lives in its own repo",
-    "id": "Wang-Cankun/cankun-skills",
-    "language": "JavaScript",
-    "name": "Wang-Cankun/cankun-skills",
-    "stars": 2,
-    "updated_at": "2026-10-05T01:34:34Z",
-    "url": "https://github.com/Wang-Cankun/cankun-skills"
   }
 ]
