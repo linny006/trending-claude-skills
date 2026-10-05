@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 16:45 UTC
+> ⏰ Last updated: 2026-10-05 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Violinet-tech/violet-skills](https://github.com/Violinet-tech/violet-skills) | 0 | Python | 2026-10-05 | Agent skills from VIOLINET Tech: ComfyUI fixes, de-Googling apps, looping video, readable UI over artwork, lean repos. |
-| 2 | [suboss87/FDEOps](https://github.com/suboss87/FDEOps) | 950 | JavaScript | 2026-10-05 | Forward deployed engineering skills for AI coding agents. |
-| 3 | [eduair94/cambio-uruguay](https://github.com/eduair94/cambio-uruguay) | 7 | TypeScript | 2026-10-05 | cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k |
-| 4 | [drnachio/postext](https://github.com/drnachio/postext) | 7 | TypeScript | 2026-10-05 | A programmable typesetter for the web |
-| 5 | [TobiB1505/faber-cut](https://github.com/TobiB1505/faber-cut) | 0 | Python | 2026-10-05 | Claude Code schneidet deine Handy-Clips zu fertigen Reels für Instagram und TikTok. Kostenlos, mit einem Prompt eingeric |
-| 6 | [tonydzi/whatsapp-mcp-kit](https://github.com/tonydzi/whatsapp-mcp-kit) | 11 | Python | 2026-10-05 | Link WhatsApp to Claude (or any MCP client) in ~20 minutes: a live self-refreshing QR page that makes pairing actually w |
-| 7 | [tonydzi/voice2brain](https://github.com/tonydzi/voice2brain) | 1 | Python | 2026-10-05 | Voice -> text -> your personal knowledge base. A primitive, not a platform: 4 small Python scripts turn voice notes into |
-| 8 | [tonydzi/verified-ops-starter](https://github.com/tonydzi/verified-ops-starter) | 1 | Python | 2026-10-05 | Your scheduled job says exit 0 — prove it did the work. Three stdlib-only checks: output freshness, silent no-op detecti |
-| 9 | [tonydzi/verdict-contract](https://github.com/tonydzi/verdict-contract) | 3 | Python | 2026-10-05 | Your LLM reviewer said APPROVE. Did it? A structured verdict contract: prompt rule + parser + exit-code gate in one stdl |
-| 10 | [tonydzi/verbatim-citation-gate](https://github.com/tonydzi/verbatim-citation-gate) | 4 | Python | 2026-10-05 | Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framewo |
-| 11 | [tonydzi/telegram-mcp-kit](https://github.com/tonydzi/telegram-mcp-kit) | 5 | PowerShell | 2026-10-05 | Connect Claude (or any MCP client) to your own Telegram in ~15 minutes: setup prompt for Claude Code/Codex, production p |
-| 12 | [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory) | 8 | Python | 2026-10-05 | Graph RAG on SQLite for AI agents: vector retrieval + hand-curated wikilink graph + cross-encoder rerank, with a zero-to |
-| 13 | [tonydzi/secondop-panel](https://github.com/tonydzi/secondop-panel) | 0 | Python | 2026-10-05 | Nobody reviews themselves - and one reviewer model is one blind spot. Fan every change out to several model FAMILIES at  |
-| 14 | [tonydzi/second-brain-starter-kit](https://github.com/tonydzi/second-brain-starter-kit) | 9 | Python | 2026-10-05 | Claude Code as a second brain: 100 battle-tested skills, a working CRM engine, vault templates and the handover map. Met |
-| 15 | [tonydzi/persona-portability-benchmark](https://github.com/tonydzi/persona-portability-benchmark) | 1 | Python | 2026-10-05 | One persona, one frozen memory, N models: how much of an agent's character survives a model swap? Harness + blind multi- |
-| 16 | [tonydzi/oss-publish](https://github.com/tonydzi/oss-publish) | 0 | Python | 2026-10-05 | Open up your internal work without leaking it: substitute personal data with plausible fakes of the same shape (not <RED |
-| 17 | [tonydzi/mcp-daemon-diet](https://github.com/tonydzi/mcp-daemon-diet) | 1 | Python | 2026-10-05 | One shared MCP daemon per machine instead of a stdio copy in every agent session: recipe, autostart templates for Window |
-| 18 | [tonydzi/llm-spend-audit](https://github.com/tonydzi/llm-spend-audit) | 0 | Python | 2026-10-05 | Your agent setup charges rent on every session, before it does any work. Three stdlib-only instruments: what your wiring |
-| 19 | [tonydzi/harness-abc-bench](https://github.com/tonydzi/harness-abc-bench) | 3 | — | 2026-10-05 | Pre-registered A/B/C benchmark: Superpowers vs OpenSpec vs baseline, on real brownfield ops code. Methodology frozen bef |
-| 20 | [abbyuraffi-netizen/maxvision-claude-forge](https://github.com/abbyuraffi-netizen/maxvision-claude-forge) | 0 | HTML | 2026-10-05 | n8n Claude Code Marketplace 2026 ⚡ Production-Grade Skills for GTM & Workflow Automation |
-| 21 | [tonydzi/fleet-deploy](https://github.com/tonydzi/fleet-deploy) | 0 | Python | 2026-10-05 | Roll a fix to N machines and prove it landed on each one: applied-vs-claimed accounting, canary waves, a verify that mus |
-| 22 | [hakon-junge/creator-management-inbox-skills](https://github.com/hakon-junge/creator-management-inbox-skills) | 0 | Python | 2026-10-05 | Claude skills that draft your creator and influencer emails in your own voice. Drafts only - you review and send. |
-| 23 | [tonydzi/clawrush](https://github.com/tonydzi/clawrush) | 14 | Python | 2026-10-05 | C(H+A)RM build diary — a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to |
-| 24 | [tonydzi/claw-consensus](https://github.com/tonydzi/claw-consensus) | 4 | Python | 2026-10-05 | Run AI agents across machines without state drift: consensus protocol (propose/counter/accept/commit), dual-rail message |
-| 25 | [tonydzi/claude-memory-tidy](https://github.com/tonydzi/claude-memory-tidy) | 1 | Python | 2026-10-05 | Keep Claude Code's always-loaded MEMORY.md from silently truncating: budget guard, orphan coverage, verbatim domain fold |
-| 26 | [tonydzi/claude-mac-patrol](https://github.com/tonydzi/claude-mac-patrol) | 0 | Python | 2026-10-05 | Your Mac is not old -- it is holding thirty half-dead agent sessions. A dependency-free janitor for machines running Cla |
-| 27 | [flashfrogluo/second-take](https://github.com/flashfrogluo/second-take) | 0 | Shell | 2026-10-05 | Second Take — 当 AI 给的答案不满意，说一句"再来一条"，带上诊断好的重拍单，让原 AI 直接给出更好的最终答案。A meta-skill for diagnosing and re-shooting weak AI rea |
-| 28 | [tonydzi/claude-desktop-watchdog](https://github.com/tonydzi/claude-desktop-watchdog) | 0 | PowerShell | 2026-10-05 | Claude Desktop on Windows will not reopen after an update and you reboot. A dead instance is holding the single-instance |
-| 29 | [tonydzi/claude-bible](https://github.com/tonydzi/claude-bible) | 11 | — | 2026-10-05 | Make Claude Code behave consistently across repos, sessions and humans: rules-as-files governance with precedence, decli |
-| 30 | [tonydzi/claim-check](https://github.com/tonydzi/claim-check) | 0 | Python | 2026-10-05 | Every number you publish is a claim. Prove it in CI: bind each figure in your README to the artifact it came from and fa |
-| 31 | [tonydzi/charm-os](https://github.com/tonydzi/charm-os) | 4 | Python | 2026-10-05 | CharmOS / C(H+A)RM — open-source framework to manage humans AND AI agents as first-class relationships, on a personal se |
-| 32 | [Hefrock/agent-skills](https://github.com/Hefrock/agent-skills) | 0 | Python | 2026-10-05 | Portable AI agent skills built on the open SKILL.md standard  — self-contained capabilities any compatible agent can dis |
-| 33 | [tonydzi/awesome-verified-agents](https://github.com/tonydzi/awesome-verified-agents) | 1 | — | 2026-10-05 | Tools that produce evidence about what an AI agent actually did — gates, attestation, output verification, benchmarks. I |
-| 34 | [tonydzi/agent-runtime-integrity-bench](https://github.com/tonydzi/agent-runtime-integrity-bench) | 0 | Python | 2026-10-05 | Integrity scenarios for agent runtimes, distilled from real fleet incidents — deterministic fault-injection checks again |
-| 35 | [tonydzi/agent-leash](https://github.com/tonydzi/agent-leash) | 3 | — | 2026-10-05 | LEASH-8: an 8-domain control model for AI agents with delegated authority. Scorecard, approval-design checklist, plan-vs |
-| 36 | [tonydzi/agent-approval-gate](https://github.com/tonydzi/agent-approval-gate) | 0 | Python | 2026-10-05 | Your agent needs a human's OK and nobody is at the terminal. Ask goes to a messenger, '+' comes back into the run, silen |
-| 37 | [ryanjmichie-git/ste-explain](https://github.com/ryanjmichie-git/ste-explain) | 0 | Python | 2026-10-05 | Explain anything, or rewrite any text, in Simplified Technical English (an agent skill) |
-| 38 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-10-05 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
-| 39 | [sebastianhaba/book-to-course-skill](https://github.com/sebastianhaba/book-to-course-skill) | 43 | Python | 2026-10-05 | Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-s |
-| 40 | [elviisaeva/petty-thief](https://github.com/elviisaeva/petty-thief) | 1 | TypeScript | 2026-10-05 | Steal ideas, not content: a Telegram link stash + Claude Code skill |
-| 41 | [preset-io/agent-skills](https://github.com/preset-io/agent-skills) | 13 | JavaScript | 2026-10-05 | Agent skills for Preset, Apache Superset and Superset MCP — `sup` CLI, HTTP/SDK and MCP workflows from a single source. |
-| 42 | [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | 14 | Python | 2026-10-05 | Self-hosted agentic OS — a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats |
-| 43 | [reticlehq/reticle](https://github.com/reticlehq/reticle) | 1164 | TypeScript | 2026-10-05 | AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r |
-| 44 | [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) | 418 | — | 2026-10-05 | Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each  |
-| 45 | [fdtaljaard/claude-skills](https://github.com/fdtaljaard/claude-skills) | 7 | Python | 2026-10-05 | Reference-backed ERP assistants for Claude Code — Sage 300 (Accpac), Sage 200 Evolution (Pastel), and SAP Business One.  |
-| 46 | [Atri10/executor](https://github.com/Atri10/executor) | 3 | Shell | 2026-10-05 | Stop shipping AI slop: a multi-agent orchestration skill that makes coding agents prove their work. Claude Code, Codex,  |
-| 47 | [victorrentea/human-review](https://github.com/victorrentea/human-review) | 11 | Python | 2026-10-05 | A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast — diagram deltas, C |
-| 48 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 4 | HTML | 2026-10-05 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
-| 49 | [UiPath/coder_eval](https://github.com/UiPath/coder_eval) | 148 | Python | 2026-10-05 | Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandb |
-| 50 | [Pushary/pushary-skill](https://github.com/Pushary/pushary-skill) | 1 | — | 2026-10-05 | Push notifications + human-in-the-loop for AI agents. Approve from your lock screen. Claude Code, Claude Cowork, Codex,  |
+| 1 | [aaronjmars/agent-credit](https://github.com/aaronjmars/agent-credit) | 24 | Shell | 2026-10-05 | Give your AI agent a credit line: it borrows and repays on Aave V3 via credit delegation, within limits you set. |
+| 2 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 1368 | JavaScript | 2026-10-05 | Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cur |
+| 3 | [Jishnuraj07/daedalus](https://github.com/Jishnuraj07/daedalus) | 0 | Python | 2026-10-05 | Hands-free Claude Code: it tells you when it's waiting on you and stays quiet otherwise. Knows whether you're looking at |
+| 4 | [victorrentea/human-review](https://github.com/victorrentea/human-review) | 11 | Python | 2026-10-05 | A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast — diagram deltas, C |
+| 5 | [mefayed/boss-skill](https://github.com/mefayed/boss-skill) | 5 | Python | 2026-10-05 | Plugin for Claude Code: sends each coding task to the cheapest model that can do it right, keeps your main chat lean, re |
+| 6 | [Mlle-LondonG/agora-skill](https://github.com/Mlle-LondonG/agora-skill) | 0 | Python | 2026-10-05 | Ágora: a Claude skill for deep understanding and applied reasoning, in any language. Diagnostic, 12-week plan, daily ses |
+| 7 | [luftwaffe66/ai-memory-system](https://github.com/luftwaffe66/ai-memory-system) | 0 | Shell | 2026-10-05 | Memory system spec for AI agents: structured /memory folder with indexed, timestamped, and enforceable Markdown logs for |
+| 8 | [WednyFernandes/what-am-i-missing](https://github.com/WednyFernandes/what-am-i-missing) | 0 | — | 2026-10-05 | Agent skill for Claude Code, Codex & Cursor: gap analysis of any plan against named laws, standards and frameworks (LGPD |
+| 9 | [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht) | 1659 | Python | 2026-10-05 | ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u |
+| 10 | [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | 14 | Python | 2026-10-05 | Self-hosted agentic OS — a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats |
+| 11 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 429 | Python | 2026-10-05 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
+| 12 | [aliasunder/agent-plugins](https://github.com/aliasunder/agent-plugins) | 0 | TypeScript | 2026-10-05 | Plugin marketplace for Claude Code and Claude Cowork — fresh-eyes code review agents, workflow orchestrators, and specia |
+| 13 | [a-aigner/notemd-skills](https://github.com/a-aigner/notemd-skills) | 0 | — | 2026-10-05 | Agent Skills that teach Claude and other AI agents the Markdown note.md actually renders, and how its knowledge graph is |
+| 14 | [bajzaa975/claude-alapcsomag](https://github.com/bajzaa975/claude-alapcsomag) | 0 | JavaScript | 2026-10-05 | Claude code token saviour and coding orchestration package by Bajzi |
+| 15 | [Hefrock/agent-skills](https://github.com/Hefrock/agent-skills) | 0 | Python | 2026-10-05 | Portable AI agent skills built on the open SKILL.md standard  — self-contained capabilities any compatible agent can dis |
+| 16 | [datarobot-oss/datarobot-agent-skills](https://github.com/datarobot-oss/datarobot-agent-skills) | 28 | Python | 2026-10-05 | Bring DataRobot platform capabilities to your coding agents |
+| 17 | [andresanemic/lore-plugin](https://github.com/andresanemic/lore-plugin) | 7 | JavaScript | 2026-10-05 | Local fine-tuning for your own tasks — and the one doing the training is you. A provider-neutral kit that turns project  |
+| 18 | [Natively-AI-assistant/natively-cluely-ai-assistant](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) | 2696 | TypeScript | 2026-10-05 | Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott |
+| 19 | [drnachio/postext](https://github.com/drnachio/postext) | 7 | TypeScript | 2026-10-05 | A programmable typesetter for the web |
+| 20 | [incendies/imageat-skills](https://github.com/incendies/imageat-skills) | 0 | — | 2026-10-05 | Official imageat agent skill: generate images and videos from Claude Code, Codex, Cursor and other agents |
+| 21 | [Bencal18/Custom-AMS-Skills](https://github.com/Bencal18/Custom-AMS-Skills) | 0 | — | 2026-10-05 | Open AI skills that help coaches analyze athlete monitoring data correctly |
+| 22 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69814 | TypeScript | 2026-10-05 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 23 | [mhmtsrfglu/superwiki](https://github.com/mhmtsrfglu/superwiki) | 3 | JavaScript | 2026-10-05 | Agent skills that turn docs/ into an LLM-maintained wiki and task tracker. Obsidian-friendly. Works with Claude Code, Co |
+| 24 | [Atri10/executor](https://github.com/Atri10/executor) | 3 | Shell | 2026-10-05 | Stop shipping AI slop: a multi-agent orchestration skill that makes coding agents prove their work. Claude Code, Codex,  |
+| 25 | [timlaneseo-tech/pickle](https://github.com/timlaneseo-tech/pickle) | 0 | Shell | 2026-10-05 | 🥒 Free Claude skill: is it National Something Day, should your brand post about it, and how cringe would it be? Real day |
+| 26 | [flashfrogluo/second-take](https://github.com/flashfrogluo/second-take) | 0 | Shell | 2026-10-05 | AI 给的答案不满意？诊断那段深度思考（CoT）哪里错，产出一段可粘回原对话的重拍单，让原 AI 直接给出更好的最终答案。解决"只会说再改改、说不清哪里不对"；支持文本/图像/视频提示词，兼容 Claude、DeepSeek、ChatGPT |
+| 27 | [howard-lynn-ye/fin-skills](https://github.com/howard-lynn-ye/fin-skills) | 1 | Python | 2026-10-05 | Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated |
+| 28 | [proskillpacks/shopify-store-skills](https://github.com/proskillpacks/shopify-store-skills) | 0 | Python | 2026-10-05 | Free, tested Agent Skills for Shopify store owners: image alt text, policy audit, title cleanup, review replies and an A |
+| 29 | [shear559/fabius](https://github.com/shear559/fabius) | 2 | JavaScript | 2026-10-05 | One set of rules above every model. Fifteen skills for Claude Code, Codex and Grok Build that make your model plan first |
+| 30 | [proskillpacks/skills](https://github.com/proskillpacks/skills) | 0 | Python | 2026-10-05 | Free, tested Agent Skills in plain SKILL.md format: store owners, freelancers, developers. Works in any assistant that r |
+| 31 | [Max-Levitskiy/skills](https://github.com/Max-Levitskiy/skills) | 0 | TypeScript | 2026-10-05 | Claude Code plugin marketplace — install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add |
+| 32 | [jezweb/claude-skills](https://github.com/jezweb/claude-skills) | 1042 | Python | 2026-10-05 | Skills for Claude Code CLI such as full stack dev Cloudflare, React, Tailwind v4, and AI integrations. |
+| 33 | [getaero-io/gtm-eng-skills](https://github.com/getaero-io/gtm-eng-skills) | 63 | TypeScript | 2026-10-05 | 10 AI agent skills for Claude Code — waterfall email enrichment, TAM building, signal discovery, job change detection, a |
+| 34 | [elviisaeva/petty-thief](https://github.com/elviisaeva/petty-thief) | 1 | TypeScript | 2026-10-05 | Steal ideas, not content: a Telegram link stash + Claude Code skill |
+| 35 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 3 | TypeScript | 2026-10-05 | AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in |
+| 36 | [Jsnnmsc/10000x-engineer](https://github.com/Jsnnmsc/10000x-engineer) | 1 | — | 2026-10-05 | Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an |
+| 37 | [L1nch-lab/german-tax-skills](https://github.com/L1nch-lab/german-tax-skills) | 0 | Python | 2026-10-05 | German tax, payroll and social benefit calculations for AI agents via the rechner-hub.de API |
+| 38 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 59 | Python | 2026-10-05 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 39 | [Violinet-tech/violet-skills](https://github.com/Violinet-tech/violet-skills) | 0 | Python | 2026-10-05 | Agent skills from VIOLINET Tech: ComfyUI fixes, de-Googling apps, looping video, readable UI over artwork, lean repos. |
+| 40 | [suboss87/FDEOps](https://github.com/suboss87/FDEOps) | 950 | JavaScript | 2026-10-05 | Forward deployed engineering skills for AI coding agents. |
+| 41 | [eduair94/cambio-uruguay](https://github.com/eduair94/cambio-uruguay) | 7 | TypeScript | 2026-10-05 | cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k |
+| 42 | [TobiB1505/faber-cut](https://github.com/TobiB1505/faber-cut) | 0 | Python | 2026-10-05 | Claude Code schneidet deine Handy-Clips zu fertigen Reels für Instagram und TikTok. Kostenlos, mit einem Prompt eingeric |
+| 43 | [tonydzi/whatsapp-mcp-kit](https://github.com/tonydzi/whatsapp-mcp-kit) | 11 | Python | 2026-10-05 | Link WhatsApp to Claude (or any MCP client) in ~20 minutes: a live self-refreshing QR page that makes pairing actually w |
+| 44 | [tonydzi/voice2brain](https://github.com/tonydzi/voice2brain) | 1 | Python | 2026-10-05 | Voice -> text -> your personal knowledge base. A primitive, not a platform: 4 small Python scripts turn voice notes into |
+| 45 | [tonydzi/verified-ops-starter](https://github.com/tonydzi/verified-ops-starter) | 1 | Python | 2026-10-05 | Your scheduled job says exit 0 — prove it did the work. Three stdlib-only checks: output freshness, silent no-op detecti |
+| 46 | [tonydzi/verdict-contract](https://github.com/tonydzi/verdict-contract) | 3 | Python | 2026-10-05 | Your LLM reviewer said APPROVE. Did it? A structured verdict contract: prompt rule + parser + exit-code gate in one stdl |
+| 47 | [tonydzi/verbatim-citation-gate](https://github.com/tonydzi/verbatim-citation-gate) | 4 | Python | 2026-10-05 | Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framewo |
+| 48 | [tonydzi/telegram-mcp-kit](https://github.com/tonydzi/telegram-mcp-kit) | 5 | PowerShell | 2026-10-05 | Connect Claude (or any MCP client) to your own Telegram in ~15 minutes: setup prompt for Claude Code/Codex, production p |
+| 49 | [tonydzi/sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory) | 8 | Python | 2026-10-05 | Graph RAG on SQLite for AI agents: vector retrieval + hand-curated wikilink graph + cross-encoder rerank, with a zero-to |
+| 50 | [tonydzi/secondop-panel](https://github.com/tonydzi/secondop-panel) | 0 | Python | 2026-10-05 | Nobody reviews themselves - and one reviewer model is one blind spot. Fan every change out to several model FAMILIES at  |
 <!-- TRACKER_TABLE_END -->
 
 ---
