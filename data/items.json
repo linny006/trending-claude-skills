@@ -1,5 +1,104 @@
 [
   {
+    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbacks, threat models, decks, SQL reviews, DP",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-10-05T19:00:02Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cur",
+    "id": "michael-denyer/pstack-claude",
+    "language": "JavaScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 1388,
+    "updated_at": "2026-10-05T18:59:07Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
+    "id": "ashfulcra/fulcra-tools",
+    "language": "Python",
+    "name": "ashfulcra/fulcra-tools",
+    "stars": 10,
+    "updated_at": "2026-10-05T18:56:48Z",
+    "url": "https://github.com/ashfulcra/fulcra-tools"
+  },
+  {
+    "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
+    "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "language": "HTML",
+    "name": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
+    "stars": 53,
+    "updated_at": "2026-10-05T18:54:51Z",
+    "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
+  },
+  {
+    "description": "[Archived] Persistent memory system for Claude Code via Markdown. Concepts moved into dedicated plugins.",
+    "id": "b33eep/claude-code-setup",
+    "language": "Shell",
+    "name": "b33eep/claude-code-setup",
+    "stars": 57,
+    "updated_at": "2026-10-05T18:54:41Z",
+    "url": "https://github.com/b33eep/claude-code-setup"
+  },
+  {
+    "description": "Relex plugin for Claude",
+    "id": "relexlegal/relex-claude",
+    "language": "Python",
+    "name": "relexlegal/relex-claude",
+    "stars": 0,
+    "updated_at": "2026-10-05T18:52:39Z",
+    "url": "https://github.com/relexlegal/relex-claude"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 11,
+    "updated_at": "2026-10-05T18:51:33Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
+    "id": "FynePool/fanta-carbonara",
+    "language": "Python",
+    "name": "FynePool/fanta-carbonara",
+    "stars": 0,
+    "updated_at": "2026-10-05T18:51:04Z",
+    "url": "https://github.com/FynePool/fanta-carbonara"
+  },
+  {
+    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
+    "id": "andresanemic/lore-plugin",
+    "language": "JavaScript",
+    "name": "andresanemic/lore-plugin",
+    "stars": 7,
+    "updated_at": "2026-10-05T18:49:22Z",
+    "url": "https://github.com/andresanemic/lore-plugin"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-05T18:45:30Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 59,
+    "updated_at": "2026-10-05T18:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
     "id": "jabrena/plinth",
     "language": "Java",
@@ -27,15 +126,6 @@
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
-    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
-    "id": "ashfulcra/fulcra-tools",
-    "language": "Python",
-    "name": "ashfulcra/fulcra-tools",
-    "stars": 10,
-    "updated_at": "2026-10-05T18:44:08Z",
-    "url": "https://github.com/ashfulcra/fulcra-tools"
-  },
-  {
     "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
     "id": "Sylad/claude-code-codex",
     "language": "HTML",
@@ -45,21 +135,12 @@
     "url": "https://github.com/Sylad/claude-code-codex"
   },
   {
-    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 7,
-    "updated_at": "2026-10-05T18:41:31Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-05T18:41:00Z",
+    "updated_at": "2026-10-05T18:49:20Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/thevseprod/humanizer-ru"
   },
   {
-    "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cur",
-    "id": "michael-denyer/pstack-claude",
-    "language": "JavaScript",
-    "name": "michael-denyer/pstack-claude",
-    "stars": 1385,
-    "updated_at": "2026-10-05T18:37:39Z",
-    "url": "https://github.com/michael-denyer/pstack-claude"
-  },
-  {
     "description": "Scaffolding skill + always-on conventions (CLAUDE.md/AGENTS.md) for Quarkus + LangChain4j agentic AI apps: AI services, ",
     "id": "eldermoraes/quarkus-agentic-scaffolding",
     "language": "Python",
@@ -117,15 +189,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 11,
-    "updated_at": "2026-10-05T18:34:50Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
     "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
     "id": "howard-lynn-ye/fin-skills",
     "language": "Python",
@@ -142,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-05T18:31:03Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 59,
-    "updated_at": "2026-10-05T18:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor",
@@ -184,7 +238,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 96531,
+    "stars": 96535,
     "updated_at": "2026-10-05T18:25:25Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T18:21:39Z",
     "url": "https://github.com/dhand-personal/deal-postmortem"
-  },
-  {
-    "description": "Data pipeline and decision support for a Serie A fantasy football league: player data, projected lineups, match stats, a",
-    "id": "FynePool/fanta-carbonara",
-    "language": "Python",
-    "name": "FynePool/fanta-carbonara",
-    "stars": 0,
-    "updated_at": "2026-10-05T18:19:56Z",
-    "url": "https://github.com/FynePool/fanta-carbonara"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -338,7 +383,7 @@
     "language": "TypeScript",
     "name": "sriinnu/tokmeter",
     "stars": 1,
-    "updated_at": "2026-10-05T18:03:08Z",
+    "updated_at": "2026-10-05T18:57:59Z",
     "url": "https://github.com/sriinnu/tokmeter"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-05T17:56:21Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-10-05T17:55:29Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "Claude Code plugin where six AI roles (Believer, Skeptic, Investor, Judge, Reporter, Strategist) stress-test a business ",
-    "id": "fizzexual/worth-idea",
-    "language": "\u2014",
-    "name": "fizzexual/worth-idea",
-    "stars": 0,
-    "updated_at": "2026-10-05T17:54:47Z",
-    "url": "https://github.com/fizzexual/worth-idea"
-  },
-  {
-    "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
-    "id": "nullphase-net/enfurbish",
-    "language": "TypeScript",
-    "name": "nullphase-net/enfurbish",
-    "stars": 1,
-    "updated_at": "2026-10-05T17:53:41Z",
-    "url": "https://github.com/nullphase-net/enfurbish"
-  },
-  {
-    "description": "OpenLayers AI Agent Skill by MapSnippets. Comprehensive instructions, modular recipes, GeoTIFF, and MapTiler basemaps fo",
-    "id": "mapsnippets/openlayers-skill",
-    "language": "\u2014",
-    "name": "mapsnippets/openlayers-skill",
-    "stars": 1,
-    "updated_at": "2026-10-05T17:52:49Z",
-    "url": "https://github.com/mapsnippets/openlayers-skill"
-  },
-  {
-    "description": "Leaflet AI Agent Skill by MapSnippets. Comprehensive instructions, raster/vector plugins, and MapTiler basemaps for Clau",
-    "id": "mapsnippets/leaflet-skill",
-    "language": "\u2014",
-    "name": "mapsnippets/leaflet-skill",
-    "stars": 1,
-    "updated_at": "2026-10-05T17:52:47Z",
-    "url": "https://github.com/mapsnippets/leaflet-skill"
   }
 ]
