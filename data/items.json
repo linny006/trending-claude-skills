@@ -1,12 +1,129 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-06T10:43:27Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 271,
+    "updated_at": "2026-10-06T10:42:48Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
+    "id": "NYTC69/review-loop",
+    "language": "Python",
+    "name": "NYTC69/review-loop",
+    "stars": 3,
+    "updated_at": "2026-10-06T10:39:58Z",
+    "url": "https://github.com/NYTC69/review-loop"
+  },
+  {
+    "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
+    "id": "open-coder-ai/context-report",
+    "language": "Python",
+    "name": "open-coder-ai/context-report",
+    "stars": 1,
+    "updated_at": "2026-10-06T10:41:20Z",
+    "url": "https://github.com/open-coder-ai/context-report"
+  },
+  {
+    "description": "A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s",
+    "id": "liustack/pptwise",
+    "language": "TypeScript",
+    "name": "liustack/pptwise",
+    "stars": 19,
+    "updated_at": "2026-10-06T10:37:19Z",
+    "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-10-06T10:36:55Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69839,
+    "updated_at": "2026-10-06T10:36:50Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "React File Upload Application with AWS S3 (Next.js, TypeScript, Tailwind CSS, React Query, React Dropzone, File Validati",
+    "id": "thekinv21/ReactDropzoneFileUpload",
+    "language": "TypeScript",
+    "name": "thekinv21/ReactDropzoneFileUpload",
+    "stars": 0,
+    "updated_at": "2026-10-06T10:35:58Z",
+    "url": "https://github.com/thekinv21/ReactDropzoneFileUpload"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-10-06T10:35:50Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
+    "id": "PawanSirsat/Laika",
+    "language": "TypeScript",
+    "name": "PawanSirsat/Laika",
+    "stars": 0,
+    "updated_at": "2026-10-06T10:34:42Z",
+    "url": "https://github.com/PawanSirsat/Laika"
+  },
+  {
+    "description": "Karpathy's understanding ladder as agent skills: auto-pick text, diagram, interactive HTML, or video storyboard for any ",
+    "id": "ChangWenC/understanding-ladder",
+    "language": "\u2014",
+    "name": "ChangWenC/understanding-ladder",
+    "stars": 4,
+    "updated_at": "2026-10-06T10:32:21Z",
+    "url": "https://github.com/ChangWenC/understanding-ladder"
+  },
+  {
+    "description": "Agent skill that checks typography for web, print and PDF, with the rules from the Typography Handbook.",
+    "id": "thomasguillot/typography-skills",
+    "language": "Astro",
+    "name": "thomasguillot/typography-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T10:43:54Z",
+    "url": "https://github.com/thomasguillot/typography-skills"
+  },
+  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 96836,
-    "updated_at": "2026-10-06T10:30:02Z",
+    "stars": 96843,
+    "updated_at": "2026-10-06T10:31:06Z",
     "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 87,
+    "updated_at": "2026-10-06T10:30:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
@@ -36,15 +153,6 @@
     "url": "https://github.com/Ovid/paad"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-06T10:27:39Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "",
     "id": "LevNas/ccmemo",
     "language": "Python",
@@ -72,15 +180,6 @@
     "url": "https://github.com/mutlumehmet/claude-plugins"
   },
   {
-    "description": "Small marketplace of Claude Code plugins. Add it once, then install the plugins you want.",
-    "id": "p2p2sp/p2p2.claude",
-    "language": "TypeScript",
-    "name": "p2p2sp/p2p2.claude",
-    "stars": 0,
-    "updated_at": "2026-10-06T10:25:02Z",
-    "url": "https://github.com/p2p2sp/p2p2.claude"
-  },
-  {
     "description": "Schreib deine abschlie\u00dfende Arbeit (ABA/VWA) mit Claude oder ChatGPT \u2013 Schritt f\u00fcr Schritt, belegt und offengelegt. Rege",
     "id": "nikolajhellhoeflinger/aba-setup",
     "language": "Python",
@@ -106,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-06T10:22:50Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 271,
-    "updated_at": "2026-10-06T10:29:54Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
     "description": "Memory consolidation skills for Claude Code \u2014 read-only dream pass, checkbox/validator gate, full-auto mode, snapshot + ",
@@ -148,7 +238,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 1588,
+    "stars": 1591,
     "updated_at": "2026-10-06T10:19:12Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -162,39 +252,12 @@
     "url": "https://github.com/nhattrung0911/mecsu-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69839,
-    "updated_at": "2026-10-06T10:16:15Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "React File Upload Application with AWS S3 (Next.js, TypeScript, Tailwind CSS, React Query, React Dropzone, File Validati",
-    "id": "thekinv21/ReactDropzoneFileUpload",
-    "language": "TypeScript",
-    "name": "thekinv21/ReactDropzoneFileUpload",
-    "stars": 0,
-    "updated_at": "2026-10-06T10:16:12Z",
-    "url": "https://github.com/thekinv21/ReactDropzoneFileUpload"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 87,
-    "updated_at": "2026-10-06T10:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
     "id": "filippolmt/skills",
     "language": "HTML",
     "name": "filippolmt/skills",
     "stars": 1,
-    "updated_at": "2026-10-06T10:14:39Z",
+    "updated_at": "2026-10-06T10:35:19Z",
     "url": "https://github.com/filippolmt/skills"
   },
   {
@@ -243,15 +306,6 @@
     "url": "https://github.com/JMAILLY/claude-migration-skills"
   },
   {
-    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
-    "id": "PawanSirsat/Laika",
-    "language": "TypeScript",
-    "name": "PawanSirsat/Laika",
-    "stars": 0,
-    "updated_at": "2026-10-06T10:04:57Z",
-    "url": "https://github.com/PawanSirsat/Laika"
-  },
-  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -283,7 +337,7 @@
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 1505,
+    "stars": 1506,
     "updated_at": "2026-10-06T10:01:58Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
@@ -293,7 +347,7 @@
     "language": "Shell",
     "name": "RemiAsselin42/claude-config",
     "stars": 1,
-    "updated_at": "2026-10-06T10:02:41Z",
+    "updated_at": "2026-10-06T10:39:47Z",
     "url": "https://github.com/RemiAsselin42/claude-config"
   },
   {
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T09:57:06Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
-    "id": "open-coder-ai/context-report",
-    "language": "Python",
-    "name": "open-coder-ai/context-report",
-    "stars": 1,
-    "updated_at": "2026-10-06T09:58:08Z",
-    "url": "https://github.com/open-coder-ai/context-report"
   },
   {
     "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-06T09:35:55Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 12,
-    "updated_at": "2026-10-06T09:34:52Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-10-06T09:30:01Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
-    "id": "jabrena/plinth",
-    "language": "Java",
-    "name": "jabrena/plinth",
-    "stars": 445,
-    "updated_at": "2026-10-06T09:24:54Z",
-    "url": "https://github.com/jabrena/plinth"
-  },
-  {
-    "description": "Free skills from iGamingTextLab editorial ",
-    "id": "igamingtextlab/IGTL-SKILLS",
-    "language": "\u2014",
-    "name": "igamingtextlab/IGTL-SKILLS",
-    "stars": 1,
-    "updated_at": "2026-10-06T09:22:21Z",
-    "url": "https://github.com/igamingtextlab/IGTL-SKILLS"
-  },
-  {
-    "description": "Claude skill: Offline safety scan of skills, plugins and MCP servers before you install them",
-    "id": "keithmackay/scanskillsafety-skill",
-    "language": "JavaScript",
-    "name": "keithmackay/scanskillsafety-skill",
-    "stars": 0,
-    "updated_at": "2026-10-06T09:16:06Z",
-    "url": "https://github.com/keithmackay/scanskillsafety-skill"
   }
 ]
