@@ -1,5 +1,140 @@
 [
   {
+    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
+    "id": "imboard-ai/ai-dossier",
+    "language": "TypeScript",
+    "name": "imboard-ai/ai-dossier",
+    "stars": 9,
+    "updated_at": "2026-10-06T18:28:27Z",
+    "url": "https://github.com/imboard-ai/ai-dossier"
+  },
+  {
+    "description": "\u4ece\u96f6\u521b\u5efa Agent Skill \u5e76\u53d1\u5e03\u5230 GitHub \u516c\u5f00\u53ef\u7528\uff08\u4e2d\u6587\u5168\u94fe\u8def\uff1a\u8bbe\u8ba1\u2192\u51ed\u636e\u2192\u53d1\u5e03\u2192\u9a8c\u8bc1 + \u8e29\u5751\u624b\u518c + \u6821\u9a8c\u811a\u672c\uff09\u2014 install: npx skills add andreamzhang/skill-maker",
+    "id": "andreamzhang/skill-maker",
+    "language": "Python",
+    "name": "andreamzhang/skill-maker",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:26:46Z",
+    "url": "https://github.com/andreamzhang/skill-maker"
+  },
+  {
+    "description": "A Claude Skill that review, rewrite and convert your CV into an ATS-friendly PDF.",
+    "id": "avilashsaha035/ats-cv-optimizer",
+    "language": "\u2014",
+    "name": "avilashsaha035/ats-cv-optimizer",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:26:17Z",
+    "url": "https://github.com/avilashsaha035/ats-cv-optimizer"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 273,
+    "updated_at": "2026-10-06T18:27:49Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69844,
+    "updated_at": "2026-10-06T18:25:30Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/skills",
+    "language": "C++",
+    "name": "TsukiNi22/skills",
+    "stars": 1,
+    "updated_at": "2026-10-06T18:22:10Z",
+    "url": "https://github.com/TsukiNi22/skills"
+  },
+  {
+    "description": "Claude/Codex/Gemini skill: creates/updates a comprehensive README.md for a project, plus optional ancillary files and li",
+    "id": "keithmackay/make-readme",
+    "language": "\u2014",
+    "name": "keithmackay/make-readme",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:19:06Z",
+    "url": "https://github.com/keithmackay/make-readme"
+  },
+  {
+    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
+    "id": "gooseworks-ai/goose-skills",
+    "language": "Python",
+    "name": "gooseworks-ai/goose-skills",
+    "stars": 1234,
+    "updated_at": "2026-10-06T18:18:47Z",
+    "url": "https://github.com/gooseworks-ai/goose-skills"
+  },
+  {
+    "description": "8 agent skills for real Figma files, for Claude Code, Codex, Copilot CLI and Gemini CLI: 90 Plugin API gotchas, checks b",
+    "id": "thiagoxikota/figma-maxxing",
+    "language": "Markdown",
+    "name": "thiagoxikota/figma-maxxing",
+    "stars": 7,
+    "updated_at": "2026-10-06T18:18:08Z",
+    "url": "https://github.com/thiagoxikota/figma-maxxing"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 97032,
+    "updated_at": "2026-10-06T18:18:07Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Claude skills for finding funded PhDs: university scouting, funding shortlists, paper-first supervisor discovery, and pe",
+    "id": "MHamzaShahzad/phd-hunt-skills",
+    "language": "Python",
+    "name": "MHamzaShahzad/phd-hunt-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:17:16Z",
+    "url": "https://github.com/MHamzaShahzad/phd-hunt-skills"
+  },
+  {
+    "description": "Two free Claude Code skills for one-person SaaS: a Monday metrics review (MRR, churn, quick ratio, CAC, runway) and rele",
+    "id": "phosphorus104/founder-ops-skills-lite",
+    "language": "\u2014",
+    "name": "phosphorus104/founder-ops-skills-lite",
+    "stars": 0,
+    "updated_at": "2026-10-06T18:16:59Z",
+    "url": "https://github.com/phosphorus104/founder-ops-skills-lite"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 54,
+    "updated_at": "2026-10-06T18:16:49Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
+    "id": "howard-lynn-ye/fin-skills",
+    "language": "Python",
+    "name": "howard-lynn-ye/fin-skills",
+    "stars": 1,
+    "updated_at": "2026-10-06T18:15:28Z",
+    "url": "https://github.com/howard-lynn-ye/fin-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 107,
+    "updated_at": "2026-10-06T18:15:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Balzac is an AI-powered SEO and GEO content engine, shipped as a CLI, MCP server, and API. The perfect skill for Claude ",
     "id": "hirebalzac/cli",
     "language": "TypeScript",
@@ -22,27 +157,9 @@
     "id": "Illyism/seo-skills",
     "language": "\u2014",
     "name": "Illyism/seo-skills",
-    "stars": 7,
+    "stars": 10,
     "updated_at": "2026-10-06T18:13:06Z",
     "url": "https://github.com/Illyism/seo-skills"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/skills",
-    "language": "C++",
-    "name": "TsukiNi22/skills",
-    "stars": 1,
-    "updated_at": "2026-10-06T18:12:43Z",
-    "url": "https://github.com/TsukiNi22/skills"
-  },
-  {
-    "description": "Claude/Codex/Gemini skill: creates/updates a comprehensive README.md for a project, plus optional ancillary files and li",
-    "id": "keithmackay/make-readme",
-    "language": "\u2014",
-    "name": "keithmackay/make-readme",
-    "stars": 0,
-    "updated_at": "2026-10-06T18:11:08Z",
-    "url": "https://github.com/keithmackay/make-readme"
   },
   {
     "description": "A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s",
@@ -58,7 +175,7 @@
     "id": "dvdsosa/scientific-writing-skills",
     "language": "Python",
     "name": "dvdsosa/scientific-writing-skills",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-10-06T18:10:03Z",
     "url": "https://github.com/dvdsosa/scientific-writing-skills"
   },
@@ -67,7 +184,7 @@
     "id": "Klotzkette/claude-fuer-deutsches-recht",
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1661,
+    "stars": 1662,
     "updated_at": "2026-10-06T18:09:39Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
@@ -79,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T18:08:21Z",
     "url": "https://github.com/Illyism/dev-skills"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 273,
-    "updated_at": "2026-10-06T18:13:36Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
     "description": "Coleoni's skills for Claude Code, Codex and other agents. npx skills add c0le0ni/skills",
@@ -106,15 +214,6 @@
     "stars": 37,
     "updated_at": "2026-10-06T18:07:59Z",
     "url": "https://github.com/tenequm/skills"
-  },
-  {
-    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
-    "id": "gooseworks-ai/goose-skills",
-    "language": "Python",
-    "name": "gooseworks-ai/goose-skills",
-    "stars": 1234,
-    "updated_at": "2026-10-06T18:13:21Z",
-    "url": "https://github.com/gooseworks-ai/goose-skills"
   },
   {
     "description": "The agent skills I use most day to day: one focused playbook each, for Claude Code, Cursor, Copilot, Codex and more.",
@@ -162,15 +261,6 @@
     "url": "https://github.com/isaachang/motion-video-workflow"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 107,
-    "updated_at": "2026-10-06T18:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Your AI agent learns any brand from a website once, yours or a client's, then writes every document in it.",
     "id": "mperlak/letterhead",
     "language": "JavaScript",
@@ -212,7 +302,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-06T18:14:38Z",
+    "updated_at": "2026-10-06T18:26:24Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -261,15 +351,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "8 agent skills for real Figma files, for Claude Code, Codex, Copilot CLI and Gemini CLI: 90 Plugin API gotchas, checks b",
-    "id": "thiagoxikota/figma-maxxing",
-    "language": "Markdown",
-    "name": "thiagoxikota/figma-maxxing",
-    "stars": 7,
-    "updated_at": "2026-10-06T17:46:43Z",
-    "url": "https://github.com/thiagoxikota/figma-maxxing"
-  },
-  {
     "description": "Agent skill for Claude Code, Codex & Cursor: visualise, explore and compare JSON, NDJSON, CSV and TOON data in Slicelyti",
     "id": "duryno/Slicelytics-public",
     "language": "Python",
@@ -277,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T17:45:31Z",
     "url": "https://github.com/duryno/Slicelytics-public"
-  },
-  {
-    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
-    "id": "imboard-ai/ai-dossier",
-    "language": "TypeScript",
-    "name": "imboard-ai/ai-dossier",
-    "stars": 9,
-    "updated_at": "2026-10-06T18:13:08Z",
-    "url": "https://github.com/imboard-ai/ai-dossier"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -347,7 +419,7 @@
     "language": "Python",
     "name": "MauricioQuezadaHaintech/karvey",
     "stars": 0,
-    "updated_at": "2026-10-06T18:07:36Z",
+    "updated_at": "2026-10-06T18:18:19Z",
     "url": "https://github.com/MauricioQuezadaHaintech/karvey"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-06T17:34:42Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 7,
-    "updated_at": "2026-10-06T18:12:27Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 97024,
-    "updated_at": "2026-10-06T17:32:38Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "A Claude Skill that runs your idea past seven philosophers' ways of reasoning, Socrates to Hegel, one at a time, and sho",
-    "id": "davehallmon/reasoning-lens",
-    "language": "Python",
-    "name": "davehallmon/reasoning-lens",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:32:32Z",
-    "url": "https://github.com/davehallmon/reasoning-lens"
-  },
-  {
-    "description": "",
-    "id": "christiangalsterer/documentation-plugin",
-    "language": "\u2014",
-    "name": "christiangalsterer/documentation-plugin",
-    "stars": 1,
-    "updated_at": "2026-10-06T17:32:25Z",
-    "url": "https://github.com/christiangalsterer/documentation-plugin"
-  },
-  {
-    "description": "Open-source brand skills that turn an idea into a real brand \u2014 name, identity, voice & brand book \u2014 without leaving your",
-    "id": "cofoundy/brand-skills",
-    "language": "TypeScript",
-    "name": "cofoundy/brand-skills",
-    "stars": 42,
-    "updated_at": "2026-10-06T17:31:46Z",
-    "url": "https://github.com/cofoundy/brand-skills"
-  },
-  {
-    "description": "A Claude Skill that tells you what to do first about a problem: five solutions from five lens families plus an Occam's R",
-    "id": "davehallmon/problem-lens",
-    "language": "Python",
-    "name": "davehallmon/problem-lens",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:30:09Z",
-    "url": "https://github.com/davehallmon/problem-lens"
-  },
-  {
-    "description": "An agent skill for hand-painted animated shorts and music videos in code: watercolor, ink, crayon. \u8ba9 AI agent \u7528\u4ee3\u7801\u753b\u624b\u7ed8\u52a8\u753b\u77ed\u7247",
-    "id": "nzl153/paint-video-skill",
-    "language": "JavaScript",
-    "name": "nzl153/paint-video-skill",
-    "stars": 2,
-    "updated_at": "2026-10-06T17:28:10Z",
-    "url": "https://github.com/nzl153/paint-video-skill"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-10-06T17:25:38Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
   }
 ]
