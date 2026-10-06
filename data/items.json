@@ -1,11 +1,119 @@
 [
   {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 14,
+    "updated_at": "2026-10-06T21:14:48Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Curated collection of my most-used AI agent skills with interactive setup.sh / curl install.sh installers",
+    "id": "AndyTechnologies/my-own-skills",
+    "language": "Shell",
+    "name": "AndyTechnologies/my-own-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:11:25Z",
+    "url": "https://github.com/AndyTechnologies/my-own-skills"
+  },
+  {
+    "description": "Get Cowork task updates and answer its questions from your phone or Mac. Pushary OAuth connector and skill for Claude Co",
+    "id": "Pushary/cowork-plugin",
+    "language": "\u2014",
+    "name": "Pushary/cowork-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:11:10Z",
+    "url": "https://github.com/Pushary/cowork-plugin"
+  },
+  {
+    "description": "Push notifications + human-in-the-loop for AI agents. Approve from your lock screen. Claude Code, Claude Cowork, Codex, ",
+    "id": "Pushary/pushary-skill",
+    "language": "\u2014",
+    "name": "Pushary/pushary-skill",
+    "stars": 1,
+    "updated_at": "2026-10-06T21:11:05Z",
+    "url": "https://github.com/Pushary/pushary-skill"
+  },
+  {
+    "description": "pstack for Claude Code: poteto's rigorous engineering skills (poteto-mode, how/why, architect, verification), ported fro",
+    "id": "PickleBoxer/pstack",
+    "language": "TypeScript",
+    "name": "PickleBoxer/pstack",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:09:20Z",
+    "url": "https://github.com/PickleBoxer/pstack"
+  },
+  {
+    "description": "Agent skill to read, search, diff, measure, edit and plot CAD drawings (DWG/DXF) with ezdxf and your own AutoCAD. Cross-",
+    "id": "numikel/cad-drawings",
+    "language": "Python",
+    "name": "numikel/cad-drawings",
+    "stars": 0,
+    "updated_at": "2026-10-06T21:14:00Z",
+    "url": "https://github.com/numikel/cad-drawings"
+  },
+  {
+    "description": "Find software internships and new-grad jobs, fill the application forms, check every answer on the page, and send the on",
+    "id": "qbeka/jev-job-search",
+    "language": "TypeScript",
+    "name": "qbeka/jev-job-search",
+    "stars": 5,
+    "updated_at": "2026-10-06T21:06:24Z",
+    "url": "https://github.com/qbeka/jev-job-search"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 273,
+    "updated_at": "2026-10-06T21:06:24Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "agentx is the inventory manager for your agents. View, manage, and sync skills, MCPs and plugins across machines. Availa",
+    "id": "grundmanise/agentx",
+    "language": "Go",
+    "name": "grundmanise/agentx",
+    "stars": 1,
+    "updated_at": "2026-10-06T21:06:06Z",
+    "url": "https://github.com/grundmanise/agentx"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 32,
+    "updated_at": "2026-10-06T21:04:50Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-06T21:01:40Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Stop copying and pasting between AI chats: Claude (or any LLM) relays messages for your other chats as Markdown files.",
+    "id": "fightingforsidewalk/vault-relay",
+    "language": "Python",
+    "name": "fightingforsidewalk/vault-relay",
+    "stars": 1,
+    "updated_at": "2026-10-06T21:00:28Z",
+    "url": "https://github.com/fightingforsidewalk/vault-relay"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
-    "stars": 112,
-    "updated_at": "2026-10-06T20:59:27Z",
+    "stars": 113,
+    "updated_at": "2026-10-06T21:00:13Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -16,33 +124,6 @@
     "stars": 529,
     "updated_at": "2026-10-06T20:59:22Z",
     "url": "https://github.com/posit-dev/skills"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 32,
-    "updated_at": "2026-10-06T20:59:35Z",
-    "url": "https://github.com/travsteward/openwriter"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 14,
-    "updated_at": "2026-10-06T20:56:05Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 273,
-    "updated_at": "2026-10-06T20:57:25Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
     "description": "Security Skill ( Claude , Codex , Gemini )",
@@ -108,15 +189,6 @@
     "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
   },
   {
-    "description": "Stop copying and pasting between AI chats: Claude (or any LLM) relays messages for your other chats as Markdown files.",
-    "id": "fightingforsidewalk/vault-relay",
-    "language": "Python",
-    "name": "fightingforsidewalk/vault-relay",
-    "stars": 1,
-    "updated_at": "2026-10-06T20:50:16Z",
-    "url": "https://github.com/fightingforsidewalk/vault-relay"
-  },
-  {
     "description": "Claude Code plugin: bilingual README (EN + PT-BR) from the code, real screenshots, and a LinkedIn post draft",
     "id": "giovaniocan/post-your-project",
     "language": "JavaScript",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69844,
-    "updated_at": "2026-10-06T20:43:25Z",
+    "updated_at": "2026-10-06T21:06:52Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -187,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T20:40:12Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "pstack for Claude Code: poteto's rigorous engineering skills (poteto-mode, how/why, architect, verification), ported fro",
-    "id": "PickleBoxer/pstack",
-    "language": "TypeScript",
-    "name": "PickleBoxer/pstack",
-    "stars": 0,
-    "updated_at": "2026-10-06T20:39:52Z",
-    "url": "https://github.com/PickleBoxer/pstack"
   },
   {
     "description": "OSADO educated clankers",
@@ -279,21 +342,12 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-10-06T20:53:34Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
     "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
     "id": "howard-lynn-ye/fin-skills",
     "language": "Python",
     "name": "howard-lynn-ye/fin-skills",
     "stars": 1,
-    "updated_at": "2026-10-06T20:29:11Z",
+    "updated_at": "2026-10-06T21:10:29Z",
     "url": "https://github.com/howard-lynn-ye/fin-skills"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T20:10:15Z",
     "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Six Claude Code skills that work in any project: rule sets that load only when called, a dev round, codex sessions, roas",
-    "id": "sijav/Sijav-Skills",
-    "language": "Python",
-    "name": "sijav/Sijav-Skills",
-    "stars": 1,
-    "updated_at": "2026-10-06T20:09:13Z",
-    "url": "https://github.com/sijav/Sijav-Skills"
-  },
-  {
-    "description": "A collection of mainly my own productivity plugins for Claude Code.",
-    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "language": "Shell",
-    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
-    "stars": 12,
-    "updated_at": "2026-10-06T20:07:47Z",
-    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-10-06T20:04:35Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-10-06T20:04:03Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-10-06T20:03:25Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-10-06T20:01:53Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   }
 ]
