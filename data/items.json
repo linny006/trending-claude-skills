@@ -1,5 +1,167 @@
 [
   {
+    "description": "Auto dlmm Meteora bot system",
+    "id": "romankurnovskii/etemaro",
+    "language": "TypeScript",
+    "name": "romankurnovskii/etemaro",
+    "stars": 50,
+    "updated_at": "2026-10-06T14:29:45Z",
+    "url": "https://github.com/romankurnovskii/etemaro"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-06T14:28:07Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Claude Code plugin: grades every plan Claude writes against 14 Hemingway rules and rewrites docs to an A.",
+    "id": "gagoar/iceberg",
+    "language": "\u2014",
+    "name": "gagoar/iceberg",
+    "stars": 8,
+    "updated_at": "2026-10-06T14:27:47Z",
+    "url": "https://github.com/gagoar/iceberg"
+  },
+  {
+    "description": "MARYLAND SBDC CONSULTANT TOOLKIT",
+    "id": "bwfnx/sbdc-toolkit",
+    "language": "Python",
+    "name": "bwfnx/sbdc-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-06T14:27:02Z",
+    "url": "https://github.com/bwfnx/sbdc-toolkit"
+  },
+  {
+    "description": "Plan social media campaigns, review posts, schedule approved publishing and read saved Insights through the Influence MC",
+    "id": "influence-so/influence-mcp",
+    "language": "\u2014",
+    "name": "influence-so/influence-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:26:44Z",
+    "url": "https://github.com/influence-so/influence-mcp"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:26:34Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandb",
+    "id": "UiPath/coder_eval",
+    "language": "Python",
+    "name": "UiPath/coder_eval",
+    "stars": 148,
+    "updated_at": "2026-10-06T14:27:09Z",
+    "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Canonical Agent Skill for auditing and safely reorganizing shared project folders used by multiple AI agents.",
+    "id": "JesseRaber/multi-agent-folder-cleanup",
+    "language": "Python",
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "stars": 1,
+    "updated_at": "2026-10-06T14:24:14Z",
+    "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30880,
+    "updated_at": "2026-10-06T14:23:22Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
+    "id": "yacb2/aidex",
+    "language": "Shell",
+    "name": "yacb2/aidex",
+    "stars": 2,
+    "updated_at": "2026-10-06T14:22:32Z",
+    "url": "https://github.com/yacb2/aidex"
+  },
+  {
+    "description": "Skills para agentes de IA, em portugu\u00eas. Primeira: video-explicativo (v\u00eddeo narrado sobre qualquer assunto, com ElevenLa",
+    "id": "alextnetto/skills",
+    "language": "JavaScript",
+    "name": "alextnetto/skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:21:57Z",
+    "url": "https://github.com/alextnetto/skills"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 273,
+    "updated_at": "2026-10-06T14:26:21Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Agents, skills, and starter kits for Microsoft Discovery \u2014 the AI for Science platform.",
+    "id": "timothymeyers/discovery-tools",
+    "language": "Python",
+    "name": "timothymeyers/discovery-tools",
+    "stars": 1,
+    "updated_at": "2026-10-06T14:21:00Z",
+    "url": "https://github.com/timothymeyers/discovery-tools"
+  },
+  {
+    "description": "Skills for Claude Code that carry a house style for Java projects",
+    "id": "dmitriy-iliyov/java-agent-skills",
+    "language": "\u2014",
+    "name": "dmitriy-iliyov/java-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:20:28Z",
+    "url": "https://github.com/dmitriy-iliyov/java-agent-skills"
+  },
+  {
+    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
+    "id": "aisenseapi/aisense-free-public-rest-apis",
+    "language": "HTML",
+    "name": "aisenseapi/aisense-free-public-rest-apis",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:20:45Z",
+    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
+  },
+  {
+    "description": "Free Claude Code motion skills (motion-review, motion-craft-lite) + awesome-claude-motion list",
+    "id": "Parrass/mograf-public",
+    "language": "\u2014",
+    "name": "Parrass/mograf-public",
+    "stars": 0,
+    "updated_at": "2026-10-06T14:19:57Z",
+    "url": "https://github.com/Parrass/mograf-public"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 64,
+    "updated_at": "2026-10-06T14:17:54Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 101,
+    "updated_at": "2026-10-06T14:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "MCP server that lets Claude explain ML model predictions with SHAP: feature importance, per-prediction explanations, wha",
     "id": "gamzeakkurt/model-explainability-mcp",
     "language": "Python",
@@ -14,7 +176,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69848,
-    "updated_at": "2026-10-06T14:14:04Z",
+    "updated_at": "2026-10-06T14:28:59Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -22,7 +184,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 1657,
+    "stars": 1666,
     "updated_at": "2026-10-06T14:12:49Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -43,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T14:11:49Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Skills para agentes de IA, em portugu\u00eas. Primeira: video-explicativo (v\u00eddeo narrado sobre qualquer assunto, com ElevenLa",
-    "id": "alextnetto/skills",
-    "language": "\u2014",
-    "name": "alextnetto/skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T14:11:08Z",
-    "url": "https://github.com/alextnetto/skills"
   },
   {
     "description": "Dazzler: frontend design skill for AI with expressive typography, vibrant color theory, and purposeful interfaces.",
@@ -99,15 +252,6 @@
     "url": "https://github.com/ericluo04/claude-academic-workflow"
   },
   {
-    "description": "Auto dlmm Meteora bot system",
-    "id": "romankurnovskii/etemaro",
-    "language": "TypeScript",
-    "name": "romankurnovskii/etemaro",
-    "stars": 50,
-    "updated_at": "2026-10-06T14:07:34Z",
-    "url": "https://github.com/romankurnovskii/etemaro"
-  },
-  {
     "description": "\u70ed\u95e8Skills\u4e2d\u6587cn\u5b66\u4e60\u7248+\u6559\u7a0b\uff0c\u63d0\u4f9b7000+Skills\uff0c\u96c6\u6210claude skills (11w+Star) | awesome-openclaw-skills (4w+Star) | ui-ux-pro-max-skill (4",
     "id": "lingxling/awesome-skills-cn",
     "language": "Python",
@@ -117,21 +261,12 @@
     "url": "https://github.com/lingxling/awesome-skills-cn"
   },
   {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-10-06T14:06:36Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
     "description": "A curated skill collection for AI agents, including first-party skills and vendored framework/CMS best practices for use",
     "id": "display-design-studio/skills",
     "language": "JavaScript",
     "name": "display-design-studio/skills",
     "stars": 2,
-    "updated_at": "2026-10-06T14:05:51Z",
+    "updated_at": "2026-10-06T14:26:15Z",
     "url": "https://github.com/display-design-studio/skills"
   },
   {
@@ -162,39 +297,12 @@
     "url": "https://github.com/open-coder-ai/context-report"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-06T14:13:01Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 99,
-    "updated_at": "2026-10-06T14:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30881,
-    "updated_at": "2026-10-06T13:58:44Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
     "description": "A programmable typesetter for the web",
     "id": "drnachio/postext",
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 7,
-    "updated_at": "2026-10-06T14:12:25Z",
+    "updated_at": "2026-10-06T14:25:51Z",
     "url": "https://github.com/drnachio/postext"
   },
   {
@@ -259,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T13:51:23Z",
     "url": "https://github.com/kkfir13/valuedge-stock-research-skill"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 64,
-    "updated_at": "2026-10-06T13:51:14Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
     "description": "A free second brain for work: an Agent Skill that preps your meetings, keeps your follow-ups, and connects your work too",
@@ -349,104 +448,5 @@
     "stars": 231,
     "updated_at": "2026-10-06T13:39:02Z",
     "url": "https://github.com/Avijit07x/claude-db"
-  },
-  {
-    "description": "The marketplace for reusable AI agent skills, tools, and developer workflows.",
-    "id": "SkillGild/skillgild",
-    "language": "Go",
-    "name": "SkillGild/skillgild",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:37:35Z",
-    "url": "https://github.com/SkillGild/skillgild"
-  },
-  {
-    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
-    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "language": "Python",
-    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "stars": 16,
-    "updated_at": "2026-10-06T14:07:26Z",
-    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
-  },
-  {
-    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
-    "id": "Fiskopoi/outline-driven-toolkit",
-    "language": "HTML",
-    "name": "Fiskopoi/outline-driven-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-06T13:37:06Z",
-    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
-    "id": "inbrace-tech/claude-skills",
-    "language": "TypeScript",
-    "name": "inbrace-tech/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-06T13:34:35Z",
-    "url": "https://github.com/inbrace-tech/claude-skills"
-  },
-  {
-    "description": "Awesome Claude Code And Agent Tools",
-    "id": "cooler333/awesome-claude-code",
-    "language": "Python",
-    "name": "cooler333/awesome-claude-code",
-    "stars": 14,
-    "updated_at": "2026-10-06T13:31:09Z",
-    "url": "https://github.com/cooler333/awesome-claude-code"
-  },
-  {
-    "description": "Sniff your Markdown drafts against house rules with local regex checks and optional AI judgment calls.",
-    "id": "Spirounkempt95/snifftest",
-    "language": "TypeScript",
-    "name": "Spirounkempt95/snifftest",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:27:21Z",
-    "url": "https://github.com/Spirounkempt95/snifftest"
-  },
-  {
-    "description": "SKILL.md for refreshing your current status over Email / Calendar and other services using MCP ",
-    "id": "tomtom87/latest",
-    "language": "Python",
-    "name": "tomtom87/latest",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:27:19Z",
-    "url": "https://github.com/tomtom87/latest"
-  },
-  {
-    "description": "A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techni",
-    "id": "atmirrr/persian-motion-director",
-    "language": "JavaScript",
-    "name": "atmirrr/persian-motion-director",
-    "stars": 1,
-    "updated_at": "2026-10-06T13:27:09Z",
-    "url": "https://github.com/atmirrr/persian-motion-director"
-  },
-  {
-    "description": "Optimizes the description frontmatter of a Claude Code / Agent Skill - the text that decides whether Claude invokes the ",
-    "id": "netopsengineer/agent-skill-description-optimizer",
-    "language": "Python",
-    "name": "netopsengineer/agent-skill-description-optimizer",
-    "stars": 2,
-    "updated_at": "2026-10-06T13:26:51Z",
-    "url": "https://github.com/netopsengineer/agent-skill-description-optimizer"
-  },
-  {
-    "description": "Build kinetic-typography and logo promos as code with Remotion, shipping MP4s in 9:16 and 16:9 from one React codebase.",
-    "id": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "language": "TypeScript",
-    "name": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:26:30Z",
-    "url": "https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics"
-  },
-  {
-    "description": "Track developer roadmaps offline with progress tracking, spaced repetition, and career analytics\u2014no account or internet ",
-    "id": "Itzzni9454/skill-trail",
-    "language": "TypeScript",
-    "name": "Itzzni9454/skill-trail",
-    "stars": 0,
-    "updated_at": "2026-10-06T13:26:20Z",
-    "url": "https://github.com/Itzzni9454/skill-trail"
   }
 ]
