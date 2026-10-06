@@ -1,12 +1,39 @@
 [
   {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 63,
-    "updated_at": "2026-10-06T04:44:29Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
+    "description": "Claude skill: a sourced voter guide that scores your ballot against your own values, using records and funders, not camp",
+    "id": "tperkowitz-tech/ballot-guide",
+    "language": "HTML",
+    "name": "tperkowitz-tech/ballot-guide",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:59:00Z",
+    "url": "https://github.com/tperkowitz-tech/ballot-guide"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-10-06T04:57:36Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Claude Code skills: a master Remotion video skill with ten specialists broken out of it, production deploys on GitHub Ac",
+    "id": "tomerhayundev/skills",
+    "language": "JavaScript",
+    "name": "tomerhayundev/skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:55:55Z",
+    "url": "https://github.com/tomerhayundev/skills"
+  },
+  {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:55:41Z",
+    "url": "https://github.com/MrBinnacle/skills"
   },
   {
     "description": "Sprint planning for building software with AI agents: hex-ID sprints that never move, one file per sprint, legs sized to",
@@ -14,8 +41,98 @@
     "language": "Python",
     "name": "sooperD00/sprinter-kit",
     "stars": 0,
-    "updated_at": "2026-10-06T04:44:25Z",
+    "updated_at": "2026-10-06T04:54:59Z",
     "url": "https://github.com/sooperD00/sprinter-kit"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 96707,
+    "updated_at": "2026-10-06T04:57:56Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows",
+    "id": "michael-denyer/pstack-claude",
+    "language": "JavaScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 1465,
+    "updated_at": "2026-10-06T05:00:00Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "Canonical Agent Skill for auditing and safely reorganizing shared project folders used by multiple AI agents.",
+    "id": "JesseRaber/multi-agent-folder-cleanup",
+    "language": "Python",
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "stars": 1,
+    "updated_at": "2026-10-06T04:51:42Z",
+    "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
+  },
+  {
+    "description": "A\u80a1/\u6e2f\u80a1/\u7f8e\u80a1 \u5361\u8116\u5b50\u9009\u80a1 Skill\uff0c\u57fa\u4e8e Serenity \u4f9b\u5e94\u94fe\u74f6\u9888\u7406\u8bba | Claude Code / Codex \u901a\u7528\u667a\u80fd\u4f53\u53ef\u7528\uff0c\u96f6\u4f9d\u8d56",
+    "id": "fadewalk/serenity-stock-choke",
+    "language": "Python",
+    "name": "fadewalk/serenity-stock-choke",
+    "stars": 487,
+    "updated_at": "2026-10-06T04:51:49Z",
+    "url": "https://github.com/fadewalk/serenity-stock-choke"
+  },
+  {
+    "description": "Agent skill for deploying and operating web apps on Keelson (keelson.run) with the Keelson CLI.",
+    "id": "keelsonhq/skills",
+    "language": "\u2014",
+    "name": "keelsonhq/skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:50:10Z",
+    "url": "https://github.com/keelsonhq/skills"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2720,
+    "updated_at": "2026-10-06T04:48:35Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "A Claude Skill that tells you what to do first about a problem: five solutions from five lens families plus an Occam's R",
+    "id": "davehallmon/problem-lens",
+    "language": "Python",
+    "name": "davehallmon/problem-lens",
+    "stars": 0,
+    "updated_at": "2026-10-06T04:46:57Z",
+    "url": "https://github.com/davehallmon/problem-lens"
+  },
+  {
+    "description": "The 4R audit for ICM folder systems: Read, Run, Reality, Report. A Claude Code skill that proves your AI workspace works",
+    "id": "oathdriven/rymac-4r-icm-audit",
+    "language": "Shell",
+    "name": "oathdriven/rymac-4r-icm-audit",
+    "stars": 13,
+    "updated_at": "2026-10-06T04:45:59Z",
+    "url": "https://github.com/oathdriven/rymac-4r-icm-audit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 73,
+    "updated_at": "2026-10-06T04:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 63,
+    "updated_at": "2026-10-06T04:44:29Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
     "description": "Scaffolding skill + always-on conventions (CLAUDE.md/AGENTS.md) for Quarkus + LangChain4j agentic AI apps: AI services, ",
@@ -27,40 +144,13 @@
     "url": "https://github.com/eldermoraes/quarkus-agentic-scaffolding"
   },
   {
-    "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows",
-    "id": "michael-denyer/pstack-claude",
-    "language": "JavaScript",
-    "name": "michael-denyer/pstack-claude",
-    "stars": 1462,
-    "updated_at": "2026-10-06T04:44:55Z",
-    "url": "https://github.com/michael-denyer/pstack-claude"
-  },
-  {
-    "description": "A Claude Skill that tells you what to do first about a problem: five solutions from five lens families plus an Occam's R",
-    "id": "davehallmon/problem-lens",
-    "language": "Python",
-    "name": "davehallmon/problem-lens",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:43:55Z",
-    "url": "https://github.com/davehallmon/problem-lens"
-  },
-  {
-    "description": "Claude skill: a sourced voter guide that scores your ballot against your own values, using records and funders, not camp",
-    "id": "tperkowitz-tech/ballot-guide",
-    "language": "HTML",
-    "name": "tperkowitz-tech/ballot-guide",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:42:04Z",
-    "url": "https://github.com/tperkowitz-tech/ballot-guide"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 96701,
-    "updated_at": "2026-10-06T04:37:32Z",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69836,
+    "updated_at": "2026-10-06T04:58:55Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
@@ -113,17 +203,8 @@
     "language": "Python",
     "name": "gooseworks-ai/goose-skills",
     "stars": 1232,
-    "updated_at": "2026-10-06T04:32:00Z",
+    "updated_at": "2026-10-06T04:51:37Z",
     "url": "https://github.com/gooseworks-ai/goose-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 73,
-    "updated_at": "2026-10-06T04:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Work-process skills for Claude Code and Codex CLI. Each skill states one promise and ships the checks that would catch i",
@@ -167,7 +248,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-06T04:44:35Z",
+    "updated_at": "2026-10-06T04:59:20Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -178,24 +259,6 @@
     "stars": 6207,
     "updated_at": "2026-10-06T04:23:22Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69835,
-    "updated_at": "2026-10-06T04:42:18Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-10-06T04:18:22Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
     "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
@@ -214,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-10-06T04:14:31Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "A\u80a1/\u6e2f\u80a1/\u7f8e\u80a1 \u5361\u8116\u5b50\u9009\u80a1 Skill\uff0c\u57fa\u4e8e Serenity \u4f9b\u5e94\u94fe\u74f6\u9888\u7406\u8bba | Claude Code / Codex \u901a\u7528\u667a\u80fd\u4f53\u53ef\u7528\uff0c\u96f6\u4f9d\u8d56",
-    "id": "fadewalk/serenity-stock-choke",
-    "language": "Python",
-    "name": "fadewalk/serenity-stock-choke",
-    "stars": 487,
-    "updated_at": "2026-10-06T04:12:03Z",
-    "url": "https://github.com/fadewalk/serenity-stock-choke"
   },
   {
     "description": "The issue-pipeline workflow system as a Claude Code plugin: GitHub Issues as the work-item SSOT, labels as the pipeline,",
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "slopstopper/plumb-line",
     "stars": 4,
-    "updated_at": "2026-10-06T04:14:41Z",
+    "updated_at": "2026-10-06T04:56:46Z",
     "url": "https://github.com/slopstopper/plumb-line"
   },
   {
@@ -320,7 +374,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 24,
-    "updated_at": "2026-10-06T04:31:34Z",
+    "updated_at": "2026-10-06T04:56:00Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/ledq/resumery"
   },
   {
-    "description": "Claude Skills",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T04:25:53Z",
-    "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
     "description": "Claude skill that audits what an AI system actually implements, not what its policy says: nine governance controls score",
     "id": "aigovernancelabs/ai-governance-control-audit",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T03:26:45Z",
     "url": "https://github.com/alexyc9381/mentor-skill"
-  },
-  {
-    "description": "Agent-ergonomic AXI wrapper for the HEY CLI",
-    "id": "TangentialSolutions/hey-axi",
-    "language": "JavaScript",
-    "name": "TangentialSolutions/hey-axi",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:26:41Z",
-    "url": "https://github.com/TangentialSolutions/hey-axi"
-  },
-  {
-    "description": "An Agent Skill that turns complex topics and AI outputs into clear explanations, diagrams, interactive single-file HTML,",
-    "id": "Jermen592/understanding-studio",
-    "language": "HTML",
-    "name": "Jermen592/understanding-studio",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:26:10Z",
-    "url": "https://github.com/Jermen592/understanding-studio"
-  },
-  {
-    "description": "Audit, plan, and adapt SwiftUI and UIKit apps for iPhone Duo, foldables, hinges, and multi-display layouts.",
-    "id": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
-    "language": "Python",
-    "name": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:24:45Z",
-    "url": "https://github.com/Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill"
-  },
-  {
-    "description": "Help your next AI chat pick up where this one left off with a portable skill that writes clear session handoff notes.",
-    "id": "draysen-yau/session-handoff",
-    "language": "JavaScript",
-    "name": "draysen-yau/session-handoff",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:24:28Z",
-    "url": "https://github.com/draysen-yau/session-handoff"
-  },
-  {
-    "description": "Agent skill for deploying and operating web apps on Keelson (keelson.run) with the Keelson CLI.",
-    "id": "keelsonhq/skills",
-    "language": "\u2014",
-    "name": "keelsonhq/skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T03:24:23Z",
-    "url": "https://github.com/keelsonhq/skills"
   }
 ]
