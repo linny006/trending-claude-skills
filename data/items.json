@@ -1,5 +1,59 @@
 [
   {
+    "description": "macOS menu bar app to curate agent skills",
+    "id": "mmurakaru/skillbox",
+    "language": "Swift",
+    "name": "mmurakaru/skillbox",
+    "stars": 2,
+    "updated_at": "2026-10-06T22:59:20Z",
+    "url": "https://github.com/mmurakaru/skillbox"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 273,
+    "updated_at": "2026-10-06T22:59:36Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-10-06T22:53:39Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-06T22:59:18Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-10-06T22:49:30Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 115,
+    "updated_at": "2026-10-06T22:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Human-in-the-loop deployment of Agentic-AI-Systems agents on AWS, Azure, GCP or Snowflake, with security review and regu",
     "id": "somesh-ghaturle/agentic-boundary-terraform-skills",
     "language": "Python",
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-06T22:41:50Z",
+    "updated_at": "2026-10-06T23:00:04Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-10-06T22:43:13Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Build your own sourced guide to any US ballot with the AI chat you already use. Checks what candidates did, not what the",
@@ -41,7 +86,7 @@
     "language": "JavaScript",
     "name": "tperkowitz-tech/ballot-guide",
     "stars": 0,
-    "updated_at": "2026-10-06T22:41:32Z",
+    "updated_at": "2026-10-06T22:49:20Z",
     "url": "https://github.com/tperkowitz-tech/ballot-guide"
   },
   {
@@ -50,7 +95,7 @@
     "language": "JavaScript",
     "name": "gtrabanco/agentic-workflow",
     "stars": 22,
-    "updated_at": "2026-10-06T22:40:36Z",
+    "updated_at": "2026-10-06T22:50:41Z",
     "url": "https://github.com/gtrabanco/agentic-workflow"
   },
   {
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T22:38:41Z",
     "url": "https://github.com/prophesourvolodymyr/fuckinggen"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 273,
-    "updated_at": "2026-10-06T22:42:27Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
     "description": "Tune your real resume to one job: 2\u20133 honest changes, no invented experience, no AI tells.",
@@ -121,7 +157,7 @@
     "id": "ayghri/i-have-adhd",
     "language": "Python",
     "name": "ayghri/i-have-adhd",
-    "stars": 54364,
+    "stars": 54369,
     "updated_at": "2026-10-06T22:33:28Z",
     "url": "https://github.com/ayghri/i-have-adhd"
   },
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "CrossRead/scholion",
     "stars": 4,
-    "updated_at": "2026-10-06T22:31:13Z",
+    "updated_at": "2026-10-06T22:52:37Z",
     "url": "https://github.com/CrossRead/scholion"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T22:30:19Z",
     "url": "https://github.com/PickleBoxer/pstack"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 114,
-    "updated_at": "2026-10-06T22:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "imboard-ai/ai-dossier",
     "stars": 9,
-    "updated_at": "2026-10-06T22:29:34Z",
+    "updated_at": "2026-10-06T22:56:24Z",
     "url": "https://github.com/imboard-ai/ai-dossier"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T22:20:40Z",
     "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Build a tiny Claude Code clone in Python with agent loop, tools, permissions, and context management in ~800 lines",
-    "id": "Sleeknessbounder869/miniClaudeCode",
-    "language": "\u2014",
-    "name": "Sleeknessbounder869/miniClaudeCode",
-    "stars": 0,
-    "updated_at": "2026-10-06T22:20:39Z",
-    "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Explore Claude Code CLI source code for learning, analysis, and TypeScript Bun CLI tool design",
-    "id": "tapperisobar941/claude-code-cli",
-    "language": "\u2014",
-    "name": "tapperisobar941/claude-code-cli",
-    "stars": 0,
-    "updated_at": "2026-10-06T22:20:37Z",
-    "url": "https://github.com/tapperisobar941/claude-code-cli"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-10-06T22:20:35Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
   }
 ]
