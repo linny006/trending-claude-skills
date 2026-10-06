@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-06 20:59 UTC
+> ⏰ Last updated: 2026-10-06 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [posit-dev/skills](https://github.com/posit-dev/skills) | 529 | Python | 2026-10-06 | A collection of Claude Skills from Posit |
-| 2 | [travsteward/openwriter](https://github.com/travsteward/openwriter) | 32 | TypeScript | 2026-10-06 | The open-source writing surface for AI agents. Markdown-native editor with pending change review — your agent writes, yo |
-| 3 | [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | 14 | Python | 2026-10-06 | Self-hosted agentic OS — a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats |
-| 4 | [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) | 273 | JavaScript | 2026-10-06 | Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins. |
-| 5 | [DevCop95/cyhber-deploy](https://github.com/DevCop95/cyhber-deploy) | 19 | Python | 2026-10-06 | Security Skill ( Claude , Codex , Gemini ) |
-| 6 | [fightingforsidewalk/claude-code-discipline](https://github.com/fightingforsidewalk/claude-code-discipline) | 0 | — | 2026-10-06 | A working contract between a planning chat, a coding agent, and a human who never has to read a diff: bounded tasks, pre |
-| 7 | [ReazGan/ward](https://github.com/ReazGan/ward) | 1 | Python | 2026-10-06 | Security skills for the app your coding agent just built. They find the holes, fix them, and prove they are closed. |
-| 8 | [ragnarwestad/aide](https://github.com/ragnarwestad/aide) | 1 | TypeScript | 2026-10-06 | Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) — specs, skills and a dashboard |
-| 9 | [jsobolewski1/fondue](https://github.com/jsobolewski1/fondue) | 6 | Python | 2026-10-06 | 🫕 One pot, everyone brings a fork, no double-dipping. A team of AI agents that plan, build and review each other's work, |
-| 10 | [dip497/onmywatch](https://github.com/dip497/onmywatch) | 0 | Python | 2026-10-06 | How I work with coding agents: one entry skill, small principle skills. |
-| 11 | [XiaoMaColtAI/math-modeling-skill](https://github.com/XiaoMaColtAI/math-modeling-skill) | 1849 | Python | 2026-10-06 | 数学建模技能 - 面向 CUMCM、MCM/ICM 等数学建模竞赛的三阶段工作流：建模分析、Python/MATLAB 编程与 DOCX 论文生成。包含丰富的算法资源库(优化/预测/评价/图论/机器学习等)、角色指导文档、论文模板和实用工具 |
-| 12 | [fightingforsidewalk/vault-relay](https://github.com/fightingforsidewalk/vault-relay) | 1 | Python | 2026-10-06 | Stop copying and pasting between AI chats: Claude (or any LLM) relays messages for your other chats as Markdown files. |
-| 13 | [giovaniocan/post-your-project](https://github.com/giovaniocan/post-your-project) | 0 | JavaScript | 2026-10-06 | Claude Code plugin: bilingual README (EN + PT-BR) from the code, real screenshots, and a LinkedIn post draft |
-| 14 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | 5 | TypeScript | 2026-10-06 | Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on t |
-| 15 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 112 | Python | 2026-10-06 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 112 | Python | 2026-10-06 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [posit-dev/skills](https://github.com/posit-dev/skills) | 529 | Python | 2026-10-06 | A collection of Claude Skills from Posit |
+| 3 | [travsteward/openwriter](https://github.com/travsteward/openwriter) | 32 | TypeScript | 2026-10-06 | The open-source writing surface for AI agents. Markdown-native editor with pending change review — your agent writes, yo |
+| 4 | [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | 14 | Python | 2026-10-06 | Self-hosted agentic OS — a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats |
+| 5 | [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) | 273 | JavaScript | 2026-10-06 | Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins. |
+| 6 | [DevCop95/cyhber-deploy](https://github.com/DevCop95/cyhber-deploy) | 19 | Python | 2026-10-06 | Security Skill ( Claude , Codex , Gemini ) |
+| 7 | [fightingforsidewalk/claude-code-discipline](https://github.com/fightingforsidewalk/claude-code-discipline) | 0 | — | 2026-10-06 | A working contract between a planning chat, a coding agent, and a human who never has to read a diff: bounded tasks, pre |
+| 8 | [ReazGan/ward](https://github.com/ReazGan/ward) | 1 | Python | 2026-10-06 | Security skills for the app your coding agent just built. They find the holes, fix them, and prove they are closed. |
+| 9 | [ragnarwestad/aide](https://github.com/ragnarwestad/aide) | 1 | TypeScript | 2026-10-06 | Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) — specs, skills and a dashboard |
+| 10 | [jsobolewski1/fondue](https://github.com/jsobolewski1/fondue) | 6 | Python | 2026-10-06 | 🫕 One pot, everyone brings a fork, no double-dipping. A team of AI agents that plan, build and review each other's work, |
+| 11 | [dip497/onmywatch](https://github.com/dip497/onmywatch) | 0 | Python | 2026-10-06 | How I work with coding agents: one entry skill, small principle skills. |
+| 12 | [XiaoMaColtAI/math-modeling-skill](https://github.com/XiaoMaColtAI/math-modeling-skill) | 1849 | Python | 2026-10-06 | 数学建模技能 - 面向 CUMCM、MCM/ICM 等数学建模竞赛的三阶段工作流：建模分析、Python/MATLAB 编程与 DOCX 论文生成。包含丰富的算法资源库(优化/预测/评价/图论/机器学习等)、角色指导文档、论文模板和实用工具 |
+| 13 | [fightingforsidewalk/vault-relay](https://github.com/fightingforsidewalk/vault-relay) | 1 | Python | 2026-10-06 | Stop copying and pasting between AI chats: Claude (or any LLM) relays messages for your other chats as Markdown files. |
+| 14 | [giovaniocan/post-your-project](https://github.com/giovaniocan/post-your-project) | 0 | JavaScript | 2026-10-06 | Claude Code plugin: bilingual README (EN + PT-BR) from the code, real screenshots, and a LinkedIn post draft |
+| 15 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | 5 | TypeScript | 2026-10-06 | Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on t |
 | 16 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69844 | TypeScript | 2026-10-06 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
 | 17 | [malav2110/explain-diff-html](https://github.com/malav2110/explain-diff-html) | 14 | HTML | 2026-10-06 | Turn pull requests and code diffs into interactive HTML walkthroughs that explain the logical flow of a change. |
 | 18 | [xsyetopz/dotclaude](https://github.com/xsyetopz/dotclaude) | 2 | JavaScript | 2026-10-06 | A very opinionated Claude Code plugin designed by a Rustacean obsessed with harness engineering |
