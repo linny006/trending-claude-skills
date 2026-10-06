@@ -1,5 +1,122 @@
 [
   {
+    "description": "SQL Server performance tuning skills for LLMs \u2014 829 checks across 26 skills covering T-SQL, execution plans, wait stats,",
+    "id": "vanterx/mssql-performance-skills",
+    "language": "TypeScript",
+    "name": "vanterx/mssql-performance-skills",
+    "stars": 9,
+    "updated_at": "2026-10-06T07:13:58Z",
+    "url": "https://github.com/vanterx/mssql-performance-skills"
+  },
+  {
+    "description": "Build your own sourced guide to any US ballot with the AI chat you already use. Checks what candidates did, not what the",
+    "id": "tperkowitz-tech/ballot-guide",
+    "language": "JavaScript",
+    "name": "tperkowitz-tech/ballot-guide",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:13:49Z",
+    "url": "https://github.com/tperkowitz-tech/ballot-guide"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-06T07:13:27Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
+    "id": "slopstopper/plumb-line",
+    "language": "Python",
+    "name": "slopstopper/plumb-line",
+    "stars": 4,
+    "updated_at": "2026-10-06T07:13:16Z",
+    "url": "https://github.com/slopstopper/plumb-line"
+  },
+  {
+    "description": "Plinth is an AI-native engineering toolkit for modern Java enterprise SDLC, built around reusable Commands, Agents, Skil",
+    "id": "jabrena/plinth",
+    "language": "Java",
+    "name": "jabrena/plinth",
+    "stars": 445,
+    "updated_at": "2026-10-06T07:08:31Z",
+    "url": "https://github.com/jabrena/plinth"
+  },
+  {
+    "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents",
+    "id": "Ar9av/obsidian-wiki",
+    "language": "Python",
+    "name": "Ar9av/obsidian-wiki",
+    "stars": 3526,
+    "updated_at": "2026-10-06T07:07:49Z",
+    "url": "https://github.com/Ar9av/obsidian-wiki"
+  },
+  {
+    "description": "Ten agent skills that take a website from brief to a checked release: one idea, real proof, measured gates, a calibrated",
+    "id": "Grit-77/cinematic-site",
+    "language": "JavaScript",
+    "name": "Grit-77/cinematic-site",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:07:08Z",
+    "url": "https://github.com/Grit-77/cinematic-site"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-06T07:03:24Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Pre-merge and pre-install trust checks for AI-agent skills and MCP configurations. Scan capabilities, detect risky chang",
+    "id": "charliechenye/SkillGate",
+    "language": "Python",
+    "name": "charliechenye/SkillGate",
+    "stars": 2,
+    "updated_at": "2026-10-06T07:03:12Z",
+    "url": "https://github.com/charliechenye/SkillGate"
+  },
+  {
+    "description": "Claude skill that rewrites AI-generated text so it reads like a person wrote it. Structural rewrite, voice matching, fac",
+    "id": "Yashwanth-Nallapuneni/deep-humanizer",
+    "language": "Python",
+    "name": "Yashwanth-Nallapuneni/deep-humanizer",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:01:28Z",
+    "url": "https://github.com/Yashwanth-Nallapuneni/deep-humanizer"
+  },
+  {
+    "description": "18 rules and 3 skills for coding agents, each one paid for by a real failure. Drop-in AGENTS.md / CLAUDE.md.",
+    "id": "Grit-77/done-is-a-claim",
+    "language": "\u2014",
+    "name": "Grit-77/done-is-a-claim",
+    "stars": 0,
+    "updated_at": "2026-10-06T07:01:13Z",
+    "url": "https://github.com/Grit-77/done-is-a-claim"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-10-06T07:00:58Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 80,
+    "updated_at": "2026-10-06T07:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
@@ -18,6 +135,15 @@
     "url": "https://github.com/davehallmon/reasoning-lens"
   },
   {
+    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
+    "id": "imboard-ai/ai-dossier",
+    "language": "TypeScript",
+    "name": "imboard-ai/ai-dossier",
+    "stars": 9,
+    "updated_at": "2026-10-06T07:13:45Z",
+    "url": "https://github.com/imboard-ai/ai-dossier"
+  },
+  {
     "description": "Claude Code CLI 2026 Pro Edition \u2013 Next-Gen AI Development Workflow Tool",
     "id": "ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge",
     "language": "HTML",
@@ -34,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T06:55:26Z",
     "url": "https://github.com/sumitkaulkar/adaptive-technical-learning-coach"
-  },
-  {
-    "description": "Stop uncertain data becoming confident-looking results. plumb-line carries provenance, confidence and mock-taint with va",
-    "id": "slopstopper/plumb-line",
-    "language": "Python",
-    "name": "slopstopper/plumb-line",
-    "stars": 4,
-    "updated_at": "2026-10-06T06:56:41Z",
-    "url": "https://github.com/slopstopper/plumb-line"
   },
   {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
@@ -99,15 +216,6 @@
     "url": "https://github.com/kyhsa93/backend-service-playbook"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 79,
-    "updated_at": "2026-10-06T06:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\ud83c\udfac \u5b89\u6770\u89c6\u9891\u5de5\u5177\u5305 \u00b7 \u5b89\u6770\u51fa\u54c1\uff1a\u8ba9\u4e0d\u61c2\u6280\u672f\u7684\u540c\u4e8b\u548c AI \u804a\u7740\u5929\u505a\u51fa\u4e13\u4e1a\u89c6\u9891\uff08Claude Code / Codex\uff0c\u57fa\u4e8e HyperFrames\uff09",
     "id": "e7naq3y/anjie-video-kit",
     "language": "Python",
@@ -115,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T06:44:56Z",
     "url": "https://github.com/e7naq3y/anjie-video-kit"
-  },
-  {
-    "description": "Build a sourced, custom US ballot guide with AI. It finds your exact ballot, checks candidate records and funders over p",
-    "id": "tperkowitz-tech/ballot-guide",
-    "language": "JavaScript",
-    "name": "tperkowitz-tech/ballot-guide",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:40:08Z",
-    "url": "https://github.com/tperkowitz-tech/ballot-guide"
   },
   {
     "description": "Data prep toolkit for finance & ops: extract, tidy, reconcile, analyse, visualise \u2014 powered by deterministic engines for",
@@ -142,15 +241,6 @@
     "stars": 17,
     "updated_at": "2026-10-06T06:38:47Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-10-06T06:38:33Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
   },
   {
     "description": "29 free Claude Skills for SEO and AI search. Built by Hawk Academy + StudioHawk. Drop into Claude Desktop and run.",
@@ -189,15 +279,6 @@
     "url": "https://github.com/savanna0425/skillhot"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-06T06:56:26Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Brief-first, high-CTR YouTube thumbnails for Claude Code and Codex \u2014 strategist, art director, AI artist, retoucher and ",
     "id": "Lovedevandgames/youtube-thumbnail-studio",
     "language": "Python",
@@ -205,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T06:29:03Z",
     "url": "https://github.com/Lovedevandgames/youtube-thumbnail-studio"
-  },
-  {
-    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
-    "id": "imboard-ai/ai-dossier",
-    "language": "TypeScript",
-    "name": "imboard-ai/ai-dossier",
-    "stars": 8,
-    "updated_at": "2026-10-06T06:58:59Z",
-    "url": "https://github.com/imboard-ai/ai-dossier"
   },
   {
     "description": "Workflow skills for Claude Code: skill-harvest turns sessions into skills, pots keeps todos that scan your files (solo o",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T06:17:58Z",
     "url": "https://github.com/azrianobr/dramazing"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 2,
-    "updated_at": "2026-10-06T06:17:32Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-10-06T06:17:16Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:16:23Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:15:56Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
-    "id": "mohitagw15856/pm-claude-skills",
-    "language": "HTML",
-    "name": "mohitagw15856/pm-claude-skills",
-    "stars": 1426,
-    "updated_at": "2026-10-06T06:15:34Z",
-    "url": "https://github.com/mohitagw15856/pm-claude-skills"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-10-06T06:15:30Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 4,
-    "updated_at": "2026-10-06T06:14:56Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-10-06T06:14:01Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   }
 ]
