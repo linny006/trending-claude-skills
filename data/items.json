@@ -1,11 +1,110 @@
 [
   {
+    "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
+    "id": "open-coder-ai/context-report",
+    "language": "Python",
+    "name": "open-coder-ai/context-report",
+    "stars": 1,
+    "updated_at": "2026-10-06T12:28:30Z",
+    "url": "https://github.com/open-coder-ai/context-report"
+  },
+  {
+    "description": "A Claude skill that turns an AI topic into a researched, fact-checked social carousel in your own brand, for Instagram, ",
+    "id": "gianluca-livingoffai/social-carousel-aios",
+    "language": "HTML",
+    "name": "gianluca-livingoffai/social-carousel-aios",
+    "stars": 0,
+    "updated_at": "2026-10-06T12:28:20Z",
+    "url": "https://github.com/gianluca-livingoffai/social-carousel-aios"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 14,
+    "updated_at": "2026-10-06T12:27:50Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "UI component library for people who want to be unique",
+    "id": "ham7a311/Vitrine",
+    "language": "TypeScript",
+    "name": "ham7a311/Vitrine",
+    "stars": 5,
+    "updated_at": "2026-10-06T12:26:10Z",
+    "url": "https://github.com/ham7a311/Vitrine"
+  },
+  {
+    "description": "A Claude skill for pro motion design with correct Persian (Farsi) typography: no slideshows, no broken letters. 8 techni",
+    "id": "atmirrr/persian-motion-director",
+    "language": "JavaScript",
+    "name": "atmirrr/persian-motion-director",
+    "stars": 0,
+    "updated_at": "2026-10-06T12:25:42Z",
+    "url": "https://github.com/atmirrr/persian-motion-director"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-06T12:28:24Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
+    "id": "zeikar/dotfiles",
+    "language": "Shell",
+    "name": "zeikar/dotfiles",
+    "stars": 1,
+    "updated_at": "2026-10-06T12:25:00Z",
+    "url": "https://github.com/zeikar/dotfiles"
+  },
+  {
+    "description": "10 ready-to-run Agent Skills (SKILL.md) for Claude Code, Codex & Cursor \u2014 HyperFrames video + GPT Image skills with real",
+    "id": "xianyu110/skillhub",
+    "language": "\u2014",
+    "name": "xianyu110/skillhub",
+    "stars": 0,
+    "updated_at": "2026-10-06T12:21:01Z",
+    "url": "https://github.com/xianyu110/skillhub"
+  },
+  {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 37,
+    "updated_at": "2026-10-06T12:25:08Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 271,
+    "updated_at": "2026-10-06T12:29:02Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 89,
+    "updated_at": "2026-10-06T12:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 9,
-    "updated_at": "2026-10-06T12:12:52Z",
+    "updated_at": "2026-10-06T12:23:02Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
   },
   {
@@ -23,7 +122,7 @@
     "language": "TypeScript",
     "name": "romankurnovskii/etemaro",
     "stars": 50,
-    "updated_at": "2026-10-06T12:10:30Z",
+    "updated_at": "2026-10-06T12:16:57Z",
     "url": "https://github.com/romankurnovskii/etemaro"
   },
   {
@@ -50,7 +149,7 @@
     "language": "Go",
     "name": "PollyGlot/google-play-cli",
     "stars": 10,
-    "updated_at": "2026-10-06T12:10:12Z",
+    "updated_at": "2026-10-06T12:27:23Z",
     "url": "https://github.com/PollyGlot/google-play-cli"
   },
   {
@@ -61,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T12:07:55Z",
     "url": "https://github.com/natthasath/natthasath-marketplace"
-  },
-  {
-    "description": "Agent skills for building, shipping, and growing software products",
-    "id": "tenequm/skills",
-    "language": "Python",
-    "name": "tenequm/skills",
-    "stars": 37,
-    "updated_at": "2026-10-06T12:07:57Z",
-    "url": "https://github.com/tenequm/skills"
   },
   {
     "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
@@ -95,26 +185,8 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69843,
-    "updated_at": "2026-10-06T12:09:38Z",
+    "updated_at": "2026-10-06T12:24:11Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 14,
-    "updated_at": "2026-10-06T12:04:03Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 271,
-    "updated_at": "2026-10-06T12:12:18Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
     "description": "Unofficial, LLM-friendly, auto-updating Markdown mirror of the Crypto.com Exchange API documentation",
@@ -142,15 +214,6 @@
     "stars": 12,
     "updated_at": "2026-10-06T12:13:23Z",
     "url": "https://github.com/ai-hub-open/yandex-direct-manager"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 89,
-    "updated_at": "2026-10-06T12:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-06T12:06:59Z",
+    "updated_at": "2026-10-06T12:26:38Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -232,6 +295,15 @@
     "stars": 0,
     "updated_at": "2026-10-06T11:44:36Z",
     "url": "https://github.com/PawanSirsat/Laika"
+  },
+  {
+    "description": "Claude Code and Codex plugin: daily standup, brag doc, session search, chat export and lost-session recovery from your o",
+    "id": "shabash-dev/shabash-plugins",
+    "language": "Python",
+    "name": "shabash-dev/shabash-plugins",
+    "stars": 0,
+    "updated_at": "2026-10-06T11:43:21Z",
+    "url": "https://github.com/shabash-dev/shabash-plugins"
   },
   {
     "description": "Free kit for AI coding agent users: end sessions with a structured handoff (skill + context hygiene checklist + template",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-06T11:33:23Z",
     "url": "https://github.com/beau-education/beau-plugin"
-  },
-  {
-    "description": "React File Upload Application with AWS S3 (Next.js, TypeScript, Tailwind CSS, React Query, React Dropzone, File Validati",
-    "id": "thekinv21/ReactDropzoneFileUpload",
-    "language": "TypeScript",
-    "name": "thekinv21/ReactDropzoneFileUpload",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:29:26Z",
-    "url": "https://github.com/thekinv21/ReactDropzoneFileUpload"
-  },
-  {
-    "description": "Sniff your Markdown drafts against house rules with local regex checks and optional AI judgment calls.",
-    "id": "Spirounkempt95/snifftest",
-    "language": "TypeScript",
-    "name": "Spirounkempt95/snifftest",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:28:18Z",
-    "url": "https://github.com/Spirounkempt95/snifftest"
-  },
-  {
-    "description": "Track developer roadmaps offline with progress tracking, spaced repetition, and career analytics\u2014no account or internet ",
-    "id": "Itzzni9454/skill-trail",
-    "language": "TypeScript",
-    "name": "Itzzni9454/skill-trail",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:27:50Z",
-    "url": "https://github.com/Itzzni9454/skill-trail"
-  },
-  {
-    "description": "Build kinetic-typography and logo promos as code with Remotion, shipping MP4s in 9:16 and 16:9 from one React codebase.",
-    "id": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "language": "TypeScript",
-    "name": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:27:50Z",
-    "url": "https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:27:05Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-10-06T11:26:37Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
-  },
-  {
-    "description": "Agent skill that checks typography for web, print and PDF, with the rules from the Typography Handbook.",
-    "id": "thomasguillot/typography-skills",
-    "language": "JavaScript",
-    "name": "thomasguillot/typography-skills",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:35:19Z",
-    "url": "https://github.com/thomasguillot/typography-skills"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:26:06Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
   }
 ]
