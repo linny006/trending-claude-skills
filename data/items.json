@@ -1,5 +1,104 @@
 [
   {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-10-06T02:30:01Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-06T02:27:41Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 0,
+    "updated_at": "2026-10-06T02:25:45Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
+    "id": "EricTechPro/super-board",
+    "language": "HTML",
+    "name": "EricTechPro/super-board",
+    "stars": 31,
+    "updated_at": "2026-10-06T02:25:28Z",
+    "url": "https://github.com/EricTechPro/super-board"
+  },
+  {
+    "description": "An AI-assistant skill that turns a short story (Chinese, English or Korean) into an episodic AI drama: script, storyboar",
+    "id": "azrianobr/dramazing",
+    "language": "JavaScript",
+    "name": "azrianobr/dramazing",
+    "stars": 0,
+    "updated_at": "2026-10-06T02:25:17Z",
+    "url": "https://github.com/azrianobr/dramazing"
+  },
+  {
+    "description": "API tests built to question your code, not just copy it. Claude Code or Codex builds a suite from your backend repo and ",
+    "id": "lawli/repo2test",
+    "language": "Python",
+    "name": "lawli/repo2test",
+    "stars": 0,
+    "updated_at": "2026-10-06T02:26:40Z",
+    "url": "https://github.com/lawli/repo2test"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 96664,
+    "updated_at": "2026-10-06T02:24:55Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "TikTok\u7ade\u54c1\u6d1e\u5bdf\u5206\u6790\u5de5\u5177\uff0c\u5b9e\u65f6\u76d1\u6d4b\u7ade\u54c1\u6d41\u91cf\u6548\u679c\u3001\u5feb\u901f\u62c6\u89e3\u5bf9\u6807\u7ade\u5bf9\u4f5c\u54c1\u3001\u7cbe\u51c6\u62c6\u89e3\u900f\u89c6\u7ade\u54c1\u6d41\u91cf\u53ca\u7b56\u7565\u3001\u9ad8\u6548\u642d\u5efa\u5173\u952e\u8bcd\u5e93\uff0c\u9002\u7528\u4e8eTikTok\u54c1\u724c\u65b9\u3001\u521b\u4f5c\u8005\u7b49\u8fdb\u884c\u7ade\u54c1\u5206\u6790\u3001\u6d41\u91cf\u4f18\u5316\u548c\u5173\u952e\u8bcd\u7814\u7a76\u3002",
+    "id": "why20261/tiktok-insight",
+    "language": "\u2014",
+    "name": "why20261/tiktok-insight",
+    "stars": 0,
+    "updated_at": "2026-10-06T02:24:43Z",
+    "url": "https://github.com/why20261/tiktok-insight"
+  },
+  {
+    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 446,
+    "updated_at": "2026-10-06T02:22:23Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Which AI agent Skills survive a real build? Every pick is field-tested by building a product from scratch, then rated on",
+    "id": "phoebefu6/agent-skills-phoebe-picks",
+    "language": "JavaScript",
+    "name": "phoebefu6/agent-skills-phoebe-picks",
+    "stars": 1,
+    "updated_at": "2026-10-06T02:20:39Z",
+    "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 69,
+    "updated_at": "2026-10-06T02:18:31Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
     "id": "Crowd9/giveaway-skills",
     "language": "Python",
@@ -16,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-06T02:16:23Z",
     "url": "https://github.com/chrisamz/trades-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 69,
-    "updated_at": "2026-10-06T02:15:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
@@ -54,15 +144,6 @@
     "url": "https://github.com/tonydzi/second-brain-starter-kit"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 96657,
-    "updated_at": "2026-10-06T02:17:58Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "You say the job; the playbook runs. 158 agent skills + 63 slash commands for Claude Code, Cursor, Codex, and Gemini CLI.",
     "id": "kensaurus/skills",
     "language": "JavaScript",
@@ -77,7 +158,7 @@
     "language": "TypeScript",
     "name": "openqodex/openqodex",
     "stars": 5,
-    "updated_at": "2026-10-06T02:10:31Z",
+    "updated_at": "2026-10-06T02:25:50Z",
     "url": "https://github.com/openqodex/openqodex"
   },
   {
@@ -131,7 +212,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-06T02:16:40Z",
+    "updated_at": "2026-10-06T02:29:43Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -158,7 +239,7 @@
     "language": "Python",
     "name": "gooseworks-ai/goose-skills",
     "stars": 1231,
-    "updated_at": "2026-10-06T02:02:20Z",
+    "updated_at": "2026-10-06T02:28:34Z",
     "url": "https://github.com/gooseworks-ai/goose-skills"
   },
   {
@@ -194,7 +275,7 @@
     "language": "Python",
     "name": "charliechenye/SkillGate",
     "stars": 2,
-    "updated_at": "2026-10-06T01:58:38Z",
+    "updated_at": "2026-10-06T02:24:36Z",
     "url": "https://github.com/charliechenye/SkillGate"
   },
   {
@@ -230,7 +311,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 24,
-    "updated_at": "2026-10-06T02:12:04Z",
+    "updated_at": "2026-10-06T02:24:01Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -248,7 +329,7 @@
     "language": "Python",
     "name": "NYTC69/review-loop",
     "stars": 3,
-    "updated_at": "2026-10-06T01:37:46Z",
+    "updated_at": "2026-10-06T02:27:10Z",
     "url": "https://github.com/NYTC69/review-loop"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-06T01:19:08Z",
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-10-06T01:18:43Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Teach your AI to code like you. Claude Code skills that learn your patterns (data fetching, error handling, naming, fold",
-    "id": "Turnless/grand-master",
-    "language": "\u2014",
-    "name": "Turnless/grand-master",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:18:10Z",
-    "url": "https://github.com/Turnless/grand-master"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:18:09Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:17:34Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:17:02Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
-  },
-  {
-    "description": "Automate Hinge interactions using a stitched-vision and LLM-judge loop for hands-free profile management.",
-    "id": "houseunlimited/hinge-auto",
-    "language": "Python",
-    "name": "houseunlimited/hinge-auto",
-    "stars": 4,
-    "updated_at": "2026-10-06T01:16:31Z",
-    "url": "https://github.com/houseunlimited/hinge-auto"
-  },
-  {
-    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
-    "id": "tonydzi/clawrush",
-    "language": "Python",
-    "name": "tonydzi/clawrush",
-    "stars": 14,
-    "updated_at": "2026-10-06T01:16:06Z",
-    "url": "https://github.com/tonydzi/clawrush"
-  },
-  {
-    "description": "Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C",
-    "id": "batterfried-philosophy172/Agent-Startup-Skills",
-    "language": "JavaScript",
-    "name": "batterfried-philosophy172/Agent-Startup-Skills",
-    "stars": 2,
-    "updated_at": "2026-10-06T01:15:37Z",
-    "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-10-06T01:14:49Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
   }
 ]
