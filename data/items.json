@@ -1,5 +1,122 @@
 [
   {
+    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
+    "id": "RemiAsselin42/claude-config",
+    "language": "Shell",
+    "name": "RemiAsselin42/claude-config",
+    "stars": 1,
+    "updated_at": "2026-10-06T12:00:00Z",
+    "url": "https://github.com/RemiAsselin42/claude-config"
+  },
+  {
+    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
+    "id": "PollyGlot/google-play-cli",
+    "language": "Go",
+    "name": "PollyGlot/google-play-cli",
+    "stars": 10,
+    "updated_at": "2026-10-06T11:59:23Z",
+    "url": "https://github.com/PollyGlot/google-play-cli"
+  },
+  {
+    "description": "Agent skill (Claude Code + Codex): generates self-contained interactive HTML docs for any project \u2014 infrastructure topol",
+    "id": "bhargavaganti/interactive-docs",
+    "language": "Python",
+    "name": "bhargavaganti/interactive-docs",
+    "stars": 0,
+    "updated_at": "2026-10-06T11:58:55Z",
+    "url": "https://github.com/bhargavaganti/interactive-docs"
+  },
+  {
+    "description": "Reference-backed ERP assistants for Claude Code \u2014 Sage 300 (Accpac), Sage 200 Evolution (Pastel), and SAP Business One. ",
+    "id": "fdtaljaard/claude-skills",
+    "language": "Python",
+    "name": "fdtaljaard/claude-skills",
+    "stars": 7,
+    "updated_at": "2026-10-06T11:56:38Z",
+    "url": "https://github.com/fdtaljaard/claude-skills"
+  },
+  {
+    "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framewo",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1539,
+    "updated_at": "2026-10-06T11:53:59Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "Nerviz \u2014 an agent harness for Spring Boot. Claude Code skills, agents and hooks that generate Spring Boot projects and k",
+    "id": "nerviz-ai/nerviz",
+    "language": "Java",
+    "name": "nerviz-ai/nerviz",
+    "stars": 3,
+    "updated_at": "2026-10-06T11:52:41Z",
+    "url": "https://github.com/nerviz-ai/nerviz"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 24,
+    "updated_at": "2026-10-06T11:51:43Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-06T11:51:23Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "A framework- and language-agnostic guide to DDD-based backend service design, implemented identically across 5 languages",
+    "id": "kyhsa93/backend-service-playbook",
+    "language": "Java",
+    "name": "kyhsa93/backend-service-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-06T11:49:32Z",
+    "url": "https://github.com/kyhsa93/backend-service-playbook"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69842,
+    "updated_at": "2026-10-06T11:58:16Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Deckhand \u2014 bring a $5 server and a $10 domain; your agent turns them into a live business. Agent skills for building, de",
+    "id": "takimdigital/deckhand-skill",
+    "language": "Python",
+    "name": "takimdigital/deckhand-skill",
+    "stars": 1,
+    "updated_at": "2026-10-06T11:50:51Z",
+    "url": "https://github.com/takimdigital/deckhand-skill"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19624,
+    "updated_at": "2026-10-06T11:45:55Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 88,
+    "updated_at": "2026-10-06T11:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
     "id": "PawanSirsat/Laika",
     "language": "TypeScript",
@@ -95,7 +212,7 @@
     "language": "JavaScript",
     "name": "danjdewhurst/story-skills",
     "stars": 271,
-    "updated_at": "2026-10-06T11:44:18Z",
+    "updated_at": "2026-10-06T11:58:01Z",
     "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
@@ -122,7 +239,7 @@
     "language": "Markdown",
     "name": "rodniski/humanizing",
     "stars": 0,
-    "updated_at": "2026-10-06T11:37:16Z",
+    "updated_at": "2026-10-06T11:46:47Z",
     "url": "https://github.com/rodniski/humanizing"
   },
   {
@@ -131,8 +248,17 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 148,
-    "updated_at": "2026-10-06T11:39:49Z",
+    "updated_at": "2026-10-06T11:45:56Z",
     "url": "https://github.com/UiPath/coder_eval"
+  },
+  {
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
+    "id": "scenario-labs/skills",
+    "language": "Python",
+    "name": "scenario-labs/skills",
+    "stars": 888,
+    "updated_at": "2026-10-06T11:34:54Z",
+    "url": "https://github.com/scenario-labs/skills"
   },
   {
     "description": "Claude skill for Generative Engine Optimization (GEO): audit and improve how your brand gets found, cited and recommende",
@@ -169,24 +295,6 @@
     "stars": 1,
     "updated_at": "2026-10-06T11:33:23Z",
     "url": "https://github.com/beau-education/beau-plugin"
-  },
-  {
-    "description": "gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer ",
-    "id": "PollyGlot/google-play-cli",
-    "language": "Go",
-    "name": "PollyGlot/google-play-cli",
-    "stars": 10,
-    "updated_at": "2026-10-06T11:32:59Z",
-    "url": "https://github.com/PollyGlot/google-play-cli"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 87,
-    "updated_at": "2026-10-06T11:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "React File Upload Application with AWS S3 (Next.js, TypeScript, Tailwind CSS, React Query, React Dropzone, File Validati",
@@ -288,15 +396,6 @@
     "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69840,
-    "updated_at": "2026-10-06T11:40:09Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Curated modular agent skills for LLM-based assistants to extend AI capabilities and enable autonomous agents.",
     "id": "graceupperclass437/agent-skills-collection",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-06T11:22:37Z",
     "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:22:16Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-10-06T11:21:25Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:21:20Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Nerviz \u2014 an agent harness for Spring Boot. Claude Code skills, agents and hooks that generate Spring Boot projects and k",
-    "id": "nerviz-ai/nerviz",
-    "language": "Java",
-    "name": "nerviz-ai/nerviz",
-    "stars": 3,
-    "updated_at": "2026-10-06T11:21:29Z",
-    "url": "https://github.com/nerviz-ai/nerviz"
-  },
-  {
-    "description": "\u26a1 Universal Skill AI Agent Swarm Architecture for Antigravity, Claude Code, Cursor, and Windsurf. Vibe Coding 2.0 with Z",
-    "id": "roedyrustam/vibes-plug",
-    "language": "JavaScript",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 73,
-    "updated_at": "2026-10-06T11:20:44Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
-  },
-  {
-    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
-    "id": "elementalsouls/Claude-BugHunter",
-    "language": "Python",
-    "name": "elementalsouls/Claude-BugHunter",
-    "stars": 4781,
-    "updated_at": "2026-10-06T11:19:43Z",
-    "url": "https://github.com/elementalsouls/Claude-BugHunter"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Rust",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 9,
-    "updated_at": "2026-10-06T11:19:34Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-10-06T11:18:38Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Remote MCP server for finding grocery deals via the Tjek API, designed for ChatGPT, Claude, and other AI clients.",
-    "id": "runethorbek/grocery-deals-mcp",
-    "language": "TypeScript",
-    "name": "runethorbek/grocery-deals-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:18:29Z",
-    "url": "https://github.com/runethorbek/grocery-deals-mcp"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-10-06T11:18:00Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-06T11:24:37Z",
-    "url": "https://github.com/gaia-react/gaia"
   }
 ]
