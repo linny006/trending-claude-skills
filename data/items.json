@@ -1,5 +1,77 @@
 [
   {
+    "description": "Curated collection of my most-used AI agent skills with interactive setup.sh / curl install.sh installers",
+    "id": "AndyTechnologies/my-own-skills",
+    "language": "Shell",
+    "name": "AndyTechnologies/my-own-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:40:07Z",
+    "url": "https://github.com/AndyTechnologies/my-own-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-07T00:39:07Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "14 skills de gest\u00e3o de produto em portugu\u00eas para o Claude, baseadas na metodologia da K21: user story, vis\u00e3o, prioriza\u00e7\u00e3",
+    "id": "K21-NOWER/skills-produto-K21",
+    "language": "Python",
+    "name": "K21-NOWER/skills-produto-K21",
+    "stars": 1,
+    "updated_at": "2026-10-07T00:42:21Z",
+    "url": "https://github.com/K21-NOWER/skills-produto-K21"
+  },
+  {
+    "description": "Claude Code plugin: Claude builds, Codex critiques \u2014 a gated research \u2192 plan \u2192 review \u2192 ship pipeline, with autonomous m",
+    "id": "zeikar/hyperclaude",
+    "language": "JavaScript",
+    "name": "zeikar/hyperclaude",
+    "stars": 3,
+    "updated_at": "2026-10-07T00:37:50Z",
+    "url": "https://github.com/zeikar/hyperclaude"
+  },
+  {
+    "description": "Open-source AI learning skill suite: teaching, live tutoring (chat and voice), interactive labs, printable practice test",
+    "id": "baney75/myelinate",
+    "language": "HTML",
+    "name": "baney75/myelinate",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:37:13Z",
+    "url": "https://github.com/baney75/myelinate"
+  },
+  {
+    "description": "C2C: an open-source Codex and Claude Code skill for collaborative planning and mutual plan review. Assess project readin",
+    "id": "ZiadHassanein/codex-claude-council",
+    "language": "JavaScript",
+    "name": "ZiadHassanein/codex-claude-council",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:39:42Z",
+    "url": "https://github.com/ZiadHassanein/codex-claude-council"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) for Claude Code, OpenCode, Codex, Cursor and Gemini CLI. Installable with npx skills or as a Cla",
+    "id": "julianosirtori/skills",
+    "language": "Shell",
+    "name": "julianosirtori/skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:35:46Z",
+    "url": "https://github.com/julianosirtori/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 115,
+    "updated_at": "2026-10-07T00:35:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
@@ -41,17 +113,8 @@
     "language": "JavaScript",
     "name": "danjdewhurst/story-skills",
     "stars": 273,
-    "updated_at": "2026-10-07T00:34:14Z",
+    "updated_at": "2026-10-07T00:39:15Z",
     "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 115,
-    "updated_at": "2026-10-07T00:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude commands that speed up everyday dev workflows",
@@ -216,15 +279,6 @@
     "url": "https://github.com/graceupperclass437/agent-skills-collection"
   },
   {
-    "description": "C2C: an open-source Codex and Claude Code skill for collaborative planning and mutual plan review. Assess project readin",
-    "id": "ZiadHassanein/codex-claude-council",
-    "language": "JavaScript",
-    "name": "ZiadHassanein/codex-claude-council",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:31:36Z",
-    "url": "https://github.com/ZiadHassanein/codex-claude-council"
-  },
-  {
     "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
     "id": "travsteward/openwriter",
     "language": "TypeScript",
@@ -310,7 +364,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 97170,
+    "stars": 97176,
     "updated_at": "2026-10-07T00:15:22Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:12:53Z",
     "url": "https://github.com/close-shellflower7762/e2e-tester"
-  },
-  {
-    "description": "Run Claude Code locally with TUI and Electron desktop support, plus flexible Anthropic/OpenAI-compatible API access and ",
-    "id": "briefless-orgasm922/claude-code-t8",
-    "language": "\u2014",
-    "name": "briefless-orgasm922/claude-code-t8",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:12:07Z",
-    "url": "https://github.com/briefless-orgasm922/claude-code-t8"
-  },
-  {
-    "description": "Restore and run Claude Code source with full native modules, types, and internals for local use and MCP mode",
-    "id": "aymannaim822-create/claude-code-source",
-    "language": "\u2014",
-    "name": "aymannaim822-create/claude-code-source",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:12:04Z",
-    "url": "https://github.com/aymannaim822-create/claude-code-source"
-  },
-  {
-    "description": "Build coding agents with a clean-room harness for streaming loops, tool control, session save, secure creds, and layered",
-    "id": "vmy41/agent-harness",
-    "language": "\u2014",
-    "name": "vmy41/agent-harness",
-    "stars": 1,
-    "updated_at": "2026-10-07T00:11:52Z",
-    "url": "https://github.com/vmy41/agent-harness"
-  },
-  {
-    "description": "Build a tiny Claude Code clone in Python with agent loop, tools, permissions, and context management in ~800 lines",
-    "id": "Sleeknessbounder869/miniClaudeCode",
-    "language": "\u2014",
-    "name": "Sleeknessbounder869/miniClaudeCode",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:11:46Z",
-    "url": "https://github.com/Sleeknessbounder869/miniClaudeCode"
-  },
-  {
-    "description": "Explore a public Claude Code source snapshot for security research, supply-chain analysis, and CLI architecture review",
-    "id": "Angeliquetreated862/claude-code-src",
-    "language": "TypeScript",
-    "name": "Angeliquetreated862/claude-code-src",
-    "stars": 2,
-    "updated_at": "2026-10-07T00:11:40Z",
-    "url": "https://github.com/Angeliquetreated862/claude-code-src"
-  },
-  {
-    "description": "Explore Claude Code source code to learn how Anthropic\u2019s CLI harness works, from tools and permissions to context and st",
-    "id": "Raflimoon/learn-real-claude-code",
-    "language": "TypeScript",
-    "name": "Raflimoon/learn-real-claude-code",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:11:38Z",
-    "url": "https://github.com/Raflimoon/learn-real-claude-code"
   }
 ]
