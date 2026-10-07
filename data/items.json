@@ -1,11 +1,128 @@
 [
   {
+    "description": "Stop copying and pasting between AI chats: Claude (or any LLM) relays messages for your other chats as Markdown files.",
+    "id": "fightingforsidewalk/vault-relay",
+    "language": "Python",
+    "name": "fightingforsidewalk/vault-relay",
+    "stars": 2,
+    "updated_at": "2026-10-07T02:44:16Z",
+    "url": "https://github.com/fightingforsidewalk/vault-relay"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 1805,
+    "updated_at": "2026-10-07T02:41:36Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "Engineering quality focused skills for AI coding agents that keep humans in the loop.",
+    "id": "dawson-design/consult",
+    "language": "Python",
+    "name": "dawson-design/consult",
+    "stars": 1,
+    "updated_at": "2026-10-07T02:38:22Z",
+    "url": "https://github.com/dawson-design/consult"
+  },
+  {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 37,
+    "updated_at": "2026-10-07T02:36:12Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
+    "id": "raghuramsirigiri/raghuram-skills",
+    "language": "JavaScript",
+    "name": "raghuramsirigiri/raghuram-skills",
+    "stars": 1,
+    "updated_at": "2026-10-07T02:35:36Z",
+    "url": "https://github.com/raghuramsirigiri/raghuram-skills"
+  },
+  {
+    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 89 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, paid media, social list",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 17,
+    "updated_at": "2026-10-07T02:35:11Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management",
+    "id": "JuneYaooo/awesome-ai-media-skills",
+    "language": "\u2014",
+    "name": "JuneYaooo/awesome-ai-media-skills",
+    "stars": 5,
+    "updated_at": "2026-10-07T02:34:05Z",
+    "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-07T02:32:48Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Agent Skill that turns Claude (or any Agent Skills\u2013compatible agent) into an AI film director: script \u2192 project bible \u2192 ",
+    "id": "dunkeyyfong/ai-film-director",
+    "language": "\u2014",
+    "name": "dunkeyyfong/ai-film-director",
+    "stars": 0,
+    "updated_at": "2026-10-07T02:32:15Z",
+    "url": "https://github.com/dunkeyyfong/ai-film-director"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-10-07T02:32:14Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 78726,
+    "updated_at": "2026-10-07T02:45:01Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 32,
+    "updated_at": "2026-10-07T02:31:28Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 117,
+    "updated_at": "2026-10-07T02:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
     "id": "danjdewhurst/story-skills",
     "language": "JavaScript",
     "name": "danjdewhurst/story-skills",
     "stars": 274,
-    "updated_at": "2026-10-07T02:29:15Z",
+    "updated_at": "2026-10-07T02:42:33Z",
     "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
@@ -16,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T02:29:02Z",
     "url": "https://github.com/ZiadHassanein/C2C"
-  },
-  {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 1800,
-    "updated_at": "2026-10-07T02:28:57Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
   },
   {
     "description": "An open, signed report format for whether an agent plugin, hook, skill, or AGENTS.md actually works.",
@@ -43,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T02:27:54Z",
     "url": "https://github.com/mahiepit/ChuotVan"
-  },
-  {
-    "description": "Claude Agent Skill that turns any data into a self-contained HTML dashboard or report with interactive SVG charts. Zero ",
-    "id": "raghuramsirigiri/raghuram-skills",
-    "language": "JavaScript",
-    "name": "raghuramsirigiri/raghuram-skills",
-    "stars": 1,
-    "updated_at": "2026-10-07T02:24:56Z",
-    "url": "https://github.com/raghuramsirigiri/raghuram-skills"
   },
   {
     "description": "Claude commands that speed up everyday dev workflows",
@@ -162,15 +261,6 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 117,
-    "updated_at": "2026-10-07T02:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Are we present in search and AI answers? One audit surface for SEO, AEO, GEO, LLMO and Korean engines (Naver, Daum). Cra",
     "id": "kindsusu/su-presence",
     "language": "Python",
@@ -216,20 +306,11 @@
     "url": "https://github.com/plugin87/ux-ui-agent-skills"
   },
   {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-10-07T02:12:24Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
     "description": "Aulas narradas animadas e tutoriais de tela com o Claude: tr\u00eas skills, instalador (npx) e um est\u00fadio aberto com voz por ",
     "id": "dantaspaulo/kit-video-ia",
     "language": "TypeScript",
     "name": "dantaspaulo/kit-video-ia",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-07T02:09:54Z",
     "url": "https://github.com/dantaspaulo/kit-video-ia"
   },
@@ -241,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-10-07T02:06:55Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 32,
-    "updated_at": "2026-10-07T02:05:00Z",
-    "url": "https://github.com/travsteward/openwriter"
   },
   {
     "description": "\ud83d\udc19 Reach wide, choose one \u2014 a human-in-the-loop creative plugin for Claude Code and Codex: distinct ideas, your choice, t",
@@ -333,6 +405,15 @@
     "url": "https://github.com/djfksjd/imagination-octo-engine"
   },
   {
+    "description": "Instagram marketing skills for Claude Code and Codex: captions, carousels, hooks, hashtag strategy, and a weekly plan. D",
+    "id": "sergebulaev/instagram-skills",
+    "language": "Python",
+    "name": "sergebulaev/instagram-skills",
+    "stars": 289,
+    "updated_at": "2026-10-07T01:54:00Z",
+    "url": "https://github.com/sergebulaev/instagram-skills"
+  },
+  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 23,
     "updated_at": "2026-10-07T01:49:19Z",
     "url": "https://github.com/heymegabyte/agent-skills"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-10-07T01:48:18Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
-    "id": "sergebulaev/linkedin-skills",
-    "language": "Python",
-    "name": "sergebulaev/linkedin-skills",
-    "stars": 4254,
-    "updated_at": "2026-10-07T01:47:27Z",
-    "url": "https://github.com/sergebulaev/linkedin-skills"
-  },
-  {
-    "description": "Instagram marketing skills for Claude Code and Codex: captions, carousels, hooks, hashtag strategy, and a weekly plan. D",
-    "id": "sergebulaev/instagram-skills",
-    "language": "Python",
-    "name": "sergebulaev/instagram-skills",
-    "stars": 288,
-    "updated_at": "2026-10-07T01:54:00Z",
-    "url": "https://github.com/sergebulaev/instagram-skills"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 64,
-    "updated_at": "2026-10-07T01:44:24Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Missing codex auth feature - Generate images from your ChatGPT subscription, straight from the terminal. CLI + TUI, powe",
-    "id": "prophesourvolodymyr/fuckinggen",
-    "language": "Rust",
-    "name": "prophesourvolodymyr/fuckinggen",
-    "stars": 0,
-    "updated_at": "2026-10-07T01:43:47Z",
-    "url": "https://github.com/prophesourvolodymyr/fuckinggen"
-  },
-  {
-    "description": "An Agent Skill that tags your reaction GIFs and memes once, then finds the right one for the moment.",
-    "id": "vdelaurenti/reaction-library",
-    "language": "Python",
-    "name": "vdelaurenti/reaction-library",
-    "stars": 0,
-    "updated_at": "2026-10-07T01:43:38Z",
-    "url": "https://github.com/vdelaurenti/reaction-library"
-  },
-  {
-    "description": "Official Publora skills for AI agents: post and schedule to LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, ",
-    "id": "publora/skills",
-    "language": "Python",
-    "name": "publora/skills",
-    "stars": 49,
-    "updated_at": "2026-10-07T01:41:53Z",
-    "url": "https://github.com/publora/skills"
-  },
-  {
-    "description": "Facebook Pages marketing skills for Claude Code and Codex: high-share posts, hooks, engagement replies, and a weekly pla",
-    "id": "sergebulaev/facebook-skills",
-    "language": "Python",
-    "name": "sergebulaev/facebook-skills",
-    "stars": 55,
-    "updated_at": "2026-10-07T01:45:56Z",
-    "url": "https://github.com/sergebulaev/facebook-skills"
-  },
-  {
-    "description": "TikTok marketing skills for Claude Code and Codex: 3-second video hooks, captions, trend mapping, and a weekly plan. Dra",
-    "id": "sergebulaev/tiktok-skills",
-    "language": "Python",
-    "name": "sergebulaev/tiktok-skills",
-    "stars": 63,
-    "updated_at": "2026-10-07T01:45:55Z",
-    "url": "https://github.com/sergebulaev/tiktok-skills"
   }
 ]
