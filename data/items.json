@@ -1,12 +1,93 @@
 [
   {
-    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
-    "id": "andrian-syh/roblox-best-practices-skill",
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-10-07T06:43:39Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-10-07T06:42:30Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "A job-search agent for Claude Code. It searches job sources every day, filters postings against your rules (location, vi",
+    "id": "selfishprimate/seekter",
+    "language": "Python",
+    "name": "selfishprimate/seekter",
+    "stars": 53,
+    "updated_at": "2026-10-07T06:43:55Z",
+    "url": "https://github.com/selfishprimate/seekter"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-07T06:41:24Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
     "language": "JavaScript",
-    "name": "andrian-syh/roblox-best-practices-skill",
-    "stars": 9,
-    "updated_at": "2026-10-07T06:30:15Z",
-    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
+    "name": "tt-a1i/archify",
+    "stars": 78807,
+    "updated_at": "2026-10-07T06:36:07Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "Self-configuring, tool-agnostic Claude skills for strategists, planners and builders. Mother checks your skills, tools a",
+    "id": "alifarrag-sudo/claude-skills",
+    "language": "JavaScript",
+    "name": "alifarrag-sudo/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:35:44Z",
+    "url": "https://github.com/alifarrag-sudo/claude-skills"
+  },
+  {
+    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 89 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, paid media, social list",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 18,
+    "updated_at": "2026-10-07T06:35:21Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "AI with a harness. Agent skills, rules, CI and security gates for AI-assisted development.",
+    "id": "northraystudio/maruda",
+    "language": "Shell",
+    "name": "northraystudio/maruda",
+    "stars": 5,
+    "updated_at": "2026-10-07T06:43:11Z",
+    "url": "https://github.com/northraystudio/maruda"
+  },
+  {
+    "description": "ASD-STE100-style plans for AI coding agents: Claude Code, Codex or Cursor writes a short plan you can read and approve b",
+    "id": "AsherHou/asd-ste100-for-coding",
+    "language": "Python",
+    "name": "AsherHou/asd-ste100-for-coding",
+    "stars": 1,
+    "updated_at": "2026-10-07T06:33:54Z",
+    "url": "https://github.com/AsherHou/asd-ste100-for-coding"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 7,
+    "updated_at": "2026-10-07T06:41:52Z",
+    "url": "https://github.com/drnachio/postext"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -14,8 +95,17 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 120,
-    "updated_at": "2026-10-07T06:30:14Z",
+    "updated_at": "2026-10-07T06:31:24Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
+    "id": "andrian-syh/roblox-best-practices-skill",
+    "language": "JavaScript",
+    "name": "andrian-syh/roblox-best-practices-skill",
+    "stars": 9,
+    "updated_at": "2026-10-07T06:30:15Z",
+    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
   },
   {
     "description": "Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap",
@@ -45,15 +135,6 @@
     "url": "https://github.com/keelsonhq/skills"
   },
   {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 78799,
-    "updated_at": "2026-10-07T06:31:11Z",
-    "url": "https://github.com/tt-a1i/archify"
-  },
-  {
     "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor",
     "id": "fcakyon/claude-codex-settings",
     "language": "Python",
@@ -77,7 +158,7 @@
     "language": "JavaScript",
     "name": "danjdewhurst/story-skills",
     "stars": 275,
-    "updated_at": "2026-10-07T06:21:44Z",
+    "updated_at": "2026-10-07T06:44:17Z",
     "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/romankurnovskii/etemaro"
   },
   {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 7,
-    "updated_at": "2026-10-07T06:19:20Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
     "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
     "id": "heymegabyte/agent-skills",
     "language": "TypeScript",
@@ -106,15 +178,6 @@
     "stars": 23,
     "updated_at": "2026-10-07T06:11:46Z",
     "url": "https://github.com/heymegabyte/agent-skills"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-10-07T06:11:34Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
     "description": "",
@@ -247,7 +310,7 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2771,
+    "stars": 2772,
     "updated_at": "2026-10-07T05:49:23Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
@@ -259,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T05:48:56Z",
     "url": "https://github.com/AlehHaiko/UX-directives-skill"
-  },
-  {
-    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 89 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, paid media, social list",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 18,
-    "updated_at": "2026-10-07T05:48:29Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
   },
   {
     "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
@@ -394,59 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-07T05:17:48Z",
     "url": "https://github.com/ZephyrDeng/ego-jev"
-  },
-  {
-    "description": "Sniff your Markdown drafts against house rules with local regex checks and optional AI judgment calls.",
-    "id": "Spirounkempt95/snifftest",
-    "language": "TypeScript",
-    "name": "Spirounkempt95/snifftest",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:17:29Z",
-    "url": "https://github.com/Spirounkempt95/snifftest"
-  },
-  {
-    "description": "Build kinetic-typography and logo promos as code with Remotion, shipping MP4s in 9:16 and 16:9 from one React codebase.",
-    "id": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "language": "TypeScript",
-    "name": "Westleighinauspicious5506/agent-skill-remotion-motion-graphics",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:17:01Z",
-    "url": "https://github.com/Westleighinauspicious5506/agent-skill-remotion-motion-graphics"
-  },
-  {
-    "description": "Track developer roadmaps offline with progress tracking, spaced repetition, and career analytics\u2014no account or internet ",
-    "id": "Itzzni9454/skill-trail",
-    "language": "TypeScript",
-    "name": "Itzzni9454/skill-trail",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:17:00Z",
-    "url": "https://github.com/Itzzni9454/skill-trail"
-  },
-  {
-    "description": "AI agent skill repo",
-    "id": "srinivasa-vasu/agent-skills",
-    "language": "Python",
-    "name": "srinivasa-vasu/agent-skills",
-    "stars": 3,
-    "updated_at": "2026-10-07T05:16:53Z",
-    "url": "https://github.com/srinivasa-vasu/agent-skills"
-  },
-  {
-    "description": "Turn confusing questions into interactive mind maps with Claude, not answers.",
-    "id": "maravil5768/Wonder-Pill",
-    "language": "\u2014",
-    "name": "maravil5768/Wonder-Pill",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:15:58Z",
-    "url": "https://github.com/maravil5768/Wonder-Pill"
-  },
-  {
-    "description": "Insert 3D objects into Unity scenes via multi-view geometric alignment and generated Gaussian Splatting assets with accu",
-    "id": "sexya3624/InsertAny3D",
-    "language": "Python",
-    "name": "sexya3624/InsertAny3D",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:15:42Z",
-    "url": "https://github.com/sexya3624/InsertAny3D"
   }
 ]
