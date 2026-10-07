@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u97f3\u89c6\u9891 \u2192 \u8f6c\u5199\u6587\u7a3f / \u4f1a\u8bae\u7eaa\u8981 \u5168\u6d41\u7a0b\u5de5\u5177\u7bb1\uff1a\u4e00\u6761\u547d\u4ee4\u8dd1\u5b8c \u62c6\u8f68\u2192\u4eba\u58f0\u5206\u79bb\u2192\u8bf4\u8bdd\u4eba\u5206\u79bb\u8f6c\u5199\u2192\u89c4\u8303 docx\uff0c\u4f1a\u8bae\u7eaa\u8981\u7531 AI Agent \u6309\u6a21\u677f\u63d0\u70bc\uff1b\u5b8c\u5168\u79bb\u7ebf\u672c\u5730\u8fd0\u884c | AV to transcript & minutes: one-",
+    "id": "ADC1920/av-to-transcript-and-minutes",
+    "language": "Python",
+    "name": "ADC1920/av-to-transcript-and-minutes",
+    "stars": 0,
+    "updated_at": "2026-10-07T14:00:07Z",
+    "url": "https://github.com/ADC1920/av-to-transcript-and-minutes"
+  },
+  {
+    "description": "13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:59:33Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
+  },
+  {
+    "description": "macOS menu bar app to curate agent skills",
+    "id": "mmurakaru/skillbox",
+    "language": "Swift",
+    "name": "mmurakaru/skillbox",
+    "stars": 2,
+    "updated_at": "2026-10-07T13:58:35Z",
+    "url": "https://github.com/mmurakaru/skillbox"
+  },
+  {
+    "description": "Claude plugin for building Telegram bots and Mini Apps the right way: TypeScript & Python bots, Mini App auth, Stars pay",
+    "id": "daniilganiev/telegram-dev",
+    "language": "JavaScript",
+    "name": "daniilganiev/telegram-dev",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:57:59Z",
+    "url": "https://github.com/daniilganiev/telegram-dev"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-07T13:57:55Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
     "id": "victorrentea/human-review",
     "language": "Python",
@@ -18,12 +63,21 @@
     "url": "https://github.com/Joe-Simo/a0"
   },
   {
+    "description": "\u7f51\u7edc\u60c5\u62a5\u8d85\u7ea7\u6280\u80fd\uff08Agent Skill\uff09\uff1a\u5b9e\u65f6\u641c\u7d22 / \u7f51\u9875\u6293\u53d6 / \u89c6\u9891\u5b57\u5e55\u4e0e\u5185\u5bb9\u6d1e\u5bdf / \u6df1\u5ea6\u8c03\u7814\u3002\u542b AMD GPU \u8f6c\u5199\u52a0\u901f\u7684\u4e00\u624b\u5b9e\u6d4b\u7ed3\u8bba\u3002",
+    "id": "edisonzerolam/web-intel-skill",
+    "language": "Python",
+    "name": "edisonzerolam/web-intel-skill",
+    "stars": 0,
+    "updated_at": "2026-10-07T13:57:14Z",
+    "url": "https://github.com/edisonzerolam/web-intel-skill"
+  },
+  {
     "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
     "id": "gooseworks-ai/goose-skills",
     "language": "Python",
     "name": "gooseworks-ai/goose-skills",
     "stars": 1234,
-    "updated_at": "2026-10-07T13:56:10Z",
+    "updated_at": "2026-10-07T13:59:26Z",
     "url": "https://github.com/gooseworks-ai/goose-skills"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 1670,
     "updated_at": "2026-10-07T13:52:46Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "13 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, portfolio publish",
-    "id": "jin2004-cmd/codex-practical-skills",
-    "language": "Python",
-    "name": "jin2004-cmd/codex-practical-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:52:01Z",
-    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
   },
   {
     "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
@@ -121,7 +166,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 1955,
+    "stars": 1957,
     "updated_at": "2026-10-07T13:48:04Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T13:46:09Z",
     "url": "https://github.com/tektinator666/investigation-doc"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-07T13:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u8ba9 AI \u52a9\u624b\u6309\u897f\u5b89\u8d22\u7ecf\u5927\u5b66\u5b66\u5e74\u8bba\u6587 / \u8bfe\u7a0b\u671f\u672b\u5927\u4f5c\u4e1a\u6a21\u677f\u5199\u4f5c\u3001\u6392\u7248\u3001\u68c0\u67e5 Word \u6587\u6863\u7684 Agent Skill",
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T13:43:02Z",
     "url": "https://github.com/zhp8341/curated-agent-skills"
-  },
-  {
-    "description": "Claude plugin for building Telegram bots and Mini Apps the right way: TypeScript & Python bots, Mini App auth, Stars pay",
-    "id": "daniilganiev/telegram-dev",
-    "language": "JavaScript",
-    "name": "daniilganiev/telegram-dev",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:42:53Z",
-    "url": "https://github.com/daniilganiev/telegram-dev"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -307,12 +334,12 @@
   },
   {
     "description": "Agent skills that prove they work, plus a zero-dependency scanner that vets any skill before you install it.",
-    "id": "nadirali1350/vetted",
+    "id": "Xnadir/vetted",
     "language": "JavaScript",
-    "name": "nadirali1350/vetted",
+    "name": "Xnadir/vetted",
     "stars": 2,
     "updated_at": "2026-10-07T13:31:04Z",
-    "url": "https://github.com/nadirali1350/vetted"
+    "url": "https://github.com/Xnadir/vetted"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
@@ -328,7 +355,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 79020,
+    "stars": 79021,
     "updated_at": "2026-10-07T13:29:40Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T13:20:24Z",
     "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:19:47Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-10-07T13:19:47Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 24,
-    "updated_at": "2026-10-07T13:57:50Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
   }
 ]
