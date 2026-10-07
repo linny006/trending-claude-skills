@@ -1,5 +1,59 @@
 [
   {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19627,
+    "updated_at": "2026-10-07T00:35:11Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-10-07T00:32:55Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
+  },
+  {
+    "description": "AI-powered QA framework built from reusable skills that teach AI agents (Claude, Copilot, Codex, Gemini) to do quality w",
+    "id": "Marina-Gajego/qa-skills",
+    "language": "\u2014",
+    "name": "Marina-Gajego/qa-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T00:33:10Z",
+    "url": "https://github.com/Marina-Gajego/qa-skills"
+  },
+  {
+    "description": "One set of rules above every model. Fifteen skills for Claude Code, Codex and Grok Build that make your model plan first",
+    "id": "shear559/fabius",
+    "language": "JavaScript",
+    "name": "shear559/fabius",
+    "stars": 2,
+    "updated_at": "2026-10-07T00:31:29Z",
+    "url": "https://github.com/shear559/fabius"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 273,
+    "updated_at": "2026-10-07T00:34:14Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 115,
+    "updated_at": "2026-10-07T00:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude commands that speed up everyday dev workflows",
     "id": "nmoinvaz/speedy-gonzales",
     "language": "Python",
@@ -50,7 +104,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 5,
-    "updated_at": "2026-10-07T00:27:33Z",
+    "updated_at": "2026-10-07T00:31:41Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -167,7 +221,7 @@
     "language": "JavaScript",
     "name": "ZiadHassanein/codex-claude-council",
     "stars": 0,
-    "updated_at": "2026-10-07T00:20:51Z",
+    "updated_at": "2026-10-07T00:31:36Z",
     "url": "https://github.com/ZiadHassanein/codex-claude-council"
   },
   {
@@ -225,15 +279,6 @@
     "url": "https://github.com/AlehHaiko/UX-directives-skill"
   },
   {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 273,
-    "updated_at": "2026-10-07T00:25:04Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
     "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
     "id": "sa746062/web-perf-audit",
     "language": "Python",
@@ -252,15 +297,6 @@
     "url": "https://github.com/Free-Soul/MemDreamer"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 115,
-    "updated_at": "2026-10-07T00:15:31Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Two free Claude Code skills for one-person SaaS: a Monday metrics review (MRR, churn, quick ratio, CAC, runway) and rele",
     "id": "phosphorus104/founder-ops-skills-lite",
     "language": "\u2014",
@@ -274,7 +310,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 97166,
+    "stars": 97170,
     "updated_at": "2026-10-07T00:15:22Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T00:11:38Z",
     "url": "https://github.com/Raflimoon/learn-real-claude-code"
-  },
-  {
-    "description": "Store persistent AI agent memory in Markdown files with search, context injection, checkpoints, and compaction\u2014no databa",
-    "id": "Defiladeboarfish90/agent-memory",
-    "language": "TypeScript",
-    "name": "Defiladeboarfish90/agent-memory",
-    "stars": 2,
-    "updated_at": "2026-10-07T00:11:34Z",
-    "url": "https://github.com/Defiladeboarfish90/agent-memory"
-  },
-  {
-    "description": "Proxy Claude Code-style OAuth and Messages API with token management and streaming support built on Bun and Hono",
-    "id": "Nonpregnant-loss29/not-claude-code-emulator",
-    "language": "\u2014",
-    "name": "Nonpregnant-loss29/not-claude-code-emulator",
-    "stars": 0,
-    "updated_at": "2026-10-07T00:11:33Z",
-    "url": "https://github.com/Nonpregnant-loss29/not-claude-code-emulator"
-  },
-  {
-    "description": "Add self-learning voice notifications for Claude Code with edge-tts, phrase pools, priority queues, and anti-repeat hand",
-    "id": "Secondvisitation783/claude-voice-system",
-    "language": "\u2014",
-    "name": "Secondvisitation783/claude-voice-system",
-    "stars": 1,
-    "updated_at": "2026-10-07T00:11:31Z",
-    "url": "https://github.com/Secondvisitation783/claude-voice-system"
-  },
-  {
-    "description": "Reverse-engineer Claude Code sourcemaps to study its architecture, design choices, and reusable AI agent patterns",
-    "id": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "language": "\u2014",
-    "name": "gabbiesbv/claude-code-sourcemap-learning-notebook",
-    "stars": 1,
-    "updated_at": "2026-10-07T00:11:26Z",
-    "url": "https://github.com/gabbiesbv/claude-code-sourcemap-learning-notebook"
   }
 ]
