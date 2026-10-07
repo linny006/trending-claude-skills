@@ -1,12 +1,102 @@
 [
   {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 19,
+    "updated_at": "2026-10-07T19:27:00Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Three Claude Code skills: strip the AI look from code and web UI, and search Reddit when web search misses the threads.",
+    "id": "UribeLandscapes/claude-skills",
+    "language": "Python",
+    "name": "UribeLandscapes/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T19:23:16Z",
+    "url": "https://github.com/UribeLandscapes/claude-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69872,
+    "updated_at": "2026-10-07T19:22:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "S17 Motion Art: PV and motion-graphics films in code (Remotion). Creative directions, beat-cut shot lists and animatics;",
+    "id": "saikizhou-cyber/s17-motion-art",
+    "language": "Python",
+    "name": "saikizhou-cyber/s17-motion-art",
+    "stars": 0,
+    "updated_at": "2026-10-07T19:21:41Z",
+    "url": "https://github.com/saikizhou-cyber/s17-motion-art"
+  },
+  {
+    "description": "Developer experience toolkit for organizing AI coding assistant ecosystems \u2014 skills, documentation structure, and projec",
+    "id": "yacb2/aidex",
+    "language": "Shell",
+    "name": "yacb2/aidex",
+    "stars": 2,
+    "updated_at": "2026-10-07T19:21:19Z",
+    "url": "https://github.com/yacb2/aidex"
+  },
+  {
+    "description": "The agent skills I use most day to day: one focused playbook each, for Claude Code, Cursor, Copilot, Codex and more.",
+    "id": "jars-demo/jars-skills",
+    "language": "HTML",
+    "name": "jars-demo/jars-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T19:21:14Z",
+    "url": "https://github.com/jars-demo/jars-skills"
+  },
+  {
+    "description": "One set of rules above every model. Fifteen skills for Claude Code, Codex and Grok Build that make your model plan first",
+    "id": "shear559/fabius",
+    "language": "JavaScript",
+    "name": "shear559/fabius",
+    "stars": 2,
+    "updated_at": "2026-10-07T19:20:23Z",
+    "url": "https://github.com/shear559/fabius"
+  },
+  {
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
+    "id": "bjcoombs/ai-native-toolkit",
+    "language": "Python",
+    "name": "bjcoombs/ai-native-toolkit",
+    "stars": 32,
+    "updated_at": "2026-10-07T19:28:39Z",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "Composable agent skills and project-scoped environments for Nix. ",
+    "id": "0xc000022070/agentic-flake",
+    "language": "Nix",
+    "name": "0xc000022070/agentic-flake",
+    "stars": 1,
+    "updated_at": "2026-10-07T19:17:52Z",
+    "url": "https://github.com/0xc000022070/agentic-flake"
+  },
+  {
     "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing know",
     "id": "undefined-ui/second-brain-os",
     "language": "HTML",
     "name": "undefined-ui/second-brain-os",
     "stars": 1003,
-    "updated_at": "2026-10-07T19:14:31Z",
+    "updated_at": "2026-10-07T19:16:09Z",
     "url": "https://github.com/undefined-ui/second-brain-os"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-07T19:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Anyshift's Claude Code plugin marketplace. Catalog of public plugins (skills, MCP servers) maintained by Anyshift. Add w",
@@ -27,21 +117,12 @@
     "url": "https://github.com/anyshift-io/sre-skills"
   },
   {
-    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
-    "id": "bjcoombs/ai-native-toolkit",
-    "language": "Python",
-    "name": "bjcoombs/ai-native-toolkit",
-    "stars": 32,
-    "updated_at": "2026-10-07T19:14:10Z",
-    "url": "https://github.com/bjcoombs/ai-native-toolkit"
-  },
-  {
     "description": "Run AI coding agents unattended without letting them go loose: one implements, another reviews, a third tests, a guard b",
     "id": "Drix10/agent-flow",
     "language": "JavaScript",
     "name": "Drix10/agent-flow",
     "stars": 10,
-    "updated_at": "2026-10-07T19:10:38Z",
+    "updated_at": "2026-10-07T19:20:49Z",
     "url": "https://github.com/Drix10/agent-flow"
   },
   {
@@ -72,15 +153,6 @@
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
-    "description": "Three Claude Code skills: strip the AI look from code and web UI, and search Reddit when web search misses the threads.",
-    "id": "UribeLandscapes/claude-skills",
-    "language": "Python",
-    "name": "UribeLandscapes/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T19:08:10Z",
-    "url": "https://github.com/UribeLandscapes/claude-skills"
-  },
-  {
     "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
     "id": "danjdewhurst/story-skills",
     "language": "JavaScript",
@@ -90,15 +162,6 @@
     "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 18,
-    "updated_at": "2026-10-07T19:05:16Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
     "description": "Claude skill for B2B lead generation \u2014 search, filter & export newly registered US small to medium sized businesses via ",
     "id": "Tomsonx232/smb-sales-boost-skill",
     "language": "Python",
@@ -106,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-10-07T19:03:23Z",
     "url": "https://github.com/Tomsonx232/smb-sales-boost-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-07T19:00:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skill that applies The Blue Book of UX Directives: 550 numbered directives in 9 chapters. Audits designs, finds d",
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T18:52:47Z",
     "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "The agent skills I use most day to day: one focused playbook each, for Claude Code, Cursor, Copilot, Codex and more.",
-    "id": "jars-demo/jars-skills",
-    "language": "HTML",
-    "name": "jars-demo/jars-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:52:46Z",
-    "url": "https://github.com/jars-demo/jars-skills"
   },
   {
     "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-07T18:42:13Z",
     "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:42:03Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-10-07T18:41:56Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:41:42Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:41:35Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-10-07T18:41:34Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
   }
 ]
