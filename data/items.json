@@ -1,5 +1,68 @@
 [
   {
+    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
+    "id": "the-nam-shub/e5-real-skills",
+    "language": "TypeScript",
+    "name": "the-nam-shub/e5-real-skills",
+    "stars": 8,
+    "updated_at": "2026-10-07T20:00:05Z",
+    "url": "https://github.com/the-nam-shub/e5-real-skills"
+  },
+  {
+    "description": "Sprint planning for building software with AI agents: hex-ID sprints that never move, one file per sprint, legs sized to",
+    "id": "sooperD00/sprinter-kit",
+    "language": "Python",
+    "name": "sooperD00/sprinter-kit",
+    "stars": 0,
+    "updated_at": "2026-10-07T19:59:05Z",
+    "url": "https://github.com/sooperD00/sprinter-kit"
+  },
+  {
+    "description": "Coleoni's skills for Claude Code, Codex and other agents. npx skills add c0le0ni/skills",
+    "id": "c0le0ni/skills",
+    "language": "HTML",
+    "name": "c0le0ni/skills",
+    "stars": 1,
+    "updated_at": "2026-10-07T19:58:56Z",
+    "url": "https://github.com/c0le0ni/skills"
+  },
+  {
+    "description": "Agent skills that turn docs/ into an LLM-maintained wiki and task tracker. Obsidian-friendly. Works with Claude Code, Co",
+    "id": "mhmtsrfglu/superwiki",
+    "language": "JavaScript",
+    "name": "mhmtsrfglu/superwiki",
+    "stars": 6,
+    "updated_at": "2026-10-07T19:57:51Z",
+    "url": "https://github.com/mhmtsrfglu/superwiki"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 19,
+    "updated_at": "2026-10-07T19:53:06Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
+    "id": "bjcoombs/ai-native-toolkit",
+    "language": "Python",
+    "name": "bjcoombs/ai-native-toolkit",
+    "stars": 32,
+    "updated_at": "2026-10-07T19:53:16Z",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-07T19:52:28Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
     "id": "Joe-Simo/a0",
     "language": "TypeScript",
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69872,
-    "updated_at": "2026-10-07T19:50:09Z",
+    "updated_at": "2026-10-07T19:59:35Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -45,7 +108,7 @@
     "url": "https://github.com/NYTC69/review-loop"
   },
   {
-    "description": "Leave your coding agent alone with your repo. One agent builds, one reviews, one tests, and a guard blocks what they mus",
+    "description": "Leave your coding agent alone with your repo. Come back to a reviewed pull request, not a mess.",
     "id": "Drix10/agent-flow",
     "language": "JavaScript",
     "name": "Drix10/agent-flow",
@@ -61,15 +124,6 @@
     "stars": 150,
     "updated_at": "2026-10-07T19:46:49Z",
     "url": "https://github.com/oaustegard/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-07T19:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "14 skills de Claude en espa\u00f1ol para llevar Instagram y WhatsApp de un negocio en M\u00e9xico y Latinoam\u00e9rica: humanizador de ",
@@ -126,15 +180,6 @@
     "url": "https://github.com/GetBindu/awesome-claude-code-and-skills"
   },
   {
-    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
-    "id": "bjcoombs/ai-native-toolkit",
-    "language": "Python",
-    "name": "bjcoombs/ai-native-toolkit",
-    "stars": 32,
-    "updated_at": "2026-10-07T19:49:22Z",
-    "url": "https://github.com/bjcoombs/ai-native-toolkit"
-  },
-  {
     "description": "Tailored CVs and cover letters as print-ready PDFs, in Claude Code. Every number checked against your confirmed profile.",
     "id": "starburst1977/apply-kit",
     "language": "JavaScript",
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-07T19:35:34Z",
     "url": "https://github.com/tmalexbll-web/opti-model"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 19,
-    "updated_at": "2026-10-07T19:30:47Z",
-    "url": "https://github.com/victorrentea/human-review"
   },
   {
     "description": "Three Claude Code skills: strip the AI look from code and web UI, and search Reddit when web search misses the threads.",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "Klotzkette/claude-fuer-deutsches-recht",
     "stars": 1674,
-    "updated_at": "2026-10-07T19:49:29Z",
+    "updated_at": "2026-10-07T19:58:54Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-07T18:49:56Z",
     "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
-    "id": "serpro69/claude-toolbox",
-    "language": "Shell",
-    "name": "serpro69/claude-toolbox",
-    "stars": 151,
-    "updated_at": "2026-10-07T18:49:36Z",
-    "url": "https://github.com/serpro69/claude-toolbox"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 1,
-    "updated_at": "2026-10-07T18:48:59Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:48:57Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-10-07T18:47:06Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
   }
 ]
