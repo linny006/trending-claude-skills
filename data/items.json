@@ -1,12 +1,93 @@
 [
   {
+    "description": "Free kit for AI coding agent users: end sessions with a structured handoff (skill + context hygiene checklist + template",
+    "id": "alapha888/session-handoff-kit",
+    "language": "\u2014",
+    "name": "alapha888/session-handoff-kit",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:44:39Z",
+    "url": "https://github.com/alapha888/session-handoff-kit"
+  },
+  {
+    "description": "Free English productivity skills for AI coding agents: proofread docs, commit messages, meeting notes, code review, deep",
+    "id": "alapha888/agent-skills-en",
+    "language": "\u2014",
+    "name": "alapha888/agent-skills-en",
+    "stars": 1,
+    "updated_at": "2026-10-07T22:44:37Z",
+    "url": "https://github.com/alapha888/agent-skills-en"
+  },
+  {
+    "description": "AgentHog analytics for Claude Code \u2014 a plugin of agent skills that instrument your app, run A/B tests, and write live re",
+    "id": "AnniesAI/agenthog-claude",
+    "language": "\u2014",
+    "name": "AnniesAI/agenthog-claude",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:43:16Z",
+    "url": "https://github.com/AnniesAI/agenthog-claude"
+  },
+  {
+    "description": "Connect AI agents to Publish.fun, the AI-reviewed research journal: Claude Code plugin, agent skill, MCP configs, exampl",
+    "id": "publishfun/agent-kit",
+    "language": "Python",
+    "name": "publishfun/agent-kit",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:43:13Z",
+    "url": "https://github.com/publishfun/agent-kit"
+  },
+  {
     "description": "Agentic skills for Word (.docx), PowerPoint (.pptx), Excel (.xlsx), and reference verification. Features LaTeX math to W",
     "id": "AlpaZZ/office-agent-skills",
     "language": "Python",
     "name": "AlpaZZ/office-agent-skills",
     "stars": 1,
-    "updated_at": "2026-10-07T22:28:50Z",
+    "updated_at": "2026-10-07T22:42:57Z",
     "url": "https://github.com/AlpaZZ/office-agent-skills"
+  },
+  {
+    "description": "Claude Code schneidet deine Handy-Clips zu fertigen Reels f\u00fcr Instagram und TikTok. Kostenlos, mit einem Prompt eingeric",
+    "id": "TobiB1505/faber-cut",
+    "language": "TypeScript",
+    "name": "TobiB1505/faber-cut",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:42:05Z",
+    "url": "https://github.com/TobiB1505/faber-cut"
+  },
+  {
+    "description": "AdaL skill that turns verified experience into tailored, ATS-safe one-page CVs \u2014 evidence-first and fabrication-proof",
+    "id": "Mihai-Codes/cv-forge",
+    "language": "HTML",
+    "name": "Mihai-Codes/cv-forge",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:41:20Z",
+    "url": "https://github.com/Mihai-Codes/cv-forge"
+  },
+  {
+    "description": "A Claude Code skill that finds the engineering controls your repository does not have \u2014 CI that never runs on pull reque",
+    "id": "rlx/uplevel",
+    "language": "Shell",
+    "name": "rlx/uplevel",
+    "stars": 3,
+    "updated_at": "2026-10-07T22:39:58Z",
+    "url": "https://github.com/rlx/uplevel"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69875,
+    "updated_at": "2026-10-07T22:41:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agent skills: vid (narrated explainer, tutorial and marketing videos) and pstack",
+    "id": "chillerno1/kskills",
+    "language": "TypeScript",
+    "name": "chillerno1/kskills",
+    "stars": 2,
+    "updated_at": "2026-10-07T22:38:55Z",
+    "url": "https://github.com/chillerno1/kskills"
   },
   {
     "description": "Multi-tasking upgrade! Store durable knowledge in all your projects and connect them together. Let agents work using the",
@@ -14,8 +95,35 @@
     "language": "Go",
     "name": "nathanaday/almagest",
     "stars": 0,
-    "updated_at": "2026-10-07T22:29:47Z",
+    "updated_at": "2026-10-07T22:37:27Z",
     "url": "https://github.com/nathanaday/almagest"
+  },
+  {
+    "description": "Claude Code skills for shipping small Flutter apps: 4.3/2.3 rejection checks, Google Play releases, frame performance, p",
+    "id": "jameskrupnik/indie-app-skills",
+    "language": "Python",
+    "name": "jameskrupnik/indie-app-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:35:27Z",
+    "url": "https://github.com/jameskrupnik/indie-app-skills"
+  },
+  {
+    "description": "Human-in-the-loop deployment of Agentic-AI-Systems agents on AWS, Azure, GCP or Snowflake, with security review and regu",
+    "id": "somesh-ghaturle/agentic-boundary-terraform-skills",
+    "language": "Python",
+    "name": "somesh-ghaturle/agentic-boundary-terraform-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:35:27Z",
+    "url": "https://github.com/somesh-ghaturle/agentic-boundary-terraform-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-07T22:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -25,15 +133,6 @@
     "stars": 117,
     "updated_at": "2026-10-07T22:28:02Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Claude Code skills for shipping small Flutter apps: 4.3/2.3 rejection checks, Google Play releases, frame performance, p",
-    "id": "jameskrupnik/indie-app-skills",
-    "language": "Python",
-    "name": "jameskrupnik/indie-app-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T22:27:33Z",
-    "url": "https://github.com/jameskrupnik/indie-app-skills"
   },
   {
     "description": "Answers you can touch. A Claude Code skill that answers questions with small interactive pages instead of walls of text.",
@@ -90,6 +189,15 @@
     "url": "https://github.com/jamalofski/mailprobe-mcp"
   },
   {
+    "description": "Code review with proof: checks whether a change does what it claims, and reports only bugs it can reproduce or trace wit",
+    "id": "furkansarikaya/proof-review",
+    "language": "\u2014",
+    "name": "furkansarikaya/proof-review",
+    "stars": 0,
+    "updated_at": "2026-10-07T22:38:18Z",
+    "url": "https://github.com/furkansarikaya/proof-review"
+  },
+  {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
     "id": "viibhutisharma30/jetpack-compose-remediation-kit",
     "language": "HTML",
@@ -117,15 +225,6 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-07T22:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude skill that applies The Blue Book of UX Directives: 550 numbered directives in 9 chapters. Audits designs, finds d",
     "id": "AlehHaiko/UX-directives-skill",
     "language": "HTML",
@@ -133,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T22:15:04Z",
     "url": "https://github.com/AlehHaiko/UX-directives-skill"
-  },
-  {
-    "description": "Human-in-the-loop deployment of Agentic-AI-Systems agents on AWS, Azure, GCP or Snowflake, with security review and regu",
-    "id": "somesh-ghaturle/agentic-boundary-terraform-skills",
-    "language": "Python",
-    "name": "somesh-ghaturle/agentic-boundary-terraform-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T22:14:58Z",
-    "url": "https://github.com/somesh-ghaturle/agentic-boundary-terraform-skills"
   },
   {
     "description": "The 4R audit for ICM folder systems: Read, Run, Reality, Report. A Claude Code skill that proves your AI workspace works",
@@ -223,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T21:57:37Z",
     "url": "https://github.com/grundmanise/agentx"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69874,
-    "updated_at": "2026-10-07T21:57:28Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Official plugin marketplace for Bindry \u2014 compiles your Binders into Claude Code, Codex and Copilot skills, so instructio",
@@ -365,88 +446,7 @@
     "language": "Python",
     "name": "IvMisticos/misticos.Claude",
     "stars": 3,
-    "updated_at": "2026-10-07T22:24:24Z",
+    "updated_at": "2026-10-07T22:41:34Z",
     "url": "https://github.com/IvMisticos/misticos.Claude"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 19,
-    "updated_at": "2026-10-07T21:42:42Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "Nerviz \u2014 an agent harness for Spring Boot. Claude Code skills, agents and hooks that generate Spring Boot projects and k",
-    "id": "nerviz-ai/nerviz",
-    "language": "Java",
-    "name": "nerviz-ai/nerviz",
-    "stars": 3,
-    "updated_at": "2026-10-07T21:39:20Z",
-    "url": "https://github.com/nerviz-ai/nerviz"
-  },
-  {
-    "description": "Skills agron\u00f4micas para IA (Claude) \u2014 5\u00aa Aproxima\u00e7\u00e3o (CFSEMG/MG) e Boletim 100 (IAC/SP) \u00b7 comunidade agr\u00f4nomo10X powered",
-    "id": "guilherme-iaparaagronomos/skills-agro",
-    "language": "Python",
-    "name": "guilherme-iaparaagronomos/skills-agro",
-    "stars": 1,
-    "updated_at": "2026-10-07T21:37:59Z",
-    "url": "https://github.com/guilherme-iaparaagronomos/skills-agro"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-10-07T22:27:23Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Run several Claude Code sessions in parallel from any browser, phone included: live tmux terminals, per-session state fr",
-    "id": "ramiro-soler/claude-code-control-room",
-    "language": "Python",
-    "name": "ramiro-soler/claude-code-control-room",
-    "stars": 8,
-    "updated_at": "2026-10-07T21:31:16Z",
-    "url": "https://github.com/ramiro-soler/claude-code-control-room"
-  },
-  {
-    "description": "A rulebook for what an AI agent may do without asking a person, and a manual for writing up failures so two engineers de",
-    "id": "PKusch/remit",
-    "language": "Python",
-    "name": "PKusch/remit",
-    "stars": 0,
-    "updated_at": "2026-10-07T21:30:09Z",
-    "url": "https://github.com/PKusch/remit"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) for QuantumProxies.io: proxies, web scraping, search, Collectors and datasets for Claude, Codex,",
-    "id": "quantumproxies/quantumproxies-skills",
-    "language": "JavaScript",
-    "name": "quantumproxies/quantumproxies-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T21:29:08Z",
-    "url": "https://github.com/quantumproxies/quantumproxies-skills"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) for QuanticData: web scraping, search, Collectors, datasets and proxies for Claude, Codex, Curso",
-    "id": "quantumproxies/quanticdata-skills",
-    "language": "JavaScript",
-    "name": "quantumproxies/quanticdata-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T21:28:59Z",
-    "url": "https://github.com/quantumproxies/quanticdata-skills"
-  },
-  {
-    "description": "Use Aident Loadout to connect your AI Agents to 1,000+ real-world apps and tools like Gmail, Slack, Linear, Notion, Fire",
-    "id": "Aident-AI/aident-skill",
-    "language": "Shell",
-    "name": "Aident-AI/aident-skill",
-    "stars": 5,
-    "updated_at": "2026-10-07T21:28:42Z",
-    "url": "https://github.com/Aident-AI/aident-skill"
   }
 ]
