@@ -1,11 +1,101 @@
 [
   {
+    "description": "Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap",
+    "id": "n-shadloo/secure-code-auditor",
+    "language": "Python",
+    "name": "n-shadloo/secure-code-auditor",
+    "stars": 4,
+    "updated_at": "2026-10-07T06:28:59Z",
+    "url": "https://github.com/n-shadloo/secure-code-auditor"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69852,
+    "updated_at": "2026-10-07T06:27:26Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
+    "id": "andrian-syh/roblox-best-practices-skill",
+    "language": "JavaScript",
+    "name": "andrian-syh/roblox-best-practices-skill",
+    "stars": 9,
+    "updated_at": "2026-10-07T06:25:51Z",
+    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
+  },
+  {
+    "description": "Agent skill for deploying and operating web apps on Keelson (keelson.run) with the Keelson CLI.",
+    "id": "keelsonhq/skills",
+    "language": "\u2014",
+    "name": "keelsonhq/skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:24:51Z",
+    "url": "https://github.com/keelsonhq/skills"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 78799,
+    "updated_at": "2026-10-07T06:21:03Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor",
+    "id": "fcakyon/claude-codex-settings",
+    "language": "Python",
+    "name": "fcakyon/claude-codex-settings",
+    "stars": 1164,
+    "updated_at": "2026-10-07T06:18:49Z",
+    "url": "https://github.com/fcakyon/claude-codex-settings"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 54,
+    "updated_at": "2026-10-07T06:17:47Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 275,
+    "updated_at": "2026-10-07T06:21:44Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 120,
+    "updated_at": "2026-10-07T06:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Auto dlmm Meteora bot system",
+    "id": "romankurnovskii/etemaro",
+    "language": "TypeScript",
+    "name": "romankurnovskii/etemaro",
+    "stars": 50,
+    "updated_at": "2026-10-07T06:17:45Z",
+    "url": "https://github.com/romankurnovskii/etemaro"
+  },
+  {
     "description": "A programmable typesetter for the web",
     "id": "drnachio/postext",
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 7,
-    "updated_at": "2026-10-07T06:12:17Z",
+    "updated_at": "2026-10-07T06:19:20Z",
     "url": "https://github.com/drnachio/postext"
   },
   {
@@ -72,24 +162,6 @@
     "url": "https://github.com/Neetx/ai-research-radar"
   },
   {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 78793,
-    "updated_at": "2026-10-07T06:04:30Z",
-    "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "Auto dlmm Meteora bot system",
-    "id": "romankurnovskii/etemaro",
-    "language": "TypeScript",
-    "name": "romankurnovskii/etemaro",
-    "stars": 50,
-    "updated_at": "2026-10-07T06:15:11Z",
-    "url": "https://github.com/romankurnovskii/etemaro"
-  },
-  {
     "description": "Turn a mockup into a dev-ready handoff spec: tokens, component states, accessibility notes, open questions",
     "id": "humbleteam/design-handoff",
     "language": "\u2014",
@@ -126,15 +198,6 @@
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 120,
-    "updated_at": "2026-10-07T06:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude skill that interviews you (10 slots) before writing prompts. Built on a taxonomy of 58 prompting techniques from ",
     "id": "Apsion9231/writing-prompts",
     "language": "\u2014",
@@ -157,18 +220,9 @@
     "id": "getaero-io/gtm-eng-skills",
     "language": "TypeScript",
     "name": "getaero-io/gtm-eng-skills",
-    "stars": 64,
+    "stars": 65,
     "updated_at": "2026-10-07T05:56:24Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 275,
-    "updated_at": "2026-10-07T06:08:07Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
   },
   {
     "description": " AI Security Research Radar \u2014 AI for security and security for AI",
@@ -193,7 +247,7 @@
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2770,
+    "stars": 2771,
     "updated_at": "2026-10-07T05:49:23Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
@@ -324,15 +378,6 @@
     "url": "https://github.com/shumingyang-opencode/mattpocock-skills-zh-tw"
   },
   {
-    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
-    "id": "andrian-syh/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "andrian-syh/roblox-best-practices-skill",
-    "stars": 9,
-    "updated_at": "2026-10-07T05:18:53Z",
-    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
-  },
-  {
     "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
     "id": "paureis/pau-skills",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-07T05:15:42Z",
     "url": "https://github.com/sexya3624/InsertAny3D"
-  },
-  {
-    "description": "Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex",
-    "id": "Joshuadoroja33/Ronnier-skill",
-    "language": "PowerShell",
-    "name": "Joshuadoroja33/Ronnier-skill",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:15:20Z",
-    "url": "https://github.com/Joshuadoroja33/Ronnier-skill"
-  },
-  {
-    "description": "Build production-grade mobile apps faster with simulator-verified skills tested against top-grossing apps.",
-    "id": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "language": "\u2014",
-    "name": "pianoteachervandegraaffgenerator47/appllama-skills",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:14:02Z",
-    "url": "https://github.com/pianoteachervandegraaffgenerator47/appllama-skills"
-  },
-  {
-    "description": "Generate publish-ready TikTok and Douyin vertical videos from a single content brief, powered by AI agents.",
-    "id": "Trudiemisanthropic314/tiktok-video-skill",
-    "language": "Python",
-    "name": "Trudiemisanthropic314/tiktok-video-skill",
-    "stars": 1,
-    "updated_at": "2026-10-07T05:13:20Z",
-    "url": "https://github.com/Trudiemisanthropic314/tiktok-video-skill"
-  },
-  {
-    "description": "Curated modular agent skills for LLM-based assistants to extend AI capabilities and enable autonomous agents.",
-    "id": "graceupperclass437/agent-skills-collection",
-    "language": "Python",
-    "name": "graceupperclass437/agent-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:13:17Z",
-    "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-10-07T05:12:32Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
   }
 ]
