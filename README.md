@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-07 06:30 UTC
+> ⏰ Last updated: 2026-10-07 06:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [n-shadloo/secure-code-auditor](https://github.com/n-shadloo/secure-code-auditor) | 4 | Python | 2026-10-07 | Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap |
-| 2 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69852 | TypeScript | 2026-10-07 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 3 | [andrian-syh/roblox-best-practices-skill](https://github.com/andrian-syh/roblox-best-practices-skill) | 9 | JavaScript | 2026-10-07 | Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio  |
-| 4 | [keelsonhq/skills](https://github.com/keelsonhq/skills) | 0 | — | 2026-10-07 | Agent skill for deploying and operating web apps on Keelson (keelson.run) with the Keelson CLI. |
-| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 78799 | JavaScript | 2026-10-07 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
-| 6 | [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 1164 | Python | 2026-10-07 | Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor |
-| 7 | [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) | 54 | Python | 2026-10-07 | Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's |
-| 8 | [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) | 275 | JavaScript | 2026-10-07 | Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins. |
-| 9 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 120 | Python | 2026-10-07 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [andrian-syh/roblox-best-practices-skill](https://github.com/andrian-syh/roblox-best-practices-skill) | 9 | JavaScript | 2026-10-07 | Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio  |
+| 2 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 120 | Python | 2026-10-07 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 3 | [n-shadloo/secure-code-auditor](https://github.com/n-shadloo/secure-code-auditor) | 4 | Python | 2026-10-07 | Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap |
+| 4 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69852 | TypeScript | 2026-10-07 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 5 | [keelsonhq/skills](https://github.com/keelsonhq/skills) | 0 | — | 2026-10-07 | Agent skill for deploying and operating web apps on Keelson (keelson.run) with the Keelson CLI. |
+| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 78799 | JavaScript | 2026-10-07 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
+| 7 | [fcakyon/claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | 1164 | Python | 2026-10-07 | Battle-tested Claude Code, OpenAI Codex, Cursor configs, plugins, hooks and agents with Kimi, MiniMax and GLM API suppor |
+| 8 | [costiash/claude-code-docs](https://github.com/costiash/claude-code-docs) | 54 | Python | 2026-10-07 | Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's |
+| 9 | [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) | 275 | JavaScript | 2026-10-07 | Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins. |
 | 10 | [romankurnovskii/etemaro](https://github.com/romankurnovskii/etemaro) | 50 | TypeScript | 2026-10-07 | Auto dlmm Meteora bot system |
 | 11 | [drnachio/postext](https://github.com/drnachio/postext) | 7 | TypeScript | 2026-10-07 | A programmable typesetter for the web |
 | 12 | [heymegabyte/agent-skills](https://github.com/heymegabyte/agent-skills) | 23 | TypeScript | 2026-10-07 | Agent Skills — agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories · 28 agents · 1 |
