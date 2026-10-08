@@ -1,12 +1,102 @@
 [
   {
+    "description": "Agent skill for drafting and reviewing CVs from verified experience. Candidate-led wording, phrase-overlap review and lo",
+    "id": "Mihai-Codes/cv-witness",
+    "language": "HTML",
+    "name": "Mihai-Codes/cv-witness",
+    "stars": 1,
+    "updated_at": "2026-10-08T23:29:45Z",
+    "url": "https://github.com/Mihai-Codes/cv-witness"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-08T23:29:17Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1678,
+    "updated_at": "2026-10-08T23:25:43Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "A Claude plugin for running a job search: triage listings, tailor applications, handle recruiter outreach, and keep a pi",
+    "id": "backwardstruck/community-job-search-plugin",
+    "language": "Python",
+    "name": "backwardstruck/community-job-search-plugin",
+    "stars": 5,
+    "updated_at": "2026-10-08T23:24:01Z",
+    "url": "https://github.com/backwardstruck/community-job-search-plugin"
+  },
+  {
+    "description": "Engineering workflow skills for AI coding agents.",
+    "id": "snappedly/skills",
+    "language": "Python",
+    "name": "snappedly/skills",
+    "stars": 1,
+    "updated_at": "2026-10-08T23:23:55Z",
+    "url": "https://github.com/snappedly/skills"
+  },
+  {
+    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
+    "id": "haoming-luo/agentfem",
+    "language": "Python",
+    "name": "haoming-luo/agentfem",
+    "stars": 22,
+    "updated_at": "2026-10-08T23:21:46Z",
+    "url": "https://github.com/haoming-luo/agentfem"
+  },
+  {
+    "description": "Writing that sounds like you, not like an AI. An open Agent Skill and Claude plugin that learns your voice, writes and p",
+    "id": "nishjaiswal/natural-voice",
+    "language": "Python",
+    "name": "nishjaiswal/natural-voice",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:19:20Z",
+    "url": "https://github.com/nishjaiswal/natural-voice"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-10-08T23:16:44Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
     "description": "A rack of skills, configs, and extensions for agent friends",
     "id": "cwade12c/spicerack",
     "language": "Python",
     "name": "cwade12c/spicerack",
     "stars": 0,
-    "updated_at": "2026-10-08T23:14:13Z",
+    "updated_at": "2026-10-08T23:16:03Z",
     "url": "https://github.com/cwade12c/spicerack"
+  },
+  {
+    "description": "Sprint planning for building software with AI agents: hex-ID sprints that never move, one file per sprint, legs sized to",
+    "id": "sooperD00/sprinter-kit",
+    "language": "Python",
+    "name": "sooperD00/sprinter-kit",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:15:53Z",
+    "url": "https://github.com/sooperD00/sprinter-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T23:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skill that applies The Blue Book of UX Directives: 550 numbered directives in 9 chapters. Audits designs, finds d",
@@ -86,17 +176,8 @@
     "language": "Python",
     "name": "gooseworks-ai/goose-skills",
     "stars": 1239,
-    "updated_at": "2026-10-08T23:06:57Z",
+    "updated_at": "2026-10-08T23:19:42Z",
     "url": "https://github.com/gooseworks-ai/goose-skills"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-08T23:10:58Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Claude commands that speed up everyday dev workflows",
@@ -142,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T23:00:56Z",
     "url": "https://github.com/TokiDEV/team-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T23:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Audit, plan, and adapt SwiftUI and UIKit apps for iPhone Duo, foldables, hinges, and multi-display layouts.",
@@ -319,7 +391,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 79960,
+    "stars": 79967,
     "updated_at": "2026-10-08T22:51:16Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -376,77 +448,5 @@
     "stars": 19,
     "updated_at": "2026-10-08T22:48:48Z",
     "url": "https://github.com/av/skills"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:48:12Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:48:11Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:47:55Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-10-08T22:47:53Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:47:51Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:47:43Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-10-08T22:47:41Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-10-08T22:47:40Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
   }
 ]
