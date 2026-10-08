@@ -1,5 +1,59 @@
 [
   {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 19,
+    "updated_at": "2026-10-08T06:06:04Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framewo",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1546,
+    "updated_at": "2026-10-08T06:06:00Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "Claude Code skills for prod-local agent development: query real traces and logs from your local stack, plan before you b",
+    "id": "LunarCommand/claude-skills",
+    "language": "Shell",
+    "name": "LunarCommand/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-08T06:05:25Z",
+    "url": "https://github.com/LunarCommand/claude-skills"
+  },
+  {
+    "description": "The LLM wiki for humans. Journal and note-take in your own voice, ingest any source into the knowledge base, and get a c",
+    "id": "nathanaday/almagest",
+    "language": "Go",
+    "name": "nathanaday/almagest",
+    "stars": 0,
+    "updated_at": "2026-10-08T06:01:17Z",
+    "url": "https://github.com/nathanaday/almagest"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T06:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 90 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, paid media, social list",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 20,
+    "updated_at": "2026-10-08T06:00:14Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
     "description": "\ud83c\udfac Cinematic HTML+GSAP motion graphic video ads toolkit & agent skill for AI video creators",
     "id": "ahwanulm/marketing-demo-skills",
     "language": "HTML",
@@ -18,13 +72,13 @@
     "url": "https://github.com/nasqret/labyrinth-exploration"
   },
   {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
+    "description": "\u0421\u043a\u0438\u043b\u043b\u044b \u0441\u0442\u0443\u0434\u0438\u0438 AIVFX \u0434\u043b\u044f Claude Code \u0438 Codex: AI-\u0440\u043e\u043b\u0438\u043a\u0438, \u043c\u043e\u0443\u0448\u0435\u043d \u043d\u0430 HyperFrames, \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0441 \u0435\u0434\u0438\u043d\u044b\u043c \u043b\u0443\u043a\u043e\u043c, \u0441\u043e\u0446\u0441\u0435\u0442\u0438, \u0431\u043b\u043e\u0433, ",
+    "id": "shutckin/aivfx-content-kit",
     "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 19,
-    "updated_at": "2026-10-08T05:57:16Z",
-    "url": "https://github.com/victorrentea/human-review"
+    "name": "shutckin/aivfx-content-kit",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:58:37Z",
+    "url": "https://github.com/shutckin/aivfx-content-kit"
   },
   {
     "description": "A Claude Code skill that finds the engineering controls your repository does not have \u2014 CI that never runs on pull reque",
@@ -45,15 +99,6 @@
     "url": "https://github.com/longsizhuo/openInvest"
   },
   {
-    "description": "Claude Code skills for prod-local agent development: query real traces and logs from your local stack, plan before you b",
-    "id": "LunarCommand/claude-skills",
-    "language": "Shell",
-    "name": "LunarCommand/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-08T05:55:40Z",
-    "url": "https://github.com/LunarCommand/claude-skills"
-  },
-  {
     "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
     "id": "danjdewhurst/story-skills",
     "language": "JavaScript",
@@ -70,15 +115,6 @@
     "stars": 1674,
     "updated_at": "2026-10-08T05:55:26Z",
     "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framewo",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "JavaScript",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 1546,
-    "updated_at": "2026-10-08T05:54:20Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
   },
   {
     "description": "17 triggers \u00d7 44 algorithms \u00d7 3 AI experts \u2014 live crypto trading signals with reasoning for Claude Code, Codex, Cursor &",
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 1190,
-    "updated_at": "2026-10-08T05:54:12Z",
+    "updated_at": "2026-10-08T06:06:13Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -176,17 +212,8 @@
     "language": "TypeScript",
     "name": "imboard-ai/ai-dossier",
     "stars": 9,
-    "updated_at": "2026-10-08T05:57:32Z",
+    "updated_at": "2026-10-08T06:05:09Z",
     "url": "https://github.com/imboard-ai/ai-dossier"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T05:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -194,7 +221,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-08T05:58:46Z",
+    "updated_at": "2026-10-08T06:06:29Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-08T04:48:37Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:48:34Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:47:13Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:46:42Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
   }
 ]
