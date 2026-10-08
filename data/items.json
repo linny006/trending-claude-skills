@@ -1,5 +1,86 @@
 [
   {
+    "description": "SEO & GEO skills for Claude Code, built with Claude Mythos 5. Rank in Google AND in LLMs (ChatGPT, Perplexity, Gemini): ",
+    "id": "Thibaultbm/claude-seo-geo",
+    "language": "Python",
+    "name": "Thibaultbm/claude-seo-geo",
+    "stars": 16,
+    "updated_at": "2026-10-08T20:14:02Z",
+    "url": "https://github.com/Thibaultbm/claude-seo-geo"
+  },
+  {
+    "description": "Reusable Claude Code skills for Object Pascal work \u2014 dual-compiler Delphi/Lazarus projects",
+    "id": "fabianoallex/pascal-skills-faa",
+    "language": "Python",
+    "name": "fabianoallex/pascal-skills-faa",
+    "stars": 2,
+    "updated_at": "2026-10-08T20:12:17Z",
+    "url": "https://github.com/fabianoallex/pascal-skills-faa"
+  },
+  {
+    "description": "Statistical timeseries forecasting in DuckDB",
+    "id": "DataZooDE/anofox-forecast",
+    "language": "C++",
+    "name": "DataZooDE/anofox-forecast",
+    "stars": 39,
+    "updated_at": "2026-10-08T20:12:01Z",
+    "url": "https://github.com/DataZooDE/anofox-forecast"
+  },
+  {
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "id": "coreyhaines31/marketingskills",
+    "language": "JavaScript",
+    "name": "coreyhaines31/marketingskills",
+    "stars": 53738,
+    "updated_at": "2026-10-08T20:08:31Z",
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 79886,
+    "updated_at": "2026-10-08T20:08:16Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-08T20:07:35Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "Dazzler: frontend design skill for AI with expressive typography, vibrant color theory, and purposeful interfaces.",
+    "id": "jongos/Dazzler",
+    "language": "Python",
+    "name": "jongos/Dazzler",
+    "stars": 3,
+    "updated_at": "2026-10-08T20:14:55Z",
+    "url": "https://github.com/jongos/Dazzler"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 188,
+    "updated_at": "2026-10-08T20:06:27Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T20:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills, curated examples, and community models for SpiceGrinder",
     "id": "obsvra/spicegrinder-cookbook",
     "language": "Shell",
@@ -68,17 +149,8 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69897,
-    "updated_at": "2026-10-08T19:52:12Z",
+    "updated_at": "2026-10-08T20:00:47Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 79884,
-    "updated_at": "2026-10-08T19:50:09Z",
-    "url": "https://github.com/tt-a1i/archify"
   },
   {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
@@ -88,15 +160,6 @@
     "stars": 65,
     "updated_at": "2026-10-08T19:49:44Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "id": "coreyhaines31/marketingskills",
-    "language": "JavaScript",
-    "name": "coreyhaines31/marketingskills",
-    "stars": 53736,
-    "updated_at": "2026-10-08T19:59:53Z",
-    "url": "https://github.com/coreyhaines31/marketingskills"
   },
   {
     "description": "Foreigner's POV: a stage-aware designer-founder partner for Claude Code and Claude.ai. Reframes, researches, stress test",
@@ -113,17 +176,8 @@
     "language": "JavaScript",
     "name": "danjdewhurst/story-skills",
     "stars": 282,
-    "updated_at": "2026-10-08T19:59:40Z",
+    "updated_at": "2026-10-08T20:08:46Z",
     "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T19:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -157,7 +211,7 @@
     "id": "Mihai-Codes/cv-witness",
     "language": "HTML",
     "name": "Mihai-Codes/cv-witness",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-08T19:39:58Z",
     "url": "https://github.com/Mihai-Codes/cv-witness"
   },
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T19:39:51Z",
     "url": "https://github.com/pressroom-ai/goldbeater-skill"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 188,
-    "updated_at": "2026-10-08T19:37:04Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "Free Claude skills for everyday life admin: inbox, shopping, travel, scheduling",
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-08T19:55:26Z",
+    "updated_at": "2026-10-08T20:13:53Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -374,7 +419,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-08T19:39:44Z",
+    "updated_at": "2026-10-08T20:11:48Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-08T19:06:30Z",
     "url": "https://github.com/ham7a311/Vitrine"
-  },
-  {
-    "description": "An Agent Skill that builds an interview briefing book: one HTML page to prep for a specific interview call and keep open",
-    "id": "ThomasParas/interview-briefing-book",
-    "language": "HTML",
-    "name": "ThomasParas/interview-briefing-book",
-    "stars": 0,
-    "updated_at": "2026-10-08T19:06:26Z",
-    "url": "https://github.com/ThomasParas/interview-briefing-book"
-  },
-  {
-    "description": "Reusable workflows for planning, building, reviewing, and shipping with Claude Code and Codex.",
-    "id": "tobihagemann/turbo",
-    "language": "Python",
-    "name": "tobihagemann/turbo",
-    "stars": 409,
-    "updated_at": "2026-10-08T19:06:12Z",
-    "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "Claude Code skills marketplace for NASA PDS workflows - automated release notes, program status reports, and more",
-    "id": "NASA-PDS/pds-agent-skills",
-    "language": "JavaScript",
-    "name": "NASA-PDS/pds-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-08T19:10:35Z",
-    "url": "https://github.com/NASA-PDS/pds-agent-skills"
-  },
-  {
-    "description": "Claude skill for B2B lead generation \u2014 search, filter & export newly registered US small to medium sized businesses via ",
-    "id": "Tomsonx232/smb-sales-boost-skill",
-    "language": "Python",
-    "name": "Tomsonx232/smb-sales-boost-skill",
-    "stars": 4,
-    "updated_at": "2026-10-08T19:05:55Z",
-    "url": "https://github.com/Tomsonx232/smb-sales-boost-skill"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 32,
-    "updated_at": "2026-10-08T19:04:51Z",
-    "url": "https://github.com/travsteward/openwriter"
   }
 ]
