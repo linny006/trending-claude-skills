@@ -1,11 +1,209 @@
 [
   {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 15,
+    "updated_at": "2026-10-08T17:00:07Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "BoxLang AI skills repository and Claude Plugin",
+    "id": "ortus-boxlang/skills",
+    "language": "\u2014",
+    "name": "ortus-boxlang/skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:59:46Z",
+    "url": "https://github.com/ortus-boxlang/skills"
+  },
+  {
+    "description": "Community index of Claude skills for scientific work. Pinned, checked, one-line import.",
+    "id": "ai4science-skills/skills",
+    "language": "Python",
+    "name": "ai4science-skills/skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:59:32Z",
+    "url": "https://github.com/ai4science-skills/skills"
+  },
+  {
+    "description": "Free global SEO / GEO Skill for Codex and Claude Code \u2014 9 language markets in one workbench: Chinese, Russian (Yandex), ",
+    "id": "everyinfra/seo-skills",
+    "language": "Shell",
+    "name": "everyinfra/seo-skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:59:07Z",
+    "url": "https://github.com/everyinfra/seo-skills"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:59:00Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u53f0\u8bcd\u7cfb\u7edf\u811a\u624b\u67b6 \u2014\u2014 \u9002\u914d\u5e7f\u5ea6=\u7ef4\u5ea6\u8986\u76d6\u4e0d\u662f\u53f0\u8bcd\u6761\u6570\uff1b\u753b\u683c\u5b50 / \u8d28\u91cf\u95f8 / \u751f\u6210\u5f15\u64ce / \u8986\u76d6\u7387\u9a8c\u8bc1\u4e00\u6761 CLI \u8d70\u5b8c\uff0c\u542b\u53ef\u76f4\u63a5\u8dd1\u7684\u793a\u4f8b\u89d2\u8272",
+    "id": "feverZHONG/liya-dialogue-system-builder",
+    "language": "Python",
+    "name": "feverZHONG/liya-dialogue-system-builder",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:58:30Z",
+    "url": "https://github.com/feverZHONG/liya-dialogue-system-builder"
+  },
+  {
+    "description": "\u878d\u5408\u591a\u79cdPPT\u8bbe\u8ba1\u98ce\u683c\uff0c\u76f4\u63a5\u751f\u6210PPT\u6587\u4ef6\u800c\u4e0d\u662fHTML",
+    "id": "billLiao/PPT-Design-Skill",
+    "language": "Python",
+    "name": "billLiao/PPT-Design-Skill",
+    "stars": 6,
+    "updated_at": "2026-10-08T16:57:25Z",
+    "url": "https://github.com/billLiao/PPT-Design-Skill"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-10-08T16:56:42Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69893,
+    "updated_at": "2026-10-08T16:56:33Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agent skills for engineering and design",
+    "id": "ishuagrawal/skills",
+    "language": "JavaScript",
+    "name": "ishuagrawal/skills",
+    "stars": 1,
+    "updated_at": "2026-10-08T16:56:29Z",
+    "url": "https://github.com/ishuagrawal/skills"
+  },
+  {
+    "description": "AI \u4eba\u7269\u8bbe\u8ba1 skill\uff08Claude Code / Codex / claude.ai\uff09\uff1a\u628a\u300c\u8f7b\u4f7b\u7684\u7537\u6027\u300d\u300c\u4e00\u4e2a\u8001\u5e74\u4eba\u300d\u8fd9\u79cd\u6a21\u7cca\u611f\u89c9\u62c6\u6210\u8138\u3001\u53d1\u578b\u3001\u914d\u9970\u3001\u670d\u88c5\u3001\u4f53\u6001\u3001\u751f\u6d3b\u75d5\u8ff9\u3001\u5fae\u8868\u60c5\u3001\u8bf4\u8bdd\u65b9\u5f0f\uff0c\u5199\u6210\u751f\u56fe / \u751f\u89c6\u9891\u6a21\u578b\u80fd\u76f4\u63a5\u6267\u884c\u7684\u9501\u5b9a\u6bb5",
+    "id": "MatsuriMW/ai-character-design-skill",
+    "language": "Python",
+    "name": "MatsuriMW/ai-character-design-skill",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:55:48Z",
+    "url": "https://github.com/MatsuriMW/ai-character-design-skill"
+  },
+  {
+    "description": "The agent skills I use most day to day: one focused playbook each, for Claude Code, Cursor, Copilot, Codex and more.",
+    "id": "jars-demo/jars-skills",
+    "language": "HTML",
+    "name": "jars-demo/jars-skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:55:42Z",
+    "url": "https://github.com/jars-demo/jars-skills"
+  },
+  {
+    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 90 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, paid media, social list",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 20,
+    "updated_at": "2026-10-08T16:55:41Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 79776,
+    "updated_at": "2026-10-08T16:53:59Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on t",
+    "id": "openqodex/openqodex",
+    "language": "TypeScript",
+    "name": "openqodex/openqodex",
+    "stars": 396,
+    "updated_at": "2026-10-08T16:53:12Z",
+    "url": "https://github.com/openqodex/openqodex"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:51:17Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "A curated bundle of 38 Claude Skills for quantitative, qualitative, experimental & mixed-methods research in business, f",
+    "id": "Nero1688/claude-academic-skills",
+    "language": "Python",
+    "name": "Nero1688/claude-academic-skills",
+    "stars": 10,
+    "updated_at": "2026-10-08T16:50:51Z",
+    "url": "https://github.com/Nero1688/claude-academic-skills"
+  },
+  {
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
+    "id": "bjcoombs/ai-native-toolkit",
+    "language": "Python",
+    "name": "bjcoombs/ai-native-toolkit",
+    "stars": 32,
+    "updated_at": "2026-10-08T16:50:48Z",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-08T16:50:11Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Agent skills for Flutter and mobile app work. Works with Claude Code, Codex and Cursor.",
+    "id": "mikezamayias/agent-skills",
+    "language": "\u2014",
+    "name": "mikezamayias/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:49:22Z",
+    "url": "https://github.com/mikezamayias/agent-skills"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1676,
+    "updated_at": "2026-10-08T16:49:18Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "\u5e7b\u94f6\u91cf\u5316A\u80a1\u963f\u6cd5\u72d7AlphaHYQi\uff0c100%\u7531ai\u81ea\u4e3b\u9a71\u52a8\u7684\u5b9e\u76d8\u4ea4\u6613\u673a\u5668\u3002\u63a5\u5165\u81ea\u4ea7\u9f99\u867eiClaw\uff0c\u624b\u673a\u7aef\u4e00\u53e5\u8bdd\u63a7\u5236\u56db\u5927\u6a21\u578b\u540c\u65f6\u5e72\u6d3b\u3002\u83b7\u53d6\u65b9\u6cd5\uff1a\u524d\u5f80https://hyqibot.com/card-shop.html \u6350\u8d60\u76f8\u5e94\u671f\u9650\u7684\u670d\u52a1\u5361\u5373",
+    "id": "hyqibot/A-share-Ai",
+    "language": "\u2014",
+    "name": "hyqibot/A-share-Ai",
+    "stars": 130,
+    "updated_at": "2026-10-08T16:47:24Z",
+    "url": "https://github.com/hyqibot/A-share-Ai"
+  },
+  {
     "description": "\u8389\u5a05 \u00b7 \u89d2\u8272\u58f0\u7ebf\u63a8\u6f14 \u2014\u2014 \u58f0\u7ebf\u951a\u70b9\u8868\u53cc\u5411\u7528\uff1a\u5206\u961f\u63a8\u6f14\uff08\u9694\u79bb\u4e0a\u4e0b\u6587 \u2192 \u9010\u53e5\u6807\u4f9d\u636e\uff09\uff0b \u53cd\u67e5\u8ba4\u8bf4\u8bdd\u4eba",
     "id": "feverZHONG/liya-character-voice-simulation",
     "language": "Python",
     "name": "feverZHONG/liya-character-voice-simulation",
     "stars": 0,
-    "updated_at": "2026-10-08T16:44:56Z",
+    "updated_at": "2026-10-08T16:47:06Z",
     "url": "https://github.com/feverZHONG/liya-character-voice-simulation"
   },
   {
@@ -14,7 +212,7 @@
     "language": "Python",
     "name": "feverZHONG/liya-source-code-investigation",
     "stars": 0,
-    "updated_at": "2026-10-08T16:44:53Z",
+    "updated_at": "2026-10-08T16:47:04Z",
     "url": "https://github.com/feverZHONG/liya-source-code-investigation"
   },
   {
@@ -23,7 +221,7 @@
     "language": "\u2014",
     "name": "feverZHONG/liya-document-translation",
     "stars": 0,
-    "updated_at": "2026-10-08T16:44:51Z",
+    "updated_at": "2026-10-08T16:47:02Z",
     "url": "https://github.com/feverZHONG/liya-document-translation"
   },
   {
@@ -32,7 +230,7 @@
     "language": "\u2014",
     "name": "feverZHONG/liya-incident-review",
     "stars": 0,
-    "updated_at": "2026-10-08T16:44:49Z",
+    "updated_at": "2026-10-08T16:46:59Z",
     "url": "https://github.com/feverZHONG/liya-incident-review"
   },
   {
@@ -41,7 +239,7 @@
     "language": "Python",
     "name": "feverZHONG/liya-knowledge-persistence",
     "stars": 0,
-    "updated_at": "2026-10-08T16:44:46Z",
+    "updated_at": "2026-10-08T16:46:57Z",
     "url": "https://github.com/feverZHONG/liya-knowledge-persistence"
   },
   {
@@ -50,7 +248,7 @@
     "language": "Python",
     "name": "feverZHONG/liya-news-verification",
     "stars": 0,
-    "updated_at": "2026-10-08T16:44:44Z",
+    "updated_at": "2026-10-08T16:46:55Z",
     "url": "https://github.com/feverZHONG/liya-news-verification"
   },
   {
@@ -59,8 +257,170 @@
     "language": "\u2014",
     "name": "feverZHONG/liya-dev-workflow",
     "stars": 0,
-    "updated_at": "2026-10-08T16:44:39Z",
+    "updated_at": "2026-10-08T16:46:50Z",
     "url": "https://github.com/feverZHONG/liya-dev-workflow"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u5c0f\u8bf4\u5168\u7a3f\u4fee\u8ba2\u65b9\u6848\u5199\u4f5c\u2014\u2014\u8bc4\u4f30/\u7f3a\u53e3\u6e05\u5355/\u9010\u7ae0\u5927\u7eb2/\u4fe1\u606f\u878d\u5408/\u4f18\u5148\u7ea7\uff08\u7eaf\u6587\u6863\uff0c\u542b\u6807\u51c6\u6a21\u677f\uff09",
+    "id": "feverZHONG/liya-story-revision-plan",
+    "language": "\u2014",
+    "name": "feverZHONG/liya-story-revision-plan",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:48Z",
+    "url": "https://github.com/feverZHONG/liya-story-revision-plan"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u4ece\u672c\u5730\u8bed\u6599/\u4f1a\u8bdd\u5e93\u91cc\u6279\u91cf\u6316\u53ef\u590d\u7528\u539f\u53e5\u2014\u2014\u5019\u9009\u6c60\u7b5b\u9009 + \u4eba\u5ba1\u843d\u5e93\uff08\u7eaf\u6807\u51c6\u5e93 sqlite\uff0c\u96f6\u4f9d\u8d56\uff09",
+    "id": "feverZHONG/liya-corpus-line-mining",
+    "language": "\u2014",
+    "name": "feverZHONG/liya-corpus-line-mining",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:46Z",
+    "url": "https://github.com/feverZHONG/liya-corpus-line-mining"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u5b57\u5e55\u6821\u5bf9/\u91cd\u5efa/\u5916\u6302 SRT\u2014\u2014\u5bf9\u7167\u6210\u7a3f\u9010\u5904\u4fee\u6b63\u3001\u6309\u539f\u6587\u91cd\u5efa\u5206\u5757\u3001md \u8f6c SRT\u3001\u591a\u4eba\u8bed\u97f3 ASR \u5bfc\u51fa\u4ef6\u89e3\u6790\uff08\u7eaf\u6807\u51c6\u5e93\uff0c5 \u4e2a\u5de5\u5177\uff09",
+    "id": "feverZHONG/liya-subtitle-proofreading",
+    "language": "Python",
+    "name": "feverZHONG/liya-subtitle-proofreading",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:44Z",
+    "url": "https://github.com/feverZHONG/liya-subtitle-proofreading"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u5f31\u667a\u5427\u9898 \u00b7 \u9632\u5fa1\u624b\u518c\u2014\u2014\u4e2d\u6587\u4e92\u8054\u7f51\u72ec\u6709\u7684\u903b\u8f91\u9677\u9631\u9898 160 \u9053\u9010\u9898\u62c6\u89e3 + \u4e09\u8fde\u9632\u5fa1\u6cd5\uff08\u62c6\u524d\u63d0\u2192\u6307\u8c2c\u8bef\u2192\u53cd\u6740\uff09",
+    "id": "feverZHONG/liya-ruozhiba-wordbank",
+    "language": "\u2014",
+    "name": "feverZHONG/liya-ruozhiba-wordbank",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:41Z",
+    "url": "https://github.com/feverZHONG/liya-ruozhiba-wordbank"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u7a3f\u5b50\u8bfb\u8d77\u6765\u300c\u5e73\u300d\u600e\u4e48\u529e\u2014\u2014\u5148\u91cf\u518d\u6539\uff1a\u5bf9\u8bdd\u5360\u6bd4\u00b7\u53e5\u957f\u03c3\u00b7\u53f0\u8bcd\u5bbd\u5ea6\u00b7\u6807\u70b9\u8c31\u00b7\u6bb5\u5747\u53e5\uff0c\u4e5d\u79cd\u5e73\u7684\u4fee\u6cd5\u4e0e\u52a0\u539a\u89c4\u77e9\uff08\u542b\u91cf\u5c3a/\u5ba1\u8ba1/\u8de8\u7bc7\u67e5\u91cd 7 \u4e2a\u5de5\u5177\uff09\u3002",
+    "id": "feverZHONG/liya-prose-quality-metrics",
+    "language": "Python",
+    "name": "feverZHONG/liya-prose-quality-metrics",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:39Z",
+    "url": "https://github.com/feverZHONG/liya-prose-quality-metrics"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u9152\u9986\uff08SillyTavern\uff09\u89d2\u8272\u5361\u7cbe\u4fee\uff1a7 \u5b57\u6bb5\u6e05\u5355\u3001\u69fd\u4f4d\u5f52\u4f4d\u30016 \u7c7b\u65ad\u8a00\u6821\u9a8c\u3001\u53ef\u7528\u6027\u9a8c\u6536\u3001\u5d4c PNG \u53d1\u5e03\u3002",
+    "id": "feverZHONG/liya-tavern-card-refinement",
+    "language": "Python",
+    "name": "feverZHONG/liya-tavern-card-refinement",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:36Z",
+    "url": "https://github.com/feverZHONG/liya-tavern-card-refinement"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u59d4\u6d3e\u4e0e\u9a8c\u6536\uff1a\u7ed9\u5b50\u4ee3\u7406\u5199\u4efb\u52a1\u4e66\u3001\u5e76\u884c\u9694\u79bb\u3001\u628a\u300c\u81ea\u62a5\u300d\u9a8c\u6210\u4e8b\u5b9e\u3002",
+    "id": "feverZHONG/liya-delegation-and-verification",
+    "language": "Python",
+    "name": "feverZHONG/liya-delegation-and-verification",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:33Z",
+    "url": "https://github.com/feverZHONG/liya-delegation-and-verification"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u6d77\u9f9f\u6c64\u63a8\u7406\u624b\u518c + \u6863\u6848\u6d41\u6c34\u7ebf \u2014\u2014 \u63a8\u7406\u65b9\u6cd5\u8bba\u3001\u63d0\u95ee\u7eaa\u5f8b\uff0c\u4ee5\u53ca turtle CLI\uff08\u5efa\u6863 / \u7ebf\u7d22 / \u5173\u5361\u5f52\u6863 / \u63d0\u4ea4\u5e76\u6570\u5b66\u53cd\u63a8 / \u590d\u76d8 + \u7d22\u5f15\u91cd\u5efa\uff09\u3002",
+    "id": "feverZHONG/liya-sea-turtle-soup",
+    "language": "Python",
+    "name": "feverZHONG/liya-sea-turtle-soup",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:27Z",
+    "url": "https://github.com/feverZHONG/liya-sea-turtle-soup"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u8c01\u662f\u5367\u5e95 \u00b7 \u76f4\u64ad\u95f4\u88c1\u5224\u5de5\u5177\u5305 \u2014\u2014 \u9ed1\u677f\u89c4\u5219 / \u51fa\u9898\u65b9\u6cd5\u8bba / \u8bcd\u5e93\u9a8c\u8bc1 / \u7075\u611f\u6765\u6e90 / \u7ffb\u8f66\u5206\u6790 + \u8eab\u4efd\u5206\u914d\u5668 CLI\u3002\u4e2d\u6587\u3002",
+    "id": "feverZHONG/liya-spy-game",
+    "language": "Python",
+    "name": "feverZHONG/liya-spy-game",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:25Z",
+    "url": "https://github.com/feverZHONG/liya-spy-game"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u7fa4\u804a\u5c0f\u6e38\u620f\u88c1\u5224\u5408\u96c6 \u2014\u2014 \u626b\u96f7 / \u4e94\u5b50\u68cb / \u5927\u8bdd\u9ab0 / \u9a97\u5b50\u724c / \u63b7\u9ab0\u51b3\u6597\uff1a\u72b6\u6001\u843d\u76d8\u8de8\u4f1a\u8bdd\u7eed\u5c40\u3001\u516c\u5e73\u53ef\u81ea\u8bc1\u3001\u5b57\u7b26\u76d8\u9762 + \u51fa\u56fe\uff0c\u4e00\u6761 game \u5165\u53e3 + \u516d\u4efd\u81ea\u6d4b\u3002",
+    "id": "feverZHONG/liya-chat-game-referee",
+    "language": "Python",
+    "name": "feverZHONG/liya-chat-game-referee",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:23Z",
+    "url": "https://github.com/feverZHONG/liya-chat-game-referee"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u89c6\u89c9\u6a21\u578b\u8bc6\u56fe\u9677\u9631\u624b\u518c \u2014\u2014 22 \u6761\u5b9e\u6d4b\u9677\u9631\u4e0e\u5bf9\u7b56\uff0c\u9002\u7528\u4e8e\u4efb\u4f55\u89c6\u89c9\u6a21\u578b\uff08\u9644\u771f OCR \u901a\u9053\u3001AI \u751f\u56fe\u7269\u7406\u4f53\u68c0\u3001\u4e24\u56fe\u5dee\u5206\uff09\u3002",
+    "id": "feverZHONG/liya-vision-recognition-traps",
+    "language": "Python",
+    "name": "feverZHONG/liya-vision-recognition-traps",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:19Z",
+    "url": "https://github.com/feverZHONG/liya-vision-recognition-traps"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 SillyTavern \u4e16\u754c\u4e66\uff08Lorebook\uff09\u673a\u5236\u2014\u2014\u89e6\u53d1\u94fe\u6e90\u7801\u5b9e\u8bc1 + \u72ec\u7acb\u4e16\u754c\u4e66\u5de5\u5177\u94fe\uff08\u4f53\u68c0 / \u89e6\u53d1\u6a21\u62df / \u751f\u6210 / \u81ea\u6d4b\uff09",
+    "id": "feverZHONG/liya-sillytavern-worldbook",
+    "language": "Python",
+    "name": "feverZHONG/liya-sillytavern-worldbook",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:17Z",
+    "url": "https://github.com/feverZHONG/liya-sillytavern-worldbook"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u9152\u9986\u5199\u5361\u65b9\u6cd5 \u2014\u2014 \u628a\u89d2\u8272\u8d44\u6599\u5199\u6210 SillyTavern \u89d2\u8272\u5361\uff08V2 \u683c\u5f0f / PList+Ali:Chat \u5199\u6cd5 / \u673a\u5236\u6e05\u5355 / \u4e09\u4e2a Python \u5de5\u5177 / \u4ece\u8d44\u6599\u5230\u6210\u54c1\u5361\u7684\u5b8c\u6574\u5b9e\u4f8b\uff09\u3002\u4e2d\u6587\u3002",
+    "id": "feverZHONG/liya-sillytavern-cards",
+    "language": "Python",
+    "name": "feverZHONG/liya-sillytavern-cards",
+    "stars": 1,
+    "updated_at": "2026-10-08T16:46:14Z",
+    "url": "https://github.com/feverZHONG/liya-sillytavern-cards"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u4eba\u683c\u6587\u4ef6\u65b9\u6cd5\u8bba \u2014\u2014 \u7ed9 AI agent \u5199\u8eab\u4efd\u6587\u4ef6\uff08SOUL.md \u7c7b\uff09\uff1a\u521b\u4f5c\u6d41\u7a0b / \u780d\u88c5\u9970\u7559\u884c\u4e3a / \u8eab\u4efd\u6587\u4ef6\u51cf\u6cd5\uff08de-bloat\uff09/ \u6f02\u79fb\u5bf9\u7167\u3002\u9644\u539f\u521b\u89d2\u8272\u8bbe\u5b9a\u5199\u4f5c\u6a21\u677f v1.2\u3002",
+    "id": "feverZHONG/liya-persona-authoring",
+    "language": "\u2014",
+    "name": "feverZHONG/liya-persona-authoring",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:12Z",
+    "url": "https://github.com/feverZHONG/liya-persona-authoring"
+  },
+  {
+    "description": "\u8389\u5a05 \u00b7 \u51cf\u6cd5 skill \u2014\u2014 \u6280\u80fd\u5e93\u7cbe\u7b80\u4e0e\u7ef4\u62a4\u7684\u65b9\u6cd5\u8bba\uff08\u5197\u4f59\u68c0\u6d4b \u00b7 \u62c6\u8584 \u00b7 \u5408\u5e76 \u00b7 \u5f52\u6863\u5224\u65ad\uff09\uff0c\u9002\u7528\u4e8e\u4efb\u4f55 SKILL.md \u4f53\u7cfb\u7684 agent\u3002\u4e2d\u6587\u3002",
+    "id": "feverZHONG/liya-subtraction-skill",
+    "language": "Python",
+    "name": "feverZHONG/liya-subtraction-skill",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:46:09Z",
+    "url": "https://github.com/feverZHONG/liya-subtraction-skill"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-10-08T16:45:48Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T16:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows",
+    "id": "michael-denyer/pstack-claude",
+    "language": "JavaScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 1636,
+    "updated_at": "2026-10-08T16:44:52Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
   },
   {
     "description": "MARYLAND SBDC CONSULTANT TOOLKIT",
@@ -70,96 +430,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T16:44:38Z",
     "url": "https://github.com/bwfnx/sbdc-toolkit"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u5c0f\u8bf4\u5168\u7a3f\u4fee\u8ba2\u65b9\u6848\u5199\u4f5c\u2014\u2014\u8bc4\u4f30/\u7f3a\u53e3\u6e05\u5355/\u9010\u7ae0\u5927\u7eb2/\u4fe1\u606f\u878d\u5408/\u4f18\u5148\u7ea7\uff08\u7eaf\u6587\u6863\uff0c\u542b\u6807\u51c6\u6a21\u677f\uff09",
-    "id": "feverZHONG/liya-story-revision-plan",
-    "language": "\u2014",
-    "name": "feverZHONG/liya-story-revision-plan",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:37Z",
-    "url": "https://github.com/feverZHONG/liya-story-revision-plan"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u4ece\u672c\u5730\u8bed\u6599/\u4f1a\u8bdd\u5e93\u91cc\u6279\u91cf\u6316\u53ef\u590d\u7528\u539f\u53e5\u2014\u2014\u5019\u9009\u6c60\u7b5b\u9009 + \u4eba\u5ba1\u843d\u5e93\uff08\u7eaf\u6807\u51c6\u5e93 sqlite\uff0c\u96f6\u4f9d\u8d56\uff09",
-    "id": "feverZHONG/liya-corpus-line-mining",
-    "language": "\u2014",
-    "name": "feverZHONG/liya-corpus-line-mining",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:33Z",
-    "url": "https://github.com/feverZHONG/liya-corpus-line-mining"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u5b57\u5e55\u6821\u5bf9/\u91cd\u5efa/\u5916\u6302 SRT\u2014\u2014\u5bf9\u7167\u6210\u7a3f\u9010\u5904\u4fee\u6b63\u3001\u6309\u539f\u6587\u91cd\u5efa\u5206\u5757\u3001md \u8f6c SRT\u3001\u591a\u4eba\u8bed\u97f3 ASR \u5bfc\u51fa\u4ef6\u89e3\u6790\uff08\u7eaf\u6807\u51c6\u5e93\uff0c5 \u4e2a\u5de5\u5177\uff09",
-    "id": "feverZHONG/liya-subtitle-proofreading",
-    "language": "Python",
-    "name": "feverZHONG/liya-subtitle-proofreading",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:30Z",
-    "url": "https://github.com/feverZHONG/liya-subtitle-proofreading"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u5f31\u667a\u5427\u9898 \u00b7 \u9632\u5fa1\u624b\u518c\u2014\u2014\u4e2d\u6587\u4e92\u8054\u7f51\u72ec\u6709\u7684\u903b\u8f91\u9677\u9631\u9898 160 \u9053\u9010\u9898\u62c6\u89e3 + \u4e09\u8fde\u9632\u5fa1\u6cd5\uff08\u62c6\u524d\u63d0\u2192\u6307\u8c2c\u8bef\u2192\u53cd\u6740\uff09",
-    "id": "feverZHONG/liya-ruozhiba-wordbank",
-    "language": "\u2014",
-    "name": "feverZHONG/liya-ruozhiba-wordbank",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:28Z",
-    "url": "https://github.com/feverZHONG/liya-ruozhiba-wordbank"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u7a3f\u5b50\u8bfb\u8d77\u6765\u300c\u5e73\u300d\u600e\u4e48\u529e\u2014\u2014\u5148\u91cf\u518d\u6539\uff1a\u5bf9\u8bdd\u5360\u6bd4\u00b7\u53e5\u957f\u03c3\u00b7\u53f0\u8bcd\u5bbd\u5ea6\u00b7\u6807\u70b9\u8c31\u00b7\u6bb5\u5747\u53e5\uff0c\u4e5d\u79cd\u5e73\u7684\u4fee\u6cd5\u4e0e\u52a0\u539a\u89c4\u77e9\uff08\u542b\u91cf\u5c3a/\u5ba1\u8ba1/\u8de8\u7bc7\u67e5\u91cd 7 \u4e2a\u5de5\u5177\uff09\u3002",
-    "id": "feverZHONG/liya-prose-quality-metrics",
-    "language": "Python",
-    "name": "feverZHONG/liya-prose-quality-metrics",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:25Z",
-    "url": "https://github.com/feverZHONG/liya-prose-quality-metrics"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u9152\u9986\uff08SillyTavern\uff09\u89d2\u8272\u5361\u7cbe\u4fee\uff1a7 \u5b57\u6bb5\u6e05\u5355\u3001\u69fd\u4f4d\u5f52\u4f4d\u30016 \u7c7b\u65ad\u8a00\u6821\u9a8c\u3001\u53ef\u7528\u6027\u9a8c\u6536\u3001\u5d4c PNG \u53d1\u5e03\u3002",
-    "id": "feverZHONG/liya-tavern-card-refinement",
-    "language": "Python",
-    "name": "feverZHONG/liya-tavern-card-refinement",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:23Z",
-    "url": "https://github.com/feverZHONG/liya-tavern-card-refinement"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u59d4\u6d3e\u4e0e\u9a8c\u6536\uff1a\u7ed9\u5b50\u4ee3\u7406\u5199\u4efb\u52a1\u4e66\u3001\u5e76\u884c\u9694\u79bb\u3001\u628a\u300c\u81ea\u62a5\u300d\u9a8c\u6210\u4e8b\u5b9e\u3002",
-    "id": "feverZHONG/liya-delegation-and-verification",
-    "language": "Python",
-    "name": "feverZHONG/liya-delegation-and-verification",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:21Z",
-    "url": "https://github.com/feverZHONG/liya-delegation-and-verification"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u6d77\u9f9f\u6c64\u63a8\u7406\u624b\u518c + \u6863\u6848\u6d41\u6c34\u7ebf \u2014\u2014 \u63a8\u7406\u65b9\u6cd5\u8bba\u3001\u63d0\u95ee\u7eaa\u5f8b\uff0c\u4ee5\u53ca turtle CLI\uff08\u5efa\u6863 / \u7ebf\u7d22 / \u5173\u5361\u5f52\u6863 / \u63d0\u4ea4\u5e76\u6570\u5b66\u53cd\u63a8 / \u590d\u76d8 + \u7d22\u5f15\u91cd\u5efa\uff09\u3002",
-    "id": "feverZHONG/liya-sea-turtle-soup",
-    "language": "Python",
-    "name": "feverZHONG/liya-sea-turtle-soup",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:13Z",
-    "url": "https://github.com/feverZHONG/liya-sea-turtle-soup"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u8c01\u662f\u5367\u5e95 \u00b7 \u76f4\u64ad\u95f4\u88c1\u5224\u5de5\u5177\u5305 \u2014\u2014 \u9ed1\u677f\u89c4\u5219 / \u51fa\u9898\u65b9\u6cd5\u8bba / \u8bcd\u5e93\u9a8c\u8bc1 / \u7075\u611f\u6765\u6e90 / \u7ffb\u8f66\u5206\u6790 + \u8eab\u4efd\u5206\u914d\u5668 CLI\u3002\u4e2d\u6587\u3002",
-    "id": "feverZHONG/liya-spy-game",
-    "language": "Python",
-    "name": "feverZHONG/liya-spy-game",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:11Z",
-    "url": "https://github.com/feverZHONG/liya-spy-game"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u7fa4\u804a\u5c0f\u6e38\u620f\u88c1\u5224\u5408\u96c6 \u2014\u2014 \u626b\u96f7 / \u4e94\u5b50\u68cb / \u5927\u8bdd\u9ab0 / \u9a97\u5b50\u724c / \u63b7\u9ab0\u51b3\u6597\uff1a\u72b6\u6001\u843d\u76d8\u8de8\u4f1a\u8bdd\u7eed\u5c40\u3001\u516c\u5e73\u53ef\u81ea\u8bc1\u3001\u5b57\u7b26\u76d8\u9762 + \u51fa\u56fe\uff0c\u4e00\u6761 game \u5165\u53e3 + \u516d\u4efd\u81ea\u6d4b\u3002",
-    "id": "feverZHONG/liya-chat-game-referee",
-    "language": "Python",
-    "name": "feverZHONG/liya-chat-game-referee",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:09Z",
-    "url": "https://github.com/feverZHONG/liya-chat-game-referee"
   },
   {
     "description": "Claude Code as a second brain: 100 battle-tested skills, a working CRM engine, vault templates and the handover map. Met",
@@ -178,275 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T16:43:17Z",
     "url": "https://github.com/TranBaDat2607/claude-code-kaggle-grandmaster"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Gamify your career progression with SkillForge, an RPG system that turns your professional journey into an epic adven",
-    "id": "kriid08/SkillForge",
-    "language": "JavaScript",
-    "name": "kriid08/SkillForge",
-    "stars": 1,
-    "updated_at": "2026-10-08T16:43:00Z",
-    "url": "https://github.com/kriid08/SkillForge"
-  },
-  {
-    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
-    "id": "bjcoombs/ai-native-toolkit",
-    "language": "Python",
-    "name": "bjcoombs/ai-native-toolkit",
-    "stars": 32,
-    "updated_at": "2026-10-08T16:42:49Z",
-    "url": "https://github.com/bjcoombs/ai-native-toolkit"
-  },
-  {
-    "description": "Claude Code skills for unattended work: hand a session off (next-prompt), take a feature through the night as one PR (ni",
-    "id": "amit-mizrachi/claude-amit-mizrachi",
-    "language": "Shell",
-    "name": "amit-mizrachi/claude-amit-mizrachi",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:44:38Z",
-    "url": "https://github.com/amit-mizrachi/claude-amit-mizrachi"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-08T16:42:02Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
-    "id": "hoangsonww/Claude-Code-Agent-Monitor",
-    "language": "TypeScript",
-    "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 1052,
-    "updated_at": "2026-10-08T16:41:48Z",
-    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u89c6\u89c9\u6a21\u578b\u8bc6\u56fe\u9677\u9631\u624b\u518c \u2014\u2014 22 \u6761\u5b9e\u6d4b\u9677\u9631\u4e0e\u5bf9\u7b56\uff0c\u9002\u7528\u4e8e\u4efb\u4f55\u89c6\u89c9\u6a21\u578b\uff08\u9644\u771f OCR \u901a\u9053\u3001AI \u751f\u56fe\u7269\u7406\u4f53\u68c0\u3001\u4e24\u56fe\u5dee\u5206\uff09\u3002",
-    "id": "feverZHONG/liya-vision-recognition-traps",
-    "language": "Python",
-    "name": "feverZHONG/liya-vision-recognition-traps",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:41:43Z",
-    "url": "https://github.com/feverZHONG/liya-vision-recognition-traps"
-  },
-  {
-    "description": "Your LLM reviewer said APPROVE. Did it? A structured verdict contract: prompt rule + parser + exit-code gate in one stdl",
-    "id": "tonydzi/verdict-contract",
-    "language": "Python",
-    "name": "tonydzi/verdict-contract",
-    "stars": 3,
-    "updated_at": "2026-10-08T16:41:01Z",
-    "url": "https://github.com/tonydzi/verdict-contract"
-  },
-  {
-    "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 90 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, paid media, social list",
-    "id": "shalintripathi/saas-marketing-agents",
-    "language": "Markdown",
-    "name": "shalintripathi/saas-marketing-agents",
-    "stars": 20,
-    "updated_at": "2026-10-08T16:40:50Z",
-    "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "Pre-registered A/B/C benchmark: Superpowers vs OpenSpec vs baseline, on real brownfield ops code. Methodology frozen bef",
-    "id": "tonydzi/harness-abc-bench",
-    "language": "\u2014",
-    "name": "tonydzi/harness-abc-bench",
-    "stars": 3,
-    "updated_at": "2026-10-08T16:40:38Z",
-    "url": "https://github.com/tonydzi/harness-abc-bench"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 188,
-    "updated_at": "2026-10-08T16:40:45Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 SillyTavern \u4e16\u754c\u4e66\uff08Lorebook\uff09\u673a\u5236\u2014\u2014\u89e6\u53d1\u94fe\u6e90\u7801\u5b9e\u8bc1 + \u72ec\u7acb\u4e16\u754c\u4e66\u5de5\u5177\u94fe\uff08\u4f53\u68c0 / \u89e6\u53d1\u6a21\u62df / \u751f\u6210 / \u81ea\u6d4b\uff09",
-    "id": "feverZHONG/liya-sillytavern-worldbook",
-    "language": "Python",
-    "name": "feverZHONG/liya-sillytavern-worldbook",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:39:22Z",
-    "url": "https://github.com/feverZHONG/liya-sillytavern-worldbook"
-  },
-  {
-    "description": "A curated bundle of 38 Claude Skills for quantitative, qualitative, experimental & mixed-methods research in business, f",
-    "id": "Nero1688/claude-academic-skills",
-    "language": "Python",
-    "name": "Nero1688/claude-academic-skills",
-    "stars": 10,
-    "updated_at": "2026-10-08T16:39:18Z",
-    "url": "https://github.com/Nero1688/claude-academic-skills"
-  },
-  {
-    "description": "Open library of legal AI skills (SKILL.md) for MCP-compatible agents \u2014 18,000+ skills, 54 jurisdictions, 410+ plugins, A",
-    "id": "ThomasMoreAI/legal-skills-open",
-    "language": "Python",
-    "name": "ThomasMoreAI/legal-skills-open",
-    "stars": 85,
-    "updated_at": "2026-10-08T16:39:06Z",
-    "url": "https://github.com/ThomasMoreAI/legal-skills-open"
-  },
-  {
-    "description": "Free SEO / GEO Skill for Codex and Claude Code: technical audits, keyword and SERP research, content briefs, structured ",
-    "id": "everyinfra/seo-skills",
-    "language": "Shell",
-    "name": "everyinfra/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:39:11Z",
-    "url": "https://github.com/everyinfra/seo-skills"
-  },
-  {
-    "description": "\u878d\u5408\u591a\u79cdPPT\u8bbe\u8ba1\u98ce\u683c\uff0c\u76f4\u63a5\u751f\u6210PPT\u6587\u4ef6\u800c\u4e0d\u662fHTML",
-    "id": "billLiao/PPT-Design-Skill",
-    "language": "Python",
-    "name": "billLiao/PPT-Design-Skill",
-    "stars": 6,
-    "updated_at": "2026-10-08T16:38:18Z",
-    "url": "https://github.com/billLiao/PPT-Design-Skill"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-08T16:38:14Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u9152\u9986\u5199\u5361\u65b9\u6cd5 \u2014\u2014 \u628a\u89d2\u8272\u8d44\u6599\u5199\u6210 SillyTavern \u89d2\u8272\u5361\uff08V2 \u683c\u5f0f / PList+Ali:Chat \u5199\u6cd5 / \u673a\u5236\u6e05\u5355 / \u4e09\u4e2a Python \u5de5\u5177 / \u4ece\u8d44\u6599\u5230\u6210\u54c1\u5361\u7684\u5b8c\u6574\u5b9e\u4f8b\uff09\u3002\u4e2d\u6587\u3002",
-    "id": "feverZHONG/liya-sillytavern-cards",
-    "language": "Python",
-    "name": "feverZHONG/liya-sillytavern-cards",
-    "stars": 1,
-    "updated_at": "2026-10-08T16:38:14Z",
-    "url": "https://github.com/feverZHONG/liya-sillytavern-cards"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u4eba\u683c\u6587\u4ef6\u65b9\u6cd5\u8bba \u2014\u2014 \u7ed9 AI agent \u5199\u8eab\u4efd\u6587\u4ef6\uff08SOUL.md \u7c7b\uff09\uff1a\u521b\u4f5c\u6d41\u7a0b / \u780d\u88c5\u9970\u7559\u884c\u4e3a / \u8eab\u4efd\u6587\u4ef6\u51cf\u6cd5\uff08de-bloat\uff09/ \u6f02\u79fb\u5bf9\u7167\u3002\u9644\u539f\u521b\u89d2\u8272\u8bbe\u5b9a\u5199\u4f5c\u6a21\u677f v1.2\u3002",
-    "id": "feverZHONG/liya-persona-authoring",
-    "language": "\u2014",
-    "name": "feverZHONG/liya-persona-authoring",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:38:12Z",
-    "url": "https://github.com/feverZHONG/liya-persona-authoring"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u51cf\u6cd5 skill \u2014\u2014 \u6280\u80fd\u5e93\u7cbe\u7b80\u4e0e\u7ef4\u62a4\u7684\u65b9\u6cd5\u8bba\uff08\u5197\u4f59\u68c0\u6d4b \u00b7 \u62c6\u8584 \u00b7 \u5408\u5e76 \u00b7 \u5f52\u6863\u5224\u65ad\uff09\uff0c\u9002\u7528\u4e8e\u4efb\u4f55 SKILL.md \u4f53\u7cfb\u7684 agent\u3002\u4e2d\u6587\u3002",
-    "id": "feverZHONG/liya-subtraction-skill",
-    "language": "Python",
-    "name": "feverZHONG/liya-subtraction-skill",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:38:10Z",
-    "url": "https://github.com/feverZHONG/liya-subtraction-skill"
-  },
-  {
-    "description": "\u8389\u5a05 \u00b7 \u53f0\u8bcd\u7cfb\u7edf\u811a\u624b\u67b6 \u2014\u2014 \u9002\u914d\u5e7f\u5ea6=\u7ef4\u5ea6\u8986\u76d6\u4e0d\u662f\u53f0\u8bcd\u6761\u6570\uff1b\u753b\u683c\u5b50 / \u8d28\u91cf\u95f8 / \u751f\u6210\u5f15\u64ce / \u8986\u76d6\u7387\u9a8c\u8bc1\u4e00\u6761 CLI \u8d70\u5b8c\uff0c\u542b\u53ef\u76f4\u63a5\u8dd1\u7684\u793a\u4f8b\u89d2\u8272",
-    "id": "feverZHONG/liya-dialogue-system-builder",
-    "language": "Python",
-    "name": "feverZHONG/liya-dialogue-system-builder",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:37:46Z",
-    "url": "https://github.com/feverZHONG/liya-dialogue-system-builder"
-  },
-  {
-    "description": "Claude Code schneidet deine Handy-Clips zu fertigen Reels f\u00fcr Instagram und TikTok. Kostenlos, mit einem Prompt eingeric",
-    "id": "TobiB1505/faber-cut",
-    "language": "Python",
-    "name": "TobiB1505/faber-cut",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:37:43Z",
-    "url": "https://github.com/TobiB1505/faber-cut"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 15,
-    "updated_at": "2026-10-08T16:36:39Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-10-08T16:35:34Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "\u7ed9 AI \u4ee3\u7406\u7684\u4e2d\u6587\u6587\u98ce\u6280\u80fd\uff1a\u4ee5\u4f59\u5149\u4e2d\u300a\u4e2d\u6587\u7684\u5e38\u6001\u4e0e\u75c5\u6001\u300b\u4e3a\u5e95\u672c\uff0c\u6559\u4ee3\u7406\u5199\u51fa\u81ea\u7136\u3001\u4e0d\u6b27\u5316\u7684\u4e2d\u6587\uff08Agent Skills / SKILL.md\uff09",
-    "id": "voxServalG/zh-prose",
-    "language": "Python",
-    "name": "voxServalG/zh-prose",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:35:30Z",
-    "url": "https://github.com/voxServalG/zh-prose"
-  },
-  {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 79753,
-    "updated_at": "2026-10-08T16:34:58Z",
-    "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "AI agent skills for building pages on WordPress sites that run AWT",
-    "id": "useawt/awt-skills",
-    "language": "PHP",
-    "name": "useawt/awt-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:34:01Z",
-    "url": "https://github.com/useawt/awt-skills"
-  },
-  {
-    "description": "The AMM founding-circle home base: 36 Claude skills (AEO/SEO + agentic engineering + security), the agentic ladder, play",
-    "id": "search-atlas-group/amm-founding-circle",
-    "language": "Python",
-    "name": "search-atlas-group/amm-founding-circle",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:33:58Z",
-    "url": "https://github.com/search-atlas-group/amm-founding-circle"
-  },
-  {
-    "description": "",
-    "id": "LevNas/ccmemo",
-    "language": "Python",
-    "name": "LevNas/ccmemo",
-    "stars": 4,
-    "updated_at": "2026-10-08T16:33:53Z",
-    "url": "https://github.com/LevNas/ccmemo"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 65,
-    "updated_at": "2026-10-08T16:33:39Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "The agent skills I use most day to day: one focused playbook each, for Claude Code, Cursor, Copilot, Codex and more.",
-    "id": "jars-demo/jars-skills",
-    "language": "HTML",
-    "name": "jars-demo/jars-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T16:33:28Z",
-    "url": "https://github.com/jars-demo/jars-skills"
   }
 ]
