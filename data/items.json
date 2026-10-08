@@ -1,12 +1,84 @@
 [
   {
-    "description": "Agent skills for Flyweel: ad analysis, card funding checks, scaling decisions and cash payback. Works with Claude Code, ",
-    "id": "openairlabs/flyweel-mcp-skills",
-    "language": "JavaScript",
-    "name": "openairlabs/flyweel-mcp-skills",
+    "description": "",
+    "id": "arhuman/claude-plugins",
+    "language": "Shell",
+    "name": "arhuman/claude-plugins",
     "stars": 0,
-    "updated_at": "2026-10-08T03:30:02Z",
-    "url": "https://github.com/openairlabs/flyweel-mcp-skills"
+    "updated_at": "2026-10-08T03:45:03Z",
+    "url": "https://github.com/arhuman/claude-plugins"
+  },
+  {
+    "description": "Claude Code skills: paste a job posting, get a tailored one-page resume, cover letter, form answers and a tracker row. Y",
+    "id": "Wasif0410/job-application-skills",
+    "language": "TeX",
+    "name": "Wasif0410/job-application-skills",
+    "stars": 2,
+    "updated_at": "2026-10-08T03:41:03Z",
+    "url": "https://github.com/Wasif0410/job-application-skills"
+  },
+  {
+    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
+    "id": "inbrace-tech/claude-skills",
+    "language": "TypeScript",
+    "name": "inbrace-tech/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-08T03:38:58Z",
+    "url": "https://github.com/inbrace-tech/claude-skills"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-08T03:38:38Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "The AMM founding-circle home base: 36 Claude skills (AEO/SEO + agentic engineering + security), the agentic ladder, play",
+    "id": "search-atlas-group/amm-founding-circle",
+    "language": "Python",
+    "name": "search-atlas-group/amm-founding-circle",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:35:21Z",
+    "url": "https://github.com/search-atlas-group/amm-founding-circle"
+  },
+  {
+    "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framewo",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1546,
+    "updated_at": "2026-10-08T03:34:22Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1190,
+    "updated_at": "2026-10-08T03:42:15Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
+    "id": "danjdewhurst/story-skills",
+    "language": "JavaScript",
+    "name": "danjdewhurst/story-skills",
+    "stars": 279,
+    "updated_at": "2026-10-08T03:45:08Z",
+    "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T03:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Explain anything, or rewrite any text, in Simplified Technical English (an agent skill)",
@@ -27,15 +99,6 @@
     "url": "https://github.com/nullphase-net/enfurbish"
   },
   {
-    "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
-    "id": "danjdewhurst/story-skills",
-    "language": "JavaScript",
-    "name": "danjdewhurst/story-skills",
-    "stars": 279,
-    "updated_at": "2026-10-08T03:27:12Z",
-    "url": "https://github.com/danjdewhurst/story-skills"
-  },
-  {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
     "id": "costiash/claude-code-docs",
     "language": "Python",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-08T03:18:45Z",
+    "updated_at": "2026-10-08T03:37:06Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 69882,
     "updated_at": "2026-10-08T03:17:16Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T03:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skills for prod-local agent development: query real traces and logs from your local stack, plan before you b",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "imboard-ai/ai-dossier",
     "stars": 9,
-    "updated_at": "2026-10-08T03:26:30Z",
+    "updated_at": "2026-10-08T03:43:38Z",
     "url": "https://github.com/imboard-ai/ai-dossier"
   },
   {
@@ -124,24 +178,6 @@
     "stars": 5,
     "updated_at": "2026-10-08T03:07:37Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-08T03:05:31Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framewo",
-    "id": "plugin87/ux-ui-agent-skills",
-    "language": "JavaScript",
-    "name": "plugin87/ux-ui-agent-skills",
-    "stars": 1546,
-    "updated_at": "2026-10-08T03:05:27Z",
-    "url": "https://github.com/plugin87/ux-ui-agent-skills"
   },
   {
     "description": "17 triggers \u00d7 44 algorithms \u00d7 3 AI experts \u2014 live crypto trading signals with reasoning for Claude Code, Codex, Cursor &",
@@ -333,15 +369,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
-    "id": "inbrace-tech/claude-skills",
-    "language": "TypeScript",
-    "name": "inbrace-tech/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-08T03:25:53Z",
-    "url": "https://github.com/inbrace-tech/claude-skills"
-  },
-  {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
     "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
     "language": "HTML",
@@ -349,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-10-08T02:32:51Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1190,
-    "updated_at": "2026-10-08T03:25:05Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Open-source motion templates as agent skills \u00b7 \u52a8\u6548\u6a21\u677f\u5e93",
@@ -430,23 +448,5 @@
     "stars": 186,
     "updated_at": "2026-10-08T02:19:56Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
-    "id": "gooseworks-ai/goose-skills",
-    "language": "Python",
-    "name": "gooseworks-ai/goose-skills",
-    "stars": 1238,
-    "updated_at": "2026-10-08T03:21:22Z",
-    "url": "https://github.com/gooseworks-ai/goose-skills"
-  },
-  {
-    "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
-    "id": "culfin/claude-skills-public",
-    "language": "Python",
-    "name": "culfin/claude-skills-public",
-    "stars": 0,
-    "updated_at": "2026-10-08T02:17:48Z",
-    "url": "https://github.com/culfin/claude-skills-public"
   }
 ]
