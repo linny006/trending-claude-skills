@@ -1,12 +1,12 @@
 [
   {
-    "description": "Agent Skills (SKILL.md) for agentic engineering: trace debugging, HITL policy design, MCP server authoring, eval-driven ",
-    "id": "abhishekash/agent-skills",
-    "language": "Python",
-    "name": "abhishekash/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T08:45:42Z",
-    "url": "https://github.com/abhishekash/agent-skills"
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-08T08:59:18Z",
+    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "UI/UX skill for Claude Code, Codex and Cursor. Polished, plain interfaces with no AI slop. Includes a zero-dependency sl",
@@ -14,8 +14,116 @@
     "language": "JavaScript",
     "name": "arhamhi/oxfords",
     "stars": 0,
-    "updated_at": "2026-10-08T08:45:30Z",
+    "updated_at": "2026-10-08T08:57:55Z",
     "url": "https://github.com/arhamhi/oxfords"
+  },
+  {
+    "description": "Claude Agent Skill for Google Nano Banana (Gemini image generation, editing, restoration)",
+    "id": "batou9150/nanobanana-skill",
+    "language": "Python",
+    "name": "batou9150/nanobanana-skill",
+    "stars": 0,
+    "updated_at": "2026-10-08T08:57:38Z",
+    "url": "https://github.com/batou9150/nanobanana-skill"
+  },
+  {
+    "description": "Agent skill for shared project folders used by Claude, ChatGPT, Codex, Copilot, Gemini, and Grok. Audit, plan, and verif",
+    "id": "JesseRaber/multi-agent-folder-cleanup",
+    "language": "Python",
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "stars": 1,
+    "updated_at": "2026-10-08T08:56:42Z",
+    "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
+  },
+  {
+    "description": "Claude Code plugin marketplace: youtube-transcript turns YouTube videos into clean, proofread transcripts with local Par",
+    "id": "dimchansky/claude-skills",
+    "language": "Python",
+    "name": "dimchansky/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T08:55:48Z",
+    "url": "https://github.com/dimchansky/claude-skills"
+  },
+  {
+    "description": "Claude Code plugin and Agent Skill for MentionAgent: link building outreach from your agent over MCP",
+    "id": "BuildsbyMatt/mentionagent-claude-skill",
+    "language": "\u2014",
+    "name": "BuildsbyMatt/mentionagent-claude-skill",
+    "stars": 0,
+    "updated_at": "2026-10-08T08:54:57Z",
+    "url": "https://github.com/BuildsbyMatt/mentionagent-claude-skill"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1674,
+    "updated_at": "2026-10-08T08:56:33Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows",
+    "id": "michael-denyer/pstack-claude",
+    "language": "JavaScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 1610,
+    "updated_at": "2026-10-08T08:54:59Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "\ud83e\uddfe Claude skills for KSeF FA(3) e-invoicing: generate invoice XML and corrective invoices",
+    "id": "ksefuj/skills",
+    "language": "\u2014",
+    "name": "ksefuj/skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T08:51:06Z",
+    "url": "https://github.com/ksefuj/skills"
+  },
+  {
+    "description": "Skills Claude de Do Ingenia : extraire l'expertise, la rendre citable par les IA, mesurer ce qu'elles disent de vous.",
+    "id": "doingenia/skills",
+    "language": "Shell",
+    "name": "doingenia/skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T08:50:01Z",
+    "url": "https://github.com/doingenia/skills"
+  },
+  {
+    "description": "Claude Code plugin: turn requests from email, chat and calls into GitHub issues, scored with the 80/20 rule, across one ",
+    "id": "zebrapuma/zps-pareto-github-issues",
+    "language": "Shell",
+    "name": "zebrapuma/zps-pareto-github-issues",
+    "stars": 0,
+    "updated_at": "2026-10-08T08:48:27Z",
+    "url": "https://github.com/zebrapuma/zps-pareto-github-issues"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) for agentic engineering: trace debugging, HITL policy design, MCP server authoring, eval-driven ",
+    "id": "abhishekash/agent-skills",
+    "language": "Python",
+    "name": "abhishekash/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T08:46:56Z",
+    "url": "https://github.com/abhishekash/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T08:45:54Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Token-efficient multi-agent dev team for Claude Code: planner, parallel builders, devops, code reviewer, testers & auto-",
+    "id": "111vandit111/ai-dev-team",
+    "language": "TypeScript",
+    "name": "111vandit111/ai-dev-team",
+    "stars": 0,
+    "updated_at": "2026-10-08T08:45:52Z",
+    "url": "https://github.com/111vandit111/ai-dev-team"
   },
   {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
@@ -34,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T08:42:27Z",
     "url": "https://github.com/Ultra-Smashed/arena-skill"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-08T08:42:32Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Nerviz \u2014 an agent harness for Spring Boot. Claude Code skills, agents and hooks that generate Spring Boot projects and k",
@@ -72,13 +171,13 @@
     "url": "https://github.com/synaptiai/synapti-marketplace"
   },
   {
-    "description": "Token-efficient multi-agent dev team for Claude Code: planner, parallel builders, devops, code reviewer, testers & auto-",
-    "id": "111vandit111/ai-dev-team",
-    "language": "Shell",
-    "name": "111vandit111/ai-dev-team",
-    "stars": 0,
-    "updated_at": "2026-10-08T08:39:25Z",
-    "url": "https://github.com/111vandit111/ai-dev-team"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69890,
+    "updated_at": "2026-10-08T08:39:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -153,15 +252,6 @@
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T08:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
     "id": "PawanSirsat/Laika",
     "language": "TypeScript",
@@ -207,15 +297,6 @@
     "url": "https://github.com/victorrentea/human-review"
   },
   {
-    "description": "Skills Claude de Do Ingenia : extraire l'expertise, la rendre citable par les IA, mesurer ce qu'elles disent de vous.",
-    "id": "doingenia/skills",
-    "language": "Shell",
-    "name": "doingenia/skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T08:24:40Z",
-    "url": "https://github.com/doingenia/skills"
-  },
-  {
     "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
     "id": "bjcoombs/ai-native-toolkit",
     "language": "Python",
@@ -241,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-10-08T08:22:48Z",
     "url": "https://github.com/int2t05/engineering-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69890,
-    "updated_at": "2026-10-08T08:39:09Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
@@ -376,77 +448,5 @@
     "stars": 13,
     "updated_at": "2026-10-08T08:04:05Z",
     "url": "https://github.com/Senzing/senzing-mcp-skill"
-  },
-  {
-    "description": "Small marketplace of Claude Code plugins. Add it once, then install the plugins you want.",
-    "id": "p2p2sp/p2p2.claude",
-    "language": "TypeScript",
-    "name": "p2p2sp/p2p2.claude",
-    "stars": 7,
-    "updated_at": "2026-10-08T08:03:00Z",
-    "url": "https://github.com/p2p2sp/p2p2.claude"
-  },
-  {
-    "description": "\ud83e\uddfe Claude skills for KSeF FA(3) e-invoicing: generate invoice XML and corrective invoices",
-    "id": "ksefuj/skills",
-    "language": "\u2014",
-    "name": "ksefuj/skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T08:19:19Z",
-    "url": "https://github.com/ksefuj/skills"
-  },
-  {
-    "description": "Flint \u00b7 local-skills-hub \u2014 a local-first personal AI skills asset manager. Centralize, tag, deduplicate skills, and depl",
-    "id": "lcy362/flint",
-    "language": "TypeScript",
-    "name": "lcy362/flint",
-    "stars": 32,
-    "updated_at": "2026-10-08T07:57:52Z",
-    "url": "https://github.com/lcy362/flint"
-  },
-  {
-    "description": "Open library of legal AI skills (SKILL.md) for MCP-compatible agents \u2014 18,000+ skills, 54 jurisdictions, 410+ plugins, A",
-    "id": "ThomasMoreAI/legal-skills-open",
-    "language": "Python",
-    "name": "ThomasMoreAI/legal-skills-open",
-    "stars": 85,
-    "updated_at": "2026-10-08T07:52:57Z",
-    "url": "https://github.com/ThomasMoreAI/legal-skills-open"
-  },
-  {
-    "description": "Agent skills for M5Stack: UIFlow2 MicroPython coding, embedded UI design, firmware discovery and official documentation ",
-    "id": "yuyun2000/M5Stack-Skills",
-    "language": "Python",
-    "name": "yuyun2000/M5Stack-Skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:52:38Z",
-    "url": "https://github.com/yuyun2000/M5Stack-Skills"
-  },
-  {
-    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
-    "id": "VoltAgent/awesome-agent-skills",
-    "language": "\u2014",
-    "name": "VoltAgent/awesome-agent-skills",
-    "stars": 35356,
-    "updated_at": "2026-10-08T07:52:22Z",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  {
-    "description": "Free AI plugins for your job, for Claude and ChatGPT: skills, ready-made prompts and an app to build for accountants, la",
-    "id": "nexibeo/plugins-completeaitraining.com",
-    "language": "\u2014",
-    "name": "nexibeo/plugins-completeaitraining.com",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:50:47Z",
-    "url": "https://github.com/nexibeo/plugins-completeaitraining.com"
-  },
-  {
-    "description": "A curated collection of skills for AI agents to properly work with datavault4dbt.",
-    "id": "ScalefreeCOM/datavault4dbt-agent-skills",
-    "language": "Python",
-    "name": "ScalefreeCOM/datavault4dbt-agent-skills",
-    "stars": 22,
-    "updated_at": "2026-10-08T07:50:19Z",
-    "url": "https://github.com/ScalefreeCOM/datavault4dbt-agent-skills"
   }
 ]
