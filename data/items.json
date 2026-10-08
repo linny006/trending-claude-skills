@@ -1,12 +1,84 @@
 [
   {
+    "description": "Agent skills for Flyweel: ad analysis, card funding checks, scaling decisions and cash payback. Works with Claude Code, ",
+    "id": "openairlabs/flyweel-mcp-skills",
+    "language": "JavaScript",
+    "name": "openairlabs/flyweel-mcp-skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T03:30:02Z",
+    "url": "https://github.com/openairlabs/flyweel-mcp-skills"
+  },
+  {
+    "description": "Explain anything, or rewrite any text, in Simplified Technical English (an agent skill)",
+    "id": "ryanjmichie-git/ste-explain",
+    "language": "Python",
+    "name": "ryanjmichie-git/ste-explain",
+    "stars": 2,
+    "updated_at": "2026-10-08T03:27:31Z",
+    "url": "https://github.com/ryanjmichie-git/ste-explain"
+  },
+  {
+    "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
+    "id": "nullphase-net/enfurbish",
+    "language": "TypeScript",
+    "name": "nullphase-net/enfurbish",
+    "stars": 1,
+    "updated_at": "2026-10-08T03:24:48Z",
+    "url": "https://github.com/nullphase-net/enfurbish"
+  },
+  {
     "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
     "id": "danjdewhurst/story-skills",
     "language": "JavaScript",
     "name": "danjdewhurst/story-skills",
     "stars": 279,
-    "updated_at": "2026-10-08T03:13:57Z",
+    "updated_at": "2026-10-08T03:27:12Z",
     "url": "https://github.com/danjdewhurst/story-skills"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 54,
+    "updated_at": "2026-10-08T03:19:08Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "TypeScript",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-08T03:18:45Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
+    "id": "haoming-luo/agentfem",
+    "language": "Python",
+    "name": "haoming-luo/agentfem",
+    "stars": 21,
+    "updated_at": "2026-10-08T03:19:14Z",
+    "url": "https://github.com/haoming-luo/agentfem"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69882,
+    "updated_at": "2026-10-08T03:17:16Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T03:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skills for prod-local agent development: query real traces and logs from your local stack, plan before you b",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T03:12:01Z",
     "url": "https://github.com/LunarCommand/claude-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69882,
-    "updated_at": "2026-10-08T03:11:29Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "imboard-ai/ai-dossier",
     "stars": 9,
-    "updated_at": "2026-10-08T03:08:59Z",
+    "updated_at": "2026-10-08T03:26:30Z",
     "url": "https://github.com/imboard-ai/ai-dossier"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-08T03:04:48Z",
+    "updated_at": "2026-10-08T03:20:48Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T03:01:10Z",
     "url": "https://github.com/Joe-Simo/a0"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T03:00:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skills pack for running a company in India \u2014 GST, TDS, payroll (PF/ESI/PT), ROC/MCA filings, registrations, invoic",
@@ -187,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-08T02:53:49Z",
     "url": "https://github.com/raghuramsirigiri/raghuram-skills"
-  },
-  {
-    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
-    "id": "haoming-luo/agentfem",
-    "language": "Python",
-    "name": "haoming-luo/agentfem",
-    "stars": 21,
-    "updated_at": "2026-10-08T02:57:26Z",
-    "url": "https://github.com/haoming-luo/agentfem"
   },
   {
     "description": "\uc774\ub825\uc11c \uae30\ubc18 \ucc44\uc6a9\uacf5\uace0 \uac80\uc0c9 \ud558\ub124\uc2a4",
@@ -293,7 +338,7 @@
     "language": "TypeScript",
     "name": "inbrace-tech/claude-skills",
     "stars": 1,
-    "updated_at": "2026-10-08T02:46:30Z",
+    "updated_at": "2026-10-08T03:25:53Z",
     "url": "https://github.com/inbrace-tech/claude-skills"
   },
   {
@@ -311,7 +356,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 1190,
-    "updated_at": "2026-10-08T03:12:22Z",
+    "updated_at": "2026-10-08T03:25:05Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "gooseworks-ai/goose-skills",
     "stars": 1238,
-    "updated_at": "2026-10-08T03:10:23Z",
+    "updated_at": "2026-10-08T03:21:22Z",
     "url": "https://github.com/gooseworks-ai/goose-skills"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T02:17:48Z",
     "url": "https://github.com/culfin/claude-skills-public"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-10-08T02:17:45Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-10-08T02:16:04Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "BossSkill: AI agent skill for structured project audit \u2014 score proposals, gate go-lives, track remediation (\u4e09\u652f\u67f1\u9879\u76ee\u5ba1\u67e5\u6280\u80fd)",
-    "id": "Jackroro/boss-skill",
-    "language": "\u2014",
-    "name": "Jackroro/boss-skill",
-    "stars": 1,
-    "updated_at": "2026-10-08T02:15:43Z",
-    "url": "https://github.com/Jackroro/boss-skill"
-  },
-  {
-    "description": "Claude skill for B2B lead generation \u2014 search, filter & export newly registered US small to medium sized businesses via ",
-    "id": "Tomsonx232/smb-sales-boost-skill",
-    "language": "Python",
-    "name": "Tomsonx232/smb-sales-boost-skill",
-    "stars": 4,
-    "updated_at": "2026-10-08T02:09:59Z",
-    "url": "https://github.com/Tomsonx232/smb-sales-boost-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-08T02:09:02Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
