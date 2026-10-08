@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83e\uddfe Claude skills for KSeF FA(3) e-invoicing: generate invoice XML and corrective invoices",
+    "id": "ksefuj/skills",
+    "language": "\u2014",
+    "name": "ksefuj/skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:56:04Z",
+    "url": "https://github.com/ksefuj/skills"
+  },
+  {
+    "description": "Flint \u00b7 local-skills-hub \u2014 a local-first personal AI skills asset manager. Centralize, tag, deduplicate skills, and depl",
+    "id": "lcy362/flint",
+    "language": "TypeScript",
+    "name": "lcy362/flint",
+    "stars": 32,
+    "updated_at": "2026-10-08T07:57:52Z",
+    "url": "https://github.com/lcy362/flint"
+  },
+  {
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
+    "id": "bjcoombs/ai-native-toolkit",
+    "language": "Python",
+    "name": "bjcoombs/ai-native-toolkit",
+    "stars": 32,
+    "updated_at": "2026-10-08T07:54:16Z",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit"
+  },
+  {
+    "description": "Open library of legal AI skills (SKILL.md) for MCP-compatible agents \u2014 18,000+ skills, 54 jurisdictions, 410+ plugins, A",
+    "id": "ThomasMoreAI/legal-skills-open",
+    "language": "Python",
+    "name": "ThomasMoreAI/legal-skills-open",
+    "stars": 85,
+    "updated_at": "2026-10-08T07:52:57Z",
+    "url": "https://github.com/ThomasMoreAI/legal-skills-open"
+  },
+  {
+    "description": "Agent skills for M5Stack: UIFlow2 MicroPython coding, embedded UI design, firmware discovery and official documentation ",
+    "id": "yuyun2000/M5Stack-Skills",
+    "language": "Python",
+    "name": "yuyun2000/M5Stack-Skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:52:38Z",
+    "url": "https://github.com/yuyun2000/M5Stack-Skills"
+  },
+  {
+    "description": "Turn your Grok Bot into a 7-agent Hyperliquid trading desk. Roles, system prompts and skills your Bots use to research, ",
+    "id": "galleonlabs/hypergrok-trading-desk",
+    "language": "Python",
+    "name": "galleonlabs/hypergrok-trading-desk",
+    "stars": 83,
+    "updated_at": "2026-10-08T07:52:23Z",
+    "url": "https://github.com/galleonlabs/hypergrok-trading-desk"
+  },
+  {
+    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
+    "id": "VoltAgent/awesome-agent-skills",
+    "language": "\u2014",
+    "name": "VoltAgent/awesome-agent-skills",
+    "stars": 35357,
+    "updated_at": "2026-10-08T07:52:22Z",
+    "url": "https://github.com/VoltAgent/awesome-agent-skills"
+  },
+  {
+    "description": "Free AI plugins for your job, for Claude and ChatGPT: skills, ready-made prompts and an app to build for accountants, la",
+    "id": "nexibeo/plugins-completeaitraining.com",
+    "language": "\u2014",
+    "name": "nexibeo/plugins-completeaitraining.com",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:50:47Z",
+    "url": "https://github.com/nexibeo/plugins-completeaitraining.com"
+  },
+  {
+    "description": "A curated collection of skills for AI agents to properly work with datavault4dbt.",
+    "id": "ScalefreeCOM/datavault4dbt-agent-skills",
+    "language": "Python",
+    "name": "ScalefreeCOM/datavault4dbt-agent-skills",
+    "stars": 22,
+    "updated_at": "2026-10-08T07:50:19Z",
+    "url": "https://github.com/ScalefreeCOM/datavault4dbt-agent-skills"
+  },
+  {
+    "description": "Token-efficient multi-agent dev team for Claude Code: planner, parallel builders, devops, code reviewer, testers & auto-",
+    "id": "111vandit111/ai-dev-team",
+    "language": "\u2014",
+    "name": "111vandit111/ai-dev-team",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:49:48Z",
+    "url": "https://github.com/111vandit111/ai-dev-team"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 20,
+    "updated_at": "2026-10-08T07:48:40Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T07:45:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A unified, high-performance i18next CLI.",
     "id": "i18next/i18next-cli",
     "language": "TypeScript",
@@ -14,7 +122,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 117,
-    "updated_at": "2026-10-08T07:44:39Z",
+    "updated_at": "2026-10-08T07:53:46Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -64,12 +172,12 @@
   },
   {
     "description": "Claude skill for valuing an IDX-listed company from audited filings, with a check at every stage.",
-    "id": "devan4670-sketch/IDX-Valuation-Workflow",
+    "id": "Reza-Dila-Andrea/IDX-Valuation-Workflow",
     "language": "\u2014",
-    "name": "devan4670-sketch/IDX-Valuation-Workflow",
+    "name": "Reza-Dila-Andrea/IDX-Valuation-Workflow",
     "stars": 0,
     "updated_at": "2026-10-08T07:37:35Z",
-    "url": "https://github.com/devan4670-sketch/IDX-Valuation-Workflow"
+    "url": "https://github.com/Reza-Dila-Andrea/IDX-Valuation-Workflow"
   },
   {
     "description": "A powerful Famulor skill for seamless integration and automation of the Famulor AI platform.",
@@ -86,7 +194,7 @@
     "language": "TypeScript",
     "name": "ommakes/Skills",
     "stars": 20,
-    "updated_at": "2026-10-08T07:34:42Z",
+    "updated_at": "2026-10-08T07:55:15Z",
     "url": "https://github.com/ommakes/Skills"
   },
   {
@@ -135,24 +243,6 @@
     "url": "https://github.com/Max-Levitskiy/skills"
   },
   {
-    "description": "Agent skills for M5Stack: UIFlow2 MicroPython coding, embedded UI design, firmware discovery and official documentation ",
-    "id": "yuyun2000/M5Stack-Skills",
-    "language": "Python",
-    "name": "yuyun2000/M5Stack-Skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:30:34Z",
-    "url": "https://github.com/yuyun2000/M5Stack-Skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T07:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Free agent skills from EdgeKits, packaged as Claude plugins: a Telegram bot security audit, selling access to private Gi",
     "id": "EdgeKits/skills",
     "language": "\u2014",
@@ -185,7 +275,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69890,
-    "updated_at": "2026-10-08T07:44:00Z",
+    "updated_at": "2026-10-08T07:56:43Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -338,7 +428,7 @@
     "language": "TypeScript",
     "name": "imboard-ai/ai-dossier",
     "stars": 9,
-    "updated_at": "2026-10-08T07:18:42Z",
+    "updated_at": "2026-10-08T07:49:03Z",
     "url": "https://github.com/imboard-ai/ai-dossier"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T07:00:35Z",
     "url": "https://github.com/marco-vrinssen/text-flags"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-10-08T06:53:50Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:53:44Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "Cite Holmes - deep research skill that interrogates its own citations",
-    "id": "docsor1212/cite-holmes",
-    "language": "Python",
-    "name": "docsor1212/cite-holmes",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:53:26Z",
-    "url": "https://github.com/docsor1212/cite-holmes"
-  },
-  {
-    "description": "Describe a video in plain English. Get a narrated, word synced motion graphics MP4 rendered from code",
-    "id": "kaid0x/prompt-to-motion",
-    "language": "TypeScript",
-    "name": "kaid0x/prompt-to-motion",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:39:19Z",
-    "url": "https://github.com/kaid0x/prompt-to-motion"
-  },
-  {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 2206,
-    "updated_at": "2026-10-08T06:52:34Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-08T06:51:15Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-08T06:50:04Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 20,
-    "updated_at": "2026-10-08T06:49:39Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1674,
-    "updated_at": "2026-10-08T06:51:01Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-10-08T06:48:59Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   }
 ]
