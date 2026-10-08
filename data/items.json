@@ -1,12 +1,102 @@
 [
   {
+    "description": "Agent skill for Claude Code, Cursor, OpenCode and more: sell access to a private GitHub repo with Stripe. Hands you to t",
+    "id": "EdgeKits/skills",
+    "language": "\u2014",
+    "name": "EdgeKits/skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:29:26Z",
+    "url": "https://github.com/EdgeKits/skills"
+  },
+  {
     "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
     "id": "danieljustus/symaira-eraseme",
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 9,
-    "updated_at": "2026-10-08T07:13:13Z",
+    "updated_at": "2026-10-08T07:26:45Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "Skills for product design",
+    "id": "ommakes/Skills",
+    "language": "TypeScript",
+    "name": "ommakes/Skills",
+    "stars": 20,
+    "updated_at": "2026-10-08T07:26:00Z",
+    "url": "https://github.com/ommakes/Skills"
+  },
+  {
+    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
+    "id": "EricTechPro/super-board",
+    "language": "HTML",
+    "name": "EricTechPro/super-board",
+    "stars": 96,
+    "updated_at": "2026-10-08T07:25:24Z",
+    "url": "https://github.com/EricTechPro/super-board"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69890,
+    "updated_at": "2026-10-08T07:29:40Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1190,
+    "updated_at": "2026-10-08T07:23:29Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Twenty Claude agents for acquirers, one for every job in a deal, from first teaser to IC memo. Every claim cited to its ",
+    "id": "MariusGithub13/open-deal-kit",
+    "language": "\u2014",
+    "name": "MariusGithub13/open-deal-kit",
+    "stars": 2,
+    "updated_at": "2026-10-08T07:22:24Z",
+    "url": "https://github.com/MariusGithub13/open-deal-kit"
+  },
+  {
+    "description": "Claude Code skill for launch videos people can't stop watching \u2014 built from a frame-by-frame, beat-by-beat teardown of a",
+    "id": "seyonv/product-demo-launch-video",
+    "language": "\u2014",
+    "name": "seyonv/product-demo-launch-video",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:19:49Z",
+    "url": "https://github.com/seyonv/product-demo-launch-video"
+  },
+  {
+    "description": "Claude Code skill that reads your recent sessions and recommends the official MCP servers and skills that would have sav",
+    "id": "suryavbhat20/tool-fit",
+    "language": "Python",
+    "name": "suryavbhat20/tool-fit",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:16:47Z",
+    "url": "https://github.com/suryavbhat20/tool-fit"
+  },
+  {
+    "description": "Negative-first development for Claude Code: red-team a feature, turn its failure modes into failing tests, then implemen",
+    "id": "suryavbhat20/Negatives",
+    "language": "\u2014",
+    "name": "suryavbhat20/Negatives",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:16:38Z",
+    "url": "https://github.com/suryavbhat20/Negatives"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T07:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Digest your day to day work without acidity.",
@@ -122,7 +212,7 @@
     "language": "TypeScript",
     "name": "imboard-ai/ai-dossier",
     "stars": 9,
-    "updated_at": "2026-10-08T07:01:25Z",
+    "updated_at": "2026-10-08T07:18:42Z",
     "url": "https://github.com/imboard-ai/ai-dossier"
   },
   {
@@ -135,15 +225,6 @@
     "url": "https://github.com/StynH/Clearmind"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T07:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code plugin for flag-driven text transforms: correct, translate, sharpen, shorten, list, and build prompts for Cl",
     "id": "marco-vrinssen/text-flags",
     "language": "\u2014",
@@ -151,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T07:00:35Z",
     "url": "https://github.com/marco-vrinssen/text-flags"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69889,
-    "updated_at": "2026-10-08T07:07:20Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1190,
-    "updated_at": "2026-10-08T07:11:19Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
@@ -211,7 +274,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 2196,
+    "stars": 2200,
     "updated_at": "2026-10-08T06:52:34Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T06:38:58Z",
     "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:38:47Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "pstack for Claude Code: poteto's rigorous engineering skills (poteto-mode, how/why, architect, verification), ported fro",
-    "id": "PickleBoxer/pstack",
-    "language": "TypeScript",
-    "name": "PickleBoxer/pstack",
-    "stars": 1,
-    "updated_at": "2026-10-08T06:38:05Z",
-    "url": "https://github.com/PickleBoxer/pstack"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 1,
-    "updated_at": "2026-10-08T06:37:54Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:37:48Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
-    "id": "Sylad/claude-code-codex",
-    "language": "HTML",
-    "name": "Sylad/claude-code-codex",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:37:33Z",
-    "url": "https://github.com/Sylad/claude-code-codex"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-10-08T06:36:12Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Fix Persian RTL layout issues in Claude and LinkedIn automatically while keeping English text and code blocks readable.",
-    "id": "jesusda3699/claude-rtl-persian",
-    "language": "JavaScript",
-    "name": "jesusda3699/claude-rtl-persian",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:36:08Z",
-    "url": "https://github.com/jesusda3699/claude-rtl-persian"
   }
 ]
