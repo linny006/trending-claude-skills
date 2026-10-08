@@ -1,5 +1,95 @@
 [
   {
+    "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framewo",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1546,
+    "updated_at": "2026-10-08T05:15:05Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "Describe a video in plain English. Get a narrated, word synced motion graphics MP4 rendered from code",
+    "id": "kaid0x/prompt-to-motion",
+    "language": "TypeScript",
+    "name": "kaid0x/prompt-to-motion",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:14:56Z",
+    "url": "https://github.com/kaid0x/prompt-to-motion"
+  },
+  {
+    "description": "Claude Code skill: /ship branches, commits, pushes and opens a PR; /ship merge lands it and cleans up. Pins gh to origin",
+    "id": "InsightfulAnalytics/ship",
+    "language": "\u2014",
+    "name": "InsightfulAnalytics/ship",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:13:47Z",
+    "url": "https://github.com/InsightfulAnalytics/ship"
+  },
+  {
+    "description": "Community index of Claude skills for scientific work. Pinned, checked, one-line import.",
+    "id": "ai4science-skills/skills",
+    "language": "Python",
+    "name": "ai4science-skills/skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:13:27Z",
+    "url": "https://github.com/ai4science-skills/skills"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1190,
+    "updated_at": "2026-10-08T05:10:45Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "A Claude Code skill that finds the engineering controls your repository does not have \u2014 CI that never runs on pull reque",
+    "id": "rlx/uplevel",
+    "language": "Shell",
+    "name": "rlx/uplevel",
+    "stars": 3,
+    "updated_at": "2026-10-08T05:10:11Z",
+    "url": "https://github.com/rlx/uplevel"
+  },
+  {
+    "description": "Self-evolving, eval-gated harness skill for Claude Code agents: learn from traces, detect CLAUDE.md drift, and update ru",
+    "id": "oyekamal/harness-evolve",
+    "language": "Python",
+    "name": "oyekamal/harness-evolve",
+    "stars": 2,
+    "updated_at": "2026-10-08T05:10:03Z",
+    "url": "https://github.com/oyekamal/harness-evolve"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 95,
+    "updated_at": "2026-10-08T05:08:07Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Multi-agent PR review loop for Claude Code: router + specialist reviewers, triage, and harness-side stop conditions",
+    "id": "BishalSunuwar202/claude-review-loop",
+    "language": "Python",
+    "name": "BishalSunuwar202/claude-review-loop",
+    "stars": 0,
+    "updated_at": "2026-10-08T05:07:53Z",
+    "url": "https://github.com/BishalSunuwar202/claude-review-loop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T05:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
     "id": "danjdewhurst/story-skills",
     "language": "JavaScript",
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "eduair94/cambio-uruguay",
     "stars": 7,
-    "updated_at": "2026-10-08T04:54:09Z",
+    "updated_at": "2026-10-08T05:13:30Z",
     "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
@@ -171,15 +261,6 @@
     "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T04:45:50Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screens",
     "id": "oil-oil/oil-ui",
     "language": "Python",
@@ -212,17 +293,8 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 5,
-    "updated_at": "2026-10-08T04:55:26Z",
+    "updated_at": "2026-10-08T05:06:13Z",
     "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1190,
-    "updated_at": "2026-10-08T04:58:45Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T04:38:51Z",
     "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:38:47Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-10-08T04:37:55Z",
-    "url": "https://github.com/noman3271/caveman"
-  },
-  {
-    "description": "Boost Claude Code with Java plugins for Java 8\u201321 projects, including core, Spring, and quality checks tailored to your ",
-    "id": "limited-grisaille833/claude-java-plugins",
-    "language": "Shell",
-    "name": "limited-grisaille833/claude-java-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:37:50Z",
-    "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Claude Code skills for AI image generation, AI video generation and product photography. Powered by Wireflow.",
-    "id": "wireflowINC/skills",
-    "language": "JavaScript",
-    "name": "wireflowINC/skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:37:39Z",
-    "url": "https://github.com/wireflowINC/skills"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:37:27Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-10-08T04:37:25Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
-    "id": "NYTC69/review-loop",
-    "language": "Python",
-    "name": "NYTC69/review-loop",
-    "stars": 3,
-    "updated_at": "2026-10-08T04:55:47Z",
-    "url": "https://github.com/NYTC69/review-loop"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-10-08T04:37:12Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
   }
 ]
