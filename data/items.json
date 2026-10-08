@@ -1,6 +1,159 @@
 [
   {
-    "description": "Agent skill for Claude Code, Cursor, OpenCode and more: sell access to a private GitHub repo with Stripe. Hands you to t",
+    "description": "A unified, high-performance i18next CLI.",
+    "id": "i18next/i18next-cli",
+    "language": "TypeScript",
+    "name": "i18next/i18next-cli",
+    "stars": 242,
+    "updated_at": "2026-10-08T07:45:02Z",
+    "url": "https://github.com/i18next/i18next-cli"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-08T07:44:39Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Free, open-source memory for Claude Code. Your own database, no cloud, no subscription.",
+    "id": "Avijit07x/claude-db",
+    "language": "TypeScript",
+    "name": "Avijit07x/claude-db",
+    "stars": 231,
+    "updated_at": "2026-10-08T07:42:32Z",
+    "url": "https://github.com/Avijit07x/claude-db"
+  },
+  {
+    "description": "",
+    "id": "Pippit-dev/cli",
+    "language": "JavaScript",
+    "name": "Pippit-dev/cli",
+    "stars": 9,
+    "updated_at": "2026-10-08T07:41:23Z",
+    "url": "https://github.com/Pippit-dev/cli"
+  },
+  {
+    "description": "Use Aident Loadout to connect your AI Agents to 1,000+ real-world apps and tools like Gmail, Slack, Linear, Notion, Fire",
+    "id": "Aident-AI/aident-skill",
+    "language": "Shell",
+    "name": "Aident-AI/aident-skill",
+    "stars": 5,
+    "updated_at": "2026-10-08T07:40:03Z",
+    "url": "https://github.com/Aident-AI/aident-skill"
+  },
+  {
+    "description": "Ontology, semantic-layer, concept-design, and presentation Agent Skills.",
+    "id": "ontology-of-everything/concept-skills",
+    "language": "Shell",
+    "name": "ontology-of-everything/concept-skills",
+    "stars": 11,
+    "updated_at": "2026-10-08T07:38:39Z",
+    "url": "https://github.com/ontology-of-everything/concept-skills"
+  },
+  {
+    "description": "Digest your day to day work without acidity.",
+    "id": "AnudeepChPaul/digest",
+    "language": "Go",
+    "name": "AnudeepChPaul/digest",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:38:48Z",
+    "url": "https://github.com/AnudeepChPaul/digest"
+  },
+  {
+    "description": "Claude skill for valuing an IDX-listed company from audited filings, with a check at every stage.",
+    "id": "devan4670-sketch/IDX-Valuation-Workflow",
+    "language": "\u2014",
+    "name": "devan4670-sketch/IDX-Valuation-Workflow",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:37:35Z",
+    "url": "https://github.com/devan4670-sketch/IDX-Valuation-Workflow"
+  },
+  {
+    "description": "A powerful Famulor skill for seamless integration and automation of the Famulor AI platform.",
+    "id": "bekservice/Famulor-Skill",
+    "language": "Python",
+    "name": "bekservice/Famulor-Skill",
+    "stars": 2,
+    "updated_at": "2026-10-08T07:37:31Z",
+    "url": "https://github.com/bekservice/Famulor-Skill"
+  },
+  {
+    "description": "Skills for product design",
+    "id": "ommakes/Skills",
+    "language": "TypeScript",
+    "name": "ommakes/Skills",
+    "stars": 20,
+    "updated_at": "2026-10-08T07:34:42Z",
+    "url": "https://github.com/ommakes/Skills"
+  },
+  {
+    "description": "Agent Skills for Claude Code & Codex (\u4e2d\u6587\u4f18\u5148): translate docs to Chinese, WeChat/Xiaohongshu/X downloaders, repo hygiene, ",
+    "id": "hanzhangzzz/agent-skills-zh",
+    "language": "Python",
+    "name": "hanzhangzzz/agent-skills-zh",
+    "stars": 2,
+    "updated_at": "2026-10-08T07:34:37Z",
+    "url": "https://github.com/hanzhangzzz/agent-skills-zh"
+  },
+  {
+    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
+    "id": "tjq001/hv-code-templates",
+    "language": "HTML",
+    "name": "tjq001/hv-code-templates",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:32:55Z",
+    "url": "https://github.com/tjq001/hv-code-templates"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-08T07:31:16Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "MyKG Knowledge Graph Engine: Turn raw files into knowledge graphs with induced ontology",
+    "id": "SenolIsci/mykg",
+    "language": "Python",
+    "name": "SenolIsci/mykg",
+    "stars": 74,
+    "updated_at": "2026-10-08T07:30:56Z",
+    "url": "https://github.com/SenolIsci/mykg"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
+    "id": "Max-Levitskiy/skills",
+    "language": "TypeScript",
+    "name": "Max-Levitskiy/skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:30:50Z",
+    "url": "https://github.com/Max-Levitskiy/skills"
+  },
+  {
+    "description": "Agent skills for M5Stack: UIFlow2 MicroPython coding, embedded UI design, firmware discovery and official documentation ",
+    "id": "yuyun2000/M5Stack-Skills",
+    "language": "Python",
+    "name": "yuyun2000/M5Stack-Skills",
+    "stars": 0,
+    "updated_at": "2026-10-08T07:30:34Z",
+    "url": "https://github.com/yuyun2000/M5Stack-Skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T07:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Free agent skills from EdgeKits, packaged as Claude plugins: a Telegram bot security audit, selling access to private Gi",
     "id": "EdgeKits/skills",
     "language": "\u2014",
     "name": "EdgeKits/skills",
@@ -14,17 +167,8 @@
     "language": "Rust",
     "name": "danieljustus/symaira-eraseme",
     "stars": 9,
-    "updated_at": "2026-10-08T07:26:45Z",
+    "updated_at": "2026-10-08T07:45:05Z",
     "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Skills for product design",
-    "id": "ommakes/Skills",
-    "language": "TypeScript",
-    "name": "ommakes/Skills",
-    "stars": 20,
-    "updated_at": "2026-10-08T07:26:00Z",
-    "url": "https://github.com/ommakes/Skills"
   },
   {
     "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
@@ -41,7 +185,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69890,
-    "updated_at": "2026-10-08T07:29:40Z",
+    "updated_at": "2026-10-08T07:44:00Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -88,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-08T07:16:38Z",
     "url": "https://github.com/suryavbhat20/Negatives"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T07:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Digest your day to day work without acidity.",
-    "id": "AnudeepChPaul/digest",
-    "language": "Go",
-    "name": "AnudeepChPaul/digest",
-    "stars": 0,
-    "updated_at": "2026-10-08T07:12:30Z",
-    "url": "https://github.com/AnudeepChPaul/digest"
   },
   {
     "description": "Skills para Claude que crean la identidad visual de una marca paso a paso: hoja de ruta guiada, logo en vector desde una",
@@ -185,7 +311,7 @@
     "language": "Python",
     "name": "longsizhuo/openInvest",
     "stars": 87,
-    "updated_at": "2026-10-08T07:03:05Z",
+    "updated_at": "2026-10-08T07:34:03Z",
     "url": "https://github.com/longsizhuo/openInvest"
   },
   {
@@ -266,7 +392,7 @@
     "language": "TypeScript",
     "name": "kaid0x/prompt-to-motion",
     "stars": 0,
-    "updated_at": "2026-10-08T06:52:43Z",
+    "updated_at": "2026-10-08T07:39:19Z",
     "url": "https://github.com/kaid0x/prompt-to-motion"
   },
   {
@@ -274,7 +400,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 2200,
+    "stars": 2206,
     "updated_at": "2026-10-08T06:52:34Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -301,7 +427,7 @@
     "id": "victorrentea/human-review",
     "language": "Python",
     "name": "victorrentea/human-review",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-10-08T06:49:39Z",
     "url": "https://github.com/victorrentea/human-review"
   },
@@ -322,131 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-08T06:48:59Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Agent skills for Claude Code and OpenAI Codex: audit subagents (subagent-optimizer), shrink SKILL.md files (skill-optimi",
-    "id": "IonDen/skills",
-    "language": "Python",
-    "name": "IonDen/skills",
-    "stars": 1,
-    "updated_at": "2026-10-08T06:47:09Z",
-    "url": "https://github.com/IonDen/skills"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-10-08T06:44:34Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
-    "id": "PawanSirsat/Laika",
-    "language": "TypeScript",
-    "name": "PawanSirsat/Laika",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:44:16Z",
-    "url": "https://github.com/PawanSirsat/Laika"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 22,
-    "updated_at": "2026-10-08T06:44:11Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
-    "id": "indocindesertplant48/claude-vault",
-    "language": "TypeScript",
-    "name": "indocindesertplant48/claude-vault",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:42:49Z",
-    "url": "https://github.com/indocindesertplant48/claude-vault"
-  },
-  {
-    "description": "Fold your MacBook display for a soft, blurring desktop effect\u2014animated live at 60 fps with lid-angle smoothing on Apple ",
-    "id": "lazybean3/hinge",
-    "language": "\u2014",
-    "name": "lazybean3/hinge",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:42:31Z",
-    "url": "https://github.com/lazybean3/hinge"
-  },
-  {
-    "description": "Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly",
-    "id": "Carlosdalv669/formify-skills",
-    "language": "HTML",
-    "name": "Carlosdalv669/formify-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:42:28Z",
-    "url": "https://github.com/Carlosdalv669/formify-skills"
-  },
-  {
-    "description": "\u878d\u5408\u591a\u79cdPPT\u8bbe\u8ba1\u98ce\u683c\uff0c\u76f4\u63a5\u751f\u6210PPT\u6587\u4ef6\u800c\u4e0d\u662fHTML",
-    "id": "billLiao/PPT-Design-Skill",
-    "language": "JavaScript",
-    "name": "billLiao/PPT-Design-Skill",
-    "stars": 6,
-    "updated_at": "2026-10-08T06:42:24Z",
-    "url": "https://github.com/billLiao/PPT-Design-Skill"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:42:08Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
-  },
-  {
-    "description": "Turn any CV into a researched, bilingual Excel shortlist of top-fit companies with salaries, scores, and next steps.",
-    "id": "alicekane437/cv-job-market-research",
-    "language": "\u2014",
-    "name": "alicekane437/cv-job-market-research",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:41:36Z",
-    "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:41:11Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:40:52Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:39:28Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-10-08T06:38:58Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
   }
 ]
