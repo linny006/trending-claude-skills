@@ -1,12 +1,57 @@
 [
   {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 5,
-    "updated_at": "2026-10-09T18:59:16Z",
-    "url": "https://github.com/inkatze/planwright"
+    "description": "Opencode agents and skills",
+    "id": "chris-hendrix/ai-hub",
+    "language": "TypeScript",
+    "name": "chris-hendrix/ai-hub",
+    "stars": 2,
+    "updated_at": "2026-10-09T19:14:42Z",
+    "url": "https://github.com/chris-hendrix/ai-hub"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 65,
+    "updated_at": "2026-10-09T19:14:26Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Workspace Architect is a zero-friction CLI tool that provides curated collections of specialized agents, instructions, a",
+    "id": "archubbuck/workspace-architect",
+    "language": "Python",
+    "name": "archubbuck/workspace-architect",
+    "stars": 19,
+    "updated_at": "2026-10-09T19:12:30Z",
+    "url": "https://github.com/archubbuck/workspace-architect"
+  },
+  {
+    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
+    "id": "Klotzkette/claude-fuer-deutsches-recht",
+    "language": "Python",
+    "name": "Klotzkette/claude-fuer-deutsches-recht",
+    "stars": 1685,
+    "updated_at": "2026-10-09T19:12:06Z",
+    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  },
+  {
+    "description": "Your agent answers with cards: one claim per card, at most one ask. You judge each card and send one reply. Plain Org mo",
+    "id": "lroolle/card-skill",
+    "language": "JavaScript",
+    "name": "lroolle/card-skill",
+    "stars": 0,
+    "updated_at": "2026-10-09T19:11:41Z",
+    "url": "https://github.com/lroolle/card-skill"
+  },
+  {
+    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
+    "id": "bjcoombs/ai-native-toolkit",
+    "language": "Python",
+    "name": "bjcoombs/ai-native-toolkit",
+    "stars": 32,
+    "updated_at": "2026-10-09T19:11:05Z",
+    "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
     "description": "Skill per Claude Code che trasformano un repository in vetrina: copertine SVG, pagina HTML di presentazione, dashboard i",
@@ -14,8 +59,80 @@
     "language": "HTML",
     "name": "FedeGambe/skill-vetrina",
     "stars": 0,
-    "updated_at": "2026-10-09T18:58:51Z",
+    "updated_at": "2026-10-09T19:09:39Z",
     "url": "https://github.com/FedeGambe/skill-vetrina"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-09T19:14:51Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-10-09T19:06:44Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Claude Code skills for academic research support: paper review, bibliography verification, literature surveying, head-to",
+    "id": "chgagne/claude-skills-research",
+    "language": "Python",
+    "name": "chgagne/claude-skills-research",
+    "stars": 5,
+    "updated_at": "2026-10-09T19:03:48Z",
+    "url": "https://github.com/chgagne/claude-skills-research"
+  },
+  {
+    "description": "A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work. ",
+    "id": "matlab/agent-skills-playground",
+    "language": "HTML",
+    "name": "matlab/agent-skills-playground",
+    "stars": 183,
+    "updated_at": "2026-10-09T19:02:28Z",
+    "url": "https://github.com/matlab/agent-skills-playground"
+  },
+  {
+    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 448,
+    "updated_at": "2026-10-09T19:02:24Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 12,
+    "updated_at": "2026-10-09T19:00:38Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-09T19:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-09T19:13:25Z",
+    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "Installable OpenCode plugin shipping 16 agent skills: Windows PowerShell rules, config and skill authoring, git/GitHub s",
@@ -25,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T18:56:43Z",
     "url": "https://github.com/TrueImmortal82/open-code-skills"
-  },
-  {
-    "description": "Claude Code plugin & Agent Skills for AI-native development: codebase readiness scoring (/assess), Six Thinking Hats del",
-    "id": "bjcoombs/ai-native-toolkit",
-    "language": "Python",
-    "name": "bjcoombs/ai-native-toolkit",
-    "stars": 32,
-    "updated_at": "2026-10-09T18:56:30Z",
-    "url": "https://github.com/bjcoombs/ai-native-toolkit"
   },
   {
     "description": "Link WhatsApp to Claude (or any MCP client) in ~20 minutes: a live self-refreshing QR page that makes pairing actually w",
@@ -151,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-10-09T18:55:24Z",
     "url": "https://github.com/tonydzi/harness-abc-bench"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1685,
-    "updated_at": "2026-10-09T18:55:24Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
   },
   {
     "description": "Roll a fix to N machines and prove it landed on each one: applied-vs-claimed accounting, canary waves, a verify that mus",
@@ -310,7 +409,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81103,
+    "stars": 81106,
     "updated_at": "2026-10-09T18:52:24Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T18:48:39Z",
     "url": "https://github.com/yihexiang/rulai-distill"
-  },
-  {
-    "description": "The last mile of the academic figure toolchain \u2014 a Claude Code skill that draws editable, paper-exact vector figures dir",
-    "id": "shiran-yu/Academic-Figure-Figma-CC-Skills",
-    "language": "Python",
-    "name": "shiran-yu/Academic-Figure-Figma-CC-Skills",
-    "stars": 5,
-    "updated_at": "2026-10-09T18:46:29Z",
-    "url": "https://github.com/shiran-yu/Academic-Figure-Figma-CC-Skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 124,
-    "updated_at": "2026-10-09T18:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Composable agent skills and project-scoped environments for Nix. ",
-    "id": "0xc000022070/agentic-flake",
-    "language": "Nix",
-    "name": "0xc000022070/agentic-flake",
-    "stars": 1,
-    "updated_at": "2026-10-09T18:44:37Z",
-    "url": "https://github.com/0xc000022070/agentic-flake"
-  },
-  {
-    "description": "Demovela agent skill: practical workflows, examples and account-scoped MCP guidance. Product demos and marketing videos ",
-    "id": "demovela/agent-skill",
-    "language": "\u2014",
-    "name": "demovela/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:44:36Z",
-    "url": "https://github.com/demovela/agent-skill"
-  },
-  {
-    "description": "Charmshots agent skill: practical workflows, examples and account-scoped MCP guidance. AI portraits for dating profiles ",
-    "id": "charmshots/agent-skill",
-    "language": "\u2014",
-    "name": "charmshots/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:44:34Z",
-    "url": "https://github.com/charmshots/agent-skill"
-  },
-  {
-    "description": "Liftaven agent skill: practical workflows, examples and account-scoped MCP guidance. SEO research that leads to reviewed",
-    "id": "liftaven/agent-skill",
-    "language": "\u2014",
-    "name": "liftaven/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:44:33Z",
-    "url": "https://github.com/liftaven/agent-skill"
-  },
-  {
-    "description": "Adlane agent skill: practical workflows, examples and account-scoped MCP guidance. A clearer next move in Google and Met",
-    "id": "adlane-app/agent-skill",
-    "language": "\u2014",
-    "name": "adlane-app/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:44:31Z",
-    "url": "https://github.com/adlane-app/agent-skill"
-  },
-  {
-    "description": "Facehunch agent skill: practical workflows, examples and account-scoped MCP guidance. Photo-search context with clear li",
-    "id": "facehunch/agent-skill",
-    "language": "\u2014",
-    "name": "facehunch/agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:44:30Z",
-    "url": "https://github.com/facehunch/agent-skill"
-  },
-  {
-    "description": "Your agent answers with cards: one claim per card, at most one ask. You judge each card and send one reply. Plain Org mo",
-    "id": "lroolle/card-skill",
-    "language": "JavaScript",
-    "name": "lroolle/card-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:43:43Z",
-    "url": "https://github.com/lroolle/card-skill"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-09T18:43:38Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "A Claude Code skill for building interactive HTML presentations",
-    "id": "jonasster/stepped-presentations",
-    "language": "HTML",
-    "name": "jonasster/stepped-presentations",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:42:27Z",
-    "url": "https://github.com/jonasster/stepped-presentations"
   }
 ]
