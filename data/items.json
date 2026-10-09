@@ -1,5 +1,122 @@
 [
   {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-09T18:15:03Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Claude Code skills for writing Zotero translators and plugins",
+    "id": "seanlawsonphd/zotero-claude-skills",
+    "language": "Shell",
+    "name": "seanlawsonphd/zotero-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:14:34Z",
+    "url": "https://github.com/seanlawsonphd/zotero-claude-skills"
+  },
+  {
+    "description": "Plugin for Claude Code: sends each coding task to the cheapest model that can do it right, keeps your main chat lean, re",
+    "id": "mefayed/boss-skill",
+    "language": "Python",
+    "name": "mefayed/boss-skill",
+    "stars": 5,
+    "updated_at": "2026-10-09T18:14:14Z",
+    "url": "https://github.com/mefayed/boss-skill"
+  },
+  {
+    "description": "Collection of skills for the ColdBox Platform and Claude Plugin",
+    "id": "ColdBox/skills",
+    "language": "\u2014",
+    "name": "ColdBox/skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:13:51Z",
+    "url": "https://github.com/ColdBox/skills"
+  },
+  {
+    "description": "One-command installer for Claude Code skills, commands, agents and session memory (claude-mem)",
+    "id": "Tonxetyz/start-skill-bundle",
+    "language": "JavaScript",
+    "name": "Tonxetyz/start-skill-bundle",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:13:02Z",
+    "url": "https://github.com/Tonxetyz/start-skill-bundle"
+  },
+  {
+    "description": "Claude Code plugin: grades every plan Claude writes against 14 Hemingway rules and rewrites docs to an A.",
+    "id": "gagoar/iceberg",
+    "language": "TypeScript",
+    "name": "gagoar/iceberg",
+    "stars": 8,
+    "updated_at": "2026-10-09T18:13:29Z",
+    "url": "https://github.com/gagoar/iceberg"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 189,
+    "updated_at": "2026-10-09T18:13:20Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent",
+    "id": "MohammadHijjawi97/since-cutoff",
+    "language": "Python",
+    "name": "MohammadHijjawi97/since-cutoff",
+    "stars": 8,
+    "updated_at": "2026-10-09T18:14:13Z",
+    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
+  },
+  {
+    "description": "Your agent answers with cards: one claim per card, at most one ask. You judge each card and send one reply. Plain Org mo",
+    "id": "lroolle/card-skill",
+    "language": "JavaScript",
+    "name": "lroolle/card-skill",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:11:07Z",
+    "url": "https://github.com/lroolle/card-skill"
+  },
+  {
+    "description": "Claude Code plugin marketplace. Hand-forged skills, grouped into plugins.",
+    "id": "gmbalaa14/thiran-pattarai",
+    "language": "Python",
+    "name": "gmbalaa14/thiran-pattarai",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:11:05Z",
+    "url": "https://github.com/gmbalaa14/thiran-pattarai"
+  },
+  {
+    "description": "Claude skill for e-commerce, online platform and GDPR compliance in Romania and the EU, with live verification on offici",
+    "id": "tiberiugabriel/LexRO",
+    "language": "Shell",
+    "name": "tiberiugabriel/LexRO",
+    "stars": 0,
+    "updated_at": "2026-10-09T18:10:11Z",
+    "url": "https://github.com/tiberiugabriel/LexRO"
+  },
+  {
+    "description": "A Claude Skill that turns Claude Code into a Roblox game development assistant for Luau, Rojo, multiplayer systems, 3D a",
+    "id": "gogolumo/rbsmithy-roblox-claude-skill",
+    "language": "Luau",
+    "name": "gogolumo/rbsmithy-roblox-claude-skill",
+    "stars": 5,
+    "updated_at": "2026-10-09T18:09:28Z",
+    "url": "https://github.com/gogolumo/rbsmithy-roblox-claude-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-09T18:09:07Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "BoxLang AI skills repository and Claude Plugin",
     "id": "ortus-boxlang/skills",
     "language": "\u2014",
@@ -36,15 +153,6 @@
     "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
-    "description": "Plugin for Claude Code: sends each coding task to the cheapest model that can do it right, keeps your main chat lean, re",
-    "id": "mefayed/boss-skill",
-    "language": "Python",
-    "name": "mefayed/boss-skill",
-    "stars": 5,
-    "updated_at": "2026-10-09T18:05:37Z",
-    "url": "https://github.com/mefayed/boss-skill"
-  },
-  {
     "description": "Agent Skill + CLI: read JS-rendered share pages (Gemini share links etc.) that plain fetches return as empty shells. Hea",
     "id": "neonlight0123/read-js-share-pages",
     "language": "JavaScript",
@@ -52,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T18:05:03Z",
     "url": "https://github.com/neonlight0123/read-js-share-pages"
-  },
-  {
-    "description": "Your agent answers with cards: one claim per card, at most one ask. You judge each card and send one reply. Plain Org mo",
-    "id": "lroolle/card-skill",
-    "language": "JavaScript",
-    "name": "lroolle/card-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T18:04:40Z",
-    "url": "https://github.com/lroolle/card-skill"
   },
   {
     "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
@@ -88,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T18:03:11Z",
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "A Claude Skill that turns Claude Code into a Roblox game development assistant for Luau, Rojo, multiplayer systems, 3D a",
-    "id": "gogolumo/rbsmithy-roblox-claude-skill",
-    "language": "Luau",
-    "name": "gogolumo/rbsmithy-roblox-claude-skill",
-    "stars": 5,
-    "updated_at": "2026-10-09T18:02:39Z",
-    "url": "https://github.com/gogolumo/rbsmithy-roblox-claude-skill"
   },
   {
     "description": "Agent Skill for TKET / pytket, Quantinuum's open-source quantum compiler toolkit. Follows the scientific-agent-skills co",
@@ -135,15 +225,6 @@
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 124,
-    "updated_at": "2026-10-09T18:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Universal agent skill for creating modern HTML slideshows \u2014 reveal.js, Slidev & Marp router with routing, visual styles,",
     "id": "hernsa/slideshow-master",
     "language": "HTML",
@@ -157,7 +238,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81091,
+    "stars": 81093,
     "updated_at": "2026-10-09T17:57:47Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -194,7 +275,7 @@
     "language": "HTML",
     "name": "filippolmt/skills",
     "stars": 1,
-    "updated_at": "2026-10-09T17:54:42Z",
+    "updated_at": "2026-10-09T18:11:09Z",
     "url": "https://github.com/filippolmt/skills"
   },
   {
@@ -221,7 +302,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-09T18:02:07Z",
+    "updated_at": "2026-10-09T18:14:44Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -351,24 +432,6 @@
     "url": "https://github.com/rajdeepratan/SlashForge"
   },
   {
-    "description": "Claude Code plugin marketplace. Hand-forged skills, grouped into plugins.",
-    "id": "gmbalaa14/thiran-pattarai",
-    "language": "Python",
-    "name": "gmbalaa14/thiran-pattarai",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:40:03Z",
-    "url": "https://github.com/gmbalaa14/thiran-pattarai"
-  },
-  {
-    "description": "One-command installer for a curated set of Claude Code skills",
-    "id": "Tonxetyz/start-skill-bundle",
-    "language": "JavaScript",
-    "name": "Tonxetyz/start-skill-bundle",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:36:13Z",
-    "url": "https://github.com/Tonxetyz/start-skill-bundle"
-  },
-  {
     "description": "Your AI coding agent stops grading its own homework: adversarial sessions plan, review the plan, implement and review th",
     "id": "ArchitektApx/Vibe-Driven-Development",
     "language": "Markdown",
@@ -385,68 +448,5 @@
     "stars": 65,
     "updated_at": "2026-10-09T17:34:05Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Claude Code skills: skill-trimmer (prune unused skills, plugins and connectors) and skill-router (pick the right skill w",
-    "id": "gabosa-cajado/skills-cajado",
-    "language": "Python",
-    "name": "gabosa-cajado/skills-cajado",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:32:27Z",
-    "url": "https://github.com/gabosa-cajado/skills-cajado"
-  },
-  {
-    "description": "Cite Holmes - deep research skill that interrogates its own citations",
-    "id": "docsor1212/cite-holmes",
-    "language": "Python",
-    "name": "docsor1212/cite-holmes",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:32:18Z",
-    "url": "https://github.com/docsor1212/cite-holmes"
-  },
-  {
-    "description": "Community index of Claude skills for scientific work. Pinned, checked, one-line import.",
-    "id": "ai4science-skills/skills",
-    "language": "Python",
-    "name": "ai4science-skills/skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:28:56Z",
-    "url": "https://github.com/ai4science-skills/skills"
-  },
-  {
-    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
-    "id": "imboard-ai/ai-dossier",
-    "language": "TypeScript",
-    "name": "imboard-ai/ai-dossier",
-    "stars": 9,
-    "updated_at": "2026-10-09T18:05:35Z",
-    "url": "https://github.com/imboard-ai/ai-dossier"
-  },
-  {
-    "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/",
-    "id": "Ark0N/Codeman",
-    "language": "TypeScript",
-    "name": "Ark0N/Codeman",
-    "stars": 782,
-    "updated_at": "2026-10-09T17:26:40Z",
-    "url": "https://github.com/Ark0N/Codeman"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-10-09T17:20:05Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Claude Code skill: record captioned Playwright walkthrough videos as visual proof, with an ffmpeg SSIM motion gate",
-    "id": "alinaqi/demo-video-skill",
-    "language": "Shell",
-    "name": "alinaqi/demo-video-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T17:15:01Z",
-    "url": "https://github.com/alinaqi/demo-video-skill"
   }
 ]
