@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agent skill for Senzing entity resolution \u2014 data mapping, SDK code generation, documentation search, error troubleshooti",
+    "id": "Senzing/senzing-mcp-skill",
+    "language": "\u2014",
+    "name": "Senzing/senzing-mcp-skill",
+    "stars": 13,
+    "updated_at": "2026-10-09T11:59:51Z",
+    "url": "https://github.com/Senzing/senzing-mcp-skill"
+  },
+  {
+    "description": "fn-ladder \u51fd\u6570\u9636\u68af\uff1a\u4ee5\u51fd\u6570\u4e3a\u9897\u7c92\u5ea6\u7684 AI \u7f16\u7a0b\u5f00\u53d1\u6d41\u6280\u80fd\u5957\u4ef6\uff0c\u9632 AI \u5047\u5b8c\u6210",
+    "id": "r-y-ren/fn-ladder",
+    "language": "Python",
+    "name": "r-y-ren/fn-ladder",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:58:51Z",
+    "url": "https://github.com/r-y-ren/fn-ladder"
+  },
+  {
+    "description": "\u84b8\u998f\u5de5\u5382\uff1a\u628a\u4e66\u7c4d/\u957f\u89c6\u9891/\u64ad\u5ba2/\u8bbf\u8c08/\u4eba\u7269\u7d20\u6750\u84b8\u998f\u6210\u53ef\u6267\u884c\u3001\u53ef\u9a8c\u8bc1\u3001\u53ef\u8ffd\u6eaf\u7684 Agent Skills\u3002contract-first + FIDELITY \u53cc Agent \u51fa\u5382\u8d28\u68c0\u3002",
+    "id": "yihexiang/rulai-distill",
+    "language": "Python",
+    "name": "yihexiang/rulai-distill",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:58:14Z",
+    "url": "https://github.com/yihexiang/rulai-distill"
+  },
+  {
+    "description": "Claude Code plugins I use every day: skills and mods, cleaned up so they work on anyone's machine.",
+    "id": "mutlumehmet/claude-plugins",
+    "language": "TypeScript",
+    "name": "mutlumehmet/claude-plugins",
+    "stars": 3,
+    "updated_at": "2026-10-09T11:58:11Z",
+    "url": "https://github.com/mutlumehmet/claude-plugins"
+  },
+  {
+    "description": "Claude Skill: FortiAnalyzer Dataset Creator",
+    "id": "sanderzegers/fortianalyzer-dataset-skill",
+    "language": "\u2014",
+    "name": "sanderzegers/fortianalyzer-dataset-skill",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:57:22Z",
+    "url": "https://github.com/sanderzegers/fortianalyzer-dataset-skill"
+  },
+  {
+    "description": "Free global SEO / GEO Skill for Codex and Claude Code \u2014 18 language-market portals, 8 site-type playbooks, ~110 referenc",
+    "id": "everyinfra/seo-skills",
+    "language": "Python",
+    "name": "everyinfra/seo-skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T11:57:15Z",
+    "url": "https://github.com/everyinfra/seo-skills"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 2431,
+    "updated_at": "2026-10-09T11:55:56Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-09T11:55:38Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code plugin: turn a published long-form piece into social posts built from your own sentences, with a local posti",
     "id": "mrowean/long-form-distribution",
     "language": "HTML",
@@ -7,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T11:55:22Z",
     "url": "https://github.com/mrowean/long-form-distribution"
-  },
-  {
-    "description": "Free global SEO / GEO Skill \u2014 18 language markets in one workbench, market \u00d7 capability dual-dimension, each market deep",
-    "id": "everyinfra/seo-skills",
-    "language": "Python",
-    "name": "everyinfra/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:53:38Z",
-    "url": "https://github.com/everyinfra/seo-skills"
   },
   {
     "description": "Agent skills that keep AI-written TypeScript and React code in check: measure which anti-slop checks a repo needs (stric",
@@ -70,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-10-09T11:47:34Z",
     "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-09T11:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skills for repository audits and documentation: verify README and docs claims against the code, run audits w",
@@ -394,59 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-09T11:44:32Z",
     "url": "https://github.com/kanfu-panda/pdlc-skills"
-  },
-  {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-09T11:32:36Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "A skill for a multiagent system to develop statistical and numerical R packages. An agent using it can produce a pull re",
-    "id": "gregfaletto/r-package-dev-skill",
-    "language": "R",
-    "name": "gregfaletto/r-package-dev-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:32:13Z",
-    "url": "https://github.com/gregfaletto/r-package-dev-skill"
-  },
-  {
-    "description": "Free skills from iGamingTextLab editorial ",
-    "id": "igamingtextlab/IGTL-SKILLS",
-    "language": "Python",
-    "name": "igamingtextlab/IGTL-SKILLS",
-    "stars": 2,
-    "updated_at": "2026-10-09T11:31:58Z",
-    "url": "https://github.com/igamingtextlab/IGTL-SKILLS"
-  },
-  {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 2431,
-    "updated_at": "2026-10-09T11:31:17Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
-    "description": "Claude CLI skill + mod that adds Spanish words into agent replies",
-    "id": "Exdenta/ambient-spanish",
-    "language": "Python",
-    "name": "Exdenta/ambient-spanish",
-    "stars": 1,
-    "updated_at": "2026-10-09T11:30:19Z",
-    "url": "https://github.com/Exdenta/ambient-spanish"
-  },
-  {
-    "description": "\u4ece NocoBase \u5b98\u65b9\u6587\u6863\uff08\u4e2d\u6587\u7248 1080 \u7bc7\uff09\u84b8\u998f\u51fa\u7684 8 \u4e2a\u53ef\u8c03\u7528 Skill\uff1a\u6570\u636e\u5efa\u6a21\u4f18\u5148\u3001\u89e6\u53d1\u5668\u65f6\u5e8f\u9009\u578b\u3001\u6743\u9650\u56db\u5c42\u6536\u53e3\u3001\u7248\u672c\u8282\u70b9\u3001Agent \u6280\u80fd\u7f16\u6392\u94fe\u3001AI \u5458\u5de5\u53cc\u5c42\u8bbe\u8ba1\u3001AI \u6743\u9650\u62a4\u680f\u3002\u542b RIA++ \u80fd\u529b\u5361\u4e0e\u4e09\u8f6e\u76f2\u6d4b\u8bb0\u5f55",
-    "id": "clawsu-misu/nocobase-skills",
-    "language": "Shell",
-    "name": "clawsu-misu/nocobase-skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:29:20Z",
-    "url": "https://github.com/clawsu-misu/nocobase-skills"
   }
 ]
