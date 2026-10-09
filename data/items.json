@@ -1,5 +1,95 @@
 [
   {
+    "description": "Playlist for Claude Code lets you group your installed skills under one name, then load them all from the slash menu wit",
+    "id": "mvoshell652/playlist",
+    "language": "Python",
+    "name": "mvoshell652/playlist",
+    "stars": 2,
+    "updated_at": "2026-10-09T17:29:26Z",
+    "url": "https://github.com/mvoshell652/playlist"
+  },
+  {
+    "description": "Community index of Claude skills for scientific work. Pinned, checked, one-line import.",
+    "id": "ai4science-skills/skills",
+    "language": "Python",
+    "name": "ai4science-skills/skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:28:56Z",
+    "url": "https://github.com/ai4science-skills/skills"
+  },
+  {
+    "description": "Claude Code plugin for per-agent tool visibility \u2014 hide and refuse subagents, skills, MCP and built-in tools per loop",
+    "id": "rezzminator/tool-visibility-controller",
+    "language": "TypeScript",
+    "name": "rezzminator/tool-visibility-controller",
+    "stars": 1,
+    "updated_at": "2026-10-09T17:27:26Z",
+    "url": "https://github.com/rezzminator/tool-visibility-controller"
+  },
+  {
+    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
+    "id": "imboard-ai/ai-dossier",
+    "language": "TypeScript",
+    "name": "imboard-ai/ai-dossier",
+    "stars": 9,
+    "updated_at": "2026-10-09T17:27:19Z",
+    "url": "https://github.com/imboard-ai/ai-dossier"
+  },
+  {
+    "description": "Your agent answers with cards: one claim per card, at most one ask. You judge each card and send one reply. Plain Org mo",
+    "id": "lroolle/card-skill",
+    "language": "JavaScript",
+    "name": "lroolle/card-skill",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:23:22Z",
+    "url": "https://github.com/lroolle/card-skill"
+  },
+  {
+    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
+    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "language": "HTML",
+    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
+    "stars": 2,
+    "updated_at": "2026-10-09T17:20:05Z",
+    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69919,
+    "updated_at": "2026-10-09T17:17:28Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\ud83c\udf55 An opinionated, extensible Agent Harness based on Pi. Connect Multiple Computers to one harness and work anywhere.",
+    "id": "Pizzaface/PizzaPi",
+    "language": "TypeScript",
+    "name": "Pizzaface/PizzaPi",
+    "stars": 15,
+    "updated_at": "2026-10-09T17:25:15Z",
+    "url": "https://github.com/Pizzaface/PizzaPi"
+  },
+  {
+    "description": "\u53ef\u590d\u7528\u7684 Claude Code \u6280\u80fd\u96c6\uff1aGit \u5de5\u4f5c\u6d41\u3001\u4ee3\u7801\u5ba1\u67e5\u3001Bug \u6839\u56e0\u5206\u6790\u3001\u4ed3\u5e93\u5206\u6790\u7b49\u65e5\u5e38\u573a\u666f\uff0c\u4ee5\u53ca\u628a\u4ed3\u5e93\u6539\u9020\u6210\u89c4\u8303\u5f00\u6e90\u9879\u76ee\u7684\u5b8c\u6574\u6d41\u7a0b\u3002npx skills add nicholyx/ai-skills",
+    "id": "nicholyx/ai-skills",
+    "language": "Python",
+    "name": "nicholyx/ai-skills",
+    "stars": 6,
+    "updated_at": "2026-10-09T17:15:47Z",
+    "url": "https://github.com/nicholyx/ai-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-09T17:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skill: record captioned Playwright walkthrough videos as visual proof, with an ffmpeg SSIM motion gate",
     "id": "alinaqi/demo-video-skill",
     "language": "Shell",
@@ -7,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-10-09T17:15:01Z",
     "url": "https://github.com/alinaqi/demo-video-skill"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 81083,
+    "updated_at": "2026-10-09T17:27:43Z",
+    "url": "https://github.com/tt-a1i/archify"
   },
   {
     "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
@@ -41,7 +140,7 @@
     "language": "TypeScript",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-09T17:14:50Z",
+    "updated_at": "2026-10-09T17:29:21Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -90,15 +189,6 @@
     "url": "https://github.com/nowespojrzenie/HEXAGRAM"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-09T17:00:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "PubMed\u6587\u732e\u5f15\u7528\u6279\u91cf\u9a8c\u8bc1\u5de5\u5177 - AI\u5e7b\u89c9\u68c0\u6d4b",
     "id": "docsor1212/pubmed-verifier",
     "language": "Python",
@@ -106,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T17:00:12Z",
     "url": "https://github.com/docsor1212/pubmed-verifier"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69923,
-    "updated_at": "2026-10-09T16:59:00Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "pkg \u2014 Agent Skill (SKILL.md open format)",
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "scenario-labs/skills",
     "stars": 939,
-    "updated_at": "2026-10-09T17:02:03Z",
+    "updated_at": "2026-10-09T17:17:35Z",
     "url": "https://github.com/scenario-labs/skills"
   },
   {
@@ -223,24 +304,6 @@
     "stars": 3223,
     "updated_at": "2026-10-09T16:46:46Z",
     "url": "https://github.com/rebelytics/one-skill-to-rule-them-all"
-  },
-  {
-    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
-    "id": "imboard-ai/ai-dossier",
-    "language": "TypeScript",
-    "name": "imboard-ai/ai-dossier",
-    "stars": 9,
-    "updated_at": "2026-10-09T17:10:57Z",
-    "url": "https://github.com/imboard-ai/ai-dossier"
-  },
-  {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 81084,
-    "updated_at": "2026-10-09T17:14:35Z",
-    "url": "https://github.com/tt-a1i/archify"
   },
   {
     "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "gmbalaa14/thiran-pattarai",
     "stars": 0,
-    "updated_at": "2026-10-09T17:00:23Z",
+    "updated_at": "2026-10-09T17:29:14Z",
     "url": "https://github.com/gmbalaa14/thiran-pattarai"
   },
   {
@@ -320,7 +383,7 @@
     "language": "Go",
     "name": "patrickserrano/lacquer",
     "stars": 4,
-    "updated_at": "2026-10-09T16:40:45Z",
+    "updated_at": "2026-10-09T17:28:30Z",
     "url": "https://github.com/patrickserrano/lacquer"
   },
   {
@@ -346,7 +409,7 @@
     "id": "oil-oil/oil-ui",
     "language": "Python",
     "name": "oil-oil/oil-ui",
-    "stars": 1130,
+    "stars": 1131,
     "updated_at": "2026-10-09T16:37:49Z",
     "url": "https://github.com/oil-oil/oil-ui"
   },
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-09T16:34:49Z",
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 15,
-    "updated_at": "2026-10-09T16:33:43Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s",
-    "id": "liustack/pptwise",
-    "language": "TypeScript",
-    "name": "liustack/pptwise",
-    "stars": 19,
-    "updated_at": "2026-10-09T16:33:02Z",
-    "url": "https://github.com/liustack/pptwise"
-  },
-  {
-    "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on t",
-    "id": "openqodex/openqodex",
-    "language": "TypeScript",
-    "name": "openqodex/openqodex",
-    "stars": 498,
-    "updated_at": "2026-10-09T16:32:38Z",
-    "url": "https://github.com/openqodex/openqodex"
-  },
-  {
-    "description": "Print on your Formlabs printer from Claude Code. Plugin marketplace: MCP server + print-prep skills.",
-    "id": "mkebiclioglu/formlabs-claude-skills",
-    "language": "Python",
-    "name": "mkebiclioglu/formlabs-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:31:56Z",
-    "url": "https://github.com/mkebiclioglu/formlabs-claude-skills"
-  },
-  {
-    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
-    "id": "solanabr/ai-kit",
-    "language": "Shell",
-    "name": "solanabr/ai-kit",
-    "stars": 108,
-    "updated_at": "2026-10-09T16:31:43Z",
-    "url": "https://github.com/solanabr/ai-kit"
-  },
-  {
-    "description": "An agent skill for email: find what matters, write short natural replies, and send with the right attachments. Works wit",
-    "id": "shixi-11/email-assistant",
-    "language": "\u2014",
-    "name": "shixi-11/email-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:28:59Z",
-    "url": "https://github.com/shixi-11/email-assistant"
-  },
-  {
-    "description": "Community index of Claude skills for scientific work. Pinned, checked, one-line import.",
-    "id": "ai4science-skills/skills",
-    "language": "Python",
-    "name": "ai4science-skills/skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:27:17Z",
-    "url": "https://github.com/ai4science-skills/skills"
   }
 ]
