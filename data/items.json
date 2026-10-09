@@ -1,5 +1,104 @@
 [
   {
+    "description": "Claude Code skill: record captioned Playwright walkthrough videos as visual proof, with an ffmpeg SSIM motion gate",
+    "id": "alinaqi/demo-video-skill",
+    "language": "Shell",
+    "name": "alinaqi/demo-video-skill",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:15:01Z",
+    "url": "https://github.com/alinaqi/demo-video-skill"
+  },
+  {
+    "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
+    "id": "ericluo04/claude-academic-workflow",
+    "language": "TeX",
+    "name": "ericluo04/claude-academic-workflow",
+    "stars": 25,
+    "updated_at": "2026-10-09T17:13:19Z",
+    "url": "https://github.com/ericluo04/claude-academic-workflow"
+  },
+  {
+    "description": "Publication-ready research figures from a single command: forest plots, KM curves with risk tables, PRISMA 2020, ROC wit",
+    "id": "docsor1212/academic-figures",
+    "language": "Python",
+    "name": "docsor1212/academic-figures",
+    "stars": 1,
+    "updated_at": "2026-10-09T17:12:45Z",
+    "url": "https://github.com/docsor1212/academic-figures"
+  },
+  {
+    "description": "paper-polisher-v3.4 \u2014 Agent Skill (SKILL.md open format)",
+    "id": "docsor1212/paper-polisher-pro",
+    "language": "Python",
+    "name": "docsor1212/paper-polisher-pro",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:09:08Z",
+    "url": "https://github.com/docsor1212/paper-polisher-pro"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "TypeScript",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-09T17:14:50Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-09T17:07:07Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/ai-utils",
+    "language": "C++",
+    "name": "TsukiNi22/ai-utils",
+    "stars": 1,
+    "updated_at": "2026-10-09T17:05:21Z",
+    "url": "https://github.com/TsukiNi22/ai-utils"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-09T17:03:48Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 65,
+    "updated_at": "2026-10-09T17:02:19Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Epistemic discipline for AI assistants \u2014 truth statuses, an error registry, mutation-tested guards. Plain files, git as ",
+    "id": "nowespojrzenie/HEXAGRAM",
+    "language": "Shell",
+    "name": "nowespojrzenie/HEXAGRAM",
+    "stars": 1,
+    "updated_at": "2026-10-09T17:01:39Z",
+    "url": "https://github.com/nowespojrzenie/HEXAGRAM"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-09T17:00:19Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "PubMed\u6587\u732e\u5f15\u7528\u6279\u91cf\u9a8c\u8bc1\u5de5\u5177 - AI\u5e7b\u89c9\u68c0\u6d4b",
     "id": "docsor1212/pubmed-verifier",
     "language": "Python",
@@ -13,7 +112,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69922,
+    "stars": 69923,
     "updated_at": "2026-10-09T16:59:00Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -113,7 +212,7 @@
     "language": "Python",
     "name": "scenario-labs/skills",
     "stars": 939,
-    "updated_at": "2026-10-09T16:59:38Z",
+    "updated_at": "2026-10-09T17:02:03Z",
     "url": "https://github.com/scenario-labs/skills"
   },
   {
@@ -131,7 +230,7 @@
     "language": "TypeScript",
     "name": "imboard-ai/ai-dossier",
     "stars": 9,
-    "updated_at": "2026-10-09T16:54:59Z",
+    "updated_at": "2026-10-09T17:10:57Z",
     "url": "https://github.com/imboard-ai/ai-dossier"
   },
   {
@@ -139,18 +238,9 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81080,
-    "updated_at": "2026-10-09T16:46:05Z",
+    "stars": 81084,
+    "updated_at": "2026-10-09T17:14:35Z",
     "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-09T16:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
@@ -158,7 +248,7 @@
     "language": "Python",
     "name": "CrossRead/scholion",
     "stars": 4,
-    "updated_at": "2026-10-09T16:52:48Z",
+    "updated_at": "2026-10-09T17:01:01Z",
     "url": "https://github.com/CrossRead/scholion"
   },
   {
@@ -185,7 +275,7 @@
     "language": "Python",
     "name": "gmbalaa14/thiran-pattarai",
     "stars": 0,
-    "updated_at": "2026-10-09T16:43:52Z",
+    "updated_at": "2026-10-09T17:00:23Z",
     "url": "https://github.com/gmbalaa14/thiran-pattarai"
   },
   {
@@ -288,15 +378,6 @@
     "url": "https://github.com/eduair94/cambio-uruguay"
   },
   {
-    "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
-    "id": "ericluo04/claude-academic-workflow",
-    "language": "TeX",
-    "name": "ericluo04/claude-academic-workflow",
-    "stars": 25,
-    "updated_at": "2026-10-09T16:35:28Z",
-    "url": "https://github.com/ericluo04/claude-academic-workflow"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T16:27:17Z",
     "url": "https://github.com/ai4science-skills/skills"
-  },
-  {
-    "description": "Battle-tested Claude Skills and frameworks for building AI products that ship, scale, and stay compliant \u2014 by Danar Must",
-    "id": "Danartechguru/ai-product-playbook",
-    "language": "\u2014",
-    "name": "Danartechguru/ai-product-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:26:25Z",
-    "url": "https://github.com/Danartechguru/ai-product-playbook"
-  },
-  {
-    "description": "Claude Code \u63d2\u4ef6\uff1a\u628a\u6545\u4e8b\u6216\u6b4c\u66f2\u5728\u672c\u5730\u505a\u6210\u89c6\u9891\uff0c\u6bcf\u6b65\u5148\u8ba8\u8bba\u518d\u751f\u6210 | A Claude Code plugin that turns a story or a song into a video locally (ComfyUI,",
-    "id": "x7zachary/story-to-video",
-    "language": "Python",
-    "name": "x7zachary/story-to-video",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:25:48Z",
-    "url": "https://github.com/x7zachary/story-to-video"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Rust",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 9,
-    "updated_at": "2026-10-09T16:25:00Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "Claude Code plugin that enforces hexagonal architecture (ports & adapters) in Symfony projects \u2014 with 10 auto-triggered ",
-    "id": "aligundogdu/symfony-hexagonal-skill",
-    "language": "Shell",
-    "name": "aligundogdu/symfony-hexagonal-skill",
-    "stars": 35,
-    "updated_at": "2026-10-09T16:24:47Z",
-    "url": "https://github.com/aligundogdu/symfony-hexagonal-skill"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-09T16:24:15Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-09T16:23:57Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-10-09T16:21:07Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Claude Code skills for rewriting AI-drafted prose to pass AI detectors: a measured three-step pipeline (structural rewri",
-    "id": "petar-djukic/writing-skills",
-    "language": "Python",
-    "name": "petar-djukic/writing-skills",
-    "stars": 5,
-    "updated_at": "2026-10-09T16:21:05Z",
-    "url": "https://github.com/petar-djukic/writing-skills"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 65,
-    "updated_at": "2026-10-09T16:20:10Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
   }
 ]
