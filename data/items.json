@@ -1,12 +1,156 @@
 [
   {
+    "description": "AI context pack for Vishal Agarwal: profile, work history, 27 scored skills, and the expensive lessons. Loadable by any ",
+    "id": "hellokianben-collab/vishal-agarwal-context",
+    "language": "JavaScript",
+    "name": "hellokianben-collab/vishal-agarwal-context",
+    "stars": 0,
+    "updated_at": "2026-10-09T05:11:21Z",
+    "url": "https://github.com/hellokianben-collab/vishal-agarwal-context"
+  },
+  {
+    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
+    "id": "filippolmt/skills",
+    "language": "HTML",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-10-09T05:11:06Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 95,
+    "updated_at": "2026-10-09T05:10:55Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 1,
+    "updated_at": "2026-10-09T05:10:27Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "Agent skills for reading public data from 33 platforms through the ScraperSocial API \u2014 TikTok, Instagram, LinkedIn, YouT",
+    "id": "nikhonit/social-media-api-skills",
+    "language": "JavaScript",
+    "name": "nikhonit/social-media-api-skills",
+    "stars": 3,
+    "updated_at": "2026-10-09T05:09:58Z",
+    "url": "https://github.com/nikhonit/social-media-api-skills"
+  },
+  {
+    "description": "Agent Skills from Instant Expert: let any AI agent ask real human experts (executives, operators, domain specialists) fo",
+    "id": "Instant-Expert/skills",
+    "language": "Shell",
+    "name": "Instant-Expert/skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T05:09:54Z",
+    "url": "https://github.com/Instant-Expert/skills"
+  },
+  {
+    "description": "Portable, configurable agent skills for reliable everyday work.",
+    "id": "Misoto22/skills",
+    "language": "Python",
+    "name": "Misoto22/skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T05:10:06Z",
+    "url": "https://github.com/Misoto22/skills"
+  },
+  {
+    "description": "Detect what model is really behind any OpenAI-compatible proxy, reseller or gateway. 6-way behavioral forensics - tokeni",
+    "id": "3378925604-a11y/modelspy",
+    "language": "Go",
+    "name": "3378925604-a11y/modelspy",
+    "stars": 0,
+    "updated_at": "2026-10-09T05:08:42Z",
+    "url": "https://github.com/3378925604-a11y/modelspy"
+  },
+  {
+    "description": "\u6296\u97f3\u89c6\u9891\u84b8\u998f Skill\uff1a\u94fe\u63a5 \u2192 \u65e0\u6c34\u5370\u4e0b\u8f7d \u2192 NVIDIA Omni \u539f\u751f\u89c6\u9891\u7406\u89e3 \u2192 \u5e26\u65f6\u95f4\u6233\u8bc1\u636e\u7684\u77e5\u8bc6\u5361\u7247\uff0c\u76f4\u63a5\u843d\u76d8 Markdown/Wiki",
+    "id": "3378925604-a11y/douyin-video-distiller",
+    "language": "Python",
+    "name": "3378925604-a11y/douyin-video-distiller",
+    "stars": 3,
+    "updated_at": "2026-10-09T05:08:35Z",
+    "url": "https://github.com/3378925604-a11y/douyin-video-distiller"
+  },
+  {
+    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 3,
+    "updated_at": "2026-10-09T05:07:51Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "An AI-driven research workflow for generating ideas, running experiments, and writing scientific papers.",
+    "id": "whenpoem/aiscientist",
+    "language": "Python",
+    "name": "whenpoem/aiscientist",
+    "stars": 10,
+    "updated_at": "2026-10-09T05:07:38Z",
+    "url": "https://github.com/whenpoem/aiscientist"
+  },
+  {
     "description": "Free global SEO / GEO Skill \u2014 18 language markets in one workbench, market \u00d7 capability dual-dimension, each market deep",
     "id": "everyinfra/seo-skills",
     "language": "Python",
     "name": "everyinfra/seo-skills",
     "stars": 0,
-    "updated_at": "2026-10-09T04:58:00Z",
+    "updated_at": "2026-10-09T05:07:03Z",
     "url": "https://github.com/everyinfra/seo-skills"
+  },
+  {
+    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
+    "id": "semlith/semlith",
+    "language": "Rust",
+    "name": "semlith/semlith",
+    "stars": 1,
+    "updated_at": "2026-10-09T05:06:50Z",
+    "url": "https://github.com/semlith/semlith"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1195,
+    "updated_at": "2026-10-09T05:11:21Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 2368,
+    "updated_at": "2026-10-09T05:05:25Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "\u041e\u0447\u0435\u043b\u043e\u0432\u0435\u0447\u0438\u0442\u044c \u0442\u0435\u043a\u0441\u0442 \u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0438: \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u0434\u043b\u0438\u043d\u043d\u043e\u0435 \u0442\u0438\u0440\u0435, \u043a\u0430\u043d\u0446\u0435\u043b\u044f\u0440\u0438\u0442 \u0438 \u0448\u0442\u0430\u043c\u043f\u044b ChatGPT, \u043d\u0435 \u0442\u0440\u043e\u0433\u0430\u044f \u0444\u0430\u043a\u0442\u044b. \u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0434\u043b\u044f \u043b\u044e\u0431\u043e\u0439 \u043d\u0435\u0439\u0440\u043e",
+    "id": "thevseprod/humanizer-ru",
+    "language": "Python",
+    "name": "thevseprod/humanizer-ru",
+    "stars": 42,
+    "updated_at": "2026-10-09T05:03:51Z",
+    "url": "https://github.com/thevseprod/humanizer-ru"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-09T05:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
@@ -18,21 +162,12 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "Portable, configurable agent skills for reliable everyday work.",
-    "id": "Misoto22/skills",
-    "language": "Python",
-    "name": "Misoto22/skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T04:56:41Z",
-    "url": "https://github.com/Misoto22/skills"
-  },
-  {
     "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
     "id": "patrickserrano/lacquer",
     "language": "Go",
     "name": "patrickserrano/lacquer",
     "stars": 3,
-    "updated_at": "2026-10-09T04:56:32Z",
+    "updated_at": "2026-10-09T05:10:27Z",
     "url": "https://github.com/patrickserrano/lacquer"
   },
   {
@@ -41,7 +176,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-09T04:58:18Z",
+    "updated_at": "2026-10-09T05:06:13Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -52,15 +187,6 @@
     "stars": 23,
     "updated_at": "2026-10-09T04:55:21Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1194,
-    "updated_at": "2026-10-09T04:54:46Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
@@ -88,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T04:49:05Z",
     "url": "https://github.com/thevibegarage/geo-visibility-skill"
-  },
-  {
-    "description": "Agent skills for reading public data from 33 platforms through the ScraperSocial API \u2014 TikTok, Instagram, LinkedIn, YouT",
-    "id": "nikhonit/social-media-api-skills",
-    "language": "JavaScript",
-    "name": "nikhonit/social-media-api-skills",
-    "stars": 3,
-    "updated_at": "2026-10-09T04:48:11Z",
-    "url": "https://github.com/nikhonit/social-media-api-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-09T04:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
@@ -144,15 +252,6 @@
     "url": "https://github.com/longsizhuo/openInvest"
   },
   {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 1,
-    "updated_at": "2026-10-09T04:34:58Z",
-    "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
     "description": "YouTube transcript Agent Skill for Claude Code, Cursor, Codex and OpenClaw: fetch YouTube video transcripts, search vide",
     "id": "tubeagentkit/youtube-transcript-skills",
     "language": "Shell",
@@ -176,7 +275,7 @@
     "language": "Python",
     "name": "nevenincs/vaultspec-core",
     "stars": 2,
-    "updated_at": "2026-10-09T04:29:41Z",
+    "updated_at": "2026-10-09T05:11:09Z",
     "url": "https://github.com/nevenincs/vaultspec-core"
   },
   {
@@ -230,7 +329,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69909,
-    "updated_at": "2026-10-09T04:59:24Z",
+    "updated_at": "2026-10-09T05:05:56Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T04:04:00Z",
     "url": "https://github.com/burnabyjudicial666/agent-profiles"
-  },
-  {
-    "description": "Generate and optimize web novel writing workflows for long-form and short-form stories with AI agent integration and qua",
-    "id": "thanhn3977/oh-story-claudecode",
-    "language": "\u2014",
-    "name": "thanhn3977/oh-story-claudecode",
-    "stars": 0,
-    "updated_at": "2026-10-09T04:03:39Z",
-    "url": "https://github.com/thanhn3977/oh-story-claudecode"
-  },
-  {
-    "description": "Search and manage AI coding sessions locally with full-text search across 7 tools.",
-    "id": "Unstable-ascendingartery75/ai-session-search",
-    "language": "TypeScript",
-    "name": "Unstable-ascendingartery75/ai-session-search",
-    "stars": 0,
-    "updated_at": "2026-10-09T04:03:17Z",
-    "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
-    "id": "Arindaag760/humanizer-cli",
-    "language": "JavaScript",
-    "name": "Arindaag760/humanizer-cli",
-    "stars": 2,
-    "updated_at": "2026-10-09T04:02:54Z",
-    "url": "https://github.com/Arindaag760/humanizer-cli"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-10-09T04:02:24Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
-    "id": "Scoundrelwildness456/i-have-adhd",
-    "language": "Python",
-    "name": "Scoundrelwildness456/i-have-adhd",
-    "stars": 5,
-    "updated_at": "2026-10-09T04:01:35Z",
-    "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Claude Code skill: write like the Google developer documentation style guide",
-    "id": "aaronparsons-dev/google-dev-style",
-    "language": "\u2014",
-    "name": "aaronparsons-dev/google-dev-style",
-    "stars": 0,
-    "updated_at": "2026-10-09T03:59:38Z",
-    "url": "https://github.com/aaronparsons-dev/google-dev-style"
-  },
-  {
-    "description": "Define visual identities for coding agents using a structured format that combines machine-readable design tokens with h",
-    "id": "Glad-oboedacaccia408/design.md",
-    "language": "TypeScript",
-    "name": "Glad-oboedacaccia408/design.md",
-    "stars": 2,
-    "updated_at": "2026-10-09T03:59:32Z",
-    "url": "https://github.com/Glad-oboedacaccia408/design.md"
-  },
-  {
-    "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
-    "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "language": "TypeScript",
-    "name": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
-    "stars": 1,
-    "updated_at": "2026-10-09T03:59:07Z",
-    "url": "https://github.com/lindneutral977/claude-mythos-ai-anthropic-desktop-app"
-  },
-  {
-    "description": "Sync Claude Artifacts directly to your local file system using a secure WebSocket bridge to automate code updates in you",
-    "id": "zerooo002/claude-artifacts-local-sync",
-    "language": "\u2014",
-    "name": "zerooo002/claude-artifacts-local-sync",
-    "stars": 0,
-    "updated_at": "2026-10-09T03:58:13Z",
-    "url": "https://github.com/zerooo002/claude-artifacts-local-sync"
-  },
-  {
-    "description": "Compare multiple LLM responses in a single macOS app. Pose questions to several models, review blind critiques, and find",
-    "id": "Palmerbeetling15/Council",
-    "language": "Swift",
-    "name": "Palmerbeetling15/Council",
-    "stars": 0,
-    "updated_at": "2026-10-09T03:57:46Z",
-    "url": "https://github.com/Palmerbeetling15/Council"
-  },
-  {
-    "description": "Compress chat histories into minimal JSON graphs to reduce token costs and maintain context across different LLM session",
-    "id": "Highlydeveloped-trowel635/context-graph-compressor",
-    "language": "\u2014",
-    "name": "Highlydeveloped-trowel635/context-graph-compressor",
-    "stars": 0,
-    "updated_at": "2026-10-09T03:57:19Z",
-    "url": "https://github.com/Highlydeveloped-trowel635/context-graph-compressor"
   }
 ]
