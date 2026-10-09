@@ -1,5 +1,113 @@
 [
   {
+    "description": "Claude Code skill: rewrite dense or ambiguous Hebrew into Simplified Technical Hebrew (adapted from ASD-STE100)",
+    "id": "g4lb/asd-ste100-hebrew-skill",
+    "language": "Python",
+    "name": "g4lb/asd-ste100-hebrew-skill",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:38:55Z",
+    "url": "https://github.com/g4lb/asd-ste100-hebrew-skill"
+  },
+  {
+    "description": "Grok Bot's official external channel gateway, with a return path you choose.",
+    "id": "dimpurr/grok-bot-gateway",
+    "language": "Python",
+    "name": "dimpurr/grok-bot-gateway",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:38:53Z",
+    "url": "https://github.com/dimpurr/grok-bot-gateway"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69918,
+    "updated_at": "2026-10-09T22:37:54Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul",
+    "id": "ellehelvig/hr-ai-transformation-playbook",
+    "language": "Python",
+    "name": "ellehelvig/hr-ai-transformation-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:37:26Z",
+    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
+  },
+  {
+    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
+    "id": "simota/agent-skills",
+    "language": "Python",
+    "name": "simota/agent-skills",
+    "stars": 91,
+    "updated_at": "2026-10-09T22:37:17Z",
+    "url": "https://github.com/simota/agent-skills"
+  },
+  {
+    "description": "MCP server, CLI and agent skill for website traffic lookups with Vaneform (data: Similarweb estimates)",
+    "id": "jiangqizheng/vaneform-mcp",
+    "language": "TypeScript",
+    "name": "jiangqizheng/vaneform-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:34:10Z",
+    "url": "https://github.com/jiangqizheng/vaneform-mcp"
+  },
+  {
+    "description": "Adapt one social post for LinkedIn, Instagram, X, Facebook, YouTube, TikTok, Pinterest, Threads and Bluesky: a stdlib sc",
+    "id": "indranilbanerjee/socialforge-copy-adapter",
+    "language": "Python",
+    "name": "indranilbanerjee/socialforge-copy-adapter",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:34:01Z",
+    "url": "https://github.com/indranilbanerjee/socialforge-copy-adapter"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 189,
+    "updated_at": "2026-10-09T22:37:02Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
+    "id": "indranilbanerjee/socialforge",
+    "language": "Python",
+    "name": "indranilbanerjee/socialforge",
+    "stars": 39,
+    "updated_at": "2026-10-09T22:33:27Z",
+    "url": "https://github.com/indranilbanerjee/socialforge"
+  },
+  {
+    "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
+    "id": "nullphase-net/enfurbish",
+    "language": "TypeScript",
+    "name": "nullphase-net/enfurbish",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:32:06Z",
+    "url": "https://github.com/nullphase-net/enfurbish"
+  },
+  {
+    "description": "Motion graphics rendered from code with Claude; engine, checks, skill and an 8-lesson fact-checked course",
+    "id": "youneedgreg/motion-studio",
+    "language": "JavaScript",
+    "name": "youneedgreg/motion-studio",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:31:09Z",
+    "url": "https://github.com/youneedgreg/motion-studio"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-09T22:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
     "id": "getedgehq/skills",
     "language": "Python",
@@ -9,15 +117,6 @@
     "url": "https://github.com/getedgehq/skills"
   },
   {
-    "description": "An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul",
-    "id": "ellehelvig/hr-ai-transformation-playbook",
-    "language": "Python",
-    "name": "ellehelvig/hr-ai-transformation-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-09T22:29:31Z",
-    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
-  },
-  {
     "description": "Claude Code skills for operating infrastructure in production",
     "id": "ap369/infra-skills",
     "language": "Python",
@@ -25,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T22:27:29Z",
     "url": "https://github.com/ap369/infra-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69918,
-    "updated_at": "2026-10-09T22:27:19Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "25 free, researched Claude skills for sales, marketing and RevOps teams. One-command install for Claude Code.",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "MohammadHijjawi97/since-cutoff",
     "stars": 8,
-    "updated_at": "2026-10-09T22:25:50Z",
+    "updated_at": "2026-10-09T22:35:31Z",
     "url": "https://github.com/MohammadHijjawi97/since-cutoff"
   },
   {
@@ -76,7 +166,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81156,
+    "stars": 81159,
     "updated_at": "2026-10-09T22:24:46Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -86,7 +176,7 @@
     "language": "Python",
     "name": "scenario-labs/skills",
     "stars": 941,
-    "updated_at": "2026-10-09T22:27:57Z",
+    "updated_at": "2026-10-09T22:33:03Z",
     "url": "https://github.com/scenario-labs/skills"
   },
   {
@@ -95,7 +185,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 5,
-    "updated_at": "2026-10-09T22:23:09Z",
+    "updated_at": "2026-10-09T22:38:37Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -106,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T22:22:09Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 189,
-    "updated_at": "2026-10-09T22:26:16Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
     "description": "52 Claude Code skills for marketing, growth, sales, SEO and productivity",
@@ -133,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T22:19:45Z",
     "url": "https://github.com/MehrdadNsr/multi-ai-delegation"
-  },
-  {
-    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
-    "id": "indranilbanerjee/socialforge",
-    "language": "Python",
-    "name": "indranilbanerjee/socialforge",
-    "stars": 39,
-    "updated_at": "2026-10-09T22:19:37Z",
-    "url": "https://github.com/indranilbanerjee/socialforge"
   },
   {
     "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
@@ -171,21 +243,12 @@
     "url": "https://github.com/pche-broken-artist/forge-of-thought"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 124,
-    "updated_at": "2026-10-09T22:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude skill that applies The Blue Book of UX Directives: 550 numbered directives in 9 chapters. Audits designs, finds d",
     "id": "AlehHaiko/UX-directives-skill",
     "language": "HTML",
     "name": "AlehHaiko/UX-directives-skill",
     "stars": 1,
-    "updated_at": "2026-10-09T22:14:39Z",
+    "updated_at": "2026-10-09T22:32:30Z",
     "url": "https://github.com/AlehHaiko/UX-directives-skill"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T21:55:44Z",
     "url": "https://github.com/bath/mm-mermaid"
-  },
-  {
-    "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
-    "id": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "language": "TypeScript",
-    "name": "Cataclysmic-faircopy193/mirai-scientific-calculator",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:55:39Z",
-    "url": "https://github.com/Cataclysmic-faircopy193/mirai-scientific-calculator"
-  },
-  {
-    "description": "Export UniFi network topologies as zoomable vector diagrams and editable draw.io files using real device data.",
-    "id": "Josiecontrolling326/unifi-map",
-    "language": "Python",
-    "name": "Josiecontrolling326/unifi-map",
-    "stars": 1,
-    "updated_at": "2026-10-09T21:55:36Z",
-    "url": "https://github.com/Josiecontrolling326/unifi-map"
-  },
-  {
-    "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
-    "id": "skeletonshorts029-png/open-code-review",
-    "language": "TypeScript",
-    "name": "skeletonshorts029-png/open-code-review",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:55:06Z",
-    "url": "https://github.com/skeletonshorts029-png/open-code-review"
-  },
-  {
-    "description": "Build your career history and generate custom resumes for every job application using this Claude skill.",
-    "id": "Andreasuar2549/resume-studio",
-    "language": "Python",
-    "name": "Andreasuar2549/resume-studio",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:54:46Z",
-    "url": "https://github.com/Andreasuar2549/resume-studio"
-  },
-  {
-    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
-    "id": "imboard-ai/ai-dossier",
-    "language": "TypeScript",
-    "name": "imboard-ai/ai-dossier",
-    "stars": 9,
-    "updated_at": "2026-10-09T22:24:44Z",
-    "url": "https://github.com/imboard-ai/ai-dossier"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:53:53Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Your engineering taste, in every coding agent. Shadowclone learns your rules and delivers them as skills to Claude Code,",
-    "id": "theonly1me/shadowclone",
-    "language": "TypeScript",
-    "name": "theonly1me/shadowclone",
-    "stars": 9,
-    "updated_at": "2026-10-09T22:01:28Z",
-    "url": "https://github.com/theonly1me/shadowclone"
   }
 ]
