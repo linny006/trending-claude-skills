@@ -1,12 +1,183 @@
 [
   {
+    "description": "An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul",
+    "id": "ellehelvig/hr-ai-transformation-playbook",
+    "language": "Python",
+    "name": "ellehelvig/hr-ai-transformation-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-09T23:14:51Z",
+    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-09T23:14:27Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "C2C: an open-source Codex and Claude Code skill for collaborative planning and mutual plan review. Assess project readin",
+    "id": "ZiadHassanein/C2C",
+    "language": "JavaScript",
+    "name": "ZiadHassanein/C2C",
+    "stars": 0,
+    "updated_at": "2026-10-09T23:13:51Z",
+    "url": "https://github.com/ZiadHassanein/C2C"
+  },
+  {
+    "description": "Achieved by claude itself, this is a Claude Code configuration installer aliased blackcat for multi-agent orchestration.",
+    "id": "pmrjge/blackcat",
+    "language": "Python",
+    "name": "pmrjge/blackcat",
+    "stars": 0,
+    "updated_at": "2026-10-09T23:12:49Z",
+    "url": "https://github.com/pmrjge/blackcat"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 20,
+    "updated_at": "2026-10-09T23:12:36Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
+    "id": "indranilbanerjee/socialforge",
+    "language": "Python",
+    "name": "indranilbanerjee/socialforge",
+    "stars": 39,
+    "updated_at": "2026-10-09T23:12:08Z",
+    "url": "https://github.com/indranilbanerjee/socialforge"
+  },
+  {
+    "description": "AI-visibility engineering, the open way: a Claude Code GEO/AI-search audit suite, two original tools (agent-readiness-sc",
+    "id": "techhorizonlabs/thl-open",
+    "language": "Python",
+    "name": "techhorizonlabs/thl-open",
+    "stars": 16,
+    "updated_at": "2026-10-09T23:12:08Z",
+    "url": "https://github.com/techhorizonlabs/thl-open"
+  },
+  {
+    "description": "An open-source editorial production system that researches, verifies, drafts, and delivers publication-ready long-form c",
+    "id": "indranilbanerjee/contentforge",
+    "language": "Python",
+    "name": "indranilbanerjee/contentforge",
+    "stars": 31,
+    "updated_at": "2026-10-09T23:12:02Z",
+    "url": "https://github.com/indranilbanerjee/contentforge"
+  },
+  {
+    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
+    "id": "AN0099/toothpaste-kit",
+    "language": "Python",
+    "name": "AN0099/toothpaste-kit",
+    "stars": 1,
+    "updated_at": "2026-10-09T23:11:24Z",
+    "url": "https://github.com/AN0099/toothpaste-kit"
+  },
+  {
+    "description": "Claude skill that applies The Blue Book of UX Directives: 550 numbered directives in 9 chapters. Audits designs, finds d",
+    "id": "AlehHaiko/UX-directives-skill",
+    "language": "HTML",
+    "name": "AlehHaiko/UX-directives-skill",
+    "stars": 1,
+    "updated_at": "2026-10-09T23:08:58Z",
+    "url": "https://github.com/AlehHaiko/UX-directives-skill"
+  },
+  {
+    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 448,
+    "updated_at": "2026-10-09T23:10:49Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "Agent Skills \u2014 agent-neutral autonomous product-building OS for 32+ AI coding tools. 23 skill categories \u00b7 28 agents \u00b7 1",
+    "id": "heymegabyte/agent-skills",
+    "language": "TypeScript",
+    "name": "heymegabyte/agent-skills",
+    "stars": 23,
+    "updated_at": "2026-10-09T23:07:40Z",
+    "url": "https://github.com/heymegabyte/agent-skills"
+  },
+  {
+    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 3,
+    "updated_at": "2026-10-09T23:07:35Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
+    "id": "samuel85194-ux/tycana-claude-hivemind",
+    "language": "HTML",
+    "name": "samuel85194-ux/tycana-claude-hivemind",
+    "stars": 2,
+    "updated_at": "2026-10-09T23:03:24Z",
+    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-09T23:02:58Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
+    "id": "AllyJuma1/easel-js-cpu-render-kit",
+    "language": "HTML",
+    "name": "AllyJuma1/easel-js-cpu-render-kit",
+    "stars": 1,
+    "updated_at": "2026-10-09T23:02:47Z",
+    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
+  },
+  {
     "description": "A Claude skill (plugin) that splits big jobs across your other AI chat sites, such as ChatGPT, Grok, Gemini, DeepSeek, K",
     "id": "MehrdadNsr/multi-ai-delegation",
     "language": "\u2014",
     "name": "MehrdadNsr/multi-ai-delegation",
     "stars": 0,
-    "updated_at": "2026-10-09T22:59:19Z",
+    "updated_at": "2026-10-09T23:01:18Z",
     "url": "https://github.com/MehrdadNsr/multi-ai-delegation"
+  },
+  {
+    "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+    "id": "nowork-studio/notfair-plugin",
+    "language": "Python",
+    "name": "nowork-studio/notfair-plugin",
+    "stars": 3913,
+    "updated_at": "2026-10-09T23:03:30Z",
+    "url": "https://github.com/nowork-studio/notfair-plugin"
+  },
+  {
+    "description": "Creator research skills for Claude Code and Codex: see what's working on YouTube, Instagram, and TikTok, review accounts",
+    "id": "kabo-sh/kabo-plugins",
+    "language": "JavaScript",
+    "name": "kabo-sh/kabo-plugins",
+    "stars": 3,
+    "updated_at": "2026-10-09T23:00:58Z",
+    "url": "https://github.com/kabo-sh/kabo-plugins"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-09T23:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Academic research workflow for Claude Code: 20 skills covering causal inference (DiD, RDD, IV, synthetic control, field ",
@@ -23,17 +194,8 @@
     "language": "Python",
     "name": "scenario-labs/skills",
     "stars": 941,
-    "updated_at": "2026-10-09T22:57:47Z",
+    "updated_at": "2026-10-09T23:03:43Z",
     "url": "https://github.com/scenario-labs/skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-09T22:58:59Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "The Qumge skill \u2014 lets your agent find and call paid capabilities, reach 400+ LLMs with one key, and publish your own. F",
@@ -63,21 +225,12 @@
     "url": "https://github.com/ehsanenaloo/wordpress-devkit"
   },
   {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 20,
-    "updated_at": "2026-10-09T22:55:17Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
     "description": "Your engineering taste, in every coding agent. Shadowclone learns your rules and delivers them as skills to Claude Code,",
     "id": "theonly1me/shadowclone",
     "language": "TypeScript",
     "name": "theonly1me/shadowclone",
     "stars": 9,
-    "updated_at": "2026-10-09T22:56:13Z",
+    "updated_at": "2026-10-09T23:05:31Z",
     "url": "https://github.com/theonly1me/shadowclone"
   },
   {
@@ -113,7 +266,7 @@
     "language": "Python",
     "name": "MohammadHijjawi97/since-cutoff",
     "stars": 8,
-    "updated_at": "2026-10-09T22:51:32Z",
+    "updated_at": "2026-10-09T23:05:19Z",
     "url": "https://github.com/MohammadHijjawi97/since-cutoff"
   },
   {
@@ -126,33 +279,6 @@
     "url": "https://github.com/indranilbanerjee/neels-plugins"
   },
   {
-    "description": "Claude skill that applies The Blue Book of UX Directives: 550 numbered directives in 9 chapters. Audits designs, finds d",
-    "id": "AlehHaiko/UX-directives-skill",
-    "language": "HTML",
-    "name": "AlehHaiko/UX-directives-skill",
-    "stars": 1,
-    "updated_at": "2026-10-09T22:49:52Z",
-    "url": "https://github.com/AlehHaiko/UX-directives-skill"
-  },
-  {
-    "description": "An open-source editorial production system that researches, verifies, drafts, and delivers publication-ready long-form c",
-    "id": "indranilbanerjee/contentforge",
-    "language": "Python",
-    "name": "indranilbanerjee/contentforge",
-    "stars": 31,
-    "updated_at": "2026-10-09T22:49:32Z",
-    "url": "https://github.com/indranilbanerjee/contentforge"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 124,
-    "updated_at": "2026-10-09T22:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Multi-agent folder cleanup skill for shared AI project workspaces. Stops Claude, ChatGPT, Codex, Copilot, Gemini, Grok, ",
     "id": "JesseRaber/multi-agent-folder-cleanup",
     "language": "Python",
@@ -160,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T22:47:10Z",
     "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
-  },
-  {
-    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
-    "id": "indranilbanerjee/socialforge",
-    "language": "Python",
-    "name": "indranilbanerjee/socialforge",
-    "stars": 39,
-    "updated_at": "2026-10-09T22:43:29Z",
-    "url": "https://github.com/indranilbanerjee/socialforge"
   },
   {
     "description": "An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - groun",
@@ -185,7 +302,7 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 189,
-    "updated_at": "2026-10-09T23:00:03Z",
+    "updated_at": "2026-10-09T23:15:10Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -216,21 +333,12 @@
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
-    "description": "An operating model for HR AI adoption: prioritized use cases, governance templates, a literacy curriculum, an ROI calcul",
-    "id": "ellehelvig/hr-ai-transformation-playbook",
-    "language": "Python",
-    "name": "ellehelvig/hr-ai-transformation-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-09T22:37:26Z",
-    "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
-  },
-  {
     "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
     "id": "simota/agent-skills",
     "language": "Python",
     "name": "simota/agent-skills",
     "stars": 91,
-    "updated_at": "2026-10-09T22:49:51Z",
+    "updated_at": "2026-10-09T23:08:46Z",
     "url": "https://github.com/simota/agent-skills"
   },
   {
@@ -268,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T22:31:09Z",
     "url": "https://github.com/youneedgreg/motion-studio"
-  },
-  {
-    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
-    "id": "getedgehq/skills",
-    "language": "Python",
-    "name": "getedgehq/skills",
-    "stars": 3,
-    "updated_at": "2026-10-09T22:29:54Z",
-    "url": "https://github.com/getedgehq/skills"
   },
   {
     "description": "Claude Code skills for operating infrastructure in production",
@@ -319,8 +418,8 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81162,
-    "updated_at": "2026-10-09T22:24:46Z",
+    "stars": 81164,
+    "updated_at": "2026-10-09T23:07:50Z",
     "url": "https://github.com/tt-a1i/archify"
   },
   {
@@ -329,7 +428,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 5,
-    "updated_at": "2026-10-09T22:38:37Z",
+    "updated_at": "2026-10-09T23:07:01Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T22:20:08Z",
     "url": "https://github.com/masterpeteworld/claude-skills"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-10-09T22:18:42Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "A chat gives you an answer. Forge of Thought is an AI cognitive extension: a workshop where your idea is forged into a d",
-    "id": "pche-broken-artist/forge-of-thought",
-    "language": "Python",
-    "name": "pche-broken-artist/forge-of-thought",
-    "stars": 3,
-    "updated_at": "2026-10-09T22:17:59Z",
-    "url": "https://github.com/pche-broken-artist/forge-of-thought"
-  },
-  {
-    "description": "A Claude Code mod that turns your global skills, agents, rules and tools on or off per repo with named profiles. In my w",
-    "id": "shimo4228/harness-scope",
-    "language": "TypeScript",
-    "name": "shimo4228/harness-scope",
-    "stars": 2,
-    "updated_at": "2026-10-09T22:12:11Z",
-    "url": "https://github.com/shimo4228/harness-scope"
-  },
-  {
-    "description": "The project is designed for developers who want to get more from Claude Code, AI coding agents, automated development wo",
-    "id": "Everything-Claude-Code-Download/.github",
-    "language": "\u2014",
-    "name": "Everything-Claude-Code-Download/.github",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:08:50Z",
-    "url": "https://github.com/Everything-Claude-Code-Download/.github"
-  },
-  {
-    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing know",
-    "id": "undefined-ui/second-brain-os",
-    "language": "HTML",
-    "name": "undefined-ui/second-brain-os",
-    "stars": 1020,
-    "updated_at": "2026-10-09T22:08:03Z",
-    "url": "https://github.com/undefined-ui/second-brain-os"
-  },
-  {
-    "description": "Claude Code plugin: audit a Dependabot or Renovate PR and report an evidence-backed merge recommendation. Covers uv.lock",
-    "id": "Machai-Kydoimos/dependabot-audit",
-    "language": "Python",
-    "name": "Machai-Kydoimos/dependabot-audit",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:07:15Z",
-    "url": "https://github.com/Machai-Kydoimos/dependabot-audit"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 65,
-    "updated_at": "2026-10-09T22:01:44Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Sniff your Markdown drafts against house rules with local regex checks and optional AI judgment calls.",
-    "id": "Spirounkempt95/snifftest",
-    "language": "TypeScript",
-    "name": "Spirounkempt95/snifftest",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:00:43Z",
-    "url": "https://github.com/Spirounkempt95/snifftest"
-  },
-  {
-    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 7,
-    "updated_at": "2026-10-09T22:00:40Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
-  },
-  {
-    "description": "What would X do? Turns a person's talks, podcasts and essays into a cited wiki your agent reasons from. Claude Code skil",
-    "id": "MSliwa01/wwxd",
-    "language": "Python",
-    "name": "MSliwa01/wwxd",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:00:24Z",
-    "url": "https://github.com/MSliwa01/wwxd"
-  },
-  {
-    "description": "Track developer roadmaps offline with progress tracking, spaced repetition, and career analytics\u2014no account or internet ",
-    "id": "Itzzni9454/skill-trail",
-    "language": "TypeScript",
-    "name": "Itzzni9454/skill-trail",
-    "stars": 0,
-    "updated_at": "2026-10-09T22:00:14Z",
-    "url": "https://github.com/Itzzni9454/skill-trail"
   }
 ]
