@@ -1,5 +1,203 @@
 [
   {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 3,
+    "updated_at": "2026-10-09T12:29:36Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Skills for running better giveaways: prize, entry methods, timing, winner structure, promotion, provably fair draws, win",
+    "id": "Crowd9/giveaway-skills",
+    "language": "Python",
+    "name": "Crowd9/giveaway-skills",
+    "stars": 5,
+    "updated_at": "2026-10-09T12:26:47Z",
+    "url": "https://github.com/Crowd9/giveaway-skills"
+  },
+  {
+    "description": "Codex non-officiel sur Claude Code \u2014 theorie, ecosysteme, case studies, ressources. Code en pair-programming avec Claude",
+    "id": "Sylad/claude-code-codex",
+    "language": "HTML",
+    "name": "Sylad/claude-code-codex",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:26:30Z",
+    "url": "https://github.com/Sylad/claude-code-codex"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 15,
+    "updated_at": "2026-10-09T12:25:52Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "",
+    "id": "naveedharri/benai-skills",
+    "language": "JavaScript",
+    "name": "naveedharri/benai-skills",
+    "stars": 70,
+    "updated_at": "2026-10-09T12:24:18Z",
+    "url": "https://github.com/naveedharri/benai-skills"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-09T12:23:09Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Agent Skill that audits, restructures and keeps organized the harness of AI coding projects (Claude Code, Codex, Cursor,",
+    "id": "fabianmartinelli-fm/harness-audit",
+    "language": "Python",
+    "name": "fabianmartinelli-fm/harness-audit",
+    "stars": 7,
+    "updated_at": "2026-10-09T12:22:15Z",
+    "url": "https://github.com/fabianmartinelli-fm/harness-audit"
+  },
+  {
+    "description": "Small marketplace of Claude Code plugins. Add it once, then install the plugins you want.",
+    "id": "p2p2sp/p2p2.claude",
+    "language": "TypeScript",
+    "name": "p2p2sp/p2p2.claude",
+    "stars": 8,
+    "updated_at": "2026-10-09T12:22:01Z",
+    "url": "https://github.com/p2p2sp/p2p2.claude"
+  },
+  {
+    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
+    "id": "semlith/semlith",
+    "language": "Rust",
+    "name": "semlith/semlith",
+    "stars": 1,
+    "updated_at": "2026-10-09T12:21:54Z",
+    "url": "https://github.com/semlith/semlith"
+  },
+  {
+    "description": "Official Riffkit skill \u2014 riff a winning TikTok into your own short video from your AI agent (Claude Code, Cursor) or the",
+    "id": "riffkit/skill",
+    "language": "\u2014",
+    "name": "riffkit/skill",
+    "stars": 7,
+    "updated_at": "2026-10-09T12:21:38Z",
+    "url": "https://github.com/riffkit/skill"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-09T12:19:20Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Agent skills that keep AI-written TypeScript and React code in check: measure which anti-slop checks a repo needs (stric",
+    "id": "gretchenfitze/anti-slop",
+    "language": "JavaScript",
+    "name": "gretchenfitze/anti-slop",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:18:37Z",
+    "url": "https://github.com/gretchenfitze/anti-slop"
+  },
+  {
+    "description": "\u0430\u043f\u0433\u0440\u0435\u0439\u0434-\u043f\u0435\u0439\u0432\u043e\u043b\u0438",
+    "id": "JulyLay/paywall-upgrade-cro",
+    "language": "\u2014",
+    "name": "JulyLay/paywall-upgrade-cro",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:18:09Z",
+    "url": "https://github.com/JulyLay/paywall-upgrade-cro"
+  },
+  {
+    "description": "\u043f\u043b\u0430\u0442\u043d\u0438\u0439 \u0442\u0440\u0430\u0444\u0456\u043a (Meta, Google, TikTok)",
+    "id": "JulyLay/paid-ads",
+    "language": "\u2014",
+    "name": "JulyLay/paid-ads",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:17:30Z",
+    "url": "https://github.com/JulyLay/paid-ads"
+  },
+  {
+    "description": "\u043e\u043f\u0442\u0438\u043c\u0456\u0437\u0430\u0446\u0456\u044f \u043b\u0435\u043d\u0434\u0438\u043d\u0433\u0456\u0432",
+    "id": "JulyLay/page-cro",
+    "language": "\u2014",
+    "name": "JulyLay/page-cro",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:16:52Z",
+    "url": "https://github.com/JulyLay/page-cro"
+  },
+  {
+    "description": "Tailored CVs and cover letters as print-ready PDFs, in Claude Code. Every number checked against your confirmed profile.",
+    "id": "starburst1977/apply-kit",
+    "language": "JavaScript",
+    "name": "starburst1977/apply-kit",
+    "stars": 3,
+    "updated_at": "2026-10-09T12:16:51Z",
+    "url": "https://github.com/starburst1977/apply-kit"
+  },
+  {
+    "description": "\u043e\u043d\u0431\u043e\u0440\u0434\u0438\u043d\u0433 \u0456 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0456\u044f",
+    "id": "JulyLay/onboarding-cro",
+    "language": "\u2014",
+    "name": "JulyLay/onboarding-cro",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:16:14Z",
+    "url": "https://github.com/JulyLay/onboarding-cro"
+  },
+  {
+    "description": "Minecraft Java Plugin Claude Skills",
+    "id": "MrPippi/MJP-Claude-Skills",
+    "language": "TypeScript",
+    "name": "MrPippi/MJP-Claude-Skills",
+    "stars": 1,
+    "updated_at": "2026-10-09T12:29:28Z",
+    "url": "https://github.com/MrPippi/MJP-Claude-Skills"
+  },
+  {
+    "description": "\u0440\u043e\u0431\u043e\u0442\u0430 \u0437 NotebookLM",
+    "id": "JulyLay/notebooklm",
+    "language": "Python",
+    "name": "JulyLay/notebooklm",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:15:36Z",
+    "url": "https://github.com/JulyLay/notebooklm"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-09T12:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
+    "id": "allxsmith/bestax-skills",
+    "language": "TypeScript",
+    "name": "allxsmith/bestax-skills",
+    "stars": 1,
+    "updated_at": "2026-10-09T12:15:10Z",
+    "url": "https://github.com/allxsmith/bestax-skills"
+  },
+  {
+    "description": "Nano Banana Pro / Gemini 3 Pro Image prompt engineering",
+    "id": "JulyLay/nbp-skill",
+    "language": "\u2014",
+    "name": "JulyLay/nbp-skill",
+    "stars": 0,
+    "updated_at": "2026-10-09T12:14:57Z",
+    "url": "https://github.com/JulyLay/nbp-skill"
+  },
+  {
     "description": "\u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0456\u044f \u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433\u0443",
     "id": "JulyLay/marketing-psychology",
     "language": "\u2014",
@@ -45,15 +243,6 @@
     "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
   },
   {
-    "description": "Tailored CVs and cover letters as print-ready PDFs, in Claude Code. Every number checked against your confirmed profile.",
-    "id": "starburst1977/apply-kit",
-    "language": "JavaScript",
-    "name": "starburst1977/apply-kit",
-    "stars": 3,
-    "updated_at": "2026-10-09T12:12:13Z",
-    "url": "https://github.com/starburst1977/apply-kit"
-  },
-  {
     "description": "A decision ledger for work done with AI agents. It records every fork and who decided it, and it must not write a reason",
     "id": "sacredvalentin/who-made-the-call",
     "language": "\u2014",
@@ -63,21 +252,12 @@
     "url": "https://github.com/sacredvalentin/who-made-the-call"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-09T12:10:26Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "AI plugins for openEHR - specification authoring, review and governance skills. Claude Code marketplace.",
     "id": "openEHR/ai-plugins",
     "language": "Python",
     "name": "openEHR/ai-plugins",
     "stars": 3,
-    "updated_at": "2026-10-09T12:10:22Z",
+    "updated_at": "2026-10-09T12:22:14Z",
     "url": "https://github.com/openEHR/ai-plugins"
   },
   {
@@ -99,24 +279,6 @@
     "url": "https://github.com/rusel95/ios-aso-copilot"
   },
   {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 5,
-    "updated_at": "2026-10-09T12:08:04Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
-    "id": "allxsmith/bestax-skills",
-    "language": "TypeScript",
-    "name": "allxsmith/bestax-skills",
-    "stars": 1,
-    "updated_at": "2026-10-09T12:15:10Z",
-    "url": "https://github.com/allxsmith/bestax-skills"
-  },
-  {
     "description": "Claude Code plugin: turn a published long-form piece into social posts built from your own sentences, with a local posti",
     "id": "mrowean/long-form-distribution",
     "language": "HTML",
@@ -124,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T12:02:54Z",
     "url": "https://github.com/mrowean/long-form-distribution"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-09T12:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skill for Senzing entity resolution \u2014 data mapping, SDK code generation, documentation search, error troubleshooti",
@@ -193,27 +346,9 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 2433,
+    "stars": 2438,
     "updated_at": "2026-10-09T11:55:56Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
-    "description": "Agent skills that keep AI-written TypeScript and React code in check: measure which anti-slop checks a repo needs (stric",
-    "id": "gretchenfitze/anti-slop",
-    "language": "JavaScript",
-    "name": "gretchenfitze/anti-slop",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:52:56Z",
-    "url": "https://github.com/gretchenfitze/anti-slop"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 15,
-    "updated_at": "2026-10-09T11:52:39Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Practical, tested skills for AI coding agents (Claude Code, Codex, Cursor, Copilot, Gemini CLI and more), organized by c",
@@ -241,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-09T11:48:07Z",
     "url": "https://github.com/hu3rror/my-skills"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 3,
-    "updated_at": "2026-10-09T11:47:34Z",
-    "url": "https://github.com/patrickserrano/lacquer"
   },
   {
     "description": "Claude Code skills for repository audits and documentation: verify README and docs claims against the code, run audits w",
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-09T11:41:49Z",
     "url": "https://github.com/devohmycode/skills-atlas"
-  },
-  {
-    "description": "\u26a0\ufe0f Experimentelle Skill-Sammlung f\u00fcr deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u",
-    "id": "Klotzkette/claude-fuer-deutsches-recht",
-    "language": "Python",
-    "name": "Klotzkette/claude-fuer-deutsches-recht",
-    "stars": 1681,
-    "updated_at": "2026-10-09T11:45:23Z",
-    "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
-  },
-  {
-    "description": "Plugin with opinionated set of Claude Code agents nad skills",
-    "id": "lklimek/claudius",
-    "language": "Python",
-    "name": "lklimek/claudius",
-    "stars": 1,
-    "updated_at": "2026-10-09T11:41:35Z",
-    "url": "https://github.com/lklimek/claudius"
-  },
-  {
-    "description": "\u0456\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u0456 \u0456\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0438 \u044f\u043a \u043b\u0456\u0434-\u043c\u0430\u0433\u043d\u0456\u0442",
-    "id": "JulyLay/free-tool-strategy",
-    "language": "\u2014",
-    "name": "JulyLay/free-tool-strategy",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:41:18Z",
-    "url": "https://github.com/JulyLay/free-tool-strategy"
-  },
-  {
-    "description": "\u043e\u043f\u0442\u0438\u043c\u0456\u0437\u0430\u0446\u0456\u044f \u0444\u043e\u0440\u043c",
-    "id": "JulyLay/form-cro",
-    "language": "\u2014",
-    "name": "JulyLay/form-cro",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:40:40Z",
-    "url": "https://github.com/JulyLay/form-cro"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-09T11:40:36Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-10-09T11:40:20Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "email-\u043f\u043e\u0441\u043b\u0456\u0434\u043e\u0432\u043d\u043e\u0441\u0442\u0456 \u0456 drip-\u043a\u0430\u043c\u043f\u0430\u043d\u0456\u0457",
-    "id": "JulyLay/email-sequence",
-    "language": "\u2014",
-    "name": "JulyLay/email-sequence",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:40:02Z",
-    "url": "https://github.com/JulyLay/email-sequence"
-  },
-  {
-    "description": "Copy-ready AI video prompts, model prompting guides (Veo, Sora 2, Kling, Seedance, Hailuo\u2026) and agent skills for text-to",
-    "id": "muraterdogan0/ai-video-prompts",
-    "language": "\u2014",
-    "name": "muraterdogan0/ai-video-prompts",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:39:42Z",
-    "url": "https://github.com/muraterdogan0/ai-video-prompts"
-  },
-  {
-    "description": "Claude Code skills: a docs fact-checker, a code auditor, a bug-memory log, a mod and more. ",
-    "id": "NotRedFox/NotRedFoxs-Claude-skills",
-    "language": "HTML",
-    "name": "NotRedFox/NotRedFoxs-Claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-09T11:39:26Z",
-    "url": "https://github.com/NotRedFox/NotRedFoxs-Claude-skills"
-  },
-  {
-    "description": "editorial-\u043a\u0430\u0440\u0443\u0441\u0435\u043b\u044c 1080x1350 (JSON \u2192 PNG/MP4)",
-    "id": "JulyLay/editorial-carousel",
-    "language": "Python",
-    "name": "JulyLay/editorial-carousel",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:39:23Z",
-    "url": "https://github.com/JulyLay/editorial-carousel"
-  },
-  {
-    "description": "\u0433\u043b\u0438\u0431\u0438\u043d\u043d\u0430 \u0414\u041d\u041a \u043a\u043b\u0456\u0454\u043d\u0442\u0430: \u0431\u043e\u043b\u0456, \u0441\u0442\u0440\u0430\u0445\u0438, \u0431\u0430\u0436\u0430\u043d\u043d\u044f, \u0442\u0440\u0438\u0433\u0435\u0440\u0438, \u043c\u043e\u0432\u0430 \u043a\u043b\u0456\u0454\u043d\u0442\u0430",
-    "id": "JulyLay/dnk-klienta",
-    "language": "\u2014",
-    "name": "JulyLay/dnk-klienta",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:39:14Z",
-    "url": "https://github.com/JulyLay/dnk-klienta"
-  },
-  {
-    "description": "Reduce context window before being sent to LLM",
-    "id": "nvxtien/context-slice",
-    "language": "TypeScript",
-    "name": "nvxtien/context-slice",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:39:02Z",
-    "url": "https://github.com/nvxtien/context-slice"
-  },
-  {
-    "description": "\u0442\u0435\u043c\u043d\u0430 editorial-\u043a\u0430\u0440\u0443\u0441\u0435\u043b\u044c \u0437 \u0432\u0456\u0434\u0435\u043e-\u0444\u043e\u043d\u0430\u043c\u0438 (\u043f\u043e\u0432\u043d\u0438\u0439 \u043f\u0430\u0439\u043f\u043b\u0430\u0439\u043d)",
-    "id": "JulyLay/dark-carousel",
-    "language": "HTML",
-    "name": "JulyLay/dark-carousel",
-    "stars": 0,
-    "updated_at": "2026-10-09T11:38:40Z",
-    "url": "https://github.com/JulyLay/dark-carousel"
-  },
-  {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 1,
-    "updated_at": "2026-10-09T12:04:45Z",
-    "url": "https://github.com/ragnarwestad/aide"
   }
 ]
