@@ -1,12 +1,183 @@
 [
   {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-10-09T06:57:33Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+    "id": "redfox-data/redfox-community",
+    "language": "Python",
+    "name": "redfox-data/redfox-community",
+    "stars": 425,
+    "updated_at": "2026-10-09T06:56:12Z",
+    "url": "https://github.com/redfox-data/redfox-community"
+  },
+  {
+    "description": "Build an agent harness on Buda API Claws \u2014 an agent skill plus a runnable TypeScript quickstart for giving your device, ",
+    "id": "buda-ai/api-claws",
+    "language": "TypeScript",
+    "name": "buda-ai/api-claws",
+    "stars": 2,
+    "updated_at": "2026-10-09T06:55:13Z",
+    "url": "https://github.com/buda-ai/api-claws"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69916,
+    "updated_at": "2026-10-09T06:56:33Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Teach your AI agent to build websites the way we do: research the company, plan, code, review, and kill the AI slop (bye",
+    "id": "designhouseme/AdvancedSkills",
+    "language": "Python",
+    "name": "designhouseme/AdvancedSkills",
+    "stars": 1,
+    "updated_at": "2026-10-09T06:53:42Z",
+    "url": "https://github.com/designhouseme/AdvancedSkills"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 65,
+    "updated_at": "2026-10-09T06:53:29Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Minecraft Java Plugin Claude Skills",
+    "id": "MrPippi/MJP-Claude-Skills",
+    "language": "TypeScript",
+    "name": "MrPippi/MJP-Claude-Skills",
+    "stars": 1,
+    "updated_at": "2026-10-09T06:54:12Z",
+    "url": "https://github.com/MrPippi/MJP-Claude-Skills"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-10-09T06:52:13Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-09T06:44:49Z",
+    "updated_at": "2026-10-09T06:59:45Z",
     "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "A collection of mainly my own productivity plugins for Claude Code.",
+    "id": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "language": "Shell",
+    "name": "Marcel-Bich/marcel-bich-claude-marketplace",
+    "stars": 12,
+    "updated_at": "2026-10-09T06:51:04Z",
+    "url": "https://github.com/Marcel-Bich/marcel-bich-claude-marketplace"
+  },
+  {
+    "description": "Reduce context window before being sent to LLM",
+    "id": "nvxtien/context-slice",
+    "language": "TypeScript",
+    "name": "nvxtien/context-slice",
+    "stars": 0,
+    "updated_at": "2026-10-09T06:49:48Z",
+    "url": "https://github.com/nvxtien/context-slice"
+  },
+  {
+    "description": "\u8f93\u5165\u5e02\u573a\u3001\u4ea7\u54c1\u3001\u5408\u4f5c\u76ee\u6807\u7b49\uff0c\u901a\u8fc7\u5173\u952e\u8bcd\u3001\u54c1\u724c\u76ee\u6807\u6216\u5185\u5bb9\u65b9\u5411\u53d1\u73b0\u3001\u7b5b\u9009\u548c\u590d\u6838\u9002\u5408\u5408\u4f5c\u7684\u5feb\u624b\u8fbe\u4eba\uff0c\u6df1\u5165\u5206\u6790\u5019\u9009\u8d26\u53f7\u7684\u5185\u5bb9\u7279\u70b9\u3001\u771f\u5b9e\u4e92\u52a8\u6570\u636e\u7b49\uff0c\u8bc4\u4f30\u5185\u5bb9\u80fd\u529b\u3001\u53d7\u4f17\u5339\u914d\u4e0e\u5546\u4e1a\u6210\u672c\uff0c\u8f93\u51fa\u6709\u6570\u636e\u4f9d\u636e\u7684\u5408\u4f5c\u5019\u9009\u540d\u5355\u3002",
+    "id": "why20261/kuaishou-creator-screening",
+    "language": "JavaScript",
+    "name": "why20261/kuaishou-creator-screening",
+    "stars": 0,
+    "updated_at": "2026-10-09T06:48:43Z",
+    "url": "https://github.com/why20261/kuaishou-creator-screening"
+  },
+  {
+    "description": "Agent skills for C2PA Content Credentials: check files and URLs, track every asset in a repo, catch lost provenance. Cla",
+    "id": "c2pa-design/skills",
+    "language": "JavaScript",
+    "name": "c2pa-design/skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T06:47:57Z",
+    "url": "https://github.com/c2pa-design/skills"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-09T06:47:50Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 430,
+    "updated_at": "2026-10-09T06:47:13Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "The most expensive bug in AI-assisted building is shipping the wrong thing, well. A drop-in CLAUDE.md / AGENTS.md for PM",
+    "id": "sohaibt/product-mode",
+    "language": "TypeScript",
+    "name": "sohaibt/product-mode",
+    "stars": 207,
+    "updated_at": "2026-10-09T06:47:12Z",
+    "url": "https://github.com/sohaibt/product-mode"
+  },
+  {
+    "description": "Small, sharp, agent-agnostic skills that keep an AI agent's work honest.",
+    "id": "jovesun-lab/whetstone",
+    "language": "HTML",
+    "name": "jovesun-lab/whetstone",
+    "stars": 8,
+    "updated_at": "2026-10-09T06:46:27Z",
+    "url": "https://github.com/jovesun-lab/whetstone"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-09T06:46:11Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Flint \u00b7 local-skills-hub \u2014 a local-first personal AI skills asset manager. Centralize, tag, deduplicate skills, and depl",
+    "id": "lcy362/flint",
+    "language": "TypeScript",
+    "name": "lcy362/flint",
+    "stars": 32,
+    "updated_at": "2026-10-09T06:45:21Z",
+    "url": "https://github.com/lcy362/flint"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-09T06:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Free English productivity skills for AI coding agents: proofread docs, commit messages, meeting notes, code review, deep",
@@ -23,7 +194,7 @@
     "language": "HTML",
     "name": "pgoell/pgoell-claude-tools",
     "stars": 1,
-    "updated_at": "2026-10-09T06:42:40Z",
+    "updated_at": "2026-10-09T06:53:46Z",
     "url": "https://github.com/pgoell/pgoell-claude-tools"
   },
   {
@@ -40,7 +211,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 80472,
+    "stars": 80488,
     "updated_at": "2026-10-09T06:40:19Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -81,15 +252,6 @@
     "url": "https://github.com/AIPris/ticket-to-merge"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69916,
-    "updated_at": "2026-10-09T06:38:00Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\u8ba9\u4e2d\u6587\u5199\u5f97\u6709\u547c\u5438\u2014\u2014\u4eba\u548c AI \u90fd\u7528\u5f97\u4e0a\u7684\u4e00\u628a\u5199\u4f5c\u5c3a\uff1a\u5199\u4f5c\u8282\u594f\u8bca\u65ad + \u8bd7\u8bcd\u8bed\u8054\u4f53\u68c0 + \u5341\u56db\u7bc7\u6559\u6750",
     "id": "ZhongQuinnKing/yuchi",
     "language": "HTML",
@@ -117,24 +279,6 @@
     "url": "https://github.com/display-dev/skill"
   },
   {
-    "description": "\u8f93\u5165\u5e02\u573a\u3001\u4ea7\u54c1\u3001\u5408\u4f5c\u76ee\u6807\u7b49\uff0c\u901a\u8fc7\u5173\u952e\u8bcd\u3001\u54c1\u724c\u76ee\u6807\u6216\u5185\u5bb9\u65b9\u5411\u53d1\u73b0\u3001\u7b5b\u9009\u548c\u590d\u6838\u9002\u5408\u5408\u4f5c\u7684\u5feb\u624b\u8fbe\u4eba\uff0c\u6df1\u5165\u5206\u6790\u5019\u9009\u8d26\u53f7\u7684\u5185\u5bb9\u7279\u70b9\u3001\u771f\u5b9e\u4e92\u52a8\u6570\u636e\u7b49\uff0c\u8bc4\u4f30\u5185\u5bb9\u80fd\u529b\u3001\u53d7\u4f17\u5339\u914d\u4e0e\u5546\u4e1a\u6210\u672c\uff0c\u8f93\u51fa\u6709\u6570\u636e\u4f9d\u636e\u7684\u5408\u4f5c\u5019\u9009\u540d\u5355\u3002",
-    "id": "why20261/kuaishou-creator-screening",
-    "language": "\u2014",
-    "name": "why20261/kuaishou-creator-screening",
-    "stars": 0,
-    "updated_at": "2026-10-09T06:37:11Z",
-    "url": "https://github.com/why20261/kuaishou-creator-screening"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-09T06:36:10Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
     "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
     "id": "mimukit/skills",
     "language": "Shell",
@@ -151,33 +295,6 @@
     "stars": 20,
     "updated_at": "2026-10-09T06:32:13Z",
     "url": "https://github.com/shalintripathi/saas-marketing-agents"
-  },
-  {
-    "description": "The most expensive bug in AI-assisted building is shipping the wrong thing, well. A drop-in CLAUDE.md / AGENTS.md for PM",
-    "id": "sohaibt/product-mode",
-    "language": "TypeScript",
-    "name": "sohaibt/product-mode",
-    "stars": 207,
-    "updated_at": "2026-10-09T06:31:22Z",
-    "url": "https://github.com/sohaibt/product-mode"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-09T06:30:23Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Teach your AI agent to build websites the way we do: research the company, plan, code, review, and kill the AI slop (bye",
-    "id": "designhouseme/AdvancedSkills",
-    "language": "Python",
-    "name": "designhouseme/AdvancedSkills",
-    "stars": 1,
-    "updated_at": "2026-10-09T06:30:07Z",
-    "url": "https://github.com/designhouseme/AdvancedSkills"
   },
   {
     "description": "Portable, configurable agent skills for reliable everyday work.",
@@ -221,7 +338,7 @@
     "language": "Python",
     "name": "longsizhuo/openInvest",
     "stars": 87,
-    "updated_at": "2026-10-09T06:22:06Z",
+    "updated_at": "2026-10-09T07:00:05Z",
     "url": "https://github.com/longsizhuo/openInvest"
   },
   {
@@ -284,7 +401,7 @@
     "language": "JavaScript",
     "name": "ZiadHassanein/C2C",
     "stars": 0,
-    "updated_at": "2026-10-09T06:15:29Z",
+    "updated_at": "2026-10-09T06:59:10Z",
     "url": "https://github.com/ZiadHassanein/C2C"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T06:11:06Z",
     "url": "https://github.com/ecko-lang/skill"
-  },
-  {
-    "description": "\ub9d0 \ud55c\ub9c8\ub514\ub97c \uac10\ub3c5\uc774 \uc5f0\ucd9c\ud55c \ubaa8\uc158\uadf8\ub798\ud53d\uc73c\ub85c \u2014 Claude\u00b7Codex\u00b7ChatGPT \uc2a4\ud0ac + MCP + \ub80c\ub354 \uc5d4\uc9c4. One sentence to directed motion graphics: re-prompting, ",
-    "id": "ZZombie04/motion",
-    "language": "JavaScript",
-    "name": "ZZombie04/motion",
-    "stars": 0,
-    "updated_at": "2026-10-09T06:10:02Z",
-    "url": "https://github.com/ZZombie04/motion"
-  },
-  {
-    "description": "Package manager for Claude Code skills and agents and other AI related resources",
-    "id": "mensfeld/craftdesk",
-    "language": "TypeScript",
-    "name": "mensfeld/craftdesk",
-    "stars": 67,
-    "updated_at": "2026-10-09T06:06:57Z",
-    "url": "https://github.com/mensfeld/craftdesk"
-  },
-  {
-    "description": "\ud83e\udd9e+\ud83d\udd2c NanoResearch: The Autonomous AI Research Assistant",
-    "id": "OpenRaiser/NanoResearch",
-    "language": "Python",
-    "name": "OpenRaiser/NanoResearch",
-    "stars": 1339,
-    "updated_at": "2026-10-09T06:06:51Z",
-    "url": "https://github.com/OpenRaiser/NanoResearch"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1197,
-    "updated_at": "2026-10-09T06:34:19Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-09T06:38:37Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 65,
-    "updated_at": "2026-10-09T06:05:48Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "Extract design tokens - colors, type, spacing, shadows - from a URL, screenshot, or CSS into CSS variables and JSON.",
-    "id": "humbleteam/extract-design-tokens",
-    "language": "\u2014",
-    "name": "humbleteam/extract-design-tokens",
-    "stars": 1,
-    "updated_at": "2026-10-09T06:04:17Z",
-    "url": "https://github.com/humbleteam/extract-design-tokens"
-  },
-  {
-    "description": "\u7c73\u6e38\u793e\uff08\u539f\u795e + \u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\uff09\u6bcf\u65e5\u7b7e\u5230\u81ea\u52a8\u5316\u3002\u8c03\u7528\u7c73\u6e38\u793e Luna \u7b7e\u5230\u63a5\u53e3\u5b8c\u6210\u56fd\u670d\u6e38\u620f\u6bcf\u65e5\u7b7e\u5230\uff0c\u9700\u7528\u6237\u81ea\u884c\u63d0\u4f9b\u7f51\u9875\u7aef Cookie\u3002\u5f53\u7528\u6237\u8981\u6c42\u300c\u7c73\u6e38\u793e\u7b7e\u5230\u300d\u300c\u539f\u795e/\u661f\u94c1\u6bcf\u65e5\u7b7e\u5230\u300d\u300c\u81ea\u52a8\u7b7e\u5230\u300d\u300c\u5c01\u88c5\u7c73\u6e38\u793e\u7b7e\u5230 skill\u300d\u6216\u4f7f\u7528\u7c73\u6e38\u793e\u798f",
-    "id": "MeiHitomi/miyoushe-daily-checkin",
-    "language": "\u2014",
-    "name": "MeiHitomi/miyoushe-daily-checkin",
-    "stars": 0,
-    "updated_at": "2026-10-09T06:43:08Z",
-    "url": "https://github.com/MeiHitomi/miyoushe-daily-checkin"
-  },
-  {
-    "description": "Pixel-faithful HTML mockups from a reference screenshot - census first, then render",
-    "id": "humbleteam/html-mockup",
-    "language": "\u2014",
-    "name": "humbleteam/html-mockup",
-    "stars": 1,
-    "updated_at": "2026-10-09T06:04:02Z",
-    "url": "https://github.com/humbleteam/html-mockup"
-  },
-  {
-    "description": "Agent Skill for Claude Code, Codex, GitHub Copilot & Cursor: turn a brief into a designed PowerPoint (PPTX), HTML slide ",
-    "id": "ShivaPrasadNayak/brief-to-design-skill",
-    "language": "Python",
-    "name": "ShivaPrasadNayak/brief-to-design-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T06:03:09Z",
-    "url": "https://github.com/ShivaPrasadNayak/brief-to-design-skill"
-  },
-  {
-    "description": "Agent skills for Preset, Apache Superset and Superset MCP \u2014 `sup` CLI, HTTP/SDK and MCP workflows from a single source.",
-    "id": "preset-io/agent-skills",
-    "language": "JavaScript",
-    "name": "preset-io/agent-skills",
-    "stars": 13,
-    "updated_at": "2026-10-09T06:02:24Z",
-    "url": "https://github.com/preset-io/agent-skills"
-  },
-  {
-    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
-    "id": "imboard-ai/ai-dossier",
-    "language": "TypeScript",
-    "name": "imboard-ai/ai-dossier",
-    "stars": 9,
-    "updated_at": "2026-10-09T06:44:27Z",
-    "url": "https://github.com/imboard-ai/ai-dossier"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 430,
-    "updated_at": "2026-10-09T06:40:55Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   }
 ]
