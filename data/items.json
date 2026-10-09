@@ -1,5 +1,68 @@
 [
   {
+    "description": "Engineering workflow skills for AI coding agents.",
+    "id": "snappedly/skills",
+    "language": "Python",
+    "name": "snappedly/skills",
+    "stars": 1,
+    "updated_at": "2026-10-08T23:58:44Z",
+    "url": "https://github.com/snappedly/skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-08T23:57:41Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 15,
+    "updated_at": "2026-10-08T23:56:57Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "\"code this idea\" \u2014 turns a plan or idea into a complete, AI-coding-agent-ready docs set (AGENTS.md + linked architecture",
+    "id": "melconcoast/code-idea",
+    "language": "Shell",
+    "name": "melconcoast/code-idea",
+    "stars": 2,
+    "updated_at": "2026-10-08T23:55:59Z",
+    "url": "https://github.com/melconcoast/code-idea"
+  },
+  {
+    "description": "Plan social media campaigns, review posts, schedule approved publishing and read saved Insights through the Influence MC",
+    "id": "influence-so/influence-mcp",
+    "language": "\u2014",
+    "name": "influence-so/influence-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-08T23:53:54Z",
+    "url": "https://github.com/influence-so/influence-mcp"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 65,
+    "updated_at": "2026-10-08T23:53:05Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 123,
+    "updated_at": "2026-10-08T23:52:58Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -202,18 +265,9 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 79977,
+    "stars": 79984,
     "updated_at": "2026-10-08T23:46:35Z",
     "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 123,
-    "updated_at": "2026-10-08T23:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
@@ -241,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-10-08T23:40:44Z",
     "url": "https://github.com/jongos/Dazzler"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-08T23:52:54Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
@@ -297,15 +342,6 @@
     "url": "https://github.com/Mindrally/skills"
   },
   {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 15,
-    "updated_at": "2026-10-08T23:37:04Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
@@ -329,7 +365,7 @@
     "language": "HTML",
     "name": "Mihai-Codes/cv-witness",
     "stars": 1,
-    "updated_at": "2026-10-08T23:29:45Z",
+    "updated_at": "2026-10-08T23:59:18Z",
     "url": "https://github.com/Mihai-Codes/cv-witness"
   },
   {
@@ -349,15 +385,6 @@
     "stars": 5,
     "updated_at": "2026-10-08T23:24:01Z",
     "url": "https://github.com/backwardstruck/community-job-search-plugin"
-  },
-  {
-    "description": "Engineering workflow skills for AI coding agents.",
-    "id": "snappedly/skills",
-    "language": "Python",
-    "name": "snappedly/skills",
-    "stars": 1,
-    "updated_at": "2026-10-08T23:35:41Z",
-    "url": "https://github.com/snappedly/skills"
   },
   {
     "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-08T23:13:26Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-08T23:11:24Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "Learn any skill in 2 hours inside Claude. Coach Sprint: live dashboard, best videos, certifications, mastery gate, optio",
-    "id": "MithunSidhaarth/rapid-skill-sprint",
-    "language": "TypeScript",
-    "name": "MithunSidhaarth/rapid-skill-sprint",
-    "stars": 0,
-    "updated_at": "2026-10-08T23:08:45Z",
-    "url": "https://github.com/MithunSidhaarth/rapid-skill-sprint"
-  },
-  {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 5,
-    "updated_at": "2026-10-08T23:08:33Z",
-    "url": "https://github.com/inkatze/planwright"
   }
 ]
