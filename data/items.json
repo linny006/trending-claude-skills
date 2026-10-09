@@ -1,5 +1,77 @@
 [
   {
+    "description": "Multi-agent folder cleanup skill for shared AI project workspaces. Stops Claude, ChatGPT, Codex, Copilot, Gemini, Grok, ",
+    "id": "JesseRaber/multi-agent-folder-cleanup",
+    "language": "Python",
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "stars": 1,
+    "updated_at": "2026-10-09T22:44:36Z",
+    "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
+  },
+  {
+    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
+    "id": "indranilbanerjee/socialforge",
+    "language": "Python",
+    "name": "indranilbanerjee/socialforge",
+    "stars": 39,
+    "updated_at": "2026-10-09T22:43:29Z",
+    "url": "https://github.com/indranilbanerjee/socialforge"
+  },
+  {
+    "description": "An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - groun",
+    "id": "indranilbanerjee/digital-marketing-pro",
+    "language": "Python",
+    "name": "indranilbanerjee/digital-marketing-pro",
+    "stars": 861,
+    "updated_at": "2026-10-09T22:43:25Z",
+    "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
+  },
+  {
+    "description": "Skills, hooks and tools for Claude Code",
+    "id": "jasonlohyp/skills",
+    "language": "JavaScript",
+    "name": "jasonlohyp/skills",
+    "stars": 0,
+    "updated_at": "2026-10-09T22:42:50Z",
+    "url": "https://github.com/jasonlohyp/skills"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 20,
+    "updated_at": "2026-10-09T22:42:47Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent",
+    "id": "MohammadHijjawi97/since-cutoff",
+    "language": "Python",
+    "name": "MohammadHijjawi97/since-cutoff",
+    "stars": 8,
+    "updated_at": "2026-10-09T22:42:45Z",
+    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 189,
+    "updated_at": "2026-10-09T22:43:01Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-09T22:39:29Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skill: rewrite dense or ambiguous Hebrew into Simplified Technical Hebrew (adapted from ASD-STE100)",
     "id": "g4lb/asd-ste100-hebrew-skill",
     "language": "Python",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "simota/agent-skills",
     "stars": 91,
-    "updated_at": "2026-10-09T22:37:17Z",
+    "updated_at": "2026-10-09T22:44:50Z",
     "url": "https://github.com/simota/agent-skills"
   },
   {
@@ -63,24 +135,6 @@
     "url": "https://github.com/indranilbanerjee/socialforge-copy-adapter"
   },
   {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 189,
-    "updated_at": "2026-10-09T22:37:02Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "An open-source social media production system that turns a content calendar into on-brand copy, images, video, and clien",
-    "id": "indranilbanerjee/socialforge",
-    "language": "Python",
-    "name": "indranilbanerjee/socialforge",
-    "stars": 39,
-    "updated_at": "2026-10-09T22:33:27Z",
-    "url": "https://github.com/indranilbanerjee/socialforge"
-  },
-  {
     "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
     "id": "nullphase-net/enfurbish",
     "language": "TypeScript",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-09T22:31:09Z",
     "url": "https://github.com/youneedgreg/motion-studio"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 124,
-    "updated_at": "2026-10-09T22:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
@@ -135,15 +180,6 @@
     "url": "https://github.com/revops-lab/agents"
   },
   {
-    "description": "Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent",
-    "id": "MohammadHijjawi97/since-cutoff",
-    "language": "Python",
-    "name": "MohammadHijjawi97/since-cutoff",
-    "stars": 8,
-    "updated_at": "2026-10-09T22:35:31Z",
-    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
-  },
-  {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
     "id": "Marcel-Bich/marcel-bich-claude-marketplace",
     "language": "Shell",
@@ -166,7 +202,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81159,
+    "stars": 81161,
     "updated_at": "2026-10-09T22:24:46Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -223,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T22:18:42Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "An open-source AI marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and analytics - groun",
-    "id": "indranilbanerjee/digital-marketing-pro",
-    "language": "Python",
-    "name": "indranilbanerjee/digital-marketing-pro",
-    "stars": 861,
-    "updated_at": "2026-10-09T22:18:05Z",
-    "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
   },
   {
     "description": "A chat gives you an answer. Forge of Thought is an AI cognitive extension: a workshop where your idea is forged into a d",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-09T21:56:29Z",
     "url": "https://github.com/graceupperclass437/agent-skills-collection"
-  },
-  {
-    "description": "Claude \u00fc\u00e7\u00fcn \u015e\u0259ki \u015fiv\u0259si skilli \u2014 m\u0259nb\u0259li s\u00f6z v\u0259 qayda bazas\u0131 (Sheki dialect of Azerbaijani)",
-    "id": "ferhad24/seki-danisigi-skill",
-    "language": "\u2014",
-    "name": "ferhad24/seki-danisigi-skill",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:56:21Z",
-    "url": "https://github.com/ferhad24/seki-danisigi-skill"
-  },
-  {
-    "description": "Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusa",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 127,
-    "updated_at": "2026-10-09T21:55:52Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Copy a Mermaid diagram, type mm, get a full-resolution PNG and SVG in Preview. Local, no sign-up. Pairs with HumanLayer'",
-    "id": "bath/mm-mermaid",
-    "language": "Shell",
-    "name": "bath/mm-mermaid",
-    "stars": 0,
-    "updated_at": "2026-10-09T21:55:44Z",
-    "url": "https://github.com/bath/mm-mermaid"
   }
 ]
