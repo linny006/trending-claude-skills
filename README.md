@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 14:45 UTC
+> ⏰ Last updated: 2026-10-10 15:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dryvist/ai-assistant-instructions](https://github.com/dryvist/ai-assistant-instructions) | 9 | Shell | 2026-10-10 | A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions  |
-| 2 | [drnachio/postext](https://github.com/drnachio/postext) | 8 | TypeScript | 2026-10-10 | A programmable typesetter for the web |
-| 3 | [pmrjge/blackcat](https://github.com/pmrjge/blackcat) | 0 | Python | 2026-10-10 | Achieved by claude itself, this is a Claude Code configuration installer aliased blackcat for multi-agent orchestration. |
-| 4 | [yschimke/skills](https://github.com/yschimke/skills) | 2 | Shell | 2026-10-10 | Helping the Agents Compose the Things |
-| 5 | [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | 1241 | JavaScript | 2026-10-10 | Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and |
-| 6 | [leeandev/stop-slop-ko](https://github.com/leeandev/stop-slop-ko) | 0 | Python | 2026-10-10 | 한국어 문서에서 AI 티 걷어내기 \| Korean version of stop-slop for Claude Code (skills + docx/pptx/xlsx scanner) |
-| 7 | [anthonykgross/akg](https://github.com/anthonykgross/akg) | 0 | Shell | 2026-10-10 | Team-driven Claude Code setup: questions, CLAUDE.md, settings and plugins. |
-| 8 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 81546 | JavaScript | 2026-10-10 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
-| 9 | [solanabr/ai-kit](https://github.com/solanabr/ai-kit) | 109 | Shell | 2026-10-10 | Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se |
-| 10 | [bo-516/NiceDesign](https://github.com/bo-516/NiceDesign) | 1 | HTML | 2026-10-10 | Rule-only Agent Skills for Claude Code, Cursor & Codex: web UI rules that stop AI-built interfaces looking generic (OKLC |
-| 11 | [tstrider/horses-mouth](https://github.com/tstrider/horses-mouth) | 0 | — | 2026-10-10 | A Claude skill that reads the official source before stating a fact. Laws, docs, quotes, statistics, studies, policies,  |
-| 12 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 85824 | TypeScript | 2026-10-10 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
-| 13 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-10-10 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
-| 14 | [ragnarwestad/aide](https://github.com/ragnarwestad/aide) | 1 | TypeScript | 2026-10-10 | Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) — specs, skills and a dashboard |
-| 15 | [shao36058-png/skills](https://github.com/shao36058-png/skills) | 1 | Python | 2026-10-10 | 电磁仿真te01模式 |
-| 16 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 125 | Python | 2026-10-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 17 | [fmihalcioiu/rowsynth](https://github.com/fmihalcioiu/rowsynth) | 0 | Python | 2026-10-10 | A chip synth driven by text. Sound effects and songs are written as data and rendered to WAV, with pulse, triangle, nois |
-| 18 | [lmsable/lmsable-skill](https://github.com/lmsable/lmsable-skill) | 0 | JavaScript | 2026-10-10 | Teach your AI chat (Claude, ChatGPT, Gemini) how LMSable works, so the course outlines, lessons, quizzes and scenarios i |
-| 19 | [sunsiyuan/ultramotion](https://github.com/sunsiyuan/ultramotion) | 4 | HTML | 2026-10-10 | Open-source motion templates as agent skills · 动效模板库 |
-| 20 | [Bank848/Claude-Abo](https://github.com/Bank848/Claude-Abo) | 5 | Python | 2026-10-10 | Portable Claude Code setup template: 66 skills with provenance, cost-aware model routing, git safety hooks. Adapt, don't |
-| 21 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 433 | Python | 2026-10-10 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
-| 22 | [haoming-luo/agentfem](https://github.com/haoming-luo/agentfem) | 23 | Python | 2026-10-10 | AI-native open-source finite-element platform connecting engineering, computation, data, and AI. |
-| 23 | [nickspiz/pilot-first-decisions](https://github.com/nickspiz/pilot-first-decisions) | 0 | JavaScript | 2026-10-10 | Stop paying a chat model to answer yes/no. A recipe and a benchmark harness for decision models. |
-| 24 | [nickspiz/say-it-badly](https://github.com/nickspiz/say-it-badly) | 0 | — | 2026-10-10 | You dictated it wrong. Your agent should understand anyway. Drop-in rules for voice-driven coding. |
-| 25 | [nickspiz/autonomy-matrix](https://github.com/nickspiz/autonomy-matrix) | 0 | — | 2026-10-10 | When should your agent ask, and when should it just do it? Drop-in CLAUDE.md / AGENTS.md rules. |
-| 26 | [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) | 522 | — | 2026-10-10 | Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each  |
-| 27 | [ortus-boxlang/skills](https://github.com/ortus-boxlang/skills) | 0 | — | 2026-10-10 | BoxLang AI skills repository and Claude Plugin |
-| 28 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | HTML | 2026-10-10 | Free, public, no-auth REST APIs from AI SENSE AS — clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl |
-| 29 | [victorrentea/human-review](https://github.com/victorrentea/human-review) | 20 | Python | 2026-10-10 | A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast — diagram deltas, C |
-| 30 | [zinolang-cell/claudevideo](https://github.com/zinolang-cell/claudevideo) | 0 | JavaScript | 2026-10-10 | A skill for you to use Claude or ChatGPT as your video editor |
-| 31 | [yester21/AI-Auto-Poster-Skills](https://github.com/yester21/AI-Auto-Poster-Skills) | 0 | Python | 2026-10-10 | AI 오토포스터 WordPress 플러그인용 에이전트 스킬 — 한국어 SEO 글쓰기 구조, H태그 규칙, AI 슬롭·번역체 제거, 발행 전 검증. |
-| 32 | [malochapo/sobre-ai](https://github.com/malochapo/sobre-ai) | 0 | Rust | 2026-10-10 | Context tools for coding agents that run on your machine and nowhere else. An MCP server, hooks and a CLI that answer wi |
-| 33 | [Jsnnmsc/10000x-engineer](https://github.com/Jsnnmsc/10000x-engineer) | 1 | — | 2026-10-10 | Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an |
-| 34 | [brianshepardpss/plugin-creator](https://github.com/brianshepardpss/plugin-creator) | 0 | Python | 2026-10-10 | Claude plugins for the gaps in the official directory, plus the plugin that builds them. Marketplace: /plugin marketplac |
-| 35 | [brianshepardpss/grant-desk](https://github.com/brianshepardpss/grant-desk) | 0 | Python | 2026-10-10 | Grant writing desk for small nonprofits: free funder research from public 990-PF grantee lists and Grants.gov, source-ta |
-| 36 | [brianshepardpss/restaurant-ops](https://github.com/brianshepardpss/restaurant-ops) | 0 | Python | 2026-10-10 | Plate costing, invoice price tracking, menu engineering, allergen matrix drafts and labor schedule drafts for independen |
-| 37 | [brianshepardpss/construction-pm](https://github.com/brianshepardpss/construction-pm) | 0 | Python | 2026-10-10 | Project-engineer sidekick for small GCs and subs: spec sections to a cited submittal register, plus RFIs, daily reports, |
-| 38 | [brianshepardpss/listing-desk](https://github.com/brianshepardpss/listing-desk) | 0 | Python | 2026-10-10 | Listing appointment prep and listing launch for US residential real estate agents: a CMA from your own MLS CSV export, l |
-| 39 | [brianshepardpss/deal-tender](https://github.com/brianshepardpss/deal-tender) | 0 | Python | 2026-10-10 | Pipeline triage, call logging, forecast briefs and meeting prep for Pipedrive users: ranks stale deals, drafts follow-up |
-| 40 | [brianshepardpss/structured-hiring](https://github.com/brianshepardpss/structured-hiring) | 0 | Python | 2026-10-10 | Structured hiring for founders, hiring managers and recruiters: debrief packets from scorecards, interview kits, pay-tra |
-| 41 | [brianshepardpss/helpdesk](https://github.com/brianshepardpss/helpdesk) | 0 | Python | 2026-10-10 | Queue triage, SLA-risk ranking, on-brand reply drafts, thread summaries and weekly insights for support teams on Zendesk |
-| 42 | [brianshepardpss/merge-medic](https://github.com/brianshepardpss/merge-medic) | 0 | Python | 2026-10-10 | Fix red GitLab pipelines and review merge requests from Claude Code through the glab CLI: failed-job log triage, draft-o |
-| 43 | [brianshepardpss/analyzer-loop](https://github.com/brianshepardpss/analyzer-loop) | 0 | Python | 2026-10-10 | Dart analysis server LSP for Claude Code plus Flutter/Dart workflow skills (fix-analyzer-errors loop, major package upgr |
-| 44 | [brianshepardpss/grounded-scala](https://github.com/brianshepardpss/grounded-scala) | 0 | Python | 2026-10-10 | Scala language server (Metals) and workflow skills for Claude Code: type errors after every edit, symbol-true navigation |
-| 45 | [brianshepardpss/make-my-plugin](https://github.com/brianshepardpss/make-my-plugin) | 0 | Python | 2026-10-10 | Turn the way you already do a recurring task into your own Claude plugin, no coding. Claude interviews you, learns from  |
-| 46 | [brianshepardpss/plugin-studio](https://github.com/brianshepardpss/plugin-studio) | 0 | Python | 2026-10-10 | Run a portfolio of Claude plugins like a studio: rank gaps with live demand data, track every published plugin's tractio |
-| 47 | [brianshepardpss/plugin-creator-plugin](https://github.com/brianshepardpss/plugin-creator-plugin) | 0 | Python | 2026-10-10 | Go from a plugin idea to a published, tested Claude plugin: live demand check, design brief, strict-valid scaffold, skil |
-| 48 | [yuanhaorannnnnn/agent-skills](https://github.com/yuanhaorannnnnn/agent-skills) | 0 | Python | 2026-10-10 | Manifest-driven, contract-tested skills for coding agents - one install for Claude Code and Codex. doctor-verified workf |
-| 49 | [rightin2/shape-rotate](https://github.com/rightin2/shape-rotate) | 0 | Python | 2026-10-10 | A Claude skill that makes stuck arguments, drafts, plans and decisions click into place: visualize every piece, rotate t |
-| 50 | [curie-eng/curie](https://github.com/curie-eng/curie) | 36 | Python | 2026-10-10 | Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. |
+| 1 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-10-10 | Deterministic multi-CLI orchestration and AI agentic workflow utility. |
+| 2 | [isatimur/excalidraw-skill-pack](https://github.com/isatimur/excalidraw-skill-pack) | 4 | TypeScript | 2026-10-10 | Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin |
+| 3 | [danieljustus/symaira-eraseme](https://github.com/danieljustus/symaira-eraseme) | 9 | Rust | 2026-10-10 | Automated data broker removal tool ⌫ close your accounts, erase your data. |
+| 4 | [victorrentea/human-review](https://github.com/victorrentea/human-review) | 20 | Python | 2026-10-10 | A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast — diagram deltas, C |
+| 5 | [fmihalcioiu/rowsynth](https://github.com/fmihalcioiu/rowsynth) | 0 | Python | 2026-10-10 | A chip synth driven by text. Sound effects and songs are written as data and rendered to WAV, with pulse, triangle, nois |
+| 6 | [rightin2/shape-rotate](https://github.com/rightin2/shape-rotate) | 0 | Python | 2026-10-10 | A Claude skill that makes stuck arguments, drafts, plans and decisions click into place: visualize every piece, rotate t |
+| 7 | [kabo-sh/kabo-plugins](https://github.com/kabo-sh/kabo-plugins) | 3 | JavaScript | 2026-10-10 | Creator research skills for Claude Code and Codex: see what's working on YouTube, Instagram, and TikTok, review accounts |
+| 8 | [ianlchapman/park-skills](https://github.com/ianlchapman/park-skills) | 0 | — | 2026-10-10 | Claude Code skills that give AI agents live theme park data (crowd forecasts, hours, weather). |
+| 9 | [lmsable/lmsable-skill](https://github.com/lmsable/lmsable-skill) | 0 | JavaScript | 2026-10-10 | Teach your AI chat (Claude, ChatGPT, Gemini) how LMSable works, so the course outlines, lessons, quizzes and scenarios i |
+| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69936 | TypeScript | 2026-10-10 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 11 | [redb0/daily-summary](https://github.com/redb0/daily-summary) | 0 | Python | 2026-10-10 | Local daily work log: git, Cursor, OpenCode, and Telegram into one confirmed block in an Obsidian daily note. |
+| 12 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-10-10 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 13 | [ninad-k/mql5-market-agent-skills](https://github.com/ninad-k/mql5-market-agent-skills) | 0 | Python | 2026-10-10 | Agent Skill for Claude & ChatGPT that validates, lists and launches MetaTrader EAs on the MQL5 Market: pre-upload code s |
+| 14 | [agencekoeki/koeki-it-support](https://github.com/agencekoeki/koeki-it-support) | 0 | — | 2026-10-10 | Consent-first IT support skill for Claude: diagnoses slow or broken Windows 10/11 PCs like a technician, asks before eve |
+| 15 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 125 | Python | 2026-10-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 16 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 81550 | JavaScript | 2026-10-10 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
+| 17 | [dryvist/ai-assistant-instructions](https://github.com/dryvist/ai-assistant-instructions) | 9 | Shell | 2026-10-10 | A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions  |
+| 18 | [drnachio/postext](https://github.com/drnachio/postext) | 8 | TypeScript | 2026-10-10 | A programmable typesetter for the web |
+| 19 | [pmrjge/blackcat](https://github.com/pmrjge/blackcat) | 0 | Python | 2026-10-10 | Achieved by claude itself, this is a Claude Code configuration installer aliased blackcat for multi-agent orchestration. |
+| 20 | [yschimke/skills](https://github.com/yschimke/skills) | 2 | Shell | 2026-10-10 | Helping the Agents Compose the Things |
+| 21 | [gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills) | 1241 | JavaScript | 2026-10-10 | Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and |
+| 22 | [leeandev/stop-slop-ko](https://github.com/leeandev/stop-slop-ko) | 0 | Python | 2026-10-10 | 한국어 문서에서 AI 티 걷어내기 \| Korean version of stop-slop for Claude Code (skills + docx/pptx/xlsx scanner) |
+| 23 | [anthonykgross/akg](https://github.com/anthonykgross/akg) | 0 | Shell | 2026-10-10 | Team-driven Claude Code setup: questions, CLAUDE.md, settings and plugins. |
+| 24 | [solanabr/ai-kit](https://github.com/solanabr/ai-kit) | 109 | Shell | 2026-10-10 | Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se |
+| 25 | [bo-516/NiceDesign](https://github.com/bo-516/NiceDesign) | 1 | HTML | 2026-10-10 | Rule-only Agent Skills for Claude Code, Cursor & Codex: web UI rules that stop AI-built interfaces looking generic (OKLC |
+| 26 | [tstrider/horses-mouth](https://github.com/tstrider/horses-mouth) | 0 | — | 2026-10-10 | A Claude skill that reads the official source before stating a fact. Laws, docs, quotes, statistics, studies, policies,  |
+| 27 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | 85824 | TypeScript | 2026-10-10 | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and  |
+| 28 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-10-10 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
+| 29 | [ragnarwestad/aide](https://github.com/ragnarwestad/aide) | 1 | TypeScript | 2026-10-10 | Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) — specs, skills and a dashboard |
+| 30 | [shao36058-png/skills](https://github.com/shao36058-png/skills) | 1 | Python | 2026-10-10 | 电磁仿真te01模式 |
+| 31 | [sunsiyuan/ultramotion](https://github.com/sunsiyuan/ultramotion) | 4 | HTML | 2026-10-10 | Open-source motion templates as agent skills · 动效模板库 |
+| 32 | [Bank848/Claude-Abo](https://github.com/Bank848/Claude-Abo) | 5 | Python | 2026-10-10 | Portable Claude Code setup template: 66 skills with provenance, cost-aware model routing, git safety hooks. Adapt, don't |
+| 33 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 433 | Python | 2026-10-10 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
+| 34 | [haoming-luo/agentfem](https://github.com/haoming-luo/agentfem) | 23 | Python | 2026-10-10 | AI-native open-source finite-element platform connecting engineering, computation, data, and AI. |
+| 35 | [nickspiz/pilot-first-decisions](https://github.com/nickspiz/pilot-first-decisions) | 0 | JavaScript | 2026-10-10 | Stop paying a chat model to answer yes/no. A recipe and a benchmark harness for decision models. |
+| 36 | [nickspiz/say-it-badly](https://github.com/nickspiz/say-it-badly) | 0 | — | 2026-10-10 | You dictated it wrong. Your agent should understand anyway. Drop-in rules for voice-driven coding. |
+| 37 | [nickspiz/autonomy-matrix](https://github.com/nickspiz/autonomy-matrix) | 0 | — | 2026-10-10 | When should your agent ask, and when should it just do it? Drop-in CLAUDE.md / AGENTS.md rules. |
+| 38 | [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) | 522 | — | 2026-10-10 | Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each  |
+| 39 | [ortus-boxlang/skills](https://github.com/ortus-boxlang/skills) | 0 | — | 2026-10-10 | BoxLang AI skills repository and Claude Plugin |
+| 40 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | HTML | 2026-10-10 | Free, public, no-auth REST APIs from AI SENSE AS — clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl |
+| 41 | [zinolang-cell/claudevideo](https://github.com/zinolang-cell/claudevideo) | 0 | JavaScript | 2026-10-10 | A skill for you to use Claude or ChatGPT as your video editor |
+| 42 | [yester21/AI-Auto-Poster-Skills](https://github.com/yester21/AI-Auto-Poster-Skills) | 0 | Python | 2026-10-10 | AI 오토포스터 WordPress 플러그인용 에이전트 스킬 — 한국어 SEO 글쓰기 구조, H태그 규칙, AI 슬롭·번역체 제거, 발행 전 검증. |
+| 43 | [malochapo/sobre-ai](https://github.com/malochapo/sobre-ai) | 0 | Rust | 2026-10-10 | Context tools for coding agents that run on your machine and nowhere else. An MCP server, hooks and a CLI that answer wi |
+| 44 | [Jsnnmsc/10000x-engineer](https://github.com/Jsnnmsc/10000x-engineer) | 1 | — | 2026-10-10 | Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an |
+| 45 | [brianshepardpss/plugin-creator](https://github.com/brianshepardpss/plugin-creator) | 0 | Python | 2026-10-10 | Claude plugins for the gaps in the official directory, plus the plugin that builds them. Marketplace: /plugin marketplac |
+| 46 | [brianshepardpss/grant-desk](https://github.com/brianshepardpss/grant-desk) | 0 | Python | 2026-10-10 | Grant writing desk for small nonprofits: free funder research from public 990-PF grantee lists and Grants.gov, source-ta |
+| 47 | [brianshepardpss/restaurant-ops](https://github.com/brianshepardpss/restaurant-ops) | 0 | Python | 2026-10-10 | Plate costing, invoice price tracking, menu engineering, allergen matrix drafts and labor schedule drafts for independen |
+| 48 | [brianshepardpss/construction-pm](https://github.com/brianshepardpss/construction-pm) | 0 | Python | 2026-10-10 | Project-engineer sidekick for small GCs and subs: spec sections to a cited submittal register, plus RFIs, daily reports, |
+| 49 | [brianshepardpss/listing-desk](https://github.com/brianshepardpss/listing-desk) | 0 | Python | 2026-10-10 | Listing appointment prep and listing launch for US residential real estate agents: a CMA from your own MLS CSV export, l |
+| 50 | [brianshepardpss/deal-tender](https://github.com/brianshepardpss/deal-tender) | 0 | Python | 2026-10-10 | Pipeline triage, call logging, forecast briefs and meeting prep for Pipedrive users: ranks stale deals, drafts follow-up |
 <!-- TRACKER_TABLE_END -->
 
 ---
