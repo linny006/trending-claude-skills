@@ -1,12 +1,120 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 433,
+    "updated_at": "2026-10-10T00:14:31Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
     "description": "Agent skills repository",
     "id": "ooooooooooooooooooop/personal-ai",
     "language": "Python",
     "name": "ooooooooooooooooooop/personal-ai",
     "stars": 4,
-    "updated_at": "2026-10-09T23:59:26Z",
+    "updated_at": "2026-10-10T00:13:20Z",
     "url": "https://github.com/ooooooooooooooooooop/personal-ai"
+  },
+  {
+    "description": "Find out if your Claude Code / Agent Skills actually trigger: lint for overlap and the description budget, plus a trigge",
+    "id": "TanbirRamim/skill-trigger-bench",
+    "language": "Python",
+    "name": "TanbirRamim/skill-trigger-bench",
+    "stars": 0,
+    "updated_at": "2026-10-10T00:12:12Z",
+    "url": "https://github.com/TanbirRamim/skill-trigger-bench"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 15,
+    "updated_at": "2026-10-10T00:12:01Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-10T00:12:06Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
+    "id": "teng-lin/notebooklm-py",
+    "language": "Python",
+    "name": "teng-lin/notebooklm-py",
+    "stars": 19669,
+    "updated_at": "2026-10-10T00:07:37Z",
+    "url": "https://github.com/teng-lin/notebooklm-py"
+  },
+  {
+    "description": "A small, growing collection of Claude Skills for real engineering workflows.",
+    "id": "alvincrespo/skills",
+    "language": "JavaScript",
+    "name": "alvincrespo/skills",
+    "stars": 0,
+    "updated_at": "2026-10-10T00:07:15Z",
+    "url": "https://github.com/alvincrespo/skills"
+  },
+  {
+    "description": "Local fine-tuning for your own tasks \u2014 and the one doing the training is you. A provider-neutral kit that turns project ",
+    "id": "andresanemic/lore-plugin",
+    "language": "JavaScript",
+    "name": "andresanemic/lore-plugin",
+    "stars": 7,
+    "updated_at": "2026-10-10T00:05:49Z",
+    "url": "https://github.com/andresanemic/lore-plugin"
+  },
+  {
+    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
+    "id": "getedgehq/skills",
+    "language": "Python",
+    "name": "getedgehq/skills",
+    "stars": 3,
+    "updated_at": "2026-10-10T00:03:22Z",
+    "url": "https://github.com/getedgehq/skills"
+  },
+  {
+    "description": "Claude/Codex/Gemini skill: prepare a local git project for public GitHub release (license, branch protection, tagged rel",
+    "id": "keithmackay/git-release",
+    "language": "\u2014",
+    "name": "keithmackay/git-release",
+    "stars": 0,
+    "updated_at": "2026-10-10T00:03:04Z",
+    "url": "https://github.com/keithmackay/git-release"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-10T00:02:06Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
+    "id": "scenario-labs/skills",
+    "language": "Python",
+    "name": "scenario-labs/skills",
+    "stars": 941,
+    "updated_at": "2026-10-10T00:00:58Z",
+    "url": "https://github.com/scenario-labs/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-10T00:00:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on t",
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "leynos/visual-storytelling-skills",
     "stars": 9,
-    "updated_at": "2026-10-09T23:58:31Z",
+    "updated_at": "2026-10-10T00:01:40Z",
     "url": "https://github.com/leynos/visual-storytelling-skills"
   },
   {
@@ -34,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-09T23:58:27Z",
     "url": "https://github.com/jackneil/claude-jacked"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 433,
-    "updated_at": "2026-10-09T23:58:06Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -68,17 +167,8 @@
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 189,
-    "updated_at": "2026-10-09T23:53:55Z",
+    "updated_at": "2026-10-10T00:01:22Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features\u2014in",
-    "id": "teng-lin/notebooklm-py",
-    "language": "Python",
-    "name": "teng-lin/notebooklm-py",
-    "stars": 19668,
-    "updated_at": "2026-10-09T23:52:15Z",
-    "url": "https://github.com/teng-lin/notebooklm-py"
   },
   {
     "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
@@ -130,27 +220,9 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81172,
+    "stars": 81173,
     "updated_at": "2026-10-09T23:47:19Z",
     "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 124,
-    "updated_at": "2026-10-09T23:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
-    "id": "getedgehq/skills",
-    "language": "Python",
-    "name": "getedgehq/skills",
-    "stars": 3,
-    "updated_at": "2026-10-09T23:43:39Z",
-    "url": "https://github.com/getedgehq/skills"
   },
   {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
@@ -257,7 +329,7 @@
     "language": "TypeScript",
     "name": "theonly1me/shadowclone",
     "stars": 9,
-    "updated_at": "2026-10-09T23:32:53Z",
+    "updated_at": "2026-10-10T00:10:29Z",
     "url": "https://github.com/theonly1me/shadowclone"
   },
   {
@@ -306,24 +378,6 @@
     "url": "https://github.com/heymegabyte/agent-skills"
   },
   {
-    "description": "A small, growing collection of Claude Skills for real engineering workflows.",
-    "id": "alvincrespo/skills",
-    "language": "JavaScript",
-    "name": "alvincrespo/skills",
-    "stars": 0,
-    "updated_at": "2026-10-09T23:52:09Z",
-    "url": "https://github.com/alvincrespo/skills"
-  },
-  {
-    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
-    "id": "scenario-labs/skills",
-    "language": "Python",
-    "name": "scenario-labs/skills",
-    "stars": 941,
-    "updated_at": "2026-10-09T23:45:36Z",
-    "url": "https://github.com/scenario-labs/skills"
-  },
-  {
     "description": "The installation hub for Neel's open-source marketing systems: Digital Marketing Pro, ContentForge, and SocialForge - po",
     "id": "indranilbanerjee/neels-plugins",
     "language": "Python",
@@ -369,15 +423,6 @@
     "url": "https://github.com/ellehelvig/hr-ai-transformation-playbook"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-09T23:41:50Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "C2C: an open-source Codex and Claude Code skill for collaborative planning and mutual plan review. Assess project readin",
     "id": "ZiadHassanein/C2C",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 39,
     "updated_at": "2026-10-09T23:12:08Z",
     "url": "https://github.com/indranilbanerjee/socialforge"
-  },
-  {
-    "description": "Turn a client website into an AI-readiness audit, a ranked fix plan and a branded report.",
-    "id": "techhorizonlabs/thl-open",
-    "language": "Python",
-    "name": "techhorizonlabs/thl-open",
-    "stars": 16,
-    "updated_at": "2026-10-09T23:12:08Z",
-    "url": "https://github.com/techhorizonlabs/thl-open"
-  },
-  {
-    "description": "An open-source editorial production system that researches, verifies, drafts, and delivers publication-ready long-form c",
-    "id": "indranilbanerjee/contentforge",
-    "language": "Python",
-    "name": "indranilbanerjee/contentforge",
-    "stars": 31,
-    "updated_at": "2026-10-09T23:12:02Z",
-    "url": "https://github.com/indranilbanerjee/contentforge"
-  },
-  {
-    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
-    "id": "AN0099/toothpaste-kit",
-    "language": "Python",
-    "name": "AN0099/toothpaste-kit",
-    "stars": 1,
-    "updated_at": "2026-10-09T23:11:24Z",
-    "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "Claude skill that applies The Blue Book of UX Directives: 550 numbered directives in 9 chapters. Audits designs, finds d",
-    "id": "AlehHaiko/UX-directives-skill",
-    "language": "HTML",
-    "name": "AlehHaiko/UX-directives-skill",
-    "stars": 1,
-    "updated_at": "2026-10-09T23:50:19Z",
-    "url": "https://github.com/AlehHaiko/UX-directives-skill"
-  },
-  {
-    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 448,
-    "updated_at": "2026-10-09T23:10:49Z",
-    "url": "https://github.com/boshu2/agentops"
   }
 ]
