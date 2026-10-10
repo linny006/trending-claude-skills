@@ -1,5 +1,158 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-10T22:28:30Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Claude skill that gives any repo its minimum docs, written for that project: README, ARCHITECTURE, ADRs, DESIGN, legal (",
+    "id": "PapiScholz/repo-baseline",
+    "language": "Python",
+    "name": "PapiScholz/repo-baseline",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:28:13Z",
+    "url": "https://github.com/PapiScholz/repo-baseline"
+  },
+  {
+    "description": "Keep hundreds of Claude Code skills off the context window without ever losing them: hidden skills, one gate per family,",
+    "id": "PapiScholz/greenroom",
+    "language": "Python",
+    "name": "PapiScholz/greenroom",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:28:07Z",
+    "url": "https://github.com/PapiScholz/greenroom"
+  },
+  {
+    "description": "AI \u4eba\u7269\u8bbe\u8ba1 skill\uff08Claude Code / Codex / claude.ai\uff09\uff1a\u5e2e\u4f60\u628a\u300c\u8f7b\u4f7b\u7684\u7537\u6027\u300d\u300c\u6e29\u67d4\u7684\u5927\u5757\u5934\u300d\u8fd9\u79cd\u6a21\u7cca\u611f\u89c9 articulate \u6210\u751f\u56fe / \u751f\u89c6\u9891\u6a21\u578b\u80fd\u76f4\u63a5\u6267\u884c\u7684\u9501\u5b9a\u6bb5\u3002\u4e5d\u4e2a\u7ef4\u5ea6\u3001\u521a\u67d4\u5149\u8c31\u3001\u4e0d\u5938\u5f20\u7684\u8868\u60c5",
+    "id": "MatsuriMW/ai-character-design-skill",
+    "language": "Python",
+    "name": "MatsuriMW/ai-character-design-skill",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:27:29Z",
+    "url": "https://github.com/MatsuriMW/ai-character-design-skill"
+  },
+  {
+    "description": "Agent skills taken from a working stack, written to the Agent Skills specification. First: obsidian-vault-maintenance.",
+    "id": "mikemcg87/agent-skills",
+    "language": "\u2014",
+    "name": "mikemcg87/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:26:14Z",
+    "url": "https://github.com/mikemcg87/agent-skills"
+  },
+  {
+    "description": "Digest your day to day work without acidity.",
+    "id": "achandrapaul/digest",
+    "language": "Go",
+    "name": "achandrapaul/digest",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:26:21Z",
+    "url": "https://github.com/achandrapaul/digest"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 17,
+    "updated_at": "2026-10-10T22:24:22Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-10-10T22:23:20Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69942,
+    "updated_at": "2026-10-10T22:21:47Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:21:32Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:21:22Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 1,
+    "updated_at": "2026-10-10T22:20:52Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-10T22:20:21Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
+    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
+    "id": "hieu5882/telos-customer-validator",
+    "language": "HTML",
+    "name": "hieu5882/telos-customer-validator",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:19:12Z",
+    "url": "https://github.com/hieu5882/telos-customer-validator"
+  },
+  {
+    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
+    "id": "bokyostudio/pg-practice-knowledgebase",
+    "language": "HTML",
+    "name": "bokyostudio/pg-practice-knowledgebase",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:18:26Z",
+    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
+  },
+  {
+    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
+    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "language": "HTML",
+    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
+    "stars": 0,
+    "updated_at": "2026-10-10T22:18:15Z",
+    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-10T22:17:35Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for Claude Code, Cursor, Codex and other coding agents: pick, audit and guard your SaaS stack against plan ",
     "id": "manifestack/manifestack",
     "language": "JavaScript",
@@ -16,24 +169,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T22:16:58Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-10T22:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Digest your day to day work without acidity.",
-    "id": "achandrapaul/digest",
-    "language": "Go",
-    "name": "achandrapaul/digest",
-    "stars": 0,
-    "updated_at": "2026-10-10T22:13:26Z",
-    "url": "https://github.com/achandrapaul/digest"
   },
   {
     "description": "Claude Code skill that turns Opus into a tiny animation studio: script, HTML/GSAP animation, local voice and word timing",
@@ -198,15 +333,6 @@
     "url": "https://github.com/funkytrain/game-polish-audit"
   },
   {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 17,
-    "updated_at": "2026-10-10T21:58:27Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
     "description": "Claude skill that applies The Blue Book of UX Directives: 550 numbered directives in 9 chapters. Audits designs, finds d",
     "id": "AlehHaiko/UX-directives-skill",
     "language": "HTML",
@@ -230,7 +356,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 117,
-    "updated_at": "2026-10-10T22:15:31Z",
+    "updated_at": "2026-10-10T22:27:00Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -259,15 +385,6 @@
     "stars": 10,
     "updated_at": "2026-10-10T22:12:44Z",
     "url": "https://github.com/ashfulcra/fulcra-tools"
-  },
-  {
-    "description": "Claude skill that gives any repo its minimum docs, written for that project: README, ARCHITECTURE, ADRs, DESIGN, legal (",
-    "id": "PapiScholz/repo-baseline",
-    "language": "Python",
-    "name": "PapiScholz/repo-baseline",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:48:38Z",
-    "url": "https://github.com/PapiScholz/repo-baseline"
   },
   {
     "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T22:07:15Z",
     "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
-  },
-  {
-    "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser",
-    "id": "TokiDEV/team-skills",
-    "language": "HTML",
-    "name": "TokiDEV/team-skills",
-    "stars": 1,
-    "updated_at": "2026-10-10T21:42:27Z",
-    "url": "https://github.com/TokiDEV/team-skills"
-  },
-  {
-    "description": "Agent Skill for Business Frameworks: decision frameworks for value, cash flow, cost of capital and growth in a business ",
-    "id": "matryoshka-paradigms/business-frameworks",
-    "language": "Python",
-    "name": "matryoshka-paradigms/business-frameworks",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:46:07Z",
-    "url": "https://github.com/matryoshka-paradigms/business-frameworks"
-  },
-  {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-10T21:44:34Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "A Claude Code skill that designs a brand identity as one system: logo, typography and colour palette built together from",
-    "id": "fatihaydost/brand-identity-skill",
-    "language": "Python",
-    "name": "fatihaydost/brand-identity-skill",
-    "stars": 126,
-    "updated_at": "2026-10-10T21:35:18Z",
-    "url": "https://github.com/fatihaydost/brand-identity-skill"
-  },
-  {
-    "description": "Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 1,
-    "updated_at": "2026-10-10T21:35:11Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
-  },
-  {
-    "description": "Publication-ready research figures from a single command: forest plots, KM curves with risk tables, PRISMA 2020, ROC wit",
-    "id": "docsor1212/academic-figures",
-    "language": "Python",
-    "name": "docsor1212/academic-figures",
-    "stars": 1,
-    "updated_at": "2026-10-10T21:32:58Z",
-    "url": "https://github.com/docsor1212/academic-figures"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:29:45Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Reduce the context before sending it to the LLM",
-    "id": "nvxtien/context-slice",
-    "language": "TypeScript",
-    "name": "nvxtien/context-slice",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:29:18Z",
-    "url": "https://github.com/nvxtien/context-slice"
-  },
-  {
-    "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
-    "id": "indocindesertplant48/claude-vault",
-    "language": "TypeScript",
-    "name": "indocindesertplant48/claude-vault",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:27:59Z",
-    "url": "https://github.com/indocindesertplant48/claude-vault"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-10T22:05:26Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly",
-    "id": "Carlosdalv669/formify-skills",
-    "language": "HTML",
-    "name": "Carlosdalv669/formify-skills",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:27:34Z",
-    "url": "https://github.com/Carlosdalv669/formify-skills"
-  },
-  {
-    "description": "Fold your MacBook display for a soft, blurring desktop effect\u2014animated live at 60 fps with lid-angle smoothing on Apple ",
-    "id": "lazybean3/hinge",
-    "language": "\u2014",
-    "name": "lazybean3/hinge",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:27:34Z",
-    "url": "https://github.com/lazybean3/hinge"
-  },
-  {
-    "description": "Generate a personalized athlete-grade diet and workout plan locally\u2014no account, no internet needed.",
-    "id": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "language": "Python",
-    "name": "fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete",
-    "stars": 0,
-    "updated_at": "2026-10-10T21:27:15Z",
-    "url": "https://github.com/fortnitenordarnaf-cloud/diet-workout-plan-as-if-you-were-an-athlete"
   }
 ]
