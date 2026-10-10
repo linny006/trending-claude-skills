@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 23:15 UTC
+> ⏰ Last updated: 2026-10-10 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bamboo-DCM/library](https://github.com/bamboo-DCM/library) | 0 | Python | 2026-10-10 | Open-source Claude Code skills from Bamboo DCM — AI-native private credit infrastructure platform |
-| 2 | [GeiserX/agent-skills](https://github.com/GeiserX/agent-skills) | 4 | Python | 2026-10-10 | Skills for Claude Code and Codex: durable goal loops, parallel review, research, investigation and implementation, and r |
-| 3 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 117 | Kotlin | 2026-10-10 | Helping the Agents Compose the Things |
-| 4 | [manifestack/manifestack](https://github.com/manifestack/manifestack) | 14 | JavaScript | 2026-10-10 | Agent skills for Claude Code, Cursor, Codex and other coding agents: pick, audit and guard your SaaS stack against plan  |
-| 5 | [shimo4228/code-and-llm-collaboration](https://github.com/shimo4228/code-and-llm-collaboration) | 1 | — | 2026-10-10 | Agent Skill for developers building LLM pipelines and agents: four patterns for layering deterministic code and LLM call |
-| 6 | [shimo4228/llm-agent-security-principles](https://github.com/shimo4228/llm-agent-security-principles) | 1 | — | 2026-10-10 | Agent Skill with structural security for autonomous LLM agents: dangerous capabilities are never implemented instead of  |
-| 7 | [shimo4228/claude-skill-writing-ecosystem](https://github.com/shimo4228/claude-skill-writing-ecosystem) | 1 | Shell | 2026-10-10 | A Claude Code skill and six review subagents for writing human-facing articles, essays and newsletters: one central thes |
-| 8 | [shimo4228/claude-skill-paper-ecosystem](https://github.com/shimo4228/claude-skill-paper-ecosystem) | 1 | Shell | 2026-10-10 | An Agent Skill bundle for writing and reviewing academic papers with Claude Code (SSRN, arXiv, Zenodo, journals): each c |
-| 9 | [shimo4228/citation-sync](https://github.com/shimo4228/citation-sync) | 1 | Python | 2026-10-10 | Agent Skill that keeps the citations of a research repository in sync: it audits whether each external paper cited in th |
-| 10 | [shimo4228/skill-stocktake](https://github.com/shimo4228/skill-stocktake) | 3 | Shell | 2026-10-10 | An Agent Skill for Claude Code that audits all your installed skills and proposes a verdict for each one, such as Keep,  |
-| 11 | [PapiScholz/repo-baseline](https://github.com/PapiScholz/repo-baseline) | 0 | Python | 2026-10-10 | Claude skill that gives any repo its minimum docs, written for that project: README, ARCHITECTURE, ADRs, DESIGN, legal ( |
-| 12 | [shimo4228/skill-health](https://github.com/shimo4228/skill-health) | 1 | Python | 2026-10-10 | An Agent Skill for Claude Code that scans a skill library for references to scripts, agents, files or sibling skills tha |
-| 13 | [shimo4228/skill-comply](https://github.com/shimo4228/skill-comply) | 1 | Python | 2026-10-10 | Agent Skill for Claude Code that measures whether coding agents actually follow a skill, rule or agent definition: it ge |
-| 14 | [shimo4228/search-first](https://github.com/shimo4228/search-first) | 3 | Shell | 2026-10-10 | Agent Skill for Claude Code that makes the agent search registries, code, papers and official docs before it builds, the |
-| 15 | [PapiScholz/greenroom](https://github.com/PapiScholz/greenroom) | 0 | Python | 2026-10-10 | Keep hundreds of Claude Code skills off the context window without ever losing them: hidden skills, one gate per family, |
-| 16 | [shimo4228/rules-stocktake](https://github.com/shimo4228/rules-stocktake) | 1 | Shell | 2026-10-10 | An Agent Skill for Claude Code that audits your always-loaded rules (~/.claude/rules) for what each line costs in every  |
-| 17 | [shimo4228/rules-distill](https://github.com/shimo4228/rules-distill) | 1 | Shell | 2026-10-10 | Agent Skill for Claude Code that scans your installed skills, finds principles that belong in the always-loaded rules (f |
-| 18 | [shimo4228/repo-asset-stocktake](https://github.com/shimo4228/repo-asset-stocktake) | 1 | Shell | 2026-10-10 | Agent Skill for Claude Code that audits a project repository's non-code assets (tool configs, CI workflows, runbooks and |
-| 19 | [shimo4228/release-doi](https://github.com/shimo4228/release-doi) | 1 | Shell | 2026-10-10 | Claude Code skill that runs the release of a DOI-registered research repository on GitHub and Zenodo: verify, sync the c |
-| 20 | [shimo4228/readme-writer](https://github.com/shimo4228/readme-writer) | 1 | Python | 2026-10-10 | No change: keep "Claude Code skill that rewrites or reviews a README so first-time visitors can tell what the project is |
-| 21 | [shimo4228/llms-txt-writer](https://github.com/shimo4228/llms-txt-writer) | 3 | Python | 2026-10-10 | Agent Skill for Claude Code that writes and checks the documents only AI reads (llms.txt, llms-full.txt, FAQ pages, glos |
-| 22 | [shimo4228/llm-as-judge](https://github.com/shimo4228/llm-as-judge) | 0 | Shell | 2026-10-10 | Agent Skill for designing LLM-as-judge evaluators: binary Yes/No checks collect evidence, the LLM gives one named verdic |
-| 23 | [shimo4228/learn-eval](https://github.com/shimo4228/learn-eval) | 1 | Python | 2026-10-10 | Agent Skill for Claude Code that extracts reusable patterns from a session, checks each one against what actually happen |
-| 24 | [shimo4228/jsonld-knowledge-graph](https://github.com/shimo4228/jsonld-knowledge-graph) | 2 | Shell | 2026-10-10 | Claude Code skill that designs and maintains a graph.jsonld beside llms.txt, encoding a project's stable concepts and th |
-| 25 | [shimo4228/generation-audit](https://github.com/shimo4228/generation-audit) | 0 | Shell | 2026-10-10 | An Agent Skill for Claude Code that re-checks your self-authored rules, CLAUDE.md, output styles, skills and agents when |
-| 26 | [shimo4228/context-sync](https://github.com/shimo4228/context-sync) | 1 | Python | 2026-10-10 | Agent Skill for Claude Code that audits a repository's context documents (CLAUDE.md, ADRs, README, graph.jsonld, llms.tx |
-| 27 | [shimo4228/authorship-strategy-skill](https://github.com/shimo4228/authorship-strategy-skill) | 1 | Shell | 2026-10-10 | Claude Code skill that loads the Authorship Strategy judgment framework into a coding agent, so it can evaluate a concre |
-| 28 | [shimo4228/agent-stocktake](https://github.com/shimo4228/agent-stocktake) | 0 | Python | 2026-10-10 | An Agent Skill for Claude Code that audits your subagent definitions, whose descriptions load in every session and whose |
-| 29 | [shimo4228/herdr-toolkit](https://github.com/shimo4228/herdr-toolkit) | 0 | Shell | 2026-10-10 | Claude Code plugin for running Claude Code on the Herdr terminal agent multiplexer: its one skill, spawn-session, starts |
-| 30 | [shimo4228/akc-cycle](https://github.com/shimo4228/akc-cycle) | 1 | Python | 2026-10-10 | Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke |
-| 31 | [shimo4228/claude-harness](https://github.com/shimo4228/claude-harness) | 3 | Python | 2026-10-10 | The public, one-way copy of the Claude Code harness shimo4228 uses every day: skills, subagents, rules and commit hooks  |
-| 32 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-10-10 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
-| 33 | [jackneil/claude-jacked](https://github.com/jackneil/claude-jacked) | 2 | Python | 2026-10-10 | Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co |
-| 34 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 189 | TypeScript | 2026-10-10 | Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi |
-| 35 | [JaimeJunr/claude-code-frontend-skills](https://github.com/JaimeJunr/claude-code-frontend-skills) | 2 | JavaScript | 2026-10-10 | Frontend design stack for Claude Code: Anthropic frontend-design, Impeccable, UI UX Pro Max, Taste & Emil Kowalski skill |
-| 36 | [pthompson8594/openscad-skill](https://github.com/pthompson8594/openscad-skill) | 1 | Python | 2026-10-10 | Claude skill for OpenSCAD: parametric parts and multi-part assemblies, verified with numbers instead of pictures. Clash, |
-| 37 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 53 | HTML | 2026-10-10 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
-| 38 | [PollyGlot/google-play-cli](https://github.com/PollyGlot/google-play-cli) | 10 | Go | 2026-10-10 | gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer  |
-| 39 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 4 | HTML | 2026-10-10 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
-| 40 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 125 | Python | 2026-10-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 41 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-10-10 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
-| 42 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 3 | HTML | 2026-10-10 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
-| 43 | [nvxtien/context-slice](https://github.com/nvxtien/context-slice) | 0 | TypeScript | 2026-10-10 | Reduce the context before sending it to the LLM |
-| 44 | [itw-creative-works/workkit](https://github.com/itw-creative-works/workkit) | 4 | JavaScript | 2026-10-10 | The issue-pipeline workflow system as a Claude Code plugin: GitHub Issues as the work-item SSOT, labels as the pipeline, |
-| 45 | [mblode/agent-skills](https://github.com/mblode/agent-skills) | 144 | Python | 2026-10-10 | Nobody ships AI slop on purpose. These skills make sure you don’t. |
-| 46 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-10-10 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 47 | [MAhmed004/ad-ops-mcp-hub](https://github.com/MAhmed004/ad-ops-mcp-hub) | 2 | HTML | 2026-10-10 | AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight |
-| 48 | [allxsmith/bestax-skills](https://github.com/allxsmith/bestax-skills) | 2 | TypeScript | 2026-10-10 | The bestax coding-agent plugin, generated from allxsmith/bestax |
-| 49 | [dryvist/ai-assistant-instructions](https://github.com/dryvist/ai-assistant-instructions) | 9 | Shell | 2026-10-10 | A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions  |
-| 50 | [iamsikun/quill](https://github.com/iamsikun/quill) | 0 | Python | 2026-10-10 | Academic-writing skill for AI agents (Claude Code, Codex, Gemini CLI, Cursor). Drafts and revises research papers, polis |
+| 1 | [drnachio/postext](https://github.com/drnachio/postext) | 8 | TypeScript | 2026-10-10 | A programmable typesetter for the web |
+| 2 | [yschimke/compose-ai-tools](https://github.com/yschimke/compose-ai-tools) | 117 | Kotlin | 2026-10-10 | Helping the Agents Compose the Things |
+| 3 | [yihexiang/rulai-distill](https://github.com/yihexiang/rulai-distill) | 0 | Python | 2026-10-10 | 蒸馏工厂：把书籍/长视频/播客/访谈/人物素材蒸馏成可执行、可验证、可追溯的 Agent Skills。contract-first + FIDELITY 双 Agent 出厂质检。 |
+| 4 | [mutlumehmet/claude-plugins](https://github.com/mutlumehmet/claude-plugins) | 5 | TypeScript | 2026-10-10 | Claude Code plugins I use every day: skills and mods, cleaned up so they work on anyone's machine. |
+| 5 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-10-10 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
+| 6 | [openqodex/openqodex](https://github.com/openqodex/openqodex) | 566 | TypeScript | 2026-10-10 | Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on t |
+| 7 | [bosmdavid-gif/dropthehassle-skill](https://github.com/bosmdavid-gif/dropthehassle-skill) | 0 | JavaScript | 2026-10-10 | Agent skill for Claude Code, Cursor, Codex and Windsurf: your AI puts your site online on a free link with HTTPS, then o |
+| 8 | [SentiSenseApp/skills](https://github.com/SentiSenseApp/skills) | 2 | Python | 2026-10-10 | The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co |
+| 9 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 2 | HTML | 2026-10-10 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
+| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 125 | Python | 2026-10-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 11 | [bamboo-DCM/library](https://github.com/bamboo-DCM/library) | 0 | Python | 2026-10-10 | Open-source Claude Code skills from Bamboo DCM — AI-native private credit infrastructure platform |
+| 12 | [GeiserX/agent-skills](https://github.com/GeiserX/agent-skills) | 4 | Python | 2026-10-10 | Skills for Claude Code and Codex: durable goal loops, parallel review, research, investigation and implementation, and r |
+| 13 | [manifestack/manifestack](https://github.com/manifestack/manifestack) | 14 | JavaScript | 2026-10-10 | Agent skills for Claude Code, Cursor, Codex and other coding agents: pick, audit and guard your SaaS stack against plan  |
+| 14 | [shimo4228/code-and-llm-collaboration](https://github.com/shimo4228/code-and-llm-collaboration) | 1 | — | 2026-10-10 | Agent Skill for developers building LLM pipelines and agents: four patterns for layering deterministic code and LLM call |
+| 15 | [shimo4228/llm-agent-security-principles](https://github.com/shimo4228/llm-agent-security-principles) | 1 | — | 2026-10-10 | Agent Skill with structural security for autonomous LLM agents: dangerous capabilities are never implemented instead of  |
+| 16 | [shimo4228/claude-skill-writing-ecosystem](https://github.com/shimo4228/claude-skill-writing-ecosystem) | 1 | Shell | 2026-10-10 | A Claude Code skill and six review subagents for writing human-facing articles, essays and newsletters: one central thes |
+| 17 | [shimo4228/claude-skill-paper-ecosystem](https://github.com/shimo4228/claude-skill-paper-ecosystem) | 1 | Shell | 2026-10-10 | An Agent Skill bundle for writing and reviewing academic papers with Claude Code (SSRN, arXiv, Zenodo, journals): each c |
+| 18 | [shimo4228/citation-sync](https://github.com/shimo4228/citation-sync) | 1 | Python | 2026-10-10 | Agent Skill that keeps the citations of a research repository in sync: it audits whether each external paper cited in th |
+| 19 | [shimo4228/skill-stocktake](https://github.com/shimo4228/skill-stocktake) | 3 | Shell | 2026-10-10 | An Agent Skill for Claude Code that audits all your installed skills and proposes a verdict for each one, such as Keep,  |
+| 20 | [PapiScholz/repo-baseline](https://github.com/PapiScholz/repo-baseline) | 0 | Python | 2026-10-10 | Claude skill that gives any repo its minimum docs, written for that project: README, ARCHITECTURE, ADRs, DESIGN, legal ( |
+| 21 | [shimo4228/skill-health](https://github.com/shimo4228/skill-health) | 1 | Python | 2026-10-10 | An Agent Skill for Claude Code that scans a skill library for references to scripts, agents, files or sibling skills tha |
+| 22 | [shimo4228/skill-comply](https://github.com/shimo4228/skill-comply) | 1 | Python | 2026-10-10 | Agent Skill for Claude Code that measures whether coding agents actually follow a skill, rule or agent definition: it ge |
+| 23 | [shimo4228/search-first](https://github.com/shimo4228/search-first) | 3 | Shell | 2026-10-10 | Agent Skill for Claude Code that makes the agent search registries, code, papers and official docs before it builds, the |
+| 24 | [PapiScholz/greenroom](https://github.com/PapiScholz/greenroom) | 0 | Python | 2026-10-10 | Keep hundreds of Claude Code skills off the context window without ever losing them: hidden skills, one gate per family, |
+| 25 | [shimo4228/rules-stocktake](https://github.com/shimo4228/rules-stocktake) | 1 | Shell | 2026-10-10 | An Agent Skill for Claude Code that audits your always-loaded rules (~/.claude/rules) for what each line costs in every  |
+| 26 | [shimo4228/rules-distill](https://github.com/shimo4228/rules-distill) | 1 | Shell | 2026-10-10 | Agent Skill for Claude Code that scans your installed skills, finds principles that belong in the always-loaded rules (f |
+| 27 | [shimo4228/repo-asset-stocktake](https://github.com/shimo4228/repo-asset-stocktake) | 1 | Shell | 2026-10-10 | Agent Skill for Claude Code that audits a project repository's non-code assets (tool configs, CI workflows, runbooks and |
+| 28 | [shimo4228/release-doi](https://github.com/shimo4228/release-doi) | 1 | Shell | 2026-10-10 | Claude Code skill that runs the release of a DOI-registered research repository on GitHub and Zenodo: verify, sync the c |
+| 29 | [shimo4228/readme-writer](https://github.com/shimo4228/readme-writer) | 1 | Python | 2026-10-10 | No change: keep "Claude Code skill that rewrites or reviews a README so first-time visitors can tell what the project is |
+| 30 | [shimo4228/llms-txt-writer](https://github.com/shimo4228/llms-txt-writer) | 3 | Python | 2026-10-10 | Agent Skill for Claude Code that writes and checks the documents only AI reads (llms.txt, llms-full.txt, FAQ pages, glos |
+| 31 | [shimo4228/llm-as-judge](https://github.com/shimo4228/llm-as-judge) | 0 | Shell | 2026-10-10 | Agent Skill for designing LLM-as-judge evaluators: binary Yes/No checks collect evidence, the LLM gives one named verdic |
+| 32 | [shimo4228/learn-eval](https://github.com/shimo4228/learn-eval) | 1 | Python | 2026-10-10 | Agent Skill for Claude Code that extracts reusable patterns from a session, checks each one against what actually happen |
+| 33 | [shimo4228/jsonld-knowledge-graph](https://github.com/shimo4228/jsonld-knowledge-graph) | 2 | Shell | 2026-10-10 | Claude Code skill that designs and maintains a graph.jsonld beside llms.txt, encoding a project's stable concepts and th |
+| 34 | [shimo4228/generation-audit](https://github.com/shimo4228/generation-audit) | 0 | Shell | 2026-10-10 | An Agent Skill for Claude Code that re-checks your self-authored rules, CLAUDE.md, output styles, skills and agents when |
+| 35 | [shimo4228/context-sync](https://github.com/shimo4228/context-sync) | 1 | Python | 2026-10-10 | Agent Skill for Claude Code that audits a repository's context documents (CLAUDE.md, ADRs, README, graph.jsonld, llms.tx |
+| 36 | [shimo4228/authorship-strategy-skill](https://github.com/shimo4228/authorship-strategy-skill) | 1 | Shell | 2026-10-10 | Claude Code skill that loads the Authorship Strategy judgment framework into a coding agent, so it can evaluate a concre |
+| 37 | [shimo4228/agent-stocktake](https://github.com/shimo4228/agent-stocktake) | 0 | Python | 2026-10-10 | An Agent Skill for Claude Code that audits your subagent definitions, whose descriptions load in every session and whose |
+| 38 | [shimo4228/herdr-toolkit](https://github.com/shimo4228/herdr-toolkit) | 0 | Shell | 2026-10-10 | Claude Code plugin for running Claude Code on the Herdr terminal agent multiplexer: its one skill, spawn-session, starts |
+| 39 | [shimo4228/akc-cycle](https://github.com/shimo4228/akc-cycle) | 1 | Python | 2026-10-10 | Keeps the rules and skills in a Claude Code setup from piling up and going stale: a Claude Code plugin of audit and upke |
+| 40 | [shimo4228/claude-harness](https://github.com/shimo4228/claude-harness) | 3 | Python | 2026-10-10 | The public, one-way copy of the Claude Code harness shimo4228 uses every day: skills, subagents, rules and commit hooks  |
+| 41 | [ENTEROPNON/salesforce-accelerator-patterns](https://github.com/ENTEROPNON/salesforce-accelerator-patterns) | 2 | HTML | 2026-10-10 | Salesforce ISV & Partner Skills Catalog 2026 – Reusable Deployment Kit |
+| 42 | [jackneil/claude-jacked](https://github.com/jackneil/claude-jacked) | 2 | Python | 2026-10-10 | Hit a Claude Code usage limit and jacked switches accounts for you. Multi-account manager and skills suite for Claude Co |
+| 43 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 189 | TypeScript | 2026-10-10 | Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi |
+| 44 | [JaimeJunr/claude-code-frontend-skills](https://github.com/JaimeJunr/claude-code-frontend-skills) | 2 | JavaScript | 2026-10-10 | Frontend design stack for Claude Code: Anthropic frontend-design, Impeccable, UI UX Pro Max, Taste & Emil Kowalski skill |
+| 45 | [pthompson8594/openscad-skill](https://github.com/pthompson8594/openscad-skill) | 1 | Python | 2026-10-10 | Claude skill for OpenSCAD: parametric parts and multi-part assemblies, verified with numbers instead of pictures. Clash, |
+| 46 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 53 | HTML | 2026-10-10 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
+| 47 | [PollyGlot/google-play-cli](https://github.com/PollyGlot/google-play-cli) | 10 | Go | 2026-10-10 | gplay: publish to Google Play from CI or a coding agent. One static binary, JSON output that mirrors the Play Developer  |
+| 48 | [gilvangonzalez/technical-founding-gtm-toolkit](https://github.com/gilvangonzalez/technical-founding-gtm-toolkit) | 4 | HTML | 2026-10-10 | The Complete AI & Technical Founder GTM Toolkit 2026 – Pricing, PLG & Enterprise Sales |
+| 49 | [viibhutisharma30/jetpack-compose-remediation-kit](https://github.com/viibhutisharma30/jetpack-compose-remediation-kit) | 0 | HTML | 2026-10-10 | Modern Jetpack Compose Fixer 2026 – Debug Errors & Boost Android UI Performance |
+| 50 | [camilemuz/local-doc-rag-skill](https://github.com/camilemuz/local-doc-rag-skill) | 3 | HTML | 2026-10-10 | Index Any Local Documentation as AI Skill – Claude Code Knowledge 2026 |
 <!-- TRACKER_TABLE_END -->
 
 ---
