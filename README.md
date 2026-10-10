@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-10 08:13 UTC
+> ⏰ Last updated: 2026-10-10 08:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [italosan/claude-skills](https://github.com/italosan/claude-skills) | 2 | — | 2026-10-10 | Skills I use with Claude, one folder each. Take what helps you. |
-| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 81415 | JavaScript | 2026-10-10 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
-| 3 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 37 | — | 2026-10-10 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
-| 4 | [anbeime/skill](https://github.com/anbeime/skill) | 7765 | Python | 2026-10-10 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The mo |
-| 5 | [tuoLuoSuan/dsh-skill-center](https://github.com/tuoLuoSuan/dsh-skill-center) | 2 | JavaScript | 2026-10-10 | DeepSeek Harness 的技能浏览器。装之前先体检（名字不合法的会被 DSH 静默跳过），装下来的是某一次 commit 而不是分支。 A skill browser for DeepSeek Harness: it checks |
-| 6 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 189 | TypeScript | 2026-10-10 | Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi |
-| 7 | [grw-lab/skills](https://github.com/grw-lab/skills) | 0 | JavaScript | 2026-10-10 | Free agent skills from grw—lab: Arabic & RTL, agent-ready web, ZATCA e-invoicing, freelance quotes, design tokens, safe  |
-| 8 | [techygarg/lattice](https://github.com/techygarg/lattice) | 199 | JavaScript | 2026-10-10 | Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and t |
-| 9 | [inxups/route-recovery](https://github.com/inxups/route-recovery) | 0 | Python | 2026-10-10 | A skill for long horizon coding tasks, to improve the experience for non-top-tier models. |
-| 10 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 124 | Python | 2026-10-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 124 | Python | 2026-10-10 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [italosan/claude-skills](https://github.com/italosan/claude-skills) | 2 | — | 2026-10-10 | Skills I use with Claude, one folder each. Take what helps you. |
+| 3 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 81416 | JavaScript | 2026-10-10 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
+| 4 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 37 | — | 2026-10-10 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
+| 5 | [anbeime/skill](https://github.com/anbeime/skill) | 7765 | Python | 2026-10-10 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The mo |
+| 6 | [tuoLuoSuan/dsh-skill-center](https://github.com/tuoLuoSuan/dsh-skill-center) | 2 | JavaScript | 2026-10-10 | DeepSeek Harness 的技能浏览器。装之前先体检（名字不合法的会被 DSH 静默跳过），装下来的是某一次 commit 而不是分支。 A skill browser for DeepSeek Harness: it checks |
+| 7 | [nikolai-vysotskyi/trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) | 189 | TypeScript | 2026-10-10 | Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi |
+| 8 | [grw-lab/skills](https://github.com/grw-lab/skills) | 0 | JavaScript | 2026-10-10 | Free agent skills from grw—lab: Arabic & RTL, agent-ready web, ZATCA e-invoicing, freelance quotes, design tokens, safe  |
+| 9 | [techygarg/lattice](https://github.com/techygarg/lattice) | 199 | JavaScript | 2026-10-10 | Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and t |
+| 10 | [inxups/route-recovery](https://github.com/inxups/route-recovery) | 0 | Python | 2026-10-10 | A skill for long horizon coding tasks, to improve the experience for non-top-tier models. |
 | 11 | [redfox-data/redfox-community](https://github.com/redfox-data/redfox-community) | 427 | Python | 2026-10-10 | 红狐数据（RedFoxHub） 技能合集：面向 Agent 的可复用 SKILL 集合，覆盖灵感、选题、文案创作、数据复盘等场景，持续更新。 |
 | 12 | [everyinfra/seo-skills](https://github.com/everyinfra/seo-skills) | 0 | Python | 2026-10-10 | Free global SEO / GEO Skill for Codex and Claude Code — 18 market portals, 8 site-type playbooks, ~110 references + 38 b |
 | 13 | [pmrjge/blackcat](https://github.com/pmrjge/blackcat) | 0 | Python | 2026-10-10 | Achieved by claude itself, this is a Claude Code configuration installer aliased blackcat for multi-agent orchestration. |
