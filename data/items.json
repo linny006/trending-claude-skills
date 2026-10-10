@@ -1,5 +1,122 @@
 [
   {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/skills",
+    "language": "Shell",
+    "name": "yschimke/skills",
+    "stars": 2,
+    "updated_at": "2026-10-10T19:44:17Z",
+    "url": "https://github.com/yschimke/skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69941,
+    "updated_at": "2026-10-10T19:44:52Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-10T19:41:55Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 17,
+    "updated_at": "2026-10-10T19:40:20Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "",
+    "id": "petersonsenadevs/senzu",
+    "language": "Python",
+    "name": "petersonsenadevs/senzu",
+    "stars": 2,
+    "updated_at": "2026-10-10T19:39:23Z",
+    "url": "https://github.com/petersonsenadevs/senzu"
+  },
+  {
+    "description": "Claude Code skills for daily workflows \u2014 cold email, content, sprint summaries, and more",
+    "id": "shivamtiwari3/claude-skills",
+    "language": "HTML",
+    "name": "shivamtiwari3/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-10T19:37:20Z",
+    "url": "https://github.com/shivamtiwari3/claude-skills"
+  },
+  {
+    "description": "Your engineering taste, in every coding agent. Shadowclone learns your rules and delivers them as skills to Claude Code,",
+    "id": "theonly1me/shadowclone",
+    "language": "TypeScript",
+    "name": "theonly1me/shadowclone",
+    "stars": 9,
+    "updated_at": "2026-10-10T19:38:59Z",
+    "url": "https://github.com/theonly1me/shadowclone"
+  },
+  {
+    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
+    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "language": "HTML",
+    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
+    "stars": 4,
+    "updated_at": "2026-10-10T19:35:32Z",
+    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
+  },
+  {
+    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
+    "id": "soulmachine/skills",
+    "language": "Shell",
+    "name": "soulmachine/skills",
+    "stars": 3,
+    "updated_at": "2026-10-10T19:35:16Z",
+    "url": "https://github.com/soulmachine/skills"
+  },
+  {
+    "description": "Generates a test suite from acceptance criteria, then converges code against it with an agent that never sees those crit",
+    "id": "gal-a/qikly",
+    "language": "Python",
+    "name": "gal-a/qikly",
+    "stars": 16,
+    "updated_at": "2026-10-10T19:33:07Z",
+    "url": "https://github.com/gal-a/qikly"
+  },
+  {
+    "description": "Engineering workflow skills for AI coding agents.",
+    "id": "snappedly/skills",
+    "language": "Python",
+    "name": "snappedly/skills",
+    "stars": 1,
+    "updated_at": "2026-10-10T19:31:51Z",
+    "url": "https://github.com/snappedly/skills"
+  },
+  {
+    "description": "Reduce the context before sending it to the LLM",
+    "id": "nvxtien/context-slice",
+    "language": "TypeScript",
+    "name": "nvxtien/context-slice",
+    "stars": 0,
+    "updated_at": "2026-10-10T19:30:36Z",
+    "url": "https://github.com/nvxtien/context-slice"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-10T19:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s",
     "id": "liustack/pptwise",
     "language": "TypeScript",
@@ -13,7 +130,7 @@
     "id": "openqodex/openqodex",
     "language": "TypeScript",
     "name": "openqodex/openqodex",
-    "stars": 562,
+    "stars": 563,
     "updated_at": "2026-10-10T19:28:15Z",
     "url": "https://github.com/openqodex/openqodex"
   },
@@ -25,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T19:27:22Z",
     "url": "https://github.com/marola-dev/agent-skills"
-  },
-  {
-    "description": "Engineering workflow skills for AI coding agents.",
-    "id": "snappedly/skills",
-    "language": "Python",
-    "name": "snappedly/skills",
-    "stars": 1,
-    "updated_at": "2026-10-10T19:24:26Z",
-    "url": "https://github.com/snappedly/skills"
   },
   {
     "description": "AI \u4eba\u7269\u8bbe\u8ba1 skill\uff08Claude Code / Codex / claude.ai\uff09\uff1a\u5e2e\u4f60\u628a\u300c\u8f7b\u4f7b\u7684\u7537\u6027\u300d\u300c\u6e29\u67d4\u7684\u5927\u5757\u5934\u300d\u8fd9\u79cd\u6a21\u7cca\u611f\u89c9 articulate \u6210\u751f\u56fe / \u751f\u89c6\u9891\u6a21\u578b\u80fd\u76f4\u63a5\u6267\u884c\u7684\u9501\u5b9a\u6bb5\u3002\u4e5d\u4e2a\u7ef4\u5ea6\u3001\u521a\u67d4\u5149\u8c31\u3001\u4e0d\u5938\u5f20\u7684\u8868\u60c5",
@@ -81,15 +189,6 @@
     "url": "https://github.com/prtvbiz-design/prtv-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69939,
-    "updated_at": "2026-10-10T19:25:55Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -97,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T19:19:14Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 17,
-    "updated_at": "2026-10-10T19:18:58Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Generates a test suite from acceptance criteria, then converges code against it with an agent that never sees those crit",
-    "id": "gal-a/qikly",
-    "language": "Python",
-    "name": "gal-a/qikly",
-    "stars": 16,
-    "updated_at": "2026-10-10T19:18:53Z",
-    "url": "https://github.com/gal-a/qikly"
   },
   {
     "description": "Back up and preserve your Claude Desktop and Code conversations locally so account switches never cost you your work.",
@@ -180,15 +261,6 @@
     "url": "https://github.com/Loriabient5377/blahblahblah-skill"
   },
   {
-    "description": "Reduce the context before sending it to the LLM",
-    "id": "nvxtien/context-slice",
-    "language": "TypeScript",
-    "name": "nvxtien/context-slice",
-    "stars": 0,
-    "updated_at": "2026-10-10T19:16:17Z",
-    "url": "https://github.com/nvxtien/context-slice"
-  },
-  {
     "description": "Agent skills for C2PA Content Credentials: check files and URLs, track every asset in a repo, catch lost provenance. Cla",
     "id": "c2pa-design/skills",
     "language": "JavaScript",
@@ -205,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-10-10T19:15:19Z",
     "url": "https://github.com/NarenDawar/narens-claude-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-10T19:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
@@ -266,7 +329,7 @@
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-10-10T19:24:53Z",
+    "updated_at": "2026-10-10T19:35:00Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
@@ -297,15 +360,6 @@
     "url": "https://github.com/schneidermilanistvan-hash/claude-code-account-switch-recovery"
   },
   {
-    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
-    "id": "soulmachine/skills",
-    "language": "Shell",
-    "name": "soulmachine/skills",
-    "stars": 3,
-    "updated_at": "2026-10-10T19:10:24Z",
-    "url": "https://github.com/soulmachine/skills"
-  },
-  {
     "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
     "id": "akovalion/paranoid-qa",
     "language": "Python",
@@ -320,7 +374,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-10T19:21:00Z",
+    "updated_at": "2026-10-10T19:44:49Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 117,
-    "updated_at": "2026-10-10T19:10:18Z",
+    "updated_at": "2026-10-10T19:31:48Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T19:07:59Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Under Cliuno Tool",
-    "id": "CLIuno/CLIuno-Django-template",
-    "language": "Python",
-    "name": "CLIuno/CLIuno-Django-template",
-    "stars": 1,
-    "updated_at": "2026-10-10T19:07:54Z",
-    "url": "https://github.com/CLIuno/CLIuno-Django-template"
-  },
-  {
-    "description": "Under Cliuno Tool",
-    "id": "CLIuno/CLIuno-Angular-template",
-    "language": "TypeScript",
-    "name": "CLIuno/CLIuno-Angular-template",
-    "stars": 2,
-    "updated_at": "2026-10-10T19:11:37Z",
-    "url": "https://github.com/CLIuno/CLIuno-Angular-template"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-10-10T19:07:47Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Under Cliuno Tool",
-    "id": "CLIuno/CLIuno-Svelte-template",
-    "language": "Svelte",
-    "name": "CLIuno/CLIuno-Svelte-template",
-    "stars": 0,
-    "updated_at": "2026-10-10T19:10:34Z",
-    "url": "https://github.com/CLIuno/CLIuno-Svelte-template"
-  },
-  {
-    "description": "Under Cliuno Tool",
-    "id": "CLIuno/CLIuno-Vue-template",
-    "language": "Vue",
-    "name": "CLIuno/CLIuno-Vue-template",
-    "stars": 0,
-    "updated_at": "2026-10-10T19:07:30Z",
-    "url": "https://github.com/CLIuno/CLIuno-Vue-template"
-  },
-  {
-    "description": "Under Cliuno Tool",
-    "id": "CLIuno/CLIuno-Next-template",
-    "language": "TypeScript",
-    "name": "CLIuno/CLIuno-Next-template",
-    "stars": 0,
-    "updated_at": "2026-10-10T19:10:31Z",
-    "url": "https://github.com/CLIuno/CLIuno-Next-template"
   }
 ]
