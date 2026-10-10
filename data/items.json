@@ -1,11 +1,110 @@
 [
   {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-10T09:42:38Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\u8ba9\u4e2d\u6587\u5199\u5f97\u6709\u547c\u5438\u2014\u2014\u4eba\u548c AI \u90fd\u7528\u5f97\u4e0a\u7684\u4e00\u628a\u5199\u4f5c\u5c3a\uff1a\u5199\u4f5c\u8282\u594f\u8bca\u65ad + \u8bd7\u8bcd\u8bed\u8054\u4f53\u68c0 + \u5341\u56db\u7bc7\u6559\u6750",
+    "id": "ZhongQuinnKing/yuchi",
+    "language": "HTML",
+    "name": "ZhongQuinnKing/yuchi",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:41:57Z",
+    "url": "https://github.com/ZhongQuinnKing/yuchi"
+  },
+  {
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
+    "id": "longsizhuo/openInvest",
+    "language": "Python",
+    "name": "longsizhuo/openInvest",
+    "stars": 99,
+    "updated_at": "2026-10-10T09:44:55Z",
+    "url": "https://github.com/longsizhuo/openInvest"
+  },
+  {
+    "description": "PostgreSQL expertise for DeepSeek Harness: 11 curated pg-aiguide skills from Tiger Data registered natively, plus the pg",
+    "id": "mirelconstantin/dsh-postgres-expert",
+    "language": "JavaScript",
+    "name": "mirelconstantin/dsh-postgres-expert",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:39:24Z",
+    "url": "https://github.com/mirelconstantin/dsh-postgres-expert"
+  },
+  {
+    "description": "Free global SEO / GEO Skill for Codex and Claude Code \u2014 18 market portals, 8 site-type playbooks, ~110 references + 38 b",
+    "id": "everyinfra/seo-skills",
+    "language": "Python",
+    "name": "everyinfra/seo-skills",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:37:12Z",
+    "url": "https://github.com/everyinfra/seo-skills"
+  },
+  {
+    "description": "Asynchronous messaging between Claude threads \u2014 built entirely in Markdown.",
+    "id": "playtosor/m_AI_l",
+    "language": "TypeScript",
+    "name": "playtosor/m_AI_l",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:36:48Z",
+    "url": "https://github.com/playtosor/m_AI_l"
+  },
+  {
+    "description": "Claude Code \u672c\u673a\u73af\u5883\u4f53\u68c0\u4e0e\u81ea\u52a8\u6e05\u7406\uff08macOS\uff09\uff1a\u51fa\u53e3 IP \u4e0e ASN \u7c7b\u578b\u3001\u7cfb\u7edf\u4ee3\u7406\u6b8b\u7559\u3001DNS \u4e0e WebRTC \u6cc4\u6f0f\u3001IPv6\u3001\u65f6\u533a\u4e24\u9053\u95f8\u3001settings.json \u91cc\u7684\u4e2d\u8f6c\u7aef\u70b9\u4e0e\u51ed\u636e\u3001\u5931\u6548\u6743\u9650\u6761\u76ee\u300225 \u9879\u53ea\u8bfb\u4f53\u68c0 ",
+    "id": "VioletScar-Hui/claude-account-guard",
+    "language": "Python",
+    "name": "VioletScar-Hui/claude-account-guard",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:33:00Z",
+    "url": "https://github.com/VioletScar-Hui/claude-account-guard"
+  },
+  {
+    "description": "A rack of skills, configs, and extensions for agent friends",
+    "id": "cwade12c/spicerack",
+    "language": "HTML",
+    "name": "cwade12c/spicerack",
+    "stars": 1,
+    "updated_at": "2026-10-10T09:32:49Z",
+    "url": "https://github.com/cwade12c/spicerack"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-10T09:39:45Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "An agent skill that builds and maintains auditable ticker universes for fourteen markets \u2014 every member carrying a role,",
+    "id": "bitpunklabs/ticker-universe-builder",
+    "language": "Python",
+    "name": "bitpunklabs/ticker-universe-builder",
+    "stars": 0,
+    "updated_at": "2026-10-10T09:32:23Z",
+    "url": "https://github.com/bitpunklabs/ticker-universe-builder"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-10T09:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-10T09:29:46Z",
+    "updated_at": "2026-10-10T09:35:45Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -14,17 +113,8 @@
     "language": "HTML",
     "name": "pgoell/pgoell-claude-tools",
     "stars": 1,
-    "updated_at": "2026-10-10T09:29:29Z",
+    "updated_at": "2026-10-10T09:43:10Z",
     "url": "https://github.com/pgoell/pgoell-claude-tools"
-  },
-  {
-    "description": "PostgreSQL expertise for DeepSeek Harness: 11 curated pg-aiguide skills from Tiger Data registered natively, plus the pg",
-    "id": "mirelconstantin/dsh-postgres-expert",
-    "language": "JavaScript",
-    "name": "mirelconstantin/dsh-postgres-expert",
-    "stars": 1,
-    "updated_at": "2026-10-10T09:28:55Z",
-    "url": "https://github.com/mirelconstantin/dsh-postgres-expert"
   },
   {
     "description": "Claude Code / Codex skill: turn a prompt into a multi-shot AI video episode with MiniMax H3 \u2014 shot list, character sheet",
@@ -54,6 +144,15 @@
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
   },
   {
+    "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery",
+    "id": "OthmanAdi/planning-with-files",
+    "language": "Shell",
+    "name": "OthmanAdi/planning-with-files",
+    "stars": 27370,
+    "updated_at": "2026-10-10T09:26:59Z",
+    "url": "https://github.com/OthmanAdi/planning-with-files"
+  },
+  {
     "description": "Hypermemory marketplace and plugins for Claude desktop and Claude code adding long-term persistant memory across all AI ",
     "id": "hypermemory-ai/hm-plugins-claude",
     "language": "Shell",
@@ -61,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T09:26:28Z",
     "url": "https://github.com/hypermemory-ai/hm-plugins-claude"
-  },
-  {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-10T09:25:51Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Moved to marco-vrinssen/claude-plugins",
@@ -144,24 +234,6 @@
     "url": "https://github.com/costiash/claude-code-docs"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 124,
-    "updated_at": "2026-10-10T09:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Claude Code \u672c\u673a\u73af\u5883\u4f53\u68c0\u4e0e\u81ea\u52a8\u6e05\u7406\uff08macOS\uff09\uff1a\u51fa\u53e3 IP \u4e0e ASN \u7c7b\u578b\u3001\u7cfb\u7edf\u4ee3\u7406\u6b8b\u7559\u3001DNS \u4e0e WebRTC \u6cc4\u6f0f\u3001IPv6\u3001\u65f6\u533a\u4e24\u9053\u95f8\u3001settings.json \u91cc\u7684\u4e2d\u8f6c\u7aef\u70b9\u4e0e\u51ed\u636e\u3001\u5931\u6548\u6743\u9650\u6761\u76ee\u300225 \u9879\u53ea\u8bfb\u4f53\u68c0 ",
-    "id": "VioletScar-Hui/claude-account-guard",
-    "language": "Python",
-    "name": "VioletScar-Hui/claude-account-guard",
-    "stars": 1,
-    "updated_at": "2026-10-10T09:13:55Z",
-    "url": "https://github.com/VioletScar-Hui/claude-account-guard"
-  },
-  {
     "description": "",
     "id": "petersonsenadevs/senzu",
     "language": "Python",
@@ -169,24 +241,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T09:11:44Z",
     "url": "https://github.com/petersonsenadevs/senzu"
-  },
-  {
-    "description": "Free global SEO / GEO Skill for Codex and Claude Code \u2014 18 market portals, 8 site-type playbooks, ~110 references + 38 b",
-    "id": "everyinfra/seo-skills",
-    "language": "Python",
-    "name": "everyinfra/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:11:41Z",
-    "url": "https://github.com/everyinfra/seo-skills"
-  },
-  {
-    "description": "An agent skill that builds and maintains auditable ticker universes for fourteen markets \u2014 every member carrying a role,",
-    "id": "bitpunklabs/ticker-universe-builder",
-    "language": "Python",
-    "name": "bitpunklabs/ticker-universe-builder",
-    "stars": 0,
-    "updated_at": "2026-10-10T09:10:52Z",
-    "url": "https://github.com/bitpunklabs/ticker-universe-builder"
   },
   {
     "description": "DeepSeek Harness \u7684\u6280\u80fd\u6d4f\u89c8\u5668\u3002\u88c5\u4e4b\u524d\u5148\u4f53\u68c0\uff08\u540d\u5b57\u4e0d\u5408\u6cd5\u7684\u4f1a\u88ab DSH \u9759\u9ed8\u8df3\u8fc7\uff09\uff0c\u88c5\u4e0b\u6765\u7684\u662f\u67d0\u4e00\u6b21 commit \u800c\u4e0d\u662f\u5206\u652f\u3002 A skill browser for DeepSeek Harness: it checks",
@@ -205,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T09:09:01Z",
     "url": "https://github.com/songrui111/gongwen-report"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-10T09:25:26Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
@@ -403,50 +448,5 @@
     "stars": 69928,
     "updated_at": "2026-10-10T09:24:46Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:39:57Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Free agent skills from grw\u2014lab: Arabic & RTL, agent-ready web, ZATCA e-invoicing, freelance quotes, design tokens, safe ",
-    "id": "grw-lab/skills",
-    "language": "JavaScript",
-    "name": "grw-lab/skills",
-    "stars": 0,
-    "updated_at": "2026-10-10T08:38:14Z",
-    "url": "https://github.com/grw-lab/skills"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-10-10T08:37:05Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "",
-    "id": "IvMisticos/misticos.Claude",
-    "language": "Python",
-    "name": "IvMisticos/misticos.Claude",
-    "stars": 3,
-    "updated_at": "2026-10-10T08:35:50Z",
-    "url": "https://github.com/IvMisticos/misticos.Claude"
-  },
-  {
-    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
-    "id": "getaero-io/gtm-eng-skills",
-    "language": "TypeScript",
-    "name": "getaero-io/gtm-eng-skills",
-    "stars": 65,
-    "updated_at": "2026-10-10T08:31:24Z",
-    "url": "https://github.com/getaero-io/gtm-eng-skills"
   }
 ]
