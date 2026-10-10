@@ -1,5 +1,122 @@
 [
   {
+    "description": "Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (\u7f51\u6587): \u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u5168\u6d41\u7a0b\uff0c\u957f\u7bc7\u77ed\u7bc7\u90fd\u652f\u6301 | 13 skills",
+    "id": "zenstory-ai/oh-story-claudecode",
+    "language": "Python",
+    "name": "zenstory-ai/oh-story-claudecode",
+    "stars": 7407,
+    "updated_at": "2026-10-10T11:43:05Z",
+    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
+    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
+    "id": "danieljustus/symaira-eraseme",
+    "language": "Rust",
+    "name": "danieljustus/symaira-eraseme",
+    "stars": 9,
+    "updated_at": "2026-10-10T11:43:19Z",
+    "url": "https://github.com/danieljustus/symaira-eraseme"
+  },
+  {
+    "description": "A Claude Code skill that keeps products built for Indian users out of legal trouble: DPDP, CERT-In, the 2026 AI-labellin",
+    "id": "shwetankg07/legal-radar",
+    "language": "Python",
+    "name": "shwetankg07/legal-radar",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:42:03Z",
+    "url": "https://github.com/shwetankg07/legal-radar"
+  },
+  {
+    "description": "Agent skills for C2PA Content Credentials: check files and URLs, track every asset in a repo, catch lost provenance. Cla",
+    "id": "c2pa-design/skills",
+    "language": "JavaScript",
+    "name": "c2pa-design/skills",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:41:47Z",
+    "url": "https://github.com/c2pa-design/skills"
+  },
+  {
+    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
+    "id": "allxsmith/bestax-skills",
+    "language": "TypeScript",
+    "name": "allxsmith/bestax-skills",
+    "stars": 2,
+    "updated_at": "2026-10-10T11:40:48Z",
+    "url": "https://github.com/allxsmith/bestax-skills"
+  },
+  {
+    "description": "Aggregation repo of Agent Skills shared across AI harnesses \u2014 vendored from upstream sources (mattpocock, kill-ai-slop, ",
+    "id": "hu3rror/my-skills",
+    "language": "JavaScript",
+    "name": "hu3rror/my-skills",
+    "stars": 0,
+    "updated_at": "2026-10-10T11:40:13Z",
+    "url": "https://github.com/hu3rror/my-skills"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 81500,
+    "updated_at": "2026-10-10T11:40:35Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "18 incident-backed rules and 6 skills for coding agents. Evidence templates, runnable demos, and drop-in AGENTS.md / CLA",
+    "id": "Grit-77/done-is-a-claim",
+    "language": "Python",
+    "name": "Grit-77/done-is-a-claim",
+    "stars": 28,
+    "updated_at": "2026-10-10T11:35:02Z",
+    "url": "https://github.com/Grit-77/done-is-a-claim"
+  },
+  {
+    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 3,
+    "updated_at": "2026-10-10T11:34:57Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2843,
+    "updated_at": "2026-10-10T11:34:14Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Claude skill: ad strategy before campaign setup \u2014 research, hypotheses, platforms, phased budget, KPI. Docs in Russian.",
+    "id": "ai-hub-open/marketing-strategist",
+    "language": "Python",
+    "name": "ai-hub-open/marketing-strategist",
+    "stars": 10,
+    "updated_at": "2026-10-10T11:34:13Z",
+    "url": "https://github.com/ai-hub-open/marketing-strategist"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-10T11:40:57Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-10T11:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skill that explains anything on Karpathy's comprehension ladder: ASD-STE100 prose (80% strictness), blueprin",
     "id": "bowen31337/comprehension-ladder",
     "language": "Python",
@@ -18,31 +135,13 @@
     "url": "https://github.com/MSliwa01/wwxd"
   },
   {
-    "description": "Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (\u7f51\u6587): \u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u5168\u6d41\u7a0b\uff0c\u957f\u7bc7\u77ed\u7bc7\u90fd\u652f\u6301 | 13 skills",
-    "id": "zenstory-ai/oh-story-claudecode",
-    "language": "Python",
-    "name": "zenstory-ai/oh-story-claudecode",
-    "stars": 7407,
-    "updated_at": "2026-10-10T11:28:14Z",
-    "url": "https://github.com/zenstory-ai/oh-story-claudecode"
-  },
-  {
     "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
     "id": "CrossRead/scholion",
     "language": "Python",
     "name": "CrossRead/scholion",
     "stars": 4,
-    "updated_at": "2026-10-10T11:26:49Z",
+    "updated_at": "2026-10-10T11:42:11Z",
     "url": "https://github.com/CrossRead/scholion"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-10T11:26:43Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -68,7 +167,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-10T11:29:58Z",
+    "updated_at": "2026-10-10T11:43:37Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -77,7 +176,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69931,
-    "updated_at": "2026-10-10T11:21:14Z",
+    "updated_at": "2026-10-10T11:36:14Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -88,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-10T11:17:05Z",
     "url": "https://github.com/duryno/Slicelytics-public"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-10T11:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Aggregation repo of Agent Skills shared across AI harnesses \u2014 vendored from upstream sources (mattpocock, kill-ai-slop, ",
-    "id": "hu3rror/my-skills",
-    "language": "JavaScript",
-    "name": "hu3rror/my-skills",
-    "stars": 0,
-    "updated_at": "2026-10-10T11:10:10Z",
-    "url": "https://github.com/hu3rror/my-skills"
   },
   {
     "description": "Empower AI assistants to create, send, and track e-signature contracts, form fills, and identity verification seamlessly",
@@ -216,15 +297,6 @@
     "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
   },
   {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 3,
-    "updated_at": "2026-10-10T11:03:30Z",
-    "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
     "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
     "id": "Ovid/paad",
     "language": "Python",
@@ -250,6 +322,15 @@
     "stars": 0,
     "updated_at": "2026-10-10T11:03:13Z",
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
+  },
+  {
+    "description": "Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and",
+    "id": "gooseworks-ai/goose-skills",
+    "language": "Python",
+    "name": "gooseworks-ai/goose-skills",
+    "stars": 1241,
+    "updated_at": "2026-10-10T11:02:44Z",
+    "url": "https://github.com/gooseworks-ai/goose-skills"
   },
   {
     "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-10T10:55:42Z",
     "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-10-10T10:55:08Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-10-10T10:54:42Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:54:35Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-10-10T10:54:28Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "A chat gives you an answer. Forge of Thought is an AI cognitive extension: a workshop where your idea is forged into a d",
-    "id": "pche-broken-artist/forge-of-thought",
-    "language": "Python",
-    "name": "pche-broken-artist/forge-of-thought",
-    "stars": 3,
-    "updated_at": "2026-10-10T10:54:25Z",
-    "url": "https://github.com/pche-broken-artist/forge-of-thought"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:54:13Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-10-10T10:54:11Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
-  },
-  {
-    "description": "Manage Figshare articles, metadata, and files directly from the command line or via AI coding agents.",
-    "id": "Selleparental3533/figshare-skill",
-    "language": "Shell",
-    "name": "Selleparental3533/figshare-skill",
-    "stars": 0,
-    "updated_at": "2026-10-10T10:54:05Z",
-    "url": "https://github.com/Selleparental3533/figshare-skill"
-  },
-  {
-    "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
-    "id": "noman3271/caveman",
-    "language": "Python",
-    "name": "noman3271/caveman",
-    "stars": 1,
-    "updated_at": "2026-10-10T10:53:16Z",
-    "url": "https://github.com/noman3271/caveman"
   }
 ]
