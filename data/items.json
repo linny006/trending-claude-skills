@@ -1,21 +1,48 @@
 [
   {
+    "description": "17 modular skills that give Claude Code's everyday loop \u2014 brainstorm, plan, build, review, document \u2014 a fixed shape.",
+    "id": "matis-dev/m-skills",
+    "language": "Shell",
+    "name": "matis-dev/m-skills",
+    "stars": 0,
+    "updated_at": "2026-10-10T16:28:31Z",
+    "url": "https://github.com/matis-dev/m-skills"
+  },
+  {
+    "description": "Claude skill that makes your website look its best on iPhone Duo - closed, opened, in Split View and in in-app browsers.",
+    "id": "gurovdigital/duo-ready",
+    "language": "JavaScript",
+    "name": "gurovdigital/duo-ready",
+    "stars": 1,
+    "updated_at": "2026-10-10T16:28:17Z",
+    "url": "https://github.com/gurovdigital/duo-ready"
+  },
+  {
     "description": "Team-driven Claude Code setup: questions, CLAUDE.md, settings and plugins.",
     "id": "anthonykgross/akg",
     "language": "Shell",
     "name": "anthonykgross/akg",
     "stars": 0,
-    "updated_at": "2026-10-10T16:14:20Z",
+    "updated_at": "2026-10-10T16:27:10Z",
     "url": "https://github.com/anthonykgross/akg"
   },
   {
-    "description": "Consent-first IT support skill for Claude: diagnoses slow or broken Windows 10/11 PCs like a technician, asks before eve",
-    "id": "agencekoeki/koeki-it-support",
-    "language": "\u2014",
-    "name": "agencekoeki/koeki-it-support",
-    "stars": 0,
-    "updated_at": "2026-10-10T16:13:44Z",
-    "url": "https://github.com/agencekoeki/koeki-it-support"
+    "description": "A chip synth driven by text. Sound effects and songs are written as data and rendered to WAV, with pulse, triangle, nois",
+    "id": "fmihalcioiu/rowsynth",
+    "language": "Python",
+    "name": "fmihalcioiu/rowsynth",
+    "stars": 1,
+    "updated_at": "2026-10-10T16:27:09Z",
+    "url": "https://github.com/fmihalcioiu/rowsynth"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-10T16:29:47Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
@@ -23,8 +50,71 @@
     "language": "Python",
     "name": "CorvinLabs/CorvinOS",
     "stars": 17,
-    "updated_at": "2026-10-10T16:12:53Z",
+    "updated_at": "2026-10-10T16:23:04Z",
     "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framewo",
+    "id": "plugin87/ux-ui-agent-skills",
+    "language": "JavaScript",
+    "name": "plugin87/ux-ui-agent-skills",
+    "stars": 1569,
+    "updated_at": "2026-10-10T16:19:24Z",
+    "url": "https://github.com/plugin87/ux-ui-agent-skills"
+  },
+  {
+    "description": "Consent-first IT support skill for Claude: diagnoses slow or broken Windows 10/11 PCs like a technician, asks before eve",
+    "id": "agencekoeki/koeki-it-support",
+    "language": "\u2014",
+    "name": "agencekoeki/koeki-it-support",
+    "stars": 0,
+    "updated_at": "2026-10-10T16:19:23Z",
+    "url": "https://github.com/agencekoeki/koeki-it-support"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-10-10T16:19:09Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-10T16:19:07Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69937,
+    "updated_at": "2026-10-10T16:18:33Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screens",
+    "id": "oil-oil/oil-ui",
+    "language": "Python",
+    "name": "oil-oil/oil-ui",
+    "stars": 1185,
+    "updated_at": "2026-10-10T16:19:38Z",
+    "url": "https://github.com/oil-oil/oil-ui"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-10T16:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
@@ -63,7 +153,7 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Minecraft Java Plugin Claude Skills",
+    "description": "Compile-verified Agent Skills (SKILL.md) for Minecraft Paper 1.21.11 / 26.x plugin development: NMS with official Mojang",
     "id": "MrPippi/MJP-Paper-Skills",
     "language": "TypeScript",
     "name": "MrPippi/MJP-Paper-Skills",
@@ -81,21 +171,12 @@
     "url": "https://github.com/BinayakDotel/skills-marketplace"
   },
   {
-    "description": "A chip synth driven by text. Sound effects and songs are written as data and rendered to WAV, with pulse, triangle, nois",
-    "id": "fmihalcioiu/rowsynth",
-    "language": "Python",
-    "name": "fmihalcioiu/rowsynth",
-    "stars": 1,
-    "updated_at": "2026-10-10T16:07:56Z",
-    "url": "https://github.com/fmihalcioiu/rowsynth"
-  },
-  {
     "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
     "id": "imboard-ai/ai-dossier",
     "language": "TypeScript",
     "name": "imboard-ai/ai-dossier",
     "stars": 9,
-    "updated_at": "2026-10-10T16:05:58Z",
+    "updated_at": "2026-10-10T16:30:03Z",
     "url": "https://github.com/imboard-ai/ai-dossier"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-10T16:03:31Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -180,15 +252,6 @@
     "url": "https://github.com/TanbirRamim/skill-trigger-bench"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-10T16:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent Skill (html-prototype-build): generate, annotate, review & deliver native HTML prototypes for Claude Code, Cursor ",
     "id": "Lisuiwen/ai-html-annotation",
     "language": "JavaScript",
@@ -205,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-10-10T16:00:06Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69938,
-    "updated_at": "2026-10-10T15:59:55Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "???????????? PDF????????????????????? PDF ????????????? HTML?Agent Skill (SKILL.md).",
@@ -292,7 +346,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81571,
+    "stars": 81573,
     "updated_at": "2026-10-10T15:53:27Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -320,7 +374,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-10T16:09:15Z",
+    "updated_at": "2026-10-10T16:25:33Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -338,7 +392,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-10T16:12:52Z",
+    "updated_at": "2026-10-10T16:28:33Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -365,7 +419,7 @@
     "language": "\u2014",
     "name": "TABARC-Code/Deweygraph-file-organizer",
     "stars": 2,
-    "updated_at": "2026-10-10T15:44:57Z",
+    "updated_at": "2026-10-10T16:16:45Z",
     "url": "https://github.com/TABARC-Code/Deweygraph-file-organizer"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 786,
     "updated_at": "2026-10-10T15:41:08Z",
     "url": "https://github.com/Ark0N/Codeman"
-  },
-  {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 1,
-    "updated_at": "2026-10-10T15:39:54Z",
-    "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 4,
-    "updated_at": "2026-10-10T15:36:27Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/skills",
-    "language": "Shell",
-    "name": "yschimke/skills",
-    "stars": 2,
-    "updated_at": "2026-10-10T15:37:56Z",
-    "url": "https://github.com/yschimke/skills"
-  },
-  {
-    "description": "Collection of my personal claude skills",
-    "id": "pgoell/pgoell-claude-tools",
-    "language": "HTML",
-    "name": "pgoell/pgoell-claude-tools",
-    "stars": 1,
-    "updated_at": "2026-10-10T15:29:12Z",
-    "url": "https://github.com/pgoell/pgoell-claude-tools"
-  },
-  {
-    "description": "\ud83c\udf0c De l'intention au prompt. La mati\u00e8re noire de vos prompts, c'est ce que vous savez sans l'\u00e9crire. Un berger qui la fai",
-    "id": "agencekoeki/koeki-shepherd",
-    "language": "Python",
-    "name": "agencekoeki/koeki-shepherd",
-    "stars": 0,
-    "updated_at": "2026-10-10T15:29:06Z",
-    "url": "https://github.com/agencekoeki/koeki-shepherd"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-10T15:27:50Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
