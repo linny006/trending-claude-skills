@@ -1,12 +1,111 @@
 [
   {
+    "description": "Downdetector for AI agents",
+    "id": "RyanNSJ/notworking",
+    "language": "Python",
+    "name": "RyanNSJ/notworking",
+    "stars": 2,
+    "updated_at": "2026-10-10T04:14:39Z",
+    "url": "https://github.com/RyanNSJ/notworking"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69923,
+    "updated_at": "2026-10-10T04:13:58Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 189,
+    "updated_at": "2026-10-10T04:12:49Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 2597,
+    "updated_at": "2026-10-10T04:12:07Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
     "description": "",
     "id": "IvMisticos/misticos.Claude",
     "language": "Python",
     "name": "IvMisticos/misticos.Claude",
     "stars": 3,
-    "updated_at": "2026-10-10T03:58:36Z",
+    "updated_at": "2026-10-10T04:13:01Z",
     "url": "https://github.com/IvMisticos/misticos.Claude"
+  },
+  {
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
+    "id": "longsizhuo/openInvest",
+    "language": "Python",
+    "name": "longsizhuo/openInvest",
+    "stars": 89,
+    "updated_at": "2026-10-10T04:13:25Z",
+    "url": "https://github.com/longsizhuo/openInvest"
+  },
+  {
+    "description": "\u5404\u5e94\u7528\u64cd\u4f5c\u6307\u5357 \u00b7 \u8ba9 AI Agent \u76f4\u63a5\u4f1a\u7528\u7684\u5e94\u7528\u64cd\u4f5c\u6280\u80fd\u96c6\uff1a\u4e00\u4e2a\u5e94\u7528\u4e00\u4efd SKILL.md\uff0c\u88c5\u8fdb\u4efb\u610f\u652f\u6301 Skill \u7684 Agent \u5c31\u80fd\u64cd\u4f5c\u8be5\u5e94\u7528\u3002Community-driven app operation skills for",
+    "id": "yuloong07-star/app-skills",
+    "language": "JavaScript",
+    "name": "yuloong07-star/app-skills",
+    "stars": 0,
+    "updated_at": "2026-10-10T04:09:38Z",
+    "url": "https://github.com/yuloong07-star/app-skills"
+  },
+  {
+    "description": "16 structured AI skills for product & design teams, Discovery to Shipping. Works with Claude, ChatGPT, Gemini.",
+    "id": "designedbythanh/ai-skills-library-product-design",
+    "language": "Python",
+    "name": "designedbythanh/ai-skills-library-product-design",
+    "stars": 2,
+    "updated_at": "2026-10-10T04:13:08Z",
+    "url": "https://github.com/designedbythanh/ai-skills-library-product-design"
+  },
+  {
+    "description": "Opinionated, audit-aware skills for building scalable, maintainable frontend (and later infra/backend) projects.",
+    "id": "VelimirMueller/lab-claude-skills",
+    "language": "Shell",
+    "name": "VelimirMueller/lab-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-10-10T04:07:34Z",
+    "url": "https://github.com/VelimirMueller/lab-claude-skills"
+  },
+  {
+    "description": "Claude Code plugin: build step-by-step user manuals (PPTX + PDF) from real app screenshots with numbered callouts",
+    "id": "JiramedFirst/MSlides",
+    "language": "Python",
+    "name": "JiramedFirst/MSlides",
+    "stars": 2,
+    "updated_at": "2026-10-10T04:08:23Z",
+    "url": "https://github.com/JiramedFirst/MSlides"
+  },
+  {
+    "description": "\ud83c\udf55 An opinionated, extensible Agent Harness based on Pi. Connect Multiple Computers to one harness and work anywhere.",
+    "id": "Pizzaface/PizzaPi",
+    "language": "TypeScript",
+    "name": "Pizzaface/PizzaPi",
+    "stars": 15,
+    "updated_at": "2026-10-10T04:03:14Z",
+    "url": "https://github.com/Pizzaface/PizzaPi"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 124,
+    "updated_at": "2026-10-10T04:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd16 AI Skills",
@@ -34,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T03:57:11Z",
     "url": "https://github.com/noderaven/parallel-lanes"
-  },
-  {
-    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
-    "id": "longsizhuo/openInvest",
-    "language": "Python",
-    "name": "longsizhuo/openInvest",
-    "stars": 89,
-    "updated_at": "2026-10-10T03:56:39Z",
-    "url": "https://github.com/longsizhuo/openInvest"
   },
   {
     "description": "\ud83c\udf7d\ufe0f Carta digital y web para restaurantes con Claude Code \u00b7 Restaurant menu & website plugin: one HTML file, mobile-first",
@@ -95,17 +185,8 @@
     "language": "HTML",
     "name": "AlehHaiko/UX-directives-skill",
     "stars": 1,
-    "updated_at": "2026-10-10T03:49:01Z",
+    "updated_at": "2026-10-10T04:09:49Z",
     "url": "https://github.com/AlehHaiko/UX-directives-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 124,
-    "updated_at": "2026-10-10T03:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "CAAS (Chat\u2013Agent Auto Session): talk only to your everyday Claude.ai conversation; running Claude Code sessions do the w",
@@ -144,15 +225,6 @@
     "url": "https://github.com/ai-theories/tax-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69922,
-    "updated_at": "2026-10-10T03:37:11Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "The agent skills I use most day to day: one focused playbook each, for Claude Code, Cursor, Copilot, Codex and more.",
     "id": "jars-demo/jars-skills",
     "language": "HTML",
@@ -160,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-10T03:34:55Z",
     "url": "https://github.com/jars-demo/jars-skills"
-  },
-  {
-    "description": "Downdetector for AI agents",
-    "id": "RyanNSJ/notworking",
-    "language": "Python",
-    "name": "RyanNSJ/notworking",
-    "stars": 2,
-    "updated_at": "2026-10-10T03:34:24Z",
-    "url": "https://github.com/RyanNSJ/notworking"
-  },
-  {
-    "description": "\u5404\u5e94\u7528\u64cd\u4f5c\u6307\u5357 \u00b7 \u8ba9 AI Agent \u76f4\u63a5\u4f1a\u7528\u7684\u5e94\u7528\u64cd\u4f5c\u6280\u80fd\u96c6\uff1a\u4e00\u4e2a\u5e94\u7528\u4e00\u4efd SKILL.md\uff0c\u88c5\u8fdb\u4efb\u610f\u652f\u6301 Skill \u7684 Agent \u5c31\u80fd\u64cd\u4f5c\u8be5\u5e94\u7528\u3002Community-driven app operation skills for",
-    "id": "yuloong07-star/app-skills",
-    "language": "JavaScript",
-    "name": "yuloong07-star/app-skills",
-    "stars": 0,
-    "updated_at": "2026-10-10T03:32:26Z",
-    "url": "https://github.com/yuloong07-star/app-skills"
   },
   {
     "description": "Evidence-based WordPress engineering skills for Claude Code, ChatGPT, Codex and Google Antigravity: 20 specialist skills",
@@ -306,15 +360,6 @@
     "url": "https://github.com/hoobnn/hoobnn-skills"
   },
   {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 2595,
-    "updated_at": "2026-10-10T03:03:28Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
     "description": "AI marketing agents for Claude Code \u2014 B2B SaaS: 90 agents, 19 skills \u2014 SEO/AEO/GEO, content ops, paid media, social list",
     "id": "shalintripathi/saas-marketing-agents",
     "language": "Markdown",
@@ -373,18 +418,9 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81291,
+    "stars": 81296,
     "updated_at": "2026-10-10T02:53:42Z",
     "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "16 structured AI skills for product & design teams, Discovery to Shipping. Works with Claude, ChatGPT, Gemini.",
-    "id": "designedbythanh/ai-skills-library-product-design",
-    "language": "Python",
-    "name": "designedbythanh/ai-skills-library-product-design",
-    "stars": 2,
-    "updated_at": "2026-10-10T03:00:07Z",
-    "url": "https://github.com/designedbythanh/ai-skills-library-product-design"
   },
   {
     "description": "An Agent Skill that makes Word files with Thai text render correctly \u2014 tried in Claude and Claude Code.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-10T02:42:59Z",
     "url": "https://github.com/MeiHitomi/miyoushe-daily-checkin"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-10T02:41:51Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Opinionated, audit-aware skills for building scalable, maintainable frontend (and later infra/backend) projects.",
-    "id": "VelimirMueller/lab-claude-skills",
-    "language": "Shell",
-    "name": "VelimirMueller/lab-claude-skills",
-    "stars": 4,
-    "updated_at": "2026-10-10T02:33:18Z",
-    "url": "https://github.com/VelimirMueller/lab-claude-skills"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-10-10T02:31:36Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "NestJS backend for a platform connecting installed doctors with replacement doctors in France, cutting administrative fr",
-    "id": "lellis-group/kineo-nest-backend",
-    "language": "TypeScript",
-    "name": "lellis-group/kineo-nest-backend",
-    "stars": 0,
-    "updated_at": "2026-10-10T02:30:37Z",
-    "url": "https://github.com/lellis-group/kineo-nest-backend"
   }
 ]
