@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 Coordinate multi-agent tasks and enhance workflow with versatile skills for autonomous planning and execution.",
+    "id": "stotihv/skills",
+    "language": "TypeScript",
+    "name": "stotihv/skills",
+    "stars": 0,
+    "updated_at": "2026-10-11T07:15:02Z",
+    "url": "https://github.com/stotihv/skills"
+  },
+  {
+    "description": "CodeTrain: an open-source Socratic coding tutor that runs as an Agent Skill in your coding agent. Tested in Claude Code ",
+    "id": "InferHaven/agent-skills",
+    "language": "JavaScript",
+    "name": "InferHaven/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-10-11T07:14:56Z",
+    "url": "https://github.com/InferHaven/agent-skills"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Enhance Claude Code with security and utility hooks to prevent prompt injection and extend functionality through cust",
+    "id": "oliverquaye23/claude-hooks",
+    "language": "CSS",
+    "name": "oliverquaye23/claude-hooks",
+    "stars": 1,
+    "updated_at": "2026-10-11T07:14:49Z",
+    "url": "https://github.com/oliverquaye23/claude-hooks"
+  },
+  {
+    "description": "Discover the best tools, docs, and tips for automating desktop apps with Codex computer use, plus Chrome extension and i",
+    "id": "Makiya1202/awesome-codex-computer-use",
+    "language": "\u2014",
+    "name": "Makiya1202/awesome-codex-computer-use",
+    "stars": 2,
+    "updated_at": "2026-10-11T07:14:41Z",
+    "url": "https://github.com/Makiya1202/awesome-codex-computer-use"
+  },
+  {
+    "description": "\ud83e\udd16 Automate trading on Polymarket with AI agents to enhance your strategies and maximize your opportunities.",
+    "id": "CeAlthubaiti/agents",
+    "language": "Python",
+    "name": "CeAlthubaiti/agents",
+    "stars": 5,
+    "updated_at": "2026-10-11T07:13:52Z",
+    "url": "https://github.com/CeAlthubaiti/agents"
+  },
+  {
+    "description": "\ud83d\udcbb Discover essential AI-driven tools, frameworks, and resources to enhance your development process and streamline your ",
+    "id": "arpita612/Awesome-AI-resources",
+    "language": "Java",
+    "name": "arpita612/Awesome-AI-resources",
+    "stars": 6,
+    "updated_at": "2026-10-11T07:13:34Z",
+    "url": "https://github.com/arpita612/Awesome-AI-resources"
+  },
+  {
+    "description": "\ud83d\ude80 Optimize agent workflows with isolated git worktrees to manage branches effortlessly, ensuring smooth and conflict-fre",
+    "id": "SEVORDW/agents",
+    "language": "\u2014",
+    "name": "SEVORDW/agents",
+    "stars": 0,
+    "updated_at": "2026-10-11T07:13:18Z",
+    "url": "https://github.com/SEVORDW/agents"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-11T07:13:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\udee0\ufe0f Enhance programming workflows with a curated library of agent skills for tasks like code review, debugging, and plann",
     "id": "izyanrajwani/agent-skills-library",
     "language": "TypeScript",
@@ -14,7 +86,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 117,
-    "updated_at": "2026-10-11T07:11:46Z",
+    "updated_at": "2026-10-11T07:13:32Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69950,
-    "updated_at": "2026-10-11T07:12:09Z",
+    "updated_at": "2026-10-11T07:14:22Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -106,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-10-11T07:12:30Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-11T07:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Achieved by claude itself, this is a Claude Code configuration installer aliased blackcat for multi-agent orchestration.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T06:17:04Z",
     "url": "https://github.com/evolvix-labs/evolvix-skills"
-  },
-  {
-    "description": "\u901a\u7528\u3001\u6a21\u5757\u5316\u7684\u81ea\u5a92\u4f53\u5185\u5bb9\u751f\u4ea7\u4e0e\u7ecf\u8425 Skills / A modular, tool-agnostic self-media content skill suite",
-    "id": "yanhua1010/self-media-content-workflow",
-    "language": "JavaScript",
-    "name": "yanhua1010/self-media-content-workflow",
-    "stars": 576,
-    "updated_at": "2026-10-11T06:09:39Z",
-    "url": "https://github.com/yanhua1010/self-media-content-workflow"
-  },
-  {
-    "description": "Stop explaining your project to the AI every morning. With your approval, Lore turns lessons into project criteria the A",
-    "id": "andresanemic/lore-plugin",
-    "language": "JavaScript",
-    "name": "andresanemic/lore-plugin",
-    "stars": 7,
-    "updated_at": "2026-10-11T06:09:17Z",
-    "url": "https://github.com/andresanemic/lore-plugin"
-  },
-  {
-    "description": "Claude Code skills distilled from building espOS \u2014 ESP32 memory budgets, ESP Component Registry installs, and publishing",
-    "id": "signalk-espOS/skills",
-    "language": "\u2014",
-    "name": "signalk-espOS/skills",
-    "stars": 0,
-    "updated_at": "2026-10-11T06:08:25Z",
-    "url": "https://github.com/signalk-espOS/skills"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1205,
-    "updated_at": "2026-10-11T06:04:51Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Free skill for Claude Code, Codex and Cursor: turn a document into a Claude Motion-style animated video, rendered locall",
-    "id": "dll-create/claude-motion-starter",
-    "language": "HTML",
-    "name": "dll-create/claude-motion-starter",
-    "stars": 0,
-    "updated_at": "2026-10-11T06:02:39Z",
-    "url": "https://github.com/dll-create/claude-motion-starter"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 28,
-    "updated_at": "2026-10-11T06:02:34Z",
-    "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-11T06:01:09Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
