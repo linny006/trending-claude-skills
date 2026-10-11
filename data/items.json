@@ -1,11 +1,101 @@
 [
   {
+    "description": "CodeTrain: an open-source Socratic coding tutor that runs as an Agent Skill in your coding agent. Tested in Claude Code ",
+    "id": "InferHaven/agent-skills",
+    "language": "JavaScript",
+    "name": "InferHaven/agent-skills",
+    "stars": 3,
+    "updated_at": "2026-10-11T07:59:28Z",
+    "url": "https://github.com/InferHaven/agent-skills"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-10-11T07:59:17Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "Mini Program Engineering Skill Suite is an Agent Skill suite for evidence\u2011first mini\u2011program development. It helps agent",
+    "id": "NocodeMrLi/mini-program-engineering-skill-suite",
+    "language": "Python",
+    "name": "NocodeMrLi/mini-program-engineering-skill-suite",
+    "stars": 88,
+    "updated_at": "2026-10-11T07:58:48Z",
+    "url": "https://github.com/NocodeMrLi/mini-program-engineering-skill-suite"
+  },
+  {
+    "description": "A\u80a1\u6570\u636e\u5206\u6790\u3001\u91cf\u5316\u9009\u80a1\u4e0e\u6a21\u62df\u4ea4\u6613 Skill \u96c6\u5408\uff0c\u652f\u6301\u5b9e\u65f6\u884c\u60c5\u3001\u5386\u53f2K\u7ebf\u3001\u6280\u672f\u6307\u6807\u3001\u81ea\u5b9a\u4e49\u4ea4\u6613\u7b56\u7565\u4e0e\u6a21\u62df\u4e70\u5165\u3001\u5356\u51fa\u4ea4\u6613\u8d26\u6237",
+    "id": "shouldnotappearcalm/a-share-skill",
+    "language": "Python",
+    "name": "shouldnotappearcalm/a-share-skill",
+    "stars": 243,
+    "updated_at": "2026-10-11T07:56:40Z",
+    "url": "https://github.com/shouldnotappearcalm/a-share-skill"
+  },
+  {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-11T07:55:21Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Claude Code skills for PHARN and Argus. Argus skills also work in Codex.",
+    "id": "pharn-dev/skills",
+    "language": "JavaScript",
+    "name": "pharn-dev/skills",
+    "stars": 0,
+    "updated_at": "2026-10-11T07:52:09Z",
+    "url": "https://github.com/pharn-dev/skills"
+  },
+  {
+    "description": "Coding agents meet the same quality bar on every run and spend fewer tokens repeating work. Nine skills and a CLI take a",
+    "id": "shepaland/LexForge",
+    "language": "TypeScript",
+    "name": "shepaland/LexForge",
+    "stars": 1,
+    "updated_at": "2026-10-11T07:46:25Z",
+    "url": "https://github.com/shepaland/LexForge"
+  },
+  {
+    "description": "Creator research skills for Claude Code and Codex: see what's working on YouTube, Instagram, and TikTok, review accounts",
+    "id": "kabo-sh/kabo-plugins",
+    "language": "JavaScript",
+    "name": "kabo-sh/kabo-plugins",
+    "stars": 3,
+    "updated_at": "2026-10-11T07:45:50Z",
+    "url": "https://github.com/kabo-sh/kabo-plugins"
+  },
+  {
+    "description": "Vensim system dynamics skill for Claude Code, Codex and other AI agents: build and auto-layout .mdl stock-and-flow diagr",
+    "id": "1837620622/vensim-system-dynamics-skill",
+    "language": "Python",
+    "name": "1837620622/vensim-system-dynamics-skill",
+    "stars": 2,
+    "updated_at": "2026-10-11T07:45:20Z",
+    "url": "https://github.com/1837620622/vensim-system-dynamics-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-11T07:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 117,
-    "updated_at": "2026-10-11T07:44:43Z",
+    "updated_at": "2026-10-11T07:52:25Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -41,7 +131,7 @@
     "language": "JavaScript",
     "name": "manifestack/manifestack",
     "stars": 14,
-    "updated_at": "2026-10-11T07:43:33Z",
+    "updated_at": "2026-10-11T07:59:50Z",
     "url": "https://github.com/manifestack/manifestack"
   },
   {
@@ -117,15 +207,6 @@
     "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
   },
   {
-    "description": "Claude Code skills for PHARN and Argus. Argus skills also work in Codex.",
-    "id": "pharn-dev/skills",
-    "language": "JavaScript",
-    "name": "pharn-dev/skills",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:40:24Z",
-    "url": "https://github.com/pharn-dev/skills"
-  },
-  {
     "description": "Claude Code skills and agents",
     "id": "cassc/claude-skills",
     "language": "Python",
@@ -151,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-10-11T07:39:57Z",
     "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69950,
+    "updated_at": "2026-10-11T07:50:31Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
@@ -256,7 +346,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 2816,
+    "stars": 2817,
     "updated_at": "2026-10-11T07:33:32Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T07:31:12Z",
     "url": "https://github.com/limited-grisaille833/claude-java-plugins"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:30:40Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:30:38Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-10-11T07:30:30Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-10-11T07:30:29Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:30:27Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "The agent skills I use most day to day: one focused playbook each, for Claude Code, Cursor, Copilot, Codex and more.",
-    "id": "jars-demo/jars-skills",
-    "language": "HTML",
-    "name": "jars-demo/jars-skills",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:30:24Z",
-    "url": "https://github.com/jars-demo/jars-skills"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-10-11T07:30:20Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-11T07:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-10-11T07:30:04Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-10-11T07:29:56Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   }
 ]
