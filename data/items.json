@@ -1,5 +1,104 @@
 [
   {
+    "description": "Parse invoice PDFs and images into structured data inside Claude: a Claude skill/plugin plus the RevExOS MCP connector",
+    "id": "prab-hub/revexos-invoice-parser",
+    "language": "Python",
+    "name": "prab-hub/revexos-invoice-parser",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:12:31Z",
+    "url": "https://github.com/prab-hub/revexos-invoice-parser"
+  },
+  {
+    "description": "Quote-to-cash skills for Claude: quotes, PO to invoice, three-way match, billing and proration, payment terms, collectio",
+    "id": "prab-hub/revexos-q2c-kit",
+    "language": "Python",
+    "name": "prab-hub/revexos-q2c-kit",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:12:29Z",
+    "url": "https://github.com/prab-hub/revexos-q2c-kit"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69951,
+    "updated_at": "2026-10-11T09:11:38Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each ",
+    "id": "zhuyansen/awesome-claude-video-skills",
+    "language": "\u2014",
+    "name": "zhuyansen/awesome-claude-video-skills",
+    "stars": 534,
+    "updated_at": "2026-10-11T09:08:12Z",
+    "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
+  },
+  {
+    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
+    "id": "filippolmt/skills",
+    "language": "HTML",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-10-11T09:08:00Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-10-11T09:07:15Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Your coding agent says done. Show the receipt. Evidence-first workflows, practical skills, and plugins for Claude Code a",
+    "id": "Grit-77/done-is-a-claim",
+    "language": "Python",
+    "name": "Grit-77/done-is-a-claim",
+    "stars": 30,
+    "updated_at": "2026-10-11T09:08:32Z",
+    "url": "https://github.com/Grit-77/done-is-a-claim"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 2830,
+    "updated_at": "2026-10-11T09:06:28Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "Claude Code skill that syncs git commits (by week, month or custom range) into a Lark Base table as feature-grouped task",
+    "id": "Soe-Moe/lark-git-sync",
+    "language": "\u2014",
+    "name": "Soe-Moe/lark-git-sync",
+    "stars": 0,
+    "updated_at": "2026-10-11T09:03:40Z",
+    "url": "https://github.com/Soe-Moe/lark-git-sync"
+  },
+  {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-11T09:14:18Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-11T09:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
     "id": "longsizhuo/openInvest",
     "language": "Python",
@@ -36,15 +135,6 @@
     "url": "https://github.com/nielsmadan/skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69951,
-    "updated_at": "2026-10-11T08:59:10Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
     "id": "everyinfra/seo-skills",
     "language": "Python",
@@ -72,40 +162,13 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-11T08:50:43Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
     "name": "ikaijua/Awesome-AITools",
     "stars": 6218,
-    "updated_at": "2026-10-11T08:50:24Z",
+    "updated_at": "2026-10-11T09:00:25Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Parse invoice PDFs and images into structured data inside Claude: a Claude skill/plugin plus the RevExOS MCP connector",
-    "id": "prab-hub/revexos-invoice-parser",
-    "language": "Python",
-    "name": "prab-hub/revexos-invoice-parser",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:50:16Z",
-    "url": "https://github.com/prab-hub/revexos-invoice-parser"
-  },
-  {
-    "description": "Quote-to-cash skills for Claude: quotes, PO to invoice, three-way match, billing and proration, payment terms, collectio",
-    "id": "prab-hub/revexos-q2c-kit",
-    "language": "Python",
-    "name": "prab-hub/revexos-q2c-kit",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:50:14Z",
-    "url": "https://github.com/prab-hub/revexos-q2c-kit"
   },
   {
     "description": "Claude skills for Google Ads, Meta Ads, GA4, SEO and reporting that run on live marketing data through InsightfulPipe MC",
@@ -115,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T08:50:01Z",
     "url": "https://github.com/Insightful-Pipe/marketing-skills"
-  },
-  {
-    "description": "Claude Code skill that syncs git commits (by week, month or custom range) into a Lark Base table as feature-grouped task",
-    "id": "Soe-Moe/lark-git-sync",
-    "language": "\u2014",
-    "name": "Soe-Moe/lark-git-sync",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:49:48Z",
-    "url": "https://github.com/Soe-Moe/lark-git-sync"
   },
   {
     "description": "An automated way to discover practical, hands on penetration testing projects using Claude, with structured learning roa",
@@ -139,7 +193,7 @@
     "id": "VoltAgent/awesome-agent-skills",
     "language": "\u2014",
     "name": "VoltAgent/awesome-agent-skills",
-    "stars": 35499,
+    "stars": 35500,
     "updated_at": "2026-10-11T08:46:42Z",
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
@@ -151,15 +205,6 @@
     "stars": 28,
     "updated_at": "2026-10-11T08:45:32Z",
     "url": "https://github.com/AgamiAI/agami-core"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-11T08:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "13 Claude Code skills for launch-grade motion graphics. Every frame is code. No After Effects, no video generator.",
@@ -198,21 +243,12 @@
     "url": "https://github.com/fas89/toolbox"
   },
   {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 2829,
-    "updated_at": "2026-10-11T08:38:23Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/skills",
     "language": "Shell",
     "name": "yschimke/skills",
     "stars": 2,
-    "updated_at": "2026-10-11T08:45:49Z",
+    "updated_at": "2026-10-11T09:09:49Z",
     "url": "https://github.com/yschimke/skills"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 117,
-    "updated_at": "2026-10-11T08:50:32Z",
+    "updated_at": "2026-10-11T09:13:48Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -328,7 +364,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 7822,
+    "stars": 7823,
     "updated_at": "2026-10-11T08:23:18Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-11T08:11:12Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-10-11T08:11:08Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Claude Code plugin marketplace: portable engineering principles + a measurable design-to-code handoff workflow, as on-de",
-    "id": "feedmypixel/principles",
-    "language": "\u2014",
-    "name": "feedmypixel/principles",
-    "stars": 0,
-    "updated_at": "2026-10-11T08:10:47Z",
-    "url": "https://github.com/feedmypixel/principles"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-10-11T08:06:29Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, secrets, dependencies, lint) on t",
-    "id": "openqodex/openqodex",
-    "language": "TypeScript",
-    "name": "openqodex/openqodex",
-    "stars": 574,
-    "updated_at": "2026-10-11T08:02:21Z",
-    "url": "https://github.com/openqodex/openqodex"
   }
 ]
