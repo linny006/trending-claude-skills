@@ -1,5 +1,41 @@
 [
   {
+    "description": "Portable, vendor-neutral engineering agent skills (SKILL.md) for AI coding agents: architecture, OWASP security, test st",
+    "id": "techfleetworks/enterprise-software-AI-skills",
+    "language": "JavaScript",
+    "name": "techfleetworks/enterprise-software-AI-skills",
+    "stars": 0,
+    "updated_at": "2026-10-11T01:14:59Z",
+    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
+  },
+  {
+    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
+    "id": "boshu2/agentops",
+    "language": "Go",
+    "name": "boshu2/agentops",
+    "stars": 448,
+    "updated_at": "2026-10-11T01:13:07Z",
+    "url": "https://github.com/boshu2/agentops"
+  },
+  {
+    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
+    "id": "mtangoz/grill",
+    "language": "JavaScript",
+    "name": "mtangoz/grill",
+    "stars": 1,
+    "updated_at": "2026-10-11T01:11:02Z",
+    "url": "https://github.com/mtangoz/grill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-11T01:09:55Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
     "id": "getaero-io/gtm-eng-skills",
     "language": "TypeScript",
@@ -7,6 +43,15 @@
     "stars": 65,
     "updated_at": "2026-10-11T01:09:27Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 81672,
+    "updated_at": "2026-10-11T01:08:35Z",
+    "url": "https://github.com/tt-a1i/archify"
   },
   {
     "description": "A programmable typesetter for the web",
@@ -23,7 +68,7 @@
     "language": "HTML",
     "name": "AlehHaiko/UX-directives-skill",
     "stars": 1,
-    "updated_at": "2026-10-11T01:06:33Z",
+    "updated_at": "2026-10-11T01:12:09Z",
     "url": "https://github.com/AlehHaiko/UX-directives-skill"
   },
   {
@@ -45,15 +90,6 @@
     "url": "https://github.com/phoebefu6/agent-skills-phoebe-picks"
   },
   {
-    "description": "Portable, vendor-neutral engineering agent skills (SKILL.md) for AI coding agents: architecture, OWASP security, test st",
-    "id": "techfleetworks/enterprise-software-AI-skills",
-    "language": "JavaScript",
-    "name": "techfleetworks/enterprise-software-AI-skills",
-    "stars": 0,
-    "updated_at": "2026-10-11T01:02:41Z",
-    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
-  },
-  {
     "description": "Claude skill for OpenSCAD: parametric parts and multi-part assemblies, verified with numbers instead of pictures. Clash,",
     "id": "pthompson8594/openscad-skill",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T01:01:09Z",
     "url": "https://github.com/pthompson8594/openscad-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-11T01:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83c\udfb2 Claude skills that build your Norsk Tipping betting slip from live data ",
@@ -275,7 +302,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69941,
-    "updated_at": "2026-10-11T01:09:49Z",
+    "updated_at": "2026-10-11T01:14:35Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-11T00:41:07Z",
     "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
-  },
-  {
-    "description": "My Claude Code stack: mods (agents panel, stage bar, done notifications, status line), product owner skills for Jira and",
-    "id": "lippdev/lippstack",
-    "language": "TypeScript",
-    "name": "lippdev/lippstack",
-    "stars": 1,
-    "updated_at": "2026-10-11T00:40:57Z",
-    "url": "https://github.com/lippdev/lippstack"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-10-11T00:40:48Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Download scientific papers automatically from DOI inputs using a six-source fallback chain and zero dependencies.",
-    "id": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "language": "Python",
-    "name": "Kara-lynnmacroeconomic2412/paper-fetch",
-    "stars": 4,
-    "updated_at": "2026-10-11T00:40:43Z",
-    "url": "https://github.com/Kara-lynnmacroeconomic2412/paper-fetch"
   }
 ]
