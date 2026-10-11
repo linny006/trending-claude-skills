@@ -1,5 +1,86 @@
 [
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 433,
+    "updated_at": "2026-10-11T03:13:49Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Portable, vendor-neutral engineering agent skills (SKILL.md) for AI coding agents: architecture, OWASP security, test st",
+    "id": "techfleetworks/enterprise-software-AI-skills",
+    "language": "JavaScript",
+    "name": "techfleetworks/enterprise-software-AI-skills",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:10:30Z",
+    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
+  },
+  {
+    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
+    "id": "jgoneit/jaekit",
+    "language": "Go",
+    "name": "jgoneit/jaekit",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:09:25Z",
+    "url": "https://github.com/jgoneit/jaekit"
+  },
+  {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-10-11T03:06:51Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "\u4e00\u6bb5\u914d\u97f3\uff0c\u53d8\u6210\u4e00\u652f\u9010\u5e27\u4ee3\u7801\u6e32\u67d3\u7684\u53e3\u64ad\u52a8\u6548\u7247 \u2014\u2014 Claude Code / Codex Skill\uff089:16 \u00b7 16:9 \u00b7 60fps \u00b7 \u5c01\u9762\uff09",
+    "id": "isaachang/motion-video-workflow",
+    "language": "JavaScript",
+    "name": "isaachang/motion-video-workflow",
+    "stars": 9,
+    "updated_at": "2026-10-11T03:06:45Z",
+    "url": "https://github.com/isaachang/motion-video-workflow"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 7,
+    "updated_at": "2026-10-11T03:06:24Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "NestJS backend for a platform connecting installed doctors with replacement doctors in France, cutting administrative fr",
+    "id": "lellis-group/kineo-nest-backend",
+    "language": "TypeScript",
+    "name": "lellis-group/kineo-nest-backend",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:04:44Z",
+    "url": "https://github.com/lellis-group/kineo-nest-backend"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 441,
+    "updated_at": "2026-10-11T03:00:41Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-11T03:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free, open-source memory for Claude Code. Your own database, no cloud, no subscription.",
     "id": "Avijit07x/claude-db",
     "language": "TypeScript",
@@ -9,13 +90,13 @@
     "url": "https://github.com/Avijit07x/claude-db"
   },
   {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 433,
-    "updated_at": "2026-10-11T02:58:27Z",
-    "url": "https://github.com/aiskillstore/marketplace"
+    "description": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your cl",
+    "id": "Orchestra-Research/AI-Research-SKILLs",
+    "language": "TeX",
+    "name": "Orchestra-Research/AI-Research-SKILLs",
+    "stars": 13429,
+    "updated_at": "2026-10-11T02:56:34Z",
+    "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 8,
-    "updated_at": "2026-10-11T02:52:36Z",
+    "updated_at": "2026-10-11T03:15:11Z",
     "url": "https://github.com/drnachio/postext"
   },
   {
@@ -50,7 +131,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69943,
-    "updated_at": "2026-10-11T02:59:19Z",
+    "updated_at": "2026-10-11T03:15:03Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T02:45:24Z",
     "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-11T02:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
@@ -351,15 +423,6 @@
     "url": "https://github.com/Selleparental3533/figshare-skill"
   },
   {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 5,
-    "updated_at": "2026-10-11T02:34:42Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
-  },
-  {
     "description": "Compress tokens with caveman, a text simplifier that cuts word count while keeping meaning clear",
     "id": "noman3271/caveman",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 53,
     "updated_at": "2026-10-11T02:34:17Z",
     "url": "https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge"
-  },
-  {
-    "description": "Analyze Claude Code\u2019s BUDDY pet system from leaked source, listing all 18 ASCII pets, render logic, and system details",
-    "id": "Previous-shunt800/claude-code-pet-system-analysis",
-    "language": "\u2014",
-    "name": "Previous-shunt800/claude-code-pet-system-analysis",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:33:57Z",
-    "url": "https://github.com/Previous-shunt800/claude-code-pet-system-analysis"
-  },
-  {
-    "description": "Learn Claude Code patterns to assess, improve, and apply production-grade LLM engineering practices in your codebase",
-    "id": "seductive-bercy787/learn-from-claudecode",
-    "language": "\u2014",
-    "name": "seductive-bercy787/learn-from-claudecode",
-    "stars": 1,
-    "updated_at": "2026-10-11T02:33:48Z",
-    "url": "https://github.com/seductive-bercy787/learn-from-claudecode"
-  },
-  {
-    "description": "Find literature, trace citations, discover authors, institutions, and fields with a human-friendly OpenAlex CLI and skil",
-    "id": "Out-bloodspavin173/openalex-skill",
-    "language": "TypeScript",
-    "name": "Out-bloodspavin173/openalex-skill",
-    "stars": 3,
-    "updated_at": "2026-10-11T02:33:48Z",
-    "url": "https://github.com/Out-bloodspavin173/openalex-skill"
-  },
-  {
-    "description": "Collapse MCP servers into 2 tools: search and execute, cutting tool schemas and token use for faster agent setup",
-    "id": "afiabatool067-png/mcpx",
-    "language": "TypeScript",
-    "name": "afiabatool067-png/mcpx",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:33:46Z",
-    "url": "https://github.com/afiabatool067-png/mcpx"
-  },
-  {
-    "description": "Explore Claude Code internals with leaked source maps, architecture docs, and codebase analysis for deep technical insig",
-    "id": "Thronged-ulteriority430/claude-code-leaked",
-    "language": "TypeScript",
-    "name": "Thronged-ulteriority430/claude-code-leaked",
-    "stars": 2,
-    "updated_at": "2026-10-11T02:33:46Z",
-    "url": "https://github.com/Thronged-ulteriority430/claude-code-leaked"
-  },
-  {
-    "description": "Document Claude Code source leak analysis, code breakdowns, and docs for Anthropic\u2019s npm sourcemap exposure",
-    "id": "Nobeliummolestation149/claude-code-doc",
-    "language": "\u2014",
-    "name": "Nobeliummolestation149/claude-code-doc",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:33:38Z",
-    "url": "https://github.com/Nobeliummolestation149/claude-code-doc"
-  },
-  {
-    "description": "Scan codebases for security flaws with LLM agent skills that turn Claude Code, Cursor, and other assistants into SAST sc",
-    "id": "reasonless-throne486/sast-skills",
-    "language": "\u2014",
-    "name": "reasonless-throne486/sast-skills",
-    "stars": 1,
-    "updated_at": "2026-10-11T02:33:25Z",
-    "url": "https://github.com/reasonless-throne486/sast-skills"
   }
 ]
