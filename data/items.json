@@ -1,5 +1,77 @@
 [
   {
+    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
+    "id": "deepaksinghcs14/deadeye-cc",
+    "language": "Go",
+    "name": "deepaksinghcs14/deadeye-cc",
+    "stars": 5,
+    "updated_at": "2026-10-11T03:43:21Z",
+    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
+  },
+  {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-10-11T03:40:44Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "Creator research skills for Claude Code and Codex: see what's working on YouTube, Instagram, and TikTok, review accounts",
+    "id": "kabo-sh/kabo-plugins",
+    "language": "JavaScript",
+    "name": "kabo-sh/kabo-plugins",
+    "stars": 3,
+    "updated_at": "2026-10-11T03:39:07Z",
+    "url": "https://github.com/kabo-sh/kabo-plugins"
+  },
+  {
+    "description": "Agent Skills (SKILL.md) for Claude and other agents",
+    "id": "BinayakDotel/skills-marketplace",
+    "language": "Python",
+    "name": "BinayakDotel/skills-marketplace",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:37:30Z",
+    "url": "https://github.com/BinayakDotel/skills-marketplace"
+  },
+  {
+    "description": "Multi-agent folder cleanup skill for shared AI project workspaces. Stops Claude, ChatGPT, Codex, Copilot, Gemini, Grok, ",
+    "id": "JesseRaber/multi-agent-folder-cleanup",
+    "language": "Python",
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "stars": 1,
+    "updated_at": "2026-10-11T03:36:40Z",
+    "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
+  },
+  {
+    "description": "AI Agent Skills",
+    "id": "zydo/skills",
+    "language": "Python",
+    "name": "zydo/skills",
+    "stars": 1,
+    "updated_at": "2026-10-11T03:35:14Z",
+    "url": "https://github.com/zydo/skills"
+  },
+  {
+    "description": "Agent skill and Claude Code plugin that writes openCanviz explainer video projects as JSON",
+    "id": "opencanviz/opencanviz-skills-repo",
+    "language": "Python",
+    "name": "opencanviz/opencanviz-skills-repo",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:34:13Z",
+    "url": "https://github.com/opencanviz/opencanviz-skills-repo"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-11T03:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free skill for Claude Code, Codex and Cursor: turn a document into a Claude Motion-style animated video, rendered locall",
     "id": "dll-create/claude-motion-starter",
     "language": "HTML",
@@ -18,21 +90,12 @@
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
-    "id": "deepaksinghcs14/deadeye-cc",
-    "language": "Go",
-    "name": "deepaksinghcs14/deadeye-cc",
-    "stars": 5,
-    "updated_at": "2026-10-11T03:28:28Z",
-    "url": "https://github.com/deepaksinghcs14/deadeye-cc"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69943,
-    "updated_at": "2026-10-11T03:27:27Z",
+    "updated_at": "2026-10-11T03:42:17Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -79,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-11T03:18:57Z",
     "url": "https://github.com/ralvarezdev/ralvaskills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-11T03:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A programmable typesetter for the web",
@@ -324,15 +378,6 @@
     "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
   },
   {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-10-11T02:41:55Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
     "description": "Reliable GIS for AI agents \u2014 vector/raster, terrain, network access and scanned-map georeferencing as a Claude Code / Co",
     "id": "shio-vinyl/gis-kit",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T02:37:05Z",
     "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Generate LinkedIn posts with a Claude Code assistant that analyzes your profile and industry trends to match your writin",
-    "id": "ajayfastfooted329/claude-linkedin-post-creator",
-    "language": "\u2014",
-    "name": "ajayfastfooted329/claude-linkedin-post-creator",
-    "stars": 1,
-    "updated_at": "2026-10-11T02:36:52Z",
-    "url": "https://github.com/ajayfastfooted329/claude-linkedin-post-creator"
-  },
-  {
-    "description": "Connect Claude to Google Search Console, Google Analytics 4, and Bing Webmaster Tools to analyze actual site data and pe",
-    "id": "offensive-tarichagranulosa259/seo-data",
-    "language": "Python",
-    "name": "offensive-tarichagranulosa259/seo-data",
-    "stars": 1,
-    "updated_at": "2026-10-11T02:36:20Z",
-    "url": "https://github.com/offensive-tarichagranulosa259/seo-data"
-  },
-  {
-    "description": "Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills.",
-    "id": "Lasting-mademoiselle566/better-than-claude-skills",
-    "language": "\u2014",
-    "name": "Lasting-mademoiselle566/better-than-claude-skills",
-    "stars": 2,
-    "updated_at": "2026-10-11T02:35:56Z",
-    "url": "https://github.com/Lasting-mademoiselle566/better-than-claude-skills"
-  },
-  {
-    "description": "Fetch Bilibili comments and video metadata for AI agent analysis using a zero-dependency CLI tool.",
-    "id": "Analliseamicable382/bbc-skill",
-    "language": "Python",
-    "name": "Analliseamicable382/bbc-skill",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:35:50Z",
-    "url": "https://github.com/Analliseamicable382/bbc-skill"
-  },
-  {
-    "description": "Scaffold full UI projects using ready-to-use DESIGN.md files and Claude Design.",
-    "id": "alfonsosagacious5877/awesome-claude-design",
-    "language": "\u2014",
-    "name": "alfonsosagacious5877/awesome-claude-design",
-    "stars": 2,
-    "updated_at": "2026-10-11T02:35:40Z",
-    "url": "https://github.com/alfonsosagacious5877/awesome-claude-design"
   }
 ]
