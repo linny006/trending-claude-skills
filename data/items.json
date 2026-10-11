@@ -1,12 +1,111 @@
 [
   {
+    "description": "A free second brain for work: an Agent Skill that preps your meetings, keeps your follow-ups, and connects your work too",
+    "id": "kevinmmiddleton/unpaid-intern",
+    "language": "Python",
+    "name": "kevinmmiddleton/unpaid-intern",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:14:43Z",
+    "url": "https://github.com/kevinmmiddleton/unpaid-intern"
+  },
+  {
+    "description": "A curated library of 137 production-grade skills for Claude and other AI coding agents.",
+    "id": "nimadorostkar/Claude-Skills-collection",
+    "language": "Python",
+    "name": "nimadorostkar/Claude-Skills-collection",
+    "stars": 29,
+    "updated_at": "2026-10-11T05:12:43Z",
+    "url": "https://github.com/nimadorostkar/Claude-Skills-collection"
+  },
+  {
     "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
     "id": "mtangoz/grill",
     "language": "JavaScript",
     "name": "mtangoz/grill",
     "stars": 1,
-    "updated_at": "2026-10-11T04:57:52Z",
+    "updated_at": "2026-10-11T05:14:15Z",
     "url": "https://github.com/mtangoz/grill"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-10-11T05:06:45Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "Discover the essential unofficial collection of Claude Code and Claude API resources\u2014docs, tools, and courses in one cur",
+    "id": "MaickCrack/awesome-claude-code-api",
+    "language": "\u2014",
+    "name": "MaickCrack/awesome-claude-code-api",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:05:57Z",
+    "url": "https://github.com/MaickCrack/awesome-claude-code-api"
+  },
+  {
+    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
+    "id": "filippolmt/skills",
+    "language": "HTML",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-10-11T05:06:24Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 66,
+    "updated_at": "2026-10-11T05:05:36Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "An automated way to discover practical, hands on penetration testing projects using Claude, with structured learning roa",
+    "id": "Sahil-Hossain-1429/pentest-projects-discovery",
+    "language": "\u2014",
+    "name": "Sahil-Hossain-1429/pentest-projects-discovery",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:04:34Z",
+    "url": "https://github.com/Sahil-Hossain-1429/pentest-projects-discovery"
+  },
+  {
+    "description": "Agent Skill for Installing and Running Antigravity Within the Claude Sandbox for Web and Mobile Versions",
+    "id": "mokouliszt/antigravity-bridge-skill",
+    "language": "Shell",
+    "name": "mokouliszt/antigravity-bridge-skill",
+    "stars": 0,
+    "updated_at": "2026-10-11T05:03:32Z",
+    "url": "https://github.com/mokouliszt/antigravity-bridge-skill"
+  },
+  {
+    "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
+    "id": "imboard-ai/ai-dossier",
+    "language": "TypeScript",
+    "name": "imboard-ai/ai-dossier",
+    "stars": 9,
+    "updated_at": "2026-10-11T05:04:05Z",
+    "url": "https://github.com/imboard-ai/ai-dossier"
+  },
+  {
+    "description": "Help AI write clearly and get to the point. A plugin and skill for Claude Code and Codex.",
+    "id": "HiroHyun/grounded-copy",
+    "language": "Python",
+    "name": "HiroHyun/grounded-copy",
+    "stars": 23,
+    "updated_at": "2026-10-11T05:01:18Z",
+    "url": "https://github.com/HiroHyun/grounded-copy"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-11T05:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A programmable typesetter for the web",
@@ -63,20 +162,11 @@
     "url": "https://github.com/MariusGithub13/open-deal-kit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-11T04:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Push AI UI design to its limits: explore distinct directions, compare them side by side, and refine against real screens",
     "id": "oil-oil/oil-ui",
     "language": "Python",
     "name": "oil-oil/oil-ui",
-    "stars": 1206,
+    "stars": 1209,
     "updated_at": "2026-10-11T04:45:39Z",
     "url": "https://github.com/oil-oil/oil-ui"
   },
@@ -104,7 +194,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69946,
-    "updated_at": "2026-10-11T04:58:49Z",
+    "updated_at": "2026-10-11T05:04:08Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -115,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T04:38:01Z",
     "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "Help AI write clearly and get to the point. A plugin and skill for Claude Code and Codex.",
-    "id": "HiroHyun/grounded-copy",
-    "language": "Python",
-    "name": "HiroHyun/grounded-copy",
-    "stars": 23,
-    "updated_at": "2026-10-11T04:39:10Z",
-    "url": "https://github.com/HiroHyun/grounded-copy"
   },
   {
     "description": "12 production skills for Claude Code. Copy a folder, get a superpower.",
@@ -220,7 +301,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 81733,
+    "stars": 81740,
     "updated_at": "2026-10-11T04:17:54Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -286,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-10-11T03:45:22Z",
     "url": "https://github.com/zydo/skills"
-  },
-  {
-    "description": "Discover the essential unofficial collection of Claude Code and Claude API resources\u2014docs, tools, and courses in one cur",
-    "id": "MaickCrack/awesome-claude-code-api",
-    "language": "\u2014",
-    "name": "MaickCrack/awesome-claude-code-api",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:44:30Z",
-    "url": "https://github.com/MaickCrack/awesome-claude-code-api"
   },
   {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
@@ -376,77 +448,5 @@
     "stars": 9,
     "updated_at": "2026-10-11T03:06:45Z",
     "url": "https://github.com/isaachang/motion-video-workflow"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 7,
-    "updated_at": "2026-10-11T03:06:24Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "NestJS backend for a platform connecting installed doctors with replacement doctors in France, cutting administrative fr",
-    "id": "lellis-group/kineo-nest-backend",
-    "language": "TypeScript",
-    "name": "lellis-group/kineo-nest-backend",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:22:54Z",
-    "url": "https://github.com/lellis-group/kineo-nest-backend"
-  },
-  {
-    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 441,
-    "updated_at": "2026-10-11T03:00:41Z",
-    "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "Free, open-source memory for Claude Code. Your own database, no cloud, no subscription.",
-    "id": "Avijit07x/claude-db",
-    "language": "TypeScript",
-    "name": "Avijit07x/claude-db",
-    "stars": 233,
-    "updated_at": "2026-10-11T03:00:06Z",
-    "url": "https://github.com/Avijit07x/claude-db"
-  },
-  {
-    "description": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your cl",
-    "id": "Orchestra-Research/AI-Research-SKILLs",
-    "language": "TeX",
-    "name": "Orchestra-Research/AI-Research-SKILLs",
-    "stars": 13430,
-    "updated_at": "2026-10-11T02:56:34Z",
-    "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-10-11T02:53:35Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "A\u80a1\u6570\u636e\u5206\u6790\u3001\u91cf\u5316\u9009\u80a1\u4e0e\u6a21\u62df\u4ea4\u6613 Skill \u96c6\u5408\uff0c\u652f\u6301\u5b9e\u65f6\u884c\u60c5\u3001\u5386\u53f2K\u7ebf\u3001\u6280\u672f\u6307\u6807\u3001\u81ea\u5b9a\u4e49\u4ea4\u6613\u7b56\u7565\u4e0e\u6a21\u62df\u4e70\u5165\u3001\u5356\u51fa\u4ea4\u6613\u8d26\u6237",
-    "id": "shouldnotappearcalm/a-share-skill",
-    "language": "Python",
-    "name": "shouldnotappearcalm/a-share-skill",
-    "stars": 243,
-    "updated_at": "2026-10-11T02:51:59Z",
-    "url": "https://github.com/shouldnotappearcalm/a-share-skill"
-  },
-  {
-    "description": "Claude Code skills for academic research support: paper review, bibliography verification, literature surveying, head-to",
-    "id": "chgagne/claude-skills-research",
-    "language": "Python",
-    "name": "chgagne/claude-skills-research",
-    "stars": 5,
-    "updated_at": "2026-10-11T02:47:09Z",
-    "url": "https://github.com/chgagne/claude-skills-research"
   }
 ]
