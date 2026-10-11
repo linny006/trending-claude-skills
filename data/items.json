@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udde0 Enhance AI agents with a collection of skills for improved coding assistance, enabling efficient and production-ready ",
+    "id": "Makiya1202/awesome-codex-computer-use",
+    "language": "\u2014",
+    "name": "Makiya1202/awesome-codex-computer-use",
+    "stars": 2,
+    "updated_at": "2026-10-11T03:58:50Z",
+    "url": "https://github.com/Makiya1202/awesome-codex-computer-use"
+  },
+  {
+    "description": "Portable, vendor-neutral engineering agent skills (SKILL.md) for AI coding agents: architecture, OWASP security, test st",
+    "id": "techfleetworks/enterprise-software-AI-skills",
+    "language": "JavaScript",
+    "name": "techfleetworks/enterprise-software-AI-skills",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:55:22Z",
+    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69944,
+    "updated_at": "2026-10-11T03:51:56Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 433,
+    "updated_at": "2026-10-11T03:50:33Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "AI Agent Skills",
+    "id": "zydo/skills",
+    "language": "Python",
+    "name": "zydo/skills",
+    "stars": 1,
+    "updated_at": "2026-10-11T03:45:22Z",
+    "url": "https://github.com/zydo/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 125,
+    "updated_at": "2026-10-11T03:45:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Discover the essential unofficial collection of Claude Code and Claude API resources\u2014docs, tools, and courses in one cur",
+    "id": "MaickCrack/awesome-claude-code-api",
+    "language": "\u2014",
+    "name": "MaickCrack/awesome-claude-code-api",
+    "stars": 0,
+    "updated_at": "2026-10-11T03:44:30Z",
+    "url": "https://github.com/MaickCrack/awesome-claude-code-api"
+  },
+  {
     "description": "Claude Code plugin that fits the model, effort, and context to each task \u2014 fewer tokens, same quality. Deterministic pol",
     "id": "deepaksinghcs14/deadeye-cc",
     "language": "Go",
@@ -45,15 +108,6 @@
     "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
   },
   {
-    "description": "AI Agent Skills",
-    "id": "zydo/skills",
-    "language": "Python",
-    "name": "zydo/skills",
-    "stars": 1,
-    "updated_at": "2026-10-11T03:35:14Z",
-    "url": "https://github.com/zydo/skills"
-  },
-  {
     "description": "Agent skill and Claude Code plugin that writes openCanviz explainer video projects as JSON",
     "id": "opencanviz/opencanviz-skills-repo",
     "language": "Python",
@@ -63,15 +117,6 @@
     "url": "https://github.com/opencanviz/opencanviz-skills-repo"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 125,
-    "updated_at": "2026-10-11T03:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Free skill for Claude Code, Codex and Cursor: turn a document into a Claude Motion-style animated video, rendered locall",
     "id": "dll-create/claude-motion-starter",
     "language": "HTML",
@@ -79,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-11T03:29:16Z",
     "url": "https://github.com/dll-create/claude-motion-starter"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 433,
-    "updated_at": "2026-10-11T03:28:33Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69943,
-    "updated_at": "2026-10-11T03:42:17Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Help AI write clearly and get to the point. A plugin and skill for Claude Code and Codex.",
@@ -151,15 +178,6 @@
     "stars": 8,
     "updated_at": "2026-10-11T03:15:11Z",
     "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "Portable, vendor-neutral engineering agent skills (SKILL.md) for AI coding agents: architecture, OWASP security, test st",
-    "id": "techfleetworks/enterprise-software-AI-skills",
-    "language": "JavaScript",
-    "name": "techfleetworks/enterprise-software-AI-skills",
-    "stars": 0,
-    "updated_at": "2026-10-11T03:10:30Z",
-    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
   },
   {
     "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
@@ -220,7 +238,7 @@
     "id": "Orchestra-Research/AI-Research-SKILLs",
     "language": "TeX",
     "name": "Orchestra-Research/AI-Research-SKILLs",
-    "stars": 13429,
+    "stars": 13430,
     "updated_at": "2026-10-11T02:56:34Z",
     "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs"
   },
@@ -248,7 +266,7 @@
     "language": "JavaScript",
     "name": "mtangoz/grill",
     "stars": 1,
-    "updated_at": "2026-10-11T02:47:24Z",
+    "updated_at": "2026-10-11T03:56:49Z",
     "url": "https://github.com/mtangoz/grill"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-11T02:37:48Z",
     "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:37:07Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-10-11T02:37:05Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
   }
 ]
