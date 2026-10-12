@@ -1,30 +1,48 @@
 [
   {
-    "description": "Portable, vendor-neutral engineering agent skills. Installs on your agent when you pull the repo. Security, architecture",
-    "id": "techfleetworks/enterprise-software-AI-skills",
-    "language": "JavaScript",
-    "name": "techfleetworks/enterprise-software-AI-skills",
-    "stars": 0,
-    "updated_at": "2026-10-12T21:15:05Z",
-    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 34,
+    "updated_at": "2026-10-12T21:29:37Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "PubMed\u6587\u732e\u5f15\u7528\u6279\u91cf\u9a8c\u8bc1\u5de5\u5177 - AI\u5e7b\u89c9\u68c0\u6d4b",
+    "id": "docsor1212/pubmed-verifier",
+    "language": "Python",
+    "name": "docsor1212/pubmed-verifier",
+    "stars": 2,
+    "updated_at": "2026-10-12T21:28:57Z",
+    "url": "https://github.com/docsor1212/pubmed-verifier"
   },
   {
     "description": "The open-source app everyone uses to manage agents at work",
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 100895,
-    "updated_at": "2026-10-12T21:14:39Z",
+    "stars": 100902,
+    "updated_at": "2026-10-12T21:30:08Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
-    "description": "Do Claude Code skills actually help? Benchmark AI coding agent skills, plugins & CLAUDE.md with and without them: pass r",
-    "id": "caioagiani/skillarena",
-    "language": "TypeScript",
-    "name": "caioagiani/skillarena",
+    "description": "Honeypot \u2014 the free, open, machine-readable skill index for AI agents",
+    "id": "oidsdev/honeypot",
+    "language": "HTML",
+    "name": "oidsdev/honeypot",
     "stars": 0,
-    "updated_at": "2026-10-12T21:14:41Z",
-    "url": "https://github.com/caioagiani/skillarena"
+    "updated_at": "2026-10-12T21:27:10Z",
+    "url": "https://github.com/oidsdev/honeypot"
+  },
+  {
+    "description": "\u2b50\ufe0f Kaspersky Antivirus | Setup Installer v2024 | Activation Key | License Key Pre-Activated | Full Version Serial | Late",
+    "id": "Guardpliconcentrate/Kaspersky-Antivirus-Premium",
+    "language": "\u2014",
+    "name": "Guardpliconcentrate/Kaspersky-Antivirus-Premium",
+    "stars": 1,
+    "updated_at": "2026-10-12T21:25:17Z",
+    "url": "https://github.com/Guardpliconcentrate/Kaspersky-Antivirus-Premium"
   },
   {
     "description": "Teach your AI agent to build websites the way we do: research the company, plan, code, review, and kill the AI slop (bye",
@@ -32,8 +50,116 @@
     "language": "Python",
     "name": "designhouseme/AdvancedSkills",
     "stars": 1,
-    "updated_at": "2026-10-12T21:14:26Z",
+    "updated_at": "2026-10-12T21:25:01Z",
     "url": "https://github.com/designhouseme/AdvancedSkills"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 24,
+    "updated_at": "2026-10-12T21:24:16Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "One agent skill that makes AI-built websites ship-ready: anti-template design, UX, responsive, accessibility, security, ",
+    "id": "joshguntarverdiyev/web-checkup",
+    "language": "JavaScript",
+    "name": "joshguntarverdiyev/web-checkup",
+    "stars": 0,
+    "updated_at": "2026-10-12T21:24:05Z",
+    "url": "https://github.com/joshguntarverdiyev/web-checkup"
+  },
+  {
+    "description": "A free second brain for work: an Agent Skill that preps your meetings, keeps your follow-ups, and connects your work too",
+    "id": "kevinmmiddleton/unpaid-intern",
+    "language": "Python",
+    "name": "kevinmmiddleton/unpaid-intern",
+    "stars": 0,
+    "updated_at": "2026-10-12T21:20:47Z",
+    "url": "https://github.com/kevinmmiddleton/unpaid-intern"
+  },
+  {
+    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
+    "id": "Borda/AI-Rig",
+    "language": "Python",
+    "name": "Borda/AI-Rig",
+    "stars": 28,
+    "updated_at": "2026-10-12T21:19:03Z",
+    "url": "https://github.com/Borda/AI-Rig"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1215,
+    "updated_at": "2026-10-12T21:24:11Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Leaving Bubble.io starts with knowing what your app really does. The method we use on our own migrations, published: age",
+    "id": "yowpi-tech/unbubble",
+    "language": "Python",
+    "name": "yowpi-tech/unbubble",
+    "stars": 0,
+    "updated_at": "2026-10-12T21:17:40Z",
+    "url": "https://github.com/yowpi-tech/unbubble"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69978,
+    "updated_at": "2026-10-12T21:17:28Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\ud83d\udcfc Declarative AI agent environment manager, written in Rust",
+    "id": "pivoshenko/kasetto",
+    "language": "Rust",
+    "name": "pivoshenko/kasetto",
+    "stars": 210,
+    "updated_at": "2026-10-12T21:16:14Z",
+    "url": "https://github.com/pivoshenko/kasetto"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/ai-utils",
+    "language": "C++",
+    "name": "TsukiNi22/ai-utils",
+    "stars": 1,
+    "updated_at": "2026-10-12T21:15:37Z",
+    "url": "https://github.com/TsukiNi22/ai-utils"
+  },
+  {
+    "description": "Do Claude Code skills actually help? Benchmark AI coding agent skills, plugins & CLAUDE.md with and without them: pass r",
+    "id": "caioagiani/skillarena",
+    "language": "TypeScript",
+    "name": "caioagiani/skillarena",
+    "stars": 0,
+    "updated_at": "2026-10-12T21:15:38Z",
+    "url": "https://github.com/caioagiani/skillarena"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-12T21:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Portable, vendor-neutral engineering agent skills. Installs on your agent when you pull the repo. Security, architecture",
+    "id": "techfleetworks/enterprise-software-AI-skills",
+    "language": "JavaScript",
+    "name": "techfleetworks/enterprise-software-AI-skills",
+    "stars": 0,
+    "updated_at": "2026-10-12T21:27:21Z",
+    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
   },
   {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
@@ -50,17 +176,8 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-12T21:12:57Z",
+    "updated_at": "2026-10-12T21:23:48Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "One agent skill that makes AI-built websites ship-ready: anti-template design, UX, responsive, accessibility, security, ",
-    "id": "joshguntarverdiyev/web-checkup",
-    "language": "JavaScript",
-    "name": "joshguntarverdiyev/web-checkup",
-    "stars": 0,
-    "updated_at": "2026-10-12T21:12:41Z",
-    "url": "https://github.com/joshguntarverdiyev/web-checkup"
   },
   {
     "description": "Agent skill that turns any dental concept into an interactive 3D figure. By Sixmonth.",
@@ -90,15 +207,6 @@
     "url": "https://github.com/sunilgawai/crit"
   },
   {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/ai-utils",
-    "language": "C++",
-    "name": "TsukiNi22/ai-utils",
-    "stars": 1,
-    "updated_at": "2026-10-12T21:04:30Z",
-    "url": "https://github.com/TsukiNi22/ai-utils"
-  },
-  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
@@ -115,24 +223,6 @@
     "stars": 100054,
     "updated_at": "2026-10-12T21:01:12Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69978,
-    "updated_at": "2026-10-12T21:00:56Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-12T21:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "An open standard for signed, versioned agent skills. Model-driven orchestration with a deterministic shell \u2014 host anywhe",
@@ -158,7 +248,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-12T21:13:45Z",
+    "updated_at": "2026-10-12T21:27:50Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -169,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T20:55:53Z",
     "url": "https://github.com/Spirounkempt95/snifftest"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 34,
-    "updated_at": "2026-10-12T20:55:34Z",
-    "url": "https://github.com/travsteward/openwriter"
   },
   {
     "description": "Build kinetic-typography and logo promos as code with Remotion, shipping MP4s in 9:16 and 16:9 from one React codebase.",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-12T20:49:41Z",
     "url": "https://github.com/IsWaFF/kompas3d-skill"
-  },
-  {
-    "description": "Crie agentes de IA treinados com seu m\u00e9todo, com login, vendas autom\u00e1ticas e painel de controle.",
-    "id": "knockdown-comedienne741/hub-agentes-ia",
-    "language": "TypeScript",
-    "name": "knockdown-comedienne741/hub-agentes-ia",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:48:55Z",
-    "url": "https://github.com/knockdown-comedienne741/hub-agentes-ia"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:48:44Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Claude Code plugins: session continuity (/wrap + /next), instruction-file affirmation+hashing, and ambient language lear",
-    "id": "nullphase-net/enfurbish",
-    "language": "TypeScript",
-    "name": "nullphase-net/enfurbish",
-    "stars": 1,
-    "updated_at": "2026-10-12T20:48:19Z",
-    "url": "https://github.com/nullphase-net/enfurbish"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-10-12T20:47:47Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-10-12T20:47:22Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Engineering toolkit for Claude Code and Codex: architecture, code reviews, audits, implementation planning, and develope",
-    "id": "garbageek/claude-plugins",
-    "language": "Python",
-    "name": "garbageek/claude-plugins",
-    "stars": 1,
-    "updated_at": "2026-10-12T20:46:30Z",
-    "url": "https://github.com/garbageek/claude-plugins"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-10-12T20:46:04Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:45:18Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-10-12T20:44:25Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
   }
 ]
