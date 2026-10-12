@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 3,
+    "updated_at": "2026-10-12T03:57:00Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "\u84b8\u998f\u5de5\u5382\uff1a\u628a\u4e66\u7c4d/\u957f\u89c6\u9891/\u64ad\u5ba2/\u8bbf\u8c08/\u4eba\u7269\u7d20\u6750\u84b8\u998f\u6210\u53ef\u6267\u884c\u3001\u53ef\u9a8c\u8bc1\u3001\u53ef\u8ffd\u6eaf\u7684 Agent Skills\u3002contract-first + FIDELITY \u53cc Agent \u51fa\u5382\u8d28\u68c0\u3002",
+    "id": "yihexiang/rulai-distill",
+    "language": "Python",
+    "name": "yihexiang/rulai-distill",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:56:29Z",
+    "url": "https://github.com/yihexiang/rulai-distill"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-10-12T03:56:17Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Agent skill for Plazmi, a homemaking world for AI agents. Mirrored by resident Cairn; canonical copy at https://plazmi.g",
+    "id": "cairn-agent/plazmi-skill",
+    "language": "\u2014",
+    "name": "cairn-agent/plazmi-skill",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:56:16Z",
+    "url": "https://github.com/cairn-agent/plazmi-skill"
+  },
+  {
+    "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
+    "id": "walkwithedi/evergreen-wiki",
+    "language": "Python",
+    "name": "walkwithedi/evergreen-wiki",
+    "stars": 1,
+    "updated_at": "2026-10-12T03:53:13Z",
+    "url": "https://github.com/walkwithedi/evergreen-wiki"
+  },
+  {
+    "description": "Free Claude skill: five Claudes roast your LinkedIn profile, then fix it",
+    "id": "alexyc9381/linkedin-roast-skill",
+    "language": "Python",
+    "name": "alexyc9381/linkedin-roast-skill",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:51:44Z",
+    "url": "https://github.com/alexyc9381/linkedin-roast-skill"
+  },
+  {
+    "description": "Portable, vendor-neutral engineering agent skills. Installs on your agent when you pull the repo. Security, architecture",
+    "id": "techfleetworks/enterprise-software-AI-skills",
+    "language": "JavaScript",
+    "name": "techfleetworks/enterprise-software-AI-skills",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:48:03Z",
+    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-12T03:47:30Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-12T03:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free kit for AI coding agent users: end sessions with a structured handoff (skill + context hygiene checklist + template",
     "id": "alapha888/session-handoff-kit",
     "language": "\u2014",
@@ -68,17 +149,8 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-12T03:43:43Z",
+    "updated_at": "2026-10-12T03:53:42Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
-    "id": "walkwithedi/evergreen-wiki",
-    "language": "Python",
-    "name": "walkwithedi/evergreen-wiki",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:42:22Z",
-    "url": "https://github.com/walkwithedi/evergreen-wiki"
   },
   {
     "description": "Explain any idea the way a museum explains a specimen. A Claude Code skill for live, engraved isometric explainers.",
@@ -88,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-10-12T03:42:03Z",
     "url": "https://github.com/Ramakm/folio-anatomy"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69968,
+    "updated_at": "2026-10-12T03:59:05Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -162,15 +243,6 @@
     "url": "https://github.com/One7410/humanizer-novel"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-12T03:30:19Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code \u00b7 Codex \ud55c\uae00 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ud50c\ub7ec\uadf8\uc778 \u2014 \uc544\uc774\ub514\uc5b4 \u2192 PRD \u2192 \uc124\uacc4 \u2192 \ud0dc\uc2a4\ud06c \u2192 \uac80\uc99d \ud558\ub124\uc2a4 \u2192 \uc790\uc728 \uac1c\ubc1c \ub8e8\ud504 / Korean agent skills: idea to autonomou",
     "id": "GangJaeYu/harness_loop_full_korean",
     "language": "\u2014",
@@ -234,6 +306,15 @@
     "url": "https://github.com/hakgeumkim/text-reminder-skill"
   },
   {
+    "description": " Agent skill + CLI for PageWell: write a designed document or a runnable single-page artifact with your AI agent, then p",
+    "id": "pagewellai/pagewell",
+    "language": "Shell",
+    "name": "pagewellai/pagewell",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:24:22Z",
+    "url": "https://github.com/pagewellai/pagewell"
+  },
+  {
     "description": "\u9762\u5411 AI Agent \u7684\u5fae\u4fe1\u516c\u4f17\u53f7\u521b\u4f5c\u4e0e\u53d1\u5e03 CLI\uff1aMarkdown \u6392\u7248\u3001AI \u914d\u56fe\u3001\u9884\u89c8\u4e0e\u8349\u7a3f\u521b\u5efa\uff1b\u652f\u6301\u7531\u6d4f\u89c8\u5668 Agent \u4fdd\u5b58\u77e5\u4e4e\u3001CSDN\u3001\u5934\u6761\u672a\u53d1\u5e03\u8349\u7a3f\u3002",
     "id": "geekjourneyx/md2wechat-skill",
     "language": "Go",
@@ -243,15 +324,6 @@
     "url": "https://github.com/geekjourneyx/md2wechat-skill"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69967,
-    "updated_at": "2026-10-12T03:41:55Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\ud83e\udde0 \ud83c\udfc6 ",
     "id": "jairamshegde/active-learning-skills",
     "language": "\u2014",
@@ -259,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T03:17:54Z",
     "url": "https://github.com/jairamshegde/active-learning-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-12T03:25:16Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
@@ -293,7 +356,7 @@
     "language": "TypeScript",
     "name": "openqodex/openqodex",
     "stars": 608,
-    "updated_at": "2026-10-12T03:15:54Z",
+    "updated_at": "2026-10-12T03:58:05Z",
     "url": "https://github.com/openqodex/openqodex"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-12T03:11:21Z",
     "url": "https://github.com/Unstable-ascendingartery75/ai-session-search"
-  },
-  {
-    "description": "Detect AI-written text with 33 checks, right in your terminal. Offline, no API key, no dependencies.",
-    "id": "Arindaag760/humanizer-cli",
-    "language": "JavaScript",
-    "name": "Arindaag760/humanizer-cli",
-    "stars": 2,
-    "updated_at": "2026-10-12T03:11:04Z",
-    "url": "https://github.com/Arindaag760/humanizer-cli"
-  },
-  {
-    "description": "Say the same thing to a different audience without the claim moving. A Claude Code skill: sense-for-sense restatement wi",
-    "id": "Pr1m4lc0d3/paraphrasis",
-    "language": "Python",
-    "name": "Pr1m4lc0d3/paraphrasis",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:10:13Z",
-    "url": "https://github.com/Pr1m4lc0d3/paraphrasis"
-  },
-  {
-    "description": "Discover and install plugins for Claude Code through a release-oriented marketplace.",
-    "id": "maurieunoccupied182/biks-claude-tools-loader",
-    "language": "\u2014",
-    "name": "maurieunoccupied182/biks-claude-tools-loader",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:10:13Z",
-    "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
-  },
-  {
-    "description": "Adjectives are how slop is made, not how it is cured. A Claude Code skill for image and animation prompts: name the subj",
-    "id": "Pr1m4lc0d3/ekphrasis",
-    "language": "\u2014",
-    "name": "Pr1m4lc0d3/ekphrasis",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:10:11Z",
-    "url": "https://github.com/Pr1m4lc0d3/ekphrasis"
-  },
-  {
-    "description": "Turn a product's contradictions into its positioning. A Claude Code skill \u2014 every other thinking framework dissolves a c",
-    "id": "Pr1m4lc0d3/janus",
-    "language": "Python",
-    "name": "Pr1m4lc0d3/janus",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:10:09Z",
-    "url": "https://github.com/Pr1m4lc0d3/janus"
-  },
-  {
-    "description": "Read audio you cannot hear. A Claude Code skill that turns music and narrated video into measurement a model can act on ",
-    "id": "Pr1m4lc0d3/metaphrasis",
-    "language": "Python",
-    "name": "Pr1m4lc0d3/metaphrasis",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:10:07Z",
-    "url": "https://github.com/Pr1m4lc0d3/metaphrasis"
-  },
-  {
-    "description": "KiSYSTEM - measure twice, cut once. A Claude Code skill bundle that keeps AI-written code clean, modular, and human-read",
-    "id": "Pr1m4lc0d3/KiSYSTEM",
-    "language": "Python",
-    "name": "Pr1m4lc0d3/KiSYSTEM",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:10:05Z",
-    "url": "https://github.com/Pr1m4lc0d3/KiSYSTEM"
   }
 ]
