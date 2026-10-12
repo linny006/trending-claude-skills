@@ -1,5 +1,122 @@
 [
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 100839,
+    "updated_at": "2026-10-12T18:13:32Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 100026,
+    "updated_at": "2026-10-12T18:12:57Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "AI-assisted product development, from fuzzy idea to technical spec \u2014 a Claude Code plugin of guided UX-research prompt f",
+    "id": "clownware/product-dev",
+    "language": "Python",
+    "name": "clownware/product-dev",
+    "stars": 3,
+    "updated_at": "2026-10-12T18:12:08Z",
+    "url": "https://github.com/clownware/product-dev"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 34,
+    "updated_at": "2026-10-12T18:10:24Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-12T18:13:42Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Reduce the context before sending it to the LLM",
+    "id": "nvxtien/context-slice",
+    "language": "TypeScript",
+    "name": "nvxtien/context-slice",
+    "stars": 0,
+    "updated_at": "2026-10-12T18:08:23Z",
+    "url": "https://github.com/nvxtien/context-slice"
+  },
+  {
+    "description": "Lets AI assistants such as Claude, ChatGPT or Cursor connect to Prestashop, with each employee approving what they may d",
+    "id": "novalo-dev/Prestashop-MCP-Server",
+    "language": "PHP",
+    "name": "novalo-dev/Prestashop-MCP-Server",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:07:49Z",
+    "url": "https://github.com/novalo-dev/Prestashop-MCP-Server"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 190,
+    "updated_at": "2026-10-12T18:07:53Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "TypeScript",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:10:33Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 66,
+    "updated_at": "2026-10-12T18:03:43Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Multi-agent folder cleanup skill for shared AI project workspaces. Stops Claude, ChatGPT, Codex, Copilot, Gemini, Grok, ",
+    "id": "JesseRaber/multi-agent-folder-cleanup",
+    "language": "Python",
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:01:59Z",
+    "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
+  },
+  {
+    "description": "Client-side Pok\u00e9mon GO search string generator for trash and trade filters, with a regional map and trade buddy tracking",
+    "id": "JesperDramsch/pogo-filter-workshop",
+    "language": "JavaScript",
+    "name": "JesperDramsch/pogo-filter-workshop",
+    "stars": 1,
+    "updated_at": "2026-10-12T18:01:32Z",
+    "url": "https://github.com/JesperDramsch/pogo-filter-workshop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-12T18:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
@@ -16,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T17:58:16Z",
     "url": "https://github.com/SanyamKhaiwal/decision-check"
-  },
-  {
-    "description": "Lets AI assistants such as Claude, ChatGPT or Cursor connect to Prestashop, with each employee approving what they may d",
-    "id": "novalo-dev/Prestashop-MCP-Server",
-    "language": "PHP",
-    "name": "novalo-dev/Prestashop-MCP-Server",
-    "stars": 1,
-    "updated_at": "2026-10-12T17:58:14Z",
-    "url": "https://github.com/novalo-dev/Prestashop-MCP-Server"
   },
   {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
@@ -54,15 +162,6 @@
     "url": "https://github.com/patrickserrano/lacquer"
   },
   {
-    "description": "AI-assisted product development, from fuzzy idea to technical spec \u2014 a Claude Code plugin of guided UX-research prompt f",
-    "id": "clownware/product-dev",
-    "language": "Python",
-    "name": "clownware/product-dev",
-    "stars": 3,
-    "updated_at": "2026-10-12T17:59:50Z",
-    "url": "https://github.com/clownware/product-dev"
-  },
-  {
     "description": "Agent skill for Claude Code, Codex & Cursor: visualise, explore and compare JSON, NDJSON, CSV and TOON data in Slicelyti",
     "id": "duryno/Slicelytics-public",
     "language": "Python",
@@ -79,24 +178,6 @@
     "stars": 246,
     "updated_at": "2026-10-12T17:56:16Z",
     "url": "https://github.com/FavioVazquez/showtime"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 100023,
-    "updated_at": "2026-10-12T17:55:55Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 100835,
-    "updated_at": "2026-10-12T17:58:55Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "Universal agent skill for creating modern HTML slideshows \u2014 reveal.js, Slidev & Marp router with routing, visual styles,",
@@ -126,15 +207,6 @@
     "url": "https://github.com/nyachisn/ai-directory-submitter"
   },
   {
-    "description": "Reduce the context before sending it to the LLM",
-    "id": "nvxtien/context-slice",
-    "language": "TypeScript",
-    "name": "nvxtien/context-slice",
-    "stars": 0,
-    "updated_at": "2026-10-12T17:49:17Z",
-    "url": "https://github.com/nvxtien/context-slice"
-  },
-  {
     "description": "Claude skills that make things move: animated native PPTX, 1080p60 kinetic-cut videos, and step-by-step animated explain",
     "id": "wmzspace/claude-motion-skills",
     "language": "HTML",
@@ -142,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-10-12T17:45:47Z",
     "url": "https://github.com/wmzspace/claude-motion-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-12T17:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -385,68 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-12T17:22:38Z",
     "url": "https://github.com/VelimirMueller/claude-skills"
-  },
-  {
-    "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each ",
-    "id": "zhuyansen/awesome-claude-video-skills",
-    "language": "\u2014",
-    "name": "zhuyansen/awesome-claude-video-skills",
-    "stars": 564,
-    "updated_at": "2026-10-12T17:22:35Z",
-    "url": "https://github.com/zhuyansen/awesome-claude-video-skills"
-  },
-  {
-    "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
-    "id": "jianshuo/claude-skills",
-    "language": "Python",
-    "name": "jianshuo/claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-12T17:21:34Z",
-    "url": "https://github.com/jianshuo/claude-skills"
-  },
-  {
-    "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
-    "id": "Jsnnmsc/10000x-engineer",
-    "language": "\u2014",
-    "name": "Jsnnmsc/10000x-engineer",
-    "stars": 1,
-    "updated_at": "2026-10-12T17:20:18Z",
-    "url": "https://github.com/Jsnnmsc/10000x-engineer"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 34,
-    "updated_at": "2026-10-12T17:20:02Z",
-    "url": "https://github.com/travsteward/openwriter"
-  },
-  {
-    "description": "Claude Code skill: turn a WhatsApp chat export into a 66-second paper-cut storybook film",
-    "id": "roy-aniccai/chat-storybook",
-    "language": "HTML",
-    "name": "roy-aniccai/chat-storybook",
-    "stars": 0,
-    "updated_at": "2026-10-12T17:18:55Z",
-    "url": "https://github.com/roy-aniccai/chat-storybook"
-  },
-  {
-    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
-    "id": "EricTechPro/super-board",
-    "language": "HTML",
-    "name": "EricTechPro/super-board",
-    "stars": 205,
-    "updated_at": "2026-10-12T17:18:40Z",
-    "url": "https://github.com/EricTechPro/super-board"
-  },
-  {
-    "description": "Frontend design stack for Claude Code: Anthropic frontend-design, Impeccable, UI UX Pro Max, Taste & Emil Kowalski skill",
-    "id": "JaimeJunr/claude-code-frontend-skills",
-    "language": "JavaScript",
-    "name": "JaimeJunr/claude-code-frontend-skills",
-    "stars": 2,
-    "updated_at": "2026-10-12T17:18:32Z",
-    "url": "https://github.com/JaimeJunr/claude-code-frontend-skills"
   }
 ]
