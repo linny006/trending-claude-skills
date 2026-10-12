@@ -1,12 +1,30 @@
 [
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
     "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 100078,
-    "updated_at": "2026-10-12T23:28:53Z",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-12T23:44:52Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-12T23:44:15Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Personal skill vault for Claude Code: skills stay out of context until a task needs them, and every new one goes through",
+    "id": "ivan11111111a-netizen/skill-vault",
+    "language": "Python",
+    "name": "ivan11111111a-netizen/skill-vault",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:44:14Z",
+    "url": "https://github.com/ivan11111111a-netizen/skill-vault"
   },
   {
     "description": "Skills that make your AI coding agent prove its work: PRD \u2192 TDD \u2192 implement \u2192 review \u2192 ship, where exit codes \u2014 not the ",
@@ -14,8 +32,89 @@
     "language": "Shell",
     "name": "kanfu-panda/pdlc-skills",
     "stars": 17,
-    "updated_at": "2026-10-12T23:29:10Z",
+    "updated_at": "2026-10-12T23:43:38Z",
     "url": "https://github.com/kanfu-panda/pdlc-skills"
+  },
+  {
+    "description": "SEO skills for Claude Code and Codex, powered by the HarborRank MCP server",
+    "id": "winsley-jeune/harborrank-skills",
+    "language": "\u2014",
+    "name": "winsley-jeune/harborrank-skills",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:41:01Z",
+    "url": "https://github.com/winsley-jeune/harborrank-skills"
+  },
+  {
+    "description": "A Claude Code skill for talking between AI sessions on the same PC (Claude Code and OpenAI Codex): who answers back, how",
+    "id": "Rurimpa/cross-session-messaging",
+    "language": "\u2014",
+    "name": "Rurimpa/cross-session-messaging",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:39:54Z",
+    "url": "https://github.com/Rurimpa/cross-session-messaging"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 191,
+    "updated_at": "2026-10-12T23:39:31Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 100949,
+    "updated_at": "2026-10-12T23:38:16Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
+    "id": "WYRE-AI/msp-claude-plugins",
+    "language": "Astro",
+    "name": "WYRE-AI/msp-claude-plugins",
+    "stars": 48,
+    "updated_at": "2026-10-12T23:36:54Z",
+    "url": "https://github.com/WYRE-AI/msp-claude-plugins"
+  },
+  {
+    "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
+    "id": "NYTC69/review-loop",
+    "language": "Python",
+    "name": "NYTC69/review-loop",
+    "stars": 3,
+    "updated_at": "2026-10-12T23:34:58Z",
+    "url": "https://github.com/NYTC69/review-loop"
+  },
+  {
+    "description": "An AI-assistant skill that turns a short story (Chinese, English or Korean) into an episodic AI drama: script, storyboar",
+    "id": "azrianobr/dramazing",
+    "language": "JavaScript",
+    "name": "azrianobr/dramazing",
+    "stars": 0,
+    "updated_at": "2026-10-12T23:34:39Z",
+    "url": "https://github.com/azrianobr/dramazing"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 100081,
+    "updated_at": "2026-10-12T23:32:58Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-12T23:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Claude Agent Skill that shows a live progress bar, step timeline and ETA for long-running agent tasks. \u8ba9 Claude \u957f\u4efb\u52a1\u6709\u5b9e\u65f6",
@@ -23,17 +122,8 @@
     "language": "HTML",
     "name": "bhu0345/claude-live-progress-skill",
     "stars": 1,
-    "updated_at": "2026-10-12T23:28:40Z",
+    "updated_at": "2026-10-12T23:30:17Z",
     "url": "https://github.com/bhu0345/claude-live-progress-skill"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 100944,
-    "updated_at": "2026-10-12T23:30:04Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
@@ -54,15 +144,6 @@
     "url": "https://github.com/ralvarezdev/ralvaskills"
   },
   {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 191,
-    "updated_at": "2026-10-12T23:24:23Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -70,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T23:23:20Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
-    "id": "WYRE-AI/msp-claude-plugins",
-    "language": "Astro",
-    "name": "WYRE-AI/msp-claude-plugins",
-    "stars": 48,
-    "updated_at": "2026-10-12T23:23:50Z",
-    "url": "https://github.com/WYRE-AI/msp-claude-plugins"
   },
   {
     "description": "Agent Skills for legal research and legal work: works in Claude, ChatGPT/Codex, Gemini CLI, Copilot, Cursor, and other a",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T23:15:42Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-12T23:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Everything published under your GitHub identity, approved card by card, and the homework before contributing upstream",
@@ -220,7 +283,7 @@
     "id": "juliobsz/skills",
     "language": "TypeScript",
     "name": "juliobsz/skills",
-    "stars": 194,
+    "stars": 196,
     "updated_at": "2026-10-12T23:08:07Z",
     "url": "https://github.com/juliobsz/skills"
   },
@@ -241,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-10-12T23:08:28Z",
     "url": "https://github.com/hraness/oh"
-  },
-  {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-12T23:27:08Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "A standard for CI that stays green for the right reasons",
@@ -301,7 +355,7 @@
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
     "name": "teng-lin/notebooklm-py",
-    "stars": 19707,
+    "stars": 19708,
     "updated_at": "2026-10-12T22:57:48Z",
     "url": "https://github.com/teng-lin/notebooklm-py"
   },
@@ -356,7 +410,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 24,
-    "updated_at": "2026-10-12T22:54:46Z",
+    "updated_at": "2026-10-12T23:41:25Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1859,
     "updated_at": "2026-10-12T22:47:57Z",
     "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
-  },
-  {
-    "description": "My collection of Claude skills",
-    "id": "oaustegard/claude-skills",
-    "language": "Python",
-    "name": "oaustegard/claude-skills",
-    "stars": 151,
-    "updated_at": "2026-10-12T22:47:13Z",
-    "url": "https://github.com/oaustegard/claude-skills"
-  },
-  {
-    "description": "Claude Code, Codex, OpenClaw and Ottili AI Skills - powered by Ottili ONE",
-    "id": "Ottili-ONE/skills",
-    "language": "Python",
-    "name": "Ottili-ONE/skills",
-    "stars": 1,
-    "updated_at": "2026-10-12T22:45:33Z",
-    "url": "https://github.com/Ottili-ONE/skills"
-  },
-  {
-    "description": "Agent skills for mobile core signalling troubleshooting: Diameter, SS7/SIGTRAN and SIP code lookup with spec references,",
-    "id": "alb777/telco-skills",
-    "language": "Python",
-    "name": "alb777/telco-skills",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:44:28Z",
-    "url": "https://github.com/alb777/telco-skills"
-  },
-  {
-    "description": "Chemistry skills for Claude: compound information (PubChem, ChEMBL, RDKit) and native ChemDraw files. Installable as a C",
-    "id": "Lancifonins/chem-skills",
-    "language": "Python",
-    "name": "Lancifonins/chem-skills",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:44:17Z",
-    "url": "https://github.com/Lancifonins/chem-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69978,
-    "updated_at": "2026-10-12T22:43:27Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Achieved by claude itself, this is a Claude Code configuration installer aliased blackcat for multi-agent orchestration.",
-    "id": "pmrjge/blackcat",
-    "language": "Python",
-    "name": "pmrjge/blackcat",
-    "stars": 0,
-    "updated_at": "2026-10-12T22:41:21Z",
-    "url": "https://github.com/pmrjge/blackcat"
   }
 ]
