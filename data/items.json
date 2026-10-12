@@ -1,5 +1,122 @@
 [
   {
+    "description": "\u7ed9 AI \u77ed\u7247\u548c\u7a3f\u5b50\u914d\u56fe\u7528\u7684 Claude skill\uff1a\u89d2\u8272\u8bbe\u5b9a\u677f\uff08\u9501\u5b9a\u89d2\u8272\u957f\u76f8\u7684\u4e09\u89c6\u56fe + \u8868\u60c5\u677f prompt\uff09\u3001\u53e4\u5178\u5f0f\u914d\u56fe\uff08\u7248\u753b\u8d28\u611f + \u5c4f\u5e55\u65f6\u4ee3\u5143\u7d20\u7684 SVG \u89e3\u91ca\u56fe\uff09",
+    "id": "MatsuriMW/aigc-skills-and-agents",
+    "language": "Shell",
+    "name": "MatsuriMW/aigc-skills-and-agents",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:44:39Z",
+    "url": "https://github.com/MatsuriMW/aigc-skills-and-agents"
+  },
+  {
+    "description": "A Lighthouse for your AI agent stack \u2014 measures the real token cost of MCP servers, skills, and rules; flags security is",
+    "id": "princejain756/ctxvitals",
+    "language": "JavaScript",
+    "name": "princejain756/ctxvitals",
+    "stars": 1,
+    "updated_at": "2026-10-12T16:44:03Z",
+    "url": "https://github.com/princejain756/ctxvitals"
+  },
+  {
+    "description": "Claude Code plugin marketplace: 28 company-agnostic skills for planning, building, testing, reviewing and shipping softw",
+    "id": "sravansai04/engineering-skills",
+    "language": "Python",
+    "name": "sravansai04/engineering-skills",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:43:45Z",
+    "url": "https://github.com/sravansai04/engineering-skills"
+  },
+  {
+    "description": "Your engineering taste, in every coding agent. Shadowclone learns your rules and delivers them as skills to Claude Code,",
+    "id": "theonly1me/shadowclone",
+    "language": "TypeScript",
+    "name": "theonly1me/shadowclone",
+    "stars": 9,
+    "updated_at": "2026-10-12T16:42:49Z",
+    "url": "https://github.com/theonly1me/shadowclone"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 17,
+    "updated_at": "2026-10-12T16:42:46Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 34,
+    "updated_at": "2026-10-12T16:40:45Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 100802,
+    "updated_at": "2026-10-12T16:42:39Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
+    "id": "JakeSelby/model-citizen",
+    "language": "Python",
+    "name": "JakeSelby/model-citizen",
+    "stars": 24,
+    "updated_at": "2026-10-12T16:38:58Z",
+    "url": "https://github.com/JakeSelby/model-citizen"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 8,
+    "updated_at": "2026-10-12T16:38:29Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "Claude skills that make things move: animated native PPTX, 1080p60 kinetic-cut videos, and step-by-step animated explain",
+    "id": "wmzspace/claude-motion-skills",
+    "language": "HTML",
+    "name": "wmzspace/claude-motion-skills",
+    "stars": 2,
+    "updated_at": "2026-10-12T16:33:54Z",
+    "url": "https://github.com/wmzspace/claude-motion-skills"
+  },
+  {
+    "description": "An Agent Skill for building SillyTavern character cards: MVU variables, status bars, regex scripts, opening forms. \u9152\u9986\u89d2\u8272\u5361",
+    "id": "Pra-Moon/sillytavern-card-maker",
+    "language": "Python",
+    "name": "Pra-Moon/sillytavern-card-maker",
+    "stars": 2,
+    "updated_at": "2026-10-12T16:30:48Z",
+    "url": "https://github.com/Pra-Moon/sillytavern-card-maker"
+  },
+  {
+    "description": "Claude plugin for ShopSavvy: shopping research, price comparison and price history across 30M+ products, plus Data API s",
+    "id": "shopsavvy/shopsavvy-claude-plugin",
+    "language": "TypeScript",
+    "name": "shopsavvy/shopsavvy-claude-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:30:46Z",
+    "url": "https://github.com/shopsavvy/shopsavvy-claude-plugin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-12T16:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your ow",
     "id": "openqodex/openqodex",
     "language": "TypeScript",
@@ -23,7 +140,7 @@
     "language": "Rust",
     "name": "chocodev11/see-the-arrow",
     "stars": 0,
-    "updated_at": "2026-10-12T16:26:51Z",
+    "updated_at": "2026-10-12T16:32:32Z",
     "url": "https://github.com/chocodev11/see-the-arrow"
   },
   {
@@ -36,15 +153,6 @@
     "url": "https://github.com/victorrentea/human-review"
   },
   {
-    "description": "File an issue in one sentence \u2014 \u4e00\u53e5\u8bdd\u63d0 GitHub issue. Evidence, privacy scan, gh.",
-    "id": "qjzzsky/one-sentence-issue",
-    "language": "Shell",
-    "name": "qjzzsky/one-sentence-issue",
-    "stars": 0,
-    "updated_at": "2026-10-12T16:22:03Z",
-    "url": "https://github.com/qjzzsky/one-sentence-issue"
-  },
-  {
     "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
     "id": "walkwithedi/evergreen-wiki",
     "language": "Python",
@@ -54,15 +162,6 @@
     "url": "https://github.com/walkwithedi/evergreen-wiki"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 100794,
-    "updated_at": "2026-10-12T16:27:38Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -70,6 +169,15 @@
     "stars": 1,
     "updated_at": "2026-10-12T16:20:29Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Honeypot \u2014 the free, open, machine-readable skill index for AI agents",
+    "id": "oidsdev/honeypot",
+    "language": "HTML",
+    "name": "oidsdev/honeypot",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:19:56Z",
+    "url": "https://github.com/oidsdev/honeypot"
   },
   {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
@@ -86,7 +194,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69973,
-    "updated_at": "2026-10-12T16:25:27Z",
+    "updated_at": "2026-10-12T16:45:11Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -108,15 +216,6 @@
     "url": "https://github.com/jgoneit/jaekit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-12T16:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI job application agent for Claude Code: grill-style onboarding, one tailored ATS-friendly CV per posting, auto-apply t",
     "id": "Ryuketsukami/auto-job-hunt-skill",
     "language": "Python",
@@ -131,7 +230,7 @@
     "language": "Swift",
     "name": "mmurakaru/skillbox",
     "stars": 2,
-    "updated_at": "2026-10-12T16:30:03Z",
+    "updated_at": "2026-10-12T16:38:43Z",
     "url": "https://github.com/mmurakaru/skillbox"
   },
   {
@@ -167,7 +266,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-12T16:30:09Z",
+    "updated_at": "2026-10-12T16:36:54Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -230,7 +329,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-12T16:26:47Z",
+    "updated_at": "2026-10-12T16:41:38Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -241,24 +340,6 @@
     "stars": 137,
     "updated_at": "2026-10-12T16:03:00Z",
     "url": "https://github.com/playcanvas/editor-mcp-server"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 17,
-    "updated_at": "2026-10-12T16:02:37Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 34,
-    "updated_at": "2026-10-12T16:02:04Z",
-    "url": "https://github.com/travsteward/openwriter"
   },
   {
     "description": "",
@@ -365,88 +446,7 @@
     "language": "TypeScript",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-12T16:28:30Z",
+    "updated_at": "2026-10-12T16:41:55Z",
     "url": "https://github.com/knitli/toolshed"
-  },
-  {
-    "description": "BoxLang AI skills repository and Claude Plugin",
-    "id": "ortus-boxlang/skills",
-    "language": "\u2014",
-    "name": "ortus-boxlang/skills",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:51:19Z",
-    "url": "https://github.com/ortus-boxlang/skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-12T15:50:16Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
-    "id": "soulmachine/skills",
-    "language": "Shell",
-    "name": "soulmachine/skills",
-    "stars": 3,
-    "updated_at": "2026-10-12T15:47:29Z",
-    "url": "https://github.com/soulmachine/skills"
-  },
-  {
-    "description": "Claude plugin for ShopSavvy: shopping research, price comparison and price history across 30M+ products, plus Data API s",
-    "id": "shopsavvy/shopsavvy-claude-plugin",
-    "language": "TypeScript",
-    "name": "shopsavvy/shopsavvy-claude-plugin",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:47:03Z",
-    "url": "https://github.com/shopsavvy/shopsavvy-claude-plugin"
-  },
-  {
-    "description": "The control plane for your coding agents, however you run them. One checkout of rules, skills, subagents, hooks and stan",
-    "id": "JakeSelby/model-citizen",
-    "language": "Python",
-    "name": "JakeSelby/model-citizen",
-    "stars": 24,
-    "updated_at": "2026-10-12T16:27:56Z",
-    "url": "https://github.com/JakeSelby/model-citizen"
-  },
-  {
-    "description": "Agent skills that explain codebases and designs with real diagrams: 90 diagram types, hand-drawn or clean SVG, self-chec",
-    "id": "yashs33244/explorer",
-    "language": "JavaScript",
-    "name": "yashs33244/explorer",
-    "stars": 1,
-    "updated_at": "2026-10-12T15:45:03Z",
-    "url": "https://github.com/yashs33244/explorer"
-  },
-  {
-    "description": "Skills for Claude Code that carry a house style for Java projects",
-    "id": "dmitriy-iliyov/java-agent-skills",
-    "language": "\u2014",
-    "name": "dmitriy-iliyov/java-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:44:28Z",
-    "url": "https://github.com/dmitriy-iliyov/java-agent-skills"
-  },
-  {
-    "description": "A bot that tunes up your other agents, with a built-in skill index. Ask for the job in plain English. The bot picks up o",
-    "id": "Viaknox/tune-up",
-    "language": "JavaScript",
-    "name": "Viaknox/tune-up",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:49:00Z",
-    "url": "https://github.com/Viaknox/tune-up"
-  },
-  {
-    "description": "Get early, discovery-grade feedback on an MVP, mockup or policy draft from a simulated focus group: AI personas each run",
-    "id": "laymom/synthetic-focus-group",
-    "language": "\u2014",
-    "name": "laymom/synthetic-focus-group",
-    "stars": 1,
-    "updated_at": "2026-10-12T15:42:17Z",
-    "url": "https://github.com/laymom/synthetic-focus-group"
   }
 ]
