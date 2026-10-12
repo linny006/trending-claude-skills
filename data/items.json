@@ -1,12 +1,66 @@
 [
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 99803,
+    "updated_at": "2026-10-12T05:27:24Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "\u79d1\u6280\u884c\u4e1a\u9762\u8bd5 Skill\uff1a\u8bc4\u5206\u5fc5\u987b\u5f15\u7528\u4f60\u7684\u539f\u8bdd\uff0c\u8f93\u51fa\u5168\u8d70\u673a\u5668\u9a8c\u6536",
+    "id": "TAO-LIUJIANG/tech-interview-skill",
+    "language": "\u2014",
+    "name": "TAO-LIUJIANG/tech-interview-skill",
+    "stars": 0,
+    "updated_at": "2026-10-12T05:24:53Z",
+    "url": "https://github.com/TAO-LIUJIANG/tech-interview-skill"
+  },
+  {
+    "description": "Design minimal AI agent packs for Codex and Claude from project descriptions.",
+    "id": "ikonushok/agent-pack-designer",
+    "language": "Python",
+    "name": "ikonushok/agent-pack-designer",
+    "stars": 11,
+    "updated_at": "2026-10-12T05:23:57Z",
+    "url": "https://github.com/ikonushok/agent-pack-designer"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 8,
+    "updated_at": "2026-10-12T05:21:47Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
     "description": "AI for Science research, scientific agents, software use, remote experiments, and reusable research & industry catalogs.",
     "id": "ppchanning/ai4science-observatory",
     "language": "JavaScript",
     "name": "ppchanning/ai4science-observatory",
     "stars": 0,
-    "updated_at": "2026-10-12T05:14:59Z",
+    "updated_at": "2026-10-12T05:20:40Z",
     "url": "https://github.com/ppchanning/ai4science-observatory"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 67,
+    "updated_at": "2026-10-12T05:19:37Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-12T05:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A type system for vibes. Claude Code skill that makes every AI image obey one STYLE.md.",
@@ -40,7 +94,7 @@
     "id": "Tsukumi233/novelai-skills",
     "language": "Python",
     "name": "Tsukumi233/novelai-skills",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-12T05:12:43Z",
     "url": "https://github.com/Tsukumi233/novelai-skills"
   },
@@ -63,13 +117,13 @@
     "url": "https://github.com/nzl153/paint-video-skill"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 99802,
-    "updated_at": "2026-10-12T05:10:08Z",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "description": "Run gutcheck locally on your NPU or GPU for fast, calibrated decisions, and lease AI skills on demand to keep agents lea",
+    "id": "gijndgiuer/gutcheck",
+    "language": "Python",
+    "name": "gijndgiuer/gutcheck",
+    "stars": 1,
+    "updated_at": "2026-10-12T05:11:54Z",
+    "url": "https://github.com/gijndgiuer/gutcheck"
   },
   {
     "description": "Collection of my personal claude skills",
@@ -166,7 +220,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 2928,
+    "stars": 2929,
     "updated_at": "2026-10-12T05:02:39Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -234,15 +288,6 @@
     "url": "https://github.com/maurieunoccupied182/biks-claude-tools-loader"
   },
   {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 8,
-    "updated_at": "2026-10-12T05:00:56Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
     "description": "Format text outputs into ADHD-friendly styles to improve focus and readability for any user.",
     "id": "Scoundrelwildness456/i-have-adhd",
     "language": "Python",
@@ -250,15 +295,6 @@
     "stars": 5,
     "updated_at": "2026-10-12T05:00:40Z",
     "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-12T05:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
@@ -356,7 +392,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 69969,
-    "updated_at": "2026-10-12T05:12:09Z",
+    "updated_at": "2026-10-12T05:23:07Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -364,7 +400,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 82172,
+    "stars": 82176,
     "updated_at": "2026-10-12T04:54:47Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-12T04:53:58Z",
     "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-10-12T04:53:54Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-10-12T04:53:52Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-12T04:53:49Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-10-12T04:53:48Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
   }
 ]
