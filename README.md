@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-12 08:45 UTC
+> ⏰ Last updated: 2026-10-12 08:48 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [anbeime/skill](https://github.com/anbeime/skill) | 7878 | Python | 2026-10-12 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The mo |
-| 2 | [RajdeepDas43/resume-jd-tuner](https://github.com/RajdeepDas43/resume-jd-tuner) | 0 | Python | 2026-10-12 | A Claude skill that tailors your résumé to one job posting without inventing anything, and tells you how well you fit. |
-| 3 | [titanwings/distilly](https://github.com/titanwings/distilly) | 25508 | Python | 2026-10-12 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
-| 4 | [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | 17 | Python | 2026-10-12 | Self-hosted agentic OS — a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats |
-| 5 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-10-12 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
-| 6 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 37 | — | 2026-10-12 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
-| 7 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 2954 | JavaScript | 2026-10-12 | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent  |
-| 8 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 2 | HTML | 2026-10-12 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69973 | TypeScript | 2026-10-12 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 10 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 0 | HTML | 2026-10-12 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
-| 11 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-10-12 | Deterministic multi-CLI orchestration and AI agentic workflow utility. |
-| 12 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 1 | HTML | 2026-10-12 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
-| 13 | [LuCheremisina/marketing-skills](https://github.com/LuCheremisina/marketing-skills) | 1 | Python | 2026-10-12 | AI marketing skills for research, SEO/GEO, Yandex advertising analytics and expert content. 27 marketing workflows + 14  |
-| 14 | [jasonXiao422/drawing2sw](https://github.com/jasonXiao422/drawing2sw) | 0 | Python | 2026-10-12 | 自动读取你的工程图，然后在 SolidWorks 里建模。Reads your engineering drawings (DWG/DXF/PDF/images) and models the part in SolidWorks. |
-| 15 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 126 | Python | 2026-10-12 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 16 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 0 | Python | 2026-10-12 | 개발 전용 Claude Code 플러그인 |
-| 17 | [Lisuiwen/ai-html-annotation](https://github.com/Lisuiwen/ai-html-annotation) | 22 | JavaScript | 2026-10-12 | Agent Skill (html-prototype-build): generate, annotate, review & deliver native HTML prototypes for Claude Code, Cursor  |
-| 18 | [yihexiang/rulai-distill](https://github.com/yihexiang/rulai-distill) | 0 | Python | 2026-10-12 | 蒸馏工厂：把书籍/长视频/播客/访谈/人物素材蒸馏成可执行、可验证、可追溯的 Agent Skills。contract-first + FIDELITY 双 Agent 出厂质检。 |
+| 1 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 2954 | JavaScript | 2026-10-12 | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent  |
+| 2 | [yihexiang/rulai-distill](https://github.com/yihexiang/rulai-distill) | 0 | Python | 2026-10-12 | 蒸馏工厂：把书籍/长视频/播客/访谈/人物素材蒸馏成可执行、可验证、可追溯的 Agent Skills。contract-first + FIDELITY 双 Agent 出厂质检。 |
+| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 126 | Python | 2026-10-12 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 4 | [anbeime/skill](https://github.com/anbeime/skill) | 7880 | Python | 2026-10-12 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The mo |
+| 5 | [RajdeepDas43/resume-jd-tuner](https://github.com/RajdeepDas43/resume-jd-tuner) | 0 | Python | 2026-10-12 | A Claude skill that tailors your résumé to one job posting without inventing anything, and tells you how well you fit. |
+| 6 | [titanwings/distilly](https://github.com/titanwings/distilly) | 25508 | Python | 2026-10-12 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
+| 7 | [CorvinLabs/CorvinOS](https://github.com/CorvinLabs/CorvinOS) | 17 | Python | 2026-10-12 | Self-hosted agentic OS — a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats |
+| 8 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-10-12 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
+| 9 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 37 | — | 2026-10-12 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
+| 10 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 2 | HTML | 2026-10-12 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
+| 11 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 69973 | TypeScript | 2026-10-12 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 12 | [consolascionw/prompt-to-pattern-design](https://github.com/consolascionw/prompt-to-pattern-design) | 0 | HTML | 2026-10-12 | AI-Powered AST Context Engine: Outline-Driven Code Generation 2026 |
+| 13 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-10-12 | Deterministic multi-CLI orchestration and AI agentic workflow utility. |
+| 14 | [lobisomenhomemafeminado/skill-vault](https://github.com/lobisomenhomemafeminado/skill-vault) | 1 | HTML | 2026-10-12 | AI Skill Finder 2026: Automated Search & Install for Claude Code |
+| 15 | [LuCheremisina/marketing-skills](https://github.com/LuCheremisina/marketing-skills) | 1 | Python | 2026-10-12 | AI marketing skills for research, SEO/GEO, Yandex advertising analytics and expert content. 27 marketing workflows + 14  |
+| 16 | [jasonXiao422/drawing2sw](https://github.com/jasonXiao422/drawing2sw) | 0 | Python | 2026-10-12 | 自动读取你的工程图，然后在 SolidWorks 里建模。Reads your engineering drawings (DWG/DXF/PDF/images) and models the part in SolidWorks. |
+| 17 | [gagip/gagip-dev](https://github.com/gagip/gagip-dev) | 0 | Python | 2026-10-12 | 개발 전용 Claude Code 플러그인 |
+| 18 | [Lisuiwen/ai-html-annotation](https://github.com/Lisuiwen/ai-html-annotation) | 22 | JavaScript | 2026-10-12 | Agent Skill (html-prototype-build): generate, annotate, review & deliver native HTML prototypes for Claude Code, Cursor  |
 | 19 | [digitalnsw/nswds-skills](https://github.com/digitalnsw/nswds-skills) | 0 | JavaScript | 2026-10-12 | Agent skills for developers building NSW Government digital services: Australian Government Style Manual checks, WCAG au |
 | 20 | [DwladimirL/irondeck](https://github.com/DwladimirL/irondeck) | 0 | HTML | 2026-10-12 | Claude Code orchestrator for Windows: run agents in parallel, stay inside your plan limits, version your skills. |
 | 21 | [Ottili-ONE/skills](https://github.com/Ottili-ONE/skills) | 1 | Python | 2026-10-12 | Claude Code, Codex, OpenClaw and Ottili AI Skills - powered by Ottili ONE |
