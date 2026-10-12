@@ -1,5 +1,149 @@
 [
   {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "TypeScript",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-12T03:29:12Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "\u884c\u7a0b\u4f53\u68c0 / itinerary-doctor\uff1a\u628a\u4e00\u4efd\u5df2\u5b58\u5728\u7684\u884c\u7a0b\u53d8\u6210\u80fd\u843d\u5730\u7684\u884c\u7a0b\u2014\u2014\u67e5\u65f6\u4ee4\u3001\u9884\u7ea6\u3001\u5c01\u8def\u4e0e\u6bcf\u65e5\u9a7e\u9a76\u5f3a\u5ea6\uff0c\u5728\u5df2\u8ba2\u673a\u7968\u9152\u5e97\u7684\u7ea6\u675f\u4e0b\u7ed9\u51fa\u9000\u6539\u51b3\u7b56\uff0c\u4ea7\u51fa\u5355\u6587\u4ef6\u4ea4\u4e92\u8def\u7ebf\u56fe\u4e0e\u6d77\u62a5\u3002An agent skill that audits a",
+    "id": "redmouthcrow/itinerary-doctor",
+    "language": "HTML",
+    "name": "redmouthcrow/itinerary-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:28:45Z",
+    "url": "https://github.com/redmouthcrow/itinerary-doctor"
+  },
+  {
+    "description": "\ud83d\udeb6 Have your coding agent follow your README like a stranger in a clean copy \u2014 and log where it got stuck. Claude Code Sk",
+    "id": "thinx-pro/readme-walk",
+    "language": "Python",
+    "name": "thinx-pro/readme-walk",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:27:40Z",
+    "url": "https://github.com/thinx-pro/readme-walk"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 54,
+    "updated_at": "2026-10-12T03:27:25Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "\uc601\uc5b4 \ub17c\ubb38 PDF \u2192 \ud55c\uad6d\uc5b4 \ubc88\uc5ed\ubcf8\u00b7\uc694\uc57d\ubcf8\u00b7\uc6a9\uc5b4\uc0ac\uc804 HTML 3\uc885\uc744 \ub9cc\ub4dc\ub294 Claude Code \ud50c\ub7ec\uadf8\uc778. \uadf8\ub9bc\u00b7\ud45c\u00b7\uc218\uc2dd\uc744 \uc6d0\ubb38 \uadf8\ub300\ub85c \uc62e\uae41\ub2c8\ub2e4.",
+    "id": "zoo3323/paper-summary",
+    "language": "CSS",
+    "name": "zoo3323/paper-summary",
+    "stars": 3,
+    "updated_at": "2026-10-12T03:26:46Z",
+    "url": "https://github.com/zoo3323/paper-summary"
+  },
+  {
+    "description": "Claude Code \u00b7 Codex \ud55c\uae00 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ud50c\ub7ec\uadf8\uc778 \u2014 \uc544\uc774\ub514\uc5b4 \u2192 PRD \u2192 \uc124\uacc4 \u2192 \ud0dc\uc2a4\ud06c \u2192 \uac80\uc99d \ud558\ub124\uc2a4 \u2192 \uc790\uc728 \uac1c\ubc1c \ub8e8\ud504 / Korean agent skills: idea to autonomou",
+    "id": "GangJaeYu/harness_loop_full_korean",
+    "language": "\u2014",
+    "name": "GangJaeYu/harness_loop_full_korean",
+    "stars": 4,
+    "updated_at": "2026-10-12T03:26:45Z",
+    "url": "https://github.com/GangJaeYu/harness_loop_full_korean"
+  },
+  {
+    "description": "Agent skill: build a macOS menu bar app that shows your motto full screen at an interval",
+    "id": "hakgeumkim/text-reminder-skill",
+    "language": "Swift",
+    "name": "hakgeumkim/text-reminder-skill",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:24:53Z",
+    "url": "https://github.com/hakgeumkim/text-reminder-skill"
+  },
+  {
+    "description": "\u9762\u5411 AI Agent \u7684\u5fae\u4fe1\u516c\u4f17\u53f7\u521b\u4f5c\u4e0e\u53d1\u5e03 CLI\uff1aMarkdown \u6392\u7248\u3001AI \u914d\u56fe\u3001\u9884\u89c8\u4e0e\u8349\u7a3f\u521b\u5efa\uff1b\u652f\u6301\u7531\u6d4f\u89c8\u5668 Agent \u4fdd\u5b58\u77e5\u4e4e\u3001CSDN\u3001\u5934\u6761\u672a\u53d1\u5e03\u8349\u7a3f\u3002",
+    "id": "geekjourneyx/md2wechat-skill",
+    "language": "Go",
+    "name": "geekjourneyx/md2wechat-skill",
+    "stars": 3690,
+    "updated_at": "2026-10-12T03:20:33Z",
+    "url": "https://github.com/geekjourneyx/md2wechat-skill"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-12T03:26:34Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69967,
+    "updated_at": "2026-10-12T03:29:38Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
+    "id": "EricTechPro/super-board",
+    "language": "HTML",
+    "name": "EricTechPro/super-board",
+    "stars": 188,
+    "updated_at": "2026-10-12T03:25:26Z",
+    "url": "https://github.com/EricTechPro/super-board"
+  },
+  {
+    "description": "\ud83e\udde0 \ud83c\udfc6 ",
+    "id": "jairamshegde/active-learning-skills",
+    "language": "\u2014",
+    "name": "jairamshegde/active-learning-skills",
+    "stars": 0,
+    "updated_at": "2026-10-12T03:17:54Z",
+    "url": "https://github.com/jairamshegde/active-learning-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-12T03:25:16Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 147,
+    "updated_at": "2026-10-12T03:24:16Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. ",
+    "id": "FavioVazquez/showtime",
+    "language": "Python",
+    "name": "FavioVazquez/showtime",
+    "stars": 230,
+    "updated_at": "2026-10-12T03:17:23Z",
+    "url": "https://github.com/FavioVazquez/showtime"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-12T03:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Audit, plan, and adapt SwiftUI and UIKit apps for iPhone Duo, foldables, hinges, and multi-display layouts.",
     "id": "Urbanrenewalroridula3044/iPhone-Duo-Agent-Skill",
     "language": "Python",
@@ -171,20 +315,11 @@
     "url": "https://github.com/Scoundrelwildness456/i-have-adhd"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69967,
-    "updated_at": "2026-10-12T03:14:53Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 2923,
+    "stars": 2925,
     "updated_at": "2026-10-12T03:08:29Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -207,15 +342,6 @@
     "url": "https://github.com/Glad-oboedacaccia408/design.md"
   },
   {
-    "description": "Curated agent plugins and tooling by Knitli",
-    "id": "knitli/toolshed",
-    "language": "TypeScript",
-    "name": "knitli/toolshed",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:07:47Z",
-    "url": "https://github.com/knitli/toolshed"
-  },
-  {
     "description": "A native desktop client for free access to Claude Mythos AI across Windows, macOS, and Linux.",
     "id": "lindneutral977/claude-mythos-ai-anthropic-desktop-app",
     "language": "TypeScript",
@@ -229,7 +355,7 @@
     "id": "wshobson/agents",
     "language": "Python",
     "name": "wshobson/agents",
-    "stars": 40430,
+    "stars": 40431,
     "updated_at": "2026-10-12T03:07:19Z",
     "url": "https://github.com/wshobson/agents"
   },
@@ -322,131 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-12T03:03:35Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Evaluate biology grant proposals for Chinese funding agencies, identify structural gaps, and improve funding odds throug",
-    "id": "martellevaliant19/grant-thinking-cn-biology",
-    "language": "\u2014",
-    "name": "martellevaliant19/grant-thinking-cn-biology",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:03:33Z",
-    "url": "https://github.com/martellevaliant19/grant-thinking-cn-biology"
-  },
-  {
-    "description": "Detect AI-generated audio, images, and video in AI agents using the Resemble detection platform.",
-    "id": "Hampto7114/detect-skill",
-    "language": "\u2014",
-    "name": "Hampto7114/detect-skill",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:03:31Z",
-    "url": "https://github.com/Hampto7114/detect-skill"
-  },
-  {
-    "description": "Manage Zenodo research artifacts, automate deposits, and generate citable DOIs directly from Claude Code or OpenClaw usi",
-    "id": "Georgiannebedded725/zenodo-skill",
-    "language": "\u2014",
-    "name": "Georgiannebedded725/zenodo-skill",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:03:18Z",
-    "url": "https://github.com/Georgiannebedded725/zenodo-skill"
-  },
-  {
-    "description": "Connect your AI assistant to Jinguyuan Dumpling Restaurant data to query store information, check operating hours, and m",
-    "id": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "language": "Python",
-    "name": "texteditorscorpius2015/jinguyuan-dumpling-skill",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:03:14Z",
-    "url": "https://github.com/texteditorscorpius2015/jinguyuan-dumpling-skill"
-  },
-  {
-    "description": "Connect AI coding agents to the PrintKK API to automate image management, design creation, order fulfillment, and produc",
-    "id": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "language": "\u2014",
-    "name": "adrianohenriqueuna-pixel/printkk-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:03:09Z",
-    "url": "https://github.com/adrianohenriqueuna-pixel/printkk-agent-skill"
-  },
-  {
-    "description": "Manage persistent session memory and context handoff for Claude Code to maintain continuity between tasks.",
-    "id": "allans4635/memctx",
-    "language": "TypeScript",
-    "name": "allans4635/memctx",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:03:08Z",
-    "url": "https://github.com/allans4635/memctx"
-  },
-  {
-    "description": "Analyze and evolve AI skills through comparative testing, pattern extraction, and iterative refinement to improve agent ",
-    "id": "Einherjar99/bggg-skill-taotie",
-    "language": "\u2014",
-    "name": "Einherjar99/bggg-skill-taotie",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:03:05Z",
-    "url": "https://github.com/Einherjar99/bggg-skill-taotie"
-  },
-  {
-    "description": "Compile local documentation into a durable wiki for AI agents using LLM-driven bookkeeping.",
-    "id": "anitagraviti-sys/swarmvault",
-    "language": "TypeScript",
-    "name": "anitagraviti-sys/swarmvault",
-    "stars": 2,
-    "updated_at": "2026-10-12T03:03:02Z",
-    "url": "https://github.com/anitagraviti-sys/swarmvault"
-  },
-  {
-    "description": "Build high-converting app onboarding flows using a proven 14-screen psychological framework through this Claude Code ski",
-    "id": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "language": "\u2014",
-    "name": "Cutofftranslation467/claude-skill-app-onboarding-questionnaire",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:02:54Z",
-    "url": "https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire"
-  },
-  {
-    "description": "Design websites with a director-and-film research workflow for cross-agent UI planning and execution",
-    "id": "Ddimit5429/cinematic-ui",
-    "language": "\u2014",
-    "name": "Ddimit5429/cinematic-ui",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:02:39Z",
-    "url": "https://github.com/Ddimit5429/cinematic-ui"
-  },
-  {
-    "description": "Connect LINE to Claude Code with an MCP server for DMs, group chats, media downloads, and image replies",
-    "id": "coreyunfastened552/claude-line-channel",
-    "language": "TypeScript",
-    "name": "coreyunfastened552/claude-line-channel",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:02:29Z",
-    "url": "https://github.com/coreyunfastened552/claude-line-channel"
-  },
-  {
-    "description": "Claude Code plugin for project memory",
-    "id": "nhhthong/clio",
-    "language": "Python",
-    "name": "nhhthong/clio",
-    "stars": 2,
-    "updated_at": "2026-10-12T03:02:28Z",
-    "url": "https://github.com/nhhthong/clio"
-  },
-  {
-    "description": "Build production patterns for AI coding agents from Claude Code source analysis and harness engineering practice.",
-    "id": "dinho-afsn/agentic-harness-patterns-skill",
-    "language": "\u2014",
-    "name": "dinho-afsn/agentic-harness-patterns-skill",
-    "stars": 1,
-    "updated_at": "2026-10-12T03:02:13Z",
-    "url": "https://github.com/dinho-afsn/agentic-harness-patterns-skill"
-  },
-  {
-    "description": "Reverse-engineer Claude Code CLI in Bun for a fast, local command-line tool with clear source structure and telemetry co",
-    "id": "deadgirlbad-source/claude-code-reverse",
-    "language": "\u2014",
-    "name": "deadgirlbad-source/claude-code-reverse",
-    "stars": 0,
-    "updated_at": "2026-10-12T03:02:09Z",
-    "url": "https://github.com/deadgirlbad-source/claude-code-reverse"
   }
 ]
