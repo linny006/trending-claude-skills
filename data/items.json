@@ -1,5 +1,50 @@
 [
   {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "JavaScript",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 1,
+    "updated_at": "2026-10-12T01:48:19Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 117,
+    "updated_at": "2026-10-12T01:46:18Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 2909,
+    "updated_at": "2026-10-12T01:46:01Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69967,
+    "updated_at": "2026-10-12T01:48:06Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-12T01:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claquete.ai: o est\u00fadio de v\u00eddeo que o Claude opera. Demonstra\u00e7\u00e3o de ferramenta, aula animada, v\u00eddeos para redes e edi\u00e7\u00e3o",
     "id": "dantaspaulo/claquete",
     "language": "JavaScript",
@@ -16,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-12T01:41:43Z",
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 2908,
-    "updated_at": "2026-10-12T01:41:07Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69968,
-    "updated_at": "2026-10-12T01:42:17Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -86,17 +113,8 @@
     "language": "Rust",
     "name": "milisp/keke-agent",
     "stars": 4,
-    "updated_at": "2026-10-12T01:34:03Z",
+    "updated_at": "2026-10-12T01:46:27Z",
     "url": "https://github.com/milisp/keke-agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-12T01:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Find it. Investigation for the Proof Economy: reconnaissance, intake, grading a research dump, establishing what a produ",
@@ -261,15 +279,6 @@
     "url": "https://github.com/palermomia/backyard-design-skill"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 117,
-    "updated_at": "2026-10-12T01:15:33Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
     "id": "filippolmt/skills",
     "language": "HTML",
@@ -277,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T01:08:37Z",
     "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Skills and agents for Claude and Gemini",
-    "id": "AnaCataVC/amiga-ia",
-    "language": "JavaScript",
-    "name": "AnaCataVC/amiga-ia",
-    "stars": 1,
-    "updated_at": "2026-10-12T01:07:14Z",
-    "url": "https://github.com/AnaCataVC/amiga-ia"
   },
   {
     "description": "Official SELAT plugins \u2014 discover vetted skills and federated x402/MPP capabilities, pay from your own Circle Agent Wall",
@@ -365,7 +365,7 @@
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 5,
-    "updated_at": "2026-10-12T01:37:41Z",
+    "updated_at": "2026-10-12T01:49:14Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -410,7 +410,7 @@
     "language": "JavaScript",
     "name": "Viaknox/tune-up",
     "stars": 0,
-    "updated_at": "2026-10-12T01:42:17Z",
+    "updated_at": "2026-10-12T01:48:00Z",
     "url": "https://github.com/Viaknox/tune-up"
   },
   {
