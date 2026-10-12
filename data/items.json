@@ -1,5 +1,122 @@
 [
   {
+    "description": "Open source code review that runs in your coding agent before you push. Scanners plus a separate AI reviewer, on your ow",
+    "id": "openqodex/openqodex",
+    "language": "TypeScript",
+    "name": "openqodex/openqodex",
+    "stars": 626,
+    "updated_at": "2026-10-12T16:28:51Z",
+    "url": "https://github.com/openqodex/openqodex"
+  },
+  {
+    "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
+    "id": "mohitagw15856/pm-claude-skills",
+    "language": "HTML",
+    "name": "mohitagw15856/pm-claude-skills",
+    "stars": 1440,
+    "updated_at": "2026-10-12T16:27:48Z",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Show the human where to click: a big arrow above every window, on Windows and Linux",
+    "id": "chocodev11/see-the-arrow",
+    "language": "Rust",
+    "name": "chocodev11/see-the-arrow",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:26:51Z",
+    "url": "https://github.com/chocodev11/see-the-arrow"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 22,
+    "updated_at": "2026-10-12T16:25:25Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "File an issue in one sentence \u2014 \u4e00\u53e5\u8bdd\u63d0 GitHub issue. Evidence, privacy scan, gh.",
+    "id": "qjzzsky/one-sentence-issue",
+    "language": "Shell",
+    "name": "qjzzsky/one-sentence-issue",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:22:03Z",
+    "url": "https://github.com/qjzzsky/one-sentence-issue"
+  },
+  {
+    "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
+    "id": "walkwithedi/evergreen-wiki",
+    "language": "Python",
+    "name": "walkwithedi/evergreen-wiki",
+    "stars": 1,
+    "updated_at": "2026-10-12T16:21:08Z",
+    "url": "https://github.com/walkwithedi/evergreen-wiki"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 100794,
+    "updated_at": "2026-10-12T16:27:38Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-10-12T16:20:29Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-10-12T16:18:00Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69973,
+    "updated_at": "2026-10-12T16:25:27Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Code skills for herdr \u2014 run parallel coding agents in git worktrees and watch each Claude Code worker in the herd",
+    "id": "nyjin/herdr-skills",
+    "language": "Python",
+    "name": "nyjin/herdr-skills",
+    "stars": 1,
+    "updated_at": "2026-10-12T16:17:57Z",
+    "url": "https://github.com/nyjin/herdr-skills"
+  },
+  {
+    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
+    "id": "jgoneit/jaekit",
+    "language": "Python",
+    "name": "jgoneit/jaekit",
+    "stars": 0,
+    "updated_at": "2026-10-12T16:16:13Z",
+    "url": "https://github.com/jgoneit/jaekit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-12T16:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI job application agent for Claude Code: grill-style onboarding, one tailored ATS-friendly CV per posting, auto-apply t",
     "id": "Ryuketsukami/auto-job-hunt-skill",
     "language": "Python",
@@ -14,7 +131,7 @@
     "language": "Swift",
     "name": "mmurakaru/skillbox",
     "stars": 2,
-    "updated_at": "2026-10-12T16:14:47Z",
+    "updated_at": "2026-10-12T16:30:03Z",
     "url": "https://github.com/mmurakaru/skillbox"
   },
   {
@@ -45,21 +162,12 @@
     "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
   },
   {
-    "description": "File an issue in one sentence \u2014 \u4e00\u53e5\u8bdd\u63d0 GitHub issue. Evidence, privacy scan, gh.",
-    "id": "qjzzsky/one-sentence-issue",
-    "language": "Shell",
-    "name": "qjzzsky/one-sentence-issue",
-    "stars": 0,
-    "updated_at": "2026-10-12T16:12:07Z",
-    "url": "https://github.com/qjzzsky/one-sentence-issue"
-  },
-  {
     "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
     "id": "curie-eng/curie",
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-12T16:11:49Z",
+    "updated_at": "2026-10-12T16:30:09Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -79,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T16:10:36Z",
     "url": "https://github.com/asfakulsiam/asfakulsiam-motomation-design"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 100787,
-    "updated_at": "2026-10-12T16:09:54Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "Show the human where to click: a big arrow above every window, on Windows and Linux",
-    "id": "chocodev11/see-the-arrow",
-    "language": "Rust",
-    "name": "chocodev11/see-the-arrow",
-    "stars": 0,
-    "updated_at": "2026-10-12T16:09:23Z",
-    "url": "https://github.com/chocodev11/see-the-arrow"
   },
   {
     "description": "Context tools for coding agents that run on your machine and nowhere else. Hooks that compress shell output, a CLI and a",
@@ -140,8 +230,17 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-12T16:14:21Z",
+    "updated_at": "2026-10-12T16:26:47Z",
     "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "MCP Server for AI automation of the PlayCanvas Editor",
+    "id": "playcanvas/editor-mcp-server",
+    "language": "TypeScript",
+    "name": "playcanvas/editor-mcp-server",
+    "stars": 137,
+    "updated_at": "2026-10-12T16:03:00Z",
+    "url": "https://github.com/playcanvas/editor-mcp-server"
   },
   {
     "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
@@ -180,15 +279,6 @@
     "url": "https://github.com/Rick-254/moodle-quizsmith"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-12T16:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Open-source collection of shared AI agent skills for emdly.com.",
     "id": "emdlycom/emdly-stack",
     "language": "\u2014",
@@ -223,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-12T15:56:59Z",
     "url": "https://github.com/Ottili-ONE/skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 69973,
-    "updated_at": "2026-10-12T16:14:29Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Turn any AI agent into a disciplined identity designer, from brief to production-ready SVG logos and brand guidelines.",
@@ -284,7 +365,7 @@
     "language": "TypeScript",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-12T15:56:45Z",
+    "updated_at": "2026-10-12T16:28:30Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -315,7 +396,7 @@
     "url": "https://github.com/soulmachine/skills"
   },
   {
-    "description": "Claude plugin for ShopSavvy: shopping research, price comparison and price history across tens of millions of products, ",
+    "description": "Claude plugin for ShopSavvy: shopping research, price comparison and price history across 30M+ products, plus Data API s",
     "id": "shopsavvy/shopsavvy-claude-plugin",
     "language": "TypeScript",
     "name": "shopsavvy/shopsavvy-claude-plugin",
@@ -329,7 +410,7 @@
     "language": "Python",
     "name": "JakeSelby/model-citizen",
     "stars": 24,
-    "updated_at": "2026-10-12T16:03:14Z",
+    "updated_at": "2026-10-12T16:27:56Z",
     "url": "https://github.com/JakeSelby/model-citizen"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-12T15:42:17Z",
     "url": "https://github.com/laymom/synthetic-focus-group"
-  },
-  {
-    "description": "Claude skills that make things move: animated native PPTX, 1080p60 kinetic-cut videos, and step-by-step animated explain",
-    "id": "wmzspace/claude-motion-skills",
-    "language": "HTML",
-    "name": "wmzspace/claude-motion-skills",
-    "stars": 2,
-    "updated_at": "2026-10-12T15:40:49Z",
-    "url": "https://github.com/wmzspace/claude-motion-skills"
-  },
-  {
-    "description": "Claude Code skill and /pm command: turn a rough idea into a structured PRD with staged review, clear scope and non-goals",
-    "id": "laymom/ai-prd-generator",
-    "language": "JavaScript",
-    "name": "laymom/ai-prd-generator",
-    "stars": 1,
-    "updated_at": "2026-10-12T15:40:48Z",
-    "url": "https://github.com/laymom/ai-prd-generator"
-  },
-  {
-    "description": "Claude Code skill for UX strategy and usability audits: frames the problem, maps user journeys and information architect",
-    "id": "laymom/consulting-ux-strategy",
-    "language": "\u2014",
-    "name": "laymom/consulting-ux-strategy",
-    "stars": 2,
-    "updated_at": "2026-10-12T15:40:49Z",
-    "url": "https://github.com/laymom/consulting-ux-strategy"
-  },
-  {
-    "description": "A multi-agent brainstorming skill for Claude Code. 5 independent perspectives generate product and business ideas, then ",
-    "id": "laymom/multi-agent-brainstorm",
-    "language": "JavaScript",
-    "name": "laymom/multi-agent-brainstorm",
-    "stars": 1,
-    "updated_at": "2026-10-12T15:40:46Z",
-    "url": "https://github.com/laymom/multi-agent-brainstorm"
-  },
-  {
-    "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tool",
-    "id": "AIDevGTM/gtm-cofounder",
-    "language": "\u2014",
-    "name": "AIDevGTM/gtm-cofounder",
-    "stars": 313,
-    "updated_at": "2026-10-12T15:39:48Z",
-    "url": "https://github.com/AIDevGTM/gtm-cofounder"
-  },
-  {
-    "description": "Unofficial Claude Code skills distilled from Paul Graham's startup essays",
-    "id": "masthedude/pg-founder-skills",
-    "language": "Python",
-    "name": "masthedude/pg-founder-skills",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:39:33Z",
-    "url": "https://github.com/masthedude/pg-founder-skills"
-  },
-  {
-    "description": "Claude paints with code: a Claude Code skill for procedural illustration in 70 styles, from ink wash (\u6c34\u58a8), watercolour a",
-    "id": "cloveric/claude-drawing-skill",
-    "language": "Python",
-    "name": "cloveric/claude-drawing-skill",
-    "stars": 26,
-    "updated_at": "2026-10-12T15:39:25Z",
-    "url": "https://github.com/cloveric/claude-drawing-skill"
-  },
-  {
-    "description": "Discover fashion with personalized CLIP and FAISS search, reranked by user profiles in a Java-powered multimodal system.",
-    "id": "Blinnireversed184/multimodal-product-discovery",
-    "language": "Python",
-    "name": "Blinnireversed184/multimodal-product-discovery",
-    "stars": 0,
-    "updated_at": "2026-10-12T15:38:59Z",
-    "url": "https://github.com/Blinnireversed184/multimodal-product-discovery"
-  },
-  {
-    "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
-    "id": "walkwithedi/evergreen-wiki",
-    "language": "Python",
-    "name": "walkwithedi/evergreen-wiki",
-    "stars": 1,
-    "updated_at": "2026-10-12T15:56:46Z",
-    "url": "https://github.com/walkwithedi/evergreen-wiki"
   }
 ]
