@@ -1,5 +1,122 @@
 [
   {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 38,
+    "updated_at": "2026-10-13T00:59:10Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
+    "id": "LinklyAI/best-skills",
+    "language": "\u2014",
+    "name": "LinklyAI/best-skills",
+    "stars": 640,
+    "updated_at": "2026-10-13T00:58:50Z",
+    "url": "https://github.com/LinklyAI/best-skills"
+  },
+  {
+    "description": "An agent skill (SKILL.md) that bans the obvious answer first, then forces non-obvious ideas with a cheap first experimen",
+    "id": "ato22c/idea-flip",
+    "language": "HTML",
+    "name": "ato22c/idea-flip",
+    "stars": 0,
+    "updated_at": "2026-10-13T00:55:47Z",
+    "url": "https://github.com/ato22c/idea-flip"
+  },
+  {
+    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
+    "id": "jiawood2006/hermes-skills",
+    "language": "Python",
+    "name": "jiawood2006/hermes-skills",
+    "stars": 2,
+    "updated_at": "2026-10-13T00:55:40Z",
+    "url": "https://github.com/jiawood2006/hermes-skills"
+  },
+  {
+    "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
+    "id": "nuncaeslupus/literary-critic",
+    "language": "Python",
+    "name": "nuncaeslupus/literary-critic",
+    "stars": 0,
+    "updated_at": "2026-10-13T00:59:28Z",
+    "url": "https://github.com/nuncaeslupus/literary-critic"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-13T00:54:43Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Read-only diagnostic for scheduled AI-agent chains: 30 checks for the ways an unattended agent stops silently, plus a mi",
+    "id": "elfovo/agent-chain-doctor",
+    "language": "Shell",
+    "name": "elfovo/agent-chain-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-13T00:51:10Z",
+    "url": "https://github.com/elfovo/agent-chain-doctor"
+  },
+  {
+    "description": "Yu-Gi-Oh! Master Duel AI Deck-Building Assistant: Card Search, Brick Rate Analysis & Deck Review | \u6e38\u620f\u738b\u5927\u5e08\u51b3\u6597 AI \u5361\u7ec4\u6784\u7b51\u52a9\u624b\uff1a\u67e5\u5361\u3001",
+    "id": "BettTer/master-duel-ai-advisor",
+    "language": "TypeScript",
+    "name": "BettTer/master-duel-ai-advisor",
+    "stars": 1,
+    "updated_at": "2026-10-13T00:48:57Z",
+    "url": "https://github.com/BettTer/master-duel-ai-advisor"
+  },
+  {
+    "description": "Are we present in search and AI answers? One audit surface for SEO, AEO, GEO, LLMO and Korean engines (Naver, Daum). Cra",
+    "id": "kindsusu/su-presence",
+    "language": "Python",
+    "name": "kindsusu/su-presence",
+    "stars": 0,
+    "updated_at": "2026-10-13T00:48:10Z",
+    "url": "https://github.com/kindsusu/su-presence"
+  },
+  {
+    "description": "How two coding agents (Claude Code and Codex CLI) share one memory: standing rules, per-project facts, an external-memor",
+    "id": "ericpardee/agent-files",
+    "language": "Python",
+    "name": "ericpardee/agent-files",
+    "stars": 3,
+    "updated_at": "2026-10-13T00:45:58Z",
+    "url": "https://github.com/ericpardee/agent-files"
+  },
+  {
+    "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows",
+    "id": "michael-denyer/pstack-claude",
+    "language": "JavaScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 1874,
+    "updated_at": "2026-10-13T00:57:57Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-13T00:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 100970,
+    "updated_at": "2026-10-13T00:54:17Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -27,30 +144,12 @@
     "url": "https://github.com/FrankAIUser/showmeonmap-agent-skills"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 100967,
-    "updated_at": "2026-10-13T00:44:51Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
-    "id": "nuncaeslupus/literary-critic",
-    "language": "Python",
-    "name": "nuncaeslupus/literary-critic",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:42:02Z",
-    "url": "https://github.com/nuncaeslupus/literary-critic"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-13T00:41:11Z",
+    "updated_at": "2026-10-13T00:55:32Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -95,26 +194,17 @@
     "language": "JavaScript",
     "name": "Jartan-LLC/grimoire",
     "stars": 2,
-    "updated_at": "2026-10-13T00:40:32Z",
+    "updated_at": "2026-10-13T00:45:14Z",
     "url": "https://github.com/Jartan-LLC/grimoire"
   },
   {
-    "description": "Yu-Gi-Oh! Master Duel AI Deck-Building Assistant: Card Search, Brick Rate Analysis & Deck Review | \u6e38\u620f\u738b\u5927\u5e08\u51b3\u6597 AI \u5361\u7ec4\u6784\u7b51\u52a9\u624b\uff1a\u67e5\u5361\u3001",
-    "id": "BettTer/master-duel-ai-advisor",
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
     "language": "TypeScript",
-    "name": "BettTer/master-duel-ai-advisor",
-    "stars": 1,
-    "updated_at": "2026-10-13T00:40:03Z",
-    "url": "https://github.com/BettTer/master-duel-ai-advisor"
-  },
-  {
-    "description": "An agent skill (SKILL.md) that bans the obvious answer first, then forces non-obvious ideas with a cheap first experimen",
-    "id": "ato22c/idea-flip",
-    "language": "HTML",
-    "name": "ato22c/idea-flip",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:38:51Z",
-    "url": "https://github.com/ato22c/idea-flip"
+    "name": "thedotmack/claude-mem",
+    "stars": 100097,
+    "updated_at": "2026-10-13T00:39:15Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Local Agents",
@@ -126,24 +216,6 @@
     "url": "https://github.com/jrodrigopuca/local-agents"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 100090,
-    "updated_at": "2026-10-13T00:39:15Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 5,
-    "updated_at": "2026-10-13T00:35:09Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
     "description": "Your whole product team, not just a coding agent. Plan \u2192 design \u2192 build \u2192 QA, with you as the PM who signs off.",
     "id": "AyeJK/phase-runner",
     "language": "TypeScript",
@@ -151,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T00:33:35Z",
     "url": "https://github.com/AyeJK/phase-runner"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-13T00:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Sniff your Markdown drafts against house rules with local regex checks and optional AI judgment calls.",
@@ -284,7 +347,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 36,
-    "updated_at": "2026-10-13T00:44:47Z",
+    "updated_at": "2026-10-13T00:58:03Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -322,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T00:24:30Z",
     "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Read-only diagnostic for scheduled AI-agent chains: 30 checks for the ways an unattended agent stops silently, plus a mi",
-    "id": "elfovo/agent-chain-doctor",
-    "language": "Shell",
-    "name": "elfovo/agent-chain-doctor",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:24:28Z",
-    "url": "https://github.com/elfovo/agent-chain-doctor"
   },
   {
     "description": "Claude skill that applies The Blue Book of UX Directives: 550 numbered directives in 9 chapters. Audits designs, finds d",
@@ -392,61 +446,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-13T00:40:09Z",
+    "updated_at": "2026-10-13T00:53:30Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Crie agentes de IA treinados com seu m\u00e9todo, com login, vendas autom\u00e1ticas e painel de controle.",
-    "id": "knockdown-comedienne741/hub-agentes-ia",
-    "language": "TypeScript",
-    "name": "knockdown-comedienne741/hub-agentes-ia",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:23:05Z",
-    "url": "https://github.com/knockdown-comedienne741/hub-agentes-ia"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-13T00:23:03Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Audit web performance with a multi-agent pipeline that turns browser data into actionable fixes for Core Web Vitals.",
-    "id": "sa746062/web-perf-audit",
-    "language": "Python",
-    "name": "sa746062/web-perf-audit",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:22:55Z",
-    "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:22:29Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:20:17Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-10-13T00:20:08Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
   }
 ]
