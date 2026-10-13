@@ -1,12 +1,57 @@
 [
   {
+    "description": "Launch video creation skill and tooling for agents (mainly for Claude Opus 5.5)",
+    "id": "Intentface/intentface-launch",
+    "language": "TypeScript",
+    "name": "Intentface/intentface-launch",
+    "stars": 0,
+    "updated_at": "2026-10-13T20:46:27Z",
+    "url": "https://github.com/Intentface/intentface-launch"
+  },
+  {
     "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/",
     "id": "Ark0N/Codeman",
     "language": "TypeScript",
     "name": "Ark0N/Codeman",
     "stars": 792,
-    "updated_at": "2026-10-13T20:43:53Z",
+    "updated_at": "2026-10-13T20:46:10Z",
     "url": "https://github.com/Ark0N/Codeman"
+  },
+  {
+    "description": "\u901a\u8fc7\u7ecf\u5386\u589e\u91cf\u79ef\u7d2f\u8bb0\u5fc6\u3001\u4fee\u6b63\u8ba4\u8bc6\u3001\u9010\u6e10\u5f62\u6210\u7406\u89e3\u7684\u8ba4\u77e5\u7cfb\u7edf\uff08Accumulate memory, revise knowledge and gradually form a cognitive system of understanding t",
+    "id": "qingmingyiyang/Incremind",
+    "language": "Python",
+    "name": "qingmingyiyang/Incremind",
+    "stars": 1,
+    "updated_at": "2026-10-13T20:45:46Z",
+    "url": "https://github.com/qingmingyiyang/Incremind"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-13T20:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 17,
+    "updated_at": "2026-10-13T20:45:14Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/ai-utils",
+    "language": "C++",
+    "name": "TsukiNi22/ai-utils",
+    "stars": 1,
+    "updated_at": "2026-10-13T20:45:10Z",
+    "url": "https://github.com/TsukiNi22/ai-utils"
   },
   {
     "description": "",
@@ -34,15 +79,6 @@
     "stars": 409,
     "updated_at": "2026-10-13T20:43:03Z",
     "url": "https://github.com/tobihagemann/turbo"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 17,
-    "updated_at": "2026-10-13T20:42:48Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Plan, build and independently verify your work in Claude Code: guided project setup, multi-agent verification with refut",
@@ -153,15 +189,6 @@
     "url": "https://github.com/PapiScholz/session-closure"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-13T20:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
     "id": "nuncaeslupus/literary-critic",
     "language": "Python",
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T20:30:11Z",
     "url": "https://github.com/nuncaeslupus/literary-critic"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/ai-utils",
-    "language": "C++",
-    "name": "TsukiNi22/ai-utils",
-    "stars": 1,
-    "updated_at": "2026-10-13T20:45:10Z",
-    "url": "https://github.com/TsukiNi22/ai-utils"
   },
   {
     "description": "Practical Claude Code skills as installable plugins \u2014 research & teardowns, web build/deploy, image search, repo audit, ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T20:02:43Z",
     "url": "https://github.com/kimasplund/thinkbetter-skills"
-  },
-  {
-    "description": "Production-quality agent skills for Claude Code and OpenAI Codex: session handoff (putdown/pickup), knowledge harvesting",
-    "id": "cabaynes/charles-agent-skills",
-    "language": "Python",
-    "name": "cabaynes/charles-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-13T19:58:55Z",
-    "url": "https://github.com/cabaynes/charles-agent-skills"
-  },
-  {
-    "description": "Lets AI assistants such as Claude, ChatGPT or Cursor connect to Prestashop, with each employee approving what they may d",
-    "id": "novalo-dev/Prestashop-MCP-Server",
-    "language": "PHP",
-    "name": "novalo-dev/Prestashop-MCP-Server",
-    "stars": 1,
-    "updated_at": "2026-10-13T19:58:44Z",
-    "url": "https://github.com/novalo-dev/Prestashop-MCP-Server"
   }
 ]
