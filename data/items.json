@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 36,
+    "updated_at": "2026-10-13T00:59:52Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-13T00:59:34Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
+    "id": "nuncaeslupus/literary-critic",
+    "language": "Python",
+    "name": "nuncaeslupus/literary-critic",
+    "stars": 0,
+    "updated_at": "2026-10-13T00:59:28Z",
+    "url": "https://github.com/nuncaeslupus/literary-critic"
+  },
+  {
     "description": "Agent skills for building, shipping, and growing software products",
     "id": "tenequm/skills",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-10-13T00:55:40Z",
     "url": "https://github.com/jiawood2006/hermes-skills"
-  },
-  {
-    "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
-    "id": "nuncaeslupus/literary-critic",
-    "language": "Python",
-    "name": "nuncaeslupus/literary-critic",
-    "stars": 0,
-    "updated_at": "2026-10-13T00:59:28Z",
-    "url": "https://github.com/nuncaeslupus/literary-critic"
   },
   {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
@@ -99,21 +117,12 @@
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-13T00:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The open-source app everyone uses to manage agents at work",
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
     "stars": 100970,
-    "updated_at": "2026-10-13T00:54:17Z",
+    "updated_at": "2026-10-13T01:00:04Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
@@ -202,7 +211,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 100097,
+    "stars": 100098,
     "updated_at": "2026-10-13T00:39:15Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -340,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-13T00:25:28Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next.",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 36,
-    "updated_at": "2026-10-13T00:58:03Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "Calculate complex math, graph functions, and perform statistical analysis with this open-source scientific tool built in",
