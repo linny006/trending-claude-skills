@@ -1,12 +1,183 @@
 [
   {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-13T04:44:44Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-13T04:44:24Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
     "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple gr",
     "id": "bitjaru/styleseed",
     "language": "JavaScript",
     "name": "bitjaru/styleseed",
     "stars": 977,
-    "updated_at": "2026-10-13T04:29:44Z",
+    "updated_at": "2026-10-13T04:43:34Z",
     "url": "https://github.com/bitjaru/styleseed"
+  },
+  {
+    "description": "Slash-command image prompt skill: 380+ commands for Claude, ChatGPT, Gemini, Flow, Kling, Midjourney",
+    "id": "geevarghesekthomas84-sys/image-style-skill",
+    "language": "Python",
+    "name": "geevarghesekthomas84-sys/image-style-skill",
+    "stars": 2,
+    "updated_at": "2026-10-13T04:43:18Z",
+    "url": "https://github.com/geevarghesekthomas84-sys/image-style-skill"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 101061,
+    "updated_at": "2026-10-13T04:41:36Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1216,
+    "updated_at": "2026-10-13T04:40:28Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "A rejection-driven workflow for turning unstable work into stable artifacts.",
+    "id": "phykn/loopy",
+    "language": "Python",
+    "name": "phykn/loopy",
+    "stars": 0,
+    "updated_at": "2026-10-13T04:40:17Z",
+    "url": "https://github.com/phykn/loopy"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-10-13T04:40:14Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "\ucee4\uc2a4\ud140 AI \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac.",
+    "id": "SWHee/skills",
+    "language": "Python",
+    "name": "SWHee/skills",
+    "stars": 0,
+    "updated_at": "2026-10-13T04:39:28Z",
+    "url": "https://github.com/SWHee/skills"
+  },
+  {
+    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
+    "id": "filippolmt/skills",
+    "language": "HTML",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-10-13T04:39:10Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Make agents redesign UI properly: audit into a ledger, plan the fix, preview three clickable concepts for approval befor",
+    "id": "rashee1997/ui-redesign",
+    "language": "JavaScript",
+    "name": "rashee1997/ui-redesign",
+    "stars": 1,
+    "updated_at": "2026-10-13T04:38:31Z",
+    "url": "https://github.com/rashee1997/ui-redesign"
+  },
+  {
+    "description": "A real PowerPoint, not HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent s",
+    "id": "liustack/pptwise",
+    "language": "TypeScript",
+    "name": "liustack/pptwise",
+    "stars": 21,
+    "updated_at": "2026-10-13T04:38:00Z",
+    "url": "https://github.com/liustack/pptwise"
+  },
+  {
+    "description": "Agent skills that take an open-source project from a one-page MISSION.md to a shipped public repo.",
+    "id": "thanatchon36/skills",
+    "language": "Python",
+    "name": "thanatchon36/skills",
+    "stars": 0,
+    "updated_at": "2026-10-13T04:36:59Z",
+    "url": "https://github.com/thanatchon36/skills"
+  },
+  {
+    "description": "A collection of Agent Skills for AI coding agents \u2014 starting with Domain-Driven Design (DDD).",
+    "id": "salimramirez/agent-skills",
+    "language": "Python",
+    "name": "salimramirez/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-10-13T04:36:39Z",
+    "url": "https://github.com/salimramirez/agent-skills"
+  },
+  {
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
+    "id": "longsizhuo/openInvest",
+    "language": "Python",
+    "name": "longsizhuo/openInvest",
+    "stars": 111,
+    "updated_at": "2026-10-13T04:35:00Z",
+    "url": "https://github.com/longsizhuo/openInvest"
+  },
+  {
+    "description": "\u5b50\u5e73\u516b\u5b57\u6392\u76d8\u4e0e\u300a\u5b50\u5e73\u771f\u8be0\u300b\u683c\u5c40\u6cd5\u89e3\u91ca Skill \u00b7 \u516c\u4f17\u6388\u6743\u7248\uff081000 \u6b21\uff0c2026-12-31 \u5230\u671f\uff09",
+    "id": "mxiaonian/ZiPingEightChar",
+    "language": "HTML",
+    "name": "mxiaonian/ZiPingEightChar",
+    "stars": 0,
+    "updated_at": "2026-10-13T04:34:56Z",
+    "url": "https://github.com/mxiaonian/ZiPingEightChar"
+  },
+  {
+    "description": "GTM, pricing & persona skill pack for Claude Code \u2014 ship what you build to the people who need it. Extends gstack.",
+    "id": "Yosei-Lab-ai/Miraiji",
+    "language": "Python",
+    "name": "Yosei-Lab-ai/Miraiji",
+    "stars": 0,
+    "updated_at": "2026-10-13T04:32:54Z",
+    "url": "https://github.com/Yosei-Lab-ai/Miraiji"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-10-13T04:31:44Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Claude skill for scripting multi-clip AI videos in VideoExpress 3.5: multishot prompts, Create Mode styles, chaining and",
+    "id": "ratava/videoexpress-scripting-skill",
+    "language": "\u2014",
+    "name": "ratava/videoexpress-scripting-skill",
+    "stars": 2,
+    "updated_at": "2026-10-13T04:30:22Z",
+    "url": "https://github.com/ratava/videoexpress-scripting-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-13T04:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u3010Making code with love - show some love back with a star! \ud83d\udc9d\u2b50\ufe0f\u3011 A Claude Code skill that writes on-brand English LinkedIn",
@@ -18,24 +189,6 @@
     "url": "https://github.com/ChanMeng666/linkedin-post-skill"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 101057,
-    "updated_at": "2026-10-13T04:28:43Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-13T04:29:03Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "\uc774\ub825\uc11c \uae30\ubc18 \ucc44\uc6a9\uacf5\uace0 \uac80\uc0c9 \ud558\ub124\uc2a4",
     "id": "chan9yu/job-fit-harness",
     "language": "Python",
@@ -43,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-10-13T04:25:22Z",
     "url": "https://github.com/chan9yu/job-fit-harness"
-  },
-  {
-    "description": "Claude skill for scripting multi-clip AI videos in VideoExpress 3.5: multishot prompts, Create Mode styles, chaining and",
-    "id": "ratava/videoexpress-scripting-skill",
-    "language": "\u2014",
-    "name": "ratava/videoexpress-scripting-skill",
-    "stars": 2,
-    "updated_at": "2026-10-13T04:30:09Z",
-    "url": "https://github.com/ratava/videoexpress-scripting-skill"
   },
   {
     "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
@@ -70,33 +214,6 @@
     "stars": 4,
     "updated_at": "2026-10-13T04:25:20Z",
     "url": "https://github.com/getedgehq/skills"
-  },
-  {
-    "description": "Make agents redesign UI properly: audit into a ledger, plan the fix, preview three clickable concepts for approval befor",
-    "id": "rashee1997/ui-redesign",
-    "language": "JavaScript",
-    "name": "rashee1997/ui-redesign",
-    "stars": 1,
-    "updated_at": "2026-10-13T04:18:40Z",
-    "url": "https://github.com/rashee1997/ui-redesign"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1216,
-    "updated_at": "2026-10-13T04:27:35Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-13T04:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A set of agent skills aimed primarily at Claude Code.",
@@ -153,15 +270,6 @@
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
-    "description": "Agent skills that take an open-source project from a one-page MISSION.md to a shipped public repo.",
-    "id": "thanatchon36/skills",
-    "language": "Python",
-    "name": "thanatchon36/skills",
-    "stars": 0,
-    "updated_at": "2026-10-13T04:09:51Z",
-    "url": "https://github.com/thanatchon36/skills"
-  },
-  {
     "description": "A Claude Code skill that audits a page against Google's published documentation and labels every finding with an evidenc",
     "id": "yuan-2080/seo-audit",
     "language": "\u2014",
@@ -175,7 +283,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 3180,
+    "stars": 3183,
     "updated_at": "2026-10-13T04:07:17Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -266,7 +374,7 @@
     "language": "JavaScript",
     "name": "techfleetworks/enterprise-software-AI-skills",
     "stars": 0,
-    "updated_at": "2026-10-13T03:56:05Z",
+    "updated_at": "2026-10-13T04:42:08Z",
     "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 69986,
     "updated_at": "2026-10-13T03:44:16Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Agentic Government: a Claude Code skill where a manager model delegates to cheaper or stronger worker models by task dif",
-    "id": "alexglonti/agentic-government",
-    "language": "Python",
-    "name": "alexglonti/agentic-government",
-    "stars": 0,
-    "updated_at": "2026-10-13T03:43:43Z",
-    "url": "https://github.com/alexglonti/agentic-government"
-  },
-  {
-    "description": "Ship Unreal Engine 5 mobile games to Google Play and the App Store from one Windows PC + a Mac mini, with Claude Code ag",
-    "id": "alexglonti/ue5-mobile-shipping",
-    "language": "\u2014",
-    "name": "alexglonti/ue5-mobile-shipping",
-    "stars": 0,
-    "updated_at": "2026-10-13T03:43:41Z",
-    "url": "https://github.com/alexglonti/ue5-mobile-shipping"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-13T03:41:51Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
-    "id": "longsizhuo/openInvest",
-    "language": "Python",
-    "name": "longsizhuo/openInvest",
-    "stars": 111,
-    "updated_at": "2026-10-13T03:39:52Z",
-    "url": "https://github.com/longsizhuo/openInvest"
-  },
-  {
-    "description": "Agent skill for drillr \u2014 financial data and research API for US, China and Japan equities: filings with full-text search",
-    "id": "Little-Grebe-Inc/drillr-skill",
-    "language": "Python",
-    "name": "Little-Grebe-Inc/drillr-skill",
-    "stars": 2,
-    "updated_at": "2026-10-13T03:39:43Z",
-    "url": "https://github.com/Little-Grebe-Inc/drillr-skill"
-  },
-  {
-    "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI ",
-    "id": "Ryze-AI-Adgent/open-seo-mcp-skills",
-    "language": "Shell",
-    "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-    "stars": 5203,
-    "updated_at": "2026-10-13T03:37:44Z",
-    "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills"
-  },
-  {
-    "description": "Claude skills for marketing: 49 free marketing skills for Claude Code and claude.ai (Google Ads, Meta Ads, SEO, AI visib",
-    "id": "irinabuht12-oss/marketing-skills",
-    "language": "\u2014",
-    "name": "irinabuht12-oss/marketing-skills",
-    "stars": 4398,
-    "updated_at": "2026-10-13T03:37:43Z",
-    "url": "https://github.com/irinabuht12-oss/marketing-skills"
-  },
-  {
-    "description": "Personal agent skills.",
-    "id": "transitive-bullshit/skills",
-    "language": "JavaScript",
-    "name": "transitive-bullshit/skills",
-    "stars": 3,
-    "updated_at": "2026-10-13T03:37:19Z",
-    "url": "https://github.com/transitive-bullshit/skills"
-  },
-  {
-    "description": "Sentence to Issue \u2014 \u4e00\u53e5\u8bdd\u63d0 GitHub issue. Evidence, privacy scan, gh.",
-    "id": "qjzzsky/sentence-to-issue",
-    "language": "Shell",
-    "name": "qjzzsky/sentence-to-issue",
-    "stars": 0,
-    "updated_at": "2026-10-13T03:33:56Z",
-    "url": "https://github.com/qjzzsky/sentence-to-issue"
-  },
-  {
-    "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents",
-    "id": "Ar9av/obsidian-wiki",
-    "language": "Python",
-    "name": "Ar9av/obsidian-wiki",
-    "stars": 3552,
-    "updated_at": "2026-10-13T03:32:08Z",
-    "url": "https://github.com/Ar9av/obsidian-wiki"
-  },
-  {
-    "description": "An open, reproducible, causal benchmark for Generative Engine Optimization: does changing a page actually change whether",
-    "id": "dcefferty/OpenGEO",
-    "language": "Python",
-    "name": "dcefferty/OpenGEO",
-    "stars": 1,
-    "updated_at": "2026-10-13T03:30:58Z",
-    "url": "https://github.com/dcefferty/OpenGEO"
-  },
-  {
-    "description": "Claude Code skills + Python scripts that turn a CSV into a narrated 60-second vertical video: angle, script, ElevenLabs ",
-    "id": "tlejay/data-video-kit",
-    "language": "HTML",
-    "name": "tlejay/data-video-kit",
-    "stars": 0,
-    "updated_at": "2026-10-13T03:27:47Z",
-    "url": "https://github.com/tlejay/data-video-kit"
   }
 ]
