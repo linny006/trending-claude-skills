@@ -1,12 +1,129 @@
 [
   {
+    "description": "",
+    "id": "asfakulsiam/asfakulsiam-motomation-design",
+    "language": "HTML",
+    "name": "asfakulsiam/asfakulsiam-motomation-design",
+    "stars": 1,
+    "updated_at": "2026-10-13T07:44:20Z",
+    "url": "https://github.com/asfakulsiam/asfakulsiam-motomation-design"
+  },
+  {
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
+    "id": "howard-lynn-ye/Fin-RSI",
+    "language": "Python",
+    "name": "howard-lynn-ye/Fin-RSI",
+    "stars": 1,
+    "updated_at": "2026-10-13T07:44:02Z",
+    "url": "https://github.com/howard-lynn-ye/Fin-RSI"
+  },
+  {
+    "description": "\ud83d\udea2 Run Claude Code's \u2699\ufe0f Dynamic Workflows, \ud83d\udc65 Agent Teams & \u26a1 Subagents on any third-party model \u2014 DeepSeek \u00b7 GLM \u00b7 Kimi \u00b7",
+    "id": "ethanhq/cc-fleet",
+    "language": "Go",
+    "name": "ethanhq/cc-fleet",
+    "stars": 218,
+    "updated_at": "2026-10-13T07:44:04Z",
+    "url": "https://github.com/ethanhq/cc-fleet"
+  },
+  {
+    "description": "Agent skill that writes the better version: role-tailored resume, rewritten bullets, keyword placement map, resume summa",
+    "id": "arm-pz/job-lens",
+    "language": "\u2014",
+    "name": "arm-pz/job-lens",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:43:16Z",
+    "url": "https://github.com/arm-pz/job-lens"
+  },
+  {
+    "description": "Agent skill that reviews resumes, CVs and LinkedIn profiles the way recruiters screen them: 6-second scan, ATS check, re",
+    "id": "arm-pz/recruiter-lens",
+    "language": "\u2014",
+    "name": "arm-pz/recruiter-lens",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:43:14Z",
+    "url": "https://github.com/arm-pz/recruiter-lens"
+  },
+  {
+    "description": "",
+    "id": "lesue1/adversarial-review",
+    "language": "\u2014",
+    "name": "lesue1/adversarial-review",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:42:01Z",
+    "url": "https://github.com/lesue1/adversarial-review"
+  },
+  {
+    "description": "Template for an AI-native job-search workflow built with Claude Code (skills + hooks). Fork and personalize.",
+    "id": "aksheyw/career-command-center-template",
+    "language": "\u2014",
+    "name": "aksheyw/career-command-center-template",
+    "stars": 1,
+    "updated_at": "2026-10-13T07:41:50Z",
+    "url": "https://github.com/aksheyw/career-command-center-template"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 69986,
+    "updated_at": "2026-10-13T07:41:47Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
+    "id": "everyinfra/seo-skills",
+    "language": "Python",
+    "name": "everyinfra/seo-skills",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:41:16Z",
+    "url": "https://github.com/everyinfra/seo-skills"
+  },
+  {
+    "description": "12 Claude Code skills auto-extracted from real sessions: Docker/SSH/VPS ops, data/ML pipeline gotchas, 4 model prompting",
+    "id": "aksheyw/claude-code-learned-skills",
+    "language": "JavaScript",
+    "name": "aksheyw/claude-code-learned-skills",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:41:05Z",
+    "url": "https://github.com/aksheyw/claude-code-learned-skills"
+  },
+  {
+    "description": "Turn vague feedback into SBI or STAR feedback people can act on.",
+    "id": "sumanbukka/stop-vague",
+    "language": "Python",
+    "name": "sumanbukka/stop-vague",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:39:22Z",
+    "url": "https://github.com/sumanbukka/stop-vague"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-13T07:37:51Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
     "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
     "id": "tonydzi/clawrush",
     "language": "Python",
     "name": "tonydzi/clawrush",
     "stars": 14,
-    "updated_at": "2026-10-13T07:37:29Z",
+    "updated_at": "2026-10-13T07:37:50Z",
     "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-13T07:37:40Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u62d0\u68cd \u00b7 walking-stick\uff5c\u5361\u4f4f\u7684\u90a3\u4e00\u523b\uff0c\u53ea\u8865\u65ad\u6389\u7684\u90a3\u4e00\u73af\uff0c\u7528\u5927\u767d\u8bdd\u8bb2\u901a\uff0c\u8ba9\u4f60\u5f53\u573a\u80fd\u7528\u3002A walking stick for your knowledge \u2014 it doesn't walk for you, it just g",
@@ -31,7 +148,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 3212,
+    "stars": 3213,
     "updated_at": "2026-10-13T07:35:51Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -40,7 +157,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 100201,
+    "stars": 100202,
     "updated_at": "2026-10-13T07:33:53Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -81,15 +198,6 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "\ud83d\udea2 Run Claude Code's \u2699\ufe0f Dynamic Workflows, \ud83d\udc65 Agent Teams & \u26a1 Subagents on any third-party model \u2014 DeepSeek \u00b7 GLM \u00b7 Kimi \u00b7",
-    "id": "ethanhq/cc-fleet",
-    "language": "Go",
-    "name": "ethanhq/cc-fleet",
-    "stars": 218,
-    "updated_at": "2026-10-13T07:31:56Z",
-    "url": "https://github.com/ethanhq/cc-fleet"
-  },
-  {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
     "id": "yngbrll/vb-winforms-toolkit",
     "language": "HTML",
@@ -106,24 +214,6 @@
     "stars": 989,
     "updated_at": "2026-10-13T07:36:05Z",
     "url": "https://github.com/scenario-labs/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-13T07:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "",
-    "id": "asfakulsiam/asfakulsiam-motomation-design",
-    "language": "HTML",
-    "name": "asfakulsiam/asfakulsiam-motomation-design",
-    "stars": 1,
-    "updated_at": "2026-10-13T07:30:07Z",
-    "url": "https://github.com/asfakulsiam/asfakulsiam-motomation-design"
   },
   {
     "description": "E-ticaret sat\u0131c\u0131s\u0131 i\u00e7in yapay zek\u00e2 ara\u00e7lar\u0131 rehberi: hangi i\u015f i\u00e7in hangi a\u00e7\u0131k kaynak ara\u00e7, T\u00fcrkiye'de ne eksik. Trendyol",
@@ -194,7 +284,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-13T07:27:39Z",
+    "updated_at": "2026-10-13T07:44:51Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -203,7 +293,7 @@
     "language": "Python",
     "name": "AgamiAI/agami-core",
     "stars": 28,
-    "updated_at": "2026-10-13T07:34:15Z",
+    "updated_at": "2026-10-13T07:39:35Z",
     "url": "https://github.com/AgamiAI/agami-core"
   },
   {
@@ -212,7 +302,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 1218,
-    "updated_at": "2026-10-13T07:37:09Z",
+    "updated_at": "2026-10-13T07:38:22Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-13T07:12:05Z",
     "url": "https://github.com/sa746062/web-perf-audit"
-  },
-  {
-    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
-    "id": "longsizhuo/openInvest",
-    "language": "Python",
-    "name": "longsizhuo/openInvest",
-    "stars": 111,
-    "updated_at": "2026-10-13T07:11:58Z",
-    "url": "https://github.com/longsizhuo/openInvest"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 101140,
-    "updated_at": "2026-10-13T07:11:19Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "AI video skill for Claude Code & Codex \u2014 cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previ",
-    "id": "Vincentwei1021/video-shotcraft",
-    "language": "TypeScript",
-    "name": "Vincentwei1021/video-shotcraft",
-    "stars": 11598,
-    "updated_at": "2026-10-13T07:09:41Z",
-    "url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "description": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval",
-    "id": "Free-Soul/MemDreamer",
-    "language": "Python",
-    "name": "Free-Soul/MemDreamer",
-    "stars": 4,
-    "updated_at": "2026-10-13T07:09:24Z",
-    "url": "https://github.com/Free-Soul/MemDreamer"
-  },
-  {
-    "description": "Security-focused prompt library and Claude Code skill for automated IaC security reviews. Covers Terraform, Kubernetes, ",
-    "id": "uttej-badwane/secure-cloud-prompt-engineering",
-    "language": "Python",
-    "name": "uttej-badwane/secure-cloud-prompt-engineering",
-    "stars": 2,
-    "updated_at": "2026-10-13T07:09:12Z",
-    "url": "https://github.com/uttej-badwane/secure-cloud-prompt-engineering"
-  },
-  {
-    "description": "Automate security assessments and find vulnerabilities using a framework based on Claude Opus that aligns with OWASP Top",
-    "id": "Videoa7917/ClaudeSec",
-    "language": "\u2014",
-    "name": "Videoa7917/ClaudeSec",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:08:46Z",
-    "url": "https://github.com/Videoa7917/ClaudeSec"
-  },
-  {
-    "description": "Remove AI patterns and robotic phrasing from your drafts to restore a natural human voice.",
-    "id": "kierstenicy452/anti-ai-writing",
-    "language": "\u2014",
-    "name": "kierstenicy452/anti-ai-writing",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:07:57Z",
-    "url": "https://github.com/kierstenicy452/anti-ai-writing"
-  },
-  {
-    "description": "Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent ",
-    "id": "flakey-caster542/superseo-skills",
-    "language": "\u2014",
-    "name": "flakey-caster542/superseo-skills",
-    "stars": 1,
-    "updated_at": "2026-10-13T07:06:47Z",
-    "url": "https://github.com/flakey-caster542/superseo-skills"
-  },
-  {
-    "description": "Apply structured scientific reasoning to AI agents to decompose questions, verify claim provenance, and rank explanation",
-    "id": "felipedeso7za4444/scientific-thinking-general",
-    "language": "\u2014",
-    "name": "felipedeso7za4444/scientific-thinking-general",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:06:39Z",
-    "url": "https://github.com/felipedeso7za4444/scientific-thinking-general"
-  },
-  {
-    "description": "Evaluate project fundability and refine grant logic using AI agent skills to identify innovation, assess feasibility, an",
-    "id": "Ikramahmadmemon13/grant-thinking-skill",
-    "language": "\u2014",
-    "name": "Ikramahmadmemon13/grant-thinking-skill",
-    "stars": 0,
-    "updated_at": "2026-10-13T07:06:34Z",
-    "url": "https://github.com/Ikramahmadmemon13/grant-thinking-skill"
   }
 ]
