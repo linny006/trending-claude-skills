@@ -1,12 +1,156 @@
 [
   {
+    "description": "Claude Code skills that rate parts of a project on a 1 to 5 scale, propose options, and delegate the chosen work to chea",
+    "id": "codezeroexe/levels",
+    "language": "Python",
+    "name": "codezeroexe/levels",
+    "stars": 1,
+    "updated_at": "2026-10-14T03:15:06Z",
+    "url": "https://github.com/codezeroexe/levels"
+  },
+  {
+    "description": "\u8ba9\u4e2d\u6587\u5199\u5f97\u6709\u547c\u5438\u2014\u2014\u4eba\u548c AI \u90fd\u7528\u5f97\u4e0a\u7684\u4e00\u628a\u5199\u4f5c\u5c3a\uff1a\u5199\u4f5c\u8282\u594f\u8bca\u65ad + \u8bd7\u8bcd\u8bed\u8054\u4f53\u68c0 + \u5341\u56db\u7bc7\u6559\u6750",
+    "id": "ZhongQuinnKing/yuchi",
+    "language": "HTML",
+    "name": "ZhongQuinnKing/yuchi",
+    "stars": 2,
+    "updated_at": "2026-10-14T03:14:58Z",
+    "url": "https://github.com/ZhongQuinnKing/yuchi"
+  },
+  {
+    "description": "Agent skill that maps how a field's constraints changed over two decades, to find where a new product, startup or line o",
+    "id": "qaemu/paradigma-skill",
+    "language": "Python",
+    "name": "qaemu/paradigma-skill",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:14:50Z",
+    "url": "https://github.com/qaemu/paradigma-skill"
+  },
+  {
+    "description": "\u4e2d\u82f1\u6587\u5b66\u672f\u5199\u4f5c\u53bbAI\u5316\u4e0e\u53bb\u9632\u5fa1\u6027\u8868\u8ff0 Agent Skill \u00b7 De-AI & de-hedge academic prose (zh/en) for Claude Code, Codex, pi and other Agent Skil",
+    "id": "LinYeeGiong/academic-deai",
+    "language": "Python",
+    "name": "LinYeeGiong/academic-deai",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:13:26Z",
+    "url": "https://github.com/LinYeeGiong/academic-deai"
+  },
+  {
+    "description": "Claquete.ai: o est\u00fadio de v\u00eddeo que o Claude opera. Demonstra\u00e7\u00e3o de ferramenta, aula animada, v\u00eddeos para redes e edi\u00e7\u00e3o",
+    "id": "dantaspaulo/claquete",
+    "language": "Python",
+    "name": "dantaspaulo/claquete",
+    "stars": 8,
+    "updated_at": "2026-10-14T03:13:04Z",
+    "url": "https://github.com/dantaspaulo/claquete"
+  },
+  {
+    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
+    "id": "EricTechPro/super-board",
+    "language": "HTML",
+    "name": "EricTechPro/super-board",
+    "stars": 227,
+    "updated_at": "2026-10-14T03:12:25Z",
+    "url": "https://github.com/EricTechPro/super-board"
+  },
+  {
+    "description": "Research-backed Russian AI humanizer skill for Claude Code. Blind test vs humanizer, humanizer-ru, slopotron: fewest mea",
+    "id": "neiroseti-ai/pocherk-humanizer-ru",
+    "language": "Python",
+    "name": "neiroseti-ai/pocherk-humanizer-ru",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:11:08Z",
+    "url": "https://github.com/neiroseti-ai/pocherk-humanizer-ru"
+  },
+  {
+    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
+    "id": "the911fund/skill-of-skills",
+    "language": "Python",
+    "name": "the911fund/skill-of-skills",
+    "stars": 64,
+    "updated_at": "2026-10-14T03:10:17Z",
+    "url": "https://github.com/the911fund/skill-of-skills"
+  },
+  {
+    "description": "A collection of skills, subagents, and hooks for Claude Code.",
+    "id": "richardkmichael/claude-rodin",
+    "language": "Python",
+    "name": "richardkmichael/claude-rodin",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:08:13Z",
+    "url": "https://github.com/richardkmichael/claude-rodin"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 8,
+    "updated_at": "2026-10-14T03:07:56Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
+    "description": "Agent Skills \u628a X Space \u53d8\u6210\u4e2d\u6587\u5e72\u8d27\u7b14\u8bb0\uff1a\u4e0b\u8f7d \u2192 \u5e26\u8bf4\u8bdd\u4eba\u8f6c\u5199 \u2192 LLM \u84b8\u998f \u2192 \u5206\u4eab\u56fe / Turn X Spaces into distilled Chinese notes with speaker lab",
+    "id": "eatmoreduck/yaya-skills",
+    "language": "Python",
+    "name": "eatmoreduck/yaya-skills",
+    "stars": 6,
+    "updated_at": "2026-10-14T03:07:43Z",
+    "url": "https://github.com/eatmoreduck/yaya-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 101629,
+    "updated_at": "2026-10-14T03:13:54Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 3313,
+    "updated_at": "2026-10-14T03:05:00Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "\ud55c/\uae00 \uc5c6\uc774 HWPX \ubb38\uc11c\ub97c \ub9cc\ub4e4\uace0 \uc77d\ub294 \ud30c\uc774\uc36c \ud234\ud0b7 \u00b7 MCP \uc11c\ubc84 \u00b7 claude.ai \uc2a4\ud0ac \u2014 2026-10-14 \uacf5\uac1c \uc2a4\ub0c5\uc0f7(\ub3d9\uacb0)",
+    "id": "Eum-Jium/hwpx-reporter",
+    "language": "Python",
+    "name": "Eum-Jium/hwpx-reporter",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:00:38Z",
+    "url": "https://github.com/Eum-Jium/hwpx-reporter"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-14T03:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "An emotional layer for Claude and local models, grounded in Anthropic's emotion research: feelings that show when they h",
     "id": "MehrdadNsr/emotion-layer-lab",
     "language": "Python",
     "name": "MehrdadNsr/emotion-layer-lab",
     "stars": 0,
-    "updated_at": "2026-10-14T02:59:57Z",
+    "updated_at": "2026-10-14T03:01:34Z",
     "url": "https://github.com/MehrdadNsr/emotion-layer-lab"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70004,
+    "updated_at": "2026-10-14T03:06:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Sentence to Issue \u2014 \u4e00\u53e5\u8bdd\u63d0 GitHub issue. Evidence, privacy scan, gh. \u00b7 \u4e2d\u6587 README",
@@ -16,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T02:57:24Z",
     "url": "https://github.com/qjzzsky/sentence-to-issue"
-  },
-  {
-    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
-    "id": "EricTechPro/super-board",
-    "language": "HTML",
-    "name": "EricTechPro/super-board",
-    "stars": 227,
-    "updated_at": "2026-10-14T02:56:49Z",
-    "url": "https://github.com/EricTechPro/super-board"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0434\u043b\u044f Claude: \u0443\u0431\u0438\u0440\u0430\u0435\u0442 \u00ab\u043d\u0435\u0439\u0440\u043e\u0441\u0435\u0442\u0435\u0432\u043e\u0439\u00bb \u043f\u043e\u0447\u0435\u0440\u043a \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u0438\u0445 \u0442\u0435\u043a\u0441\u0442\u043e\u0432 \u0438 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442 \u0441\u043c\u044b\u0441\u043b \u0430\u0432\u0442\u043e\u0440\u0430. \u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u043f\u043e \u0437\u0430\u043c\u0435\u0440\u0443 1851 \u0442\u0435\u043a\u0441",
-    "id": "neiroseti-ai/pocherk",
-    "language": "Python",
-    "name": "neiroseti-ai/pocherk",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:55:50Z",
-    "url": "https://github.com/neiroseti-ai/pocherk"
   },
   {
     "description": "Agent skills for matching decompilation of video games: per-function loop, parallel agents, toolchain forensics, session",
@@ -58,7 +184,7 @@
     "id": "coreyhaines31/marketingskills",
     "language": "JavaScript",
     "name": "coreyhaines31/marketingskills",
-    "stars": 54586,
+    "stars": 54587,
     "updated_at": "2026-10-14T02:51:40Z",
     "url": "https://github.com/coreyhaines31/marketingskills"
   },
@@ -70,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T02:51:16Z",
     "url": "https://github.com/sk9692-svg/job-search-kit"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 101617,
-    "updated_at": "2026-10-14T02:51:04Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "Plan social media campaigns, review posts, schedule approved publishing and read saved Insights through the Influence MC",
@@ -108,15 +225,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 8,
-    "updated_at": "2026-10-14T02:51:35Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's featur",
     "id": "teng-lin/notebooklm-py",
     "language": "Python",
@@ -133,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-10-14T02:45:43Z",
     "url": "https://github.com/seungyeop-lee/beads-starter"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-14T02:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "OPUS-ET-AGENT: An agentic workflow for cryo-ET that turns raw movies into molecular sociology",
@@ -211,7 +310,7 @@
     "id": "skeptrunedev/call4me",
     "language": "TypeScript",
     "name": "skeptrunedev/call4me",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-10-14T02:38:46Z",
     "url": "https://github.com/skeptrunedev/call4me"
   },
@@ -311,7 +410,7 @@
     "language": "Python",
     "name": "jeanpfs/stock-images",
     "stars": 4,
-    "updated_at": "2026-10-14T02:27:46Z",
+    "updated_at": "2026-10-14T03:14:50Z",
     "url": "https://github.com/jeanpfs/stock-images"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T02:26:29Z",
     "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
-  },
-  {
-    "description": "29 drop-in Claude Code skills: cost-tier model routing, debugging (rubber-duck, test-first-bugfix, trust-but-verify), an",
-    "id": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
-    "language": "JavaScript",
-    "name": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
-    "stars": 6,
-    "updated_at": "2026-10-14T02:26:03Z",
-    "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
-  },
-  {
-    "description": "Build, retrieve, and test structured AI agents using semantic search and retrieval-augmented generation.",
-    "id": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "language": "Python",
-    "name": "houseofprayerzinzendorf150/LLM-Agent-Factory",
-    "stars": 1,
-    "updated_at": "2026-10-14T02:25:29Z",
-    "url": "https://github.com/houseofprayerzinzendorf150/LLM-Agent-Factory"
-  },
-  {
-    "description": "Extract game schedules, player statistics, and team standings from the Amherst Adult Hockey League website using Python.",
-    "id": "Poetic-squamouscell685/aahl-web-scraper",
-    "language": "HTML",
-    "name": "Poetic-squamouscell685/aahl-web-scraper",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:25:25Z",
-    "url": "https://github.com/Poetic-squamouscell685/aahl-web-scraper"
-  },
-  {
-    "description": "\u6e17\u900f\u6d4b\u8bd5 / \u5b89\u5168\u7814\u7a76 / \u6f0f\u6d1e\u53d1\u73b0\u5168\u6d41\u7a0b Agent Skill\u3002",
-    "id": "enilmalus/Enil-ling-pesing",
-    "language": "\u2014",
-    "name": "enilmalus/Enil-ling-pesing",
-    "stars": 2,
-    "updated_at": "2026-10-14T02:24:59Z",
-    "url": "https://github.com/enilmalus/Enil-ling-pesing"
-  },
-  {
-    "description": "Aggregation repo of Agent Skills shared across AI harnesses \u2014 vendored from upstream sources (mattpocock, kill-ai-slop, ",
-    "id": "hu3rror/my-skills",
-    "language": "JavaScript",
-    "name": "hu3rror/my-skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:24:51Z",
-    "url": "https://github.com/hu3rror/my-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70003,
-    "updated_at": "2026-10-14T02:58:21Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Apply framework-agnostic coding standards to your Roblox projects for cleaner, secure, and efficient Luau scripts.",
-    "id": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "unpronounceable-ordersphenisciformes466/roblox-best-practices-skill",
-    "stars": 1,
-    "updated_at": "2026-10-14T02:23:54Z",
-    "url": "https://github.com/unpronounceable-ordersphenisciformes466/roblox-best-practices-skill"
-  },
-  {
-    "description": "Optimize Claude Code workflows for long-term physics and mathematics research projects with structured toolkits and prac",
-    "id": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "language": "Shell",
-    "name": "Speckledrattlesnakeinoculant470/claude-for-researchers",
-    "stars": 1,
-    "updated_at": "2026-10-14T02:21:15Z",
-    "url": "https://github.com/Speckledrattlesnakeinoculant470/claude-for-researchers"
-  },
-  {
-    "description": "Enforce architecture standards and maintainer workflows for AI coding agents to prevent code duplication, verify changes",
-    "id": "Wyattputrescent882/ai-code-governance-skill",
-    "language": "\u2014",
-    "name": "Wyattputrescent882/ai-code-governance-skill",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:21:11Z",
-    "url": "https://github.com/Wyattputrescent882/ai-code-governance-skill"
-  },
-  {
-    "description": "Audit and rewrite technical documentation to match the Microsoft Writing Style Guide using this Claude Code skill.",
-    "id": "kongma1891/microsoft-style-skill",
-    "language": "\u2014",
-    "name": "kongma1891/microsoft-style-skill",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:20:28Z",
-    "url": "https://github.com/kongma1891/microsoft-style-skill"
-  },
-  {
-    "description": "Process Excel, CSV, and Parquet files using natural language with this AI-powered desktop agent.",
-    "id": "subhad2218/Sheet-Agent",
-    "language": "\u2014",
-    "name": "subhad2218/Sheet-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:20:27Z",
-    "url": "https://github.com/subhad2218/Sheet-Agent"
   }
 ]
