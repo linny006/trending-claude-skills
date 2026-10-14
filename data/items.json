@@ -1,11 +1,29 @@
 [
   {
+    "description": "Spec-to-ship workflow plugin for Claude Code: spec \u2192 plan \u2192 TDD \u2192 Chrome DevTools UI tests \u2192 race/load tests \u2192 report. F",
+    "id": "quanghoath/dev-workflow",
+    "language": "HTML",
+    "name": "quanghoath/dev-workflow",
+    "stars": 1,
+    "updated_at": "2026-10-14T04:59:34Z",
+    "url": "https://github.com/quanghoath/dev-workflow"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-14T04:57:49Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free Claude skills: reorder list from stock exports, and a claim-by-claim fact-checker. The scripts do the maths.",
     "id": "deeprdai21-ai/practical-claude-skills",
     "language": "Python",
     "name": "deeprdai21-ai/practical-claude-skills",
     "stars": 0,
-    "updated_at": "2026-10-14T04:52:22Z",
+    "updated_at": "2026-10-14T04:58:08Z",
     "url": "https://github.com/deeprdai21-ai/practical-claude-skills"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 227,
     "updated_at": "2026-10-14T04:46:38Z",
     "url": "https://github.com/EricTechPro/super-board"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-14T04:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Free English productivity skills for AI coding agents: proofread docs, commit messages, meeting notes, code review, deep",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "longsizhuo/openInvest",
     "stars": 112,
-    "updated_at": "2026-10-14T04:14:37Z",
+    "updated_at": "2026-10-14T05:00:03Z",
     "url": "https://github.com/longsizhuo/openInvest"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T03:27:33Z",
     "url": "https://github.com/AlehHaiko/UX-directives-skill"
-  },
-  {
-    "description": "Aggregation repo of Agent Skills shared across AI harnesses \u2014 vendored from upstream sources (mattpocock, kill-ai-slop, ",
-    "id": "hu3rror/my-skills",
-    "language": "JavaScript",
-    "name": "hu3rror/my-skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:25:37Z",
-    "url": "https://github.com/hu3rror/my-skills"
   }
 ]
