@@ -1,11 +1,137 @@
 [
   {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 29,
+    "updated_at": "2026-10-14T03:29:29Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 101636,
+    "updated_at": "2026-10-14T03:27:44Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "A Claude skill that applies The Blue Book of UX Directives to design work: audits, reviews, topic lookups and requiremen",
+    "id": "AlehHaiko/UX-directives-skill",
+    "language": "HTML",
+    "name": "AlehHaiko/UX-directives-skill",
+    "stars": 1,
+    "updated_at": "2026-10-14T03:27:33Z",
+    "url": "https://github.com/AlehHaiko/UX-directives-skill"
+  },
+  {
+    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
+    "id": "EricTechPro/super-board",
+    "language": "HTML",
+    "name": "EricTechPro/super-board",
+    "stars": 227,
+    "updated_at": "2026-10-14T03:26:44Z",
+    "url": "https://github.com/EricTechPro/super-board"
+  },
+  {
+    "description": "Aggregation repo of Agent Skills shared across AI harnesses \u2014 vendored from upstream sources (mattpocock, kill-ai-slop, ",
+    "id": "hu3rror/my-skills",
+    "language": "JavaScript",
+    "name": "hu3rror/my-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:25:37Z",
+    "url": "https://github.com/hu3rror/my-skills"
+  },
+  {
+    "description": "Marketing skills for AI agents \u2014 paid ads, social media, SEO, competitor research, creative generation, email, analytics",
+    "id": "hyperfx-ai/marketing-skills",
+    "language": "Python",
+    "name": "hyperfx-ai/marketing-skills",
+    "stars": 102,
+    "updated_at": "2026-10-14T03:25:27Z",
+    "url": "https://github.com/hyperfx-ai/marketing-skills"
+  },
+  {
+    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
+    "id": "the911fund/skill-of-skills",
+    "language": "Python",
+    "name": "the911fund/skill-of-skills",
+    "stars": 64,
+    "updated_at": "2026-10-14T03:25:03Z",
+    "url": "https://github.com/the911fund/skill-of-skills"
+  },
+  {
+    "description": "Agent skill that maps how a field's constraints changed over two decades, to find where a new product, startup or line o",
+    "id": "qaemu/paradigma-skill",
+    "language": "Python",
+    "name": "qaemu/paradigma-skill",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:24:58Z",
+    "url": "https://github.com/qaemu/paradigma-skill"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 34,
+    "updated_at": "2026-10-14T03:22:20Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Claude Code skill for searching and downloading stock images from Pexels, Unsplash, and Pixabay",
+    "id": "jeanpfs/stock-images",
+    "language": "Python",
+    "name": "jeanpfs/stock-images",
+    "stars": 4,
+    "updated_at": "2026-10-14T03:21:20Z",
+    "url": "https://github.com/jeanpfs/stock-images"
+  },
+  {
+    "description": "Agent-friendly Python scripts and skill instructions for the AdsTurbo Open API.",
+    "id": "AdsTurbo/skill-adsturbo",
+    "language": "Python",
+    "name": "AdsTurbo/skill-adsturbo",
+    "stars": 1,
+    "updated_at": "2026-10-14T03:20:12Z",
+    "url": "https://github.com/AdsTurbo/skill-adsturbo"
+  },
+  {
+    "description": "Three Claude Code skills that stop an agent substituting reasoning for evidence.",
+    "id": "Nova-Caelum/no-mistakes",
+    "language": "Python",
+    "name": "Nova-Caelum/no-mistakes",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:19:34Z",
+    "url": "https://github.com/Nova-Caelum/no-mistakes"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 54,
+    "updated_at": "2026-10-14T03:16:31Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-14T03:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills that rate parts of a project on a 1 to 5 scale, propose options, and delegate the chosen work to chea",
     "id": "codezeroexe/levels",
     "language": "Python",
     "name": "codezeroexe/levels",
     "stars": 1,
-    "updated_at": "2026-10-14T03:15:06Z",
+    "updated_at": "2026-10-14T03:24:47Z",
     "url": "https://github.com/codezeroexe/levels"
   },
   {
@@ -16,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T03:14:58Z",
     "url": "https://github.com/ZhongQuinnKing/yuchi"
-  },
-  {
-    "description": "Agent skill that maps how a field's constraints changed over two decades, to find where a new product, startup or line o",
-    "id": "qaemu/paradigma-skill",
-    "language": "Python",
-    "name": "qaemu/paradigma-skill",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:14:50Z",
-    "url": "https://github.com/qaemu/paradigma-skill"
   },
   {
     "description": "\u4e2d\u82f1\u6587\u5b66\u672f\u5199\u4f5c\u53bbAI\u5316\u4e0e\u53bb\u9632\u5fa1\u6027\u8868\u8ff0 Agent Skill \u00b7 De-AI & de-hedge academic prose (zh/en) for Claude Code, Codex, pi and other Agent Skil",
@@ -45,15 +162,6 @@
     "url": "https://github.com/dantaspaulo/claquete"
   },
   {
-    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
-    "id": "EricTechPro/super-board",
-    "language": "HTML",
-    "name": "EricTechPro/super-board",
-    "stars": 227,
-    "updated_at": "2026-10-14T03:12:25Z",
-    "url": "https://github.com/EricTechPro/super-board"
-  },
-  {
     "description": "Research-backed Russian AI humanizer skill for Claude Code. Blind test vs humanizer, humanizer-ru, slopotron: fewest mea",
     "id": "neiroseti-ai/pocherk-humanizer-ru",
     "language": "Python",
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T03:11:08Z",
     "url": "https://github.com/neiroseti-ai/pocherk-humanizer-ru"
-  },
-  {
-    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
-    "id": "the911fund/skill-of-skills",
-    "language": "Python",
-    "name": "the911fund/skill-of-skills",
-    "stars": 64,
-    "updated_at": "2026-10-14T03:10:17Z",
-    "url": "https://github.com/the911fund/skill-of-skills"
   },
   {
     "description": "A collection of skills, subagents, and hooks for Claude Code.",
@@ -86,7 +185,7 @@
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 8,
-    "updated_at": "2026-10-14T03:07:56Z",
+    "updated_at": "2026-10-14T03:29:17Z",
     "url": "https://github.com/drnachio/postext"
   },
   {
@@ -99,20 +198,11 @@
     "url": "https://github.com/eatmoreduck/yaya-skills"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 101629,
-    "updated_at": "2026-10-14T03:13:54Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 3313,
+    "stars": 3314,
     "updated_at": "2026-10-14T03:05:00Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -124,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T03:00:38Z",
     "url": "https://github.com/Eum-Jium/hwpx-reporter"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-14T03:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "An emotional layer for Claude and local models, grounded in Anthropic's emotion research: feelings that show when they h",
@@ -171,20 +252,11 @@
     "url": "https://github.com/Ketbome/decomp-skills"
   },
   {
-    "description": "A Claude skill that applies The Blue Book of UX Directives to design work: audits, reviews, topic lookups and requiremen",
-    "id": "AlehHaiko/UX-directives-skill",
-    "language": "HTML",
-    "name": "AlehHaiko/UX-directives-skill",
-    "stars": 1,
-    "updated_at": "2026-10-14T02:54:09Z",
-    "url": "https://github.com/AlehHaiko/UX-directives-skill"
-  },
-  {
     "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
     "id": "coreyhaines31/marketingskills",
     "language": "JavaScript",
     "name": "coreyhaines31/marketingskills",
-    "stars": 54587,
+    "stars": 54589,
     "updated_at": "2026-10-14T02:51:40Z",
     "url": "https://github.com/coreyhaines31/marketingskills"
   },
@@ -277,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T02:41:16Z",
     "url": "https://github.com/noahowsh/dunkapi-mcp"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 34,
-    "updated_at": "2026-10-14T02:40:44Z",
-    "url": "https://github.com/travsteward/openwriter"
   },
   {
     "description": "AI skill that reads entire novels end-to-end (even millions of words, zero-skip, cross-session) and produces self-contai",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T02:29:14Z",
     "url": "https://github.com/alicekane437/cv-job-market-research"
-  },
-  {
-    "description": "Compress any long Claude response into an emoji-tagged list you can scan in five seconds.",
-    "id": "Loriabient5377/blahblahblah-skill",
-    "language": "\u2014",
-    "name": "Loriabient5377/blahblahblah-skill",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:28:52Z",
-    "url": "https://github.com/Loriabient5377/blahblahblah-skill"
-  },
-  {
-    "description": "Play Windows games on Mac without losing cursor, clicks, or screen to macOS distractions.",
-    "id": "aaamaxito-prog/deadeye",
-    "language": "Swift",
-    "name": "aaamaxito-prog/deadeye",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:28:34Z",
-    "url": "https://github.com/aaamaxito-prog/deadeye"
-  },
-  {
-    "description": "Claude Code skill for searching and downloading stock images from Pexels, Unsplash, and Pixabay",
-    "id": "jeanpfs/stock-images",
-    "language": "Python",
-    "name": "jeanpfs/stock-images",
-    "stars": 4,
-    "updated_at": "2026-10-14T03:14:50Z",
-    "url": "https://github.com/jeanpfs/stock-images"
-  },
-  {
-    "description": "Get structured AI assistance for UX/UI audits, dashboard redesigns, design system reviews, and AI product design.",
-    "id": "Gonadotrophic-tangent41/ux-ui-skills",
-    "language": "\u2014",
-    "name": "Gonadotrophic-tangent41/ux-ui-skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:27:09Z",
-    "url": "https://github.com/Gonadotrophic-tangent41/ux-ui-skills"
-  },
-  {
-    "description": "AI coding workflow for Claude Code, Codex and CodeBuddy: ticket-based development, resumable steps, evidence-based verif",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 4,
-    "updated_at": "2026-10-14T02:27:01Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "A curated list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation tasks.",
-    "id": "a1964378/geo-mcp-servers",
-    "language": "Python",
-    "name": "a1964378/geo-mcp-servers",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:26:34Z",
-    "url": "https://github.com/a1964378/geo-mcp-servers"
-  },
-  {
-    "description": "Discover new Claude Code plugins, link marketplaces, and install chosen tools effortlessly with BIKS Loader.",
-    "id": "triune-contemplation240/biks-claude-loader-update",
-    "language": "HTML",
-    "name": "triune-contemplation240/biks-claude-loader-update",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:26:29Z",
-    "url": "https://github.com/triune-contemplation240/biks-claude-loader-update"
   }
 ]
