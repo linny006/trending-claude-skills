@@ -1,12 +1,255 @@
 [
   {
-    "description": "Croftweaver: open-source AI website builder skills for Claude Code, Codex and Antigravity. From a short brief to a fast,",
-    "id": "karero/croftweaver",
+    "description": "Professional Blender 5.2 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs",
+    "id": "EL4CTEO/blender-skills",
     "language": "Python",
-    "name": "karero/croftweaver",
-    "stars": 6,
-    "updated_at": "2026-10-14T18:58:10Z",
-    "url": "https://github.com/karero/croftweaver"
+    "name": "EL4CTEO/blender-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:14:56Z",
+    "url": "https://github.com/EL4CTEO/blender-skills"
+  },
+  {
+    "description": "Professional Claude skills for real estate agents and fitness coaches.",
+    "id": "Temperbyte/temperbyte-skills.",
+    "language": "\u2014",
+    "name": "Temperbyte/temperbyte-skills.",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:14:46Z",
+    "url": "https://github.com/Temperbyte/temperbyte-skills."
+  },
+  {
+    "description": "Claude Code skill to publish a repo safely: history and secret checks, CI hardening, README, SEO and release.",
+    "id": "octrow/octrow-skills",
+    "language": "Python",
+    "name": "octrow/octrow-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:14:14Z",
+    "url": "https://github.com/octrow/octrow-skills"
+  },
+  {
+    "description": "A low-token working mode for Claude Code. ",
+    "id": "CroaBeast/frugal",
+    "language": "Python",
+    "name": "CroaBeast/frugal",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:13:51Z",
+    "url": "https://github.com/CroaBeast/frugal"
+  },
+  {
+    "description": "M\u00e9todo para dirigir Claude Code sin saber programar: skills que planean, montan y ordenan tus proyectos.",
+    "id": "guidocameraeq/vibe-kit",
+    "language": "Python",
+    "name": "guidocameraeq/vibe-kit",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:13:21Z",
+    "url": "https://github.com/guidocameraeq/vibe-kit"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-10-14T19:13:17Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 8,
+    "updated_at": "2026-10-14T19:13:11Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
+    "description": "",
+    "id": "asfakulsiam/asfakulsiam-motomation-design",
+    "language": "HTML",
+    "name": "asfakulsiam/asfakulsiam-motomation-design",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:10:50Z",
+    "url": "https://github.com/asfakulsiam/asfakulsiam-motomation-design"
+  },
+  {
+    "description": "Agent Skills distilled from Douyin (\u6296\u97f3) creator videos. viral-topic-picking scores and fixes viral short-video topics (\u7206",
+    "id": "liush2yuxjtu/douyin-video-skill",
+    "language": "Shell",
+    "name": "liush2yuxjtu/douyin-video-skill",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:07:56Z",
+    "url": "https://github.com/liush2yuxjtu/douyin-video-skill"
+  },
+  {
+    "description": "AI coding workflow for Claude Code, Codex and CodeBuddy: ticket-based development, resumable steps, evidence-based verif",
+    "id": "ayukyo/icode-skill",
+    "language": "Python",
+    "name": "ayukyo/icode-skill",
+    "stars": 4,
+    "updated_at": "2026-10-14T19:07:50Z",
+    "url": "https://github.com/ayukyo/icode-skill"
+  },
+  {
+    "description": "Find your next launch video without leaving your coding agent. A skill for Codex and Claude Code.",
+    "id": "sunmer/cliphouse-skills",
+    "language": "JavaScript",
+    "name": "sunmer/cliphouse-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:07:50Z",
+    "url": "https://github.com/sunmer/cliphouse-skills"
+  },
+  {
+    "description": "Production Toolkit & Scaffolding Engine for Model Context Protocol (MCP) Servers. Scaffold typed TS/Python servers, gene",
+    "id": "RitualDev-Lab/mcp-builder-kit",
+    "language": "TypeScript",
+    "name": "RitualDev-Lab/mcp-builder-kit",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:07:33Z",
+    "url": "https://github.com/RitualDev-Lab/mcp-builder-kit"
+  },
+  {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-14T19:12:40Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Agent skills for matching decompilation of video games: per-function loop, parallel agents, toolchain forensics, session",
+    "id": "Ketbome/decomp-skills",
+    "language": "Python",
+    "name": "Ketbome/decomp-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:05:21Z",
+    "url": "https://github.com/Ketbome/decomp-skills"
+  },
+  {
+    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
+    "id": "skeptrunedev/call4me",
+    "language": "TypeScript",
+    "name": "skeptrunedev/call4me",
+    "stars": 12,
+    "updated_at": "2026-10-14T19:05:17Z",
+    "url": "https://github.com/skeptrunedev/call4me"
+  },
+  {
+    "description": "FighterAPI: UFC, PFL and Bellator fight data for AI agents. Remote MCP server and REST API. Plus 16 free Claude skills f",
+    "id": "noahowsh/fighterapi-mcp",
+    "language": "\u2014",
+    "name": "noahowsh/fighterapi-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:04:58Z",
+    "url": "https://github.com/noahowsh/fighterapi-mcp"
+  },
+  {
+    "description": "BirdieAPI: PGA Tour, LPGA, LIV, DP World and Korn Ferry golf data for AI agents. Remote MCP server and REST API. Plus 16",
+    "id": "noahowsh/birdieapi-mcp",
+    "language": "\u2014",
+    "name": "noahowsh/birdieapi-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:04:53Z",
+    "url": "https://github.com/noahowsh/birdieapi-mcp"
+  },
+  {
+    "description": "AcesAPI: ATP and WTA tennis data for AI agents. Remote MCP server and REST API. Plus 16 free Claude skills for analytics",
+    "id": "noahowsh/acesapi-mcp",
+    "language": "\u2014",
+    "name": "noahowsh/acesapi-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:04:52Z",
+    "url": "https://github.com/noahowsh/acesapi-mcp"
+  },
+  {
+    "description": "StrikerAPI: soccer data for AI agents across 17 competitions. Remote MCP server and REST API. Plus 16 free Claude skills",
+    "id": "noahowsh/strikerapi-mcp",
+    "language": "\u2014",
+    "name": "noahowsh/strikerapi-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:04:50Z",
+    "url": "https://github.com/noahowsh/strikerapi-mcp"
+  },
+  {
+    "description": "FastballAPI: MLB and college baseball data for AI agents. Remote MCP server and REST API. Plus 16 free Claude skills for",
+    "id": "noahowsh/fastballapi-mcp",
+    "language": "\u2014",
+    "name": "noahowsh/fastballapi-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:04:49Z",
+    "url": "https://github.com/noahowsh/fastballapi-mcp"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:04:48Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "DunkAPI: NBA, WNBA and college basketball data for AI agents. Remote MCP server and REST API. Plus 16 free Claude skills",
+    "id": "noahowsh/dunkapi-mcp",
+    "language": "\u2014",
+    "name": "noahowsh/dunkapi-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:04:47Z",
+    "url": "https://github.com/noahowsh/dunkapi-mcp"
+  },
+  {
+    "description": "EndzoneAPI: the football data API as a hosted MCP server. Play-by-play with EPA, stats, injuries and closing lines since",
+    "id": "noahowsh/endzoneapi-mcp",
+    "language": "\u2014",
+    "name": "noahowsh/endzoneapi-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:04:46Z",
+    "url": "https://github.com/noahowsh/endzoneapi-mcp"
+  },
+  {
+    "description": "Your agent writes the code. dayjob handles the rest of the job: standups, tickets, PRs, reviews, incidents, 1:1s.",
+    "id": "alabenkhlifa/dayjob",
+    "language": "Shell",
+    "name": "alabenkhlifa/dayjob",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:04:45Z",
+    "url": "https://github.com/alabenkhlifa/dayjob"
+  },
+  {
+    "description": "28 free Claude Code skills for NHL analytics, betting models, and hockey research. Works with PuckAPI MCP server for liv",
+    "id": "PuckAPI/claude-sports-analytics",
+    "language": "\u2014",
+    "name": "PuckAPI/claude-sports-analytics",
+    "stars": 3,
+    "updated_at": "2026-10-14T19:04:45Z",
+    "url": "https://github.com/PuckAPI/claude-sports-analytics"
+  },
+  {
+    "description": "pickle for Claude Code: language-agnostic engineering playbooks and principles, lazy-loaded by effort level (low, medium",
+    "id": "PickleBoxer/pickle",
+    "language": "Shell",
+    "name": "PickleBoxer/pickle",
+    "stars": 0,
+    "updated_at": "2026-10-14T19:04:41Z",
+    "url": "https://github.com/PickleBoxer/pickle"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 5,
+    "updated_at": "2026-10-14T19:04:11Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-10-14T19:03:09Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
     "description": "Your bug was fixed. Just not everywhere. Finds fixes that reached some sibling implementations but not the others, as a ",
@@ -14,8 +257,35 @@
     "language": "JavaScript",
     "name": "heyzainali/half-fixed",
     "stars": 2,
-    "updated_at": "2026-10-14T18:58:07Z",
+    "updated_at": "2026-10-14T19:03:03Z",
     "url": "https://github.com/heyzainali/half-fixed"
+  },
+  {
+    "description": "Where my hug at? Tell your AI agent what you want a model to do. It finds what Hugging Face already has for it, what to ",
+    "id": "bikemeardsley/where-my-hug",
+    "language": "TypeScript",
+    "name": "bikemeardsley/where-my-hug",
+    "stars": 1,
+    "updated_at": "2026-10-14T19:01:38Z",
+    "url": "https://github.com/bikemeardsley/where-my-hug"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-14T19:00:22Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Croftweaver: open-source AI website builder skills for Claude Code, Codex and Antigravity. From a short brief to a fast,",
+    "id": "karero/croftweaver",
+    "language": "Python",
+    "name": "karero/croftweaver",
+    "stars": 6,
+    "updated_at": "2026-10-14T19:05:54Z",
+    "url": "https://github.com/karero/croftweaver"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -25,24 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-14T18:58:01Z",
     "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Where my hug at? Tell your AI agent what you want a model to do. It finds what Hugging Face already has for it, what to ",
-    "id": "bikemeardsley/where-my-hug",
-    "language": "TypeScript",
-    "name": "bikemeardsley/where-my-hug",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:57:38Z",
-    "url": "https://github.com/bikemeardsley/where-my-hug"
-  },
-  {
-    "description": "Your agent writes the code. dayjob handles the rest of the job: standups, tickets, PRs, reviews, incidents, 1:1s.",
-    "id": "alabenkhlifa/dayjob",
-    "language": "Shell",
-    "name": "alabenkhlifa/dayjob",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:57:11Z",
-    "url": "https://github.com/alabenkhlifa/dayjob"
   },
   {
     "description": "Forge of Thought is an AI cognitive extension: a workshop where your idea is forged into a decision you can stand behind",
@@ -59,17 +311,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 37,
-    "updated_at": "2026-10-14T18:54:43Z",
+    "updated_at": "2026-10-14T19:07:22Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
-    "id": "skeptrunedev/call4me",
-    "language": "TypeScript",
-    "name": "skeptrunedev/call4me",
-    "stars": 12,
-    "updated_at": "2026-10-14T18:54:29Z",
-    "url": "https://github.com/skeptrunedev/call4me"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -81,48 +324,12 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "pickle for Claude Code: language-agnostic engineering playbooks and principles, lazy-loaded by effort level (low, medium",
-    "id": "PickleBoxer/pickle",
-    "language": "Shell",
-    "name": "PickleBoxer/pickle",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:53:17Z",
-    "url": "https://github.com/PickleBoxer/pickle"
-  },
-  {
-    "description": "Agent skills for matching decompilation of video games: per-function loop, parallel agents, toolchain forensics, session",
-    "id": "Ketbome/decomp-skills",
-    "language": "Python",
-    "name": "Ketbome/decomp-skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:53:09Z",
-    "url": "https://github.com/Ketbome/decomp-skills"
-  },
-  {
-    "description": "M\u00e9todo para dirigir Claude Code sin saber programar: skills que planean, montan y ordenan tus proyectos.",
-    "id": "guidocameraeq/vibe-kit",
-    "language": "Python",
-    "name": "guidocameraeq/vibe-kit",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:50:41Z",
-    "url": "https://github.com/guidocameraeq/vibe-kit"
-  },
-  {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-14T18:50:14Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70023,
-    "updated_at": "2026-10-14T18:58:49Z",
+    "updated_at": "2026-10-14T19:14:45Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -133,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T18:45:55Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-14T18:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "One set of rules above every model. Fifteen skills for Claude Code, Codex and Grok Build that make your model plan first",
@@ -203,7 +401,7 @@
     "language": "HTML",
     "name": "baney75/myelinate",
     "stars": 0,
-    "updated_at": "2026-10-14T18:43:34Z",
+    "updated_at": "2026-10-14T19:08:52Z",
     "url": "https://github.com/baney75/myelinate"
   },
   {
@@ -250,203 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-14T18:35:53Z",
     "url": "https://github.com/ashfulcra/fulcra-tools"
-  },
-  {
-    "description": "Production Toolkit & Scaffolding Engine for Model Context Protocol (MCP) Servers. Scaffold typed TS/Python servers, gene",
-    "id": "RitualDev-Lab/mcp-builder-kit",
-    "language": "TypeScript",
-    "name": "RitualDev-Lab/mcp-builder-kit",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:35:17Z",
-    "url": "https://github.com/RitualDev-Lab/mcp-builder-kit"
-  },
-  {
-    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
-    "id": "soulmachine/skills",
-    "language": "Shell",
-    "name": "soulmachine/skills",
-    "stars": 3,
-    "updated_at": "2026-10-14T18:35:08Z",
-    "url": "https://github.com/soulmachine/skills"
-  },
-  {
-    "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
-    "id": "the-nam-shub/e5-real-skills",
-    "language": "TypeScript",
-    "name": "the-nam-shub/e5-real-skills",
-    "stars": 10,
-    "updated_at": "2026-10-14T18:35:08Z",
-    "url": "https://github.com/the-nam-shub/e5-real-skills"
-  },
-  {
-    "description": "Claude Code, Codex, OpenClaw and Ottili AI Skills - powered by Ottili ONE",
-    "id": "Ottili-ONE/skills",
-    "language": "Python",
-    "name": "Ottili-ONE/skills",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:31:46Z",
-    "url": "https://github.com/Ottili-ONE/skills"
-  },
-  {
-    "description": "Claude Code plugin for Nuxt 4 + Tailwind 4 projects in progress: aligns the global style to a fixed structure (optionall",
-    "id": "stefanBid/sb-context-nuxt",
-    "language": "JavaScript",
-    "name": "stefanBid/sb-context-nuxt",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:32:55Z",
-    "url": "https://github.com/stefanBid/sb-context-nuxt"
-  },
-  {
-    "description": "Claude Skill: FortiAnalyzer Dataset Creator",
-    "id": "sanderzegers/fortianalyzer-dataset-skill",
-    "language": "\u2014",
-    "name": "sanderzegers/fortianalyzer-dataset-skill",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:32:52Z",
-    "url": "https://github.com/sanderzegers/fortianalyzer-dataset-skill"
-  },
-  {
-    "description": "Claude Code skill: turn a reference video into a brand motion-graphics film, measured frame by frame and cut to the beat",
-    "id": "nicolleadduci/reference-to-motion",
-    "language": "JavaScript",
-    "name": "nicolleadduci/reference-to-motion",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:29:16Z",
-    "url": "https://github.com/nicolleadduci/reference-to-motion"
-  },
-  {
-    "description": "Agent Skill for generating original Lucide-style icon SVGs with Lucide-format metadata JSON. Works with Claude Code, Cod",
-    "id": "S6U5/lucide-svg-skill",
-    "language": "\u2014",
-    "name": "S6U5/lucide-svg-skill",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:29:06Z",
-    "url": "https://github.com/S6U5/lucide-svg-skill"
-  },
-  {
-    "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
-    "id": "walkwithedi/evergreen-wiki",
-    "language": "Python",
-    "name": "walkwithedi/evergreen-wiki",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:28:38Z",
-    "url": "https://github.com/walkwithedi/evergreen-wiki"
-  },
-  {
-    "description": "Agent Skill to read a Douyin (\u6296\u97f3) video link: caption, author, hashtags, engagement counts, chapters, on-screen text and",
-    "id": "liush2yuxjtu/douyin-read-skill",
-    "language": "Shell",
-    "name": "liush2yuxjtu/douyin-read-skill",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:27:49Z",
-    "url": "https://github.com/liush2yuxjtu/douyin-read-skill"
-  },
-  {
-    "description": "Agent Skills distilled from Douyin (\u6296\u97f3) creator videos. viral-topic-picking scores and fixes viral short-video topics (\u7206",
-    "id": "liush2yuxjtu/douyin-video-skill",
-    "language": "Shell",
-    "name": "liush2yuxjtu/douyin-video-skill",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:27:47Z",
-    "url": "https://github.com/liush2yuxjtu/douyin-video-skill"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:27:46Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "MIT reusable AI skills for Codex and Claude Code: safe publishing, research briefs, case studies, web scraping, copy cle",
-    "id": "jqaisystems/jqai-ai-skills",
-    "language": "Python",
-    "name": "jqaisystems/jqai-ai-skills",
-    "stars": 3,
-    "updated_at": "2026-10-14T18:27:33Z",
-    "url": "https://github.com/jqaisystems/jqai-ai-skills"
-  },
-  {
-    "description": "Open-source video parts + 6 AI skills that take an agent from a prompt to a finished, beat-synced video. Every frame is ",
-    "id": "ANVEAI/motion-pack",
-    "language": "Python",
-    "name": "ANVEAI/motion-pack",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:25:36Z",
-    "url": "https://github.com/ANVEAI/motion-pack"
-  },
-  {
-    "description": "Find your next launch video without leaving your coding agent. A skill for Codex and Claude Code.",
-    "id": "sunmer/cliphouse-skills",
-    "language": "JavaScript",
-    "name": "sunmer/cliphouse-skills",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:25:32Z",
-    "url": "https://github.com/sunmer/cliphouse-skills"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 102049,
-    "updated_at": "2026-10-14T18:25:14Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
-    "id": "the911fund/skill-of-skills",
-    "language": "Python",
-    "name": "the911fund/skill-of-skills",
-    "stars": 65,
-    "updated_at": "2026-10-14T18:25:04Z",
-    "url": "https://github.com/the911fund/skill-of-skills"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:25:01Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Example AI coding harness, with a test Python/FastAPI code project.",
-    "id": "darrenpaine/harnessd",
-    "language": "Python",
-    "name": "darrenpaine/harnessd",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:24:55Z",
-    "url": "https://github.com/darrenpaine/harnessd"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-14T18:24:28Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-10-14T18:24:03Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "JavaScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 2968,
-    "updated_at": "2026-10-14T18:22:17Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   }
 ]
