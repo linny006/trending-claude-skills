@@ -1,12 +1,129 @@
 [
   {
+    "description": "Claude skills that find jobs matching your resume across countries, check visa/work-rights fit, log leads in Google Shee",
+    "id": "sk9692-svg/job-search-kit",
+    "language": "\u2014",
+    "name": "sk9692-svg/job-search-kit",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:00:06Z",
+    "url": "https://github.com/sk9692-svg/job-search-kit"
+  },
+  {
     "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
     "id": "AnotherSava/claude-code-common",
     "language": "Python",
     "name": "AnotherSava/claude-code-common",
     "stars": 1,
-    "updated_at": "2026-10-14T03:44:58Z",
+    "updated_at": "2026-10-14T03:59:49Z",
     "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-10-14T03:59:36Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "\u83b7\u53d6\u6296\u97f3\u793e\u5a92\u5e73\u53f0\u7684\u8bc4\u8bba\u5185\u5bb9\u505a\u805a\u7c7b\u4e0e\u60c5\u611f\u5206\u6790\uff0c\u62bd\u53d6\u9ad8\u9891\u75db\u70b9\u3001\u529f\u80fd\u8bc9\u6c42\u4e0e\u672a\u88ab\u6ee1\u8db3\u7684\u9700\u6c42\uff0c\u8f93\u51fa\u9700\u6c42\u673a\u4f1a\u6e05\u5355\u4e0e\u4f50\u8bc1\u539f\u6587\u3002",
+    "id": "why20261/douyin-demand-mining",
+    "language": "JavaScript",
+    "name": "why20261/douyin-demand-mining",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:57:50Z",
+    "url": "https://github.com/why20261/douyin-demand-mining"
+  },
+  {
+    "description": "Agent skill that maps how a field's constraints changed over a certain time, to find where a new product, startup or lin",
+    "id": "qaemu/paradigma-skill",
+    "language": "Python",
+    "name": "qaemu/paradigma-skill",
+    "stars": 1,
+    "updated_at": "2026-10-14T03:56:32Z",
+    "url": "https://github.com/qaemu/paradigma-skill"
+  },
+  {
+    "description": "MCP server for AI hallucination detection & agent safety \u2014 verify claims, guard prompts, gate CUA actions",
+    "id": "fredyee/hallucc-mcp",
+    "language": "TypeScript",
+    "name": "fredyee/hallucc-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:55:17Z",
+    "url": "https://github.com/fredyee/hallucc-mcp"
+  },
+  {
+    "description": "AI skill that reads entire novels end-to-end (even millions of words, zero-skip, cross-session) and produces self-contai",
+    "id": "xt2012nb/book-reading-notes",
+    "language": "\u2014",
+    "name": "xt2012nb/book-reading-notes",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:54:32Z",
+    "url": "https://github.com/xt2012nb/book-reading-notes"
+  },
+  {
+    "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refi",
+    "id": "oil-oil/oil-ui",
+    "language": "Python",
+    "name": "oil-oil/oil-ui",
+    "stars": 1444,
+    "updated_at": "2026-10-14T03:54:20Z",
+    "url": "https://github.com/oil-oil/oil-ui"
+  },
+  {
+    "description": "Local Agents",
+    "id": "jrodrigopuca/local-agents",
+    "language": "Python",
+    "name": "jrodrigopuca/local-agents",
+    "stars": 2,
+    "updated_at": "2026-10-14T03:52:05Z",
+    "url": "https://github.com/jrodrigopuca/local-agents"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 101649,
+    "updated_at": "2026-10-14T03:51:17Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Claude Code skill for writing and checking homework short answers: short sentences, your own numbers, no AI tells. Inclu",
+    "id": "Shawn-Dong/hw-short-answer-skill",
+    "language": "Python",
+    "name": "Shawn-Dong/hw-short-answer-skill",
+    "stars": 0,
+    "updated_at": "2026-10-14T03:47:37Z",
+    "url": "https://github.com/Shawn-Dong/hw-short-answer-skill"
+  },
+  {
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
+    "id": "longsizhuo/openInvest",
+    "language": "Python",
+    "name": "longsizhuo/openInvest",
+    "stars": 112,
+    "updated_at": "2026-10-14T03:47:17Z",
+    "url": "https://github.com/longsizhuo/openInvest"
+  },
+  {
+    "description": "A lightweight agent skillset for every step of the building process.",
+    "id": "mnguyenht/bld-package",
+    "language": "Python",
+    "name": "mnguyenht/bld-package",
+    "stars": 1,
+    "updated_at": "2026-10-14T03:46:50Z",
+    "url": "https://github.com/mnguyenht/bld-package"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 126,
+    "updated_at": "2026-10-14T03:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -36,21 +153,12 @@
     "url": "https://github.com/walkwithedi/evergreen-wiki"
   },
   {
-    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
-    "id": "longsizhuo/openInvest",
-    "language": "Python",
-    "name": "longsizhuo/openInvest",
-    "stars": 112,
-    "updated_at": "2026-10-14T03:42:14Z",
-    "url": "https://github.com/longsizhuo/openInvest"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70007,
-    "updated_at": "2026-10-14T03:38:30Z",
+    "updated_at": "2026-10-14T03:53:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -58,18 +166,9 @@
     "id": "undefined-ui/second-brain-os",
     "language": "HTML",
     "name": "undefined-ui/second-brain-os",
-    "stars": 1059,
+    "stars": 1060,
     "updated_at": "2026-10-14T03:37:30Z",
     "url": "https://github.com/undefined-ui/second-brain-os"
-  },
-  {
-    "description": "Agent skill that maps how a field's constraints changed over two decades, to find where a new product, startup or line o",
-    "id": "qaemu/paradigma-skill",
-    "language": "Python",
-    "name": "qaemu/paradigma-skill",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:36:46Z",
-    "url": "https://github.com/qaemu/paradigma-skill"
   },
   {
     "description": "Evidence-based Google Play closed-test recruitment and one-for-one exchanges, with real-device feedback, privacy and hum",
@@ -90,15 +189,6 @@
     "url": "https://github.com/KKenny0/Tracework"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 126,
-    "updated_at": "2026-10-14T03:30:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
     "id": "geml-spec/geml",
     "language": "JavaScript",
@@ -106,15 +196,6 @@
     "stars": 29,
     "updated_at": "2026-10-14T03:29:29Z",
     "url": "https://github.com/geml-spec/geml"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 101645,
-    "updated_at": "2026-10-14T03:27:44Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "A Claude skill that applies The Blue Book of UX Directives to design work: audits, reviews, topic lookups and requiremen",
@@ -257,7 +338,7 @@
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 8,
-    "updated_at": "2026-10-14T03:44:10Z",
+    "updated_at": "2026-10-14T03:51:37Z",
     "url": "https://github.com/drnachio/postext"
   },
   {
@@ -274,7 +355,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 3315,
+    "stars": 3318,
     "updated_at": "2026-10-14T03:05:00Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -319,18 +400,9 @@
     "id": "coreyhaines31/marketingskills",
     "language": "JavaScript",
     "name": "coreyhaines31/marketingskills",
-    "stars": 54592,
+    "stars": 54593,
     "updated_at": "2026-10-14T02:51:40Z",
     "url": "https://github.com/coreyhaines31/marketingskills"
-  },
-  {
-    "description": "Claude skills that find jobs matching your resume across countries, check visa/work-rights fit, log leads in Google Shee",
-    "id": "sk9692-svg/job-search-kit",
-    "language": "\u2014",
-    "name": "sk9692-svg/job-search-kit",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:51:16Z",
-    "url": "https://github.com/sk9692-svg/job-search-kit"
   },
   {
     "description": "Plan social media campaigns, review posts, schedule approved publishing and read saved Insights through the Influence MC",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-14T02:45:43Z",
     "url": "https://github.com/seungyeop-lee/beads-starter"
-  },
-  {
-    "description": "OPUS-ET-AGENT: An agentic workflow for cryo-ET that turns raw movies into molecular sociology",
-    "id": "alncat/opus-et-agent",
-    "language": "Python",
-    "name": "alncat/opus-et-agent",
-    "stars": 1,
-    "updated_at": "2026-10-14T02:43:17Z",
-    "url": "https://github.com/alncat/opus-et-agent"
-  },
-  {
-    "description": "Tsubaiso Intelligence Skill \u2014 PSA/IMA\uff08Salesforce\uff09\u696d\u52d9\u306e\u53c2\u7167\u30fb\u30c7\u30fc\u30bf\u6295\u5165\u30fb\u30e1\u30bf\u30c7\u30fc\u30bf\u69cb\u6210\u30fb\u5e33\u7968\u30fb\u4ed5\u69d8\u53ef\u8996\u5316\u30fb\u66f4\u65b0\u652f\u63f4\u30fb\u30ed\u30fc\u30ab\u30eb API \u64cd\u4f5c\u3068\u3001\u5c0e\u5165\uff0f\u30ed\u30fc\u30eb\u30a2\u30a6\u30c8\uff0fPoC\uff0f\u958b\u767a\u904b\u7528\u30e9\u30a4\u30d5\u30b5\u30a4\u30af",
-    "id": "tsubaiso/tsubaiso-intelligence",
-    "language": "Python",
-    "name": "tsubaiso/tsubaiso-intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:41:50Z",
-    "url": "https://github.com/tsubaiso/tsubaiso-intelligence"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-10-14T02:41:19Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "DunkAPI: NBA, WNBA and college basketball data for AI agents. Remote MCP server and REST API. Plus 16 free Claude skills",
-    "id": "noahowsh/dunkapi-mcp",
-    "language": "\u2014",
-    "name": "noahowsh/dunkapi-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:41:16Z",
-    "url": "https://github.com/noahowsh/dunkapi-mcp"
-  },
-  {
-    "description": "AI skill that reads entire novels end-to-end (even millions of words, zero-skip, cross-session) and produces self-contai",
-    "id": "xt2012nb/book-reading-notes",
-    "language": "\u2014",
-    "name": "xt2012nb/book-reading-notes",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:40:28Z",
-    "url": "https://github.com/xt2012nb/book-reading-notes"
-  },
-  {
-    "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
-    "id": "ralvarezdev/ralvaskills",
-    "language": "Go",
-    "name": "ralvarezdev/ralvaskills",
-    "stars": 2,
-    "updated_at": "2026-10-14T02:39:39Z",
-    "url": "https://github.com/ralvarezdev/ralvaskills"
-  },
-  {
-    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
-    "id": "skeptrunedev/call4me",
-    "language": "TypeScript",
-    "name": "skeptrunedev/call4me",
-    "stars": 12,
-    "updated_at": "2026-10-14T02:38:46Z",
-    "url": "https://github.com/skeptrunedev/call4me"
-  },
-  {
-    "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-    "id": "Jeffallan/claude-skills",
-    "language": "Python",
-    "name": "Jeffallan/claude-skills",
-    "stars": 11858,
-    "updated_at": "2026-10-14T02:35:48Z",
-    "url": "https://github.com/Jeffallan/claude-skills"
   }
 ]
