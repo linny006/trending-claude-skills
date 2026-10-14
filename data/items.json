@@ -1,5 +1,77 @@
 [
   {
+    "description": "Free Claude skills: reorder list from stock exports, and a claim-by-claim fact-checker. The scripts do the maths.",
+    "id": "deeprdai21-ai/practical-claude-skills",
+    "language": "Python",
+    "name": "deeprdai21-ai/practical-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:52:22Z",
+    "url": "https://github.com/deeprdai21-ai/practical-claude-skills"
+  },
+  {
+    "description": "Discover the essential unofficial collection of Claude Code and Claude API resources\u2014docs, tools, and courses in one cur",
+    "id": "MaickCrack/awesome-claude-code-api",
+    "language": "\u2014",
+    "name": "MaickCrack/awesome-claude-code-api",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:50:55Z",
+    "url": "https://github.com/MaickCrack/awesome-claude-code-api"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70011,
+    "updated_at": "2026-10-14T04:49:17Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-14T04:48:37Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Index of my agent skills \u2014 each skill lives in its own repo",
+    "id": "Wang-Cankun/cankun-skills",
+    "language": "JavaScript",
+    "name": "Wang-Cankun/cankun-skills",
+    "stars": 2,
+    "updated_at": "2026-10-14T04:47:27Z",
+    "url": "https://github.com/Wang-Cankun/cankun-skills"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 8,
+    "updated_at": "2026-10-14T04:47:23Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
+    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
+    "id": "EricTechPro/super-board",
+    "language": "HTML",
+    "name": "EricTechPro/super-board",
+    "stars": 227,
+    "updated_at": "2026-10-14T04:46:38Z",
+    "url": "https://github.com/EricTechPro/super-board"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-14T04:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free English productivity skills for AI coding agents: proofread docs, commit messages, meeting notes, code review, deep",
     "id": "alapha888/agent-skills-en",
     "language": "\u2014",
@@ -126,33 +198,6 @@
     "url": "https://github.com/GangJaeYu/harness_loop_full_korean"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-14T04:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-14T04:35:38Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 8,
-    "updated_at": "2026-10-14T04:45:08Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
     "description": "Role-specialized engineering squad skills for AI coding agents.",
     "id": "danh121097/squad-skills",
     "language": "TypeScript",
@@ -184,8 +229,8 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 101658,
-    "updated_at": "2026-10-14T04:22:58Z",
+    "stars": 101663,
+    "updated_at": "2026-10-14T04:55:33Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
@@ -292,18 +337,9 @@
     "id": "oil-oil/oil-ui",
     "language": "Python",
     "name": "oil-oil/oil-ui",
-    "stars": 1446,
+    "stars": 1445,
     "updated_at": "2026-10-14T03:54:20Z",
     "url": "https://github.com/oil-oil/oil-ui"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70010,
-    "updated_at": "2026-10-14T03:53:49Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Local Agents",
@@ -364,7 +400,7 @@
     "id": "undefined-ui/second-brain-os",
     "language": "HTML",
     "name": "undefined-ui/second-brain-os",
-    "stars": 1061,
+    "stars": 1062,
     "updated_at": "2026-10-14T03:37:30Z",
     "url": "https://github.com/undefined-ui/second-brain-os"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/AlehHaiko/UX-directives-skill"
   },
   {
-    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
-    "id": "EricTechPro/super-board",
-    "language": "HTML",
-    "name": "EricTechPro/super-board",
-    "stars": 227,
-    "updated_at": "2026-10-14T04:37:25Z",
-    "url": "https://github.com/EricTechPro/super-board"
-  },
-  {
     "description": "Aggregation repo of Agent Skills shared across AI harnesses \u2014 vendored from upstream sources (mattpocock, kill-ai-slop, ",
     "id": "hu3rror/my-skills",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-14T03:25:37Z",
     "url": "https://github.com/hu3rror/my-skills"
-  },
-  {
-    "description": "Marketing skills for AI agents \u2014 paid ads, social media, SEO, competitor research, creative generation, email, analytics",
-    "id": "hyperfx-ai/marketing-skills",
-    "language": "Python",
-    "name": "hyperfx-ai/marketing-skills",
-    "stars": 102,
-    "updated_at": "2026-10-14T03:25:27Z",
-    "url": "https://github.com/hyperfx-ai/marketing-skills"
-  },
-  {
-    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
-    "id": "the911fund/skill-of-skills",
-    "language": "Python",
-    "name": "the911fund/skill-of-skills",
-    "stars": 64,
-    "updated_at": "2026-10-14T03:25:03Z",
-    "url": "https://github.com/the911fund/skill-of-skills"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 34,
-    "updated_at": "2026-10-14T03:22:20Z",
-    "url": "https://github.com/travsteward/openwriter"
   }
 ]
