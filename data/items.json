@@ -1,21 +1,102 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-14T04:28:12Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 8,
+    "updated_at": "2026-10-14T04:27:50Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
+    "description": "Role-specialized engineering squad skills for AI coding agents.",
+    "id": "danh121097/squad-skills",
+    "language": "TypeScript",
+    "name": "danh121097/squad-skills",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:28:24Z",
+    "url": "https://github.com/danh121097/squad-skills"
+  },
+  {
+    "description": "Decide once. Re-decide never. A Claude Code skill that evaluates skills before installing and persists every decision.",
+    "id": "captkernel/Skills_Curator",
+    "language": "Python",
+    "name": "captkernel/Skills_Curator",
+    "stars": 3,
+    "updated_at": "2026-10-14T04:27:20Z",
+    "url": "https://github.com/captkernel/Skills_Curator"
+  },
+  {
+    "description": "Drop in one skill and Claude starts working like someone who knows what they're doing: persistent memory, self-sizing ag",
+    "id": "captkernel/Claunchpad",
+    "language": "HTML",
+    "name": "captkernel/Claunchpad",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:27:18Z",
+    "url": "https://github.com/captkernel/Claunchpad"
+  },
+  {
+    "description": "Claude Code skills that rate parts of a project on a 1 to 5 scale, propose options, and delegate the chosen work to chea",
+    "id": "codezeroexe/levels",
+    "language": "Markdown",
+    "name": "codezeroexe/levels",
+    "stars": 2,
+    "updated_at": "2026-10-14T04:26:57Z",
+    "url": "https://github.com/codezeroexe/levels"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 101655,
+    "updated_at": "2026-10-14T04:22:58Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-10-14T04:17:00Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Claude skills that find jobs matching your resume across countries, check visa/work-rights fit, log leads in Google Shee",
+    "id": "sk9692-svg/job-search-kit",
+    "language": "\u2014",
+    "name": "sk9692-svg/job-search-kit",
+    "stars": 0,
+    "updated_at": "2026-10-14T04:27:56Z",
+    "url": "https://github.com/sk9692-svg/job-search-kit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-14T04:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 191,
-    "updated_at": "2026-10-14T04:14:58Z",
+    "updated_at": "2026-10-14T04:19:39Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "\u91ce\u751f\u4f60\u76d8\u53d4\u5f00\u6e90\u7684\u3010\u5f90\u5b50\u5e73bot\u3011\u6280\u80fd\u5305\uff1a\u516b\u5b57\u6279\u547d \u00b7 \u5927\u8fd0\u6d41\u5e74 \u00b7 \u53e4\u7c4d\u8bc1\u636e\u5206\u7ea7\u3002\u4e00\u5957\u6e90\u591a\u5e73\u53f0\u88c5 \u2014\u2014 WorkBuddy/CodeBuddy \u4e13\u5bb6\u5305 + Claude Code / Codex / Trae \u901a\u7528\u6280\u80fd\uff08SKILL.md\uff09\u3002",
-    "id": "x3747991-ship-it/xuziping-bazi",
-    "language": "Python",
-    "name": "x3747991-ship-it/xuziping-bazi",
-    "stars": 0,
-    "updated_at": "2026-10-14T04:14:15Z",
-    "url": "https://github.com/x3747991-ship-it/xuziping-bazi"
   },
   {
     "description": "Claude Code \u672c\u673a\u73af\u5883\u4f53\u68c0\u4e0e\u53ef\u63a7\u6e05\u7406\uff08macOS\uff09\uff1a\u53ea\u8bfb\u5ba1\u8ba1\u3001\u4ee3\u7406/DNS/WebRTC \u68c0\u6d4b\u3001\u786e\u8ba4\u540e\u5907\u4efd\u4e0e\u5206\u9879\u4fee\u590d\u3002",
@@ -45,24 +126,6 @@
     "url": "https://github.com/sunsiyuan/ultramotion"
   },
   {
-    "description": "Claude skills that find jobs matching your resume across countries, check visa/work-rights fit, log leads in Google Shee",
-    "id": "sk9692-svg/job-search-kit",
-    "language": "\u2014",
-    "name": "sk9692-svg/job-search-kit",
-    "stars": 0,
-    "updated_at": "2026-10-14T04:06:55Z",
-    "url": "https://github.com/sk9692-svg/job-search-kit"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-14T04:04:04Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
     "id": "YPares/rigup.nix",
     "language": "Nix",
@@ -72,15 +135,6 @@
     "url": "https://github.com/YPares/rigup.nix"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 101653,
-    "updated_at": "2026-10-14T04:02:57Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Claquete.ai: o est\u00fadio de v\u00eddeo que o Claude opera. Demonstra\u00e7\u00e3o de ferramenta, aula animada, v\u00eddeos para redes e edi\u00e7\u00e3o",
     "id": "dantaspaulo/claquete",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 8,
     "updated_at": "2026-10-14T04:02:51Z",
     "url": "https://github.com/dantaspaulo/claquete"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-14T04:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
@@ -157,7 +202,7 @@
     "id": "oil-oil/oil-ui",
     "language": "Python",
     "name": "oil-oil/oil-ui",
-    "stars": 1445,
+    "stars": 1446,
     "updated_at": "2026-10-14T03:54:20Z",
     "url": "https://github.com/oil-oil/oil-ui"
   },
@@ -166,7 +211,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70008,
+    "stars": 70009,
     "updated_at": "2026-10-14T03:53:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -214,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-14T03:44:49Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Claude Code skills that rate parts of a project on a 1 to 5 scale, propose options, and delegate the chosen work to chea",
-    "id": "codezeroexe/levels",
-    "language": "Markdown",
-    "name": "codezeroexe/levels",
-    "stars": 2,
-    "updated_at": "2026-10-14T03:43:45Z",
-    "url": "https://github.com/codezeroexe/levels"
   },
   {
     "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
@@ -284,7 +320,7 @@
     "language": "HTML",
     "name": "EricTechPro/super-board",
     "stars": 227,
-    "updated_at": "2026-10-14T03:26:44Z",
+    "updated_at": "2026-10-14T04:15:55Z",
     "url": "https://github.com/EricTechPro/super-board"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/richardkmichael/claude-rodin"
   },
   {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 8,
-    "updated_at": "2026-10-14T03:51:37Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
     "description": "Agent Skills \u628a X Space \u53d8\u6210\u4e2d\u6587\u5e72\u8d27\u7b14\u8bb0\uff1a\u4e0b\u8f7d \u2192 \u5e26\u8bf4\u8bdd\u4eba\u8f6c\u5199 \u2192 LLM \u84b8\u998f \u2192 \u5206\u4eab\u56fe / Turn X Spaces into distilled Chinese notes with speaker lab",
     "id": "eatmoreduck/yaya-skills",
     "language": "Python",
@@ -418,35 +445,8 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 3318,
+    "stars": 3320,
     "updated_at": "2026-10-14T03:05:00Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
-    "description": "\ud55c/\uae00 \uc5c6\uc774 HWPX \ubb38\uc11c\ub97c \ub9cc\ub4e4\uace0 \uc77d\ub294 \ud30c\uc774\uc36c \ud234\ud0b7 \u00b7 MCP \uc11c\ubc84 \u00b7 claude.ai \uc2a4\ud0ac \u2014 2026-10-14 \uacf5\uac1c \uc2a4\ub0c5\uc0f7(\ub3d9\uacb0)",
-    "id": "Eum-Jium/hwpx-reporter",
-    "language": "Python",
-    "name": "Eum-Jium/hwpx-reporter",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:00:38Z",
-    "url": "https://github.com/Eum-Jium/hwpx-reporter"
-  },
-  {
-    "description": "An emotional layer for Claude and local models, grounded in Anthropic's emotion research: feelings that show when they h",
-    "id": "MehrdadNsr/emotion-layer-lab",
-    "language": "Python",
-    "name": "MehrdadNsr/emotion-layer-lab",
-    "stars": 0,
-    "updated_at": "2026-10-14T03:01:34Z",
-    "url": "https://github.com/MehrdadNsr/emotion-layer-lab"
-  },
-  {
-    "description": "Sentence to Issue \u2014 \u4e00\u53e5\u8bdd\u63d0 GitHub issue. Evidence, privacy scan, gh. \u00b7 \u4e2d\u6587 README",
-    "id": "qjzzsky/sentence-to-issue",
-    "language": "Python",
-    "name": "qjzzsky/sentence-to-issue",
-    "stars": 0,
-    "updated_at": "2026-10-14T02:57:24Z",
-    "url": "https://github.com/qjzzsky/sentence-to-issue"
   }
 ]
