@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-15 15:14 UTC
+> ⏰ Last updated: 2026-10-15 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,38 +42,38 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 153 | Python | 2026-10-15 | My collection of Claude skills |
-| 2 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | HTML | 2026-10-15 | Free, public, no-auth REST APIs from AI SENSE AS — clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl |
-| 3 | [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli) | 126 | Go | 2026-10-15 | TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues. |
-| 4 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 433 | Python | 2026-10-15 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
-| 5 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 37 | — | 2026-10-15 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
-| 6 | [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 1 | Python | 2026-10-15 | Claude Skills |
-| 7 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 102515 | TypeScript | 2026-10-15 | The open-source app everyone uses to manage agents at work |
-| 8 | [wshobson/agents](https://github.com/wshobson/agents) | 40839 | Python | 2026-10-15 | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a |
-| 9 | [social-media-skills/instagram-reel-to-script](https://github.com/social-media-skills/instagram-reel-to-script) | 0 | Python | 2026-10-15 | Instagram reel to script, free: extract the transcript and on-screen text from any Reel, TikTok or Short, analyze why it |
-| 10 | [sanderzegers/fortianalyzer-dataset-skill](https://github.com/sanderzegers/fortianalyzer-dataset-skill) | 0 | Python | 2026-10-15 | Claude Skill: FortiAnalyzer Dataset Creator |
-| 11 | [AntonioCappiello/buongiorno](https://github.com/AntonioCappiello/buongiorno) | 0 | Python | 2026-10-15 | A Claude skill that builds you a personal morning newsletter about your own places, work and hobbies. |
-| 12 | [zecalis/fael-crew](https://github.com/zecalis/fael-crew) | 1 | Shell | 2026-10-15 | A lead agent on top of fael: runs headless Claude Code / opencode workers on ready plan chunks in their own worktrees, r |
-| 13 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-10-15 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
-| 14 | [ppchanning/agent-environments-and-evaluation](https://github.com/ppchanning/agent-environments-and-evaluation) | 0 | HTML | 2026-10-15 | Research reading map for Agent Simulation Environments: stateful simulators, environment generation, tool-service simula |
-| 15 | [filippolmt/skills](https://github.com/filippolmt/skills) | 1 | HTML | 2026-10-15 | Skill marketplace for Claude Code, pi and Codex — install one skill per plugin, or read the vendored tree. External skil |
-| 16 | [ppchanning/ai4science-observatory](https://github.com/ppchanning/ai4science-observatory) | 0 | JavaScript | 2026-10-15 | AI for Science research, scientific agents, software use, remote experiments, and reusable research & industry catalogs. |
-| 17 | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | 1 | Python | 2026-10-15 | 61 portable specialist skills with searchable discovery and an explainable deterministic task router. Free under MIT. Ve |
-| 18 | [pantalytics/this-should-be-illegal](https://github.com/pantalytics/this-should-be-illegal) | 0 | Python | 2026-10-15 | Open-source legal templates and AI skills for entrepreneurs, with real checks against the law. NL first, then Europe. |
-| 19 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-10-15 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 20 | [appautomaton/document-SKILLs](https://github.com/appautomaton/document-SKILLs) | 170 | Python | 2026-10-15 | Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint manipulation — extraction, forms, formulas, tracked ch |
-| 21 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 30951 | TypeScript | 2026-10-15 | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco |
-| 22 | [nox-1354/fund-toolkit](https://github.com/nox-1354/fund-toolkit) | 2 | Python | 2026-10-15 | 基金全栈数据工具包：搜索/净值/持仓/评分/筛选/相关性/定投回测/HTML报告，一个文件搞定。零第三方依赖、不需要本地服务，支持Python 3.8+；同时是Python库和AI Skill。 |
-| 23 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-10-15 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
-| 24 | [NTWKKM/shinystat-skills](https://github.com/NTWKKM/shinystat-skills) | 0 | Python | 2026-10-15 | medstat-core is a pure headless Python biostatistical calculation engine  |
-| 25 | [nalaj/metafyl](https://github.com/nalaj/metafyl) | 0 | JavaScript | 2026-10-15 | Generate a self-contained HTML "session story" that links each prompt in a vibe coding session to the file edits it caus |
-| 26 | [posit-dev/skills](https://github.com/posit-dev/skills) | 542 | R | 2026-10-15 | A collection of Claude Skills from Posit |
-| 27 | [ValentinNikolaev/agent-skills](https://github.com/ValentinNikolaev/agent-skills) | 1 | Python | 2026-10-15 | Cross-platform agent skills and plugin distributions for OpenAI Codex and Claude Code. |
-| 28 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 70062 | TypeScript | 2026-10-15 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 29 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-10-15 | Deterministic multi-CLI orchestration and AI agentic workflow utility. |
-| 30 | [ali-meoo/meoo-cli](https://github.com/ali-meoo/meoo-cli) | 27 | JavaScript | 2026-10-15 | meoo cli 是秒悟（Meoo）官方推出的命令行工具，让 Claude Code、Codex、Cursor、Qoder等本地 agent 在帮你写完前端代码后，能直接接管「数据库、用户登录、文件存储、部署上线」的所有云端工作——你只需要 |
-| 31 | [devohmycode/skills-atlas](https://github.com/devohmycode/skills-atlas) | 3 | TypeScript | 2026-10-15 | Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add. |
-| 32 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 127 | Python | 2026-10-15 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 127 | Python | 2026-10-15 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 153 | Python | 2026-10-15 | My collection of Claude skills |
+| 3 | [aisenseapi/aisense-free-public-rest-apis](https://github.com/aisenseapi/aisense-free-public-rest-apis) | 0 | HTML | 2026-10-15 | Free, public, no-auth REST APIs from AI SENSE AS — clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl |
+| 4 | [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli) | 126 | Go | 2026-10-15 | TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues. |
+| 5 | [aiskillstore/marketplace](https://github.com/aiskillstore/marketplace) | 433 | Python | 2026-10-15 | Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. |
+| 6 | [HIDORAKAI002/ai-workspace-archive](https://github.com/HIDORAKAI002/ai-workspace-archive) | 37 | — | 2026-10-15 | A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl |
+| 7 | [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 1 | Python | 2026-10-15 | Claude Skills |
+| 8 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 102515 | TypeScript | 2026-10-15 | The open-source app everyone uses to manage agents at work |
+| 9 | [wshobson/agents](https://github.com/wshobson/agents) | 40839 | Python | 2026-10-15 | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a |
+| 10 | [social-media-skills/instagram-reel-to-script](https://github.com/social-media-skills/instagram-reel-to-script) | 0 | Python | 2026-10-15 | Instagram reel to script, free: extract the transcript and on-screen text from any Reel, TikTok or Short, analyze why it |
+| 11 | [sanderzegers/fortianalyzer-dataset-skill](https://github.com/sanderzegers/fortianalyzer-dataset-skill) | 0 | Python | 2026-10-15 | Claude Skill: FortiAnalyzer Dataset Creator |
+| 12 | [AntonioCappiello/buongiorno](https://github.com/AntonioCappiello/buongiorno) | 0 | Python | 2026-10-15 | A Claude skill that builds you a personal morning newsletter about your own places, work and hobbies. |
+| 13 | [zecalis/fael-crew](https://github.com/zecalis/fael-crew) | 1 | Shell | 2026-10-15 | A lead agent on top of fael: runs headless Claude Code / opencode workers on ready plan chunks in their own worktrees, r |
+| 14 | [Fiskopoi/outline-driven-toolkit](https://github.com/Fiskopoi/outline-driven-toolkit) | 1 | HTML | 2026-10-15 | Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits |
+| 15 | [ppchanning/agent-environments-and-evaluation](https://github.com/ppchanning/agent-environments-and-evaluation) | 0 | HTML | 2026-10-15 | Research reading map for Agent Simulation Environments: stateful simulators, environment generation, tool-service simula |
+| 16 | [filippolmt/skills](https://github.com/filippolmt/skills) | 1 | HTML | 2026-10-15 | Skill marketplace for Claude Code, pi and Codex — install one skill per plugin, or read the vendored tree. External skil |
+| 17 | [ppchanning/ai4science-observatory](https://github.com/ppchanning/ai4science-observatory) | 0 | JavaScript | 2026-10-15 | AI for Science research, scientific agents, software use, remote experiments, and reusable research & industry catalogs. |
+| 18 | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop) | 1 | Python | 2026-10-15 | 61 portable specialist skills with searchable discovery and an explainable deterministic task router. Free under MIT. Ve |
+| 19 | [pantalytics/this-should-be-illegal](https://github.com/pantalytics/this-should-be-illegal) | 0 | Python | 2026-10-15 | Open-source legal templates and AI skills for entrepreneurs, with real checks against the law. NL first, then Europe. |
+| 20 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-10-15 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
+| 21 | [appautomaton/document-SKILLs](https://github.com/appautomaton/document-SKILLs) | 170 | Python | 2026-10-15 | Claude Code and Codex SKILLs for PDF, Excel, Word, and PowerPoint manipulation — extraction, forms, formulas, tracked ch |
+| 22 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 30951 | TypeScript | 2026-10-15 | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco |
+| 23 | [nox-1354/fund-toolkit](https://github.com/nox-1354/fund-toolkit) | 2 | Python | 2026-10-15 | 基金全栈数据工具包：搜索/净值/持仓/评分/筛选/相关性/定投回测/HTML报告，一个文件搞定。零第三方依赖、不需要本地服务，支持Python 3.8+；同时是Python库和AI Skill。 |
+| 24 | [sujal11101/hotel-ai-operations-suite](https://github.com/sujal11101/hotel-ai-operations-suite) | 2 | HTML | 2026-10-15 | 🏨 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite |
+| 25 | [NTWKKM/shinystat-skills](https://github.com/NTWKKM/shinystat-skills) | 0 | Python | 2026-10-15 | medstat-core is a pure headless Python biostatistical calculation engine  |
+| 26 | [nalaj/metafyl](https://github.com/nalaj/metafyl) | 0 | JavaScript | 2026-10-15 | Generate a self-contained HTML "session story" that links each prompt in a vibe coding session to the file edits it caus |
+| 27 | [posit-dev/skills](https://github.com/posit-dev/skills) | 542 | R | 2026-10-15 | A collection of Claude Skills from Posit |
+| 28 | [ValentinNikolaev/agent-skills](https://github.com/ValentinNikolaev/agent-skills) | 1 | Python | 2026-10-15 | Cross-platform agent skills and plugin distributions for OpenAI Codex and Claude Code. |
+| 29 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 70062 | TypeScript | 2026-10-15 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 30 | [martinambrus/haive](https://github.com/martinambrus/haive) | 5 | TypeScript | 2026-10-15 | Deterministic multi-CLI orchestration and AI agentic workflow utility. |
+| 31 | [ali-meoo/meoo-cli](https://github.com/ali-meoo/meoo-cli) | 27 | JavaScript | 2026-10-15 | meoo cli 是秒悟（Meoo）官方推出的命令行工具，让 Claude Code、Codex、Cursor、Qoder等本地 agent 在帮你写完前端代码后，能直接接管「数据库、用户登录、文件存储、部署上线」的所有云端工作——你只需要 |
+| 32 | [devohmycode/skills-atlas](https://github.com/devohmycode/skills-atlas) | 3 | TypeScript | 2026-10-15 | Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add. |
 | 33 | [darrenpaine/harnessd](https://github.com/darrenpaine/harnessd) | 0 | Python | 2026-10-15 | Example AI coding harness, with a test Python/FastAPI code project. |
 | 34 | [gagoar/iceberg](https://github.com/gagoar/iceberg) | 8 | TypeScript | 2026-10-15 | Claude Code plugin: grades every plan Claude writes against 14 Hemingway rules and rewrites docs to an A. |
 | 35 | [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto) | 210 | Rust | 2026-10-15 | 📼 Declarative AI agent environment manager, written in Rust |
