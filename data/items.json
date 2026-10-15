@@ -1,5 +1,122 @@
 [
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 102253,
+    "updated_at": "2026-10-15T04:59:38Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "JD \u7ffb\u8bd1\u5b98 \u2014 \u628a\u591a\u4e2a\u62db\u8058 JD \u805a\u7c7b\u4e3a\u53ef\u6267\u884c\u6c42\u804c\u65b9\u5411\u7684 Agent Skill\uff1a\u80fd\u529b\u805a\u7c7b\u3001\u7b80\u5386\u5206\u7248\u51b3\u7b56\u3001\u8bc1\u636e\u8bbf\u8c08\u3001\u5b9a\u5411 CV \u91cd\u5199\uff08\u9762\u5411\u4ea7\u54c1/UX \u8bbe\u8ba1\u5e08\uff09",
+    "id": "sxr-design/jd-translator",
+    "language": "\u2014",
+    "name": "sxr-design/jd-translator",
+    "stars": 0,
+    "updated_at": "2026-10-15T04:59:13Z",
+    "url": "https://github.com/sxr-design/jd-translator"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 3388,
+    "updated_at": "2026-10-15T04:58:53Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "Reusable Claude Code skills for code review, security, architecture, and documentation work.",
+    "id": "RealDougEubanks/ClaudeMarketplace",
+    "language": "Shell",
+    "name": "RealDougEubanks/ClaudeMarketplace",
+    "stars": 1,
+    "updated_at": "2026-10-15T04:59:45Z",
+    "url": "https://github.com/RealDougEubanks/ClaudeMarketplace"
+  },
+  {
+    "description": "MCP server, CLI and agent skill for Vaneform: free website traffic checker (monthly visits, traffic sources, top countri",
+    "id": "jiangqizheng/vaneform-mcp",
+    "language": "TypeScript",
+    "name": "jiangqizheng/vaneform-mcp",
+    "stars": 2,
+    "updated_at": "2026-10-15T04:58:52Z",
+    "url": "https://github.com/jiangqizheng/vaneform-mcp"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1224,
+    "updated_at": "2026-10-15T04:58:07Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Engineering workflow system for AI coding agents \u2014 mandatory planning, TDD, verification, review, and intelligent codeba",
+    "id": "datit309/supergraph",
+    "language": "JavaScript",
+    "name": "datit309/supergraph",
+    "stars": 22,
+    "updated_at": "2026-10-15T04:57:45Z",
+    "url": "https://github.com/datit309/supergraph"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-10-15T04:56:31Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-15T04:56:00Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "127 portable ecommerce skills for marketplace research, product discovery, keyword analysis, trends, sourcing, patent sc",
+    "id": "nexscope-ai/nexscope-ecommerce-skills",
+    "language": "Python",
+    "name": "nexscope-ai/nexscope-ecommerce-skills",
+    "stars": 91,
+    "updated_at": "2026-10-15T04:53:19Z",
+    "url": "https://github.com/nexscope-ai/nexscope-ecommerce-skills"
+  },
+  {
+    "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
+    "id": "savanna0425/skillhot",
+    "language": "JavaScript",
+    "name": "savanna0425/skillhot",
+    "stars": 39,
+    "updated_at": "2026-10-15T04:50:38Z",
+    "url": "https://github.com/savanna0425/skillhot"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70042,
+    "updated_at": "2026-10-15T04:56:16Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-15T04:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -16,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T04:43:18Z",
     "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1224,
-    "updated_at": "2026-10-15T04:43:51Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 102248,
-    "updated_at": "2026-10-15T04:44:13Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -54,15 +153,6 @@
     "url": "https://github.com/HiroHyun/grounded-copy"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-15T04:35:43Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Agent skills to plan, write and schedule social media posts with PostWire",
     "id": "Perufitlife/postwire-skills",
     "language": "JavaScript",
@@ -81,21 +171,12 @@
     "url": "https://github.com/Modellix/modellix-plugin"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-15T04:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated agent plugins and tooling by Knitli",
     "id": "knitli/toolshed",
     "language": "TypeScript",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-15T04:40:49Z",
+    "updated_at": "2026-10-15T05:00:01Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -106,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-15T04:29:14Z",
     "url": "https://github.com/TranBaDat2607/claude-code-kaggle-grandmaster"
-  },
-  {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 3388,
-    "updated_at": "2026-10-15T04:28:29Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-10-15T04:25:49Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
     "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
@@ -142,24 +205,6 @@
     "stars": 156,
     "updated_at": "2026-10-15T04:25:15Z",
     "url": "https://github.com/vaibhavarora14/job-application-agent"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70041,
-    "updated_at": "2026-10-15T04:37:34Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Engineering workflow system for AI coding agents \u2014 mandatory planning, TDD, verification, review, and intelligent codeba",
-    "id": "datit309/supergraph",
-    "language": "JavaScript",
-    "name": "datit309/supergraph",
-    "stars": 22,
-    "updated_at": "2026-10-15T04:21:25Z",
-    "url": "https://github.com/datit309/supergraph"
   },
   {
     "description": "Composable agent skills and project-scoped environments for Nix. ",
@@ -319,7 +364,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 83668,
+    "stars": 83672,
     "updated_at": "2026-10-15T04:02:15Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T03:49:14Z",
     "url": "https://github.com/alncat/opus-et-agent"
-  },
-  {
-    "description": "Claude Skill\uff1a\u628a\u4efb\u4f55\u6982\u5ff5\u8bb2\u5230\u96f6\u57fa\u7840\u5c0f\u767d\u4e5f\u80fd\u61c2",
-    "id": "qxace12306-bit/plain-explainer",
-    "language": "\u2014",
-    "name": "qxace12306-bit/plain-explainer",
-    "stars": 1,
-    "updated_at": "2026-10-15T03:49:08Z",
-    "url": "https://github.com/qxace12306-bit/plain-explainer"
-  },
-  {
-    "description": "PubMed\u6587\u732e\u5f15\u7528\u6279\u91cf\u9a8c\u8bc1\u5de5\u5177 - AI\u5e7b\u89c9\u68c0\u6d4b",
-    "id": "docsor1212/pubmed-verifier",
-    "language": "Python",
-    "name": "docsor1212/pubmed-verifier",
-    "stars": 2,
-    "updated_at": "2026-10-15T03:48:46Z",
-    "url": "https://github.com/docsor1212/pubmed-verifier"
-  },
-  {
-    "description": "Agentic coding decision replay\uff1a\u8bb0\u5f55\u4e3a\u4ec0\u4e48\uff0c\u628a session signals \u9010\u5c42\u6536\u53e3\u6210\u53ef\u6838\u9a8c\u7684\u5468\u62a5\u3001\u6708\u62a5\u548c\u8def\u7ebf\u56fe\u3002",
-    "id": "KKenny0/Tracework",
-    "language": "Python",
-    "name": "KKenny0/Tracework",
-    "stars": 2,
-    "updated_at": "2026-10-15T03:48:40Z",
-    "url": "https://github.com/KKenny0/Tracework"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-10-15T03:48:27Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 95,
-    "updated_at": "2026-10-15T03:46:33Z",
-    "url": "https://github.com/YPares/rigup.nix"
   }
 ]
