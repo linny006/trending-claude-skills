@@ -1,5 +1,113 @@
 [
   {
+    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
+    "id": "allxsmith/bestax-skills",
+    "language": "TypeScript",
+    "name": "allxsmith/bestax-skills",
+    "stars": 2,
+    "updated_at": "2026-10-15T02:26:52Z",
+    "url": "https://github.com/allxsmith/bestax-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 102199,
+    "updated_at": "2026-10-15T02:25:03Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-15T02:24:28Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Production Toolkit & Scaffolding Engine for Model Context Protocol (MCP) Servers. Scaffold typed TS/Python servers, gene",
+    "id": "RitualDev-Lab/mcp-builder-kit",
+    "language": "TypeScript",
+    "name": "RitualDev-Lab/mcp-builder-kit",
+    "stars": 3,
+    "updated_at": "2026-10-15T02:23:11Z",
+    "url": "https://github.com/RitualDev-Lab/mcp-builder-kit"
+  },
+  {
+    "description": "Free agent skills from Heboh: grow a small business on Threads (heboh.xyz)",
+    "id": "faezmurshidi/heboh-skills",
+    "language": "\u2014",
+    "name": "faezmurshidi/heboh-skills",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:22:12Z",
+    "url": "https://github.com/faezmurshidi/heboh-skills"
+  },
+  {
+    "description": "SocialDataX skills for Xiaohongshu, XHS, RedNote, and Douyin content research",
+    "id": "DevinChen2014/socialdatax-skills",
+    "language": "JavaScript",
+    "name": "DevinChen2014/socialdatax-skills",
+    "stars": 5,
+    "updated_at": "2026-10-15T02:21:22Z",
+    "url": "https://github.com/DevinChen2014/socialdatax-skills"
+  },
+  {
+    "description": "Claude skill for Odoo 16-19 development: scaffold version-correct modules, scan for deprecated code when porting, plus T",
+    "id": "panusbodee-owen/odoo-dev-skill",
+    "language": "Python",
+    "name": "panusbodee-owen/odoo-dev-skill",
+    "stars": 1,
+    "updated_at": "2026-10-15T02:21:11Z",
+    "url": "https://github.com/panusbodee-owen/odoo-dev-skill"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 59,
+    "updated_at": "2026-10-15T02:26:32Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Claude skills + zero-dependency CLI: analyze, fix, schedule, post and learn from Instagram Reels via the official API",
+    "id": "dileepgaganr/instagram-autopilot-skill",
+    "language": "JavaScript",
+    "name": "dileepgaganr/instagram-autopilot-skill",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:17:41Z",
+    "url": "https://github.com/dileepgaganr/instagram-autopilot-skill"
+  },
+  {
+    "description": "ABS \u00b7 AI Business System skill for AI agents: lean and operational-excellence methods with sources, scheduled plans and ",
+    "id": "hypergraphdev/abs-skills",
+    "language": "Python",
+    "name": "hypergraphdev/abs-skills",
+    "stars": 2,
+    "updated_at": "2026-10-15T02:16:23Z",
+    "url": "https://github.com/hypergraphdev/abs-skills"
+  },
+  {
+    "description": "video \u2014 a big skill for professional AI video editing: craft-first grammar of the cut, transcript-driven EDL pipeline, f",
+    "id": "lucasgabrieldevgg/video",
+    "language": "\u2014",
+    "name": "lucasgabrieldevgg/video",
+    "stars": 0,
+    "updated_at": "2026-10-15T02:15:19Z",
+    "url": "https://github.com/lucasgabrieldevgg/video"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-15T02:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Official imageat agent skill: generate images and videos from Claude Code, Codex, Cursor and other agents",
     "id": "incendies/imageat-skills",
     "language": "\u2014",
@@ -16,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-10-15T02:10:55Z",
     "url": "https://github.com/RevolutionLA/adversarial-review"
-  },
-  {
-    "description": "Claude skills + zero-dependency CLI: analyze, fix, schedule, post and learn from Instagram Reels via the official API",
-    "id": "dileepgaganr/instagram-autopilot-skill",
-    "language": "JavaScript",
-    "name": "dileepgaganr/instagram-autopilot-skill",
-    "stars": 0,
-    "updated_at": "2026-10-15T02:14:31Z",
-    "url": "https://github.com/dileepgaganr/instagram-autopilot-skill"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -52,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-15T02:08:50Z",
     "url": "https://github.com/ADC1920/AI-short-play-video-creation"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 102193,
-    "updated_at": "2026-10-15T02:15:03Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "Claude Code \u672c\u673a\u73af\u5883\u4f53\u68c0\u4e0e\u53ef\u63a7\u6e05\u7406\uff08macOS\uff09\uff1a\u53ea\u8bfb\u5ba1\u8ba1\u3001\u4ee3\u7406/DNS/WebRTC \u68c0\u6d4b\u3001\u786e\u8ba4\u540e\u5907\u4efd\u4e0e\u5206\u9879\u4fee\u590d\u3002",
@@ -108,31 +198,13 @@
     "url": "https://github.com/soulmachine/skills"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-15T02:14:56Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "Agent Skills for planning, analysis and report writing. \uae30\ud68d, \ubd84\uc11d, \ubcf4\uace0\uc11c \uc791\uc131\uc744 \uc704\ud55c \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
     "id": "emdashsmoker/biz-agent-skills",
     "language": "Python",
     "name": "emdashsmoker/biz-agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-15T02:09:17Z",
+    "updated_at": "2026-10-15T02:27:57Z",
     "url": "https://github.com/emdashsmoker/biz-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-15T02:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
@@ -166,7 +238,7 @@
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
-    "stars": 3375,
+    "stars": 3377,
     "updated_at": "2026-10-15T01:59:07Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
@@ -184,7 +256,7 @@
     "id": "Cennyk-learner/ppt-cinematic-animation",
     "language": "Python",
     "name": "Cennyk-learner/ppt-cinematic-animation",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-15T01:57:40Z",
     "url": "https://github.com/Cennyk-learner/ppt-cinematic-animation"
   },
@@ -243,15 +315,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Production Toolkit & Scaffolding Engine for Model Context Protocol (MCP) Servers. Scaffold typed TS/Python servers, gene",
-    "id": "RitualDev-Lab/mcp-builder-kit",
-    "language": "TypeScript",
-    "name": "RitualDev-Lab/mcp-builder-kit",
-    "stars": 3,
-    "updated_at": "2026-10-15T01:40:16Z",
-    "url": "https://github.com/RitualDev-Lab/mcp-builder-kit"
-  },
-  {
     "description": "Cut the bloat. Keep the checks. An agent skill that makes your coding agent write the smallest change that works, withou",
     "id": "omkar273/shepherd",
     "language": "Python",
@@ -302,7 +365,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 37,
-    "updated_at": "2026-10-15T02:14:47Z",
+    "updated_at": "2026-10-15T02:26:04Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/dinhkarate/llm-roundtable"
   },
   {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 59,
-    "updated_at": "2026-10-15T01:46:05Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
     "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
     "id": "Edward0l1/skill-flare-discover",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-15T01:18:16Z",
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Portable agent skills for Codex, Claude Code, and other Agent Skills hosts.",
-    "id": "Thakay/agent-skills",
-    "language": "JavaScript",
-    "name": "Thakay/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:15:17Z",
-    "url": "https://github.com/Thakay/agent-skills"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-10-15T01:14:46Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-10-15T01:13:49Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "the top benchmarked pstack port for Claude Code: contains playbooks, skills and principles, enforced by a hook at every ",
-    "id": "EvanBatten/pstack-for-cc",
-    "language": "JavaScript",
-    "name": "EvanBatten/pstack-for-cc",
-    "stars": 2,
-    "updated_at": "2026-10-15T01:13:36Z",
-    "url": "https://github.com/EvanBatten/pstack-for-cc"
-  },
-  {
-    "description": "MCP server for AI hallucination detection & agent safety \u2014 verify claims, guard prompts, gate CUA actions",
-    "id": "fredyee/hallucc-mcp",
-    "language": "TypeScript",
-    "name": "fredyee/hallucc-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-15T01:13:24Z",
-    "url": "https://github.com/fredyee/hallucc-mcp"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-10-15T01:10:34Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
   }
 ]
