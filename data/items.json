@@ -1,5 +1,50 @@
 [
   {
+    "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
+    "id": "Joe-Simo/a0",
+    "language": "TypeScript",
+    "name": "Joe-Simo/a0",
+    "stars": 0,
+    "updated_at": "2026-10-16T00:35:06Z",
+    "url": "https://github.com/Joe-Simo/a0"
+  },
+  {
+    "description": "Claude Code skill for searching and downloading stock images from Pexels, Unsplash, and Pixabay",
+    "id": "jeanpfs/stock-images",
+    "language": "Python",
+    "name": "jeanpfs/stock-images",
+    "stars": 4,
+    "updated_at": "2026-10-16T00:34:35Z",
+    "url": "https://github.com/jeanpfs/stock-images"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70079,
+    "updated_at": "2026-10-16T00:34:13Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-16T00:32:27Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-16T00:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-16T00:29:52Z",
+    "updated_at": "2026-10-16T00:31:28Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -22,8 +67,8 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 84047,
-    "updated_at": "2026-10-16T00:29:33Z",
+    "stars": 84049,
+    "updated_at": "2026-10-16T00:36:15Z",
     "url": "https://github.com/tt-a1i/archify"
   },
   {
@@ -49,8 +94,8 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 102722,
-    "updated_at": "2026-10-16T00:26:29Z",
+    "stars": 102723,
+    "updated_at": "2026-10-16T00:35:56Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
@@ -76,18 +121,9 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 101051,
+    "stars": 101052,
     "updated_at": "2026-10-16T00:24:16Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70078,
-    "updated_at": "2026-10-16T00:27:46Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -108,15 +144,6 @@
     "url": "https://github.com/ai4science-skills/skills"
   },
   {
-    "description": "Claude Code skill for searching and downloading stock images from Pexels, Unsplash, and Pixabay",
-    "id": "jeanpfs/stock-images",
-    "language": "Python",
-    "name": "jeanpfs/stock-images",
-    "stars": 4,
-    "updated_at": "2026-10-16T00:19:44Z",
-    "url": "https://github.com/jeanpfs/stock-images"
-  },
-  {
     "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
     "id": "ShadowSwaps/REA-Reconstruction-Companion",
     "language": "JavaScript",
@@ -124,15 +151,6 @@
     "stars": 37,
     "updated_at": "2026-10-16T00:19:38Z",
     "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-16T00:28:32Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -162,15 +180,6 @@
     "url": "https://github.com/yu502950715yang/intent-notes"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-16T00:15:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
     "id": "samuel85194-ux/tycana-claude-hivemind",
     "language": "HTML",
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "KrishP147/skills",
     "stars": 0,
-    "updated_at": "2026-10-16T00:14:10Z",
+    "updated_at": "2026-10-16T00:36:15Z",
     "url": "https://github.com/KrishP147/skills"
   },
   {
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 2984,
-    "updated_at": "2026-10-16T00:14:31Z",
+    "updated_at": "2026-10-16T00:36:22Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 120,
-    "updated_at": "2026-10-16T00:20:13Z",
+    "updated_at": "2026-10-16T00:35:55Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -319,7 +328,7 @@
     "id": "K-Dense-AI/scientific-agent-skills",
     "language": "Python",
     "name": "K-Dense-AI/scientific-agent-skills",
-    "stars": 50455,
+    "stars": 50457,
     "updated_at": "2026-10-15T23:57:39Z",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
   },
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "esscott1/job-search-assistant",
     "stars": 0,
-    "updated_at": "2026-10-16T00:21:58Z",
+    "updated_at": "2026-10-16T00:34:04Z",
     "url": "https://github.com/esscott1/job-search-assistant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-15T23:42:21Z",
     "url": "https://github.com/diegobruegger-prog/shortformkit-skills"
-  },
-  {
-    "description": "The loop for everything!",
-    "id": "MadaraUchiha-314/the-loop",
-    "language": "Python",
-    "name": "MadaraUchiha-314/the-loop",
-    "stars": 7,
-    "updated_at": "2026-10-15T23:38:54Z",
-    "url": "https://github.com/MadaraUchiha-314/the-loop"
   }
 ]
