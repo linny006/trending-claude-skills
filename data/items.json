@@ -1,5 +1,68 @@
 [
   {
+    "description": "Your engineering taste, in every coding agent. Shadowclone learns your rules and delivers them as skills to Claude Code,",
+    "id": "theonly1me/shadowclone",
+    "language": "TypeScript",
+    "name": "theonly1me/shadowclone",
+    "stars": 21,
+    "updated_at": "2026-10-17T20:29:43Z",
+    "url": "https://github.com/theonly1me/shadowclone"
+  },
+  {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 1,
+    "updated_at": "2026-10-17T20:29:19Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Agent skills for Claude Code & skills.sh-compatible agents.",
+    "id": "mehdiforoozandeh/skills",
+    "language": "Python",
+    "name": "mehdiforoozandeh/skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T20:29:09Z",
+    "url": "https://github.com/mehdiforoozandeh/skills"
+  },
+  {
+    "description": "Server do Claude Memory Sync (Node + Postgres, pronto para a Railway). Recebe e mescla a configura\u00e7\u00e3o do Claude Code de ",
+    "id": "le0nardomartins/ClaudeMemorySync-Server",
+    "language": "JavaScript",
+    "name": "le0nardomartins/ClaudeMemorySync-Server",
+    "stars": 0,
+    "updated_at": "2026-10-17T20:28:46Z",
+    "url": "https://github.com/le0nardomartins/ClaudeMemorySync-Server"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30961,
+    "updated_at": "2026-10-17T20:28:19Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
+  },
+  {
+    "description": "Sincroniza skills, agentes, comandos, hooks, CLAUDE.md, settings, plugins e MCPs do Claude Code entre todos os seus PCs.",
+    "id": "le0nardomartins/ClaudeMemorySync",
+    "language": "Python",
+    "name": "le0nardomartins/ClaudeMemorySync",
+    "stars": 0,
+    "updated_at": "2026-10-17T20:28:17Z",
+    "url": "https://github.com/le0nardomartins/ClaudeMemorySync"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T20:26:36Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "pkg \u2014 Agent Skill (SKILL.md open format)",
     "id": "docsor1212/humanize-ai-text",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/docsor1212/paper-rewriter"
   },
   {
-    "description": "Your engineering taste, in every coding agent. Shadowclone learns your rules and delivers them as skills to Claude Code,",
-    "id": "theonly1me/shadowclone",
-    "language": "TypeScript",
-    "name": "theonly1me/shadowclone",
-    "stars": 21,
-    "updated_at": "2026-10-17T20:26:27Z",
-    "url": "https://github.com/theonly1me/shadowclone"
-  },
-  {
     "description": "Free subdomains under makes.fyi / agentdomains.co, as a Claude Code skill: agents claim a name and set DNS records, auto",
     "id": "tashfeenahmed/AgentDomains-skill",
     "language": "Shell",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-17T20:24:58Z",
+    "updated_at": "2026-10-17T20:29:03Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T20:16:32Z",
     "url": "https://github.com/TranBaDat2607/claude-code-kaggle-grandmaster"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T20:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Local Agents",
@@ -259,15 +304,6 @@
     "stars": 70141,
     "updated_at": "2026-10-17T20:19:58Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Claude Skills",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 1,
-    "updated_at": "2026-10-17T20:25:41Z",
-    "url": "https://github.com/MrBinnacle/skills"
   },
   {
     "description": "\u9762\u5411\u4e2d\u6587\u5f00\u53d1\u8005\u7684 Claude Code Skills / Agents / Plugins \u7cbe\u9009\u4e0e\u539f\u521b\u6280\u80fd\u5e93\uff5c\u6309\u573a\u666f\u5206\u7c7b\uff5c\u590d\u5236\u5373\u88c5\uff5c\u6301\u7eed\u66f4\u65b0",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T19:45:20Z",
     "url": "https://github.com/soulimed/linkedin-workflow-agent"
-  },
-  {
-    "description": "Domain Driven Harness for Claude Code.",
-    "id": "alexeyshishin/as-skill",
-    "language": "Go",
-    "name": "alexeyshishin/as-skill",
-    "stars": 5,
-    "updated_at": "2026-10-17T19:44:43Z",
-    "url": "https://github.com/alexeyshishin/as-skill"
-  },
-  {
-    "description": "Claude Code plugin: delegate coding tasks to the OpenCode CLI in isolated git worktrees while Claude plans, briefs, revi",
-    "id": "yaniv-golan/opencode-skill",
-    "language": "Python",
-    "name": "yaniv-golan/opencode-skill",
-    "stars": 0,
-    "updated_at": "2026-10-17T19:44:36Z",
-    "url": "https://github.com/yaniv-golan/opencode-skill"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-10-17T19:43:30Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-10-17T19:42:33Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   }
 ]
