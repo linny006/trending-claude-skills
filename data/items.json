@@ -1,5 +1,104 @@
 [
   {
+    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
+    "id": "jgoneit/jaekit",
+    "language": "Python",
+    "name": "jgoneit/jaekit",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:29:50Z",
+    "url": "https://github.com/jgoneit/jaekit"
+  },
+  {
+    "description": "Music production agent skills that finish songs without diffusion models. \ud655\uc0b0 \ubaa8\ub378 \uc5c6\uc774 \uace1\uc744 \uc644\uc131\ud558\ub294 \uc74c\uc545 \uc81c\uc791 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
+    "id": "emdashsmoker/music-agent-skills",
+    "language": "Python",
+    "name": "emdashsmoker/music-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:29:20Z",
+    "url": "https://github.com/emdashsmoker/music-agent-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 101245,
+    "updated_at": "2026-10-17T01:28:56Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 8,
+    "updated_at": "2026-10-17T01:27:45Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 442,
+    "updated_at": "2026-10-17T01:27:32Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "\u4e09\u65b9\u5bf9\u6297\u5f0f\u4ee3\u7801\u8bc4\u5ba1 Agent Skill\uff1a\u84dd\u519b(\u654c\u610f\u5ba1\u67e5) \u2192 \u7b2c\u4e09\u65b9(\u72ec\u7acb\u590d\u6838) \u2192 \u4e2d\u7acb\u88c1\u5b9a\uff0c\u6bcf\u6761\u7ed3\u8bba\u5e26\u8bc1\u636e\u94fe\u3002\u5b89\u88c5\uff1anpx skills add RevolutionLA/adversarial-review \u00b7 Tri-role ",
+    "id": "RevolutionLA/adversarial-review",
+    "language": "JavaScript",
+    "name": "RevolutionLA/adversarial-review",
+    "stars": 4,
+    "updated_at": "2026-10-17T01:25:03Z",
+    "url": "https://github.com/RevolutionLA/adversarial-review"
+  },
+  {
+    "description": "An open, reproducible, causal benchmark for Generative Engine Optimization: does changing a page actually change whether",
+    "id": "dcefferty/OpenGEO",
+    "language": "Python",
+    "name": "dcefferty/OpenGEO",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:26:25Z",
+    "url": "https://github.com/dcefferty/OpenGEO"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 103195,
+    "updated_at": "2026-10-17T01:19:57Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:17:16Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Claude Code plugin: on every prompt, suggests the full better stack (model, connectors, skills, GitHub repos, cost, safe",
+    "id": "costello88/tiabwft",
+    "language": "TypeScript",
+    "name": "costello88/tiabwft",
+    "stars": 0,
+    "updated_at": "2026-10-17T01:19:53Z",
+    "url": "https://github.com/costello88/tiabwft"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T01:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Canonical self-hosted repository for Claude Skills CLI packages with automated sync and validation",
     "id": "newbe36524/myskills",
     "language": "Python",
@@ -50,26 +149,8 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-17T01:10:37Z",
+    "updated_at": "2026-10-17T01:24:53Z",
     "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 103194,
-    "updated_at": "2026-10-17T01:09:51Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 442,
-    "updated_at": "2026-10-17T01:13:25Z",
-    "url": "https://github.com/notque/vexjoy-agent"
   },
   {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
@@ -153,15 +234,6 @@
     "url": "https://github.com/beatra-ai/ai-storyboard-generator-skill"
   },
   {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 8,
-    "updated_at": "2026-10-17T01:03:23Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
     "description": "ato-e1-skill-factory",
     "id": "AthenaMohist/ato-e1-skill-factory",
     "language": "Shell",
@@ -198,15 +270,6 @@
     "url": "https://github.com/beatra-ai/photo-to-anime-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T01:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
     "id": "LinklyAI/best-skills",
     "language": "\u2014",
@@ -230,7 +293,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-10-17T00:59:14Z",
+    "updated_at": "2026-10-17T01:27:08Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -266,7 +329,7 @@
     "language": "JavaScript",
     "name": "techfleetworks/enterprise-software-AI-skills",
     "stars": 1,
-    "updated_at": "2026-10-17T00:56:53Z",
+    "updated_at": "2026-10-17T01:17:30Z",
     "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T00:50:47Z",
     "url": "https://github.com/postoncehq/postonce-skills"
-  },
-  {
-    "description": "AI voice cloning agent skill for Claude Code, Codex & OpenClaw: create a reusable personal or brand voice from a clean a",
-    "id": "beatra-ai/ai-voice-cloning-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-voice-cloning-skill",
-    "stars": 4,
-    "updated_at": "2026-10-17T00:50:12Z",
-    "url": "https://github.com/beatra-ai/ai-voice-cloning-skill"
-  },
-  {
-    "description": "AI \u77ed\u5267 \u00b7 \u6f2b\u5267 Skill\uff08\u6280\u80fd\u5305\uff09\u7cbe\u9009\uff1a\u5267\u672c\u3001\u6539\u7f16\u3001\u5206\u955c\u3001Seedance/MiniMax \u89c6\u9891\u63d0\u793a\u8bcd\uff0c\u5343\u95ee\u3001\u8c46\u5305\u3001\u9f99\u867e OpenClaw\u3001WorkBuddy\u3001Claude Code\u3001Codex \u7b49\u667a\u80fd\u4f53\u53ef\u7528 | Curated a",
-    "id": "UnderleveledBuilder/awesome-short-drama-skills",
-    "language": "Python",
-    "name": "UnderleveledBuilder/awesome-short-drama-skills",
-    "stars": 6,
-    "updated_at": "2026-10-17T00:49:36Z",
-    "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-10-17T00:49:29Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
-    "id": "jgoneit/jaekit",
-    "language": "Python",
-    "name": "jgoneit/jaekit",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:02:42Z",
-    "url": "https://github.com/jgoneit/jaekit"
-  },
-  {
-    "description": "AI podcast voiceover agent skill for Claude Code, Codex & OpenClaw: turn an article, notes, or a finished script into a ",
-    "id": "beatra-ai/ai-podcast-voiceover-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-podcast-voiceover-skill",
-    "stars": 5,
-    "updated_at": "2026-10-17T00:49:04Z",
-    "url": "https://github.com/beatra-ai/ai-podcast-voiceover-skill"
-  },
-  {
-    "description": "AI voiceover generator agent skill for Claude Code, Codex & OpenClaw: pick or reuse a voice, turn scripts into narration",
-    "id": "beatra-ai/ai-voiceover-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-voiceover-generator-skill",
-    "stars": 5,
-    "updated_at": "2026-10-17T00:47:56Z",
-    "url": "https://github.com/beatra-ai/ai-voiceover-generator-skill"
-  },
-  {
-    "description": "AI \u6bcf\u65e5\u65b0\u95fb\u7b80\u62a5 \u00b7 GitHub \u70ed\u95e8 + X \u70ed\u95e8\u6587\u7ae0 + \u884c\u60c5\u6280\u672f\u5206\u6790 \u00b7 23 \u4e2a\u6570\u636e\u6e90\u805a\u5408 + LLM \u4e2d\u6587\u6458\u8981 \u00b7 \u672c\u5730\u6216 GitHub Actions \u90e8\u7f72",
-    "id": "leiting-eric/DailyBrief",
-    "language": "TypeScript",
-    "name": "leiting-eric/DailyBrief",
-    "stars": 372,
-    "updated_at": "2026-10-17T00:47:04Z",
-    "url": "https://github.com/leiting-eric/DailyBrief"
   }
 ]
