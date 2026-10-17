@@ -1,5 +1,113 @@
 [
   {
+    "description": "Agent skills for durable, evidence-based learning",
+    "id": "drveles/teach-me",
+    "language": "Python",
+    "name": "drveles/teach-me",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:38:13Z",
+    "url": "https://github.com/drveles/teach-me"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-17T15:38:47Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Claude Code plugin for Trilium: skills for notes, attributes, templates and journal notes, on top of the trilium-mcp ser",
+    "id": "Marceltov/trilium-plugin",
+    "language": "HTML",
+    "name": "Marceltov/trilium-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:38:32Z",
+    "url": "https://github.com/Marceltov/trilium-plugin"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 120,
+    "updated_at": "2026-10-17T15:37:43Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "for any developer to write tech or maintenance doc by plugin ",
+    "id": "xinqilin/dev-memory",
+    "language": "TypeScript",
+    "name": "xinqilin/dev-memory",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:37:10Z",
+    "url": "https://github.com/xinqilin/dev-memory"
+  },
+  {
+    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
+    "id": "skeptrunedev/call4me",
+    "language": "TypeScript",
+    "name": "skeptrunedev/call4me",
+    "stars": 13,
+    "updated_at": "2026-10-17T15:36:43Z",
+    "url": "https://github.com/skeptrunedev/call4me"
+  },
+  {
+    "description": "Gooo source examples for coding agents: edit, run and replay; independent Go ports and API policy regression checks.",
+    "id": "kimjooyoon/gooo-go-ports",
+    "language": "Go",
+    "name": "kimjooyoon/gooo-go-ports",
+    "stars": 1,
+    "updated_at": "2026-10-17T15:36:06Z",
+    "url": "https://github.com/kimjooyoon/gooo-go-ports"
+  },
+  {
+    "description": "EndzoneAPI: the football data API as a hosted MCP server. Play-by-play with EPA, stats, injuries and closing lines since",
+    "id": "noahowsh/endzoneapi-mcp",
+    "language": "\u2014",
+    "name": "noahowsh/endzoneapi-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-17T15:35:46Z",
+    "url": "https://github.com/noahowsh/endzoneapi-mcp"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 101339,
+    "updated_at": "2026-10-17T15:35:03Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 149,
+    "updated_at": "2026-10-17T15:32:57Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "Skills for running your marketing with CMO.so and Maggie from Claude Code and other agents, built on the CMO.so MCP serv",
+    "id": "AI-Marketing-OS-LTD/cmo-so-skills",
+    "language": "JavaScript",
+    "name": "AI-Marketing-OS-LTD/cmo-so-skills",
+    "stars": 2,
+    "updated_at": "2026-10-17T15:30:58Z",
+    "url": "https://github.com/AI-Marketing-OS-LTD/cmo-so-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T15:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code agents from dretech-ai \u2014 each available as a plugin or a standalone skill.",
     "id": "dretech-ai/dretech-agents",
     "language": "Shell",
@@ -36,15 +144,6 @@
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 101337,
-    "updated_at": "2026-10-17T15:26:49Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
     "description": "Claude Code skills for prod-local agent development: query real traces and logs from your local stack, plan before you b",
     "id": "LunarCommand/claude-skills",
     "language": "Shell",
@@ -52,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T15:26:49Z",
     "url": "https://github.com/LunarCommand/claude-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-17T15:28:38Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "A programmable typesetter for the web",
@@ -97,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:23:38Z",
     "url": "https://github.com/SuruchBoss/pilothouse"
-  },
-  {
-    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
-    "id": "skeptrunedev/call4me",
-    "language": "TypeScript",
-    "name": "skeptrunedev/call4me",
-    "stars": 13,
-    "updated_at": "2026-10-17T15:23:01Z",
-    "url": "https://github.com/skeptrunedev/call4me"
   },
   {
     "description": "Claude Code plugin for Nuxt 4 + Tailwind 4 projects in progress: aligns the global style to a fixed structure (optionall",
@@ -151,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-10-17T15:19:30Z",
     "url": "https://github.com/EdgeKits/skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70133,
+    "updated_at": "2026-10-17T15:18:53Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Claude Code plugin that tailors your r\u00e9sum\u00e9 to a job posting using only facts you confirm, with diff approval | \uc774\ub825\uc11c \uacf5\uace0 \ub9de",
@@ -207,21 +297,12 @@
     "url": "https://github.com/nuncaeslupus/literary-critic"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T15:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 84733,
-    "updated_at": "2026-10-17T15:13:10Z",
+    "stars": 84736,
+    "updated_at": "2026-10-17T15:37:36Z",
     "url": "https://github.com/tt-a1i/archify"
   },
   {
@@ -257,7 +338,7 @@
     "language": "JavaScript",
     "name": "The-Artificer-of-Ciphers-LLC/skills-from-the-artificer",
     "stars": 6,
-    "updated_at": "2026-10-17T15:11:02Z",
+    "updated_at": "2026-10-17T15:37:01Z",
     "url": "https://github.com/The-Artificer-of-Ciphers-LLC/skills-from-the-artificer"
   },
   {
@@ -279,15 +360,6 @@
     "url": "https://github.com/mtangoz/grill"
   },
   {
-    "description": "Gooo source examples for coding agents: edit, run and replay; independent Go ports and API policy regression checks.",
-    "id": "kimjooyoon/gooo-go-ports",
-    "language": "Go",
-    "name": "kimjooyoon/gooo-go-ports",
-    "stars": 1,
-    "updated_at": "2026-10-17T15:24:43Z",
-    "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
     "description": "\u4e2d\u56fd\u5883\u5185\u65c5\u884c\u89c4\u5212 Agent Skill\uff1a\u9010\u5c0f\u65f6\u884c\u7a0b\u3001\u9ad8\u5fb7\u9759\u6001\u8def\u7ebf\u56fe\u300112306/\u643a\u7a0b\u6df1\u94fe\u3001\u4e03\u5957\u6e32\u67d3\u4e3b\u9898\u3001\u5185\u5bb9\u95e8\u7981\uff0c\u9644\u676d\u5dde\u5230\u9752\u5c9b 5 \u5929\u5b9e\u6218\u793a\u4f8b",
     "id": "ChenYiming-aaa/better-trip-planner",
     "language": "Python",
@@ -302,7 +374,7 @@
     "language": "Python",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-17T15:23:45Z",
+    "updated_at": "2026-10-17T15:36:38Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T15:03:51Z",
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "An agent skill for hand-painted animated shorts and music videos in code: watercolor, ink, crayon. \u8ba9 AI agent \u7528\u4ee3\u7801\u753b\u624b\u7ed8\u52a8\u753b\u77ed\u7247",
-    "id": "nzl153/paint-video-skill",
-    "language": "JavaScript",
-    "name": "nzl153/paint-video-skill",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:03:24Z",
-    "url": "https://github.com/nzl153/paint-video-skill"
-  },
-  {
-    "description": "Claude Code skill: edit personal/family vlogs locally on a Mac \u2014 ingest, beat-aware EDL, render, automated QC",
-    "id": "ivanpastier-netizen/vlog-cut",
-    "language": "Python",
-    "name": "ivanpastier-netizen/vlog-cut",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:03:06Z",
-    "url": "https://github.com/ivanpastier-netizen/vlog-cut"
-  },
-  {
-    "description": "ResearchPhO: a Claude Code skill that turns papers, a new field's literature or a research proposal into a research-base",
-    "id": "DarrenWongKaWa/ResearchPhO",
-    "language": "Python",
-    "name": "DarrenWongKaWa/ResearchPhO",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:02:11Z",
-    "url": "https://github.com/DarrenWongKaWa/ResearchPhO"
-  },
-  {
-    "description": "AI coding workflow for Claude Code, Codex and CodeBuddy: ticket-based development, resumable steps, evidence-based verif",
-    "id": "ayukyo/icode-skill",
-    "language": "Python",
-    "name": "ayukyo/icode-skill",
-    "stars": 5,
-    "updated_at": "2026-10-17T15:01:32Z",
-    "url": "https://github.com/ayukyo/icode-skill"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-10-17T15:01:03Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "Claude Code skill: engineering lessons for DFT (VASP) -> Wannier90 -> tight-binding -> Brillouin-zone transport calculat",
-    "id": "DarrenWongKaWa/dft-wannier-transport-skill",
-    "language": "\u2014",
-    "name": "DarrenWongKaWa/dft-wannier-transport-skill",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:00:52Z",
-    "url": "https://github.com/DarrenWongKaWa/dft-wannier-transport-skill"
-  },
-  {
-    "description": "Paste a video link, get a Claude skill. Turns tutorials on X, YouTube, TikTok, Instagram and Facebook into verified, ins",
-    "id": "robert-botto/skipwatch",
-    "language": "Python",
-    "name": "robert-botto/skipwatch",
-    "stars": 3,
-    "updated_at": "2026-10-17T15:02:18Z",
-    "url": "https://github.com/robert-botto/skipwatch"
-  },
-  {
-    "description": "Music production agent skills that finish songs without diffusion models. \ud655\uc0b0 \ubaa8\ub378 \uc5c6\uc774 \uace1\uc744 \uc644\uc131\ud558\ub294 \uc74c\uc545 \uc81c\uc791 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
-    "id": "emdashsmoker/music-agent-skills",
-    "language": "Python",
-    "name": "emdashsmoker/music-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T15:21:56Z",
-    "url": "https://github.com/emdashsmoker/music-agent-skills"
   }
 ]
