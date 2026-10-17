@@ -1,11 +1,65 @@
 [
   {
+    "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound",
+    "id": "dagoSte/squadra",
+    "language": "Python",
+    "name": "dagoSte/squadra",
+    "stars": 247,
+    "updated_at": "2026-10-17T12:15:06Z",
+    "url": "https://github.com/dagoSte/squadra"
+  },
+  {
+    "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refi",
+    "id": "oil-oil/oil-ui",
+    "language": "Python",
+    "name": "oil-oil/oil-ui",
+    "stars": 1672,
+    "updated_at": "2026-10-17T12:14:20Z",
+    "url": "https://github.com/oil-oil/oil-ui"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6222,
+    "updated_at": "2026-10-17T12:13:54Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.",
+    "id": "Aryanutkarsh/SeeCode",
+    "language": "JavaScript",
+    "name": "Aryanutkarsh/SeeCode",
+    "stars": 614,
+    "updated_at": "2026-10-17T12:12:28Z",
+    "url": "https://github.com/Aryanutkarsh/SeeCode"
+  },
+  {
+    "description": "A second opinion from a panel of AI models: each trained on different data, in its own harness, so each brings its own a",
+    "id": "igorsaevets/ai-second-opinion",
+    "language": "Python",
+    "name": "igorsaevets/ai-second-opinion",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:15:09Z",
+    "url": "https://github.com/igorsaevets/ai-second-opinion"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T12:11:39Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A small, growing collection of Claude Skills for real engineering workflows.",
     "id": "alvincrespo/skills",
     "language": "Python",
     "name": "alvincrespo/skills",
     "stars": 0,
-    "updated_at": "2026-10-17T12:11:07Z",
+    "updated_at": "2026-10-17T12:14:04Z",
     "url": "https://github.com/alvincrespo/skills"
   },
   {
@@ -90,6 +144,15 @@
     "url": "https://github.com/oidsdev/honeypot"
   },
   {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 438,
+    "updated_at": "2026-10-17T12:04:04Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
     "description": "Is this worth building, and what can I build it with? An agent skill that checks your idea against GitHub, skills.sh, MC",
     "id": "Smartulf123/check-before-you-build",
     "language": "JavaScript",
@@ -126,6 +189,15 @@
     "url": "https://github.com/walkwithedi/evergreen-wiki"
   },
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 101303,
+    "updated_at": "2026-10-17T12:01:15Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "Claude Code Skills: Phasen-Orchestrator mit Quality Gate (/dev), Abh\u00e4ngigkeits-Management (/deps), Bug-Analyse in sieben",
     "id": "culfin/claude-skills-public",
     "language": "Python",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T12:00:46Z",
     "url": "https://github.com/culfin/claude-skills-public"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T12:00:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
@@ -167,7 +230,7 @@
     "language": "Python",
     "name": "nuncaeslupus/literary-critic",
     "stars": 0,
-    "updated_at": "2026-10-17T11:58:15Z",
+    "updated_at": "2026-10-17T12:12:42Z",
     "url": "https://github.com/nuncaeslupus/literary-critic"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T11:57:01Z",
     "url": "https://github.com/zecalis/fael-crew"
-  },
-  {
-    "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refi",
-    "id": "oil-oil/oil-ui",
-    "language": "Python",
-    "name": "oil-oil/oil-ui",
-    "stars": 1672,
-    "updated_at": "2026-10-17T11:56:33Z",
-    "url": "https://github.com/oil-oil/oil-ui"
   },
   {
     "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
@@ -333,15 +387,6 @@
     "url": "https://github.com/fayerman-source/deslop"
   },
   {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6222,
-    "updated_at": "2026-10-17T12:08:12Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "MohammadHijjawi97/since-cutoff",
     "stars": 9,
-    "updated_at": "2026-10-17T11:40:21Z",
+    "updated_at": "2026-10-17T12:11:38Z",
     "url": "https://github.com/MohammadHijjawi97/since-cutoff"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T11:37:25Z",
     "url": "https://github.com/David-Florian2013/write-then-check"
-  },
-  {
-    "description": "Free, copy-paste Claude skills that run your content growth factory \u2014 turn ideas + your NotebookLM memory into scroll-st",
-    "id": "Ootto-AI/claude-content-skills",
-    "language": "Python",
-    "name": "Ootto-AI/claude-content-skills",
-    "stars": 168,
-    "updated_at": "2026-10-17T11:32:54Z",
-    "url": "https://github.com/Ootto-AI/claude-content-skills"
-  },
-  {
-    "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
-    "id": "everyinfra/seo-skills",
-    "language": "Python",
-    "name": "everyinfra/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:29:55Z",
-    "url": "https://github.com/everyinfra/seo-skills"
-  },
-  {
-    "description": "\u91d1\u8776\u4e91\u661f\u7a7a\u591a\u8868\u5355\u636e/\u62a5\u8868\u5bfc\u51fa Skill\uff5c\u9500\u552e/\u5b58\u8d27/\u91c7\u8d2d/\u94f6\u884c\u6d41\u6c34/AR-AP\uff08Kingdee Cloud data exporter\uff09",
-    "id": "LittleBeaverStudio/KingdeeDataExporter",
-    "language": "Python",
-    "name": "LittleBeaverStudio/KingdeeDataExporter",
-    "stars": 7,
-    "updated_at": "2026-10-17T11:28:30Z",
-    "url": "https://github.com/LittleBeaverStudio/KingdeeDataExporter"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-10-17T11:27:41Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-10-17T11:25:23Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   }
 ]
