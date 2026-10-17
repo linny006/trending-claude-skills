@@ -1,12 +1,48 @@
 [
   {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
+    "description": "Claude Code skills, grouped by area. UIUX: webdes (intentional web design) and webani (premium motion + purposeful 3D).",
+    "id": "aryangole07-hub/claude-useful-skills",
     "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 21,
-    "updated_at": "2026-10-17T05:59:57Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
+    "name": "aryangole07-hub/claude-useful-skills",
+    "stars": 1,
+    "updated_at": "2026-10-17T06:15:07Z",
+    "url": "https://github.com/aryangole07-hub/claude-useful-skills"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-17T06:12:35Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-10-17T06:11:15Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Agent skills for developers building NSW Government digital services: Australian Government Style Manual checks, WCAG au",
+    "id": "digitalnsw/nswds-skills",
+    "language": "JavaScript",
+    "name": "digitalnsw/nswds-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:11:09Z",
+    "url": "https://github.com/digitalnsw/nswds-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:10:54Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
     "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
@@ -14,8 +50,71 @@
     "language": "TypeScript",
     "name": "skeptrunedev/call4me",
     "stars": 13,
-    "updated_at": "2026-10-17T05:59:34Z",
+    "updated_at": "2026-10-17T06:09:25Z",
     "url": "https://github.com/skeptrunedev/call4me"
+  },
+  {
+    "description": "Claude Code skills + subagents: grilling, handoffs, kanban workflow, pair (manager+implementer), and an unattended orche",
+    "id": "KrishP147/skills",
+    "language": "Python",
+    "name": "KrishP147/skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T06:06:41Z",
+    "url": "https://github.com/KrishP147/skills"
+  },
+  {
+    "description": "Evidence-first engineering skills for Claude Code and Codex: investigate, decide, review and ship on evidence, not vibes",
+    "id": "NguyenHuy190303/EEP",
+    "language": "CSS",
+    "name": "NguyenHuy190303/EEP",
+    "stars": 2,
+    "updated_at": "2026-10-17T06:06:16Z",
+    "url": "https://github.com/NguyenHuy190303/EEP"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-17T06:06:11Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-17T06:09:53Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "Python",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-17T06:07:58Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 21,
+    "updated_at": "2026-10-17T06:00:14Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T06:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Skills",
@@ -43,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T05:55:22Z",
     "url": "https://github.com/asfakulsiam/asfakulsiam-motomation-design"
-  },
-  {
-    "description": "Claude Code skills + subagents: grilling, handoffs, kanban workflow, pair (manager+implementer), and an unattended orche",
-    "id": "KrishP147/skills",
-    "language": "Python",
-    "name": "KrishP147/skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:55:21Z",
-    "url": "https://github.com/KrishP147/skills"
-  },
-  {
-    "description": "Evidence-first engineering skills for Claude Code and Codex: investigate, decide, review and ship on evidence, not vibes",
-    "id": "NguyenHuy190303/EEP",
-    "language": "CSS",
-    "name": "NguyenHuy190303/EEP",
-    "stars": 2,
-    "updated_at": "2026-10-17T05:51:57Z",
-    "url": "https://github.com/NguyenHuy190303/EEP"
   },
   {
     "description": "Self-hosted worker that turns ready Jira, Linear, and GitHub tickets into pull requests with your coding agent\u2014on your m",
@@ -180,15 +261,6 @@
     "url": "https://github.com/Szymonr692/notebooklm-mcp"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T05:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Music production agent skills that finish songs without diffusion models. \ud655\uc0b0 \ubaa8\ub378 \uc5c6\uc774 \uace1\uc744 \uc644\uc131\ud558\ub294 \uc74c\uc545 \uc81c\uc791 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
     "id": "emdashsmoker/music-agent-skills",
     "language": "Python",
@@ -250,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T05:43:13Z",
     "url": "https://github.com/Agnieszkaa24/antigravity-workflows"
-  },
-  {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 5,
-    "updated_at": "2026-10-17T05:57:10Z",
-    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "Portable SKILLs workspace for Claude Code, Codex, and Gemini \u2014 issue-driven workflows and cross-agent collaboration via ",
@@ -373,7 +436,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 103258,
+    "stars": 103263,
     "updated_at": "2026-10-17T05:37:22Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T05:36:15Z",
     "url": "https://github.com/Panagiotis727/Prompt-sensei"
-  },
-  {
-    "description": "Claude Code \u7684\u8a18\u61b6\u7cfb\u7d71 | A memory system built with hooks + markdown. Zero dependencies.",
-    "id": "Martin6038/claude-memory-engine",
-    "language": "JavaScript",
-    "name": "Martin6038/claude-memory-engine",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:35:15Z",
-    "url": "https://github.com/Martin6038/claude-memory-engine"
-  },
-  {
-    "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
-    "id": "everyinfra/seo-skills",
-    "language": "Python",
-    "name": "everyinfra/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:33:57Z",
-    "url": "https://github.com/everyinfra/seo-skills"
-  },
-  {
-    "description": "Claude Code \u7684\u8a18\u61b6\u7cfb\u7d71 | A memory system built with hooks + markdown. Zero dependencies.",
-    "id": "Lindaj50/claude-memory-engine",
-    "language": "JavaScript",
-    "name": "Lindaj50/claude-memory-engine",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:33:35Z",
-    "url": "https://github.com/Lindaj50/claude-memory-engine"
-  },
-  {
-    "description": "Claude Code \u7684\u8a18\u61b6\u7cfb\u7d71 | A memory system built with hooks + markdown. Zero dependencies.",
-    "id": "Jose17641/claude-memory-engine",
-    "language": "JavaScript",
-    "name": "Jose17641/claude-memory-engine",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:33:00Z",
-    "url": "https://github.com/Jose17641/claude-memory-engine"
-  },
-  {
-    "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound",
-    "id": "dagoSte/squadra",
-    "language": "Python",
-    "name": "dagoSte/squadra",
-    "stars": 239,
-    "updated_at": "2026-10-17T05:33:00Z",
-    "url": "https://github.com/dagoSte/squadra"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 194,
-    "updated_at": "2026-10-17T05:32:20Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Skills that turn weak prompts into clear, token-efficient ones, with budget warnings. For Claude Code, Claude.ai and Ant",
-    "id": "mustansirlokhandwala/prompt-craft",
-    "language": "Python",
-    "name": "mustansirlokhandwala/prompt-craft",
-    "stars": 0,
-    "updated_at": "2026-10-17T05:32:00Z",
-    "url": "https://github.com/mustansirlokhandwala/prompt-craft"
   }
 ]
