@@ -1,5 +1,131 @@
 [
   {
+    "description": "Portable workflow skills and controlled runtime for Pi, OMP, Codex, and Claude Code",
+    "id": "mirkobozzetto/arsenal",
+    "language": "Python",
+    "name": "mirkobozzetto/arsenal",
+    "stars": 20,
+    "updated_at": "2026-10-17T12:44:56Z",
+    "url": "https://github.com/mirkobozzetto/arsenal"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 120,
+    "updated_at": "2026-10-17T12:43:38Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/ai-utils",
+    "language": "C++",
+    "name": "TsukiNi22/ai-utils",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:38:50Z",
+    "url": "https://github.com/TsukiNi22/ai-utils"
+  },
+  {
+    "description": "Deine KI nickt alles ab. Diese Skills nicht. F\u00fcr Product Owner \u2013 in Claude, Gemini und ChatGPT.",
+    "id": "MarieEilers/product-skills",
+    "language": "\u2014",
+    "name": "MarieEilers/product-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:38:22Z",
+    "url": "https://github.com/MarieEilers/product-skills"
+  },
+  {
+    "description": "Make your AI agent argue visually. Universal skill pack for Excalidraw diagrams across Claude Code, Cursor, Codex, Gemin",
+    "id": "isatimur/excalidraw-skill-pack",
+    "language": "TypeScript",
+    "name": "isatimur/excalidraw-skill-pack",
+    "stars": 4,
+    "updated_at": "2026-10-17T12:36:46Z",
+    "url": "https://github.com/isatimur/excalidraw-skill-pack"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "Python",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:34:15Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "Claude Code skill: interface microcopy rules plus an AI-tell strip pass for buttons and errors",
+    "id": "humbleteam/ux-writing",
+    "language": "\u2014",
+    "name": "humbleteam/ux-writing",
+    "stars": 2,
+    "updated_at": "2026-10-17T12:33:40Z",
+    "url": "https://github.com/humbleteam/ux-writing"
+  },
+  {
+    "description": "Agent skill for reconstructing scanned documents into searchable, typeset PDFs with vector diagrams, provenance, and vis",
+    "id": "3351666087/scan-to-vector-skill",
+    "language": "Python",
+    "name": "3351666087/scan-to-vector-skill",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:38:49Z",
+    "url": "https://github.com/3351666087/scan-to-vector-skill"
+  },
+  {
+    "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refi",
+    "id": "oil-oil/oil-ui",
+    "language": "Python",
+    "name": "oil-oil/oil-ui",
+    "stars": 1673,
+    "updated_at": "2026-10-17T12:33:27Z",
+    "url": "https://github.com/oil-oil/oil-ui"
+  },
+  {
+    "description": "Claude Code skills that give AI agents live theme park data (crowd forecasts, hours, weather).",
+    "id": "ianlchapman/park-skills",
+    "language": "\u2014",
+    "name": "ianlchapman/park-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:33:27Z",
+    "url": "https://github.com/ianlchapman/park-skills"
+  },
+  {
+    "description": "A Claude skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual depth. Fre",
+    "id": "MetcalfSolutions/Satori",
+    "language": "Python",
+    "name": "MetcalfSolutions/Satori",
+    "stars": 83,
+    "updated_at": "2026-10-17T12:32:49Z",
+    "url": "https://github.com/MetcalfSolutions/Satori"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70126,
+    "updated_at": "2026-10-17T12:45:05Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Is this worth building, and what can I build it with? An agent skill that checks your idea against GitHub, skills.sh, MC",
+    "id": "Smartulf123/check-before-you-build",
+    "language": "JavaScript",
+    "name": "Smartulf123/check-before-you-build",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:30:46Z",
+    "url": "https://github.com/Smartulf123/check-before-you-build"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T12:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
     "id": "nuncaeslupus/literary-critic",
     "language": "Python",
@@ -76,7 +202,7 @@
     "id": "Aryanutkarsh/SeeCode",
     "language": "JavaScript",
     "name": "Aryanutkarsh/SeeCode",
-    "stars": 616,
+    "stars": 618,
     "updated_at": "2026-10-17T12:20:30Z",
     "url": "https://github.com/Aryanutkarsh/SeeCode"
   },
@@ -108,24 +234,6 @@
     "url": "https://github.com/SureshKumar-24/artifact-hub"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70125,
-    "updated_at": "2026-10-17T12:22:57Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Curated agent plugins and tooling by Knitli",
-    "id": "knitli/toolshed",
-    "language": "Python",
-    "name": "knitli/toolshed",
-    "stars": 1,
-    "updated_at": "2026-10-17T12:30:07Z",
-    "url": "https://github.com/knitli/toolshed"
-  },
-  {
     "description": "Presentations in your company's design and voice: agent skills for Claude (Claude Code, Cowork)",
     "id": "mfoureyes/vibeupslides",
     "language": "Python",
@@ -135,31 +243,13 @@
     "url": "https://github.com/mfoureyes/vibeupslides"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T12:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound",
     "id": "dagoSte/squadra",
     "language": "Python",
     "name": "dagoSte/squadra",
     "stars": 247,
-    "updated_at": "2026-10-17T12:15:06Z",
+    "updated_at": "2026-10-17T12:43:59Z",
     "url": "https://github.com/dagoSte/squadra"
-  },
-  {
-    "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refi",
-    "id": "oil-oil/oil-ui",
-    "language": "Python",
-    "name": "oil-oil/oil-ui",
-    "stars": 1672,
-    "updated_at": "2026-10-17T12:14:20Z",
-    "url": "https://github.com/oil-oil/oil-ui"
   },
   {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
@@ -261,15 +351,6 @@
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
-    "description": "Is this worth building, and what can I build it with? An agent skill that checks your idea against GitHub, skills.sh, MC",
-    "id": "Smartulf123/check-before-you-build",
-    "language": "JavaScript",
-    "name": "Smartulf123/check-before-you-build",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:03:40Z",
-    "url": "https://github.com/Smartulf123/check-before-you-build"
-  },
-  {
     "description": "Universal SEO & GEO skill for AI coding agents: Claude Code, Cursor, Windsurf, GitHub Copilot, Replit, Lovable, Bolt. Op",
     "id": "Aryanpanwar10005/seo-geo-optimizer",
     "language": "JavaScript",
@@ -301,7 +382,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 101305,
+    "stars": 101310,
     "updated_at": "2026-10-17T12:01:15Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -320,7 +401,7 @@
     "language": "Python",
     "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "stars": 17,
-    "updated_at": "2026-10-17T12:11:15Z",
+    "updated_at": "2026-10-17T12:33:49Z",
     "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T11:55:32Z",
     "url": "https://github.com/jaeminiz/awesome-agent-skills"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-10-17T11:55:24Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 120,
-    "updated_at": "2026-10-17T12:21:12Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Collection of first-party agent skills by @long6177, published to skills.sh.",
-    "id": "long6177/skills",
-    "language": "\u2014",
-    "name": "long6177/skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:54:21Z",
-    "url": "https://github.com/long6177/skills"
-  },
-  {
-    "description": "\u91d1\u8776\u4e91\u661f\u7a7a\u8d39\u7528/\u5dee\u65c5\u62a5\u9500\u5168\u6d41\u7a0b\u63d0\u4ea4 Skill\uff5c\u5458\u5de5\u53d1\u7968\u2192\u7533\u8bf7\u2192\u4e0b\u63a8\u62a5\u9500\u2192\u63d0\u4ea4\u5ba1\u6279\uff08expense/reimbursement flow\uff09",
-    "id": "LittleBeaverStudio/KingdeeExpenseFlow",
-    "language": "Python",
-    "name": "LittleBeaverStudio/KingdeeExpenseFlow",
-    "stars": 1,
-    "updated_at": "2026-10-17T11:53:38Z",
-    "url": "https://github.com/LittleBeaverStudio/KingdeeExpenseFlow"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:53:37Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-10-17T11:53:24Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Production-ready Claude Code skills for building AI agents with Pydantic AI. Includes dependency injection, tools, valid",
-    "id": "Fuenfgeld/pydantic-ai-skills",
-    "language": "Python",
-    "name": "Fuenfgeld/pydantic-ai-skills",
-    "stars": 10,
-    "updated_at": "2026-10-17T11:53:09Z",
-    "url": "https://github.com/Fuenfgeld/pydantic-ai-skills"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-17T11:51:57Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-10-17T11:50:17Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   }
 ]
