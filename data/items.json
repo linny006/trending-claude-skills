@@ -1,11 +1,92 @@
 [
   {
+    "description": "Agent skills for administering a real UniFi network over its local API: auth, zone firewall, Wi-Fi, clients, and the sit",
+    "id": "t3chnaztea/unifi-skills",
+    "language": "Python",
+    "name": "t3chnaztea/unifi-skills",
+    "stars": 41,
+    "updated_at": "2026-10-17T17:59:36Z",
+    "url": "https://github.com/t3chnaztea/unifi-skills"
+  },
+  {
+    "description": "A checkup for your voice agent: Claude Code skill that makes Bolna + Sarvam phone agents sound natural, answer faster an",
+    "id": "dakshinsiva/voice-doctor",
+    "language": "Python",
+    "name": "dakshinsiva/voice-doctor",
+    "stars": 0,
+    "updated_at": "2026-10-17T17:59:03Z",
+    "url": "https://github.com/dakshinsiva/voice-doctor"
+  },
+  {
+    "description": "Agent skills that teach coding agents to operate a Batocera arcade cabinet: ops, ROMs, display, tuning, maintenance. Cla",
+    "id": "t3chnaztea/batocera-skills",
+    "language": "Python",
+    "name": "t3chnaztea/batocera-skills",
+    "stars": 4,
+    "updated_at": "2026-10-17T17:58:58Z",
+    "url": "https://github.com/t3chnaztea/batocera-skills"
+  },
+  {
+    "description": "Forge of Thought is an AI cognitive extension: a workshop where your idea is forged into a decision you can stand behind",
+    "id": "pche-broken-artist/forge-of-thought",
+    "language": "Python",
+    "name": "pche-broken-artist/forge-of-thought",
+    "stars": 3,
+    "updated_at": "2026-10-17T17:58:43Z",
+    "url": "https://github.com/pche-broken-artist/forge-of-thought"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "Python",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-17T17:58:25Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "From raw footage to final cut. Open-source video creation and editing plugin: story-led films, brand films, explainers a",
+    "id": "indranilbanerjee/cutforge",
+    "language": "Python",
+    "name": "indranilbanerjee/cutforge",
+    "stars": 0,
+    "updated_at": "2026-10-17T17:58:00Z",
+    "url": "https://github.com/indranilbanerjee/cutforge"
+  },
+  {
+    "description": "AI writing skill and zero-dependency CLI linter for producing authentic, human-sounding articles and technical guides wi",
+    "id": "oathanrex/human-article-writer",
+    "language": "Python",
+    "name": "oathanrex/human-article-writer",
+    "stars": 0,
+    "updated_at": "2026-10-17T17:58:09Z",
+    "url": "https://github.com/oathanrex/human-article-writer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T17:57:02Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-17T17:57:01Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
     "id": "aiskillstore/marketplace",
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 438,
-    "updated_at": "2026-10-17T17:55:25Z",
+    "updated_at": "2026-10-17T17:59:41Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -108,15 +189,6 @@
     "url": "https://github.com/technicalpickles/pickled-claude-plugins"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T17:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
     "id": "scenario-labs/skills",
     "language": "Python",
@@ -180,15 +252,6 @@
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
   },
   {
-    "description": "Curated agent plugins and tooling by Knitli",
-    "id": "knitli/toolshed",
-    "language": "Python",
-    "name": "knitli/toolshed",
-    "stars": 1,
-    "updated_at": "2026-10-17T17:50:23Z",
-    "url": "https://github.com/knitli/toolshed"
-  },
-  {
     "description": "\u0420\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u043f\u043e Claude Code \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c: \u0441\u043a\u0438\u043b\u043b\u044b, \u0445\u0443\u043a\u0438, \u0441\u0443\u0431\u0430\u0433\u0435\u043d\u0442\u044b, \u043f\u043b\u0430\u0433\u0438\u043d\u044b, MCP-\u0441\u0435\u0440\u0432\u0435\u0440\u044b, \u0448\u0430\u0431\u043b\u043e\u043d\u044b CLAUDE.md, \u0448\u043f\u0430\u0440\u0433\u0430\u043b\u043a\u0430 \u0438 \u043a\u0430\u0442",
     "id": "sfrangulov/claude-code-handbook-ru",
     "language": "HTML",
@@ -202,7 +265,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 101370,
+    "stars": 101371,
     "updated_at": "2026-10-17T17:40:54Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -268,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T17:36:44Z",
     "url": "https://github.com/PawanSirsat/Laika"
-  },
-  {
-    "description": "AI writing skill and zero-dependency CLI linter for producing authentic, human-sounding articles and technical guides wi",
-    "id": "oathanrex/human-article-writer",
-    "language": "Python",
-    "name": "oathanrex/human-article-writer",
-    "stars": 0,
-    "updated_at": "2026-10-17T17:36:58Z",
-    "url": "https://github.com/oathanrex/human-article-writer"
   },
   {
     "description": "Claude Code\uc5d0\uc11c Claude\uac00 \uc4f0\ub294 \ud55c\uad6d\uc5b4\ub97c \ubc14\ub85c\uc7a1\ub294 \ub3c4\uad6c\uc785\ub2c8\ub2e4. \uc124\uce58\ud558\uba74 Claude\ub294 \ud55c\uad6d\uc5b4\ub97c \uc4f8 \ub54c\ub9c8\ub2e4 \uc791\uc131 \uc808\ucc28\ub97c \ub2f4\uc740 skill\uc744 \uba3c\uc800 \ubd80\ub985\ub2c8\ub2e4. \uc5b4\ud22c\uac00 \uc11e\uc774\uac70\ub098 \uae08\uc9c0\ud55c \ubb38\uc790\uac00 \ub4e4\uc5b4\uac04 \uae00\uc740 hook",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T17:30:59Z",
     "url": "https://github.com/alialavia/pbt-skills"
-  },
-  {
-    "description": "12 AI-powered skills for product discovery \u2014 from raw customer signal to validated opportunity. Built for Claude Code & ",
-    "id": "varunk130/ai-customer-discovery-skills",
-    "language": "Python",
-    "name": "varunk130/ai-customer-discovery-skills",
-    "stars": 2,
-    "updated_at": "2026-10-17T17:30:44Z",
-    "url": "https://github.com/varunk130/ai-customer-discovery-skills"
-  },
-  {
-    "description": "Speed is the product. 11 Claude Code skills that help AI builders move fast, decide sharp, and 10x their impact.",
-    "id": "varunk130/AI-Builder-Decision-Analyst",
-    "language": "\u2014",
-    "name": "varunk130/AI-Builder-Decision-Analyst",
-    "stars": 1,
-    "updated_at": "2026-10-17T17:30:37Z",
-    "url": "https://github.com/varunk130/AI-Builder-Decision-Analyst"
-  },
-  {
-    "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
-    "id": "ShadowSwaps/REA-Reconstruction-Companion",
-    "language": "JavaScript",
-    "name": "ShadowSwaps/REA-Reconstruction-Companion",
-    "stars": 72,
-    "updated_at": "2026-10-17T17:35:50Z",
-    "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion"
-  },
-  {
-    "description": "Agent skills for marketing technology: tracking plans, naming conventions, tracking QA, consent, attribution, CRM and li",
-    "id": "martechdevs/skills",
-    "language": "\u2014",
-    "name": "martechdevs/skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T17:29:19Z",
-    "url": "https://github.com/martechdevs/skills"
-  },
-  {
-    "description": " Agent skill + CLI for PageWell: write a designed document or a runnable single-page artifact with your AI agent, then p",
-    "id": "pagewellai/pagewell",
-    "language": "Shell",
-    "name": "pagewellai/pagewell",
-    "stars": 0,
-    "updated_at": "2026-10-17T17:25:00Z",
-    "url": "https://github.com/pagewellai/pagewell"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-17T17:23:37Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
