@@ -1,21 +1,48 @@
 [
   {
-    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
-    "id": "jgoneit/jaekit",
-    "language": "Python",
-    "name": "jgoneit/jaekit",
-    "stars": 0,
-    "updated_at": "2026-10-17T04:29:31Z",
-    "url": "https://github.com/jgoneit/jaekit"
-  },
-  {
     "description": "Claude Code skills + subagents: grilling, handoffs, kanban workflow, pair (manager+implementer), and an unattended orche",
     "id": "KrishP147/skills",
     "language": "Python",
     "name": "KrishP147/skills",
     "stars": 0,
-    "updated_at": "2026-10-17T04:27:44Z",
+    "updated_at": "2026-10-17T04:42:32Z",
     "url": "https://github.com/KrishP147/skills"
+  },
+  {
+    "description": "Gooo source examples for coding agents: edit, run and replay; independent Go ports and API policy regression checks.",
+    "id": "kimjooyoon/gooo-go-ports",
+    "language": "Go",
+    "name": "kimjooyoon/gooo-go-ports",
+    "stars": 1,
+    "updated_at": "2026-10-17T04:42:14Z",
+    "url": "https://github.com/kimjooyoon/gooo-go-ports"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-17T04:42:50Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 103239,
+    "updated_at": "2026-10-17T04:41:14Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 1,
+    "updated_at": "2026-10-17T04:40:42Z",
+    "url": "https://github.com/MrBinnacle/skills"
   },
   {
     "description": "Public method documents. How the work is thought and governed. Self-taught, in Dunedin. Not a commercial offer.",
@@ -23,8 +50,35 @@
     "language": "Python",
     "name": "Lycheetah/Lycheetah-Framework",
     "stars": 5,
-    "updated_at": "2026-10-17T04:25:20Z",
+    "updated_at": "2026-10-17T04:40:19Z",
     "url": "https://github.com/Lycheetah/Lycheetah-Framework"
+  },
+  {
+    "description": "An agent skill: how LLMs are actually built \u2014 data pipeline, post-training, evaluation \u2014 with every claim mapped to a ti",
+    "id": "lizhao888/llm-building-map",
+    "language": "\u2014",
+    "name": "lizhao888/llm-building-map",
+    "stars": 0,
+    "updated_at": "2026-10-17T04:39:52Z",
+    "url": "https://github.com/lizhao888/llm-building-map"
+  },
+  {
+    "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
+    "id": "savanna0425/skillhot",
+    "language": "JavaScript",
+    "name": "savanna0425/skillhot",
+    "stars": 39,
+    "updated_at": "2026-10-17T04:37:56Z",
+    "url": "https://github.com/savanna0425/skillhot"
+  },
+  {
+    "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
+    "id": "paureis/pau-skills",
+    "language": "JavaScript",
+    "name": "paureis/pau-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T04:35:23Z",
+    "url": "https://github.com/paureis/pau-skills"
   },
   {
     "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
@@ -32,8 +86,44 @@
     "language": "TypeScript",
     "name": "skeptrunedev/call4me",
     "stars": 13,
-    "updated_at": "2026-10-17T04:25:13Z",
+    "updated_at": "2026-10-17T04:33:26Z",
     "url": "https://github.com/skeptrunedev/call4me"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-10-17T04:31:22Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "Cloudflare\u300cAI\u722c\u866b\u88ab\u62e6\u300d\u9690\u5f62\u6545\u969c\u4f53\u68c0 Skill\uff1a\u8ba9AI\u641c\u7d22\u8bfb\u5f97\u5230\u4f60\u7684\u7f51\u7ad9",
+    "id": "yueliangjiejie/cloudflare-zone-guardrails-audit",
+    "language": "\u2014",
+    "name": "yueliangjiejie/cloudflare-zone-guardrails-audit",
+    "stars": 0,
+    "updated_at": "2026-10-17T04:30:30Z",
+    "url": "https://github.com/yueliangjiejie/cloudflare-zone-guardrails-audit"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T04:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
+    "id": "jgoneit/jaekit",
+    "language": "Python",
+    "name": "jgoneit/jaekit",
+    "stars": 0,
+    "updated_at": "2026-10-17T04:34:16Z",
+    "url": "https://github.com/jgoneit/jaekit"
   },
   {
     "description": "YouTube transcript Agent Skill for Claude Code, Cursor, Codex and OpenClaw: fetch YouTube video transcripts, search vide",
@@ -54,42 +144,6 @@
     "url": "https://github.com/zhuyansen/payment-guard"
   },
   {
-    "description": "Claude Skills",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 1,
-    "updated_at": "2026-10-17T04:22:42Z",
-    "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
-    "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
-    "id": "paureis/pau-skills",
-    "language": "JavaScript",
-    "name": "paureis/pau-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T04:22:09Z",
-    "url": "https://github.com/paureis/pau-skills"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 103235,
-    "updated_at": "2026-10-17T04:21:11Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "Gooo source examples for coding agents: edit, run and replay; independent Go ports and API policy regression checks.",
-    "id": "kimjooyoon/gooo-go-ports",
-    "language": "Go",
-    "name": "kimjooyoon/gooo-go-ports",
-    "stars": 1,
-    "updated_at": "2026-10-17T04:23:39Z",
-    "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
     "description": "Claude brain for Australian builders and tradespeople to use ",
     "id": "grechj/Australian-Builders-Brain",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T04:16:52Z",
     "url": "https://github.com/grechj/Australian-Builders-Brain"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T04:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The control plane for game-dev agents \u2014 close the loop with verified compile, test, and cross-model review across Unity,",
@@ -221,7 +266,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70118,
-    "updated_at": "2026-10-17T04:27:31Z",
+    "updated_at": "2026-10-17T04:33:40Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -315,15 +360,6 @@
     "url": "https://github.com/Viaknox/tune-up"
   },
   {
-    "description": "An agent skill: how LLMs are actually built \u2014 data pipeline, post-training, evaluation \u2014 with every claim mapped to a ti",
-    "id": "lizhao888/llm-building-map",
-    "language": "\u2014",
-    "name": "lizhao888/llm-building-map",
-    "stars": 0,
-    "updated_at": "2026-10-17T03:56:43Z",
-    "url": "https://github.com/lizhao888/llm-building-map"
-  },
-  {
     "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
     "id": "Joe-Simo/a0",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 95,
     "updated_at": "2026-10-17T03:31:07Z",
     "url": "https://github.com/YPares/rigup.nix"
-  },
-  {
-    "description": "Curated plugins for development workflows, for Claude Code and Codex.",
-    "id": "Jartan-LLC/grimoire",
-    "language": "JavaScript",
-    "name": "Jartan-LLC/grimoire",
-    "stars": 2,
-    "updated_at": "2026-10-17T04:28:42Z",
-    "url": "https://github.com/Jartan-LLC/grimoire"
-  },
-  {
-    "description": "A collection of reusable AI agent skills for Autodesk Platform Services and Autodesk industry clouds like Flow, Forma an",
-    "id": "autodesk-platform-services/skills",
-    "language": "C++",
-    "name": "autodesk-platform-services/skills",
-    "stars": 64,
-    "updated_at": "2026-10-17T03:27:52Z",
-    "url": "https://github.com/autodesk-platform-services/skills"
-  },
-  {
-    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
-    "id": "the911fund/skill-of-skills",
-    "language": "Python",
-    "name": "the911fund/skill-of-skills",
-    "stars": 77,
-    "updated_at": "2026-10-17T03:25:04Z",
-    "url": "https://github.com/the911fund/skill-of-skills"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-10-17T04:27:42Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   }
 ]
