@@ -1,5 +1,131 @@
 [
   {
+    "description": "A real browser inside your terminal",
+    "id": "zenbu-labs/terminal-browser",
+    "language": "TypeScript",
+    "name": "zenbu-labs/terminal-browser",
+    "stars": 3905,
+    "updated_at": "2026-10-17T08:14:14Z",
+    "url": "https://github.com/zenbu-labs/terminal-browser"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-17T08:14:16Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "\u500b\u4eba\u958b\u767a\u306e\u30ea\u30dd\u30b8\u30c8\u30ea\u3092\u307e\u305f\u3050\u4f5c\u6cd5\u3092\u307e\u3068\u3081\u305f Claude Code \u306e\u30b9\u30ad\u30eb\u96c6",
+    "id": "finalize/skills",
+    "language": "Python",
+    "name": "finalize/skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:13:10Z",
+    "url": "https://github.com/finalize/skills"
+  },
+  {
+    "description": "Five Claudes interview you for any job from the real job post, then grade every answer and rewrite your weakest ones. Fr",
+    "id": "alexyc9381/mock-interview-skill",
+    "language": "Python",
+    "name": "alexyc9381/mock-interview-skill",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:11:57Z",
+    "url": "https://github.com/alexyc9381/mock-interview-skill"
+  },
+  {
+    "description": "Agents don\u2019t behave, they swarm. Skills and plugins slot in mid flight, and somehow the whole thing is a mess",
+    "id": "widnyana/eyay-toolkits",
+    "language": "Python",
+    "name": "widnyana/eyay-toolkits",
+    "stars": 7,
+    "updated_at": "2026-10-17T08:10:05Z",
+    "url": "https://github.com/widnyana/eyay-toolkits"
+  },
+  {
+    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
+    "id": "PawanSirsat/Laika",
+    "language": "TypeScript",
+    "name": "PawanSirsat/Laika",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:09:39Z",
+    "url": "https://github.com/PawanSirsat/Laika"
+  },
+  {
+    "description": "Claude Code skill: goal-gated vibe-coding workflow \u2014 claim, design check, Codex review (max 3 rounds), QA, same-commit h",
+    "id": "jinjan21-lgtm/vibe-flow-skill",
+    "language": "Python",
+    "name": "jinjan21-lgtm/vibe-flow-skill",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:08:11Z",
+    "url": "https://github.com/jinjan21-lgtm/vibe-flow-skill"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "Python",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-17T08:08:02Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "Agent Skills for planning, analysis and report writing. \uae30\ud68d, \ubd84\uc11d, \ubcf4\uace0\uc11c \uc791\uc131\uc744 \uc704\ud55c \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
+    "id": "emdashsmoker/biz-agent-skills",
+    "language": "Python",
+    "name": "emdashsmoker/biz-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:07:44Z",
+    "url": "https://github.com/emdashsmoker/biz-agent-skills"
+  },
+  {
+    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
+    "id": "skeptrunedev/call4me",
+    "language": "TypeScript",
+    "name": "skeptrunedev/call4me",
+    "stars": 13,
+    "updated_at": "2026-10-17T08:07:07Z",
+    "url": "https://github.com/skeptrunedev/call4me"
+  },
+  {
+    "description": "Claude skill: design, build and review contextual help \u2014 tooltips that earn their place, inline hints, empty states that",
+    "id": "iamshubhransh/contextual-help",
+    "language": "TypeScript",
+    "name": "iamshubhransh/contextual-help",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:06:54Z",
+    "url": "https://github.com/iamshubhransh/contextual-help"
+  },
+  {
+    "description": "\u82f9\u679c MCP \u5de5\u5177 \u2705",
+    "id": "celados/mcpx",
+    "language": "TypeScript",
+    "name": "celados/mcpx",
+    "stars": 18,
+    "updated_at": "2026-10-17T08:06:45Z",
+    "url": "https://github.com/celados/mcpx"
+  },
+  {
+    "description": "Auto dlmm Meteora bot system",
+    "id": "romankurnovskii/etemaro",
+    "language": "TypeScript",
+    "name": "romankurnovskii/etemaro",
+    "stars": 46,
+    "updated_at": "2026-10-17T08:03:39Z",
+    "url": "https://github.com/romankurnovskii/etemaro"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T08:02:42Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "An IOS Simulator Skill for Agents. Use it to optimise their ability to build, run and interact with your apps, and to pr",
     "id": "conorluddy/ios-simulator-skill",
     "language": "Python",
@@ -16,15 +142,6 @@
     "stars": 50,
     "updated_at": "2026-10-17T08:01:44Z",
     "url": "https://github.com/huangwb8/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T08:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
@@ -126,15 +243,6 @@
     "url": "https://github.com/emdashsmoker/music-agent-skills"
   },
   {
-    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
-    "id": "PawanSirsat/Laika",
-    "language": "TypeScript",
-    "name": "PawanSirsat/Laika",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:49:14Z",
-    "url": "https://github.com/PawanSirsat/Laika"
-  },
-  {
     "description": "Every great bug bounty skill on GitHub, one repo, refreshed daily \u2014 auto-harvested, deduplicated, and credited to every ",
     "id": "S1N6H/Bug-Bounty-Skills",
     "language": "Python",
@@ -151,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T07:48:07Z",
     "url": "https://github.com/black-abys/reactive-avatar-form-skill"
-  },
-  {
-    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
-    "id": "skeptrunedev/call4me",
-    "language": "TypeScript",
-    "name": "skeptrunedev/call4me",
-    "stars": 13,
-    "updated_at": "2026-10-17T07:47:54Z",
-    "url": "https://github.com/skeptrunedev/call4me"
   },
   {
     "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
@@ -270,15 +369,6 @@
     "url": "https://github.com/statiiiix/cutroom"
   },
   {
-    "description": "Curated agent plugins and tooling by Knitli",
-    "id": "knitli/toolshed",
-    "language": "Python",
-    "name": "knitli/toolshed",
-    "stars": 1,
-    "updated_at": "2026-10-17T08:00:40Z",
-    "url": "https://github.com/knitli/toolshed"
-  },
-  {
     "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
     "id": "WenyuChiou/ai-research-skills",
     "language": "Python",
@@ -333,15 +423,6 @@
     "url": "https://github.com/Lycheetah/Lycheetah-Framework"
   },
   {
-    "description": "Claude Code / Codex skill: product video ads with an AI actor holding your product. Interview, features, taglines, stori",
-    "id": "shipunyc/okaypic-ads-skill",
-    "language": "Python",
-    "name": "shipunyc/okaypic-ads-skill",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:27:11Z",
-    "url": "https://github.com/shipunyc/okaypic-ads-skill"
-  },
-  {
     "description": "Claude Code / Codex skill: turn a prompt into a multi-shot AI video episode with MiniMax H3 \u2014 shot list, character sheet",
     "id": "okaypic/okaypic-video-skill",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-17T07:26:39Z",
     "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:26:29Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:22:38Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:22:30Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-17T07:50:17Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-17T07:20:18Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "29 Claude Code skills, 4 subagents and 3 hooks: grilling, handoffs, a kanban workflow, an unattended orchestrator with a",
-    "id": "KrishP147/skills",
-    "language": "Python",
-    "name": "KrishP147/skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:18:47Z",
-    "url": "https://github.com/KrishP147/skills"
-  },
-  {
-    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
-    "id": "AlejandroKuznetsov41/super-board",
-    "language": "JavaScript",
-    "name": "AlejandroKuznetsov41/super-board",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:18:21Z",
-    "url": "https://github.com/AlejandroKuznetsov41/super-board"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-10-17T07:18:04Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Deletion-first Agent Skill for removing test bloat, verification theater, and speculative fallbacks while preserving beh",
-    "id": "gabrieleraymond/deslop-GPT",
-    "language": "Python",
-    "name": "gabrieleraymond/deslop-GPT",
-    "stars": 0,
-    "updated_at": "2026-10-17T07:17:03Z",
-    "url": "https://github.com/gabrieleraymond/deslop-GPT"
   }
 ]
