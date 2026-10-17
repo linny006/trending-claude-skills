@@ -1,11 +1,101 @@
 [
   {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-10-17T23:13:17Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "\ud83d\udc39 Modern idiomatic Go skill, distilled from 100 Go Mistakes",
+    "id": "albertsko/go-skill",
+    "language": "Go",
+    "name": "albertsko/go-skill",
+    "stars": 0,
+    "updated_at": "2026-10-17T23:12:14Z",
+    "url": "https://github.com/albertsko/go-skill"
+  },
+  {
+    "description": "My personal blog page. ",
+    "id": "rsdlt/rsdlt.github.io",
+    "language": "Astro",
+    "name": "rsdlt/rsdlt.github.io",
+    "stars": 1,
+    "updated_at": "2026-10-17T23:12:01Z",
+    "url": "https://github.com/rsdlt/rsdlt.github.io"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-17T23:12:00Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 37,
+    "updated_at": "2026-10-17T23:09:11Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 103626,
+    "updated_at": "2026-10-17T23:08:49Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "A Claude skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual depth. Fre",
+    "id": "MetcalfSolutions/Satori",
+    "language": "Python",
+    "name": "MetcalfSolutions/Satori",
+    "stars": 84,
+    "updated_at": "2026-10-17T23:03:18Z",
+    "url": "https://github.com/MetcalfSolutions/Satori"
+  },
+  {
+    "description": "A bot that tunes up your other agents, with a built-in skill index. Ask for the job in plain English. The bot picks up o",
+    "id": "Viaknox/tune-up",
+    "language": "JavaScript",
+    "name": "Viaknox/tune-up",
+    "stars": 0,
+    "updated_at": "2026-10-17T23:02:19Z",
+    "url": "https://github.com/Viaknox/tune-up"
+  },
+  {
+    "description": "Agent Skills for engineering teams: one repository, profiles by stack, installation in a single command. Compatible with",
+    "id": "padosoft/skills",
+    "language": "Python",
+    "name": "padosoft/skills",
+    "stars": 1,
+    "updated_at": "2026-10-17T23:01:02Z",
+    "url": "https://github.com/padosoft/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T23:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
     "id": "paureis/pau-skills",
     "language": "JavaScript",
     "name": "paureis/pau-skills",
     "stars": 0,
-    "updated_at": "2026-10-17T22:59:35Z",
+    "updated_at": "2026-10-17T23:14:28Z",
     "url": "https://github.com/paureis/pau-skills"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-17T22:58:15Z",
+    "updated_at": "2026-10-17T23:12:23Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -81,15 +171,6 @@
     "url": "https://github.com/hsiu1214/skill-worth"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 103621,
-    "updated_at": "2026-10-17T22:47:50Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Official FlashData MCP server for Google Search, YouTube data, and media downloads.",
     "id": "rocosen/flashdata-mcp",
     "language": "Python",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:45:37Z",
     "url": "https://github.com/rocosen/flashdata-mcp"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T22:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Stop typing 'I already told you this' to Claude. A free Claude Code plugin that reads your session history, finds what k",
@@ -122,7 +194,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70142,
-    "updated_at": "2026-10-17T22:58:17Z",
+    "updated_at": "2026-10-17T23:14:00Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -131,17 +203,8 @@
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 1,
-    "updated_at": "2026-10-17T22:57:42Z",
+    "updated_at": "2026-10-17T23:06:08Z",
     "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
-    "description": "\ud83d\udc39 Modern idiomatic Go skill, distilled from 100 Go Mistakes",
-    "id": "albertsko/go-skill",
-    "language": "Go",
-    "name": "albertsko/go-skill",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:41:06Z",
-    "url": "https://github.com/albertsko/go-skill"
   },
   {
     "description": "Claude Code plugin: delegate coding tasks to the OpenCode CLI in isolated git worktrees while Claude plans, briefs, revi",
@@ -169,15 +232,6 @@
     "stars": 1252,
     "updated_at": "2026-10-17T22:38:32Z",
     "url": "https://github.com/reticlehq/reticle"
-  },
-  {
-    "description": "My personal blog page. ",
-    "id": "rsdlt/rsdlt.github.io",
-    "language": "Astro",
-    "name": "rsdlt/rsdlt.github.io",
-    "stars": 1,
-    "updated_at": "2026-10-17T22:37:11Z",
-    "url": "https://github.com/rsdlt/rsdlt.github.io"
   },
   {
     "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
@@ -223,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:30:31Z",
     "url": "https://github.com/sixmonth-ai/dental-explainer"
-  },
-  {
-    "description": "A bot that tunes up your other agents, with a built-in skill index. Ask for the job in plain English. The bot picks up o",
-    "id": "Viaknox/tune-up",
-    "language": "JavaScript",
-    "name": "Viaknox/tune-up",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:41:39Z",
-    "url": "https://github.com/Viaknox/tune-up"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -320,7 +365,7 @@
     "language": "JavaScript",
     "name": "noderaven/parallel-lanes",
     "stars": 5,
-    "updated_at": "2026-10-17T22:23:52Z",
+    "updated_at": "2026-10-17T23:09:57Z",
     "url": "https://github.com/noderaven/parallel-lanes"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:18:05Z",
     "url": "https://github.com/Ryan75624/notebooklm-mcp"
-  },
-  {
-    "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
-    "id": "spyros2627/agent-skills",
-    "language": "Python",
-    "name": "spyros2627/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:17:57Z",
-    "url": "https://github.com/spyros2627/agent-skills"
-  },
-  {
-    "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without ",
-    "id": "EwaRaymond/gap-trap",
-    "language": "JavaScript",
-    "name": "EwaRaymond/gap-trap",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:17:43Z",
-    "url": "https://github.com/EwaRaymond/gap-trap"
-  },
-  {
-    "description": "AAHL's Agent Skills. \u6c47\u96c6\u4e86\u591a\u79cd\u5b9e\u7528\u7684\u667a\u80fd\u4f53\u6280\u80fd\uff0c\u6db5\u76d6Home Assistant\u667a\u80fd\u5bb6\u5c45\u63a7\u5236\u3001\u5fae\u8f6fEdge TTS\u548c\u667a\u8c31GLM-TTS\u6587\u672c\u8f6c\u8bed\u97f3\u3001DuckDuckGo\u641c\u7d22\u3001DeepWiki\u6587\u6863\u68c0\u7d22\u3001\u52a0\u5bc6\u8d27\u5e01\u884c\u60c5\u3001\u5929\u6c14\u9884",
-    "id": "horsty7331/skills",
-    "language": "Python",
-    "name": "horsty7331/skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:17:27Z",
-    "url": "https://github.com/horsty7331/skills"
-  },
-  {
-    "description": "Spring Boot skills for AI coding agents",
-    "id": "dang1934/sivalabs-agent-skills",
-    "language": "Python",
-    "name": "dang1934/sivalabs-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:17:24Z",
-    "url": "https://github.com/dang1934/sivalabs-agent-skills"
-  },
-  {
-    "description": "Brezpla\u010den Claude skill za slovenska in hrva\u0161ka besedila objav \u2013 \u017dan Meke \u00b7 zanmeke.com",
-    "id": "Vortex670/jezik-objav-sl-hr",
-    "language": "\u2014",
-    "name": "Vortex670/jezik-objav-sl-hr",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:16:38Z",
-    "url": "https://github.com/Vortex670/jezik-objav-sl-hr"
   }
 ]
