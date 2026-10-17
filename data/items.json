@@ -1,5 +1,95 @@
 [
   {
+    "description": "Stop typing 'I already told you this' to Claude. A free Claude Code plugin that reads your session history, finds what k",
+    "id": "jsahani/already-told-you",
+    "language": "Python",
+    "name": "jsahani/already-told-you",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:42:17Z",
+    "url": "https://github.com/jsahani/already-told-you"
+  },
+  {
+    "description": "Skills that started with problems I encountered.",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:41:15Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "\ud83d\udc39 Modern idiomatic Go skill, distilled from 100 Go Mistakes",
+    "id": "albertsko/go-skill",
+    "language": "Go",
+    "name": "albertsko/go-skill",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:41:06Z",
+    "url": "https://github.com/albertsko/go-skill"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:40:41Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "Claude Code plugin: delegate coding tasks to the OpenCode CLI in isolated git worktrees while Claude plans, briefs, revi",
+    "id": "yaniv-golan/opencode-skill",
+    "language": "Python",
+    "name": "yaniv-golan/opencode-skill",
+    "stars": 0,
+    "updated_at": "2026-10-17T22:40:57Z",
+    "url": "https://github.com/yaniv-golan/opencode-skill"
+  },
+  {
+    "description": "Generate, verify, and maintain AI agent guidance for your OSS project \u2014 skills, plugins, and AGENTS.md for Claude Code, ",
+    "id": "nordicnode/skillpack",
+    "language": "Rust",
+    "name": "nordicnode/skillpack",
+    "stars": 2,
+    "updated_at": "2026-10-17T22:40:14Z",
+    "url": "https://github.com/nordicnode/skillpack"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1252,
+    "updated_at": "2026-10-17T22:38:32Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "My personal blog page. ",
+    "id": "rsdlt/rsdlt.github.io",
+    "language": "Astro",
+    "name": "rsdlt/rsdlt.github.io",
+    "stars": 1,
+    "updated_at": "2026-10-17T22:37:11Z",
+    "url": "https://github.com/rsdlt/rsdlt.github.io"
+  },
+  {
+    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
+    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "language": "Python",
+    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "stars": 17,
+    "updated_at": "2026-10-17T22:36:14Z",
+    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T22:33:52Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
     "id": "LilityV/multai-ai-agent-arsenal",
     "language": "HTML",
@@ -18,21 +108,12 @@
     "url": "https://github.com/skills-agents-co/skills-and-agents-library"
   },
   {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:32:57Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70142,
-    "updated_at": "2026-10-17T22:32:12Z",
+    "stars": 70141,
+    "updated_at": "2026-10-17T22:41:49Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -41,24 +122,15 @@
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 127,
-    "updated_at": "2026-10-17T22:31:53Z",
+    "updated_at": "2026-10-17T22:34:07Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Generate, verify, and maintain AI agent guidance for your OSS project \u2014 skills, plugins, and AGENTS.md for Claude Code, ",
-    "id": "nordicnode/skillpack",
-    "language": "Rust",
-    "name": "nordicnode/skillpack",
-    "stars": 2,
-    "updated_at": "2026-10-17T22:32:15Z",
-    "url": "https://github.com/nordicnode/skillpack"
   },
   {
     "description": "The open-source app everyone uses to manage agents at work",
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 103616,
+    "stars": 103618,
     "updated_at": "2026-10-17T22:31:11Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -77,17 +149,8 @@
     "language": "JavaScript",
     "name": "Viaknox/tune-up",
     "stars": 0,
-    "updated_at": "2026-10-17T22:31:01Z",
+    "updated_at": "2026-10-17T22:41:39Z",
     "url": "https://github.com/Viaknox/tune-up"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T22:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -95,7 +158,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-17T22:33:16Z",
+    "updated_at": "2026-10-17T22:43:40Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -185,7 +248,7 @@
     "language": "Python",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-17T22:33:40Z",
+    "updated_at": "2026-10-17T22:44:01Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -347,7 +410,7 @@
     "language": "JavaScript",
     "name": "paureis/pau-skills",
     "stars": 0,
-    "updated_at": "2026-10-17T22:13:16Z",
+    "updated_at": "2026-10-17T22:44:09Z",
     "url": "https://github.com/paureis/pau-skills"
   },
   {
@@ -378,24 +441,6 @@
     "url": "https://github.com/tcampbell660/repo-forensics"
   },
   {
-    "description": "\ud83d\udc39 Modern idiomatic Go skill, distilled from 100 Go Mistakes",
-    "id": "albertsko/go-skill",
-    "language": "Go",
-    "name": "albertsko/go-skill",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:10:20Z",
-    "url": "https://github.com/albertsko/go-skill"
-  },
-  {
-    "description": "Claude Skills",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 1,
-    "updated_at": "2026-10-17T22:30:37Z",
-    "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T22:09:19Z",
     "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Claude SEO Skills \u2014 production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voi",
-    "id": "RebeccaCatalano/seo-skills",
-    "language": "Python",
-    "name": "RebeccaCatalano/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:09:04Z",
-    "url": "https://github.com/RebeccaCatalano/seo-skills"
-  },
-  {
-    "description": "Community-driven workflows for Antigravity AI. Like Claude Skills - reusable prompts and automation for AI coding assist",
-    "id": "denizb21075/antigravity-workflows",
-    "language": "JavaScript",
-    "name": "denizb21075/antigravity-workflows",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:08:15Z",
-    "url": "https://github.com/denizb21075/antigravity-workflows"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-10-17T22:08:05Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Skill \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 (Claude Code, Codex, OpenClaw, Hermes): \u0443\u0431\u0438\u0440\u0430\u0435\u0442 37 \u043f\u0440\u0438\u0437\u043d\u0430\u043a\u043e\u0432 AI-\u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0437 \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0430 \u0438 \u043f\u0440\u043e\u0432",
-    "id": "Nicholas55167/humanizer-ru",
-    "language": "Python",
-    "name": "Nicholas55167/humanizer-ru",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:07:54Z",
-    "url": "https://github.com/Nicholas55167/humanizer-ru"
-  },
-  {
-    "description": "Deletion-first Agent Skill for removing test bloat, verification theater, and speculative fallbacks while preserving beh",
-    "id": "GiulioCastro3100/deslop-GPT",
-    "language": "Python",
-    "name": "GiulioCastro3100/deslop-GPT",
-    "stars": 0,
-    "updated_at": "2026-10-17T22:07:21Z",
-    "url": "https://github.com/GiulioCastro3100/deslop-GPT"
   }
 ]
