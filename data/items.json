@@ -1,12 +1,111 @@
 [
   {
+    "description": "A local video studio for your coding agent. Describe a video in one sentence: your agent directs, your machine renders. ",
+    "id": "FavioVazquez/showtime",
+    "language": "Python",
+    "name": "FavioVazquez/showtime",
+    "stars": 261,
+    "updated_at": "2026-10-17T02:43:54Z",
+    "url": "https://github.com/FavioVazquez/showtime"
+  },
+  {
+    "description": "AI \u77ed\u5267\u521b\u4f5c\u5de5\u4f5c\u6d41\u6280\u80fd\uff08Claude Code / ZCode / Codex Agent Skill\uff09\uff1aSeedance\uff0f\u5373\u68a6\u51fa\u7247\u5168\u6d41\u7a0b\u2014\u2014\u5206\u955c\u667a\u80fd\u4f53\u3001\u5bab\u683c\u5206\u955c\u3001\u4eba\u8138\u89c4\u907f\u3001\u7d20\u6750\u4e00\u81f4\u6027\u3001\u6bb5\u7f1d\u8854\u63a5\u3001\u5fae\u8868\u60c5\u3001\u6253\u620f\u9884\u6f14\u3001\u914d\u97f3\u4e0e\u6392\u969c\uff1b\u542b\u4e5d\u4e2a\u5de5\u7a0b\u811a",
+    "id": "ADC1920/AI-short-play-video-creation",
+    "language": "Python",
+    "name": "ADC1920/AI-short-play-video-creation",
+    "stars": 3,
+    "updated_at": "2026-10-17T02:42:45Z",
+    "url": "https://github.com/ADC1920/AI-short-play-video-creation"
+  },
+  {
+    "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
+    "id": "paureis/pau-skills",
+    "language": "JavaScript",
+    "name": "paureis/pau-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:42:22Z",
+    "url": "https://github.com/paureis/pau-skills"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 3,
+    "updated_at": "2026-10-17T02:40:48Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-10-17T02:40:29Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 101250,
+    "updated_at": "2026-10-17T02:37:44Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "Claude Skills",
     "id": "MrBinnacle/skills",
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 1,
-    "updated_at": "2026-10-17T02:29:00Z",
+    "updated_at": "2026-10-17T02:37:18Z",
     "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 149,
+    "updated_at": "2026-10-17T02:37:11Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "A bot that tunes up your other agents, with a built-in skill index. Ask for the job in plain English. The bot picks up o",
+    "id": "Viaknox/tune-up",
+    "language": "JavaScript",
+    "name": "Viaknox/tune-up",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:36:08Z",
+    "url": "https://github.com/Viaknox/tune-up"
+  },
+  {
+    "description": "AI marketing agents for Claude Code - B2B SaaS: 90 agents, 19 skills - SEO/AEO/GEO, content ops, paid media, social list",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 23,
+    "updated_at": "2026-10-17T02:34:13Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-17T02:33:24Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T02:30:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude skills: .docx review and validated table extraction, academic literature reviews (pt-BR), modern R package develo",
@@ -76,7 +175,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 103205,
+    "stars": 103214,
     "updated_at": "2026-10-17T02:18:00Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -90,30 +189,12 @@
     "url": "https://github.com/notque/vexjoy-agent"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 101248,
-    "updated_at": "2026-10-17T02:17:34Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T02:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
     "id": "dryvist/ai-assistant-instructions",
     "language": "Shell",
     "name": "dryvist/ai-assistant-instructions",
     "stars": 9,
-    "updated_at": "2026-10-17T02:14:59Z",
+    "updated_at": "2026-10-17T02:36:13Z",
     "url": "https://github.com/dryvist/ai-assistant-instructions"
   },
   {
@@ -124,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T02:14:53Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "AI \u77ed\u5267\u521b\u4f5c\u5de5\u4f5c\u6d41\u6280\u80fd\uff08Claude Code / ZCode / Codex Agent Skill\uff09\uff1aSeedance\uff0f\u5373\u68a6\u51fa\u7247\u5168\u6d41\u7a0b\u2014\u2014\u5206\u955c\u667a\u80fd\u4f53\u3001\u5bab\u683c\u5206\u955c\u3001\u4eba\u8138\u89c4\u907f\u3001\u7d20\u6750\u4e00\u81f4\u6027\u3001\u6bb5\u7f1d\u8854\u63a5\u3001\u5fae\u8868\u60c5\u3001\u6253\u620f\u9884\u6f14\u3001\u914d\u97f3\u4e0e\u6392\u969c\uff1b\u542b\u4e5d\u4e2a\u5de5\u7a0b\u811a",
-    "id": "ADC1920/AI-short-play-video-creation",
-    "language": "Python",
-    "name": "ADC1920/AI-short-play-video-creation",
-    "stars": 3,
-    "updated_at": "2026-10-17T02:08:22Z",
-    "url": "https://github.com/ADC1920/AI-short-play-video-creation"
   },
   {
     "description": "A scientific research workflow for Claude Code: five stages and 21 runnable scripts for citation verification, claim aud",
@@ -292,7 +364,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 84501,
+    "stars": 84505,
     "updated_at": "2026-10-17T01:42:27Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -376,77 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-17T01:30:27Z",
     "url": "https://github.com/noderaven/parallel-lanes"
-  },
-  {
-    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
-    "id": "jgoneit/jaekit",
-    "language": "Python",
-    "name": "jgoneit/jaekit",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:50:37Z",
-    "url": "https://github.com/jgoneit/jaekit"
-  },
-  {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 8,
-    "updated_at": "2026-10-17T01:32:17Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "\u4e09\u65b9\u5bf9\u6297\u5f0f\u4ee3\u7801\u8bc4\u5ba1 Agent Skill\uff1a\u84dd\u519b(\u654c\u610f\u5ba1\u67e5) \u2192 \u7b2c\u4e09\u65b9(\u72ec\u7acb\u590d\u6838) \u2192 \u4e2d\u7acb\u88c1\u5b9a\uff0c\u6bcf\u6761\u7ed3\u8bba\u5e26\u8bc1\u636e\u94fe\u3002\u5b89\u88c5\uff1anpx skills add RevolutionLA/adversarial-review \u00b7 Tri-role ",
-    "id": "RevolutionLA/adversarial-review",
-    "language": "JavaScript",
-    "name": "RevolutionLA/adversarial-review",
-    "stars": 4,
-    "updated_at": "2026-10-17T01:25:03Z",
-    "url": "https://github.com/RevolutionLA/adversarial-review"
-  },
-  {
-    "description": "An open, reproducible, causal benchmark for Generative Engine Optimization: does changing a page actually change whether",
-    "id": "dcefferty/OpenGEO",
-    "language": "Python",
-    "name": "dcefferty/OpenGEO",
-    "stars": 1,
-    "updated_at": "2026-10-17T01:26:25Z",
-    "url": "https://github.com/dcefferty/OpenGEO"
-  },
-  {
-    "description": "Claude Code plugin: on every prompt, suggests the full better stack (model, connectors, skills, GitHub repos, cost, safe",
-    "id": "costello88/tiabwft",
-    "language": "TypeScript",
-    "name": "costello88/tiabwft",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:19:53Z",
-    "url": "https://github.com/costello88/tiabwft"
-  },
-  {
-    "description": "Canonical self-hosted repository for Claude Skills CLI packages with automated sync and validation",
-    "id": "newbe36524/myskills",
-    "language": "Python",
-    "name": "newbe36524/myskills",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:15:00Z",
-    "url": "https://github.com/newbe36524/myskills"
-  },
-  {
-    "description": "\u5e8f\u5e55 Xumu\uff1a\u628a\u53e3\u64ad\u89c6\u9891/\u5f55\u97f3/\u6587\u6848\u4ea4\u7ed9 AI Agent\uff08Claude\u3001GPT\u3001\u8c46\u5305\u7b49\uff09\uff0c\u81ea\u52a8\u5b8c\u6210\u526a\u8f91\u3001\u9009\u955c\u5934\u3001\u5b9a\u5236 MG \u4e0e\u5408\u6210\u3002",
-    "id": "cecilPENG53/xumu",
-    "language": "TypeScript",
-    "name": "cecilPENG53/xumu",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:13:52Z",
-    "url": "https://github.com/cecilPENG53/xumu"
-  },
-  {
-    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
-    "id": "AnotherSava/claude-code-common",
-    "language": "Python",
-    "name": "AnotherSava/claude-code-common",
-    "stars": 1,
-    "updated_at": "2026-10-17T01:12:49Z",
-    "url": "https://github.com/AnotherSava/claude-code-common"
   }
 ]
