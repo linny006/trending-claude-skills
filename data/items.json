@@ -1,5 +1,122 @@
 [
   {
+    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
+    "id": "PawanSirsat/Laika",
+    "language": "TypeScript",
+    "name": "PawanSirsat/Laika",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:59:26Z",
+    "url": "https://github.com/PawanSirsat/Laika"
+  },
+  {
+    "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
+    "id": "paureis/pau-skills",
+    "language": "JavaScript",
+    "name": "paureis/pau-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:59:07Z",
+    "url": "https://github.com/paureis/pau-skills"
+  },
+  {
+    "description": "Claude Code skill: goal-gated vibe-coding workflow \u2014 claim, design check, Codex review (max 3 rounds), QA, same-commit h",
+    "id": "jinjan21-lgtm/vibe-flow-skill",
+    "language": "Python",
+    "name": "jinjan21-lgtm/vibe-flow-skill",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:58:34Z",
+    "url": "https://github.com/jinjan21-lgtm/vibe-flow-skill"
+  },
+  {
+    "description": "Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.",
+    "id": "devohmycode/skills-atlas",
+    "language": "TypeScript",
+    "name": "devohmycode/skills-atlas",
+    "stars": 11,
+    "updated_at": "2026-10-17T08:58:08Z",
+    "url": "https://github.com/devohmycode/skills-atlas"
+  },
+  {
+    "description": "Statistical timeseries forecasting in DuckDB",
+    "id": "DataZooDE/anofox-forecast",
+    "language": "Rust",
+    "name": "DataZooDE/anofox-forecast",
+    "stars": 41,
+    "updated_at": "2026-10-17T08:56:11Z",
+    "url": "https://github.com/DataZooDE/anofox-forecast"
+  },
+  {
+    "description": "Turn Claude Code and Codex into your video editor. Drop in raw clips and it transcribes, cuts pauses, cleans your voice,",
+    "id": "statiiiix/cutroom",
+    "language": "Python",
+    "name": "statiiiix/cutroom",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:59:17Z",
+    "url": "https://github.com/statiiiix/cutroom"
+  },
+  {
+    "description": "See what AI made and the recipe behind it: exact prompts, skills, tools and steps. Search recipes, capture your own Clau",
+    "id": "fraylabs/possible",
+    "language": "JavaScript",
+    "name": "fraylabs/possible",
+    "stars": 11,
+    "updated_at": "2026-10-17T08:54:06Z",
+    "url": "https://github.com/fraylabs/possible"
+  },
+  {
+    "description": "Claude brain for Australian builders and tradespeople to use ",
+    "id": "grechj/Australian-Builders-Brain",
+    "language": "Python",
+    "name": "grechj/Australian-Builders-Brain",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:50:41Z",
+    "url": "https://github.com/grechj/Australian-Builders-Brain"
+  },
+  {
+    "description": "Claude Code skill: shared handoff docs for N people each running their own AI session \u2014 claim before work, same-commit r",
+    "id": "jinjan21-lgtm/team-handoff-skill",
+    "language": "\u2014",
+    "name": "jinjan21-lgtm/team-handoff-skill",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:50:17Z",
+    "url": "https://github.com/jinjan21-lgtm/team-handoff-skill"
+  },
+  {
+    "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
+    "id": "walkwithedi/evergreen-wiki",
+    "language": "Python",
+    "name": "walkwithedi/evergreen-wiki",
+    "stars": 1,
+    "updated_at": "2026-10-17T08:58:13Z",
+    "url": "https://github.com/walkwithedi/evergreen-wiki"
+  },
+  {
+    "description": "\u500b\u4eba\u958b\u767a\u306e\u30ea\u30dd\u30b8\u30c8\u30ea\u3092\u307e\u305f\u3050\u4f5c\u6cd5\u3092\u307e\u3068\u3081\u305f Claude Code \u306e\u30b9\u30ad\u30eb\u96c6",
+    "id": "finalize/skills",
+    "language": "Python",
+    "name": "finalize/skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:54:22Z",
+    "url": "https://github.com/finalize/skills"
+  },
+  {
+    "description": "Seven competitive intelligence skills for AI agents \u2014 AI visibility, AI sources, strategic briefings, competitor dossier",
+    "id": "competlab/competlab-ci-skills",
+    "language": "JavaScript",
+    "name": "competlab/competlab-ci-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T08:46:46Z",
+    "url": "https://github.com/competlab/competlab-ci-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T08:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -18,40 +135,13 @@
     "url": "https://github.com/Huanyu-Hibiki/Huanyu-Skills"
   },
   {
-    "description": "Claude Code skill: shared handoff docs for N people each running their own AI session \u2014 claim before work, same-commit r",
-    "id": "jinjan21-lgtm/team-handoff-skill",
-    "language": "\u2014",
-    "name": "jinjan21-lgtm/team-handoff-skill",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:42:54Z",
-    "url": "https://github.com/jinjan21-lgtm/team-handoff-skill"
-  },
-  {
-    "description": "Claude Code skill: goal-gated vibe-coding workflow \u2014 claim, design check, Codex review (max 3 rounds), QA, same-commit h",
-    "id": "jinjan21-lgtm/vibe-flow-skill",
-    "language": "Python",
-    "name": "jinjan21-lgtm/vibe-flow-skill",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:42:52Z",
-    "url": "https://github.com/jinjan21-lgtm/vibe-flow-skill"
-  },
-  {
     "description": "Curated agent plugins and tooling by Knitli",
     "id": "knitli/toolshed",
     "language": "Python",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-17T08:42:26Z",
+    "updated_at": "2026-10-17T08:53:24Z",
     "url": "https://github.com/knitli/toolshed"
-  },
-  {
-    "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
-    "id": "paureis/pau-skills",
-    "language": "JavaScript",
-    "name": "paureis/pau-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:42:12Z",
-    "url": "https://github.com/paureis/pau-skills"
   },
   {
     "description": "Music production agent skills that finish songs without diffusion models. \ud655\uc0b0 \ubaa8\ub378 \uc5c6\uc774 \uace1\uc744 \uc644\uc131\ud558\ub294 \uc74c\uc545 \uc81c\uc791 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
@@ -90,15 +180,6 @@
     "url": "https://github.com/rishichawda/sensei"
   },
   {
-    "description": "Claude brain for Australian builders and tradespeople to use ",
-    "id": "grechj/Australian-Builders-Brain",
-    "language": "Python",
-    "name": "grechj/Australian-Builders-Brain",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:45:08Z",
-    "url": "https://github.com/grechj/Australian-Builders-Brain"
-  },
-  {
     "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
     "id": "elementalsouls/Claude-BugHunter",
     "language": "Python",
@@ -122,17 +203,8 @@
     "language": "Python",
     "name": "ahmedsykoo/smart-router",
     "stars": 0,
-    "updated_at": "2026-10-17T08:37:06Z",
+    "updated_at": "2026-10-17T09:00:08Z",
     "url": "https://github.com/ahmedsykoo/smart-router"
-  },
-  {
-    "description": "An LLM-maintained knowledge base that stays current, cites its sources and is easy for an assistant to search.",
-    "id": "walkwithedi/evergreen-wiki",
-    "language": "Python",
-    "name": "walkwithedi/evergreen-wiki",
-    "stars": 1,
-    "updated_at": "2026-10-17T08:34:35Z",
-    "url": "https://github.com/walkwithedi/evergreen-wiki"
   },
   {
     "description": "You shipped it and nobody is buying. Install this and Claude Code diagnoses why, then hands you the proven moves that fi",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "ayukyo/icode-skill",
     "stars": 5,
-    "updated_at": "2026-10-17T08:33:22Z",
+    "updated_at": "2026-10-17T09:00:07Z",
     "url": "https://github.com/ayukyo/icode-skill"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 66,
     "updated_at": "2026-10-17T08:34:38Z",
     "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T08:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
@@ -220,7 +283,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 103308,
+    "stars": 103311,
     "updated_at": "2026-10-17T08:26:03Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -360,15 +423,6 @@
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
-    "description": "\u500b\u4eba\u958b\u767a\u306e\u30ea\u30dd\u30b8\u30c8\u30ea\u3092\u307e\u305f\u3050\u4f5c\u6cd5\u3092\u307e\u3068\u3081\u305f Claude Code \u306e\u30b9\u30ad\u30eb\u96c6",
-    "id": "finalize/skills",
-    "language": "Python",
-    "name": "finalize/skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:40:49Z",
-    "url": "https://github.com/finalize/skills"
-  },
-  {
     "description": "Five Claudes interview you for any job from the real job post, then grade every answer and rewrite your weakest ones. Fr",
     "id": "alexyc9381/mock-interview-skill",
     "language": "Python",
@@ -387,15 +441,6 @@
     "url": "https://github.com/widnyana/eyay-toolkits"
   },
   {
-    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
-    "id": "PawanSirsat/Laika",
-    "language": "TypeScript",
-    "name": "PawanSirsat/Laika",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:09:39Z",
-    "url": "https://github.com/PawanSirsat/Laika"
-  },
-  {
     "description": "Agent Skills for planning, analysis and report writing. \uae30\ud68d, \ubd84\uc11d, \ubcf4\uace0\uc11c \uc791\uc131\uc744 \uc704\ud55c \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
     "id": "emdashsmoker/biz-agent-skills",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T08:07:44Z",
     "url": "https://github.com/emdashsmoker/biz-agent-skills"
-  },
-  {
-    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
-    "id": "skeptrunedev/call4me",
-    "language": "TypeScript",
-    "name": "skeptrunedev/call4me",
-    "stars": 13,
-    "updated_at": "2026-10-17T08:07:07Z",
-    "url": "https://github.com/skeptrunedev/call4me"
-  },
-  {
-    "description": "Claude skill: design, build and review contextual help \u2014 tooltips that earn their place, inline hints, empty states that",
-    "id": "iamshubhransh/contextual-help",
-    "language": "TypeScript",
-    "name": "iamshubhransh/contextual-help",
-    "stars": 0,
-    "updated_at": "2026-10-17T08:06:54Z",
-    "url": "https://github.com/iamshubhransh/contextual-help"
-  },
-  {
-    "description": "\u82f9\u679c MCP \u5de5\u5177 \u2705",
-    "id": "celados/mcpx",
-    "language": "TypeScript",
-    "name": "celados/mcpx",
-    "stars": 18,
-    "updated_at": "2026-10-17T08:06:45Z",
-    "url": "https://github.com/celados/mcpx"
-  },
-  {
-    "description": "Auto dlmm Meteora bot system",
-    "id": "romankurnovskii/etemaro",
-    "language": "TypeScript",
-    "name": "romankurnovskii/etemaro",
-    "stars": 46,
-    "updated_at": "2026-10-17T08:03:39Z",
-    "url": "https://github.com/romankurnovskii/etemaro"
-  },
-  {
-    "description": "General Skills Development Pipeline - Claude Code & Codex",
-    "id": "huangwb8/skills",
-    "language": "Python",
-    "name": "huangwb8/skills",
-    "stars": 50,
-    "updated_at": "2026-10-17T08:01:44Z",
-    "url": "https://github.com/huangwb8/skills"
   }
 ]
