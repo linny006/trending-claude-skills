@@ -1,5 +1,149 @@
 [
   {
+    "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
+    "id": "nuncaeslupus/literary-critic",
+    "language": "Python",
+    "name": "nuncaeslupus/literary-critic",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:30:09Z",
+    "url": "https://github.com/nuncaeslupus/literary-critic"
+  },
+  {
+    "description": "marola way of coding",
+    "id": "marola-dev/marola-skills",
+    "language": "Python",
+    "name": "marola-dev/marola-skills",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:28:55Z",
+    "url": "https://github.com/marola-dev/marola-skills"
+  },
+  {
+    "description": "\u91d1\u8776\u4e91\u661f\u7a7a\u7ecf\u8425\u6570\u636e\u5206\u6790 Skill\uff5c\u5bfc\u51fa\u2192Excel/HTML \u62a5\u8868\uff0c\u672c\u5730\u4f18\u5148\uff08Kingdee Cloud data analysis skill\uff09",
+    "id": "LittleBeaverStudio/KingdeeDataAnalyzer",
+    "language": "Python",
+    "name": "LittleBeaverStudio/KingdeeDataAnalyzer",
+    "stars": 3,
+    "updated_at": "2026-10-17T12:28:15Z",
+    "url": "https://github.com/LittleBeaverStudio/KingdeeDataAnalyzer"
+  },
+  {
+    "description": "\ud83c\udfac AI agent skill to find the full series of any viral short drama, micro-drama or AI short drama (\u77ed\u5267 / AI\u77ed\u5267) from a TikT",
+    "id": "Vallykrie/short-drama-finder-skill",
+    "language": "Shell",
+    "name": "Vallykrie/short-drama-finder-skill",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:26:02Z",
+    "url": "https://github.com/Vallykrie/short-drama-finder-skill"
+  },
+  {
+    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
+    "id": "allxsmith/bestax-skills",
+    "language": "TypeScript",
+    "name": "allxsmith/bestax-skills",
+    "stars": 2,
+    "updated_at": "2026-10-17T12:25:45Z",
+    "url": "https://github.com/allxsmith/bestax-skills"
+  },
+  {
+    "description": "Agent skills for Claude Code, Codex, Cursor and Gemini CLI: read a web page as data instead of a screenshot, draw print-",
+    "id": "keenskills/skills",
+    "language": "JavaScript",
+    "name": "keenskills/skills",
+    "stars": 2,
+    "updated_at": "2026-10-17T12:25:33Z",
+    "url": "https://github.com/keenskills/skills"
+  },
+  {
+    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
+    "id": "the911fund/skill-of-skills",
+    "language": "Python",
+    "name": "the911fund/skill-of-skills",
+    "stars": 77,
+    "updated_at": "2026-10-17T12:25:04Z",
+    "url": "https://github.com/the911fund/skill-of-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:21:29Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.",
+    "id": "Aryanutkarsh/SeeCode",
+    "language": "JavaScript",
+    "name": "Aryanutkarsh/SeeCode",
+    "stars": 616,
+    "updated_at": "2026-10-17T12:20:30Z",
+    "url": "https://github.com/Aryanutkarsh/SeeCode"
+  },
+  {
+    "description": "An AI-assistant skill that turns a short story (Chinese, English or Korean) into an episodic AI drama: script, storyboar",
+    "id": "azrianobr/dramazing",
+    "language": "JavaScript",
+    "name": "azrianobr/dramazing",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:19:44Z",
+    "url": "https://github.com/azrianobr/dramazing"
+  },
+  {
+    "description": "Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent",
+    "id": "MohammadHijjawi97/since-cutoff",
+    "language": "Python",
+    "name": "MohammadHijjawi97/since-cutoff",
+    "stars": 9,
+    "updated_at": "2026-10-17T12:18:43Z",
+    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
+  },
+  {
+    "description": "Every Claude artifact you publish, filed and searchable: links saved on your machine at publish time, filed into project",
+    "id": "SureshKumar-24/artifact-hub",
+    "language": "HTML",
+    "name": "SureshKumar-24/artifact-hub",
+    "stars": 0,
+    "updated_at": "2026-10-17T12:16:50Z",
+    "url": "https://github.com/SureshKumar-24/artifact-hub"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70125,
+    "updated_at": "2026-10-17T12:22:57Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "Python",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:30:07Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "Presentations in your company's design and voice: agent skills for Claude (Claude Code, Cowork)",
+    "id": "mfoureyes/vibeupslides",
+    "language": "Python",
+    "name": "mfoureyes/vibeupslides",
+    "stars": 1,
+    "updated_at": "2026-10-17T12:15:23Z",
+    "url": "https://github.com/mfoureyes/vibeupslides"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T12:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound",
     "id": "dagoSte/squadra",
     "language": "Python",
@@ -23,17 +167,8 @@
     "language": "Python",
     "name": "ikaijua/Awesome-AITools",
     "stars": 6222,
-    "updated_at": "2026-10-17T12:13:54Z",
+    "updated_at": "2026-10-17T12:17:06Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Animated, explorable diagrams for Claude and other coding agents, from a short JSON spec.",
-    "id": "Aryanutkarsh/SeeCode",
-    "language": "JavaScript",
-    "name": "Aryanutkarsh/SeeCode",
-    "stars": 614,
-    "updated_at": "2026-10-17T12:12:28Z",
-    "url": "https://github.com/Aryanutkarsh/SeeCode"
   },
   {
     "description": "A second opinion from a panel of AI models: each trained on different data, in its own harness, so each brings its own a",
@@ -43,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T12:15:09Z",
     "url": "https://github.com/igorsaevets/ai-second-opinion"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T12:11:39Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A small, growing collection of Claude Skills for real engineering workflows.",
@@ -79,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T12:10:13Z",
     "url": "https://github.com/awahids/noskill"
-  },
-  {
-    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
-    "id": "allxsmith/bestax-skills",
-    "language": "TypeScript",
-    "name": "allxsmith/bestax-skills",
-    "stars": 2,
-    "updated_at": "2026-10-17T12:09:11Z",
-    "url": "https://github.com/allxsmith/bestax-skills"
   },
   {
     "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
@@ -124,15 +241,6 @@
     "stars": 392,
     "updated_at": "2026-10-17T12:05:41Z",
     "url": "https://github.com/ergrelet/windiff"
-  },
-  {
-    "description": "Curated agent plugins and tooling by Knitli",
-    "id": "knitli/toolshed",
-    "language": "Python",
-    "name": "knitli/toolshed",
-    "stars": 1,
-    "updated_at": "2026-10-17T12:11:06Z",
-    "url": "https://github.com/knitli/toolshed"
   },
   {
     "description": "Honeypot \u2014 the free, open, machine-readable skill index for AI agents",
@@ -193,7 +301,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 101303,
+    "stars": 101305,
     "updated_at": "2026-10-17T12:01:15Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -223,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T11:58:35Z",
     "url": "https://github.com/SidsVictus/1v1"
-  },
-  {
-    "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
-    "id": "nuncaeslupus/literary-critic",
-    "language": "Python",
-    "name": "nuncaeslupus/literary-critic",
-    "stars": 0,
-    "updated_at": "2026-10-17T12:12:42Z",
-    "url": "https://github.com/nuncaeslupus/literary-critic"
   },
   {
     "description": "Focused tools for software engineers to size up a change before making it: scope, impact, tradeoffs, decision points, an",
@@ -284,7 +383,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 120,
-    "updated_at": "2026-10-17T11:55:16Z",
+    "updated_at": "2026-10-17T12:21:12Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -342,24 +441,6 @@
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70123,
-    "updated_at": "2026-10-17T12:10:58Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Presentations in your company's design and voice: agent skills for Claude (Claude Code, Cowork)",
-    "id": "mfoureyes/vibeupslides",
-    "language": "Python",
-    "name": "mfoureyes/vibeupslides",
-    "stars": 1,
-    "updated_at": "2026-10-17T11:51:00Z",
-    "url": "https://github.com/mfoureyes/vibeupslides"
-  },
-  {
     "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
     "id": "ENTEROPNON/salesforce-accelerator-patterns",
     "language": "HTML",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-17T11:50:17Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "Claude Code plugins by Houssem Djeghri.",
-    "id": "HoussemDjeghri/plugins",
-    "language": "\u2014",
-    "name": "HoussemDjeghri/plugins",
-    "stars": 2,
-    "updated_at": "2026-10-17T11:49:52Z",
-    "url": "https://github.com/HoussemDjeghri/plugins"
-  },
-  {
-    "description": "Plain-English legal writing skill for AI agents (Claude Code, Codex, Antigravity). Audits and rewrites legalese and AI s",
-    "id": "fayerman-source/deslop",
-    "language": "\u2014",
-    "name": "fayerman-source/deslop",
-    "stars": 20,
-    "updated_at": "2026-10-17T11:45:17Z",
-    "url": "https://github.com/fayerman-source/deslop"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:42:48Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
-    "id": "aranculleton/last-job-search",
-    "language": "Python",
-    "name": "aranculleton/last-job-search",
-    "stars": 4,
-    "updated_at": "2026-10-17T11:42:48Z",
-    "url": "https://github.com/aranculleton/last-job-search"
-  },
-  {
-    "description": "Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent",
-    "id": "MohammadHijjawi97/since-cutoff",
-    "language": "Python",
-    "name": "MohammadHijjawi97/since-cutoff",
-    "stars": 9,
-    "updated_at": "2026-10-17T12:11:38Z",
-    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
-  },
-  {
-    "description": "Downdetector for AI agents",
-    "id": "RyanNSJ/notworking",
-    "language": "Python",
-    "name": "RyanNSJ/notworking",
-    "stars": 2,
-    "updated_at": "2026-10-17T11:40:09Z",
-    "url": "https://github.com/RyanNSJ/notworking"
-  },
-  {
-    "description": "12 skills Claude Code pour appliquer le frontend system design : audit, requ\u00eates, pagination, cache, temps r\u00e9el, perf, a",
-    "id": "Ariel400/frontend-system-design-skills",
-    "language": "Shell",
-    "name": "Ariel400/frontend-system-design-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:39:14Z",
-    "url": "https://github.com/Ariel400/frontend-system-design-skills"
-  },
-  {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 8,
-    "updated_at": "2026-10-17T12:11:19Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "One agent writes. A second pass checks the diff and says PASS or FAIL. Stops when it passes, or after three rounds.",
-    "id": "David-Florian2013/write-then-check",
-    "language": "Python",
-    "name": "David-Florian2013/write-then-check",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:37:25Z",
-    "url": "https://github.com/David-Florian2013/write-then-check"
   }
 ]
