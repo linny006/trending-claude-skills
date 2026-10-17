@@ -1,5 +1,149 @@
 [
   {
+    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
+    "id": "dryvist/ai-assistant-instructions",
+    "language": "Shell",
+    "name": "dryvist/ai-assistant-instructions",
+    "stars": 9,
+    "updated_at": "2026-10-17T02:14:59Z",
+    "url": "https://github.com/dryvist/ai-assistant-instructions"
+  },
+  {
+    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
+    "id": "saumit2401273106-lab/preflight-checklist",
+    "language": "HTML",
+    "name": "saumit2401273106-lab/preflight-checklist",
+    "stars": 1,
+    "updated_at": "2026-10-17T02:14:53Z",
+    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
+  },
+  {
+    "description": "Claude brain for Australian builders and tradespeople to use ",
+    "id": "grechj/Australian-Builders-Brain",
+    "language": "Python",
+    "name": "grechj/Australian-Builders-Brain",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:14:36Z",
+    "url": "https://github.com/grechj/Australian-Builders-Brain"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 101247,
+    "updated_at": "2026-10-17T02:14:04Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
+    "id": "QAIA-Project/QAIA",
+    "language": "Python",
+    "name": "QAIA-Project/QAIA",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:12:16Z",
+    "url": "https://github.com/QAIA-Project/QAIA"
+  },
+  {
+    "description": "AI \u77ed\u5267\u521b\u4f5c\u5de5\u4f5c\u6d41\u6280\u80fd\uff08Claude Code / ZCode / Codex Agent Skill\uff09\uff1aSeedance\uff0f\u5373\u68a6\u51fa\u7247\u5168\u6d41\u7a0b\u2014\u2014\u5206\u955c\u667a\u80fd\u4f53\u3001\u5bab\u683c\u5206\u955c\u3001\u4eba\u8138\u89c4\u907f\u3001\u7d20\u6750\u4e00\u81f4\u6027\u3001\u6bb5\u7f1d\u8854\u63a5\u3001\u5fae\u8868\u60c5\u3001\u6253\u620f\u9884\u6f14\u3001\u914d\u97f3\u4e0e\u6392\u969c\uff1b\u542b\u4e5d\u4e2a\u5de5\u7a0b\u811a",
+    "id": "ADC1920/AI-short-play-video-creation",
+    "language": "Python",
+    "name": "ADC1920/AI-short-play-video-creation",
+    "stars": 3,
+    "updated_at": "2026-10-17T02:08:22Z",
+    "url": "https://github.com/ADC1920/AI-short-play-video-creation"
+  },
+  {
+    "description": "A scientific research workflow for Claude Code: five stages and 21 runnable scripts for citation verification, claim aud",
+    "id": "AlveeeRahman/research-hound",
+    "language": "Python",
+    "name": "AlveeeRahman/research-hound",
+    "stars": 1,
+    "updated_at": "2026-10-17T02:08:07Z",
+    "url": "https://github.com/AlveeeRahman/research-hound"
+  },
+  {
+    "description": "An AI agent orchestration design skill for Claude Code: decide agent count, topology, loop bounds, and harness controls ",
+    "id": "AlveeeRahman/agent-oracle",
+    "language": "Python",
+    "name": "AlveeeRahman/agent-oracle",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:08:05Z",
+    "url": "https://github.com/AlveeeRahman/agent-oracle"
+  },
+  {
+    "description": "A Claude Agent Skill validator for Claude Code: spec conformance, script testing, quality and security scoring, a Mermai",
+    "id": "AlveeeRahman/skill-vision",
+    "language": "Python",
+    "name": "AlveeeRahman/skill-vision",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:08:02Z",
+    "url": "https://github.com/AlveeeRahman/skill-vision"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 442,
+    "updated_at": "2026-10-17T02:07:58Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 103203,
+    "updated_at": "2026-10-17T02:07:52Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Downdetector for AI agents",
+    "id": "RyanNSJ/notworking",
+    "language": "Python",
+    "name": "RyanNSJ/notworking",
+    "stars": 2,
+    "updated_at": "2026-10-17T02:07:41Z",
+    "url": "https://github.com/RyanNSJ/notworking"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-10-17T02:07:08Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "A clearer Claude Code terminal: boxed and organized you/claude conversations, colour-coded clickable tool rows, a live s",
+    "id": "CircularBlox/Clarity",
+    "language": "TypeScript",
+    "name": "CircularBlox/Clarity",
+    "stars": 1,
+    "updated_at": "2026-10-17T02:08:30Z",
+    "url": "https://github.com/CircularBlox/Clarity"
+  },
+  {
+    "description": "Your agent for academic LaTeX. 32 document types x 9 visual styles, compiled and checked page by page. Windows, macOS, L",
+    "id": "pv-ca/latex-ops",
+    "language": "TeX",
+    "name": "pv-ca/latex-ops",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:01:35Z",
+    "url": "https://github.com/pv-ca/latex-ops"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T02:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -63,13 +207,13 @@
     "url": "https://github.com/the911fund/skill-of-skills"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 101246,
-    "updated_at": "2026-10-17T01:58:57Z",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "description": "Full power. Your hands on the throttle. A Claude skill that governs ultracode/Dynamic Workflows: tiered triage, estimate",
+    "id": "Alexandre-LPZ/ultracode-cockpit",
+    "language": "\u2014",
+    "name": "Alexandre-LPZ/ultracode-cockpit",
+    "stars": 1,
+    "updated_at": "2026-10-17T01:50:21Z",
+    "url": "https://github.com/Alexandre-LPZ/ultracode-cockpit"
   },
   {
     "description": "The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data & build your AI soul.",
@@ -90,47 +234,11 @@
     "url": "https://github.com/emdashsmoker/music-agent-skills"
   },
   {
-    "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
-    "id": "dryvist/ai-assistant-instructions",
-    "language": "Shell",
-    "name": "dryvist/ai-assistant-instructions",
-    "stars": 9,
-    "updated_at": "2026-10-17T01:48:29Z",
-    "url": "https://github.com/dryvist/ai-assistant-instructions"
-  },
-  {
-    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 442,
-    "updated_at": "2026-10-17T01:46:51Z",
-    "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T01:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 103201,
-    "updated_at": "2026-10-17T01:44:40Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 84492,
+    "stars": 84498,
     "updated_at": "2026-10-17T01:42:27Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -162,15 +270,6 @@
     "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
   },
   {
-    "description": "Full power. Your hands on the throttle. A Claude skill that governs ultracode/Dynamic Workflows: tiered triage, estimate",
-    "id": "Alexandre-LPZ/ultracode-cockpit",
-    "language": "\u2014",
-    "name": "Alexandre-LPZ/ultracode-cockpit",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:37:54Z",
-    "url": "https://github.com/Alexandre-LPZ/ultracode-cockpit"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -178,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T01:36:37Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Your agent for academic LaTeX. 32 document types x 9 visual styles, compiled and checked page by page. Windows, macOS, L",
-    "id": "pv-ca/latex-ops",
-    "language": "TeX",
-    "name": "pv-ca/latex-ops",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:35:59Z",
-    "url": "https://github.com/pv-ca/latex-ops"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -315,15 +405,6 @@
     "url": "https://github.com/AnotherSava/claude-code-common"
   },
   {
-    "description": "Claude brain for Australian builders and tradespeople to use ",
-    "id": "grechj/Australian-Builders-Brain",
-    "language": "Python",
-    "name": "grechj/Australian-Builders-Brain",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:12:21Z",
-    "url": "https://github.com/grechj/Australian-Builders-Brain"
-  },
-  {
     "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
     "id": "Max-Levitskiy/skills",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-17T01:07:42Z",
     "url": "https://github.com/nuncaeslupus/literary-critic"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-10-17T01:05:50Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Talking avatar video agent skill for Claude Code, Codex & OpenClaw: turn one portrait and a script or voice track into a",
-    "id": "beatra-ai/talking-avatar-video-skill",
-    "language": "Python",
-    "name": "beatra-ai/talking-avatar-video-skill",
-    "stars": 5,
-    "updated_at": "2026-10-17T01:05:00Z",
-    "url": "https://github.com/beatra-ai/talking-avatar-video-skill"
-  },
-  {
-    "description": "Best Free AI Code Review Agents 2026 \u2013 190+ Skills & Plugins for Claude",
-    "id": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "language": "HTML",
-    "name": "nirmal77-nir/RAD-Claude-Agent-Toolkit",
-    "stars": 2,
-    "updated_at": "2026-10-17T01:04:31Z",
-    "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "AI storyboard generator agent skill for Claude Code, Codex & OpenClaw: turn a script, scene, or ad brief into a practica",
-    "id": "beatra-ai/ai-storyboard-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-storyboard-generator-skill",
-    "stars": 4,
-    "updated_at": "2026-10-17T01:03:49Z",
-    "url": "https://github.com/beatra-ai/ai-storyboard-generator-skill"
-  },
-  {
-    "description": "ato-e1-skill-factory",
-    "id": "AthenaMohist/ato-e1-skill-factory",
-    "language": "Shell",
-    "name": "AthenaMohist/ato-e1-skill-factory",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:03:11Z",
-    "url": "https://github.com/AthenaMohist/ato-e1-skill-factory"
-  },
-  {
-    "description": "AI image realism agent skill for Claude Code, Codex & OpenClaw: make AI portraits, product images, and marketing visuals",
-    "id": "beatra-ai/ai-image-realism-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-image-realism-skill",
-    "stars": 4,
-    "updated_at": "2026-10-17T01:02:40Z",
-    "url": "https://github.com/beatra-ai/ai-image-realism-skill"
-  },
-  {
-    "description": "AI headshot generator agent skill for Claude Code, Codex & OpenClaw: turn a casual selfie into a professional headshot w",
-    "id": "beatra-ai/ai-headshot-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-headshot-generator-skill",
-    "stars": 4,
-    "updated_at": "2026-10-17T01:01:33Z",
-    "url": "https://github.com/beatra-ai/ai-headshot-generator-skill"
-  },
-  {
-    "description": "Photo to anime agent skill for Claude Code, Codex & OpenClaw: restyle a photo as anime, manga, cartoon, watercolor, clay",
-    "id": "beatra-ai/photo-to-anime-skill",
-    "language": "Python",
-    "name": "beatra-ai/photo-to-anime-skill",
-    "stars": 5,
-    "updated_at": "2026-10-17T01:00:25Z",
-    "url": "https://github.com/beatra-ai/photo-to-anime-skill"
-  },
-  {
-    "description": "Daily-updated Top 100 Agent Skills rankings \u2014 installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Te",
-    "id": "LinklyAI/best-skills",
-    "language": "\u2014",
-    "name": "LinklyAI/best-skills",
-    "stars": 650,
-    "updated_at": "2026-10-17T00:59:45Z",
-    "url": "https://github.com/LinklyAI/best-skills"
   }
 ]
