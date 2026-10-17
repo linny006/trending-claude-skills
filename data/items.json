@@ -1,5 +1,113 @@
 [
   {
+    "description": "Claude Skills",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 1,
+    "updated_at": "2026-10-17T02:29:00Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Claude skills: .docx review and validated table extraction, academic literature reviews (pt-BR), modern R package develo",
+    "id": "SidneyBissoli/claude-skills",
+    "language": "Python",
+    "name": "SidneyBissoli/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:27:53Z",
+    "url": "https://github.com/SidneyBissoli/claude-skills"
+  },
+  {
+    "description": "Source-verified knowledge base of the Python quantitative-finance ecosystem, packaged as Agent Skills. Every claim dated",
+    "id": "howard-lynn-ye/Fin-RSI",
+    "language": "Python",
+    "name": "howard-lynn-ye/Fin-RSI",
+    "stars": 1,
+    "updated_at": "2026-10-17T02:26:26Z",
+    "url": "https://github.com/howard-lynn-ye/Fin-RSI"
+  },
+  {
+    "description": "Claude brain for Australian builders and tradespeople to use ",
+    "id": "grechj/Australian-Builders-Brain",
+    "language": "Python",
+    "name": "grechj/Australian-Builders-Brain",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:24:11Z",
+    "url": "https://github.com/grechj/Australian-Builders-Brain"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:23:39Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 1,
+    "updated_at": "2026-10-17T02:23:31Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Hand-picked Agent Skills for real engineering work: safe installs and updates, and a one-command PWA app builder. Works ",
+    "id": "AhmedAttia3/agent-skills",
+    "language": "JavaScript",
+    "name": "AhmedAttia3/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:22:51Z",
+    "url": "https://github.com/AhmedAttia3/agent-skills"
+  },
+  {
+    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
+    "id": "QAIA-Project/QAIA",
+    "language": "Python",
+    "name": "QAIA-Project/QAIA",
+    "stars": 0,
+    "updated_at": "2026-10-17T02:18:28Z",
+    "url": "https://github.com/QAIA-Project/QAIA"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 103205,
+    "updated_at": "2026-10-17T02:18:00Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 442,
+    "updated_at": "2026-10-17T02:17:50Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 101248,
+    "updated_at": "2026-10-17T02:17:34Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T02:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A comprehensive, vendor-agnostic framework for consistent AI-assisted development workflows - standardized instructions ",
     "id": "dryvist/ai-assistant-instructions",
     "language": "Shell",
@@ -16,33 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-17T02:14:53Z",
     "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Claude brain for Australian builders and tradespeople to use ",
-    "id": "grechj/Australian-Builders-Brain",
-    "language": "Python",
-    "name": "grechj/Australian-Builders-Brain",
-    "stars": 0,
-    "updated_at": "2026-10-17T02:14:36Z",
-    "url": "https://github.com/grechj/Australian-Builders-Brain"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 101247,
-    "updated_at": "2026-10-17T02:14:04Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Agentic QA for Claude Code - turn a user story into an ISTQB-grounded Gherkin test book and runnable Playwright tests. M",
-    "id": "QAIA-Project/QAIA",
-    "language": "Python",
-    "name": "QAIA-Project/QAIA",
-    "stars": 0,
-    "updated_at": "2026-10-17T02:12:16Z",
-    "url": "https://github.com/QAIA-Project/QAIA"
   },
   {
     "description": "AI \u77ed\u5267\u521b\u4f5c\u5de5\u4f5c\u6d41\u6280\u80fd\uff08Claude Code / ZCode / Codex Agent Skill\uff09\uff1aSeedance\uff0f\u5373\u68a6\u51fa\u7247\u5168\u6d41\u7a0b\u2014\u2014\u5206\u955c\u667a\u80fd\u4f53\u3001\u5bab\u683c\u5206\u955c\u3001\u4eba\u8138\u89c4\u907f\u3001\u7d20\u6750\u4e00\u81f4\u6027\u3001\u6bb5\u7f1d\u8854\u63a5\u3001\u5fae\u8868\u60c5\u3001\u6253\u620f\u9884\u6f14\u3001\u914d\u97f3\u4e0e\u6392\u969c\uff1b\u542b\u4e5d\u4e2a\u5de5\u7a0b\u811a",
@@ -81,24 +162,6 @@
     "url": "https://github.com/AlveeeRahman/skill-vision"
   },
   {
-    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
-    "id": "notque/vexjoy-agent",
-    "language": "Python",
-    "name": "notque/vexjoy-agent",
-    "stars": 442,
-    "updated_at": "2026-10-17T02:07:58Z",
-    "url": "https://github.com/notque/vexjoy-agent"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 103203,
-    "updated_at": "2026-10-17T02:07:52Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Downdetector for AI agents",
     "id": "RyanNSJ/notworking",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-17T02:01:35Z",
     "url": "https://github.com/pv-ca/latex-ops"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T02:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -238,7 +292,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 84498,
+    "stars": 84501,
     "updated_at": "2026-10-17T01:42:27Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -360,15 +414,6 @@
     "url": "https://github.com/dcefferty/OpenGEO"
   },
   {
-    "description": "Claude Skills",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 1,
-    "updated_at": "2026-10-17T01:17:16Z",
-    "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
     "description": "Claude Code plugin: on every prompt, suggests the full better stack (model, connectors, skills, GitHub repos, cost, safe",
     "id": "costello88/tiabwft",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-17T01:12:49Z",
     "url": "https://github.com/AnotherSava/claude-code-common"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
-    "id": "Max-Levitskiy/skills",
-    "language": "TypeScript",
-    "name": "Max-Levitskiy/skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:11:50Z",
-    "url": "https://github.com/Max-Levitskiy/skills"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-10-17T01:08:58Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "US stock watchlist and NYSE-aware price alerts for Claude Code, Cursor, and Codex. Agent Skills. No API key. Never place",
-    "id": "eli-alvarado/us-watchlist-alerts",
-    "language": "Python",
-    "name": "eli-alvarado/us-watchlist-alerts",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:08:38Z",
-    "url": "https://github.com/eli-alvarado/us-watchlist-alerts"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-10-17T01:06:55Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
-    "id": "nuncaeslupus/literary-critic",
-    "language": "Python",
-    "name": "nuncaeslupus/literary-critic",
-    "stars": 0,
-    "updated_at": "2026-10-17T01:07:42Z",
-    "url": "https://github.com/nuncaeslupus/literary-critic"
   }
 ]
