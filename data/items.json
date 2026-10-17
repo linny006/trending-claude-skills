@@ -1,5 +1,140 @@
 [
   {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6222,
+    "updated_at": "2026-10-17T11:44:49Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "ResearchPhO: a Claude Code skill that turns papers, a new field's literature or a research proposal into a research-base",
+    "id": "DarrenWongKaWa/ResearchPhO",
+    "language": "Python",
+    "name": "DarrenWongKaWa/ResearchPhO",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:44:32Z",
+    "url": "https://github.com/DarrenWongKaWa/ResearchPhO"
+  },
+  {
+    "description": "Universal SEO & GEO skill for AI coding agents: Claude Code, Cursor, Windsurf, GitHub Copilot, Replit, Lovable, Bolt. Op",
+    "id": "Aryanpanwar10005/seo-geo-optimizer",
+    "language": "JavaScript",
+    "name": "Aryanpanwar10005/seo-geo-optimizer",
+    "stars": 13,
+    "updated_at": "2026-10-17T11:44:17Z",
+    "url": "https://github.com/Aryanpanwar10005/seo-geo-optimizer"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:42:48Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
+    "id": "aranculleton/last-job-search",
+    "language": "Python",
+    "name": "aranculleton/last-job-search",
+    "stars": 4,
+    "updated_at": "2026-10-17T11:42:48Z",
+    "url": "https://github.com/aranculleton/last-job-search"
+  },
+  {
+    "description": "Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent",
+    "id": "MohammadHijjawi97/since-cutoff",
+    "language": "Python",
+    "name": "MohammadHijjawi97/since-cutoff",
+    "stars": 9,
+    "updated_at": "2026-10-17T11:40:21Z",
+    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
+  },
+  {
+    "description": "Downdetector for AI agents",
+    "id": "RyanNSJ/notworking",
+    "language": "Python",
+    "name": "RyanNSJ/notworking",
+    "stars": 2,
+    "updated_at": "2026-10-17T11:40:09Z",
+    "url": "https://github.com/RyanNSJ/notworking"
+  },
+  {
+    "description": "Is this worth building, and what can I build it with? An agent skill that checks your idea against GitHub, skills.sh, MC",
+    "id": "Smartulf123/check-before-you-build",
+    "language": "JavaScript",
+    "name": "Smartulf123/check-before-you-build",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:39:43Z",
+    "url": "https://github.com/Smartulf123/check-before-you-build"
+  },
+  {
+    "description": "12 skills Claude Code pour appliquer le frontend system design : audit, requ\u00eates, pagination, cache, temps r\u00e9el, perf, a",
+    "id": "Ariel400/frontend-system-design-skills",
+    "language": "Shell",
+    "name": "Ariel400/frontend-system-design-skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:39:14Z",
+    "url": "https://github.com/Ariel400/frontend-system-design-skills"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 8,
+    "updated_at": "2026-10-17T11:38:00Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
+    "description": "\u91d1\u8776\u4e91\u661f\u7a7a\u8d39\u7528/\u5dee\u65c5\u62a5\u9500\u5168\u6d41\u7a0b\u63d0\u4ea4 Skill\uff5c\u5458\u5de5\u53d1\u7968\u2192\u7533\u8bf7\u2192\u4e0b\u63a8\u62a5\u9500\u2192\u63d0\u4ea4\u5ba1\u6279\uff08expense/reimbursement flow\uff09",
+    "id": "LittleBeaverStudio/KingdeeExpenseFlow",
+    "language": "Python",
+    "name": "LittleBeaverStudio/KingdeeExpenseFlow",
+    "stars": 1,
+    "updated_at": "2026-10-17T11:37:39Z",
+    "url": "https://github.com/LittleBeaverStudio/KingdeeExpenseFlow"
+  },
+  {
+    "description": "One agent writes. A second pass checks the diff and says PASS or FAIL. Stops when it passes, or after three rounds.",
+    "id": "David-Florian2013/write-then-check",
+    "language": "Python",
+    "name": "David-Florian2013/write-then-check",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:37:25Z",
+    "url": "https://github.com/David-Florian2013/write-then-check"
+  },
+  {
+    "description": "Free, copy-paste Claude skills that run your content growth factory \u2014 turn ideas + your NotebookLM memory into scroll-st",
+    "id": "Ootto-AI/claude-content-skills",
+    "language": "Python",
+    "name": "Ootto-AI/claude-content-skills",
+    "stars": 167,
+    "updated_at": "2026-10-17T11:32:54Z",
+    "url": "https://github.com/Ootto-AI/claude-content-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-17T11:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A small, growing collection of Claude Skills for real engineering workflows.",
+    "id": "alvincrespo/skills",
+    "language": "Python",
+    "name": "alvincrespo/skills",
+    "stars": 0,
+    "updated_at": "2026-10-17T11:43:38Z",
+    "url": "https://github.com/alvincrespo/skills"
+  },
+  {
     "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
     "id": "everyinfra/seo-skills",
     "language": "Python",
@@ -45,15 +180,6 @@
     "url": "https://github.com/rishichawda/sensei"
   },
   {
-    "description": "A small, growing collection of Claude Skills for real engineering workflows.",
-    "id": "alvincrespo/skills",
-    "language": "Python",
-    "name": "alvincrespo/skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:25:01Z",
-    "url": "https://github.com/alvincrespo/skills"
-  },
-  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -68,7 +194,7 @@
     "language": "\u2014",
     "name": "fayerman-source/deslop",
     "stars": 20,
-    "updated_at": "2026-10-17T11:24:37Z",
+    "updated_at": "2026-10-17T11:43:33Z",
     "url": "https://github.com/fayerman-source/deslop"
   },
   {
@@ -79,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-17T11:23:35Z",
     "url": "https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit"
-  },
-  {
-    "description": "ResearchPhO: a Claude Code skill that turns papers, a new field's literature or a research proposal into a research-base",
-    "id": "DarrenWongKaWa/ResearchPhO",
-    "language": "Python",
-    "name": "DarrenWongKaWa/ResearchPhO",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:22:33Z",
-    "url": "https://github.com/DarrenWongKaWa/ResearchPhO"
   },
   {
     "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
@@ -108,15 +225,6 @@
     "url": "https://github.com/iiAMMAR11/saffaf"
   },
   {
-    "description": "Find which APIs of your pinned Python dependencies changed after your coding model's training cutoff, and give the agent",
-    "id": "MohammadHijjawi97/since-cutoff",
-    "language": "Python",
-    "name": "MohammadHijjawi97/since-cutoff",
-    "stars": 9,
-    "updated_at": "2026-10-17T11:20:37Z",
-    "url": "https://github.com/MohammadHijjawi97/since-cutoff"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
@@ -126,30 +234,12 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 8,
-    "updated_at": "2026-10-17T11:28:46Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-17T11:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Curated agent plugins and tooling by Knitli",
     "id": "knitli/toolshed",
     "language": "Python",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-17T11:28:46Z",
+    "updated_at": "2026-10-17T11:41:46Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -193,34 +283,16 @@
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 2720,
+    "stars": 2721,
     "updated_at": "2026-10-17T11:10:15Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
-  },
-  {
-    "description": "Is this worth building, and what can I build it with? An agent skill that checks your idea against GitHub, skills.sh, MC",
-    "id": "Smartulf123/check-before-you-build",
-    "language": "\u2014",
-    "name": "Smartulf123/check-before-you-build",
-    "stars": 0,
-    "updated_at": "2026-10-17T11:09:04Z",
-    "url": "https://github.com/Smartulf123/check-before-you-build"
-  },
-  {
-    "description": "Downdetector for AI agents",
-    "id": "RyanNSJ/notworking",
-    "language": "Python",
-    "name": "RyanNSJ/notworking",
-    "stars": 2,
-    "updated_at": "2026-10-17T11:09:04Z",
-    "url": "https://github.com/RyanNSJ/notworking"
   },
   {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70122,
+    "stars": 70123,
     "updated_at": "2026-10-17T11:08:46Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -311,7 +383,7 @@
     "language": "Python",
     "name": "scenario-labs/skills",
     "stars": 1038,
-    "updated_at": "2026-10-17T11:10:32Z",
+    "updated_at": "2026-10-17T11:32:49Z",
     "url": "https://github.com/scenario-labs/skills"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-17T10:51:16Z",
     "url": "https://github.com/Lycheetah/Lycheetah-Framework"
-  },
-  {
-    "description": "Professional Claude skills for real estate agents and fitness coaches.",
-    "id": "Temperbyte/temperbyte-skills.",
-    "language": "\u2014",
-    "name": "Temperbyte/temperbyte-skills.",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:50:28Z",
-    "url": "https://github.com/Temperbyte/temperbyte-skills."
-  },
-  {
-    "description": "AI career journal + resume builder for Claude Code, Codex, Cursor & Antigravity. Log your wins as they happen (a brag do",
-    "id": "mileschintw/career-log-template",
-    "language": "Python",
-    "name": "mileschintw/career-log-template",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:49:50Z",
-    "url": "https://github.com/mileschintw/career-log-template"
-  },
-  {
-    "description": "Agent Skills for planning, analysis and report writing. \uae30\ud68d, \ubd84\uc11d, \ubcf4\uace0\uc11c \uc791\uc131\uc744 \uc704\ud55c \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
-    "id": "emdashsmoker/biz-agent-skills",
-    "language": "Python",
-    "name": "emdashsmoker/biz-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:48:25Z",
-    "url": "https://github.com/emdashsmoker/biz-agent-skills"
-  },
-  {
-    "description": "A second opinion from a panel of AI models: each trained on different data, in its own harness, so each brings its own a",
-    "id": "igorsaevets/ai-second-opinion",
-    "language": "Python",
-    "name": "igorsaevets/ai-second-opinion",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:48:21Z",
-    "url": "https://github.com/igorsaevets/ai-second-opinion"
-  },
-  {
-    "description": "Lean toolkit for disciplined engineering workflows with AI Agents (Claude Code, Codex, Oh-my-pi, Cursor, Grok CLI, Antig",
-    "id": "dinhanhthi/coding-friend",
-    "language": "TypeScript",
-    "name": "dinhanhthi/coding-friend",
-    "stars": 4,
-    "updated_at": "2026-10-17T10:43:57Z",
-    "url": "https://github.com/dinhanhthi/coding-friend"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:43:05Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "This model predicts the prices of coffee in Uganda depending on anything influencing them",
-    "id": "isamubas/coffee_price_predictor",
-    "language": "HTML",
-    "name": "isamubas/coffee_price_predictor",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:42:35Z",
-    "url": "https://github.com/isamubas/coffee_price_predictor"
-  },
-  {
-    "description": "106 social media skills for AI agents - strategy, writing, video, design, platform growth, publishing, and analytics. Wo",
-    "id": "RaulWeber978/skills",
-    "language": "Shell",
-    "name": "RaulWeber978/skills",
-    "stars": 0,
-    "updated_at": "2026-10-17T10:42:16Z",
-    "url": "https://github.com/RaulWeber978/skills"
   }
 ]
