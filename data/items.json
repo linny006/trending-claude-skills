@@ -1,5 +1,50 @@
 [
   {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 8,
+    "updated_at": "2026-10-18T21:44:44Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "\u0415\u0411\u0410\u0428\u0423 \u041a\u0410\u0420\u0422\u0418\u041d\u041a\u0418 \u2014 \u043d\u0430\u0432\u044b\u043a \u0434\u043b\u044f Claude: GPT Image 2 \u043f\u0440\u044f\u043c\u043e \u0432 \u0447\u0430\u0442\u0435 \u043f\u043e \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0435 ChatGPT, \u0431\u0435\u0437 API. \u041a\u0430\u0440\u0442\u0438\u043d\u043a\u0438, \u043e\u0431\u043b\u043e\u0436\u043a\u0438, \u043b\u044e\u0434\u0438 \u0441 \u0444\u043e\u0442\u043e",
+    "id": "YURII-YURII86/ebashu-kartinki",
+    "language": "Python",
+    "name": "YURII-YURII86/ebashu-kartinki",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:44:43Z",
+    "url": "https://github.com/YURII-YURII86/ebashu-kartinki"
+  },
+  {
+    "description": "Find similar GitHub repositories and better alternatives for any repo: upstream, downstream, peers and health scores, ev",
+    "id": "exordor/repo-compass",
+    "language": "Python",
+    "name": "exordor/repo-compass",
+    "stars": 0,
+    "updated_at": "2026-10-18T21:43:44Z",
+    "url": "https://github.com/exordor/repo-compass"
+  },
+  {
+    "description": "Structured outline output for LLM prose \u2014 nested lecture-note format instead of paragraphs",
+    "id": "domattioli/structured-gist",
+    "language": "Python",
+    "name": "domattioli/structured-gist",
+    "stars": 2,
+    "updated_at": "2026-10-18T21:42:58Z",
+    "url": "https://github.com/domattioli/structured-gist"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-18T21:42:10Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "All-in-one JMAG-Designer agent toolkit: MCP server (72 tools), physics checks and 10 Claude skills for electromagnetic F",
     "id": "Zwl20085/jmag-agent-suite",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "nuncaeslupus/literary-critic",
     "stars": 0,
-    "updated_at": "2026-10-18T21:41:32Z",
+    "updated_at": "2026-10-18T21:42:50Z",
     "url": "https://github.com/nuncaeslupus/literary-critic"
   },
   {
@@ -25,24 +70,6 @@
     "stars": 4,
     "updated_at": "2026-10-18T21:40:32Z",
     "url": "https://github.com/aranculleton/last-job-search"
-  },
-  {
-    "description": "\u0415\u0411\u0410\u0428\u0423 \u041a\u0410\u0420\u0422\u0418\u041d\u041a\u0418 \u2014 \u043d\u0430\u0432\u044b\u043a \u0434\u043b\u044f Claude: GPT Image 2 \u043f\u0440\u044f\u043c\u043e \u0432 \u0447\u0430\u0442\u0435 \u043f\u043e \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0435 ChatGPT, \u0431\u0435\u0437 API. \u041a\u0430\u0440\u0442\u0438\u043d\u043a\u0438, \u043e\u0431\u043b\u043e\u0436\u043a\u0438, \u043b\u044e\u0434\u0438 \u0441 \u0444\u043e\u0442\u043e",
-    "id": "YURII-YURII86/ebashu-kartinki",
-    "language": "Python",
-    "name": "YURII-YURII86/ebashu-kartinki",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:39:48Z",
-    "url": "https://github.com/YURII-YURII86/ebashu-kartinki"
-  },
-  {
-    "description": "Find similar GitHub repositories and better alternatives for any repo: upstream, downstream, peers and health scores, ev",
-    "id": "exordor/repo-compass",
-    "language": "Python",
-    "name": "exordor/repo-compass",
-    "stars": 0,
-    "updated_at": "2026-10-18T21:39:16Z",
-    "url": "https://github.com/exordor/repo-compass"
   },
   {
     "description": "Claude skill for the unofficial Geist design system in Figma: 60 components, 298 tokens, docs, prototypes and a design a",
@@ -58,7 +85,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 104082,
+    "stars": 104081,
     "updated_at": "2026-10-18T21:38:56Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -90,15 +117,6 @@
     "url": "https://github.com/lupo-cwb/skills-seo-geo"
   },
   {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 8,
-    "updated_at": "2026-10-18T21:40:07Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
     "id": "qadeer-ux/oh-my-codex-remix",
     "language": "HTML",
@@ -124,15 +142,6 @@
     "stars": 70160,
     "updated_at": "2026-10-18T21:39:14Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-18T21:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 149,
-    "updated_at": "2026-10-18T21:11:18Z",
+    "updated_at": "2026-10-18T21:44:53Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-18T20:50:18Z",
     "url": "https://github.com/air-gapped/skills"
-  },
-  {
-    "description": "agent wiki +engineering skills ",
-    "id": "rdejager88/third-brain-v7-skills",
-    "language": "Python",
-    "name": "rdejager88/third-brain-v7-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T20:49:39Z",
-    "url": "https://github.com/rdejager88/third-brain-v7-skills"
   }
 ]
