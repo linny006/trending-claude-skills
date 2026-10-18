@@ -1,5 +1,212 @@
 [
   {
+    "description": "\ud83e\udd47 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web ac",
+    "id": "liustack/modsearch",
+    "language": "TypeScript",
+    "name": "liustack/modsearch",
+    "stars": 741,
+    "updated_at": "2026-10-18T08:11:45Z",
+    "url": "https://github.com/liustack/modsearch"
+  },
+  {
+    "description": "Claude Code skills for designing, building, testing and shipping apps on iPhone Duo and iOS 27. Layout patterns, app rec",
+    "id": "Kimeur/duology",
+    "language": "Python",
+    "name": "Kimeur/duology",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:11:44Z",
+    "url": "https://github.com/Kimeur/duology"
+  },
+  {
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
+    "id": "longsizhuo/openInvest",
+    "language": "Python",
+    "name": "longsizhuo/openInvest",
+    "stars": 115,
+    "updated_at": "2026-10-18T08:13:28Z",
+    "url": "https://github.com/longsizhuo/openInvest"
+  },
+  {
+    "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
+    "id": "martinffx/atelier",
+    "language": "TypeScript",
+    "name": "martinffx/atelier",
+    "stars": 47,
+    "updated_at": "2026-10-18T08:11:02Z",
+    "url": "https://github.com/martinffx/atelier"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70155,
+    "updated_at": "2026-10-18T08:09:45Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:08:55Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
+    "id": "Ovid/paad",
+    "language": "Python",
+    "name": "Ovid/paad",
+    "stars": 138,
+    "updated_at": "2026-10-18T08:08:09Z",
+    "url": "https://github.com/Ovid/paad"
+  },
+  {
+    "description": "Exact minimum-expected-cost diagnostic planner for small finite deterministic models (dependency-free JavaScript/API); a",
+    "id": "noqt/yumi-decision-ledger",
+    "language": "Python",
+    "name": "noqt/yumi-decision-ledger",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:06:55Z",
+    "url": "https://github.com/noqt/yumi-decision-ledger"
+  },
+  {
+    "description": "Memory consolidation skills for Claude Code \u2014 read-only dream pass, checkbox/validator gate, full-auto mode, snapshot + ",
+    "id": "timoncool/dream-skill",
+    "language": "HTML",
+    "name": "timoncool/dream-skill",
+    "stars": 3,
+    "updated_at": "2026-10-18T08:05:06Z",
+    "url": "https://github.com/timoncool/dream-skill"
+  },
+  {
+    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
+    "id": "roedyrustam/vibes-plug",
+    "language": "JavaScript",
+    "name": "roedyrustam/vibes-plug",
+    "stars": 77,
+    "updated_at": "2026-10-18T08:05:05Z",
+    "url": "https://github.com/roedyrustam/vibes-plug"
+  },
+  {
+    "description": "Turn any object into a page from an industrial designer's sketchbook. Four variants (pen, marker, ink, contrast), open i",
+    "id": "Keith-CY/sketchbook-style",
+    "language": "Python",
+    "name": "Keith-CY/sketchbook-style",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:04:35Z",
+    "url": "https://github.com/Keith-CY/sketchbook-style"
+  },
+  {
+    "description": "Agent skill to refactor, rewrite, or port code to another language while proving behavior is preserved.",
+    "id": "linkxzhou/code-refactor",
+    "language": "Python",
+    "name": "linkxzhou/code-refactor",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:04:15Z",
+    "url": "https://github.com/linkxzhou/code-refactor"
+  },
+  {
+    "description": "Agent skill to simplify and refactor code in any mainstream language while preserving behavior and public APIs.",
+    "id": "linkxzhou/simplify-code",
+    "language": "JavaScript",
+    "name": "linkxzhou/simplify-code",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:04:06Z",
+    "url": "https://github.com/linkxzhou/simplify-code"
+  },
+  {
+    "description": "Andrew Ng translation-agent style three-step translation skill (initial translate, reflect, improve)",
+    "id": "linkxzhou/andrew-translate",
+    "language": "\u2014",
+    "name": "linkxzhou/andrew-translate",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:03:59Z",
+    "url": "https://github.com/linkxzhou/andrew-translate"
+  },
+  {
+    "description": "Claude Code plugin for per-agent tool visibility \u2014 hide and refuse subagents, skills, MCP and built-in tools per loop",
+    "id": "rezzminator/tool-visibility-controller",
+    "language": "TypeScript",
+    "name": "rezzminator/tool-visibility-controller",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:02:38Z",
+    "url": "https://github.com/rezzminator/tool-visibility-controller"
+  },
+  {
+    "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
+    "id": "everyinfra/seo-skills",
+    "language": "Python",
+    "name": "everyinfra/seo-skills",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:01:18Z",
+    "url": "https://github.com/everyinfra/seo-skills"
+  },
+  {
+    "description": "A0: the programming language built for AI, not for people. Compiler in TypeScript; programs compile to native code, wasm",
+    "id": "Joe-Simo/a0",
+    "language": "TypeScript",
+    "name": "Joe-Simo/a0",
+    "stars": 1,
+    "updated_at": "2026-10-18T08:01:01Z",
+    "url": "https://github.com/Joe-Simo/a0"
+  },
+  {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 4,
+    "updated_at": "2026-10-18T08:01:05Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "Agent Skills that typeset HWPX, DOCX and PPTX documents. HWPX, DOCX, PPTX \ubb38\uc11c\ub97c \uc870\ud310\ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
+    "id": "emdashsmoker/biz-docgen-agent-skills",
+    "language": "Python",
+    "name": "emdashsmoker/biz-docgen-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:00:55Z",
+    "url": "https://github.com/emdashsmoker/biz-docgen-agent-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 103790,
+    "updated_at": "2026-10-18T08:00:24Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Claude Code\uc5d0\uc11c Claude\uac00 \ucc98\uc74c\ubd80\ud130 \ud55c\uad6d\uc5b4\ub85c \uc0dd\uac01\ud574 \uc790\uc5f0\uc2a4\ub7ec\uc6b4 \ud55c\uad6d\uc5b4\ub97c \uc4f0\ub3c4\ub85d \ud55c\uad6d\uc5b4 \uc791\uc131 skill\uacfc \ubb38\uccb4 \uac80\uc0ac hook\uc744 \uc124\uce58\ud569\ub2c8\ub2e4.",
+    "id": "nerdkim/im-a-korean-ai-in-seoul",
+    "language": "JavaScript",
+    "name": "nerdkim/im-a-korean-ai-in-seoul",
+    "stars": 0,
+    "updated_at": "2026-10-18T08:00:23Z",
+    "url": "https://github.com/nerdkim/im-a-korean-ai-in-seoul"
+  },
+  {
+    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
+    "id": "andrian-syh/roblox-best-practices-skill",
+    "language": "JavaScript",
+    "name": "andrian-syh/roblox-best-practices-skill",
+    "stars": 10,
+    "updated_at": "2026-10-18T08:00:21Z",
+    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-18T08:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills from real marketing-operations work: report accuracy, Meta Ads API campaigns, WordPress incident resp",
     "id": "yair-zehavi/claude-code-skills",
     "language": "Shell",
@@ -45,20 +252,11 @@
     "url": "https://github.com/enebin/groundwork"
   },
   {
-    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
-    "id": "longsizhuo/openInvest",
-    "language": "Python",
-    "name": "longsizhuo/openInvest",
-    "stars": 115,
-    "updated_at": "2026-10-18T07:57:18Z",
-    "url": "https://github.com/longsizhuo/openInvest"
-  },
-  {
     "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows",
     "id": "michael-denyer/pstack-claude",
     "language": "JavaScript",
     "name": "michael-denyer/pstack-claude",
-    "stars": 2850,
+    "stars": 2854,
     "updated_at": "2026-10-18T07:56:47Z",
     "url": "https://github.com/michael-denyer/pstack-claude"
   },
@@ -81,15 +279,6 @@
     "url": "https://github.com/mileschintw/career-log-template"
   },
   {
-    "description": "Framework-agnostic Roblox/Luau best-practices skill for AI agents. Performance, security, data, platform limits, Studio ",
-    "id": "andrian-syh/roblox-best-practices-skill",
-    "language": "JavaScript",
-    "name": "andrian-syh/roblox-best-practices-skill",
-    "stars": 10,
-    "updated_at": "2026-10-18T07:55:59Z",
-    "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
-  },
-  {
     "description": "Free Claude skills for Claude Code: SEO, SERP teardown, autocomplete mining and marketing ops, by Aluxads, a B2B growth ",
     "id": "Aluxads/claude-skills",
     "language": "JavaScript",
@@ -97,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T07:55:22Z",
     "url": "https://github.com/Aluxads/claude-skills"
-  },
-  {
-    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
-    "id": "roedyrustam/vibes-plug",
-    "language": "JavaScript",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 77,
-    "updated_at": "2026-10-18T07:55:04Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
   },
   {
     "description": "A learner-first UX/LX QA skill for Claude: reviews eLearning courses and slide decks, writes a report and a Kanban-ready",
@@ -117,15 +297,6 @@
     "url": "https://github.com/chickadee368/learner-first-qa"
   },
   {
-    "description": "An atelier for your Agent: spec-driven workflows, deep thinking, and code quality.",
-    "id": "martinffx/atelier",
-    "language": "TypeScript",
-    "name": "martinffx/atelier",
-    "stars": 47,
-    "updated_at": "2026-10-18T07:52:42Z",
-    "url": "https://github.com/martinffx/atelier"
-  },
-  {
     "description": "Build a company that runs itself with multiple AI agents interconnected. ",
     "id": "TheSpawner/OpenSpawn",
     "language": "TypeScript",
@@ -133,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T07:51:32Z",
     "url": "https://github.com/TheSpawner/OpenSpawn"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 103786,
-    "updated_at": "2026-10-18T07:50:51Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
@@ -175,7 +337,7 @@
     "id": "zhuyansen/new-term-radar",
     "language": "Python",
     "name": "zhuyansen/new-term-radar",
-    "stars": 1090,
+    "stars": 1091,
     "updated_at": "2026-10-18T07:47:52Z",
     "url": "https://github.com/zhuyansen/new-term-radar"
   },
@@ -189,15 +351,6 @@
     "url": "https://github.com/azrianobr/dramazing"
   },
   {
-    "description": "Turn any object into a page from an industrial designer's sketchbook. Four variants (pen, marker, ink, contrast), open i",
-    "id": "Keith-CY/sketchbook-style",
-    "language": "Python",
-    "name": "Keith-CY/sketchbook-style",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:47:25Z",
-    "url": "https://github.com/Keith-CY/sketchbook-style"
-  },
-  {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
     "id": "ragnarwestad/aide",
     "language": "TypeScript",
@@ -205,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T07:46:18Z",
     "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
-    "description": "Claude Code\uc5d0\uc11c Claude\uac00 \uc4f0\ub294 \ud55c\uad6d\uc5b4\ub97c \ubc14\ub85c\uc7a1\ub294 \ub3c4\uad6c\uc785\ub2c8\ub2e4. \uc124\uce58\ud558\uba74 Claude\ub294 \ud55c\uad6d\uc5b4\ub97c \uc4f8 \ub54c\ub9c8\ub2e4 \uc791\uc131 \uc808\ucc28\ub97c \ub2f4\uc740 skill\uc744 \uba3c\uc800 \ubd80\ub985\ub2c8\ub2e4. \uc5b4\ud22c\uac00 \uc11e\uc774\uac70\ub098 \uae08\uc9c0\ud55c \ubb38\uc790\uac00 \ub4e4\uc5b4\uac04 \uae00\uc740 hook",
-    "id": "nerdkim/im-a-korean-ai-in-seoul",
-    "language": "JavaScript",
-    "name": "nerdkim/im-a-korean-ai-in-seoul",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:46:15Z",
-    "url": "https://github.com/nerdkim/im-a-korean-ai-in-seoul"
   },
   {
     "description": "Claude paints with code: a Claude Code skill for procedural illustration in 73 styles, from ink wash (\u6c34\u58a8), watercolour a",
@@ -225,15 +369,6 @@
     "url": "https://github.com/cloveric/claude-drawing-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-18T07:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Savault \u77e5\u8bc6\u6865\u6881: Xiaohongshu/Bilibili to Notion Agent Skill; AI knowledge workflows for Codex and WorkBuddy.",
     "id": "lin113311221/savault-skills",
     "language": "JavaScript",
@@ -241,24 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T07:45:13Z",
     "url": "https://github.com/lin113311221/savault-skills"
-  },
-  {
-    "description": "Agent skill to refactor, rewrite, or port code to another language while proving behavior is preserved.",
-    "id": "linkxzhou/code-refactor",
-    "language": "Python",
-    "name": "linkxzhou/code-refactor",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:44:50Z",
-    "url": "https://github.com/linkxzhou/code-refactor"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70155,
-    "updated_at": "2026-10-18T07:42:44Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Open-source motion templates as agent skills \u00b7 \u52a8\u6548\u6a21\u677f\u5e93",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T07:34:43Z",
     "url": "https://github.com/rocosen/flashdata-mcp"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-18T07:34:29Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "Agent Skills that typeset HWPX, DOCX and PPTX documents. HWPX, DOCX, PPTX \ubb38\uc11c\ub97c \uc870\ud310\ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
-    "id": "emdashsmoker/biz-docgen-agent-skills",
-    "language": "Python",
-    "name": "emdashsmoker/biz-docgen-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:47:58Z",
-    "url": "https://github.com/emdashsmoker/biz-docgen-agent-skills"
-  },
-  {
-    "description": "Check a link source before you submit to it, verify the listing, and audit your own backlinks for link-spam patterns. A ",
-    "id": "zhuyansen/backlink-guard",
-    "language": "Python",
-    "name": "zhuyansen/backlink-guard",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:33:16Z",
-    "url": "https://github.com/zhuyansen/backlink-guard"
-  },
-  {
-    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
-    "id": "patrickserrano/lacquer",
-    "language": "Go",
-    "name": "patrickserrano/lacquer",
-    "stars": 4,
-    "updated_at": "2026-10-18T07:52:58Z",
-    "url": "https://github.com/patrickserrano/lacquer"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-10-18T07:32:06Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "\u7528\u4e8e\u300c\u5ba0\u7269\uff08\u5c24\u5176\u732b\uff09\u7167\u7247 \u2192 \u62df\u4eba\u89d2\u8272\u8bbe\u5b9a\u300d\u7684\u8fde\u7eed\u5185\u5bb9\u751f\u4ea7\uff0c\u4fdd\u8bc1\u540c\u4e00\u89d2\u8272\u5728\u591a\u6b21\u751f\u6210\u3001\u591a\u4e2a\u955c\u5934\u3001\u591a\u79cd\u7269\u6599\u91cc\u4e0d\u6f02\u79fb\u3002\u8986\u76d6\u89d2\u8272\u8bbe\u8ba1\u6307\u7eb9\u51bb\u7ed3\u3001\u53c2\u8003\u56fe\u804c\u8d23\u58f0\u660e\u3001\u591a\u89d2\u8272\u540c\u6846\u7684\u8eab\u9ad8\u5904\u7406\u3001\u52a8\u6001\u6d77\u62a5\u4e0e\u77ed\u89c6\u9891\u751f\u6210\u3001\u9010\u5e27\u8d28\u68c0\u3001\u5bf9\u5916\u5c55\u793a\u8fb9\u754c\u5224\u5b9a\u3002\u5f53\u4efb\u52a1\u6d89\u53ca\u62df\u4eba\u89d2\u8272",
-    "id": "CatsMansion/pet-character-consistency",
-    "language": "\u2014",
-    "name": "CatsMansion/pet-character-consistency",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:32:05Z",
-    "url": "https://github.com/CatsMansion/pet-character-consistency"
-  },
-  {
-    "description": "\u732b\u732b\u516c\u5bd3 / \u9732\u5a1c\u684c\u5ba0\u7684\u7d20\u6750\u6d3e\u5355\u3001\u56de\u4f20\u88c1\u51b3\u3001\u88c5\u673a\u5168\u6d41\u7a0b\u3002\u5f53\u4efb\u52a1\u6d89\u53ca\u300c\u6d3e\u5355\u8ba9\u6267\u884c\u7aef\u51fa\u56fe/\u51fa\u89c6\u9891\u300d\u300c\u5224\u5b9a\u6267\u884c\u7aef\u56de\u4f20\u662f\u5426\u5408\u683c\u300d\u300c\u628a\u89c6\u9891\u52a0\u5de5\u6210\u88c5\u673a\u5e27\u88c5\u8fdb\u5f15\u64ce\u300d\u300c\u6253\u5305 exe\u300d\u65f6\u4f7f\u7528\u3002\u5185\u7f6e\u6d3e\u5355\u81ea\u68c0\u6e05\u5355\uff08\u542b\u9996\u5e27\u9510\u5ea6\u7ea2\u7ebf\uff09\u3001\u88c1\u51b3\u7eaa\u5f8b\uff08\u4e0d\u8bb8\u91cd\u8dd1\u6570\u636e\uff09\u3001\u88c5\u673a",
-    "id": "CatsMansion/pet-asset-pipeline",
-    "language": "\u2014",
-    "name": "CatsMansion/pet-asset-pipeline",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:31:57Z",
-    "url": "https://github.com/CatsMansion/pet-asset-pipeline"
-  },
-  {
-    "description": "\u7ed9\u300c\u5ba0\u7269\u62df\u4eba\u89d2\u8272\u300d\u7d20\u6750\u62a0\u900f\u660e\u5e95\uff08\u5355\u56fe\u6216\u89c6\u9891\u5e27\u5e8f\u5217\uff09\u3002\u4e3b\u65b9\u6848\u662f\u300c\u52fe\u7ebf\u5207\u300d\u2014\u2014 \u987a\u7740\u89d2\u8272\u81ea\u8eab\u7684\u52fe\u7ebf\u5207\u5272\uff0c\u8fb9\u754c\u672c\u6765\u5c31\u5728\u52fe\u7ebf\u4e0a\uff0c\u4e0d\u8981\u518d\u53bb\u6297\u952f\u9f7f\u6a21\u7cca\u5e26\u91cc\u627e\u8fb9\u754c\u3002\u65e0\u9700\u4efb\u4f55 AI \u6a21\u578b\uff08no rembg / no torch / no onnx\uff09\u3002\u5f53\u4efb\u52a1",
-    "id": "CatsMansion/pet-asset-keying",
-    "language": "\u2014",
-    "name": "CatsMansion/pet-asset-keying",
-    "stars": 1,
-    "updated_at": "2026-10-18T07:31:50Z",
-    "url": "https://github.com/CatsMansion/pet-asset-keying"
-  },
-  {
-    "description": "\u6e05\u9664\u5df2\u5b8c\u6210\u62a0\u50cf\u7684\u900f\u660e\u5e95 PNG \u4e2d\u6b8b\u7559\u7684\u7ec6\u5c0f\u50cf\u7d20\u5757\uff1a\u534a\u900f\u660e\u96fe\u72b6\u6b8b\u6e23\uff08alpha \u4f4e\u4e8e\u9608\u503c\uff09\u4e0e\u5b64\u5c9b\u788e\u5757\uff08\u5c0f\u9762\u79ef alpha \u8fde\u901a\u57df\uff09\u3002\u5f53\u7528\u6237\u8981\u6c42\u300c\u6e05\u7406\u62a0\u50cf\u6b8b\u7559\u3001\u53bb\u9664 PNG \u4e0a\u7684\u5c0f\u788e\u70b9/\u6742\u70b9/\u6b8b\u6e23\u3001despeckle\u3001\u6e05\u900f\u660e\u5e95\u566a\u70b9\u300d\u65f6\u4f7f\u7528\u3002\u9ed8",
-    "id": "CatsMansion/alpha-despeckle",
-    "language": "Python",
-    "name": "CatsMansion/alpha-despeckle",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:31:42Z",
-    "url": "https://github.com/CatsMansion/alpha-despeckle"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:30:14Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "\u6392\u67e5\u5e76\u4fee\u590d\u300cWindows \u4e0b\u6253\u5305\u597d\u7684\u7a0b\u5e8f\uff0c\u53cc\u51fb\u5c31\u5d29\uff0c\u62a5\u627e\u4e0d\u5230 res/xxx \u4e4b\u7c7b\u7684\u76f8\u5bf9\u8def\u5f84\u6587\u4ef6\u300d\u8fd9\u4e00\u7c7b\u95ee\u9898\u3002\u542b\u56db\u6b65\u6392\u9664\u6cd5\uff08\u884c\u5c3e / start \u7ee7\u627f / \u6587\u4ef6\u662f\u5426\u771f\u7684\u7f3a\u5931 / CWD \u5f52\u56e0\uff09\u3001A-B \u5bf9\u7167\u590d\u73b0\u3001\u4ee5\u53ca\u4e00\u4e2a\u5e26\u81ea\u68c0\u5206\u652f\u7684\u52a0\u56fa\u542f",
-    "id": "CatsMansion/windows-app-cwd-launch-fix",
-    "language": "\u2014",
-    "name": "CatsMansion/windows-app-cwd-launch-fix",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:28:20Z",
-    "url": "https://github.com/CatsMansion/windows-app-cwd-launch-fix"
-  },
-  {
-    "description": "\u5728 Windows \u4e0a\u6309\u7cbe\u786e\u65f6\u957f\u5f55\u5236\u5c4f\u5e55\u6307\u5b9a\u77e9\u5f62\u533a\u57df\u3002\u542b\u5df2\u5b9e\u6d4b\u7684 ffmpeg gdigrab \u53c2\u6570\uff08\u7269\u7406\u50cf\u7d20\u504f\u79fb\uff09\u3001200% \u7f29\u653e\u4e0b\u7684\u5750\u6807\u9677\u9631\u3001\u514d\u5b89\u88c5\u7684\u622a\u56fe\u5de5\u5177\u8def\u5f84\uff0c\u4ee5\u53ca\u4e00\u5957\u5f00\u7bb1\u5373\u7528\u7684\u53d6\u5750\u6807+\u5f55\u5236\u811a\u672c\u3002",
-    "id": "CatsMansion/windows-region-exact-record",
-    "language": "\u2014",
-    "name": "CatsMansion/windows-region-exact-record",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:28:15Z",
-    "url": "https://github.com/CatsMansion/windows-region-exact-record"
-  },
-  {
-    "description": "\u5728\u8fd9\u53f0\u673a\u5668\u4e0a\u628a\u672c\u5730\u6587\u4ef6\u5939\u53d1\u5e03\u5230 GitHub \u7684\u53ef\u7528\u901a\u9053\u3002\u8fde\u63a5\u5668\u53ea\u8bfb\uff08create_repository / push_files \u5747 403\uff09\u3001\u4fbf\u643a\u7248 git \u6ca1\u6709\u51ed\u636e\u52a9\u624b\u5bfc\u81f4 git push \u53d6\u4e0d\u5230\u51ed\u636e\uff0c\u56e0\u6b64\u6539\u4e3a\u8bfb\u53d6\u5df2\u5b58\u50a8\u7684 toke",
-    "id": "CatsMansion/github-publish-rest",
-    "language": "Python",
-    "name": "CatsMansion/github-publish-rest",
-    "stars": 0,
-    "updated_at": "2026-10-18T07:22:28Z",
-    "url": "https://github.com/CatsMansion/github-publish-rest"
   }
 ]
