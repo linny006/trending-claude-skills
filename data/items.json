@@ -1,5 +1,113 @@
 [
   {
+    "description": "Go CLI + profile templates that standardize how Claude Code works across every project",
+    "id": "patrickserrano/lacquer",
+    "language": "Go",
+    "name": "patrickserrano/lacquer",
+    "stars": 4,
+    "updated_at": "2026-10-18T23:41:32Z",
+    "url": "https://github.com/patrickserrano/lacquer"
+  },
+  {
+    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
+    "id": "allxsmith/bestax-skills",
+    "language": "TypeScript",
+    "name": "allxsmith/bestax-skills",
+    "stars": 2,
+    "updated_at": "2026-10-18T23:41:14Z",
+    "url": "https://github.com/allxsmith/bestax-skills"
+  },
+  {
+    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
+    "id": "Hefrock/agent-skills",
+    "language": "Python",
+    "name": "Hefrock/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:40:15Z",
+    "url": "https://github.com/Hefrock/agent-skills"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 8,
+    "updated_at": "2026-10-18T23:40:48Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-10-18T23:39:09Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Claude skills to make Linux run well on Intel MacBooks: keyboard, trackpad, webcam, sleep and more, with per-model notes",
+    "id": "marconipoveda/linux-on-macbook",
+    "language": "Shell",
+    "name": "marconipoveda/linux-on-macbook",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:37:38Z",
+    "url": "https://github.com/marconipoveda/linux-on-macbook"
+  },
+  {
+    "description": "Keep hundreds of Claude Code skills off the context window without ever losing them: hidden skills, one gate per family,",
+    "id": "PapiScholz/greenroom",
+    "language": "Python",
+    "name": "PapiScholz/greenroom",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:36:30Z",
+    "url": "https://github.com/PapiScholz/greenroom"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:36:12Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "George Song's Claude Code plugins for git, GitHub, documentation, session memory, browser automation, Clef, Codex integr",
+    "id": "gsong/claude-marketplace",
+    "language": "JavaScript",
+    "name": "gsong/claude-marketplace",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:35:22Z",
+    "url": "https://github.com/gsong/claude-marketplace"
+  },
+  {
+    "description": "Agent skills for developers building NSW Government digital services: Australian Government Style Manual checks, WCAG au",
+    "id": "digitalnsw/nswds-skills",
+    "language": "JavaScript",
+    "name": "digitalnsw/nswds-skills",
+    "stars": 1,
+    "updated_at": "2026-10-18T23:35:04Z",
+    "url": "https://github.com/digitalnsw/nswds-skills"
+  },
+  {
+    "description": "A programmable typesetter for the web",
+    "id": "drnachio/postext",
+    "language": "TypeScript",
+    "name": "drnachio/postext",
+    "stars": 8,
+    "updated_at": "2026-10-18T23:31:33Z",
+    "url": "https://github.com/drnachio/postext"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-18T23:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Small, sharp, agent-agnostic skills that keep an AI agent's work honest.",
     "id": "jovesun-lab/whetstone",
     "language": "Python",
@@ -14,7 +122,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70162,
-    "updated_at": "2026-10-18T23:29:50Z",
+    "updated_at": "2026-10-18T23:38:48Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -34,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T23:25:30Z",
     "url": "https://github.com/ghenriquec/universal-domain-rules-discover-skill"
-  },
-  {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 8,
-    "updated_at": "2026-10-18T23:25:42Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "Claude skills to make Linux run well on Intel MacBooks: keyboard, trackpad, webcam, sleep and more, with per-model notes",
-    "id": "marconipoveda/linux-on-macbook",
-    "language": "Shell",
-    "name": "marconipoveda/linux-on-macbook",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:21:11Z",
-    "url": "https://github.com/marconipoveda/linux-on-macbook"
   },
   {
     "description": "Personal collection of Claude Code skills for development workflows",
@@ -90,15 +180,6 @@
     "url": "https://github.com/layoza/layoza"
   },
   {
-    "description": "George Song's Claude Code plugins for git, GitHub, documentation, session memory, browser automation, Clef, Codex integr",
-    "id": "gsong/claude-marketplace",
-    "language": "JavaScript",
-    "name": "gsong/claude-marketplace",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:17:57Z",
-    "url": "https://github.com/gsong/claude-marketplace"
-  },
-  {
     "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
     "id": "sujal11101/hotel-ai-operations-suite",
     "language": "HTML",
@@ -106,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T23:15:42Z",
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-18T23:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Evidence-led SEO skill for Claude Code: operating plan by business type, 160 core practices, layers for Bing/Copilot, AI",
@@ -180,15 +252,6 @@
     "url": "https://github.com/erenbekman/defter-kit"
   },
   {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 8,
-    "updated_at": "2026-10-18T23:06:31Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
     "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
     "id": "paureis/pau-skills",
     "language": "JavaScript",
@@ -203,7 +266,7 @@
     "language": "Go",
     "name": "kimjooyoon/gooo-go-ports",
     "stars": 1,
-    "updated_at": "2026-10-18T23:16:57Z",
+    "updated_at": "2026-10-18T23:33:59Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T22:50:11Z",
     "url": "https://github.com/NikOneZ1/agentic-estimates"
-  },
-  {
-    "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 149,
-    "updated_at": "2026-10-18T23:23:24Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-10-18T22:48:40Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Keep hundreds of Claude Code skills off the context window without ever losing them: hidden skills, one gate per family,",
-    "id": "PapiScholz/greenroom",
-    "language": "Python",
-    "name": "PapiScholz/greenroom",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:48:29Z",
-    "url": "https://github.com/PapiScholz/greenroom"
-  },
-  {
-    "description": "Claude Code skill and plugin: turn a set of GitHub PRs and issues into an interactive review graph from one JSON config",
-    "id": "AniAggarwal/pr-review-graph",
-    "language": "Python",
-    "name": "AniAggarwal/pr-review-graph",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:48:20Z",
-    "url": "https://github.com/AniAggarwal/pr-review-graph"
-  },
-  {
-    "description": "Claude skills for designers: slide decks, UX copy review and design handoff.",
-    "id": "manya-5/design-skills",
-    "language": "Python",
-    "name": "manya-5/design-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:47:38Z",
-    "url": "https://github.com/manya-5/design-skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
-    "id": "Max-Levitskiy/skills",
-    "language": "TypeScript",
-    "name": "Max-Levitskiy/skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:47:18Z",
-    "url": "https://github.com/Max-Levitskiy/skills"
-  },
-  {
-    "description": "Hosted anonymous MCP/HTTP: PyPI wheel evidence; mathematical IPv4/IPv6 CIDR-set differences, counts and witnesses. Exact",
-    "id": "noqt/yumi-decision-ledger",
-    "language": "Python",
-    "name": "noqt/yumi-decision-ledger",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:45:50Z",
-    "url": "https://github.com/noqt/yumi-decision-ledger"
   }
 ]
