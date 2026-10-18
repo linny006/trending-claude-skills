@@ -1,5 +1,122 @@
 [
   {
+    "description": "Small, sharp, agent-agnostic skills that keep an AI agent's work honest.",
+    "id": "jovesun-lab/whetstone",
+    "language": "Python",
+    "name": "jovesun-lab/whetstone",
+    "stars": 8,
+    "updated_at": "2026-10-18T23:27:41Z",
+    "url": "https://github.com/jovesun-lab/whetstone"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70162,
+    "updated_at": "2026-10-18T23:29:50Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:26:05Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "universal AI agent skill for discovering domain rules and generating traceable QA scenarios.",
+    "id": "ghenriquec/universal-domain-rules-discover-skill",
+    "language": "Python",
+    "name": "ghenriquec/universal-domain-rules-discover-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T23:25:30Z",
+    "url": "https://github.com/ghenriquec/universal-domain-rules-discover-skill"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 8,
+    "updated_at": "2026-10-18T23:25:42Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "Claude skills to make Linux run well on Intel MacBooks: keyboard, trackpad, webcam, sleep and more, with per-model notes",
+    "id": "marconipoveda/linux-on-macbook",
+    "language": "Shell",
+    "name": "marconipoveda/linux-on-macbook",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:21:11Z",
+    "url": "https://github.com/marconipoveda/linux-on-macbook"
+  },
+  {
+    "description": "Personal collection of Claude Code skills for development workflows",
+    "id": "technicalpickles/pickled-claude-plugins",
+    "language": "Python",
+    "name": "technicalpickles/pickled-claude-plugins",
+    "stars": 11,
+    "updated_at": "2026-10-18T23:20:10Z",
+    "url": "https://github.com/technicalpickles/pickled-claude-plugins"
+  },
+  {
+    "description": "Find design token drift in a codebase: raw hex colors, off-scale spacing, near-duplicate values",
+    "id": "humbleteam/audit-design-tokens",
+    "language": "\u2014",
+    "name": "humbleteam/audit-design-tokens",
+    "stars": 1,
+    "updated_at": "2026-10-18T23:18:34Z",
+    "url": "https://github.com/humbleteam/audit-design-tokens"
+  },
+  {
+    "description": "A Claude skill that turns a folder into a collaboration knowledge base for you, your AI, and your humans",
+    "id": "idea2go2go/smartfolder-skill",
+    "language": "Python",
+    "name": "idea2go2go/smartfolder-skill",
+    "stars": 13,
+    "updated_at": "2026-10-18T23:19:00Z",
+    "url": "https://github.com/idea2go2go/smartfolder-skill"
+  },
+  {
+    "description": "MCP server + agent skills that make Claude Code, Cursor, Codex & OpenCode design like a senior UI/UX team: site design D",
+    "id": "layoza/layoza",
+    "language": "Rust",
+    "name": "layoza/layoza",
+    "stars": 1,
+    "updated_at": "2026-10-18T23:17:59Z",
+    "url": "https://github.com/layoza/layoza"
+  },
+  {
+    "description": "George Song's Claude Code plugins for git, GitHub, documentation, session memory, browser automation, Clef, Codex integr",
+    "id": "gsong/claude-marketplace",
+    "language": "JavaScript",
+    "name": "gsong/claude-marketplace",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:17:57Z",
+    "url": "https://github.com/gsong/claude-marketplace"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-10-18T23:15:42Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-18T23:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Evidence-led SEO skill for Claude Code: operating plan by business type, 160 core practices, layers for Bing/Copilot, AI",
     "id": "blackwings-dev/seo-pro",
     "language": "Python",
@@ -25,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T23:13:27Z",
     "url": "https://github.com/tonydzi/claude-mac-patrol"
-  },
-  {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 8,
-    "updated_at": "2026-10-18T23:13:13Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "MCP server + agent skills that make Claude Code, Cursor, Codex & OpenCode design like a senior UI/UX team: site design D",
-    "id": "layoza/layoza",
-    "language": "Rust",
-    "name": "layoza/layoza",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:12:52Z",
-    "url": "https://github.com/layoza/layoza"
   },
   {
     "description": "\u6d88\u606f\u53bb\u4f2a\u5b58\u771f \u2014 a source-cross-checking skill: verify any claim against multiple independent sources before you trust or forwar",
@@ -90,15 +189,6 @@
     "url": "https://github.com/drnachio/postext"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70162,
-    "updated_at": "2026-10-18T23:14:10Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
     "id": "paureis/pau-skills",
     "language": "JavaScript",
@@ -113,7 +203,7 @@
     "language": "Go",
     "name": "kimjooyoon/gooo-go-ports",
     "stars": 1,
-    "updated_at": "2026-10-18T23:01:34Z",
+    "updated_at": "2026-10-18T23:16:57Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
   },
   {
@@ -124,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-18T23:00:44Z",
     "url": "https://github.com/ngpayyappilly/author-your-incident-rca"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-18T23:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "baton skill for handing over tasks between claude sessions and independing CR validations",
@@ -311,7 +392,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 149,
-    "updated_at": "2026-10-18T22:49:14Z",
+    "updated_at": "2026-10-18T23:23:24Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -360,93 +441,12 @@
     "url": "https://github.com/Max-Levitskiy/skills"
   },
   {
-    "description": "Exact minimum-expected-cost diagnostic planner for small finite deterministic models (dependency-free JavaScript/API); a",
+    "description": "Hosted anonymous MCP/HTTP: PyPI wheel evidence; mathematical IPv4/IPv6 CIDR-set differences, counts and witnesses. Exact",
     "id": "noqt/yumi-decision-ledger",
     "language": "Python",
     "name": "noqt/yumi-decision-ledger",
     "stars": 0,
     "updated_at": "2026-10-18T22:45:50Z",
     "url": "https://github.com/noqt/yumi-decision-ledger"
-  },
-  {
-    "description": "Intelligent prompt inventory plugin for Claude. Observes, captures, and evolves reusable prompts and workflows into a li",
-    "id": "Prog-Jacob/habit",
-    "language": "Shell",
-    "name": "Prog-Jacob/habit",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:42:17Z",
-    "url": "https://github.com/Prog-Jacob/habit"
-  },
-  {
-    "description": "AI job application agent for Claude Code: grill-style onboarding, one tailored ATS-friendly CV per posting, auto-apply t",
-    "id": "Ryuketsukami/auto-job-hunt-skill",
-    "language": "Python",
-    "name": "Ryuketsukami/auto-job-hunt-skill",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:40:21Z",
-    "url": "https://github.com/Ryuketsukami/auto-job-hunt-skill"
-  },
-  {
-    "description": "\u201cI don't want to use your product's agent. I want my agent to be able to use your product.\u201d",
-    "id": "Mach-Five-Group/webmcp-playground",
-    "language": "HTML",
-    "name": "Mach-Five-Group/webmcp-playground",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:40:19Z",
-    "url": "https://github.com/Mach-Five-Group/webmcp-playground"
-  },
-  {
-    "description": "Empowering Healthier Futures Together. This repository hosts the core framework and resources for access-to, an open-sou",
-    "id": "dougdevitre/access-to",
-    "language": "HTML",
-    "name": "dougdevitre/access-to",
-    "stars": 1,
-    "updated_at": "2026-10-18T22:39:40Z",
-    "url": "https://github.com/dougdevitre/access-to"
-  },
-  {
-    "description": "Interactive docs for coding agents. Agents publish research as readable sessions; humans read, annotate, and decide, the",
-    "id": "ENEmyr/brief",
-    "language": "TypeScript",
-    "name": "ENEmyr/brief",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:46:25Z",
-    "url": "https://github.com/ENEmyr/brief"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 19,
-    "updated_at": "2026-10-18T22:35:16Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Skills de SEO e GEO para IA: o racioc\u00ednio de um especialista no Claude, ChatGPT e Gemini.",
-    "id": "lupo-cwb/skills-seo-geo",
-    "language": "\u2014",
-    "name": "lupo-cwb/skills-seo-geo",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:35:06Z",
-    "url": "https://github.com/lupo-cwb/skills-seo-geo"
-  },
-  {
-    "description": "Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders \u2014 the ",
-    "id": "yerdaulet-damir/awesome-solo-ai",
-    "language": "Python",
-    "name": "yerdaulet-damir/awesome-solo-ai",
-    "stars": 41,
-    "updated_at": "2026-10-18T22:32:57Z",
-    "url": "https://github.com/yerdaulet-damir/awesome-solo-ai"
-  },
-  {
-    "description": "Find similar GitHub repositories and better alternatives for any repo: upstream, downstream, peers and health scores, ev",
-    "id": "exordor/repo-compass",
-    "language": "TypeScript",
-    "name": "exordor/repo-compass",
-    "stars": 0,
-    "updated_at": "2026-10-18T22:31:53Z",
-    "url": "https://github.com/exordor/repo-compass"
   }
 ]
