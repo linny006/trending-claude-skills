@@ -1,5 +1,230 @@
 [
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 103704,
+    "updated_at": "2026-10-18T03:44:42Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Review the security of agent skills and MCP servers before installing them",
+    "id": "Plastikelectrik/skill-auditor",
+    "language": "Python",
+    "name": "Plastikelectrik/skill-auditor",
+    "stars": 1,
+    "updated_at": "2026-10-18T03:44:41Z",
+    "url": "https://github.com/Plastikelectrik/skill-auditor"
+  },
+  {
+    "description": "WeChat article cover agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn an article title, topi",
+    "id": "beatra-ai/wechat-article-cover-skill",
+    "language": "Python",
+    "name": "beatra-ai/wechat-article-cover-skill",
+    "stars": 4,
+    "updated_at": "2026-10-18T03:44:39Z",
+    "url": "https://github.com/beatra-ai/wechat-article-cover-skill"
+  },
+  {
+    "description": "A Claude agent skill that turns one sentence into a detailed video, asks the right questions first.",
+    "id": "minhhoangho/idea-to-video-skill",
+    "language": "Shell",
+    "name": "minhhoangho/idea-to-video-skill",
+    "stars": 1,
+    "updated_at": "2026-10-18T03:44:16Z",
+    "url": "https://github.com/minhhoangho/idea-to-video-skill"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 68,
+    "updated_at": "2026-10-18T03:43:01Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "MCP server for Blogger: draft, edit, publish and schedule posts, manage pages and moderate comments from Claude or any M",
+    "id": "tutul/blogger-mcp",
+    "language": "Python",
+    "name": "tutul/blogger-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-18T03:42:54Z",
+    "url": "https://github.com/tutul/blogger-mcp"
+  },
+  {
+    "description": "AI storyboard generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a script, scene, or",
+    "id": "beatra-ai/ai-storyboard-generator-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-storyboard-generator-skill",
+    "stars": 4,
+    "updated_at": "2026-10-18T03:42:44Z",
+    "url": "https://github.com/beatra-ai/ai-storyboard-generator-skill"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1253,
+    "updated_at": "2026-10-18T03:42:43Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
+    "id": "PawanSirsat/Laika",
+    "language": "TypeScript",
+    "name": "PawanSirsat/Laika",
+    "stars": 0,
+    "updated_at": "2026-10-18T03:42:37Z",
+    "url": "https://github.com/PawanSirsat/Laika"
+  },
+  {
+    "description": "\u95f2\u9c7c\u4e0a\u82b1\u94b1\u4e70\u7684 AI skill\uff0c\u5176\u5b9e\u8fd9\u91cc\u90fd\u80fd\u514d\u8d39\u4e0b\u8f7d \u00b7 5238 \u6761 / 33 \u4e2a\u804c\u4e1a AI Skills\u3001Agents\u3001Cursor Rules\u3001\u63d0\u793a\u8bcd",
+    "id": "shinjiyu/awesome-all-profession-skills",
+    "language": "Python",
+    "name": "shinjiyu/awesome-all-profession-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T03:41:58Z",
+    "url": "https://github.com/shinjiyu/awesome-all-profession-skills"
+  },
+  {
+    "description": "AI image realism agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: make AI portraits, product imag",
+    "id": "beatra-ai/ai-image-realism-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-image-realism-skill",
+    "stars": 4,
+    "updated_at": "2026-10-18T03:40:47Z",
+    "url": "https://github.com/beatra-ai/ai-image-realism-skill"
+  },
+  {
+    "description": "A curated, bilingual (EN/\u4e2d\u6587) list of the best Claude Code & Claude ecosystem projects: tools, skills, subagents, plugins",
+    "id": "tomcatmew/awesome-Claude-code",
+    "language": "Python",
+    "name": "tomcatmew/awesome-Claude-code",
+    "stars": 1,
+    "updated_at": "2026-10-18T03:40:22Z",
+    "url": "https://github.com/tomcatmew/awesome-Claude-code"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 84936,
+    "updated_at": "2026-10-18T03:40:00Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "AI audiobook generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a final manuscript o",
+    "id": "beatra-ai/ai-audiobook-generator-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-audiobook-generator-skill",
+    "stars": 4,
+    "updated_at": "2026-10-18T03:38:49Z",
+    "url": "https://github.com/beatra-ai/ai-audiobook-generator-skill"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 95,
+    "updated_at": "2026-10-18T03:37:53Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "AI headshot generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a casual selfie into ",
+    "id": "beatra-ai/ai-headshot-generator-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-headshot-generator-skill",
+    "stars": 4,
+    "updated_at": "2026-10-18T03:36:50Z",
+    "url": "https://github.com/beatra-ai/ai-headshot-generator-skill"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "Python",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-18T03:41:05Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "Music production agent skills that finish songs without diffusion models. \ud655\uc0b0 \ubaa8\ub378 \uc5c6\uc774 \uace1\uc744 \uc644\uc131\ud558\ub294 \uc74c\uc545 \uc81c\uc791 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
+    "id": "emdashsmoker/music-agent-skills",
+    "language": "Python",
+    "name": "emdashsmoker/music-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T03:35:05Z",
+    "url": "https://github.com/emdashsmoker/music-agent-skills"
+  },
+  {
+    "description": "Photo to anime agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: restyle a photo as anime, manga, ",
+    "id": "beatra-ai/photo-to-anime-skill",
+    "language": "Python",
+    "name": "beatra-ai/photo-to-anime-skill",
+    "stars": 5,
+    "updated_at": "2026-10-18T03:34:55Z",
+    "url": "https://github.com/beatra-ai/photo-to-anime-skill"
+  },
+  {
+    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+    "id": "alexzvency-ship-it/claude-browser-automator",
+    "language": "HTML",
+    "name": "alexzvency-ship-it/claude-browser-automator",
+    "stars": 2,
+    "updated_at": "2026-10-18T03:34:33Z",
+    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
+  },
+  {
+    "description": "AI voice cloning agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: create a reusable personal or b",
+    "id": "beatra-ai/ai-voice-cloning-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-voice-cloning-skill",
+    "stars": 4,
+    "updated_at": "2026-10-18T03:32:59Z",
+    "url": "https://github.com/beatra-ai/ai-voice-cloning-skill"
+  },
+  {
+    "description": "The financial-analysis skill collection for AI agents: sentiment, smart money, filings, and an adversarial investment co",
+    "id": "SentiSenseApp/skills",
+    "language": "Python",
+    "name": "SentiSenseApp/skills",
+    "stars": 2,
+    "updated_at": "2026-10-18T03:32:55Z",
+    "url": "https://github.com/SentiSenseApp/skills"
+  },
+  {
+    "description": "Gooo source examples for coding agents: edit, run and replay; independent Go ports and API policy regression checks.",
+    "id": "kimjooyoon/gooo-go-ports",
+    "language": "Go",
+    "name": "kimjooyoon/gooo-go-ports",
+    "stars": 1,
+    "updated_at": "2026-10-18T03:35:22Z",
+    "url": "https://github.com/kimjooyoon/gooo-go-ports"
+  },
+  {
+    "description": "Multilingual voiceover agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: create voice-over audio f",
+    "id": "beatra-ai/multilingual-voiceover-skill",
+    "language": "Python",
+    "name": "beatra-ai/multilingual-voiceover-skill",
+    "stars": 5,
+    "updated_at": "2026-10-18T03:31:05Z",
+    "url": "https://github.com/beatra-ai/multilingual-voiceover-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-18T03:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI podcast voiceover agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn an article, notes, or ",
     "id": "beatra-ai/ai-podcast-voiceover-skill",
     "language": "Python",
@@ -18,24 +243,6 @@
     "url": "https://github.com/Amircode2050/lantern-design-system"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 103698,
-    "updated_at": "2026-10-18T03:29:00Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "A curated, bilingual (EN/\u4e2d\u6587) list of the best Claude Code & Claude ecosystem projects: tools, skills, subagents, plugins",
-    "id": "tomcatmew/awesome-Claude-code",
-    "language": "Python",
-    "name": "tomcatmew/awesome-Claude-code",
-    "stars": 0,
-    "updated_at": "2026-10-18T03:28:36Z",
-    "url": "https://github.com/tomcatmew/awesome-Claude-code"
-  },
-  {
     "description": "Ecommerce product images agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn real product photo",
     "id": "beatra-ai/ecommerce-product-images-skill",
     "language": "Python",
@@ -45,12 +252,21 @@
     "url": "https://github.com/beatra-ai/ecommerce-product-images-skill"
   },
   {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 3628,
+    "updated_at": "2026-10-18T03:25:54Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
     "description": "Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusa",
     "id": "JasonColapietro/suede-creator-skills",
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
     "stars": 127,
-    "updated_at": "2026-10-18T03:27:39Z",
+    "updated_at": "2026-10-18T03:40:55Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
   {
@@ -108,24 +324,6 @@
     "url": "https://github.com/beatra-ai/ai-product-photography-skill"
   },
   {
-    "description": "Curated agent plugins and tooling by Knitli",
-    "id": "knitli/toolshed",
-    "language": "Python",
-    "name": "knitli/toolshed",
-    "stars": 1,
-    "updated_at": "2026-10-18T03:27:33Z",
-    "url": "https://github.com/knitli/toolshed"
-  },
-  {
-    "description": "Music production agent skills that finish songs without diffusion models. \ud655\uc0b0 \ubaa8\ub378 \uc5c6\uc774 \uace1\uc744 \uc644\uc131\ud558\ub294 \uc74c\uc545 \uc81c\uc791 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
-    "id": "emdashsmoker/music-agent-skills",
-    "language": "Python",
-    "name": "emdashsmoker/music-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T03:21:56Z",
-    "url": "https://github.com/emdashsmoker/music-agent-skills"
-  },
-  {
     "description": "AI music generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a theme, lyrics, scene, ",
     "id": "beatra-ai/ai-music-generator-skill",
     "language": "Python",
@@ -133,15 +331,6 @@
     "stars": 5,
     "updated_at": "2026-10-18T03:21:04Z",
     "url": "https://github.com/beatra-ai/ai-music-generator-skill"
-  },
-  {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 84933,
-    "updated_at": "2026-10-18T03:20:50Z",
-    "url": "https://github.com/tt-a1i/archify"
   },
   {
     "description": "Agent-first robotics skill discovery: pinned source examples, reproducible preparation, and reviewed task findings.",
@@ -171,15 +360,6 @@
     "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
   },
   {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 3626,
-    "updated_at": "2026-10-18T03:25:54Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
     "description": "Talking avatar video agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn one portrait and a scr",
     "id": "beatra-ai/talking-avatar-video-skill",
     "language": "Python",
@@ -196,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-10-18T03:15:36Z",
     "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-18T03:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A Claude skill to design, analyze and balance games as systems of loops. Based on Michael Sellers' systems approach (uno",
@@ -261,15 +432,6 @@
     "url": "https://github.com/beatra-ai/lyrics-to-song-skill"
   },
   {
-    "description": "A Claude agent skill that turns one sentence into a detailed video, asks the right questions first.",
-    "id": "minhhoangho/idea-to-video-skill",
-    "language": "Shell",
-    "name": "minhhoangho/idea-to-video-skill",
-    "stars": 1,
-    "updated_at": "2026-10-18T03:07:40Z",
-    "url": "https://github.com/minhhoangho/idea-to-video-skill"
-  },
-  {
     "description": "AI voiceover generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: pick or reuse a voice, tu",
     "id": "beatra-ai/ai-voiceover-generator-skill",
     "language": "Python",
@@ -284,169 +446,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-18T03:18:30Z",
+    "updated_at": "2026-10-18T03:41:45Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "AI video generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: generate, animate, edit, and ",
-    "id": "beatra-ai/ai-video-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-video-generator-skill",
-    "stars": 4,
-    "updated_at": "2026-10-18T03:05:40Z",
-    "url": "https://github.com/beatra-ai/ai-video-generator-skill"
-  },
-  {
-    "description": "Gooo source examples for coding agents: edit, run and replay; independent Go ports and API policy regression checks.",
-    "id": "kimjooyoon/gooo-go-ports",
-    "language": "Go",
-    "name": "kimjooyoon/gooo-go-ports",
-    "stars": 1,
-    "updated_at": "2026-10-18T03:18:47Z",
-    "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
-    "description": "AI media generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: create AI images, video, musi",
-    "id": "beatra-ai/ai-media-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-media-generator-skill",
-    "stars": 5,
-    "updated_at": "2026-10-18T03:03:27Z",
-    "url": "https://github.com/beatra-ai/ai-media-generator-skill"
-  },
-  {
-    "description": "Agent Skills for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: AI image generation, text to speech, talking he",
-    "id": "beatra-ai/beatra-skills",
-    "language": "Python",
-    "name": "beatra-ai/beatra-skills",
-    "stars": 6,
-    "updated_at": "2026-10-18T03:03:10Z",
-    "url": "https://github.com/beatra-ai/beatra-skills"
-  },
-  {
-    "description": "Chrome extension + agent skill: clip websites, measure their palette, type and motion into plain files, and let Claude C",
-    "id": "bryfeng/artspo",
-    "language": "JavaScript",
-    "name": "bryfeng/artspo",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:59:45Z",
-    "url": "https://github.com/bryfeng/artspo"
-  },
-  {
-    "description": "Official FlashData MCP server for Google Search, YouTube data, and media downloads.",
-    "id": "rocosen/flashdata-mcp",
-    "language": "Python",
-    "name": "rocosen/flashdata-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:58:01Z",
-    "url": "https://github.com/rocosen/flashdata-mcp"
-  },
-  {
-    "description": "AI image generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: generate, compose, and edit p",
-    "id": "beatra-ai/ai-image-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-image-generator-skill",
-    "stars": 4,
-    "updated_at": "2026-10-18T02:57:25Z",
-    "url": "https://github.com/beatra-ai/ai-image-generator-skill"
-  },
-  {
-    "description": "A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management",
-    "id": "JuneYaooo/awesome-ai-media-skills",
-    "language": "\u2014",
-    "name": "JuneYaooo/awesome-ai-media-skills",
-    "stars": 5,
-    "updated_at": "2026-10-18T02:57:15Z",
-    "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
-  },
-  {
-    "description": "\u4ece GoodNotes \u5bfc\u51fa\u7684 .goodnotes \u6587\u4ef6\u4e2d\u63d0\u53d6\u97f3\u9891\u3001\u56fe\u7247\u548c PDF \u9644\u4ef6\uff1b\u9644\u5e26 Agent Skill\uff0c\u53ef\u88ab Claude Code / Codex / Cursor \u76f4\u63a5\u8c03\u7528\u3002",
-    "id": "ou0826/goodnotes-attachment-extractor",
-    "language": "Python",
-    "name": "ou0826/goodnotes-attachment-extractor",
-    "stars": 2,
-    "updated_at": "2026-10-18T02:57:14Z",
-    "url": "https://github.com/ou0826/goodnotes-attachment-extractor"
-  },
-  {
-    "description": "Agent skill that gives coding agents design taste: create, audit and redesign UIs, score websites, images and game art. ",
-    "id": "linkxzhou/design-taste",
-    "language": "Python",
-    "name": "linkxzhou/design-taste",
-    "stars": 1,
-    "updated_at": "2026-10-18T02:56:23Z",
-    "url": "https://github.com/linkxzhou/design-taste"
-  },
-  {
-    "description": "Claude skill: publish your first app to Apple's App Store without getting lost",
-    "id": "yrashish/app-store-first-launch",
-    "language": "Shell",
-    "name": "yrashish/app-store-first-launch",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:55:25Z",
-    "url": "https://github.com/yrashish/app-store-first-launch"
-  },
-  {
-    "description": " Agent skill + CLI for PageWell: write a designed document or a runnable single-page artifact with your AI agent, then p",
-    "id": "pagewellai/pagewell",
-    "language": "Shell",
-    "name": "pagewellai/pagewell",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:51:36Z",
-    "url": "https://github.com/pagewellai/pagewell"
-  },
-  {
-    "description": "Agent skill to simplify and refactor code in any mainstream language while preserving behavior and public APIs.",
-    "id": "linkxzhou/simplify-code",
-    "language": "JavaScript",
-    "name": "linkxzhou/simplify-code",
-    "stars": 1,
-    "updated_at": "2026-10-18T02:49:03Z",
-    "url": "https://github.com/linkxzhou/simplify-code"
-  },
-  {
-    "description": "Andrew Ng translation-agent style three-step translation skill (initial translate, reflect, improve)",
-    "id": "linkxzhou/andrew-translate",
-    "language": "\u2014",
-    "name": "linkxzhou/andrew-translate",
-    "stars": 1,
-    "updated_at": "2026-10-18T02:48:58Z",
-    "url": "https://github.com/linkxzhou/andrew-translate"
-  },
-  {
-    "description": "13 Claude skills for Instagram: hook scorer, caption linter, humanizer and viral research. MIT, no API key.",
-    "id": "cprakash64/InstaFluencer",
-    "language": "Python",
-    "name": "cprakash64/InstaFluencer",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:48:16Z",
-    "url": "https://github.com/cprakash64/InstaFluencer"
-  },
-  {
-    "description": "An AI skill for Claude, Codex, and ChatGPT that scans your email for class action settlements, matches your purchases to",
-    "id": "yingying-chu/class-action-finder",
-    "language": "Shell",
-    "name": "yingying-chu/class-action-finder",
-    "stars": 4,
-    "updated_at": "2026-10-18T02:47:09Z",
-    "url": "https://github.com/yingying-chu/class-action-finder"
-  },
-  {
-    "description": "Collaborate with Codex from Claude Code",
-    "id": "Kevin7Qi/codex-collab",
-    "language": "TypeScript",
-    "name": "Kevin7Qi/codex-collab",
-    "stars": 99,
-    "updated_at": "2026-10-18T02:46:56Z",
-    "url": "https://github.com/Kevin7Qi/codex-collab"
-  },
-  {
-    "description": "Claude Code plugin for building premium sites on the ether WebGL engine: skills, audits, hooks, and a review agent.",
-    "id": "JonathanBeck1/claude-studio-toolkit",
-    "language": "Python",
-    "name": "JonathanBeck1/claude-studio-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-18T02:44:50Z",
-    "url": "https://github.com/JonathanBeck1/claude-studio-toolkit"
   }
 ]
