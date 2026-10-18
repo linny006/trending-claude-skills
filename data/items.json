@@ -1,12 +1,57 @@
 [
   {
+    "description": "A minimal job hub for supervised agent runs: one job at a time, an operator must be present, results validated, failures",
+    "id": "Kein-chronicle/agent-job-scheduler-minihub",
+    "language": "Python",
+    "name": "Kein-chronicle/agent-job-scheduler-minihub",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:30:06Z",
+    "url": "https://github.com/Kein-chronicle/agent-job-scheduler-minihub"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 35,
+    "updated_at": "2026-10-18T13:29:35Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 439,
+    "updated_at": "2026-10-18T13:29:30Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Agent-first robotics skill discovery: pinned source examples, reproducible preparation, and reviewed task findings.",
+    "id": "Superfast-Robotics/robot-skill-hub",
+    "language": "Python",
+    "name": "Superfast-Robotics/robot-skill-hub",
+    "stars": 0,
+    "updated_at": "2026-10-18T13:29:09Z",
+    "url": "https://github.com/Superfast-Robotics/robot-skill-hub"
+  },
+  {
     "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
     "id": "allxsmith/bestax-skills",
     "language": "TypeScript",
     "name": "allxsmith/bestax-skills",
     "stars": 2,
-    "updated_at": "2026-10-18T13:27:45Z",
+    "updated_at": "2026-10-18T13:29:02Z",
     "url": "https://github.com/allxsmith/bestax-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-18T13:28:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Google NotebookLM over MCP + a local HTTP REST API. Citation-backed Q&A, audio/video/content generation, multi-account r",
@@ -50,17 +95,8 @@
     "language": "HTML",
     "name": "pgoell/pgoell-claude-tools",
     "stars": 1,
-    "updated_at": "2026-10-18T13:23:56Z",
+    "updated_at": "2026-10-18T13:28:21Z",
     "url": "https://github.com/pgoell/pgoell-claude-tools"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 439,
-    "updated_at": "2026-10-18T13:25:47Z",
-    "url": "https://github.com/aiskillstore/marketplace"
   },
   {
     "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T13:20:35Z",
     "url": "https://github.com/jaeminiz/awesome-agent-skills"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 35,
-    "updated_at": "2026-10-18T13:19:11Z",
-    "url": "https://github.com/travsteward/openwriter"
   },
   {
     "description": "Agent skill: summarize open article tabs in Thorium, Chromium, Chrome, Brave, Edge and Firefox, append to a dated file, ",
@@ -133,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-18T13:18:46Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-18T13:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Generate a macOS launchd job that runs Claude Code headless on a schedule, from one command.",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "emdashsmoker/music-agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-18T13:11:25Z",
+    "updated_at": "2026-10-18T13:29:43Z",
     "url": "https://github.com/emdashsmoker/music-agent-skills"
   },
   {
@@ -310,7 +328,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 103895,
+    "stars": 103896,
     "updated_at": "2026-10-18T12:56:14Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-18T12:34:13Z",
     "url": "https://github.com/Idov31/ai-marketplace"
-  },
-  {
-    "description": "Tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions ",
-    "id": "ergrelet/windiff",
-    "language": "Rust",
-    "name": "ergrelet/windiff",
-    "stars": 392,
-    "updated_at": "2026-10-18T12:33:47Z",
-    "url": "https://github.com/ergrelet/windiff"
-  },
-  {
-    "description": "A bot that tunes up your other agents, with a built-in skill index. Ask for the job in plain English. The bot picks up o",
-    "id": "Viaknox/tune-up",
-    "language": "JavaScript",
-    "name": "Viaknox/tune-up",
-    "stars": 0,
-    "updated_at": "2026-10-18T12:53:38Z",
-    "url": "https://github.com/Viaknox/tune-up"
   }
 ]
