@@ -1,5 +1,50 @@
 [
   {
+    "description": "Claude Code skills that audit and improve how your GitHub repositories and profile present your work",
+    "id": "andrew-abdelmalak/github-presence-skills",
+    "language": "Python",
+    "name": "andrew-abdelmalak/github-presence-skills",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:16:56Z",
+    "url": "https://github.com/andrew-abdelmalak/github-presence-skills"
+  },
+  {
+    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
+    "id": "roedyrustam/vibes-plug",
+    "language": "JavaScript",
+    "name": "roedyrustam/vibes-plug",
+    "stars": 77,
+    "updated_at": "2026-10-18T19:16:31Z",
+    "url": "https://github.com/roedyrustam/vibes-plug"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 104034,
+    "updated_at": "2026-10-18T19:16:15Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "OpenCode skill + deterministic generator that assembles a whole purpose-built agent: architecture, models, skills, MCP, ",
+    "id": "bravemaggot/opencode-agent-forge",
+    "language": "Python",
+    "name": "bravemaggot/opencode-agent-forge",
+    "stars": 0,
+    "updated_at": "2026-10-18T19:15:56Z",
+    "url": "https://github.com/bravemaggot/opencode-agent-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-18T19:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "longsizhuo/openInvest",
     "stars": 115,
-    "updated_at": "2026-10-18T19:09:50Z",
+    "updated_at": "2026-10-18T19:16:35Z",
     "url": "https://github.com/longsizhuo/openInvest"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/ragnarwestad/aide"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 104034,
-    "updated_at": "2026-10-18T19:15:08Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -180,15 +216,6 @@
     "url": "https://github.com/tobihagemann/turbo"
   },
   {
-    "description": "Claude Code skills that audit and improve how your GitHub repositories and profile present your work",
-    "id": "andrew-abdelmalak/github-presence-skills",
-    "language": "Python",
-    "name": "andrew-abdelmalak/github-presence-skills",
-    "stars": 0,
-    "updated_at": "2026-10-18T19:03:17Z",
-    "url": "https://github.com/andrew-abdelmalak/github-presence-skills"
-  },
-  {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
     "id": "abbyuraffi-netizen/maxvision-claude-forge",
     "language": "HTML",
@@ -207,15 +234,6 @@
     "url": "https://github.com/dougdevitre/access-to"
   },
   {
-    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
-    "id": "roedyrustam/vibes-plug",
-    "language": "JavaScript",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 77,
-    "updated_at": "2026-10-18T19:00:40Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
-  },
-  {
     "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
     "id": "chrislacey89/skills",
     "language": "Shell",
@@ -223,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-10-18T19:06:02Z",
     "url": "https://github.com/chrislacey89/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-18T19:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "33 WCAG 2.2 procedures for coding agents, covering every Level A and AA criterion, an audit command that maps each axe-c",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T18:43:15Z",
     "url": "https://github.com/emdashsmoker/music-agent-skills"
-  },
-  {
-    "description": "\ud83d\ude80 A real-time monitoring dashboard for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindC",
-    "id": "hoangsonww/Claude-Code-Agent-Monitor",
-    "language": "TypeScript",
-    "name": "hoangsonww/Claude-Code-Agent-Monitor",
-    "stars": 1091,
-    "updated_at": "2026-10-18T18:40:35Z",
-    "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   }
 ]
