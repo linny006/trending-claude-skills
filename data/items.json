@@ -1,12 +1,93 @@
 [
   {
+    "description": "AI-native open-source finite-element platform connecting engineering, computation, data, and AI.",
+    "id": "haoming-luo/agentfem",
+    "language": "Python",
+    "name": "haoming-luo/agentfem",
+    "stars": 26,
+    "updated_at": "2026-10-18T09:13:11Z",
+    "url": "https://github.com/haoming-luo/agentfem"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:13:01Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
     "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
     "id": "longsizhuo/openInvest",
     "language": "Python",
     "name": "longsizhuo/openInvest",
     "stars": 115,
-    "updated_at": "2026-10-18T08:59:54Z",
+    "updated_at": "2026-10-18T09:12:38Z",
     "url": "https://github.com/longsizhuo/openInvest"
+  },
+  {
+    "description": "Collection of my personal claude skills",
+    "id": "pgoell/pgoell-claude-tools",
+    "language": "HTML",
+    "name": "pgoell/pgoell-claude-tools",
+    "stars": 1,
+    "updated_at": "2026-10-18T09:14:23Z",
+    "url": "https://github.com/pgoell/pgoell-claude-tools"
+  },
+  {
+    "description": "InkRoom MCP standalone client releases",
+    "id": "lijianhui1405/inkroom",
+    "language": "JavaScript",
+    "name": "lijianhui1405/inkroom",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:07:49Z",
+    "url": "https://github.com/lijianhui1405/inkroom"
+  },
+  {
+    "description": "Package manager for Claude Code skills and agents and other AI related resources",
+    "id": "mensfeld/craftdesk",
+    "language": "TypeScript",
+    "name": "mensfeld/craftdesk",
+    "stars": 67,
+    "updated_at": "2026-10-18T09:04:48Z",
+    "url": "https://github.com/mensfeld/craftdesk"
+  },
+  {
+    "description": "Spec-driven, traceable AI coding harness, demonstrated on a FastAPI + LangGraph + Redis agent service.",
+    "id": "darrenpaine/harnessd",
+    "language": "Python",
+    "name": "darrenpaine/harnessd",
+    "stars": 0,
+    "updated_at": "2026-10-18T09:06:20Z",
+    "url": "https://github.com/darrenpaine/harnessd"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 439,
+    "updated_at": "2026-10-18T09:03:52Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Method-driven agent skills for knowledge work: strategy, research, critical thinking, data analysis, docs, slides. Works",
+    "id": "tronghieu/agent-skills",
+    "language": "Python",
+    "name": "tronghieu/agent-skills",
+    "stars": 81,
+    "updated_at": "2026-10-18T09:00:45Z",
+    "url": "https://github.com/tronghieu/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-18T09:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -77,7 +158,7 @@
     "language": "Go",
     "name": "kimjooyoon/gooo-go-ports",
     "stars": 1,
-    "updated_at": "2026-10-18T08:53:11Z",
+    "updated_at": "2026-10-18T09:09:30Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
   },
   {
@@ -112,7 +193,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 101496,
+    "stars": 101498,
     "updated_at": "2026-10-18T08:50:03Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -131,7 +212,7 @@
     "language": "JavaScript",
     "name": "jasonm4130/claude-skills",
     "stars": 5,
-    "updated_at": "2026-10-18T08:49:12Z",
+    "updated_at": "2026-10-18T09:01:48Z",
     "url": "https://github.com/jasonm4130/claude-skills"
   },
   {
@@ -162,15 +243,6 @@
     "url": "https://github.com/g-alantok/simple-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-18T08:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
     "id": "ShadowSwaps/REA-Reconstruction-Companion",
     "language": "JavaScript",
@@ -198,21 +270,12 @@
     "url": "https://github.com/nitinjain999/platform-skills"
   },
   {
-    "description": "Method-driven agent skills for knowledge work: strategy, research, critical thinking, data analysis, docs, slides. Works",
-    "id": "tronghieu/agent-skills",
-    "language": "Python",
-    "name": "tronghieu/agent-skills",
-    "stars": 81,
-    "updated_at": "2026-10-18T08:58:36Z",
-    "url": "https://github.com/tronghieu/agent-skills"
-  },
-  {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
     "id": "ragnarwestad/aide",
     "language": "TypeScript",
     "name": "ragnarwestad/aide",
     "stars": 1,
-    "updated_at": "2026-10-18T08:40:14Z",
+    "updated_at": "2026-10-18T09:14:29Z",
     "url": "https://github.com/ragnarwestad/aide"
   },
   {
@@ -283,7 +346,7 @@
     "id": "oil-oil/oil-ui",
     "language": "Python",
     "name": "oil-oil/oil-ui",
-    "stars": 1702,
+    "stars": 1703,
     "updated_at": "2026-10-18T08:28:51Z",
     "url": "https://github.com/oil-oil/oil-ui"
   },
@@ -319,7 +382,7 @@
     "id": "liustack/modsearch",
     "language": "TypeScript",
     "name": "liustack/modsearch",
-    "stars": 741,
+    "stars": 742,
     "updated_at": "2026-10-18T08:22:32Z",
     "url": "https://github.com/liustack/modsearch"
   },
@@ -331,15 +394,6 @@
     "stars": 10,
     "updated_at": "2026-10-18T08:22:31Z",
     "url": "https://github.com/andrian-syh/roblox-best-practices-skill"
-  },
-  {
-    "description": "Spec-driven, traceable AI coding harness, demonstrated on a FastAPI + LangGraph + Redis agent service.",
-    "id": "darrenpaine/harnessd",
-    "language": "Python",
-    "name": "darrenpaine/harnessd",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:59:31Z",
-    "url": "https://github.com/darrenpaine/harnessd"
   },
   {
     "description": "Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Pi, Codex, and Antigravity & Gemini CLI 24/",
@@ -387,15 +441,6 @@
     "url": "https://github.com/Kimeur/duology"
   },
   {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:42:50Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
     "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
     "id": "Ovid/paad",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 138,
     "updated_at": "2026-10-18T08:08:09Z",
     "url": "https://github.com/Ovid/paad"
-  },
-  {
-    "description": "Memory consolidation skills for Claude Code \u2014 read-only dream pass, checkbox/validator gate, full-auto mode, snapshot + ",
-    "id": "timoncool/dream-skill",
-    "language": "HTML",
-    "name": "timoncool/dream-skill",
-    "stars": 3,
-    "updated_at": "2026-10-18T08:05:06Z",
-    "url": "https://github.com/timoncool/dream-skill"
-  },
-  {
-    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 147 specialized subagents for full-stack development workflows",
-    "id": "roedyrustam/vibes-plug",
-    "language": "JavaScript",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 77,
-    "updated_at": "2026-10-18T08:05:05Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
-  },
-  {
-    "description": "Agent skill to refactor, rewrite, or port code to another language while proving behavior is preserved.",
-    "id": "linkxzhou/code-refactor",
-    "language": "Python",
-    "name": "linkxzhou/code-refactor",
-    "stars": 0,
-    "updated_at": "2026-10-18T08:04:15Z",
-    "url": "https://github.com/linkxzhou/code-refactor"
-  },
-  {
-    "description": "Agent skill to simplify and refactor code in any mainstream language while preserving behavior and public APIs.",
-    "id": "linkxzhou/simplify-code",
-    "language": "JavaScript",
-    "name": "linkxzhou/simplify-code",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:04:06Z",
-    "url": "https://github.com/linkxzhou/simplify-code"
-  },
-  {
-    "description": "Andrew Ng translation-agent style three-step translation skill (initial translate, reflect, improve)",
-    "id": "linkxzhou/andrew-translate",
-    "language": "\u2014",
-    "name": "linkxzhou/andrew-translate",
-    "stars": 1,
-    "updated_at": "2026-10-18T08:03:59Z",
-    "url": "https://github.com/linkxzhou/andrew-translate"
   }
 ]
