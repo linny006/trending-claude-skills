@@ -1,5 +1,41 @@
 [
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 101675,
+    "updated_at": "2026-10-19T07:28:57Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-19T07:30:06Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 127,
+    "updated_at": "2026-10-19T07:27:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code skill: keep Claude's questions and sample images on one artifact page and answer by pasting (\u6c7a\u3081\u3054\u3068\u30da\u30fc\u30b8)",
+    "id": "kaigemap/claude-skill-decision-board",
+    "language": "HTML",
+    "name": "kaigemap/claude-skill-decision-board",
+    "stars": 0,
+    "updated_at": "2026-10-19T07:27:09Z",
+    "url": "https://github.com/kaigemap/claude-skill-decision-board"
+  },
+  {
     "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
     "id": "xr843/Master-skill",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70179,
-    "updated_at": "2026-10-19T07:26:49Z",
+    "updated_at": "2026-10-19T07:27:28Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -40,18 +76,9 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 104300,
+    "stars": 104302,
     "updated_at": "2026-10-19T07:26:15Z",
     "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 101674,
-    "updated_at": "2026-10-19T07:25:43Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
@@ -67,7 +94,7 @@
     "id": "anbeime/skill",
     "language": "Python",
     "name": "anbeime/skill",
-    "stars": 8303,
+    "stars": 8304,
     "updated_at": "2026-10-19T07:24:43Z",
     "url": "https://github.com/anbeime/skill"
   },
@@ -88,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-10-19T07:23:31Z",
     "url": "https://github.com/Kimeur/duology"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-19T07:26:14Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Self-hosted worker that turns ready Jira, Linear, and GitHub tickets into pull requests with your coding agent\u2014on your m",
@@ -144,15 +162,6 @@
     "url": "https://github.com/nishkohli96/awesome-apps-and-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 127,
-    "updated_at": "2026-10-19T07:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Your AI agent learns any brand from a website once, yours or a client's, then writes every document in it.",
     "id": "mperlak/letterhead",
     "language": "JavaScript",
@@ -185,7 +194,7 @@
     "language": "HTML",
     "name": "pgoell/pgoell-claude-tools",
     "stars": 1,
-    "updated_at": "2026-10-19T07:16:26Z",
+    "updated_at": "2026-10-19T07:28:14Z",
     "url": "https://github.com/pgoell/pgoell-claude-tools"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T06:45:41Z",
     "url": "https://github.com/andrew-abdelmalak/github-presence-skills"
-  },
-  {
-    "description": "A growing collection of Claude Code skills, packaged as one plugin.",
-    "id": "MarvelCollin/agent-skills",
-    "language": "Shell",
-    "name": "MarvelCollin/agent-skills",
-    "stars": 4,
-    "updated_at": "2026-10-19T06:45:13Z",
-    "url": "https://github.com/MarvelCollin/agent-skills"
   }
 ]
