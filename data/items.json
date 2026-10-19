@@ -1,5 +1,50 @@
 [
   {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 29,
+    "updated_at": "2026-10-19T23:50:33Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+    "id": "xr843/Master-skill",
+    "language": "Python",
+    "name": "xr843/Master-skill",
+    "stars": 469,
+    "updated_at": "2026-10-19T23:49:02Z",
+    "url": "https://github.com/xr843/Master-skill"
+  },
+  {
+    "description": "Claude Code plugin marketplace \u2014 58 installable reference skills across vLLM/SGLang inference, Kubernetes & Harvester, G",
+    "id": "air-gapped/skills",
+    "language": "Python",
+    "name": "air-gapped/skills",
+    "stars": 5,
+    "updated_at": "2026-10-19T23:46:54Z",
+    "url": "https://github.com/air-gapped/skills"
+  },
+  {
+    "description": "MCP server + agent skills that make Claude Code, Cursor, Codex & OpenCode design like a senior UI/UX team: site design D",
+    "id": "layoza/layoza",
+    "language": "Rust",
+    "name": "layoza/layoza",
+    "stars": 2,
+    "updated_at": "2026-10-19T23:46:35Z",
+    "url": "https://github.com/layoza/layoza"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-19T23:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
     "id": "PawanSirsat/Laika",
     "language": "TypeScript",
@@ -27,15 +72,6 @@
     "url": "https://github.com/sarojkjha/aaj-marketing-skills"
   },
   {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 29,
-    "updated_at": "2026-10-19T23:39:22Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
     "description": "\u3010Be a star, give a star!\u2b50\ufe0f\u3011 Makes AI coding agents write accessible UI by default, then proves what it can prove with a ",
     "id": "ChanMeng666/a11y-loop",
     "language": "JavaScript",
@@ -49,7 +85,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 104723,
+    "stars": 104725,
     "updated_at": "2026-10-19T23:38:07Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 37,
-    "updated_at": "2026-10-19T23:36:29Z",
+    "updated_at": "2026-10-19T23:52:37Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T23:34:24Z",
     "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "FoJin-powered Buddhist AI persona framework \u2014 source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
-    "id": "xr843/Master-skill",
-    "language": "Python",
-    "name": "xr843/Master-skill",
-    "stars": 469,
-    "updated_at": "2026-10-19T23:32:42Z",
-    "url": "https://github.com/xr843/Master-skill"
   },
   {
     "description": "Agent skill collections for OpenCode/Claude/Cursor \u2014 installable per collection, local-first",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-19T23:31:09Z",
     "url": "https://github.com/competlab/competlab-ci-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-19T23:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
@@ -288,15 +306,6 @@
     "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
   },
   {
-    "description": "MCP server + agent skills that make Claude Code, Cursor, Codex & OpenCode design like a senior UI/UX team: site design D",
-    "id": "layoza/layoza",
-    "language": "Rust",
-    "name": "layoza/layoza",
-    "stars": 2,
-    "updated_at": "2026-10-19T23:21:00Z",
-    "url": "https://github.com/layoza/layoza"
-  },
-  {
     "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
     "id": "AllyJuma1/easel-js-cpu-render-kit",
     "language": "HTML",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "jgoneit/jaekit",
     "stars": 0,
-    "updated_at": "2026-10-19T22:58:33Z",
+    "updated_at": "2026-10-19T23:47:08Z",
     "url": "https://github.com/jgoneit/jaekit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T22:53:01Z",
     "url": "https://github.com/DecodedXR/claude-workflow-skills"
-  },
-  {
-    "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 149,
-    "updated_at": "2026-10-19T23:32:49Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
   }
 ]
