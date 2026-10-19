@@ -1,5 +1,149 @@
 [
   {
+    "description": "Open-source webhook, email, and DNS inboxes for AI agents. MCP tools and local forwarding.",
+    "id": "openhook-dev/openhook-inbox",
+    "language": "Python",
+    "name": "openhook-dev/openhook-inbox",
+    "stars": 1,
+    "updated_at": "2026-10-19T20:24:44Z",
+    "url": "https://github.com/openhook-dev/openhook-inbox"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 120,
+    "updated_at": "2026-10-19T20:23:44Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Let Claude Code hand tasks to OpenAI Codex: message an open Codex window or spawn sessions, pick model and effort with q",
+    "id": "JK-G/co-codex",
+    "language": "JavaScript",
+    "name": "JK-G/co-codex",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:22:55Z",
+    "url": "https://github.com/JK-G/co-codex"
+  },
+  {
+    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
+    "id": "eduair94/cambio-uruguay",
+    "language": "TypeScript",
+    "name": "eduair94/cambio-uruguay",
+    "stars": 8,
+    "updated_at": "2026-10-19T20:22:39Z",
+    "url": "https://github.com/eduair94/cambio-uruguay"
+  },
+  {
+    "description": "Collection of my personal claude skills",
+    "id": "pgoell/pgoell-claude-tools",
+    "language": "HTML",
+    "name": "pgoell/pgoell-claude-tools",
+    "stars": 1,
+    "updated_at": "2026-10-19T20:22:25Z",
+    "url": "https://github.com/pgoell/pgoell-claude-tools"
+  },
+  {
+    "description": "Installable AI-agent skills for image optimization and media APIs, with eval prompts to regression-test agent behavior",
+    "id": "IgorVaryvoda/image-optimization-skill",
+    "language": "JavaScript",
+    "name": "IgorVaryvoda/image-optimization-skill",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:22:24Z",
+    "url": "https://github.com/IgorVaryvoda/image-optimization-skill"
+  },
+  {
+    "description": "Text-to-speech voice mode for Claude Code on macOS \u2014 answers read aloud, hands-free",
+    "id": "JashIbra/voice",
+    "language": "Python",
+    "name": "JashIbra/voice",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:21:33Z",
+    "url": "https://github.com/JashIbra/voice"
+  },
+  {
+    "description": "Skills that started with problems I encountered.",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 1,
+    "updated_at": "2026-10-19T20:21:17Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 5,
+    "updated_at": "2026-10-19T20:19:18Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Writing skills for Claude Code: humanize AI prose, enforce Microsoft Writing Style Guide compliance.",
+    "id": "slogsdon/skills-writing",
+    "language": "Python",
+    "name": "slogsdon/skills-writing",
+    "stars": 0,
+    "updated_at": "2026-10-19T20:18:33Z",
+    "url": "https://github.com/slogsdon/skills-writing"
+  },
+  {
+    "description": "Agent skill for Brazilian legal case analysis, evidence tracing and labor-law drafting. Skill para an\u00e1lise processual, p",
+    "id": "lucianumm/AuditorProcessual",
+    "language": "Python",
+    "name": "lucianumm/AuditorProcessual",
+    "stars": 2,
+    "updated_at": "2026-10-19T20:16:45Z",
+    "url": "https://github.com/lucianumm/AuditorProcessual"
+  },
+  {
+    "description": "Reusable Claude Code skills for Object Pascal work \u2014 dual-compiler Delphi/Lazarus projects",
+    "id": "fabianoallex/pascal-skills-faa",
+    "language": "Python",
+    "name": "fabianoallex/pascal-skills-faa",
+    "stars": 2,
+    "updated_at": "2026-10-19T20:16:45Z",
+    "url": "https://github.com/fabianoallex/pascal-skills-faa"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1262,
+    "updated_at": "2026-10-19T20:20:41Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Curated apps, websites, web tools, libraries, Claude skills and MCP servers, grouped by what you want to do. Whether you",
+    "id": "nishkohli96/awesome-apps-and-skills",
+    "language": "\u2014",
+    "name": "nishkohli96/awesome-apps-and-skills",
+    "stars": 2,
+    "updated_at": "2026-10-19T20:15:45Z",
+    "url": "https://github.com/nishkohli96/awesome-apps-and-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70200,
+    "updated_at": "2026-10-19T20:24:31Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-19T20:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 155 specialized subagents for full-stack development workflows",
     "id": "roedyrustam/vibes-plug",
     "language": "JavaScript",
@@ -13,9 +157,18 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 104653,
-    "updated_at": "2026-10-19T20:14:03Z",
+    "stars": 104657,
+    "updated_at": "2026-10-19T20:25:25Z",
     "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Claude Code skills for AI code review \u2014 trace a user action through the code and explain every step",
+    "id": "JashIbra/request-trace",
+    "language": "\u2014",
+    "name": "JashIbra/request-trace",
+    "stars": 3,
+    "updated_at": "2026-10-19T20:13:39Z",
+    "url": "https://github.com/JashIbra/request-trace"
   },
   {
     "description": "Claude Code and Codex as a second brain with persistent memory: 232 battle-tested skills as a plugin marketplace, an opt",
@@ -34,42 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T20:13:13Z",
     "url": "https://github.com/clinical-biomarkers/biomarker-sdtm"
-  },
-  {
-    "description": "Installable AI-agent skills for image optimization and media APIs, with eval prompts to regression-test agent behavior",
-    "id": "IgorVaryvoda/image-optimization-skill",
-    "language": "JavaScript",
-    "name": "IgorVaryvoda/image-optimization-skill",
-    "stars": 0,
-    "updated_at": "2026-10-19T20:11:44Z",
-    "url": "https://github.com/IgorVaryvoda/image-optimization-skill"
-  },
-  {
-    "description": "cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k",
-    "id": "eduair94/cambio-uruguay",
-    "language": "TypeScript",
-    "name": "eduair94/cambio-uruguay",
-    "stars": 8,
-    "updated_at": "2026-10-19T20:14:39Z",
-    "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "Collection of my personal claude skills",
-    "id": "pgoell/pgoell-claude-tools",
-    "language": "HTML",
-    "name": "pgoell/pgoell-claude-tools",
-    "stars": 1,
-    "updated_at": "2026-10-19T20:10:25Z",
-    "url": "https://github.com/pgoell/pgoell-claude-tools"
-  },
-  {
-    "description": "Skills that started with problems I encountered.",
-    "id": "MrBinnacle/skills",
-    "language": "Python",
-    "name": "MrBinnacle/skills",
-    "stars": 1,
-    "updated_at": "2026-10-19T20:09:19Z",
-    "url": "https://github.com/MrBinnacle/skills"
   },
   {
     "description": "\u65e5\u672c\u3067\u306e\u66ae\u3089\u3057\u3092\u624b\u4f1d\u3046AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u5411\u3051\u30b9\u30ad\u30eb\u96c6 - \u6c17\u8c61\u5e81\u30fb\u5185\u95a3\u5e9c\u30fb\u30ab\u30fc\u30ea\u30eb\u306e\u516c\u5f0f\u30c7\u30fc\u30bf\u3092\u4f7f\u3063\u305f\u30ed\u30b0\u30a4\u30f3\u4e0d\u8981\u306e\u7167\u4f1a\u30b9\u30ad\u30eb",
@@ -162,15 +279,6 @@
     "url": "https://github.com/jrodrigopuca/local-agents"
   },
   {
-    "description": "Reusable Claude Code skills for Object Pascal work \u2014 dual-compiler Delphi/Lazarus projects",
-    "id": "fabianoallex/pascal-skills-faa",
-    "language": "Python",
-    "name": "fabianoallex/pascal-skills-faa",
-    "stars": 2,
-    "updated_at": "2026-10-19T20:01:28Z",
-    "url": "https://github.com/fabianoallex/pascal-skills-faa"
-  },
-  {
     "description": "Paste a video link, get a Claude skill. Turns tutorials on X, YouTube, TikTok, Instagram and Facebook into verified, ins",
     "id": "robert-botto/skipwatch",
     "language": "Python",
@@ -178,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-10-19T20:00:21Z",
     "url": "https://github.com/robert-botto/skipwatch"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-19T20:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "8 agent skills for real Figma files, for Claude Code, Codex, Copilot CLI and Gemini CLI: 90 Plugin API gotchas, checks b",
@@ -205,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-10-19T19:59:06Z",
     "url": "https://github.com/getedgehq/skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 120,
-    "updated_at": "2026-10-19T19:59:03Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Claude Code plugin: generate and edit images through the Codex CLI on your ChatGPT plan (no API key), and see what each ",
@@ -252,15 +342,6 @@
     "url": "https://github.com/marichalnick/sales-skills-for-claude"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70200,
-    "updated_at": "2026-10-19T20:14:44Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "A living library of B2B marketing Claude skill files built from the Exit Five B2B marketing podcast. Every skill sourced",
     "id": "the-nam-shub/e5-real-skills",
     "language": "TypeScript",
@@ -292,7 +373,7 @@
     "id": "coreyhaines31/marketingskills",
     "language": "JavaScript",
     "name": "coreyhaines31/marketingskills",
-    "stars": 55531,
+    "stars": 55533,
     "updated_at": "2026-10-19T19:53:12Z",
     "url": "https://github.com/coreyhaines31/marketingskills"
   },
@@ -367,86 +448,5 @@
     "stars": 8,
     "updated_at": "2026-10-19T19:48:33Z",
     "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Claude skill + Playwright runner that checks a customer journey really saved its result, not just showed a success messa",
-    "id": "OmxKamesh/customer-path-proof",
-    "language": "JavaScript",
-    "name": "OmxKamesh/customer-path-proof",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:48:33Z",
-    "url": "https://github.com/OmxKamesh/customer-path-proof"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:48:15Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Claude Code session handoffs \u2014 now a Claude Code mod: /compact-handoff swaps the conversation for a validated handoff an",
-    "id": "REMvisual/claude-handoff",
-    "language": "TypeScript",
-    "name": "REMvisual/claude-handoff",
-    "stars": 65,
-    "updated_at": "2026-10-19T19:46:56Z",
-    "url": "https://github.com/REMvisual/claude-handoff"
-  },
-  {
-    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-    "id": "ayghri/i-have-adhd",
-    "language": "Python",
-    "name": "ayghri/i-have-adhd",
-    "stars": 57832,
-    "updated_at": "2026-10-19T19:46:23Z",
-    "url": "https://github.com/ayghri/i-have-adhd"
-  },
-  {
-    "description": "Claude Code plugin: grades every plan Claude writes against 14 Hemingway rules and rewrites docs to an A.",
-    "id": "gagoar/iceberg",
-    "language": "TypeScript",
-    "name": "gagoar/iceberg",
-    "stars": 8,
-    "updated_at": "2026-10-19T19:45:13Z",
-    "url": "https://github.com/gagoar/iceberg"
-  },
-  {
-    "description": "Unofficial Claude Code plugin: lets Claude drive PhotoCraft, the open-source Photoshop-style editor, on macOS (live app ",
-    "id": "mendelabramzon/photocraft-skill",
-    "language": "Python",
-    "name": "mendelabramzon/photocraft-skill",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:44:51Z",
-    "url": "https://github.com/mendelabramzon/photocraft-skill"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 101789,
-    "updated_at": "2026-10-19T19:44:25Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Plan social media campaigns, review posts, schedule approved publishing and read saved Insights through the Influence MC",
-    "id": "influence-so/influence-mcp",
-    "language": "\u2014",
-    "name": "influence-so/influence-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-19T19:43:10Z",
-    "url": "https://github.com/influence-so/influence-mcp"
-  },
-  {
-    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
-    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "language": "Python",
-    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "stars": 17,
-    "updated_at": "2026-10-19T19:42:06Z",
-    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
   }
 ]
