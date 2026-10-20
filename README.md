@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 16:30 UTC
+> ⏰ Last updated: 2026-10-20 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ph3on1x/agent-plugins-skills](https://github.com/ph3on1x/agent-plugins-skills) | 0 | Python | 2026-10-20 | Agent skills and plugins for AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity. One plugin marketpla |
-| 2 | [gauntlet-skills/gauntlet](https://github.com/gauntlet-skills/gauntlet) | 0 | JavaScript | 2026-10-20 | Three Claude Code skills for building, security hardening, reviewing every change, and proving it's ready to ship. |
-| 3 | [geevarghesekthomas84-sys/image-style-skill](https://github.com/geevarghesekthomas84-sys/image-style-skill) | 3 | Python | 2026-10-20 | SlashFrame (image-style): 403 slash commands that turn a short idea into a finished AI image prompt. Claude, ChatGPT, Ge |
-| 4 | [beatra-ai/xiaohongshu-copywriter-skill](https://github.com/beatra-ai/xiaohongshu-copywriter-skill) | 4 | Python | 2026-10-20 | Xiaohongshu copywriter agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a product, experienc |
-| 5 | [YunusErdemSihhatli/dry-launch](https://github.com/YunusErdemSihhatli/dry-launch) | 0 | Python | 2026-10-20 | A pre-launch dry run for Claude Code: simulated buyers, users and influencers hear your keynote, rate features, answer p |
-| 6 | [ham7a311/Vitrine](https://github.com/ham7a311/Vitrine) | 10 | TypeScript | 2026-10-20 | Vitrine is an open-soruce UI component library, with more than 500 components, we have ready-made portfolio-temapltes an |
-| 7 | [beatra-ai/xiaohongshu-cover-maker-skill](https://github.com/beatra-ai/xiaohongshu-cover-maker-skill) | 4 | Python | 2026-10-20 | Xiaohongshu cover maker agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a photo or topic id |
-| 8 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 105103 | TypeScript | 2026-10-20 | The open-source app everyone uses to manage agents at work |
-| 9 | [SELAT-AI/selat-skills](https://github.com/SELAT-AI/selat-skills) | 2 | JavaScript | 2026-10-20 |  |
-| 10 | [adamriofc/indonesian-business-agent-skills](https://github.com/adamriofc/indonesian-business-agent-skills) | 2 | JavaScript | 2026-10-20 | Production-oriented AI domain-intelligence infrastructure for Indonesian legal, tax, HR, finance, marketing, and strateg |
-| 11 | [skeptrunedev/call4me](https://github.com/skeptrunedev/call4me) | 13 | TypeScript | 2026-10-20 | Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live |
-| 12 | [beatra-ai/ecommerce-product-images-skill](https://github.com/beatra-ai/ecommerce-product-images-skill) | 4 | Python | 2026-10-20 | Ecommerce product images agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn real product photo |
-| 13 | [svd/agent-skills](https://github.com/svd/agent-skills) | 1 | TypeScript | 2026-10-20 | Claude Code plugins: ctx-guard (context & usage-limit guard with safe auto-restart), session-handoff, session-analyzer,  |
-| 14 | [nuncaeslupus/literary-critic](https://github.com/nuncaeslupus/literary-critic) | 0 | Python | 2026-10-20 | Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts. |
-| 15 | [beatra-ai/ai-product-photography-skill](https://github.com/beatra-ai/ai-product-photography-skill) | 5 | Python | 2026-10-20 | AI product photography agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a real product photo |
-| 16 | [trevhud/rote](https://github.com/trevhud/rote) | 8 | Python | 2026-10-20 | Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop |
-| 17 | [valeryia-piatrova/jsonlogic-skill](https://github.com/valeryia-piatrova/jsonlogic-skill) | 4 | HTML | 2026-10-20 | JsonLogic skill for AI coding agents: generate, validate, run and debug JsonLogic rules. Claude Code, Cursor, Copilot, C |
-| 18 | [noqt/yumi-decision-ledger](https://github.com/noqt/yumi-decision-ledger) | 0 | Python | 2026-10-20 | Hosted anonymous MCP/HTTP: PyPI wheel evidence; mathematical IPv4/IPv6 CIDR-set differences, counts and witnesses. Exact |
-| 19 | [beatra-ai/lyrics-to-song-skill](https://github.com/beatra-ai/lyrics-to-song-skill) | 4 | Python | 2026-10-20 | Lyrics to song agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn full lyrics, a rough draft,  |
-| 20 | [beatra-ai/ai-music-generator-skill](https://github.com/beatra-ai/ai-music-generator-skill) | 5 | Python | 2026-10-20 | AI music generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a theme, lyrics, scene,  |
-| 21 | [Bria-AI/bria-skill](https://github.com/Bria-AI/bria-skill) | 70 | Python | 2026-10-20 | Claude Code skills for Bria AI - generate, edit, and transform images with Fibo, RMBG-2.0, and VGL structured prompts |
-| 22 | [beatra-ai/ai-video-generator-skill](https://github.com/beatra-ai/ai-video-generator-skill) | 4 | Python | 2026-10-20 | AI video generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: generate, animate, edit, and  |
-| 23 | [jutsuhq/higgsfield-prompts](https://github.com/jutsuhq/higgsfield-prompts) | 1 | Shell | 2026-10-20 | Seedance 2.5 prompt skill for Higgsfield AI video: image-to-video, motion transfer, multi-shot and 30s one-take prompts  |
-| 24 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 129 | Python | 2026-10-20 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 25 | [Infinite-Monkey-Lab/keresearch](https://github.com/Infinite-Monkey-Lab/keresearch) | 0 | Shell | 2026-10-20 | 🧪 科研全生命周期 Agent Skills（ZCode / Claude Code 通用）：选题 → 实验 → 写作 → 投稿 \| Research-lifecycle skills: topic selection → experime |
-| 26 | [beatra-ai/ai-image-generator-skill](https://github.com/beatra-ai/ai-image-generator-skill) | 4 | Python | 2026-10-20 | AI image generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: generate, compose, and edit p |
-| 27 | [carrot1445/Deadspace-Remover-for-Tiktok-instagram-reels](https://github.com/carrot1445/Deadspace-Remover-for-Tiktok-instagram-reels) | 1 | Python | 2026-10-20 | Claude Code skill: cut the dead space out of talking-head videos — between sentences only, tight to speech, never clips  |
-| 28 | [ShadowSwaps/REA-Reconstruction-Companion](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) | 85 | JavaScript | 2026-10-20 | Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po |
-| 29 | [TyrusRC/praetor](https://github.com/TyrusRC/praetor) | 6 | Python | 2026-10-20 | Agentic pentest & red-team harness via Burp Suite MCP toolkit |
-| 30 | [CitiesSkylinesModding/agents-plugins](https://github.com/CitiesSkylinesModding/agents-plugins) | 7 | C# | 2026-10-20 | 🤖 Drive your Coherent Gameface game's UI with a Claude/Codex plugin with an MCP server and skills |
-| 31 | [narendrachampaneri/htpd](https://github.com/narendrachampaneri/htpd) | 0 | Python | 2026-10-20 | HTPD (Hyper Text Portable Document): convert PDFs into one AI-readable file, so any AI answers from the document with pa |
-| 32 | [Kimeur/duology](https://github.com/Kimeur/duology) | 10 | Swift | 2026-10-20 | Claude Code skills for designing, building, testing and shipping apps on iPhone Duo and iOS 27. Layout patterns, app rec |
-| 33 | [aitit-inc/leadace](https://github.com/aitit-inc/leadace) | 3 | TypeScript | 2026-10-20 | AI sales rep for Claude Code. Finds prospects, researches each company, writes and sends outbound email from your own in |
-| 34 | [build-error/terminal-math](https://github.com/build-error/terminal-math) | 0 | — | 2026-10-20 | Agent skill: render math as multi-line Unicode in the terminal instead of raw LaTeX |
-| 35 | [derob98/ailmanac](https://github.com/derob98/ailmanac) | 8 | MDX | 2026-10-20 | Claude has never seen 68% of the Claude Code docs: research, interactive charts and a plugin that tells it what it misse |
-| 36 | [lodar/caveman-marketing](https://github.com/lodar/caveman-marketing) | 1 | Python | 2026-10-20 | Agent skill (Claude Code, SKILL.md) that cuts any ad, landing page or signup to one picture, 15 words and one button, so |
-| 37 | [posteverywhere/claude-plugin](https://github.com/posteverywhere/claude-plugin) | 1 | — | 2026-10-20 | PostEverywhere for Claude, Cursor, Gemini CLI, Codex and Copilot: write, schedule and publish social posts to 12 platfor |
-| 38 | [derwells/skills](https://github.com/derwells/skills) | 2 | Python | 2026-10-20 | Skills I day-to-day use with a fleet of agents |
-| 39 | [Mihai-Codes/cv-witness](https://github.com/Mihai-Codes/cv-witness) | 1 | HTML | 2026-10-20 | Agent skill for drafting and reviewing CVs from verified experience. Candidate-led wording, phrase-overlap review and lo |
-| 40 | [TsukiNi22/ai-utils](https://github.com/TsukiNi22/ai-utils) | 1 | C++ | 2026-10-20 | Ai skills based on my precedent work and style of dev |
-| 41 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | 1073 | Python | 2026-10-20 | Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen |
-| 42 | [kritikosgns-web/indie-launch-skills-lite](https://github.com/kritikosgns-web/indie-launch-skills-lite) | 0 | Shell | 2026-10-20 | 2 free Claude Code skills for indie launches: positioning and post-launch review |
-| 43 | [PickleBoxer/pickle](https://github.com/PickleBoxer/pickle) | 0 | Shell | 2026-10-20 | pickle for Claude Code: language-agnostic engineering playbooks and principles, lazy-loaded by effort level (low, medium |
-| 44 | [kritikosgns-web/freelancer-ops-skills-lite](https://github.com/kritikosgns-web/freelancer-ops-skills-lite) | 0 | Shell | 2026-10-20 | 3 free Claude Code skills for freelancers: proposals, scope creep replies, late-invoice reminders |
-| 45 | [sananthanarayan/skilldrop](https://github.com/sananthanarayan/skilldrop) | 2 | Python | 2026-10-20 | Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbooks, threat models, decks, SQL reviews, DP |
-| 46 | [layoza/layoza](https://github.com/layoza/layoza) | 2 | Rust | 2026-10-20 | MCP server + agent skills that make Claude Code, Cursor, Codex & OpenCode design like a senior UI/UX team: site design D |
-| 47 | [Ahmad1765/claude-mobile-game-playbook](https://github.com/Ahmad1765/claude-mobile-game-playbook) | 0 | JavaScript | 2026-10-20 | A Claude Code skill for building casual mobile games that run smoothly on cheap Android phones. Learned shipping four ga |
-| 48 | [wdcjx/Embedded-programming](https://github.com/wdcjx/Embedded-programming) | 1 | C | 2026-10-20 | STM32 开发辅助 Agent Skill（DSH / Claude Code）：标准库 SPL / HAL(CubeMX) / FreeRTOS 四轨代码生成，内置工程纪律检查器 validate_generated.py 与 29 条 |
-| 49 | [bostonaholic/grokbot-skills](https://github.com/bostonaholic/grokbot-skills) | 1 | — | 2026-10-20 | Reusable skills (SKILL.md playbooks) for Grok Bot and Cursor AI agents: routines, workflows, and agent best practices. |
-| 50 | [Zwl20085/jmag-agent-suite](https://github.com/Zwl20085/jmag-agent-suite) | 0 | Python | 2026-10-20 | All-in-one JMAG-Designer agent toolkit: MCP server (72 tools), physics checks and 10 Claude skills for electromagnetic F |
+| 1 | [boshu2/agentops](https://github.com/boshu2/agentops) | 450 | Go | 2026-10-20 | DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha |
+| 2 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 70229 | TypeScript | 2026-10-20 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 3 | [derwells/skills](https://github.com/derwells/skills) | 2 | Python | 2026-10-20 | Skills I day-to-day use with a fleet of agents |
+| 4 | [blisspixel/primr](https://github.com/blisspixel/primr) | 3 | Python | 2026-10-20 | Turn any company URL into a strategic intelligence brief. Adaptive scraping + AI-powered research and synthesis. |
+| 5 | [beatra-ai/photo-to-anime-skill](https://github.com/beatra-ai/photo-to-anime-skill) | 5 | Python | 2026-10-20 | Photo to anime agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: restyle a photo as anime, manga,  |
+| 6 | [Edward0l1/skill-flare-discover](https://github.com/Edward0l1/skill-flare-discover) | 1 | HTML | 2026-10-20 | Best AI Agent Skill Finder 2026 – Multi-Registry Install & Security Labels |
+| 7 | [zenstory-ai/drama-skills](https://github.com/zenstory-ai/drama-skills) | 3129 | Python | 2026-10-20 | 开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex \| Open-source AI short drama / micro-dra |
+| 8 | [trevhud/rote](https://github.com/trevhud/rote) | 8 | Python | 2026-10-20 | Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop |
+| 9 | [beatra-ai/ai-headshot-generator-skill](https://github.com/beatra-ai/ai-headshot-generator-skill) | 4 | Python | 2026-10-20 | AI headshot generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a casual selfie into  |
+| 10 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-10-20 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
+| 11 | [beatra-ai/multilingual-voiceover-skill](https://github.com/beatra-ai/multilingual-voiceover-skill) | 5 | Python | 2026-10-20 | Multilingual voiceover agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: create voice-over audio f |
+| 12 | [mimukit/skills](https://github.com/mimukit/skills) | 1 | Shell | 2026-10-20 | My personal collection of AI agent skills; the *kit family. Portable, one install away. |
+| 13 | [Ford-1/postgresql-mcp-connector](https://github.com/Ford-1/postgresql-mcp-connector) | 0 | HTML | 2026-10-20 | PostgreSQL MCP 2026 Best AI Database Access Tool for Developers |
+| 14 | [kl-autonomous/agent-team-skills](https://github.com/kl-autonomous/agent-team-skills) | 2 | HTML | 2026-10-20 | Two Claude Code skills for running a team of Claude sessions: a chief-of-staff session between you and the team, and an  |
+| 15 | [beatra-ai/talking-avatar-video-skill](https://github.com/beatra-ai/talking-avatar-video-skill) | 5 | Python | 2026-10-20 | Talking avatar video agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn one portrait and a scr |
+| 16 | [BENZEMA216/awesome-weread](https://github.com/BENZEMA216/awesome-weread) | 67 | JavaScript | 2026-10-20 | 基于微信读书官方 Agent Skill 的二创项目精选 · Curated projects built on WeRead's official Agent Skill (released 2026-05-17) |
+| 17 | [munexor/seo-opportunity-nexus](https://github.com/munexor/seo-opportunity-nexus) | 0 | HTML | 2026-10-20 | SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools |
+| 18 | [arnoldalberto007-sys/Swift-UIKit-Components](https://github.com/arnoldalberto007-sys/Swift-UIKit-Components) | 1 | HTML | 2026-10-20 | Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns |
+| 19 | [beatra-ai/ai-audiobook-generator-skill](https://github.com/beatra-ai/ai-audiobook-generator-skill) | 4 | Python | 2026-10-20 | AI audiobook generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a final manuscript o |
+| 20 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 105105 | TypeScript | 2026-10-20 | The open-source app everyone uses to manage agents at work |
+| 21 | [layoza/layoza](https://github.com/layoza/layoza) | 2 | Rust | 2026-10-20 | MCP server + agent skills that make Claude Code, Cursor, Codex & OpenCode design like a senior UI/UX team: site design D |
+| 22 | [beatra-ai/ai-podcast-voiceover-skill](https://github.com/beatra-ai/ai-podcast-voiceover-skill) | 5 | Python | 2026-10-20 | AI podcast voiceover agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn an article, notes, or  |
+| 23 | [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) | 30980 | TypeScript | 2026-10-20 | A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco |
+| 24 | [Kimeur/duology](https://github.com/Kimeur/duology) | 10 | Swift | 2026-10-20 | Claude Code skills for designing, building, testing and shipping apps on iPhone Duo and iOS 27. Layout patterns, app rec |
+| 25 | [beatra-ai/ai-voice-cloning-skill](https://github.com/beatra-ai/ai-voice-cloning-skill) | 4 | Python | 2026-10-20 | AI voice cloning agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: create a reusable personal or b |
+| 26 | [dagoSte/squadra](https://github.com/dagoSte/squadra) | 256 | Python | 2026-10-20 | Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound |
+| 27 | [eduair94/cambio-uruguay](https://github.com/eduair94/cambio-uruguay) | 8 | TypeScript | 2026-10-20 | cambio-uruguay.com: Uruguay exchange rates, rentals, used cars and prices. Public API, remote MCP server (29 tools, no k |
+| 28 | [gauntlet-skills/gauntlet](https://github.com/gauntlet-skills/gauntlet) | 0 | JavaScript | 2026-10-20 | Three Claude Code skills for building, security hardening, reviewing every change, and proving it's ready to ship. |
+| 29 | [dyrok/imagine-agy](https://github.com/dyrok/imagine-agy) | 1 | Python | 2026-10-20 | Let Claude Code generate images. An agent skill + text-to-image CLI that turns Google's Antigravity CLI (agy) into an AI |
+| 30 | [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 154 | Python | 2026-10-20 | My collection of Claude skills |
+| 31 | [beatra-ai/ai-voiceover-generator-skill](https://github.com/beatra-ai/ai-voiceover-generator-skill) | 5 | Python | 2026-10-20 | AI voiceover generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: pick or reuse a voice, tu |
+| 32 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-10-20 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 33 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 129 | Python | 2026-10-20 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 34 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 23 | Shell | 2026-10-20 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
+| 35 | [ph3on1x/agent-plugins-skills](https://github.com/ph3on1x/agent-plugins-skills) | 0 | TypeScript | 2026-10-20 | Agent skills and plugins for AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity. One plugin marketpla |
+| 36 | [geevarghesekthomas84-sys/image-style-skill](https://github.com/geevarghesekthomas84-sys/image-style-skill) | 3 | Python | 2026-10-20 | SlashFrame (image-style): 403 slash commands that turn a short idea into a finished AI image prompt. Claude, ChatGPT, Ge |
+| 37 | [beatra-ai/xiaohongshu-copywriter-skill](https://github.com/beatra-ai/xiaohongshu-copywriter-skill) | 4 | Python | 2026-10-20 | Xiaohongshu copywriter agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a product, experienc |
+| 38 | [YunusErdemSihhatli/dry-launch](https://github.com/YunusErdemSihhatli/dry-launch) | 0 | Python | 2026-10-20 | A pre-launch dry run for Claude Code: simulated buyers, users and influencers hear your keynote, rate features, answer p |
+| 39 | [ham7a311/Vitrine](https://github.com/ham7a311/Vitrine) | 10 | TypeScript | 2026-10-20 | Vitrine is an open-soruce UI component library, with more than 500 components, we have ready-made portfolio-temapltes an |
+| 40 | [beatra-ai/xiaohongshu-cover-maker-skill](https://github.com/beatra-ai/xiaohongshu-cover-maker-skill) | 4 | Python | 2026-10-20 | Xiaohongshu cover maker agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a photo or topic id |
+| 41 | [ShadowSwaps/REA-Reconstruction-Companion](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) | 86 | JavaScript | 2026-10-20 | Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po |
+| 42 | [SELAT-AI/selat-skills](https://github.com/SELAT-AI/selat-skills) | 2 | JavaScript | 2026-10-20 |  |
+| 43 | [adamriofc/indonesian-business-agent-skills](https://github.com/adamriofc/indonesian-business-agent-skills) | 2 | JavaScript | 2026-10-20 | Production-oriented AI domain-intelligence infrastructure for Indonesian legal, tax, HR, finance, marketing, and strateg |
+| 44 | [skeptrunedev/call4me](https://github.com/skeptrunedev/call4me) | 13 | TypeScript | 2026-10-20 | Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live |
+| 45 | [beatra-ai/ecommerce-product-images-skill](https://github.com/beatra-ai/ecommerce-product-images-skill) | 4 | Python | 2026-10-20 | Ecommerce product images agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn real product photo |
+| 46 | [svd/agent-skills](https://github.com/svd/agent-skills) | 1 | TypeScript | 2026-10-20 | Claude Code plugins: ctx-guard (context & usage-limit guard with safe auto-restart), session-handoff, session-analyzer,  |
+| 47 | [nuncaeslupus/literary-critic](https://github.com/nuncaeslupus/literary-critic) | 0 | Python | 2026-10-20 | Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts. |
+| 48 | [beatra-ai/ai-product-photography-skill](https://github.com/beatra-ai/ai-product-photography-skill) | 5 | Python | 2026-10-20 | AI product photography agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a real product photo |
+| 49 | [imagile-dev/claude-plugins](https://github.com/imagile-dev/claude-plugins) | 4 | JavaScript | 2026-10-20 | Claude Code plugins from Imagile: dev tools anyone can use, plus Sunny's personal skills |
+| 50 | [valeryia-piatrova/jsonlogic-skill](https://github.com/valeryia-piatrova/jsonlogic-skill) | 4 | HTML | 2026-10-20 | JsonLogic skill for AI coding agents: generate, validate, run and debug JsonLogic rules. Claude Code, Cursor, Copilot, C |
 <!-- TRACKER_TABLE_END -->
 
 ---
