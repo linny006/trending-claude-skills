@@ -1,5 +1,140 @@
 [
   {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:29:49Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 4,
+    "updated_at": "2026-10-20T00:27:15Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "\ucee4\ub9ac\uc5b4 AI \ud65c\uc6a9\uae30 \u2014 \uc774\uc9c1 \uc900\ube44\ub97c \uc704\ud55c Claude \uc2a4\ud0ac \ubaa8\uc74c",
+    "id": "findot-ai/career-ai-skills",
+    "language": "\u2014",
+    "name": "findot-ai/career-ai-skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:26:58Z",
+    "url": "https://github.com/findot-ai/career-ai-skills"
+  },
+  {
+    "description": "ResearchPhO: a Claude Code skill that turns papers, a new field's literature or a research proposal into a research-base",
+    "id": "DarrenWongKaWa/ResearchPhO",
+    "language": "Python",
+    "name": "DarrenWongKaWa/ResearchPhO",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:26:55Z",
+    "url": "https://github.com/DarrenWongKaWa/ResearchPhO"
+  },
+  {
+    "description": "Claude Code skills that turn legacy (mainframe COBOL/CICS/JCL/DB2) code into versioned, traceable BRD/FRD/SRD requiremen",
+    "id": "YarlisAISolutions/yarlis-modernization",
+    "language": "Python",
+    "name": "YarlisAISolutions/yarlis-modernization",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:25:39Z",
+    "url": "https://github.com/YarlisAISolutions/yarlis-modernization"
+  },
+  {
+    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
+    "id": "the911fund/skill-of-skills",
+    "language": "Python",
+    "name": "the911fund/skill-of-skills",
+    "stars": 79,
+    "updated_at": "2026-10-20T00:25:04Z",
+    "url": "https://github.com/the911fund/skill-of-skills"
+  },
+  {
+    "description": "Tested skills, subagents and hooks for Claude Code: route work to the cheapest capable model, pass gates by exit code, p",
+    "id": "ehnruiz/claude-skills",
+    "language": "JavaScript",
+    "name": "ehnruiz/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-20T00:24:40Z",
+    "url": "https://github.com/ehnruiz/claude-skills"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 9,
+    "updated_at": "2026-10-20T00:23:34Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-20T00:23:14Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 104734,
+    "updated_at": "2026-10-20T00:29:56Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-10-20T00:23:00Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
+    "id": "jgoneit/jaekit",
+    "language": "Python",
+    "name": "jgoneit/jaekit",
+    "stars": 0,
+    "updated_at": "2026-10-20T00:21:33Z",
+    "url": "https://github.com/jgoneit/jaekit"
+  },
+  {
+    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 37,
+    "updated_at": "2026-10-20T00:17:07Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
+    "id": "victorrentea/human-review",
+    "language": "Python",
+    "name": "victorrentea/human-review",
+    "stars": 29,
+    "updated_at": "2026-10-20T00:16:03Z",
+    "url": "https://github.com/victorrentea/human-review"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-20T00:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Reductionism vs systems thinking for product decisions. Two lenses argue your call, a Cynefin referee decides who leads,",
     "id": "ardaasaroglu/reductionism-vs-systems-thinking",
     "language": "JavaScript",
@@ -63,15 +198,6 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 104730,
-    "updated_at": "2026-10-20T00:09:14Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Claude Code plugin: grades every plan Claude writes against 14 Hemingway rules and rewrites docs to an A.",
     "id": "gagoar/iceberg",
     "language": "TypeScript",
@@ -86,7 +212,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70204,
-    "updated_at": "2026-10-20T00:15:11Z",
+    "updated_at": "2026-10-20T00:29:35Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -94,7 +220,7 @@
     "id": "juliobsz/skills",
     "language": "JavaScript",
     "name": "juliobsz/skills",
-    "stars": 654,
+    "stars": 655,
     "updated_at": "2026-10-20T00:06:53Z",
     "url": "https://github.com/juliobsz/skills"
   },
@@ -108,21 +234,12 @@
     "url": "https://github.com/wireflowINC/skills"
   },
   {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 29,
-    "updated_at": "2026-10-20T00:04:57Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
     "description": "A bot that tunes up your other agents, with a built-in skill index. Ask for the job in plain English. The bot picks up o",
     "id": "Viaknox/tune-up",
     "language": "JavaScript",
     "name": "Viaknox/tune-up",
     "stars": 0,
-    "updated_at": "2026-10-20T00:04:32Z",
+    "updated_at": "2026-10-20T00:26:27Z",
     "url": "https://github.com/Viaknox/tune-up"
   },
   {
@@ -140,17 +257,8 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 149,
-    "updated_at": "2026-10-20T00:00:30Z",
+    "updated_at": "2026-10-20T00:23:10Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-20T00:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skills that turn a user request into a finished song through theory-based composition, arrangement, mixing and mas",
@@ -158,7 +266,7 @@
     "language": "Python",
     "name": "emdashsmoker/music-agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-20T00:00:01Z",
+    "updated_at": "2026-10-20T00:19:35Z",
     "url": "https://github.com/emdashsmoker/music-agent-skills"
   },
   {
@@ -283,7 +391,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 85853,
+    "stars": 85855,
     "updated_at": "2026-10-19T23:36:43Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -295,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-19T23:36:40Z",
     "url": "https://github.com/pgoell/pgoell-claude-tools"
-  },
-  {
-    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 37,
-    "updated_at": "2026-10-19T23:52:37Z",
-    "url": "https://github.com/curie-eng/curie"
   },
   {
     "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-19T23:27:38Z",
     "url": "https://github.com/sinaida-space/soulstice-skill"
-  },
-  {
-    "description": "#sinaida-skill \u2728 multi-model claude plugin that routes creative and technical work to the ai model that fits each task",
-    "id": "sinaida-space/mahler-the-orchestrator",
-    "language": "\u2014",
-    "name": "sinaida-space/mahler-the-orchestrator",
-    "stars": 5,
-    "updated_at": "2026-10-19T23:27:33Z",
-    "url": "https://github.com/sinaida-space/mahler-the-orchestrator"
-  },
-  {
-    "description": "#sinaida-skill \u2728 one skill to make all the slide decks",
-    "id": "sinaida-space/walk-on-a-slide-side",
-    "language": "Python",
-    "name": "sinaida-space/walk-on-a-slide-side",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:27:23Z",
-    "url": "https://github.com/sinaida-space/walk-on-a-slide-side"
-  },
-  {
-    "description": "#sinaida-skill \u2728 a skill that argues with your idea until it becomes something real",
-    "id": "sinaida-space/for-tee-too",
-    "language": "\u2014",
-    "name": "sinaida-space/for-tee-too",
-    "stars": 4,
-    "updated_at": "2026-10-19T23:27:17Z",
-    "url": "https://github.com/sinaida-space/for-tee-too"
-  },
-  {
-    "description": "#sinaida-skill \u2728 claude code skill that turns a rough video idea into a copy-ready seedance 2.0 prompt through a directo",
-    "id": "sinaida-space/seedance_prompter",
-    "language": "\u2014",
-    "name": "sinaida-space/seedance_prompter",
-    "stars": 2,
-    "updated_at": "2026-10-19T23:27:12Z",
-    "url": "https://github.com/sinaida-space/seedance_prompter"
-  },
-  {
-    "description": "#sinaida-skill \u2728 typography check for generated texts",
-    "id": "sinaida-space/tardis_type",
-    "language": "Python",
-    "name": "sinaida-space/tardis_type",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:27:06Z",
-    "url": "https://github.com/sinaida-space/tardis_type"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:26:58Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Jarvis: one lead agent you talk to, a fleet of workers that builds. A Superset plugin with usage-aware model routing acr",
-    "id": "gorock007/superset-jarvis",
-    "language": "Shell",
-    "name": "gorock007/superset-jarvis",
-    "stars": 1,
-    "updated_at": "2026-10-19T23:26:50Z",
-    "url": "https://github.com/gorock007/superset-jarvis"
-  },
-  {
-    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
-    "id": "allxsmith/bestax-skills",
-    "language": "TypeScript",
-    "name": "allxsmith/bestax-skills",
-    "stars": 2,
-    "updated_at": "2026-10-19T23:26:28Z",
-    "url": "https://github.com/allxsmith/bestax-skills"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:26:27Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-10-19T23:26:01Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
-    "id": "alexzvency-ship-it/claude-browser-automator",
-    "language": "HTML",
-    "name": "alexzvency-ship-it/claude-browser-automator",
-    "stars": 2,
-    "updated_at": "2026-10-19T23:24:40Z",
-    "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
   }
 ]
