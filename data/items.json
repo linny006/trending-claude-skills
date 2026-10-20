@@ -1,11 +1,74 @@
 [
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105144,
+    "updated_at": "2026-10-20T18:42:28Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:41:20Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 3,
+    "updated_at": "2026-10-20T18:39:50Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-20T18:39:40Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Agent skills that turn a user request into a finished song through theory-based composition, arrangement, mixing and mas",
+    "id": "emdashsmoker/music-agent-skills",
+    "language": "Python",
+    "name": "emdashsmoker/music-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:39:01Z",
+    "url": "https://github.com/emdashsmoker/music-agent-skills"
+  },
+  {
+    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
+    "id": "longsizhuo/openInvest",
+    "language": "Python",
+    "name": "longsizhuo/openInvest",
+    "stars": 124,
+    "updated_at": "2026-10-20T18:44:32Z",
+    "url": "https://github.com/longsizhuo/openInvest"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-20T18:37:33Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
     "id": "inkatze/planwright",
     "language": "Shell",
     "name": "inkatze/planwright",
     "stars": 5,
-    "updated_at": "2026-10-20T18:36:31Z",
+    "updated_at": "2026-10-20T18:43:32Z",
     "url": "https://github.com/inkatze/planwright"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/ISOpeet/oosterwal-seo-geo"
   },
   {
-    "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
-    "id": "longsizhuo/openInvest",
-    "language": "Python",
-    "name": "longsizhuo/openInvest",
-    "stars": 124,
-    "updated_at": "2026-10-20T18:33:40Z",
-    "url": "https://github.com/longsizhuo/openInvest"
-  },
-  {
     "description": "\u901a\u8fc7\u7ecf\u5386\u589e\u91cf\u79ef\u7d2f\u8bb0\u5fc6\u3001\u4fee\u6b63\u8ba4\u8bc6\u3001\u9010\u6e10\u5f62\u6210\u7406\u89e3\u7684\u8ba4\u77e5\u7cfb\u7edf\uff08Accumulate memory, revise knowledge and gradually form a cognitive system of understanding t",
     "id": "qingmingyiyang/Incremind",
     "language": "Python",
@@ -81,21 +135,12 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105138,
-    "updated_at": "2026-10-20T18:35:05Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
     "id": "escoffier-labs/brigade",
     "language": "Python",
     "name": "escoffier-labs/brigade",
     "stars": 78,
-    "updated_at": "2026-10-20T18:33:30Z",
+    "updated_at": "2026-10-20T18:37:39Z",
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-10-20T18:33:21Z",
+    "updated_at": "2026-10-20T18:45:02Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -122,17 +167,8 @@
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 1,
-    "updated_at": "2026-10-20T18:30:23Z",
+    "updated_at": "2026-10-20T18:43:05Z",
     "url": "https://github.com/MrBinnacle/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-20T18:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
@@ -221,8 +257,17 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70226,
-    "updated_at": "2026-10-20T18:35:57Z",
+    "updated_at": "2026-10-20T18:45:07Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agent skill that directs 9:16 social videos (Reels, TikTok, Shorts) by giving each beat to the layer that is reliable fo",
+    "id": "muhammad-ahmed-ghani/hybrid-social-video-skill",
+    "language": "Python",
+    "name": "muhammad-ahmed-ghani/hybrid-social-video-skill",
+    "stars": 0,
+    "updated_at": "2026-10-20T18:22:50Z",
+    "url": "https://github.com/muhammad-ahmed-ghani/hybrid-social-video-skill"
   },
   {
     "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T18:10:07Z",
     "url": "https://github.com/warodan/vscode-claude-code-patch"
-  },
-  {
-    "description": "Anchor & Tilt: a deterministic, Bogle-inspired ETF allocation rubric packaged as an AI skill. Same answers in, same port",
-    "id": "abnerk1/anchor-and-tilt",
-    "language": "\u2014",
-    "name": "abnerk1/anchor-and-tilt",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:09:29Z",
-    "url": "https://github.com/abnerk1/anchor-and-tilt"
-  },
-  {
-    "description": "Skills de valuation de a\u00e7\u00f5es e FIIs da B3: pre\u00e7o justo e pre\u00e7o-teto por regra quantitativa, com dados da CVM e do IBGE",
-    "id": "abnerk1/skills-b3",
-    "language": "Python",
-    "name": "abnerk1/skills-b3",
-    "stars": 0,
-    "updated_at": "2026-10-20T18:09:10Z",
-    "url": "https://github.com/abnerk1/skills-b3"
-  },
-  {
-    "description": "Multi-domain collection of rules, skills, and agents for Claude Code: dev-loop harness, Git workflow, DevOps/Kubernetes,",
-    "id": "alexeyshishin/as-skill",
-    "language": "Go",
-    "name": "alexeyshishin/as-skill",
-    "stars": 5,
-    "updated_at": "2026-10-20T18:08:51Z",
-    "url": "https://github.com/alexeyshishin/as-skill"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 30,
-    "updated_at": "2026-10-20T18:08:47Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "In-depth security-audit skills for Claude Code \u2014 deterministic tools first, every finding refuted, a verdict not a score",
-    "id": "V12X/v12x-skills",
-    "language": "Python",
-    "name": "V12X/v12x-skills",
-    "stars": 1,
-    "updated_at": "2026-10-20T18:08:45Z",
-    "url": "https://github.com/V12X/v12x-skills"
   }
 ]
