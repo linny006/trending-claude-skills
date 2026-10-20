@@ -1,5 +1,185 @@
 [
   {
+    "description": "Tested skills, subagents and hooks for Claude Code: route work to the cheapest capable model, pass gates by exit code, p",
+    "id": "ehnruiz/claude-skills",
+    "language": "JavaScript",
+    "name": "ehnruiz/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-10-20T06:14:44Z",
+    "url": "https://github.com/ehnruiz/claude-skills"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 6,
+    "updated_at": "2026-10-20T06:14:02Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Agent skill that gives anyone the judgment of a senior AI product manager: turn 'we want an agent' into a verified probl",
+    "id": "ChanMeng666/ai-product-manager-skill",
+    "language": "JavaScript",
+    "name": "ChanMeng666/ai-product-manager-skill",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:13:37Z",
+    "url": "https://github.com/ChanMeng666/ai-product-manager-skill"
+  },
+  {
+    "description": "SocialDataX skills for Xiaohongshu, XHS, RedNote, and Douyin content research",
+    "id": "DevinChen2014/socialdatax-skills",
+    "language": "JavaScript",
+    "name": "DevinChen2014/socialdatax-skills",
+    "stars": 5,
+    "updated_at": "2026-10-20T06:13:21Z",
+    "url": "https://github.com/DevinChen2014/socialdatax-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70209,
+    "updated_at": "2026-10-20T06:11:39Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "My personalised skills for my own Claude Code workflow.",
+    "id": "adiatmaja/skills",
+    "language": "\u2014",
+    "name": "adiatmaja/skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:09:36Z",
+    "url": "https://github.com/adiatmaja/skills"
+  },
+  {
+    "description": "Open-source job search Agent Skill and CLI: searches wide, matches one verified r\u00e9sum\u00e9, applies within your rules, track",
+    "id": "vaibhavarora14/job-application-agent",
+    "language": "JavaScript",
+    "name": "vaibhavarora14/job-application-agent",
+    "stars": 161,
+    "updated_at": "2026-10-20T06:09:37Z",
+    "url": "https://github.com/vaibhavarora14/job-application-agent"
+  },
+  {
+    "description": "\uce74\ub4dc\ub274\uc2a4\u00b7\uc378\ub124\uc77c\uc744 HTML\ub85c \uc9dc\uc11c \uc815\ud655\ud55c \ud06c\uae30 PNG\ub85c \ucc0d\ub294 Claude Code \uc2a4\ud0ac \u00b7 HTML to exact-size PNG via CDP",
+    "id": "reedodev/html-card-render",
+    "language": "JavaScript",
+    "name": "reedodev/html-card-render",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:08:11Z",
+    "url": "https://github.com/reedodev/html-card-render"
+  },
+  {
+    "description": "AI \uc791\uc5c5 \uae30\ub85d\uc744 \uc0ac\ub78c\u00b7AI \ud750\ub984\ud45c\uc640 \ub2e8\uacc4 \uce74\ub4dc \uac15\uc758\uc790\ub8cc\ub85c \ub9cc\ub4dc\ub294 Claude Code \uc2a4\ud0ac \u00b7 Work logs to HTML lecture decks",
+    "id": "reedodev/work-to-lecture-deck",
+    "language": "JavaScript",
+    "name": "reedodev/work-to-lecture-deck",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:04:31Z",
+    "url": "https://github.com/reedodev/work-to-lecture-deck"
+  },
+  {
+    "description": "AI \uc74c\uc131\uc758 \ub9c8\uc9c0\ub9c9 \uc74c\uc808 \ub04a\uae40\uc744 \ucc3e\uc544 \uace0\uce58\ub294 Claude Code \uc2a4\ud0ac \u00b7 Fix chopped TTS endings",
+    "id": "reedodev/tts-tail-fix",
+    "language": "Python",
+    "name": "reedodev/tts-tail-fix",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:04:28Z",
+    "url": "https://github.com/reedodev/tts-tail-fix"
+  },
+  {
+    "description": "\ud55c\ucef4\uc624\ud53c\uc2a4 \uc5c6\uc774 \ud55c\uae00(HWPX) \uc591\uc2dd \uce78\uc744 \ub77c\ubca8\ub85c \ucc44\uc6b0\uace0 \uac80\uc99d\ud558\ub294 Claude Code \uc2a4\ud0ac \u00b7 Fill HWPX forms by label",
+    "id": "reedodev/hwpx-form-fill",
+    "language": "Python",
+    "name": "reedodev/hwpx-form-fill",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:04:23Z",
+    "url": "https://github.com/reedodev/hwpx-form-fill"
+  },
+  {
+    "description": "Agent skills for launch films, product videos and motion graphics: music cut to picture, frame-accurate sound effects, m",
+    "id": "Meraj-08/motion-studio-skills",
+    "language": "Python",
+    "name": "Meraj-08/motion-studio-skills",
+    "stars": 1,
+    "updated_at": "2026-10-20T06:04:23Z",
+    "url": "https://github.com/Meraj-08/motion-studio-skills"
+  },
+  {
+    "description": "\ub124\uc774\ubc84 \uac80\uc0c9\ub7c9\uacfc \ube14\ub85c\uadf8 \ubb38\uc11c\uc218\ub85c \ud669\uae08\ud0a4\uc6cc\ub4dc\ub97c \uace0\ub974\ub294 Claude Code \uc2a4\ud0ac \u00b7 Naver golden keyword finder",
+    "id": "reedodev/naver-golden-keywords",
+    "language": "JavaScript",
+    "name": "reedodev/naver-golden-keywords",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:04:18Z",
+    "url": "https://github.com/reedodev/naver-golden-keywords"
+  },
+  {
+    "description": "\ud55c\uad6d\uc5b4 \uae00\uc758 \uc874\ub313\ub9d0\u00b7\ubc18\ub9d0 \uc11e\uc784\uacfc AI \ud2f0\ub97c \uc7a1\ub294 Claude Code \uc2a4\ud0ac \u00b7 Korean speech-level and AI-tell checker",
+    "id": "reedodev/korean-tone-check",
+    "language": "JavaScript",
+    "name": "reedodev/korean-tone-check",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:04:13Z",
+    "url": "https://github.com/reedodev/korean-tone-check"
+  },
+  {
+    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
+    "id": "sujal11101/hotel-ai-operations-suite",
+    "language": "HTML",
+    "name": "sujal11101/hotel-ai-operations-suite",
+    "stars": 2,
+    "updated_at": "2026-10-20T06:03:49Z",
+    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
+  },
+  {
+    "description": "Agent Skills for Stacksync: build two-way syncs, workflows, Genies and full integrations from Claude, ChatGPT, Codex, Cu",
+    "id": "stacksyncdata/skills",
+    "language": "JavaScript",
+    "name": "stacksyncdata/skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:03:29Z",
+    "url": "https://github.com/stacksyncdata/skills"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-20T06:12:45Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Claude Code + Grok plugin marketplace \u2014 18 curated plugins & MCP servers. One-command install.",
+    "id": "88plug/claude-code-plugins",
+    "language": "Python",
+    "name": "88plug/claude-code-plugins",
+    "stars": 1,
+    "updated_at": "2026-10-20T06:02:01Z",
+    "url": "https://github.com/88plug/claude-code-plugins"
+  },
+  {
+    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
+    "id": "Neetx/ai-security-research-radar",
+    "language": "Python",
+    "name": "Neetx/ai-security-research-radar",
+    "stars": 7,
+    "updated_at": "2026-10-20T06:01:33Z",
+    "url": "https://github.com/Neetx/ai-security-research-radar"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-20T06:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
     "id": "everyinfra/seo-skills",
     "language": "Python",
@@ -7,6 +187,15 @@
     "stars": 2,
     "updated_at": "2026-10-20T05:59:42Z",
     "url": "https://github.com/everyinfra/seo-skills"
+  },
+  {
+    "description": "Discover robotic skills for AI agents. A public repository of pinned robot code, executable recipes and reusable fixes.",
+    "id": "Superfast-Robotics/robot-skill-hub",
+    "language": "Python",
+    "name": "Superfast-Robotics/robot-skill-hub",
+    "stars": 0,
+    "updated_at": "2026-10-20T06:14:41Z",
+    "url": "https://github.com/Superfast-Robotics/robot-skill-hub"
   },
   {
     "description": "Crawlora Agent Skills \u2014 structured public web data (search, e-commerce, social, finance, app stores, media, reviews) via",
@@ -32,7 +221,7 @@
     "language": "Python",
     "name": "trevhud/rote",
     "stars": 8,
-    "updated_at": "2026-10-20T05:58:41Z",
+    "updated_at": "2026-10-20T06:15:10Z",
     "url": "https://github.com/trevhud/rote"
   },
   {
@@ -54,15 +243,6 @@
     "url": "https://github.com/reedodev/obsidian-brain-3d"
   },
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 6,
-    "updated_at": "2026-10-20T05:57:08Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
     "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
     "id": "Neetx/ai-research-radar",
     "language": "Python",
@@ -76,27 +256,9 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 104865,
+    "stars": 104872,
     "updated_at": "2026-10-20T05:56:22Z",
     "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "Discover robotics skills for AI agents. A public repository of pinned robot code, executable recipes and reusable fixes.",
-    "id": "Superfast-Robotics/robot-skill-hub",
-    "language": "Python",
-    "name": "Superfast-Robotics/robot-skill-hub",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:59:22Z",
-    "url": "https://github.com/Superfast-Robotics/robot-skill-hub"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 23,
-    "updated_at": "2026-10-20T05:59:03Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
@@ -104,7 +266,7 @@
     "language": "Shell",
     "name": "AN0099/toothpaste-kit",
     "stars": 1,
-    "updated_at": "2026-10-20T05:55:14Z",
+    "updated_at": "2026-10-20T06:00:46Z",
     "url": "https://github.com/AN0099/toothpaste-kit"
   },
   {
@@ -151,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:53:19Z",
     "url": "https://github.com/Maik326/rayfernando-skills"
-  },
-  {
-    "description": "\uce74\ub4dc\ub274\uc2a4\u00b7\uc378\ub124\uc77c\uc744 HTML\ub85c \uc9dc\uc11c \uc815\ud655\ud55c \ud06c\uae30 PNG\ub85c \ucc0d\ub294 Claude Code \uc2a4\ud0ac \u00b7 HTML to exact-size PNG via CDP",
-    "id": "reedodev/html-card-render",
-    "language": "JavaScript",
-    "name": "reedodev/html-card-render",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:52:50Z",
-    "url": "https://github.com/reedodev/html-card-render"
   },
   {
     "description": "Claude Code usage governor: compact professional output, context slimming, tool-output filtering, telemetry, and drift g",
@@ -257,7 +410,7 @@
     "language": "MDX",
     "name": "bromso/metapowers",
     "stars": 2,
-    "updated_at": "2026-10-20T05:48:11Z",
+    "updated_at": "2026-10-20T06:06:52Z",
     "url": "https://github.com/bromso/metapowers"
   },
   {
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T05:46:52Z",
     "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:46:07Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-10-20T05:45:51Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Turns vibe coding into high quality code. Sets up rules and gates in your repo so AI-written code stays correct without ",
-    "id": "Emre9581/gap-trap",
-    "language": "JavaScript",
-    "name": "Emre9581/gap-trap",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:45:33Z",
-    "url": "https://github.com/Emre9581/gap-trap"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-20T05:45:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Open-source Claude Code skills and Codex skills for AI-first work. Audit, re-engineer, and bootstrap projects with AI-fi",
-    "id": "Vladimir76893/ai-first-toolkit",
-    "language": "Python",
-    "name": "Vladimir76893/ai-first-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:44:40Z",
-    "url": "https://github.com/Vladimir76893/ai-first-toolkit"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70209,
-    "updated_at": "2026-10-20T05:58:37Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Open-source Claude Code skills and Codex skills for AI-first work. Audit, re-engineer, and bootstrap projects with AI-fi",
-    "id": "chenleh62/ai-first-toolkit",
-    "language": "Python",
-    "name": "chenleh62/ai-first-toolkit",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:42:46Z",
-    "url": "https://github.com/chenleh62/ai-first-toolkit"
-  },
-  {
-    "description": "Claude Code \u7684\u8a18\u61b6\u7cfb\u7d71 | A memory system built with hooks + markdown. Zero dependencies.",
-    "id": "AmberKondo/claude-memory-engine",
-    "language": "JavaScript",
-    "name": "AmberKondo/claude-memory-engine",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:42:33Z",
-    "url": "https://github.com/AmberKondo/claude-memory-engine"
-  },
-  {
-    "description": "Open-source job search Agent Skill and CLI: searches wide, matches one verified r\u00e9sum\u00e9, applies within your rules, track",
-    "id": "vaibhavarora14/job-application-agent",
-    "language": "JavaScript",
-    "name": "vaibhavarora14/job-application-agent",
-    "stars": 161,
-    "updated_at": "2026-10-20T05:42:36Z",
-    "url": "https://github.com/vaibhavarora14/job-application-agent"
-  },
-  {
-    "description": "Autonomous GitHub Project build \u2192 QA \u2192 review loop for Claude Code. One-line install.",
-    "id": "JosephGreco15/super-board",
-    "language": "CSS",
-    "name": "JosephGreco15/super-board",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:41:54Z",
-    "url": "https://github.com/JosephGreco15/super-board"
-  },
-  {
-    "description": "Agent skill collections for OpenCode/Claude/Cursor \u2014 installable per collection, local-first",
-    "id": "tpc-pascal/agent-skills",
-    "language": "Shell",
-    "name": "tpc-pascal/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-20T05:52:21Z",
-    "url": "https://github.com/tpc-pascal/agent-skills"
-  },
-  {
-    "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
-    "id": "JuliaLambert613/agent-skills",
-    "language": "Python",
-    "name": "JuliaLambert613/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:41:53Z",
-    "url": "https://github.com/JuliaLambert613/agent-skills"
-  },
-  {
-    "description": "Agent skills for launch films, product videos and motion graphics: music cut to picture, frame-accurate sound effects, m",
-    "id": "Meraj-08/motion-studio-skills",
-    "language": "Python",
-    "name": "Meraj-08/motion-studio-skills",
-    "stars": 1,
-    "updated_at": "2026-10-20T05:41:42Z",
-    "url": "https://github.com/Meraj-08/motion-studio-skills"
-  },
-  {
-    "description": "Claude SEO Skills \u2014 production Claude Agent Skills for the SE Ranking MCP server. Content briefs, AI Search share of voi",
-    "id": "canmattsson/seo-skills",
-    "language": "Python",
-    "name": "canmattsson/seo-skills",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:40:04Z",
-    "url": "https://github.com/canmattsson/seo-skills"
-  },
-  {
-    "description": "AI \uc791\uc5c5 \uae30\ub85d\uc744 \uc0ac\ub78c\u00b7AI \ud750\ub984\ud45c\uc640 \ub2e8\uacc4 \uce74\ub4dc \uac15\uc758\uc790\ub8cc\ub85c \ub9cc\ub4dc\ub294 Claude Code \uc2a4\ud0ac \u00b7 Work logs to HTML lecture decks",
-    "id": "reedodev/work-to-lecture-deck",
-    "language": "JavaScript",
-    "name": "reedodev/work-to-lecture-deck",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:39:28Z",
-    "url": "https://github.com/reedodev/work-to-lecture-deck"
-  },
-  {
-    "description": "AI \uc74c\uc131\uc758 \ub9c8\uc9c0\ub9c9 \uc74c\uc808 \ub04a\uae40\uc744 \ucc3e\uc544 \uace0\uce58\ub294 Claude Code \uc2a4\ud0ac \u00b7 Fix chopped TTS endings",
-    "id": "reedodev/tts-tail-fix",
-    "language": "Python",
-    "name": "reedodev/tts-tail-fix",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:39:23Z",
-    "url": "https://github.com/reedodev/tts-tail-fix"
-  },
-  {
-    "description": "\ub124\uc774\ubc84 \uac80\uc0c9\ub7c9\uacfc \ube14\ub85c\uadf8 \ubb38\uc11c\uc218\ub85c \ud669\uae08\ud0a4\uc6cc\ub4dc\ub97c \uace0\ub974\ub294 Claude Code \uc2a4\ud0ac \u00b7 Naver golden keyword finder",
-    "id": "reedodev/naver-golden-keywords",
-    "language": "JavaScript",
-    "name": "reedodev/naver-golden-keywords",
-    "stars": 0,
-    "updated_at": "2026-10-20T05:39:19Z",
-    "url": "https://github.com/reedodev/naver-golden-keywords"
   }
 ]
