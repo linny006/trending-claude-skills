@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-20 03:59 UTC
+> ⏰ Last updated: 2026-10-20 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [HsuanYuLee/polaris](https://github.com/HsuanYuLee/polaris) | 5 | Shell | 2026-10-20 | A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups |
-| 2 | [patrickserrano/lacquer](https://github.com/patrickserrano/lacquer) | 4 | Go | 2026-10-20 | Go CLI + profile templates that standardize how Claude Code works across every project |
-| 3 | [Ketbome/decomp-skills](https://github.com/Ketbome/decomp-skills) | 1 | Python | 2026-10-20 | Agent skills for matching decompilation of video games: per-function loop, parallel agents, toolchain forensics, session |
-| 4 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 2 | HTML | 2026-10-20 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
-| 5 | [iadr-dev/greenlight](https://github.com/iadr-dev/greenlight) | 1 | Python | 2026-10-20 | greenlight is a plugin for AI × BDD spec-driven development: a feature request        4 +becomes human-approved rules an |
-| 6 | [Kddffzsdfwa/renhua](https://github.com/Kddffzsdfwa/renhua) | 0 | — | 2026-10-20 | 人话：把一眼就是 AI 写的中文改成真人会说的话，事实一个字不改。Claude Agent Skill. |
-| 7 | [lispking/git-skills](https://github.com/lispking/git-skills) | 0 | — | 2026-10-20 | A powerful Claude Code Git assistant skill that provides intelligent branch management, commit message conventions, work |
-| 8 | [Superfast-Robotics/robot-skill-hub](https://github.com/Superfast-Robotics/robot-skill-hub) | 0 | Python | 2026-10-20 | Reuse the fix. Keep the context lean. Pinned robotics code, reusable findings, public MCP and CLI. |
-| 9 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 70209 | TypeScript | 2026-10-20 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
-| 10 | [EPISTEX0/web-ui-design-skill](https://github.com/EPISTEX0/web-ui-design-skill) | 0 | HTML | 2026-10-20 | A design skill for coding agents, distilled from 34 UI design skills and the evidence on them. Process over rule lists. |
-| 11 | [PawanSirsat/Laika](https://github.com/PawanSirsat/Laika) | 0 | TypeScript | 2026-10-20 | Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug |
-| 12 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 53 | HTML | 2026-10-20 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
-| 13 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 23 | Shell | 2026-10-20 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
-| 14 | [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) | 78 | Python | 2026-10-20 | Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon. |
-| 15 | [Ahmad1765/claude-mobile-game-playbook](https://github.com/Ahmad1765/claude-mobile-game-playbook) | 0 | JavaScript | 2026-10-20 | A Claude Code skill for building casual mobile games that run smoothly on cheap Android phones. Learned shipping four ga |
-| 16 | [TwitterAPIs/twitterapis-skills](https://github.com/TwitterAPIs/twitterapis-skills) | 0 | — | 2026-10-20 | Open-source Claude skills that read X (Twitter) through twitterapis.com. Read-only: never posts, likes, follows or DMs. |
-| 17 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 2 | HTML | 2026-10-20 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
-| 18 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 129 | Python | 2026-10-20 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 129 | Python | 2026-10-20 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [HsuanYuLee/polaris](https://github.com/HsuanYuLee/polaris) | 5 | Shell | 2026-10-20 | A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups |
+| 3 | [patrickserrano/lacquer](https://github.com/patrickserrano/lacquer) | 4 | Go | 2026-10-20 | Go CLI + profile templates that standardize how Claude Code works across every project |
+| 4 | [Ketbome/decomp-skills](https://github.com/Ketbome/decomp-skills) | 1 | Python | 2026-10-20 | Agent skills for matching decompilation of video games: per-function loop, parallel agents, toolchain forensics, session |
+| 5 | [alexzvency-ship-it/claude-browser-automator](https://github.com/alexzvency-ship-it/claude-browser-automator) | 2 | HTML | 2026-10-20 | Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly |
+| 6 | [iadr-dev/greenlight](https://github.com/iadr-dev/greenlight) | 1 | Python | 2026-10-20 | greenlight is a plugin for AI × BDD spec-driven development: a feature request        4 +becomes human-approved rules an |
+| 7 | [Kddffzsdfwa/renhua](https://github.com/Kddffzsdfwa/renhua) | 0 | — | 2026-10-20 | 人话：把一眼就是 AI 写的中文改成真人会说的话，事实一个字不改。Claude Agent Skill. |
+| 8 | [lispking/git-skills](https://github.com/lispking/git-skills) | 0 | — | 2026-10-20 | A powerful Claude Code Git assistant skill that provides intelligent branch management, commit message conventions, work |
+| 9 | [Superfast-Robotics/robot-skill-hub](https://github.com/Superfast-Robotics/robot-skill-hub) | 0 | Python | 2026-10-20 | Reuse the fix. Keep the context lean. Pinned robotics code, reusable findings, public MCP and CLI. |
+| 10 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | 70209 | TypeScript | 2026-10-20 | OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering. |
+| 11 | [EPISTEX0/web-ui-design-skill](https://github.com/EPISTEX0/web-ui-design-skill) | 0 | HTML | 2026-10-20 | A design skill for coding agents, distilled from 34 UI design skills and the evidence on them. Process over rule lists. |
+| 12 | [PawanSirsat/Laika](https://github.com/PawanSirsat/Laika) | 0 | TypeScript | 2026-10-20 | Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug |
+| 13 | [ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge](https://github.com/ALKwbfkAgbfcAGIB/claude-cli-mcp-bridge) | 53 | HTML | 2026-10-20 | Claude Code CLI 2026 Pro Edition – Next-Gen AI Development Workflow Tool |
+| 14 | [gaia-react/gaia](https://github.com/gaia-react/gaia) | 23 | Shell | 2026-10-20 | The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too |
+| 15 | [escoffier-labs/brigade](https://github.com/escoffier-labs/brigade) | 78 | Python | 2026-10-20 | Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon. |
+| 16 | [Ahmad1765/claude-mobile-game-playbook](https://github.com/Ahmad1765/claude-mobile-game-playbook) | 0 | JavaScript | 2026-10-20 | A Claude Code skill for building casual mobile games that run smoothly on cheap Android phones. Learned shipping four ga |
+| 17 | [TwitterAPIs/twitterapis-skills](https://github.com/TwitterAPIs/twitterapis-skills) | 0 | — | 2026-10-20 | Open-source Claude skills that read X (Twitter) through twitterapis.com. Read-only: never posts, likes, follows or DMs. |
+| 18 | [samuel85194-ux/tycana-claude-hivemind](https://github.com/samuel85194-ux/tycana-claude-hivemind) | 2 | HTML | 2026-10-20 | Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows |
 | 19 | [trevhud/rote](https://github.com/trevhud/rote) | 8 | Python | 2026-10-20 | Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop |
 | 20 | [jvargas718/claude-fix-render-text](https://github.com/jvargas718/claude-fix-render-text) | 0 | Python | 2026-10-20 | A Claude Code skill that fixes the garbled text AI image generators put on packaging renders. Checks against your tech p |
 | 21 | [MrBinnacle/skills](https://github.com/MrBinnacle/skills) | 1 | Python | 2026-10-20 | Skills that started with problems I encountered. |
@@ -68,7 +68,7 @@ expired items removed — so you can rely on what you see being current.
 | 24 | [NoeBrt/thermal-printer-skill](https://github.com/NoeBrt/thermal-printer-skill) | 0 | Shell | 2026-10-20 | Claude Code skill for pocket thermal printers (X6, CTP-500, cat printers): print QR codes, labels, notes and photos from |
 | 25 | [kurone-kito/idd-skill](https://github.com/kurone-kito/idd-skill) | 11 | TypeScript | 2026-10-20 | 🤖 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2 |
 | 26 | [SELAT-AI/selat-skills](https://github.com/SELAT-AI/selat-skills) | 2 | JavaScript | 2026-10-20 |  |
-| 27 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 85925 | JavaScript | 2026-10-20 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
+| 27 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 85926 | JavaScript | 2026-10-20 | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. |
 | 28 | [nirmal77-nir/RAD-Claude-Agent-Toolkit](https://github.com/nirmal77-nir/RAD-Claude-Agent-Toolkit) | 2 | HTML | 2026-10-20 | Best Free AI Code Review Agents 2026 – 190+ Skills & Plugins for Claude |
 | 29 | [deeprdai21-ai/practical-claude-skills](https://github.com/deeprdai21-ai/practical-claude-skills) | 0 | Python | 2026-10-20 | Free Claude skills: reorder list from stock exports, and a claim-by-claim fact-checker. The scripts do the maths. |
 | 30 | [hokupod/utsuri](https://github.com/hokupod/utsuri) | 2 | JavaScript | 2026-10-20 | Utsuri transforms code changes into evidence-based, human-readable visual reviews. It connects Git hunks, intent, real-b |
