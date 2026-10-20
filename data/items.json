@@ -1,5 +1,50 @@
 [
   {
+    "description": "Utsuri transforms code changes into evidence-based, human-readable visual reviews. It connects Git hunks, intent, real-b",
+    "id": "hokupod/utsuri",
+    "language": "JavaScript",
+    "name": "hokupod/utsuri",
+    "stars": 2,
+    "updated_at": "2026-10-20T03:12:52Z",
+    "url": "https://github.com/hokupod/utsuri"
+  },
+  {
+    "description": "greenlight is a plugin for AI \u00d7 BDD spec-driven development: a feature request        4 +becomes human-approved rules an",
+    "id": "iadr-dev/greenlight",
+    "language": "Python",
+    "name": "iadr-dev/greenlight",
+    "stars": 0,
+    "updated_at": "2026-10-20T03:15:11Z",
+    "url": "https://github.com/iadr-dev/greenlight"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 8,
+    "updated_at": "2026-10-20T03:10:02Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-10-20T03:09:01Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-20T03:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u5168\u573a\u666f\u81ea\u9002\u5e94\u601d\u8003\u534f\u8bae \u2014 \u9762\u5411 LLM \u7684\u4e2d\u6587\u63a8\u7406\u63d0\u793a\u8bcd\u5de5\u7a0b\uff08V1.1.0 / V1.1.5\uff09\uff0cMIT \u5f00\u6e90\uff0cA Chinese-language reasoning prompt engineering toolkit for LLMs.",
     "id": "boxiaolanya2008/ai-plus-prompt",
     "language": "HTML",
@@ -18,15 +63,6 @@
     "url": "https://github.com/DevinChen2014/socialdatax-skills"
   },
   {
-    "description": "Utsuri transforms code changes into evidence-based, human-readable visual reviews. It connects Git hunks, intent, real-b",
-    "id": "hokupod/utsuri",
-    "language": "JavaScript",
-    "name": "hokupod/utsuri",
-    "stars": 2,
-    "updated_at": "2026-10-20T02:58:38Z",
-    "url": "https://github.com/hokupod/utsuri"
-  },
-  {
     "description": "Vast.ai python and cli api client",
     "id": "vast-ai/vast-cli",
     "language": "Python",
@@ -41,7 +77,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70209,
-    "updated_at": "2026-10-20T02:59:41Z",
+    "updated_at": "2026-10-20T03:08:26Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -85,8 +121,8 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 104799,
-    "updated_at": "2026-10-20T02:53:30Z",
+    "stars": 104806,
+    "updated_at": "2026-10-20T03:14:24Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "hoangsonww/Claude-Code-Agent-Monitor",
     "stars": 1099,
-    "updated_at": "2026-10-20T02:56:42Z",
+    "updated_at": "2026-10-20T03:07:28Z",
     "url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor"
   },
   {
@@ -112,18 +148,9 @@
     "id": "zenbu-labs/terminal-browser",
     "language": "TypeScript",
     "name": "zenbu-labs/terminal-browser",
-    "stars": 4005,
+    "stars": 4006,
     "updated_at": "2026-10-20T02:46:51Z",
     "url": "https://github.com/zenbu-labs/terminal-browser"
-  },
-  {
-    "description": "greenlight is a plugin for AI \u00d7 BDD spec-driven development: a feature request        4 +becomes human-approved rules an",
-    "id": "iadr-dev/greenlight",
-    "language": "Python",
-    "name": "iadr-dev/greenlight",
-    "stars": 0,
-    "updated_at": "2026-10-20T02:46:19Z",
-    "url": "https://github.com/iadr-dev/greenlight"
   },
   {
     "description": "Claude Code plugin: autopilot, wargame, delegate, afk and prepare-for-next-session skills",
@@ -135,21 +162,12 @@
     "url": "https://github.com/DecodedXR/claude-workflow-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-20T02:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
     "id": "escoffier-labs/brigade",
     "language": "Python",
     "name": "escoffier-labs/brigade",
     "stars": 78,
-    "updated_at": "2026-10-20T02:49:34Z",
+    "updated_at": "2026-10-20T03:07:50Z",
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "MadaraUchiha-314/the-loop",
     "stars": 7,
-    "updated_at": "2026-10-20T02:59:49Z",
+    "updated_at": "2026-10-20T03:02:14Z",
     "url": "https://github.com/MadaraUchiha-314/the-loop"
   },
   {
@@ -292,7 +310,7 @@
     "id": "zp-home/pc-space-cleanup",
     "language": "PowerShell",
     "name": "zp-home/pc-space-cleanup",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-20T02:18:23Z",
     "url": "https://github.com/zp-home/pc-space-cleanup"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-20T02:57:59Z",
     "url": "https://github.com/chrislacey89/skills"
-  },
-  {
-    "description": "Claude Code and Codex as a second brain with persistent memory: 232 battle-tested skills as a plugin marketplace, an opt",
-    "id": "tonydzi/second-brain-starter-kit",
-    "language": "Python",
-    "name": "tonydzi/second-brain-starter-kit",
-    "stars": 9,
-    "updated_at": "2026-10-20T01:52:01Z",
-    "url": "https://github.com/tonydzi/second-brain-starter-kit"
-  },
-  {
-    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
-    "id": "ashfulcra/fulcra-tools",
-    "language": "Python",
-    "name": "ashfulcra/fulcra-tools",
-    "stars": 10,
-    "updated_at": "2026-10-20T01:50:22Z",
-    "url": "https://github.com/ashfulcra/fulcra-tools"
   }
 ]
