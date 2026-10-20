@@ -1,12 +1,138 @@
 [
   {
-    "description": "AI subscription price comparison for AI assistants: MCP server (ai-price-mcp) + Agent Skill. Data from shuita.xyz",
-    "id": "gm365/shuita-ai-price",
-    "language": "TypeScript",
-    "name": "gm365/shuita-ai-price",
+    "description": "AI \u00d7 BDD spec-driven development for Claude Code. greenlight turns a feature request into human-approved, executable spe",
+    "id": "iadr-dev/greenlight",
+    "language": "Python",
+    "name": "iadr-dev/greenlight",
     "stars": 1,
-    "updated_at": "2026-10-20T15:14:35Z",
-    "url": "https://github.com/gm365/shuita-ai-price"
+    "updated_at": "2026-10-20T15:28:47Z",
+    "url": "https://github.com/iadr-dev/greenlight"
+  },
+  {
+    "description": "C(H+A)RM build diary \u2014 a CRM for Human & Agent collaboration, built in public with Claude Code. Framework: github.com/to",
+    "id": "tonydzi/clawrush",
+    "language": "Python",
+    "name": "tonydzi/clawrush",
+    "stars": 14,
+    "updated_at": "2026-10-20T15:28:18Z",
+    "url": "https://github.com/tonydzi/clawrush"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-10-20T15:27:43Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbooks, threat models, decks, SQL reviews, DP",
+    "id": "sananthanarayan/skilldrop",
+    "language": "Python",
+    "name": "sananthanarayan/skilldrop",
+    "stars": 2,
+    "updated_at": "2026-10-20T15:27:35Z",
+    "url": "https://github.com/sananthanarayan/skilldrop"
+  },
+  {
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
+    "id": "scenario-labs/skills",
+    "language": "Python",
+    "name": "scenario-labs/skills",
+    "stars": 1073,
+    "updated_at": "2026-10-20T15:30:12Z",
+    "url": "https://github.com/scenario-labs/skills"
+  },
+  {
+    "description": "Independently checked Go API ports and original Gooo policy programs for coding agents, with stdio MCP, native CLI previ",
+    "id": "kimjooyoon/gooo-go-ports",
+    "language": "Go",
+    "name": "kimjooyoon/gooo-go-ports",
+    "stars": 1,
+    "updated_at": "2026-10-20T15:27:06Z",
+    "url": "https://github.com/kimjooyoon/gooo-go-ports"
+  },
+  {
+    "description": "Agent skills that route a presentation from source to stage-ready through an 8-gate pipeline. Extracted from open-slide.",
+    "id": "samulee003/agentic-ppt-skills",
+    "language": "HTML",
+    "name": "samulee003/agentic-ppt-skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:26:42Z",
+    "url": "https://github.com/samulee003/agentic-ppt-skills"
+  },
+  {
+    "description": "Free open-source Agent Skills (SKILL.md) for US stock watchlists: NYSE-aware price alerts (market hours & holidays), dai",
+    "id": "eli-alvarado/us-watchlist-alerts",
+    "language": "Python",
+    "name": "eli-alvarado/us-watchlist-alerts",
+    "stars": 2,
+    "updated_at": "2026-10-20T15:26:40Z",
+    "url": "https://github.com/eli-alvarado/us-watchlist-alerts"
+  },
+  {
+    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
+    "id": "karero/croftweaver",
+    "language": "Python",
+    "name": "karero/croftweaver",
+    "stars": 8,
+    "updated_at": "2026-10-20T15:26:19Z",
+    "url": "https://github.com/karero/croftweaver"
+  },
+  {
+    "description": "A comprehensive AI toolkit for Claude Code featuring multi-language agents, reusable skills, and MCP services to superch",
+    "id": "ProjAnvil/MindForge",
+    "language": "Python",
+    "name": "ProjAnvil/MindForge",
+    "stars": 3,
+    "updated_at": "2026-10-20T15:25:43Z",
+    "url": "https://github.com/ProjAnvil/MindForge"
+  },
+  {
+    "description": "Skills are guided, multi-step automations for the Amazon Ads and Amazon Seller workflows your team runs repeatedly: AMC,",
+    "id": "KuudoAI/skills",
+    "language": "Python",
+    "name": "KuudoAI/skills",
+    "stars": 2,
+    "updated_at": "2026-10-20T15:25:52Z",
+    "url": "https://github.com/KuudoAI/skills"
+  },
+  {
+    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
+    "id": "the911fund/skill-of-skills",
+    "language": "Python",
+    "name": "the911fund/skill-of-skills",
+    "stars": 79,
+    "updated_at": "2026-10-20T15:25:04Z",
+    "url": "https://github.com/the911fund/skill-of-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105081,
+    "updated_at": "2026-10-20T15:30:05Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Claude Code skill: put live controls next to a UI component, tweak by eye, and have the agent write the values back to s",
+    "id": "joaopmarques/dial-in",
+    "language": "JavaScript",
+    "name": "joaopmarques/dial-in",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:24:15Z",
+    "url": "https://github.com/joaopmarques/dial-in"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 69,
+    "updated_at": "2026-10-20T15:24:13Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -14,8 +140,152 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 440,
-    "updated_at": "2026-10-20T15:14:03Z",
+    "updated_at": "2026-10-20T15:28:18Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:23:41Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "AI media generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: create AI images, video, musi",
+    "id": "beatra-ai/ai-media-generator-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-media-generator-skill",
+    "stars": 5,
+    "updated_at": "2026-10-20T15:23:33Z",
+    "url": "https://github.com/beatra-ai/ai-media-generator-skill"
+  },
+  {
+    "description": "Rule-only Agent Skills for Claude Code, Cursor & Codex: web UI rules that stop AI-built interfaces looking generic (OKLC",
+    "id": "bo-516/NiceDesign",
+    "language": "Python",
+    "name": "bo-516/NiceDesign",
+    "stars": 1,
+    "updated_at": "2026-10-20T15:23:30Z",
+    "url": "https://github.com/bo-516/NiceDesign"
+  },
+  {
+    "description": "Axiom is a curated marketplace of shared plugins for Claude Code and Codex.",
+    "id": "netopsengineer/axiom",
+    "language": "Python",
+    "name": "netopsengineer/axiom",
+    "stars": 5,
+    "updated_at": "2026-10-20T15:22:09Z",
+    "url": "https://github.com/netopsengineer/axiom"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-10-20T15:21:45Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "WeChat article cover agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn an article title, topi",
+    "id": "beatra-ai/wechat-article-cover-skill",
+    "language": "Python",
+    "name": "beatra-ai/wechat-article-cover-skill",
+    "stars": 4,
+    "updated_at": "2026-10-20T15:21:35Z",
+    "url": "https://github.com/beatra-ai/wechat-article-cover-skill"
+  },
+  {
+    "description": "AI image realism agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: make AI portraits, product imag",
+    "id": "beatra-ai/ai-image-realism-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-image-realism-skill",
+    "stars": 4,
+    "updated_at": "2026-10-20T15:19:43Z",
+    "url": "https://github.com/beatra-ai/ai-image-realism-skill"
+  },
+  {
+    "description": "Claude Code plugin marketplace: spec-driven skills, gated task queue, and a skill authoring rubric from research.",
+    "id": "nuncaeslupus/claude-arsenal",
+    "language": "Python",
+    "name": "nuncaeslupus/claude-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:22:46Z",
+    "url": "https://github.com/nuncaeslupus/claude-arsenal"
+  },
+  {
+    "description": "Agent skill: find where your knowledge really stops with short probes, map prerequisites from your own material, then cl",
+    "id": "fangdididi/learning-edge",
+    "language": "Python",
+    "name": "fangdididi/learning-edge",
+    "stars": 0,
+    "updated_at": "2026-10-20T15:19:13Z",
+    "url": "https://github.com/fangdididi/learning-edge"
+  },
+  {
+    "description": "Viral video remake agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: break a short video that work",
+    "id": "beatra-ai/viral-video-remake-skill",
+    "language": "Python",
+    "name": "beatra-ai/viral-video-remake-skill",
+    "stars": 5,
+    "updated_at": "2026-10-20T15:17:41Z",
+    "url": "https://github.com/beatra-ai/viral-video-remake-skill"
+  },
+  {
+    "description": "\u5c06\u4f5c (Jiangzuo) \u2014 \u8d44\u6df1\u5168\u6808\u8f6f\u4ef6\u5de5\u7a0b\u642d\u6863 Agent Skill\uff1a\u5148\u8bfb\u61c2\u3001\u518d\u60f3\u6e05\u3001\u540e\u52a8\u624b\u3001\u5fc5\u9a8c\u8bc1\u3001\u7559\u6587\u6863 | A senior full-stack engineering companion skill",
+    "id": "Zhang-jx00/jiangzuo",
+    "language": "Python",
+    "name": "Zhang-jx00/jiangzuo",
+    "stars": 1,
+    "updated_at": "2026-10-20T15:16:02Z",
+    "url": "https://github.com/Zhang-jx00/jiangzuo"
+  },
+  {
+    "description": "AI storyboard generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a script, scene, or",
+    "id": "beatra-ai/ai-storyboard-generator-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-storyboard-generator-skill",
+    "stars": 4,
+    "updated_at": "2026-10-20T15:15:39Z",
+    "url": "https://github.com/beatra-ai/ai-storyboard-generator-skill"
+  },
+  {
+    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 37,
+    "updated_at": "2026-10-20T15:15:35Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/ai-utils",
+    "language": "C++",
+    "name": "TsukiNi22/ai-utils",
+    "stars": 1,
+    "updated_at": "2026-10-20T15:15:27Z",
+    "url": "https://github.com/TsukiNi22/ai-utils"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-20T15:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI subscription price comparison for AI assistants: MCP server (ai-price-mcp) + Agent Skill. Data from shuita.xyz",
+    "id": "gm365/shuita-ai-price",
+    "language": "TypeScript",
+    "name": "gm365/shuita-ai-price",
+    "stars": 1,
+    "updated_at": "2026-10-20T15:14:35Z",
+    "url": "https://github.com/gm365/shuita-ai-price"
   },
   {
     "description": "AI logo maker agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a brand name, industry, or re",
@@ -34,15 +304,6 @@
     "stars": 19,
     "updated_at": "2026-10-20T15:13:29Z",
     "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
-    "id": "karero/croftweaver",
-    "language": "Python",
-    "name": "karero/croftweaver",
-    "stars": 8,
-    "updated_at": "2026-10-20T15:13:01Z",
-    "url": "https://github.com/karero/croftweaver"
   },
   {
     "description": "Seven reasoning-and-review skills in one plugin (dia): Socratic dialogue, reductio ad absurdum, internal critique, revie",
@@ -72,15 +333,6 @@
     "url": "https://github.com/beatra-ai/ai-poster-maker-skill"
   },
   {
-    "description": "Claude Code plugin marketplace: spec-driven skills, gated task queue, and a skill authoring rubric from research.",
-    "id": "nuncaeslupus/claude-arsenal",
-    "language": "Python",
-    "name": "nuncaeslupus/claude-arsenal",
-    "stars": 0,
-    "updated_at": "2026-10-20T15:14:46Z",
-    "url": "https://github.com/nuncaeslupus/claude-arsenal"
-  },
-  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -88,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T15:11:15Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105078,
-    "updated_at": "2026-10-20T15:15:06Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
@@ -162,21 +405,12 @@
     "url": "https://github.com/bostonaholic/skills"
   },
   {
-    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
-    "id": "scenario-labs/skills",
-    "language": "Python",
-    "name": "scenario-labs/skills",
-    "stars": 1073,
-    "updated_at": "2026-10-20T15:13:01Z",
-    "url": "https://github.com/scenario-labs/skills"
-  },
-  {
     "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
     "id": "gaia-react/gaia",
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-20T15:08:07Z",
+    "updated_at": "2026-10-20T15:27:29Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -214,239 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-20T15:05:49Z",
     "url": "https://github.com/beatra-ai/multilingual-voiceover-skill"
-  },
-  {
-    "description": "An agentic scriptorium for scholarly writing \u2014 coordinated AI capabilities for manuscripts, grants, and reviews.",
-    "id": "seandavi/scriptorium",
-    "language": "Python",
-    "name": "seandavi/scriptorium",
-    "stars": 3,
-    "updated_at": "2026-10-20T15:05:15Z",
-    "url": "https://github.com/seandavi/scriptorium"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/ai-utils",
-    "language": "C++",
-    "name": "TsukiNi22/ai-utils",
-    "stars": 1,
-    "updated_at": "2026-10-20T15:04:36Z",
-    "url": "https://github.com/TsukiNi22/ai-utils"
-  },
-  {
-    "description": "Free, public, no-auth REST APIs from AI SENSE AS \u2014 clients for OpenClaw, Python, JavaScript, OpenAI function calling, Cl",
-    "id": "aisenseapi/aisense-free-public-rest-apis",
-    "language": "HTML",
-    "name": "aisenseapi/aisense-free-public-rest-apis",
-    "stars": 0,
-    "updated_at": "2026-10-20T15:04:05Z",
-    "url": "https://github.com/aisenseapi/aisense-free-public-rest-apis"
-  },
-  {
-    "description": "Talking avatar video agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn one portrait and a scr",
-    "id": "beatra-ai/talking-avatar-video-skill",
-    "language": "Python",
-    "name": "beatra-ai/talking-avatar-video-skill",
-    "stars": 5,
-    "updated_at": "2026-10-20T15:03:53Z",
-    "url": "https://github.com/beatra-ai/talking-avatar-video-skill"
-  },
-  {
-    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps be",
-    "id": "zhuyansen/new-term-radar",
-    "language": "Python",
-    "name": "zhuyansen/new-term-radar",
-    "stars": 1322,
-    "updated_at": "2026-10-20T15:03:19Z",
-    "url": "https://github.com/zhuyansen/new-term-radar"
-  },
-  {
-    "description": "\u5f00\u6e90 AI \u77ed\u5267/\u6f2b\u5267\u521b\u4f5c skill \u5408\u96c6\uff1a\u5267\u672c\u3001\u89d2\u8272\u8d44\u4ea7\u3001\u5206\u955c storyboard\u3001\u56fe\u7247/\u89c6\u9891\u63d0\u793a\u8bcd\u3001\u5ba1\u67e5\uff0c\u9002\u914d Claude Code \u4e0e Codex | Open-source AI short drama / micro-dra",
-    "id": "zenstory-ai/drama-skills",
-    "language": "Python",
-    "name": "zenstory-ai/drama-skills",
-    "stars": 3126,
-    "updated_at": "2026-10-20T15:02:47Z",
-    "url": "https://github.com/zenstory-ai/drama-skills"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 120,
-    "updated_at": "2026-10-20T15:01:57Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "AI audiobook generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a final manuscript o",
-    "id": "beatra-ai/ai-audiobook-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-audiobook-generator-skill",
-    "stars": 4,
-    "updated_at": "2026-10-20T15:01:54Z",
-    "url": "https://github.com/beatra-ai/ai-audiobook-generator-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-20T15:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "AI podcast voiceover agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn an article, notes, or ",
-    "id": "beatra-ai/ai-podcast-voiceover-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-podcast-voiceover-skill",
-    "stars": 5,
-    "updated_at": "2026-10-20T14:59:42Z",
-    "url": "https://github.com/beatra-ai/ai-podcast-voiceover-skill"
-  },
-  {
-    "description": "Plugin Claude Code \u00ab forge \u00bb : commandes, skills et biblioth\u00e8que agent-engine (r\u00f4les, cycles, sch\u00e9mas)",
-    "id": "MGNetworking/claude-forge",
-    "language": "PowerShell",
-    "name": "MGNetworking/claude-forge",
-    "stars": 0,
-    "updated_at": "2026-10-20T14:58:37Z",
-    "url": "https://github.com/MGNetworking/claude-forge"
-  },
-  {
-    "description": "Reusable skills (SKILL.md playbooks) for Grok Bot and Cursor AI agents: routines, workflows, and agent best practices.",
-    "id": "bostonaholic/grokbot-skills",
-    "language": "\u2014",
-    "name": "bostonaholic/grokbot-skills",
-    "stars": 1,
-    "updated_at": "2026-10-20T15:14:07Z",
-    "url": "https://github.com/bostonaholic/grokbot-skills"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:57:59Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "AI voice cloning agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: create a reusable personal or b",
-    "id": "beatra-ai/ai-voice-cloning-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-voice-cloning-skill",
-    "stars": 4,
-    "updated_at": "2026-10-20T14:57:48Z",
-    "url": "https://github.com/beatra-ai/ai-voice-cloning-skill"
-  },
-  {
-    "description": "A /human-review skill for Claude Code: assembles one page that lets a human review a change set fast \u2014 diagram deltas, C",
-    "id": "victorrentea/human-review",
-    "language": "Python",
-    "name": "victorrentea/human-review",
-    "stars": 30,
-    "updated_at": "2026-10-20T14:57:36Z",
-    "url": "https://github.com/victorrentea/human-review"
-  },
-  {
-    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex",
-    "id": "VoltAgent/awesome-agent-skills",
-    "language": "\u2014",
-    "name": "VoltAgent/awesome-agent-skills",
-    "stars": 36054,
-    "updated_at": "2026-10-20T14:56:48Z",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills"
-  },
-  {
-    "description": "Agent skills for marketing technology: tracking plans, naming conventions, tracking QA, consent, attribution, CRM and li",
-    "id": "martechdevs/skills",
-    "language": "JavaScript",
-    "name": "martechdevs/skills",
-    "stars": 0,
-    "updated_at": "2026-10-20T14:56:00Z",
-    "url": "https://github.com/martechdevs/skills"
-  },
-  {
-    "description": "AI voiceover generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: pick or reuse a voice, tu",
-    "id": "beatra-ai/ai-voiceover-generator-skill",
-    "language": "Python",
-    "name": "beatra-ai/ai-voiceover-generator-skill",
-    "stars": 5,
-    "updated_at": "2026-10-20T14:55:54Z",
-    "url": "https://github.com/beatra-ai/ai-voiceover-generator-skill"
-  },
-  {
-    "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
-    "id": "ShadowSwaps/REA-Reconstruction-Companion",
-    "language": "JavaScript",
-    "name": "ShadowSwaps/REA-Reconstruction-Companion",
-    "stars": 85,
-    "updated_at": "2026-10-20T15:00:44Z",
-    "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion"
-  },
-  {
-    "description": "Xiaohongshu copywriter agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a product, experienc",
-    "id": "beatra-ai/xiaohongshu-copywriter-skill",
-    "language": "Python",
-    "name": "beatra-ai/xiaohongshu-copywriter-skill",
-    "stars": 4,
-    "updated_at": "2026-10-20T14:53:58Z",
-    "url": "https://github.com/beatra-ai/xiaohongshu-copywriter-skill"
-  },
-  {
-    "description": "A Claude Code plugin that adds an agentic skills framework, with MCP's and a meta prompting processes. Inspired by \"Supe",
-    "id": "bromso/metapowers",
-    "language": "MDX",
-    "name": "bromso/metapowers",
-    "stars": 2,
-    "updated_at": "2026-10-20T14:53:12Z",
-    "url": "https://github.com/bromso/metapowers"
-  },
-  {
-    "description": "Agent skill for drafting and reviewing CVs from verified experience. Candidate-led wording, phrase-overlap review and lo",
-    "id": "Mihai-Codes/cv-witness",
-    "language": "HTML",
-    "name": "Mihai-Codes/cv-witness",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:52:34Z",
-    "url": "https://github.com/Mihai-Codes/cv-witness"
-  },
-  {
-    "description": "Xiaohongshu cover maker agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: turn a photo or topic id",
-    "id": "beatra-ai/xiaohongshu-cover-maker-skill",
-    "language": "Python",
-    "name": "beatra-ai/xiaohongshu-cover-maker-skill",
-    "stars": 4,
-    "updated_at": "2026-10-20T14:52:06Z",
-    "url": "https://github.com/beatra-ai/xiaohongshu-cover-maker-skill"
-  },
-  {
-    "description": "Reusable Claude Code skills for branch/worktree-based PR workflow, design docs, acceptance tests, and doc maintenance.",
-    "id": "kompiro/hane",
-    "language": "Shell",
-    "name": "kompiro/hane",
-    "stars": 0,
-    "updated_at": "2026-10-20T14:51:57Z",
-    "url": "https://github.com/kompiro/hane"
-  },
-  {
-    "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbooks, threat models, decks, SQL reviews, DP",
-    "id": "sananthanarayan/skilldrop",
-    "language": "Python",
-    "name": "sananthanarayan/skilldrop",
-    "stars": 2,
-    "updated_at": "2026-10-20T14:55:12Z",
-    "url": "https://github.com/sananthanarayan/skilldrop"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:50:41Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   }
 ]
