@@ -1,5 +1,167 @@
 [
   {
+    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
+    "id": "PawanSirsat/Laika",
+    "language": "TypeScript",
+    "name": "PawanSirsat/Laika",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:42:21Z",
+    "url": "https://github.com/PawanSirsat/Laika"
+  },
+  {
+    "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
+    "id": "lenamonj/jeffy-loop",
+    "language": "Shell",
+    "name": "lenamonj/jeffy-loop",
+    "stars": 9,
+    "updated_at": "2026-10-20T12:41:55Z",
+    "url": "https://github.com/lenamonj/jeffy-loop"
+  },
+  {
+    "description": "Token and cost tracking for AI coding agents. Reads the local session logs of Claude Code, Codex, Gemini CLI, Cursor and",
+    "id": "sriinnu/tokmeter",
+    "language": "TypeScript",
+    "name": "sriinnu/tokmeter",
+    "stars": 1,
+    "updated_at": "2026-10-20T12:41:30Z",
+    "url": "https://github.com/sriinnu/tokmeter"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 19,
+    "updated_at": "2026-10-20T12:40:48Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "Claude Code plugin: migrate live Ycode, Webflow, Framer and WordPress sites to Next.js pixel-perfect, measured in a head",
+    "id": "JefersonMarcioEspindola/skill-migrate-nocode",
+    "language": "JavaScript",
+    "name": "JefersonMarcioEspindola/skill-migrate-nocode",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:39:22Z",
+    "url": "https://github.com/JefersonMarcioEspindola/skill-migrate-nocode"
+  },
+  {
+    "description": "The skills that build, describe, ship and announce apps \u2014 to the App Store and Google Play, and direct on Mac and Window",
+    "id": "yybd/app-factory",
+    "language": "Python",
+    "name": "yybd/app-factory",
+    "stars": 1,
+    "updated_at": "2026-10-20T12:38:37Z",
+    "url": "https://github.com/yybd/app-factory"
+  },
+  {
+    "description": "8 Claude Code and Codex skills for exotic, luxury and Turo car rental businesses: pricing with live market rates, compet",
+    "id": "sergebulaev/car-rental-skills",
+    "language": "Python",
+    "name": "sergebulaev/car-rental-skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:38:29Z",
+    "url": "https://github.com/sergebulaev/car-rental-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105029,
+    "updated_at": "2026-10-20T12:37:48Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Single source of truth for AI coding agent configuration \u2014 skills, commands and rules shared across OpenCode and Pi.",
+    "id": "jjmartres/ai-coding-agents",
+    "language": "HTML",
+    "name": "jjmartres/ai-coding-agents",
+    "stars": 48,
+    "updated_at": "2026-10-20T12:37:08Z",
+    "url": "https://github.com/jjmartres/ai-coding-agents"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 120,
+    "updated_at": "2026-10-20T12:36:39Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
+    "description": "Ten free AI skills that let a sales team judge every deal by the same written, versioned criteria. Claude plugin and por",
+    "id": "Additor/mia-open-sales-skills",
+    "language": "HTML",
+    "name": "Additor/mia-open-sales-skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:35:58Z",
+    "url": "https://github.com/Additor/mia-open-sales-skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-10-20T12:34:06Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "A development workflow for Claude Code that takes an idea to committed code.",
+    "id": "p2p2sp/viber",
+    "language": "TypeScript",
+    "name": "p2p2sp/viber",
+    "stars": 8,
+    "updated_at": "2026-10-20T12:33:47Z",
+    "url": "https://github.com/p2p2sp/viber"
+  },
+  {
+    "description": "Multi-agent all gathered on a table to discuss lancelot with agentic workflows",
+    "id": "rustcircle/c101",
+    "language": "Python",
+    "name": "rustcircle/c101",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:33:37Z",
+    "url": "https://github.com/rustcircle/c101"
+  },
+  {
+    "description": "AI \u00d7 BDD spec-driven development for Claude Code. greenlight turns a feature request into human-approved, executable spe",
+    "id": "iadr-dev/greenlight",
+    "language": "Python",
+    "name": "iadr-dev/greenlight",
+    "stars": 1,
+    "updated_at": "2026-10-20T12:43:44Z",
+    "url": "https://github.com/iadr-dev/greenlight"
+  },
+  {
+    "description": "medstat-core is a pure headless Python biostatistical calculation engine ",
+    "id": "NTWKKM/shinystat-skills",
+    "language": "Python",
+    "name": "NTWKKM/shinystat-skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T12:31:28Z",
+    "url": "https://github.com/NTWKKM/shinystat-skills"
+  },
+  {
+    "description": "Claude Fable 5.1 prompting guide as Claude Code skills (KO/EN/ZH). Output quality goes up on Opus 5 and Sonnet 5 too.",
+    "id": "Junhan2/oh-my-fable",
+    "language": "TypeScript",
+    "name": "Junhan2/oh-my-fable",
+    "stars": 58,
+    "updated_at": "2026-10-20T12:30:20Z",
+    "url": "https://github.com/Junhan2/oh-my-fable"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-20T12:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -16,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T12:29:19Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 120,
-    "updated_at": "2026-10-20T12:27:49Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
@@ -54,15 +207,6 @@
     "url": "https://github.com/Ottili-ONE/skills"
   },
   {
-    "description": "AI \u00d7 BDD spec-driven development for Claude Code. greenlight turns a feature request into human-approved, executable spe",
-    "id": "iadr-dev/greenlight",
-    "language": "Python",
-    "name": "iadr-dev/greenlight",
-    "stars": 1,
-    "updated_at": "2026-10-20T12:30:10Z",
-    "url": "https://github.com/iadr-dev/greenlight"
-  },
-  {
     "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
     "id": "HsuanYuLee/polaris",
     "language": "Shell",
@@ -81,21 +225,12 @@
     "url": "https://github.com/itsaspacestation/natural-intelligence"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105026,
-    "updated_at": "2026-10-20T12:29:05Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
     "id": "QingYunA/answer-me-with-html",
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
     "stars": 4060,
-    "updated_at": "2026-10-20T12:25:29Z",
+    "updated_at": "2026-10-20T12:32:36Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
   {
@@ -176,17 +311,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 23,
-    "updated_at": "2026-10-20T12:30:06Z",
+    "updated_at": "2026-10-20T12:44:40Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-20T12:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
@@ -274,7 +400,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 86117,
+    "stars": 86125,
     "updated_at": "2026-10-20T12:04:50Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -302,7 +428,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70225,
-    "updated_at": "2026-10-20T12:29:01Z",
+    "updated_at": "2026-10-20T12:38:52Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T11:59:43Z",
     "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Claude Code skill + Python CLI: test duplicate, reordered, concurrent and timeout-after-write webhooks against real side",
-    "id": "OmxKamesh/webhook-tester",
-    "language": "Python",
-    "name": "OmxKamesh/webhook-tester",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:12Z",
-    "url": "https://github.com/OmxKamesh/webhook-tester"
-  },
-  {
-    "description": "Claude Code skill + Python CLI: check user A can't read user B's data in your Supabase staging app. Two synthetic accoun",
-    "id": "OmxKamesh/supabase-rls-tester",
-    "language": "Python",
-    "name": "OmxKamesh/supabase-rls-tester",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:11Z",
-    "url": "https://github.com/OmxKamesh/supabase-rls-tester"
-  },
-  {
-    "description": "Claude Code skill + Python CLI to reconcile stock or invoice balances in CSV with exact decimal calculations and row-lev",
-    "id": "OmxKamesh/excel-reconcile-tool",
-    "language": "Python",
-    "name": "OmxKamesh/excel-reconcile-tool",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:09Z",
-    "url": "https://github.com/OmxKamesh/excel-reconcile-tool"
-  },
-  {
-    "description": "Claude Code skill + Python CLI that diffs two versions of client requirements: added, removed, reassigned or moved.",
-    "id": "OmxKamesh/requirements-diff",
-    "language": "Python",
-    "name": "OmxKamesh/requirements-diff",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:08Z",
-    "url": "https://github.com/OmxKamesh/requirements-diff"
-  },
-  {
-    "description": "Claude Code skill + Python CLI that catches duplicate, missing and out-of-order webhook/event side effects.",
-    "id": "OmxKamesh/idempotency-tester",
-    "language": "Python",
-    "name": "OmxKamesh/idempotency-tester",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:06Z",
-    "url": "https://github.com/OmxKamesh/idempotency-tester"
-  },
-  {
-    "description": "Claude Code skill + Python CLI that checks launch and marketing claims against evidence: supported, contradicted or unkn",
-    "id": "OmxKamesh/marketing-claim-checker",
-    "language": "Python",
-    "name": "OmxKamesh/marketing-claim-checker",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:05Z",
-    "url": "https://github.com/OmxKamesh/marketing-claim-checker"
-  },
-  {
-    "description": "Claude Code skill + Python CLI that maps missing setup, ownership, test and recovery docs before a repo handover.",
-    "id": "OmxKamesh/repo-handover-checklist",
-    "language": "Python",
-    "name": "OmxKamesh/repo-handover-checklist",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:04Z",
-    "url": "https://github.com/OmxKamesh/repo-handover-checklist"
-  },
-  {
-    "description": "Claude Code skill + Python CLI that replays a repo's quickstart, captures the first failure, proposes a minimal fix and ",
-    "id": "OmxKamesh/readme-quickstart-tester",
-    "language": "Python",
-    "name": "OmxKamesh/readme-quickstart-tester",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:03Z",
-    "url": "https://github.com/OmxKamesh/readme-quickstart-tester"
-  },
-  {
-    "description": "Claude skill + Playwright runner that checks a customer journey really saved its result, not just showed a success messa",
-    "id": "OmxKamesh/playwright-e2e-tester",
-    "language": "JavaScript",
-    "name": "OmxKamesh/playwright-e2e-tester",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:01Z",
-    "url": "https://github.com/OmxKamesh/playwright-e2e-tester"
-  },
-  {
-    "description": "Nine free MIT-licensed Claude Code skills with small CLI tools: webhook, Supabase RLS, Playwright E2E, Excel/CSV reconci",
-    "id": "OmxKamesh/claude-code-skills",
-    "language": "\u2014",
-    "name": "OmxKamesh/claude-code-skills",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:58:00Z",
-    "url": "https://github.com/OmxKamesh/claude-code-skills"
-  },
-  {
-    "description": "Agent skill collections for OpenCode/Claude/Cursor \u2014 installable per collection, local-first",
-    "id": "tpc-pascal/skillsmith",
-    "language": "Shell",
-    "name": "tpc-pascal/skillsmith",
-    "stars": 1,
-    "updated_at": "2026-10-20T11:57:55Z",
-    "url": "https://github.com/tpc-pascal/skillsmith"
-  },
-  {
-    "description": "Token and cost tracking for AI coding agents. Reads the local session logs of Claude Code, Codex, Gemini CLI, Cursor and",
-    "id": "sriinnu/tokmeter",
-    "language": "TypeScript",
-    "name": "sriinnu/tokmeter",
-    "stars": 1,
-    "updated_at": "2026-10-20T11:57:37Z",
-    "url": "https://github.com/sriinnu/tokmeter"
-  },
-  {
-    "description": "Awesome Claude Code And Agent Tools",
-    "id": "cooler333/awesome-claude-code",
-    "language": "Python",
-    "name": "cooler333/awesome-claude-code",
-    "stars": 14,
-    "updated_at": "2026-10-20T11:57:18Z",
-    "url": "https://github.com/cooler333/awesome-claude-code"
-  },
-  {
-    "description": "Spacery MCP server and agent skill. Publish 3D scans, Gaussian splats and 360 tours from your AI agent, and build guided",
-    "id": "lukehollis/spacery",
-    "language": "\u2014",
-    "name": "lukehollis/spacery",
-    "stars": 0,
-    "updated_at": "2026-10-20T11:57:13Z",
-    "url": "https://github.com/lukehollis/spacery"
   }
 ]
