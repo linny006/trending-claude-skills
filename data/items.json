@@ -1,11 +1,92 @@
 [
   {
+    "description": "A free, open-source add-on for Claude, ChatGPT, Codex and Cursor that turns a few plain answers into a design system, so",
+    "id": "ckryptickunal/OpenDesigner",
+    "language": "Python",
+    "name": "ckryptickunal/OpenDesigner",
+    "stars": 4,
+    "updated_at": "2026-10-20T14:30:02Z",
+    "url": "https://github.com/ckryptickunal/OpenDesigner"
+  },
+  {
+    "description": "AI image generator agent skill for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: generate, compose, and edit p",
+    "id": "beatra-ai/ai-image-generator-skill",
+    "language": "Python",
+    "name": "beatra-ai/ai-image-generator-skill",
+    "stars": 4,
+    "updated_at": "2026-10-20T14:28:59Z",
+    "url": "https://github.com/beatra-ai/ai-image-generator-skill"
+  },
+  {
+    "description": "Claude skill: Yandex Direct campaign from brief to cabinet draft \u2014 semantics, negatives, ads, Metrika goals. Docs in Rus",
+    "id": "ai-hub-open/yandex-direct-manager",
+    "language": "Python",
+    "name": "ai-hub-open/yandex-direct-manager",
+    "stars": 12,
+    "updated_at": "2026-10-20T14:27:57Z",
+    "url": "https://github.com/ai-hub-open/yandex-direct-manager"
+  },
+  {
+    "description": "Agent skills for TokenLab API integration, model picking, native endpoints, cost routing, and OpenAI-compatible migratio",
+    "id": "hedging8563/tokenlab-skills",
+    "language": "Python",
+    "name": "hedging8563/tokenlab-skills",
+    "stars": 1,
+    "updated_at": "2026-10-20T14:27:41Z",
+    "url": "https://github.com/hedging8563/tokenlab-skills"
+  },
+  {
+    "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
+    "id": "nuncaeslupus/literary-critic",
+    "language": "Python",
+    "name": "nuncaeslupus/literary-critic",
+    "stars": 0,
+    "updated_at": "2026-10-20T14:28:08Z",
+    "url": "https://github.com/nuncaeslupus/literary-critic"
+  },
+  {
+    "description": "An agent skills marketplace from Narrative I/O \u2014 interactive, AI-powered slash-command workflows for the recurring work ",
+    "id": "narrative-io/narrative-skills-marketplace",
+    "language": "Go Template",
+    "name": "narrative-io/narrative-skills-marketplace",
+    "stars": 9,
+    "updated_at": "2026-10-20T14:28:01Z",
+    "url": "https://github.com/narrative-io/narrative-skills-marketplace"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 23,
+    "updated_at": "2026-10-20T14:26:21Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser",
+    "id": "plasminds/team-skills",
+    "language": "JavaScript",
+    "name": "plasminds/team-skills",
+    "stars": 3,
+    "updated_at": "2026-10-20T14:25:53Z",
+    "url": "https://github.com/plasminds/team-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-20T14:25:45Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Helping the Agents Compose the Things",
     "id": "yschimke/compose-ai-tools",
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 120,
-    "updated_at": "2026-10-20T14:25:34Z",
+    "updated_at": "2026-10-20T14:25:49Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "ayukyo/icode-skill",
     "stars": 5,
-    "updated_at": "2026-10-20T14:25:14Z",
+    "updated_at": "2026-10-20T14:28:59Z",
     "url": "https://github.com/ayukyo/icode-skill"
   },
   {
@@ -25,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-10-20T14:24:58Z",
     "url": "https://github.com/Ottili-ONE/skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105062,
+    "updated_at": "2026-10-20T14:24:53Z",
+    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "Claude Code skill that animates in Blender like a game animator: walk cycles, audits, and Unity/Unreal/Godot export.",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 440,
-    "updated_at": "2026-10-20T14:23:03Z",
+    "updated_at": "2026-10-20T14:27:55Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -79,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T14:20:22Z",
     "url": "https://github.com/Nercari/claude-skill-examples"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105059,
-    "updated_at": "2026-10-20T14:24:53Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
@@ -144,13 +225,13 @@
     "url": "https://github.com/hu3rror/my-skills"
   },
   {
-    "description": "Lets an LLM index, analyse and advise on a whole novel manuscript like a professional editor, across drafts.",
-    "id": "nuncaeslupus/literary-critic",
-    "language": "Python",
-    "name": "nuncaeslupus/literary-critic",
-    "stars": 0,
-    "updated_at": "2026-10-20T14:19:48Z",
-    "url": "https://github.com/nuncaeslupus/literary-critic"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70229,
+    "updated_at": "2026-10-20T14:15:38Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "An agentic scriptorium for scholarly writing \u2014 coordinated AI capabilities for manuscripts, grants, and reviews.",
@@ -158,17 +239,8 @@
     "language": "Python",
     "name": "seandavi/scriptorium",
     "stars": 3,
-    "updated_at": "2026-10-20T14:15:34Z",
+    "updated_at": "2026-10-20T14:29:24Z",
     "url": "https://github.com/seandavi/scriptorium"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-20T14:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Portable AI-agent skills for the work people actually ship - ADRs, PRDs, runbacks, threat models, decks, SQL reviews, DP",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-20T13:57:03Z",
     "url": "https://github.com/sergebulaev/car-rental-skills"
-  },
-  {
-    "description": "The Complete AI & Technical Founder GTM Toolkit 2026 \u2013 Pricing, PLG & Enterprise Sales",
-    "id": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "language": "HTML",
-    "name": "gilvangonzalez/technical-founding-gtm-toolkit",
-    "stars": 3,
-    "updated_at": "2026-10-20T13:56:45Z",
-    "url": "https://github.com/gilvangonzalez/technical-founding-gtm-toolkit"
-  },
-  {
-    "description": "6 Claude Code and Codex skills for renting exotic and luxury cars in the US: who rents a Lamborghini, Ferrari, Rolls-Roy",
-    "id": "sergebulaev/exotic-car-rental-skills",
-    "language": "Python",
-    "name": "sergebulaev/exotic-car-rental-skills",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:57:32Z",
-    "url": "https://github.com/sergebulaev/exotic-car-rental-skills"
-  },
-  {
-    "description": "agentx is the inventory manager for your agents. View, manage, and sync skills, MCPs and plugins across machines. Availa",
-    "id": "grundmanise/agentx",
-    "language": "Go",
-    "name": "grundmanise/agentx",
-    "stars": 1,
-    "updated_at": "2026-10-20T14:21:04Z",
-    "url": "https://github.com/grundmanise/agentx"
-  },
-  {
-    "description": " Long-running AI agents coordinating over their human's own Fulcra account \u2014 shared bus, cross-model reviews, session co",
-    "id": "ashfulcra/fulcra-tools",
-    "language": "Python",
-    "name": "ashfulcra/fulcra-tools",
-    "stars": 10,
-    "updated_at": "2026-10-20T13:52:38Z",
-    "url": "https://github.com/ashfulcra/fulcra-tools"
-  },
-  {
-    "description": "JobSearchAssistant: a human-in-the-loop job search agent, built as a Claude plugin and as a LangGraph pipeline with eval",
-    "id": "esscott1/job-search-assistant",
-    "language": "Python",
-    "name": "esscott1/job-search-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:51:07Z",
-    "url": "https://github.com/esscott1/job-search-assistant"
-  },
-  {
-    "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
-    "id": "ralvarezdev/ralvaskills",
-    "language": "Go",
-    "name": "ralvarezdev/ralvaskills",
-    "stars": 2,
-    "updated_at": "2026-10-20T13:50:24Z",
-    "url": "https://github.com/ralvarezdev/ralvaskills"
-  },
-  {
-    "description": "Claude naps at 98% of your 5-hour limit, sleeps through the reset, and picks up exactly where it left off. Claude Code h",
-    "id": "NawrizTurjo/claude-nap",
-    "language": "PowerShell",
-    "name": "NawrizTurjo/claude-nap",
-    "stars": 0,
-    "updated_at": "2026-10-20T13:50:19Z",
-    "url": "https://github.com/NawrizTurjo/claude-nap"
-  },
-  {
-    "description": "Claude has never seen 68% of the Claude Code docs: research, interactive charts and a plugin that tells it what it misse",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 8,
-    "updated_at": "2026-10-20T13:48:59Z",
-    "url": "https://github.com/derob98/ailmanac"
   }
 ]
