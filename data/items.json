@@ -1,11 +1,119 @@
 [
   {
+    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
+    "id": "allxsmith/bestax-skills",
+    "language": "TypeScript",
+    "name": "allxsmith/bestax-skills",
+    "stars": 2,
+    "updated_at": "2026-10-20T21:53:04Z",
+    "url": "https://github.com/allxsmith/bestax-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105203,
+    "updated_at": "2026-10-20T21:53:01Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 101947,
+    "updated_at": "2026-10-20T21:52:39Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Local Agents",
+    "id": "jrodrigopuca/local-agents",
+    "language": "Python",
+    "name": "jrodrigopuca/local-agents",
+    "stars": 2,
+    "updated_at": "2026-10-20T21:51:47Z",
+    "url": "https://github.com/jrodrigopuca/local-agents"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:51:24Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "My personal and opinionated skills for agentic coding",
+    "id": "frostney/known-good-route",
+    "language": "TypeScript",
+    "name": "frostney/known-good-route",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:50:08Z",
+    "url": "https://github.com/frostney/known-good-route"
+  },
+  {
+    "description": "Agent Skills and Claude Code plugin marketplace for The GTM Directory, JMC Go-to-Market Systems and jaymount.com",
+    "id": "JMC-Go-to-market/agent-skills",
+    "language": "\u2014",
+    "name": "JMC-Go-to-market/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:49:18Z",
+    "url": "https://github.com/JMC-Go-to-market/agent-skills"
+  },
+  {
+    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 78,
+    "updated_at": "2026-10-20T21:51:31Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 8,
+    "updated_at": "2026-10-20T21:48:56Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "Open build standards for back-office workflows, as installable Agent Skills. Ordered checks, object schemas, a conforman",
+    "id": "digitalgym/aipathway-standards",
+    "language": "TypeScript",
+    "name": "digitalgym/aipathway-standards",
+    "stars": 0,
+    "updated_at": "2026-10-20T21:48:24Z",
+    "url": "https://github.com/digitalgym/aipathway-standards"
+  },
+  {
+    "description": "Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusa",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 128,
+    "updated_at": "2026-10-20T21:48:19Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-20T21:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "WaveSpeed CLI \u2014 run any image, video, audio or 3D model from your terminal or coding agent: live catalog search, per-mod",
     "id": "WaveSpeedAI/wavespeed-cli",
     "language": "TypeScript",
     "name": "WaveSpeedAI/wavespeed-cli",
     "stars": 25,
-    "updated_at": "2026-10-20T21:44:33Z",
+    "updated_at": "2026-10-20T21:46:48Z",
     "url": "https://github.com/WaveSpeedAI/wavespeed-cli"
   },
   {
@@ -41,7 +149,7 @@
     "language": "TypeScript",
     "name": "Max-Levitskiy/skills",
     "stars": 0,
-    "updated_at": "2026-10-20T21:41:51Z",
+    "updated_at": "2026-10-20T21:45:48Z",
     "url": "https://github.com/Max-Levitskiy/skills"
   },
   {
@@ -59,17 +167,8 @@
     "language": "Python",
     "name": "scenario-labs/skills",
     "stars": 1073,
-    "updated_at": "2026-10-20T21:41:13Z",
+    "updated_at": "2026-10-20T21:47:28Z",
     "url": "https://github.com/scenario-labs/skills"
-  },
-  {
-    "description": "Agent Skills and Claude Code plugin marketplace for The GTM Directory, JMC Go-to-Market Systems and jaymount.com",
-    "id": "JMC-Go-to-market/agent-skills",
-    "language": "\u2014",
-    "name": "JMC-Go-to-market/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-20T21:40:36Z",
-    "url": "https://github.com/JMC-Go-to-market/agent-skills"
   },
   {
     "description": "Let your coding agent ask you with a real UI: comparison cards, diagrams and mockups in a popup window, your pick back a",
@@ -79,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-20T21:40:16Z",
     "url": "https://github.com/kouxing2000/rich-decision"
-  },
-  {
-    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
-    "id": "escoffier-labs/brigade",
-    "language": "Python",
-    "name": "escoffier-labs/brigade",
-    "stars": 78,
-    "updated_at": "2026-10-20T21:40:13Z",
-    "url": "https://github.com/escoffier-labs/brigade"
-  },
-  {
-    "description": "Local Agents",
-    "id": "jrodrigopuca/local-agents",
-    "language": "Python",
-    "name": "jrodrigopuca/local-agents",
-    "stars": 2,
-    "updated_at": "2026-10-20T21:39:40Z",
-    "url": "https://github.com/jrodrigopuca/local-agents"
   },
   {
     "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
@@ -117,15 +198,6 @@
     "url": "https://github.com/heardlabs/claude-code-tts"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105199,
-    "updated_at": "2026-10-20T21:45:00Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Ball Ranks fantasy basketball and football API skill for AI agents",
     "id": "Ollynov/ball-ranks-skills",
     "language": "\u2014",
@@ -140,17 +212,8 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-10-20T21:43:59Z",
+    "updated_at": "2026-10-20T21:46:24Z",
     "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 101947,
-    "updated_at": "2026-10-20T21:33:08Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Turn your AI assistant into a senior web developer. Production-ready guides for SEO, performance, and agent-readiness - ",
@@ -171,15 +234,6 @@
     "url": "https://github.com/wilsonwu-ai/claude-graph-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-20T21:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The math layer for marketing agents: 73 skills, 62 with deterministic engines that return numbers and a verdict. Keep yo",
     "id": "sarojkjha/aaj-marketing-skills",
     "language": "JavaScript",
@@ -194,7 +248,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 120,
-    "updated_at": "2026-10-20T21:28:59Z",
+    "updated_at": "2026-10-20T21:47:54Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-20T21:24:49Z",
     "url": "https://github.com/TsukiNi22/ai-utils"
-  },
-  {
-    "description": "My personal and opinionated skills for agentic coding",
-    "id": "frostney/known-good-route",
-    "language": "TypeScript",
-    "name": "frostney/known-good-route",
-    "stars": 0,
-    "updated_at": "2026-10-20T21:23:36Z",
-    "url": "https://github.com/frostney/known-good-route"
   },
   {
     "description": "marola way of coding",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-20T21:00:37Z",
     "url": "https://github.com/emdashsmoker/biz-agent-skills"
-  },
-  {
-    "description": "LLM Wiki skills that structure knowledge on git with tags, lineage and version control.",
-    "id": "mengjiasun1992/structural-llm-wiki",
-    "language": "Python",
-    "name": "mengjiasun1992/structural-llm-wiki",
-    "stars": 1,
-    "updated_at": "2026-10-20T21:00:31Z",
-    "url": "https://github.com/mengjiasun1992/structural-llm-wiki"
-  },
-  {
-    "description": "Your bug was fixed. Just not everywhere. Finds fixes that reached some sibling implementations but not the others, as a ",
-    "id": "heyzainali/half-fixed",
-    "language": "JavaScript",
-    "name": "heyzainali/half-fixed",
-    "stars": 2,
-    "updated_at": "2026-10-20T20:59:21Z",
-    "url": "https://github.com/heyzainali/half-fixed"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-10-20T20:58:38Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude has never seen 68% of the Claude Code docs: research, interactive charts and a plugin that tells it what it misse",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 8,
-    "updated_at": "2026-10-20T20:58:19Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 1,
-    "updated_at": "2026-10-20T20:58:08Z",
-    "url": "https://github.com/mimukit/skills"
   }
 ]
