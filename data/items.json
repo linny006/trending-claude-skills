@@ -1,12 +1,93 @@
 [
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 120,
-    "updated_at": "2026-10-21T02:59:58Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
+    "description": "Agent skill for watching a field: dated sightings of emerging names, independent-source status ladder, calls with revisi",
+    "id": "fangdididi/horizon-ledger",
+    "language": "Python",
+    "name": "fangdididi/horizon-ledger",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:14:01Z",
+    "url": "https://github.com/fangdididi/horizon-ledger"
+  },
+  {
+    "description": "Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.",
+    "id": "dembrandt/dembrandt-skills",
+    "language": "JavaScript",
+    "name": "dembrandt/dembrandt-skills",
+    "stars": 139,
+    "updated_at": "2026-10-21T03:12:13Z",
+    "url": "https://github.com/dembrandt/dembrandt-skills"
+  },
+  {
+    "description": "A Claude Code skill for building casual mobile games that run smoothly on cheap Android phones. Learned shipping four ga",
+    "id": "Ahmad1765/claude-mobile-game-playbook",
+    "language": "JavaScript",
+    "name": "Ahmad1765/claude-mobile-game-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:12:13Z",
+    "url": "https://github.com/Ahmad1765/claude-mobile-game-playbook"
+  },
+  {
+    "description": "See what AI made and the recipe behind it: exact prompts, skills, tools and steps. Search recipes, capture your own Clau",
+    "id": "fraylabs/possible",
+    "language": "JavaScript",
+    "name": "fraylabs/possible",
+    "stars": 11,
+    "updated_at": "2026-10-21T03:11:32Z",
+    "url": "https://github.com/fraylabs/possible"
+  },
+  {
+    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 79,
+    "updated_at": "2026-10-21T03:14:31Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105287,
+    "updated_at": "2026-10-21T03:09:17Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Plugin Claude Code: skill de integra\u00e7\u00e3o com o SuperDB (drop-in supabase-js)",
+    "id": "superdb-br/superdb-plugin",
+    "language": "TypeScript",
+    "name": "superdb-br/superdb-plugin",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:07:57Z",
+    "url": "https://github.com/superdb-br/superdb-plugin"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 4124,
+    "updated_at": "2026-10-21T03:06:59Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "Security-first catalog of Claude Code plugins, skills, MCP servers and hyped AI dev tools - each one rated and checked f",
+    "id": "MPoulhazan/awesome-vetted-claude-code",
+    "language": "JavaScript",
+    "name": "MPoulhazan/awesome-vetted-claude-code",
+    "stars": 0,
+    "updated_at": "2026-10-21T03:05:38Z",
+    "url": "https://github.com/MPoulhazan/awesome-vetted-claude-code"
+  },
+  {
+    "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
+    "id": "fattain-naime/engineering-docs",
+    "language": "JavaScript",
+    "name": "fattain-naime/engineering-docs",
+    "stars": 6,
+    "updated_at": "2026-10-21T03:04:53Z",
+    "url": "https://github.com/fattain-naime/engineering-docs"
   },
   {
     "description": "Skills Claude Code pour cr\u00e9er ton SaaS personnel (Cloudflare, Convex, Lumail, Stripe) : grill-me, audit-safety et plus. ",
@@ -14,8 +95,35 @@
     "language": "TypeScript",
     "name": "Melvynx/ai-maxxing-skills",
     "stars": 3,
-    "updated_at": "2026-10-21T02:59:40Z",
+    "updated_at": "2026-10-21T03:02:37Z",
     "url": "https://github.com/Melvynx/ai-maxxing-skills"
+  },
+  {
+    "description": "AI \u00d7 BDD spec-driven development for Claude Code. greenlight turns a feature request into human-approved, executable spe",
+    "id": "iadr-dev/greenlight",
+    "language": "Python",
+    "name": "iadr-dev/greenlight",
+    "stars": 1,
+    "updated_at": "2026-10-21T03:10:36Z",
+    "url": "https://github.com/iadr-dev/greenlight"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-21T03:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 120,
+    "updated_at": "2026-10-21T02:59:58Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Matt Pocock \u7684 27 \u4e2a\u5de5\u7a0b\u6280\u80fd\uff08grilling \u9700\u6c42\u62f7\u95ee\u3001spec/\u5de5\u5355\u62c6\u5206\u3001TDD\u3001\u53cc\u8f74 code review\u3001\u9886\u57df\u5efa\u6a21\u3001wayfinder \u51b3\u7b56\u5730\u56fe\u3001retro \u590d\u76d8\uff09\u6253\u5305\u6210 DeepSeek Harness \u7684 Ag",
@@ -34,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-10-21T02:56:02Z",
     "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
-    "id": "fattain-naime/engineering-docs",
-    "language": "JavaScript",
-    "name": "fattain-naime/engineering-docs",
-    "stars": 6,
-    "updated_at": "2026-10-21T02:54:33Z",
-    "url": "https://github.com/fattain-naime/engineering-docs"
   },
   {
     "description": "A growing collection of Claude Code skills, packaged as one plugin.",
@@ -90,15 +189,6 @@
     "url": "https://github.com/fx-studio/fx-sdlc-lab"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105284,
-    "updated_at": "2026-10-21T02:58:40Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
     "id": "skeptrunedev/call4me",
     "language": "TypeScript",
@@ -108,13 +198,13 @@
     "url": "https://github.com/skeptrunedev/call4me"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-21T02:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70234,
+    "updated_at": "2026-10-21T03:07:39Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
@@ -169,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T02:36:57Z",
     "url": "https://github.com/kidskoding/anikonistack"
-  },
-  {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 4120,
-    "updated_at": "2026-10-21T02:53:59Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
   },
   {
     "description": "A grounded, agent-callable catalog of ~43 corporate operating frameworks + a Claude Code skill that routes decisions to ",
@@ -302,7 +383,7 @@
     "language": "Go",
     "name": "grundmanise/agentx",
     "stars": 1,
-    "updated_at": "2026-10-21T02:19:18Z",
+    "updated_at": "2026-10-21T03:13:27Z",
     "url": "https://github.com/grundmanise/agentx"
   },
   {
@@ -329,7 +410,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-21T02:55:48Z",
+    "updated_at": "2026-10-21T03:03:57Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T02:13:44Z",
     "url": "https://github.com/xeno-xeno/mvp-spec"
-  },
-  {
-    "description": "Free Claude marketing skills for Google Ads, Meta Ads, GA4, SEO and reporting that run on live marketing data through In",
-    "id": "Insightful-Pipe/marketing-skills",
-    "language": "Python",
-    "name": "Insightful-Pipe/marketing-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T02:10:44Z",
-    "url": "https://github.com/Insightful-Pipe/marketing-skills"
-  },
-  {
-    "description": "A comprehensive AI toolkit for Claude Code featuring multi-language agents, reusable skills, and MCP services to superch",
-    "id": "ProjAnvil/MindForge",
-    "language": "Python",
-    "name": "ProjAnvil/MindForge",
-    "stars": 3,
-    "updated_at": "2026-10-21T02:09:08Z",
-    "url": "https://github.com/ProjAnvil/MindForge"
-  },
-  {
-    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
-    "id": "escoffier-labs/brigade",
-    "language": "Python",
-    "name": "escoffier-labs/brigade",
-    "stars": 79,
-    "updated_at": "2026-10-21T02:58:23Z",
-    "url": "https://github.com/escoffier-labs/brigade"
-  },
-  {
-    "description": "An agent agnostic skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual d",
-    "id": "MetcalfSolutions/Satori",
-    "language": "Python",
-    "name": "MetcalfSolutions/Satori",
-    "stars": 86,
-    "updated_at": "2026-10-21T02:05:49Z",
-    "url": "https://github.com/MetcalfSolutions/Satori"
-  },
-  {
-    "description": "AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plu",
-    "id": "codenamev/ai-software-architect",
-    "language": "JavaScript",
-    "name": "codenamev/ai-software-architect",
-    "stars": 79,
-    "updated_at": "2026-10-21T02:04:58Z",
-    "url": "https://github.com/codenamev/ai-software-architect"
-  },
-  {
-    "description": "Independently checked Go API ports and original Gooo policy programs for coding agents, with stdio MCP, native CLI previ",
-    "id": "kimjooyoon/gooo-go-ports",
-    "language": "Go",
-    "name": "kimjooyoon/gooo-go-ports",
-    "stars": 1,
-    "updated_at": "2026-10-21T02:47:54Z",
-    "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70235,
-    "updated_at": "2026-10-21T02:46:37Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Explainer pages for readers with ADHD or a short working memory. A Claude Code plugin and Agent Skills that turn agent o",
-    "id": "ariasr47/glance-explainer",
-    "language": "HTML",
-    "name": "ariasr47/glance-explainer",
-    "stars": 0,
-    "updated_at": "2026-10-21T02:04:06Z",
-    "url": "https://github.com/ariasr47/glance-explainer"
-  },
-  {
-    "description": "AI \u00d7 BDD spec-driven development for Claude Code. greenlight turns a feature request into human-approved, executable spe",
-    "id": "iadr-dev/greenlight",
-    "language": "Python",
-    "name": "iadr-dev/greenlight",
-    "stars": 1,
-    "updated_at": "2026-10-21T02:51:43Z",
-    "url": "https://github.com/iadr-dev/greenlight"
   }
 ]
