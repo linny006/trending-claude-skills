@@ -1,11 +1,92 @@
 [
   {
+    "description": "The skills I use to build software with coding agents.",
+    "id": "bostonaholic/skills",
+    "language": "JavaScript",
+    "name": "bostonaholic/skills",
+    "stars": 2,
+    "updated_at": "2026-10-21T22:38:09Z",
+    "url": "https://github.com/bostonaholic/skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70250,
+    "updated_at": "2026-10-21T22:38:37Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Statistical timeseries forecasting in DuckDB",
+    "id": "DataZooDE/anofox-forecast",
+    "language": "Rust",
+    "name": "DataZooDE/anofox-forecast",
+    "stars": 42,
+    "updated_at": "2026-10-21T22:36:28Z",
+    "url": "https://github.com/DataZooDE/anofox-forecast"
+  },
+  {
+    "description": "Multi-agent all gathered on a table to discuss lancelot with agentic workflows",
+    "id": "rustcircle/c101",
+    "language": "Python",
+    "name": "rustcircle/c101",
+    "stars": 0,
+    "updated_at": "2026-10-21T22:35:16Z",
+    "url": "https://github.com/rustcircle/c101"
+  },
+  {
+    "description": "Independently checked Go API ports and original Gooo policy programs for coding agents, with stdio MCP, native CLI previ",
+    "id": "kimjooyoon/gooo-go-ports",
+    "language": "Go",
+    "name": "kimjooyoon/gooo-go-ports",
+    "stars": 1,
+    "updated_at": "2026-10-21T22:32:53Z",
+    "url": "https://github.com/kimjooyoon/gooo-go-ports"
+  },
+  {
+    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 37,
+    "updated_at": "2026-10-21T22:36:47Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105662,
+    "updated_at": "2026-10-21T22:31:53Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
+    "id": "scenario-labs/skills",
+    "language": "Python",
+    "name": "scenario-labs/skills",
+    "stars": 1082,
+    "updated_at": "2026-10-21T22:36:10Z",
+    "url": "https://github.com/scenario-labs/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 131,
+    "updated_at": "2026-10-21T22:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
     "id": "solanabr/ai-kit",
     "language": "Shell",
     "name": "solanabr/ai-kit",
     "stars": 109,
-    "updated_at": "2026-10-21T22:29:14Z",
+    "updated_at": "2026-10-21T22:32:49Z",
     "url": "https://github.com/solanabr/ai-kit"
   },
   {
@@ -45,6 +126,15 @@
     "url": "https://github.com/xAmirHamza77/ClaudeSwitch"
   },
   {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "Python",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-21T22:24:47Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -52,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T22:24:21Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105661,
-    "updated_at": "2026-10-21T22:23:51Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "\uac1c\ubc1c \uc804\uc6a9 Claude Code \ud50c\ub7ec\uadf8\uc778",
@@ -81,15 +162,6 @@
     "url": "https://github.com/AN0099/toothpaste-kit"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70250,
-    "updated_at": "2026-10-21T22:21:17Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "AI skill for writing concise, dual-audience READMEs, distilled from 21 top open-source projects",
     "id": "quartztester/readme-authoring-skill",
     "language": "\u2014",
@@ -97,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T22:20:12Z",
     "url": "https://github.com/quartztester/readme-authoring-skill"
-  },
-  {
-    "description": "Multi-agent all gathered on a table to discuss lancelot with agentic workflows",
-    "id": "rustcircle/c101",
-    "language": "Python",
-    "name": "rustcircle/c101",
-    "stars": 0,
-    "updated_at": "2026-10-21T22:15:49Z",
-    "url": "https://github.com/rustcircle/c101"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-21T22:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
@@ -302,7 +356,7 @@
     "language": "Python",
     "name": "escoffier-labs/brigade",
     "stars": 79,
-    "updated_at": "2026-10-21T22:22:57Z",
+    "updated_at": "2026-10-21T22:37:06Z",
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
@@ -322,6 +376,15 @@
     "stars": 111,
     "updated_at": "2026-10-21T21:50:28Z",
     "url": "https://github.com/roedyrustam/vibes-plug"
+  },
+  {
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30977,
+    "updated_at": "2026-10-21T21:49:09Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "Skills for Claude Code and Codex: durable goal loops, parallel review, research, investigation and implementation, and r",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:41:55Z",
     "url": "https://github.com/kharoldcanova/design-md"
-  },
-  {
-    "description": "Datacircle lists all the GTM APIs",
-    "id": "waynehamadi/datacircle",
-    "language": "\u2014",
-    "name": "waynehamadi/datacircle",
-    "stars": 1,
-    "updated_at": "2026-10-21T21:40:16Z",
-    "url": "https://github.com/waynehamadi/datacircle"
-  },
-  {
-    "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
-    "id": "ShadowSwaps/REA-Reconstruction-Companion",
-    "language": "JavaScript",
-    "name": "ShadowSwaps/REA-Reconstruction-Companion",
-    "stars": 102,
-    "updated_at": "2026-10-21T21:54:27Z",
-    "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion"
-  },
-  {
-    "description": "Read-only Google Workspace security audit built on GAM7, with a Claude Code plugin that writes a ranked gap report.",
-    "id": "SkilledDragonCorp/gws-audit-kit",
-    "language": "Python",
-    "name": "SkilledDragonCorp/gws-audit-kit",
-    "stars": 0,
-    "updated_at": "2026-10-21T21:37:25Z",
-    "url": "https://github.com/SkilledDragonCorp/gws-audit-kit"
-  },
-  {
-    "description": "Claude Code skills for making games in Unity, from writing code to working in the editor.",
-    "id": "Xenoneqq/unity-ai-skills",
-    "language": "Shell",
-    "name": "Xenoneqq/unity-ai-skills",
-    "stars": 1,
-    "updated_at": "2026-10-21T21:36:09Z",
-    "url": "https://github.com/Xenoneqq/unity-ai-skills"
-  },
-  {
-    "description": "Claude Code skills to reverse engineer any app and rebuild it as your own: recon, architecture, design system, build, te",
-    "id": "realtahailyas/reverse-engineer-app-skills",
-    "language": "Python",
-    "name": "realtahailyas/reverse-engineer-app-skills",
-    "stars": 1,
-    "updated_at": "2026-10-21T21:34:47Z",
-    "url": "https://github.com/realtahailyas/reverse-engineer-app-skills"
-  },
-  {
-    "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser",
-    "id": "plasminds/team-skills",
-    "language": "JavaScript",
-    "name": "plasminds/team-skills",
-    "stars": 3,
-    "updated_at": "2026-10-21T21:34:08Z",
-    "url": "https://github.com/plasminds/team-skills"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 10,
-    "updated_at": "2026-10-21T21:33:32Z",
-    "url": "https://github.com/using-system/oddyssey"
   }
 ]
