@@ -1,5 +1,77 @@
 [
   {
+    "description": "The issue-pipeline workflow system as a Claude Code plugin: GitHub Issues as the work-item SSOT, labels as the pipeline,",
+    "id": "itw-creative-works/workkit",
+    "language": "JavaScript",
+    "name": "itw-creative-works/workkit",
+    "stars": 4,
+    "updated_at": "2026-10-21T00:29:57Z",
+    "url": "https://github.com/itw-creative-works/workkit"
+  },
+  {
+    "description": "Keep your knowledge base current in Google Drive. Claude files your documents as plain Markdown, keeps one up-to-date an",
+    "id": "walkwithedi/drive-wiki",
+    "language": "Python",
+    "name": "walkwithedi/drive-wiki",
+    "stars": 1,
+    "updated_at": "2026-10-21T00:30:02Z",
+    "url": "https://github.com/walkwithedi/drive-wiki"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105248,
+    "updated_at": "2026-10-21T00:28:25Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/ai-utils",
+    "language": "C++",
+    "name": "TsukiNi22/ai-utils",
+    "stars": 1,
+    "updated_at": "2026-10-21T00:28:12Z",
+    "url": "https://github.com/TsukiNi22/ai-utils"
+  },
+  {
+    "description": "Pantheon Seed \u2014 \u043c\u0438\u043d\u0438\u044f\u0434\u0440\u043e \u0434\u043b\u044f Claude Code: \u043d\u0430\u0432\u044b\u043a\u0438 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439, \u043a\u0430\u0440\u043a\u0430\u0441 \u043f\u0430\u043c\u044f\u0442\u0438, \u043c\u043e\u0441\u0442 \u0441 \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u043c \u044f\u0434\u0440\u043e\u043c \u0447\u0435\u0440\u0435\u0437 \u043a\u0430\u0440\u0430\u043d\u0442",
+    "id": "alkanfel1987/pantheon-seed",
+    "language": "Python",
+    "name": "alkanfel1987/pantheon-seed",
+    "stars": 0,
+    "updated_at": "2026-10-21T00:27:38Z",
+    "url": "https://github.com/alkanfel1987/pantheon-seed"
+  },
+  {
+    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 79,
+    "updated_at": "2026-10-21T00:29:56Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "Free Claude marketing skills for Google Ads, Meta Ads, GA4, SEO and reporting that run on live marketing data through In",
+    "id": "Insightful-Pipe/marketing-skills",
+    "language": "Python",
+    "name": "Insightful-Pipe/marketing-skills",
+    "stars": 0,
+    "updated_at": "2026-10-21T00:25:27Z",
+    "url": "https://github.com/Insightful-Pipe/marketing-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-21T00:25:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
     "id": "the911fund/skill-of-skills",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 79,
     "updated_at": "2026-10-21T00:25:05Z",
     "url": "https://github.com/the911fund/skill-of-skills"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105245,
-    "updated_at": "2026-10-21T00:23:57Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -135,15 +198,6 @@
     "url": "https://github.com/ducdg88/ducpt-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-21T00:15:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
     "id": "saumit2401273106-lab/preflight-checklist",
     "language": "HTML",
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T00:13:01Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
-    "id": "escoffier-labs/brigade",
-    "language": "Python",
-    "name": "escoffier-labs/brigade",
-    "stars": 78,
-    "updated_at": "2026-10-21T00:23:47Z",
-    "url": "https://github.com/escoffier-labs/brigade"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -229,7 +274,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 101962,
+    "stars": 101963,
     "updated_at": "2026-10-21T00:08:18Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 37,
-    "updated_at": "2026-10-21T00:22:47Z",
+    "updated_at": "2026-10-21T00:26:00Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -358,15 +403,6 @@
     "stars": 8,
     "updated_at": "2026-10-20T23:50:10Z",
     "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "Free Claude marketing skills for Google Ads, Meta Ads, GA4, SEO and reporting that run on live marketing data through In",
-    "id": "Insightful-Pipe/marketing-skills",
-    "language": "Python",
-    "name": "Insightful-Pipe/marketing-skills",
-    "stars": 0,
-    "updated_at": "2026-10-20T23:48:58Z",
-    "url": "https://github.com/Insightful-Pipe/marketing-skills"
   },
   {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-21T00:21:30Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-20T23:41:40Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-10-20T23:41:29Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Success codes can lie. An agent skill that makes coding agents verify each step's real effect and stop for review before",
-    "id": "pabasara-mahindapala/checkpointed-execution",
-    "language": "Shell",
-    "name": "pabasara-mahindapala/checkpointed-execution",
-    "stars": 0,
-    "updated_at": "2026-10-20T23:41:19Z",
-    "url": "https://github.com/pabasara-mahindapala/checkpointed-execution"
-  },
-  {
-    "description": "A release video you can make again with every version. Free omnigami skill for Claude Code and other agents.",
-    "id": "omnigami-ai/whats-new",
-    "language": "JavaScript",
-    "name": "omnigami-ai/whats-new",
-    "stars": 0,
-    "updated_at": "2026-10-20T23:41:13Z",
-    "url": "https://github.com/omnigami-ai/whats-new"
   }
 ]
