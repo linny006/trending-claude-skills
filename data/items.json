@@ -1,12 +1,129 @@
 [
   {
+    "description": "Your whole product team, not just a coding agent. Plan \u2192 design \u2192 build \u2192 QA, with you as the PM who signs off.",
+    "id": "AyeJK/phase-runner",
+    "language": "TypeScript",
+    "name": "AyeJK/phase-runner",
+    "stars": 27,
+    "updated_at": "2026-10-21T21:42:06Z",
+    "url": "https://github.com/AyeJK/phase-runner"
+  },
+  {
+    "description": "Skill para agentes de IA que define el sistema visual de un proyecto (paleta, tipograf\u00eda, tokens) y genera un DESIGN.md ",
+    "id": "kharoldcanova/design-md",
+    "language": "HTML",
+    "name": "kharoldcanova/design-md",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:41:55Z",
+    "url": "https://github.com/kharoldcanova/design-md"
+  },
+  {
+    "description": "Datacircle lists all the GTM APIs",
+    "id": "waynehamadi/datacircle",
+    "language": "\u2014",
+    "name": "waynehamadi/datacircle",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:40:16Z",
+    "url": "https://github.com/waynehamadi/datacircle"
+  },
+  {
+    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
+    "id": "aranculleton/last-job-search",
+    "language": "Python",
+    "name": "aranculleton/last-job-search",
+    "stars": 4,
+    "updated_at": "2026-10-21T21:40:12Z",
+    "url": "https://github.com/aranculleton/last-job-search"
+  },
+  {
     "description": "The open-source app everyone uses to manage agents at work",
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 105642,
-    "updated_at": "2026-10-21T21:28:39Z",
+    "stars": 105648,
+    "updated_at": "2026-10-21T21:43:31Z",
     "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
+    "id": "ShadowSwaps/REA-Reconstruction-Companion",
+    "language": "JavaScript",
+    "name": "ShadowSwaps/REA-Reconstruction-Companion",
+    "stars": 102,
+    "updated_at": "2026-10-21T21:38:08Z",
+    "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion"
+  },
+  {
+    "description": "Read-only Google Workspace security audit built on GAM7, with a Claude Code plugin that writes a ranked gap report.",
+    "id": "SkilledDragonCorp/gws-audit-kit",
+    "language": "Python",
+    "name": "SkilledDragonCorp/gws-audit-kit",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:37:25Z",
+    "url": "https://github.com/SkilledDragonCorp/gws-audit-kit"
+  },
+  {
+    "description": "Claude Code skills for making games in Unity, from writing code to working in the editor.",
+    "id": "Xenoneqq/unity-ai-skills",
+    "language": "Shell",
+    "name": "Xenoneqq/unity-ai-skills",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:36:09Z",
+    "url": "https://github.com/Xenoneqq/unity-ai-skills"
+  },
+  {
+    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
+    "id": "solanabr/ai-kit",
+    "language": "Shell",
+    "name": "solanabr/ai-kit",
+    "stars": 109,
+    "updated_at": "2026-10-21T21:38:06Z",
+    "url": "https://github.com/solanabr/ai-kit"
+  },
+  {
+    "description": "Claude Code skills to reverse engineer any app and rebuild it as your own: recon, architecture, design system, build, te",
+    "id": "realtahailyas/reverse-engineer-app-skills",
+    "language": "Python",
+    "name": "realtahailyas/reverse-engineer-app-skills",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:34:47Z",
+    "url": "https://github.com/realtahailyas/reverse-engineer-app-skills"
+  },
+  {
+    "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser",
+    "id": "plasminds/team-skills",
+    "language": "JavaScript",
+    "name": "plasminds/team-skills",
+    "stars": 3,
+    "updated_at": "2026-10-21T21:34:08Z",
+    "url": "https://github.com/plasminds/team-skills"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 10,
+    "updated_at": "2026-10-21T21:33:32Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "Turn a research paper into a 2-minute narrated explainer video with your coding agent: charts rebuilt from the numbers i",
+    "id": "DjoFE2021/paper-motion-video",
+    "language": "JavaScript",
+    "name": "DjoFE2021/paper-motion-video",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:31:01Z",
+    "url": "https://github.com/DjoFE2021/paper-motion-video"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 131,
+    "updated_at": "2026-10-21T21:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
@@ -18,6 +135,15 @@
     "url": "https://github.com/BENZEMA216/awesome-weread"
   },
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102140,
+    "updated_at": "2026-10-21T21:25:26Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
     "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
     "id": "the911fund/skill-of-skills",
     "language": "Python",
@@ -25,6 +151,15 @@
     "stars": 79,
     "updated_at": "2026-10-21T21:25:05Z",
     "url": "https://github.com/the911fund/skill-of-skills"
+  },
+  {
+    "description": "61 specialist workflows with executable local tools, evidence checks and an explainable task router. Free under MIT.",
+    "id": "Shaisolaris/solaris-dev-shop",
+    "language": "Python",
+    "name": "Shaisolaris/solaris-dev-shop",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:24:50Z",
+    "url": "https://github.com/Shaisolaris/solaris-dev-shop"
   },
   {
     "description": "Motorola 68000 Disassembler (Macintosh and Atari ST) \u2014 Code Agent",
@@ -36,15 +171,6 @@
     "url": "https://github.com/reyco2000/68000-dissasembler-skill"
   },
   {
-    "description": "Skill para agentes de IA que define el sistema visual de un proyecto (paleta, tipograf\u00eda, tokens) y genera un DESIGN.md ",
-    "id": "kharoldcanova/design-md",
-    "language": "HTML",
-    "name": "kharoldcanova/design-md",
-    "stars": 0,
-    "updated_at": "2026-10-21T21:24:33Z",
-    "url": "https://github.com/kharoldcanova/design-md"
-  },
-  {
     "description": "Cut AI token usage and calculation errors: exact, deterministic math for AI assistants in one fast CLI.",
     "id": "mauronofrio/fixedlogic",
     "language": "Go",
@@ -52,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:23:41Z",
     "url": "https://github.com/mauronofrio/fixedlogic"
-  },
-  {
-    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
-    "id": "using-system/oddyssey",
-    "language": "Python",
-    "name": "using-system/oddyssey",
-    "stars": 10,
-    "updated_at": "2026-10-21T21:24:56Z",
-    "url": "https://github.com/using-system/oddyssey"
   },
   {
     "description": "A Claude skill for building, running and debugging agents on locally hosted models (Ollama, vLLM, llama.cpp, LM Studio, ",
@@ -79,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T21:27:54Z",
     "url": "https://github.com/darrenpaine/harnessd"
-  },
-  {
-    "description": "Claude Code skills to reverse engineer any app and rebuild it as your own: recon, architecture, design system, build, te",
-    "id": "realtahailyas/reverse-engineer-app-skills",
-    "language": "Python",
-    "name": "realtahailyas/reverse-engineer-app-skills",
-    "stars": 1,
-    "updated_at": "2026-10-21T21:19:53Z",
-    "url": "https://github.com/realtahailyas/reverse-engineer-app-skills"
   },
   {
     "description": "",
@@ -113,17 +221,8 @@
     "language": "Shell",
     "name": "chrislacey89/skills",
     "stars": 4,
-    "updated_at": "2026-10-21T21:16:34Z",
+    "updated_at": "2026-10-21T21:32:14Z",
     "url": "https://github.com/chrislacey89/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-21T21:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
@@ -131,7 +230,7 @@
     "language": "Python",
     "name": "trevhud/rote",
     "stars": 8,
-    "updated_at": "2026-10-21T21:15:02Z",
+    "updated_at": "2026-10-21T21:34:37Z",
     "url": "https://github.com/trevhud/rote"
   },
   {
@@ -205,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-21T21:08:10Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
-    "id": "aranculleton/last-job-search",
-    "language": "Python",
-    "name": "aranculleton/last-job-search",
-    "stars": 4,
-    "updated_at": "2026-10-21T21:07:18Z",
-    "url": "https://github.com/aranculleton/last-job-search"
   },
   {
     "description": "The skills that build, describe, ship and announce apps \u2014 to the App Store and Google Play, and direct on Mac and Window",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T20:56:13Z",
     "url": "https://github.com/emdashsmoker/biz-agent-skills"
-  },
-  {
-    "description": "Drawing agent skills built on art principles, plus diffusion image generation. \uc870\ud615 \uc6d0\ub9ac\uc5d0 \ub530\ub77c \uadf8\ub9bc\uc744 \uc644\uc131\ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac\uacfc \ud655\uc0b0 \ubaa8\ub378 \uc774\ubbf8\uc9c0 \uc0dd\uc131 ",
-    "id": "emdashsmoker/art-agent-skills",
-    "language": "Python",
-    "name": "emdashsmoker/art-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:56:03Z",
-    "url": "https://github.com/emdashsmoker/art-agent-skills"
-  },
-  {
-    "description": "Agent Skills that write logically structured HWPX, DOCX and PPTX documents. HWPX, DOCX, PPTX \ubb38\uc11c\ub97c \ub17c\ub9ac\uc801\uc73c\ub85c \uc791\uc131\ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
-    "id": "emdashsmoker/biz-docgen-agent-skills",
-    "language": "Python",
-    "name": "emdashsmoker/biz-docgen-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:55:41Z",
-    "url": "https://github.com/emdashsmoker/biz-docgen-agent-skills"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:55:11Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
-    "id": "AN0099/toothpaste-kit",
-    "language": "Shell",
-    "name": "AN0099/toothpaste-kit",
-    "stars": 1,
-    "updated_at": "2026-10-21T20:54:23Z",
-    "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-10-21T20:53:24Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser",
-    "id": "plasminds/team-skills",
-    "language": "JavaScript",
-    "name": "plasminds/team-skills",
-    "stars": 3,
-    "updated_at": "2026-10-21T20:53:16Z",
-    "url": "https://github.com/plasminds/team-skills"
-  },
-  {
-    "description": "Agent skills for Flutter and mobile app work. Works with Claude Code, Codex and Cursor.",
-    "id": "mikezamayias/agent-skills",
-    "language": "\u2014",
-    "name": "mikezamayias/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:51:29Z",
-    "url": "https://github.com/mikezamayias/agent-skills"
-  },
-  {
-    "description": "\ud83d\udcfc Declarative AI agent environment manager, written in Rust",
-    "id": "pivoshenko/kasetto",
-    "language": "Rust",
-    "name": "pivoshenko/kasetto",
-    "stars": 212,
-    "updated_at": "2026-10-21T20:51:18Z",
-    "url": "https://github.com/pivoshenko/kasetto"
-  },
-  {
-    "description": "Companion repo for \"Just Enough Context: Teaching Claude to test with Playwright\". Three context layers (AGENTS.md, skil",
-    "id": "nora-weisser/ai-assisted-testing-demo",
-    "language": "Python",
-    "name": "nora-weisser/ai-assisted-testing-demo",
-    "stars": 1,
-    "updated_at": "2026-10-21T20:51:45Z",
-    "url": "https://github.com/nora-weisser/ai-assisted-testing-demo"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-21T20:48:38Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
