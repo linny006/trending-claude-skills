@@ -1,5 +1,59 @@
 [
   {
+    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
+    "id": "aranculleton/last-job-search",
+    "language": "Python",
+    "name": "aranculleton/last-job-search",
+    "stars": 4,
+    "updated_at": "2026-10-21T19:30:00Z",
+    "url": "https://github.com/aranculleton/last-job-search"
+  },
+  {
+    "description": "Production-oriented AI domain-intelligence infrastructure for Indonesian legal, tax, HR, finance, marketing, and strateg",
+    "id": "adamriofc/indonesia-business-agent-skills",
+    "language": "JavaScript",
+    "name": "adamriofc/indonesia-business-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-10-21T19:29:42Z",
+    "url": "https://github.com/adamriofc/indonesia-business-agent-skills"
+  },
+  {
+    "description": "Turn a how-to video into a reusable skill for your AI coding agent \u2014 watched locally, no API keys.",
+    "id": "axel-pm/watch-n-learn",
+    "language": "Python",
+    "name": "axel-pm/watch-n-learn",
+    "stars": 9,
+    "updated_at": "2026-10-21T19:29:29Z",
+    "url": "https://github.com/axel-pm/watch-n-learn"
+  },
+  {
+    "description": "Names the harness piece behind each problem in your sessions, what it cost, and whether the fix worked.",
+    "id": "guilhermebkel/harness-ledger",
+    "language": "TypeScript",
+    "name": "guilhermebkel/harness-ledger",
+    "stars": 5,
+    "updated_at": "2026-10-21T19:29:21Z",
+    "url": "https://github.com/guilhermebkel/harness-ledger"
+  },
+  {
+    "description": "paper-polisher-v3.4 \u2014 Agent Skill (SKILL.md open format)",
+    "id": "docsor1212/paper-polisher-pro",
+    "language": "Python",
+    "name": "docsor1212/paper-polisher-pro",
+    "stars": 0,
+    "updated_at": "2026-10-21T19:29:04Z",
+    "url": "https://github.com/docsor1212/paper-polisher-pro"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 131,
+    "updated_at": "2026-10-21T19:28:57Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
     "id": "ShadowSwaps/REA-Reconstruction-Companion",
     "language": "JavaScript",
@@ -45,15 +99,6 @@
     "url": "https://github.com/display-dev/skill"
   },
   {
-    "description": "Names the harness piece behind each problem in your sessions, what it cost, and whether the fix worked.",
-    "id": "guilhermebkel/harness-ledger",
-    "language": "TypeScript",
-    "name": "guilhermebkel/harness-ledger",
-    "stars": 5,
-    "updated_at": "2026-10-21T19:25:04Z",
-    "url": "https://github.com/guilhermebkel/harness-ledger"
-  },
-  {
     "description": "A free, open-source add-on for Claude, ChatGPT, Codex and Cursor that turns a few plain answers into a design system, so",
     "id": "ckryptickunal/OpenDesigner",
     "language": "Python",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "sananthanarayan/skilldrop",
     "stars": 2,
-    "updated_at": "2026-10-21T19:24:03Z",
+    "updated_at": "2026-10-21T19:30:00Z",
     "url": "https://github.com/sananthanarayan/skilldrop"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-21T19:16:23Z",
     "url": "https://github.com/rabius-sunny/agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-21T19:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "quick earnings analysis with consensus Wall Street forecast, with past guidance, with peer industry trend.",
@@ -297,15 +333,6 @@
     "url": "https://github.com/alelu-interest/boris-school"
   },
   {
-    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
-    "id": "aranculleton/last-job-search",
-    "language": "Python",
-    "name": "aranculleton/last-job-search",
-    "stars": 4,
-    "updated_at": "2026-10-21T19:22:30Z",
-    "url": "https://github.com/aranculleton/last-job-search"
-  },
-  {
     "description": "Cite Holmes - deep research skill that interrogates its own citations",
     "id": "docsor1212/cite-holmes",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-21T19:07:43Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 8,
-    "updated_at": "2026-10-21T19:06:47Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "PubMed\u6587\u732e\u5f15\u7528\u6279\u91cf\u9a8c\u8bc1\u5de5\u5177 - AI\u5e7b\u89c9\u68c0\u6d4b",
-    "id": "docsor1212/pubmed-verifier",
-    "language": "Python",
-    "name": "docsor1212/pubmed-verifier",
-    "stars": 2,
-    "updated_at": "2026-10-21T18:48:25Z",
-    "url": "https://github.com/docsor1212/pubmed-verifier"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-21T18:45:42Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
   }
 ]
