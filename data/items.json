@@ -1,5 +1,131 @@
 [
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105642,
+    "updated_at": "2026-10-21T21:28:39Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 67,
+    "updated_at": "2026-10-21T21:26:49Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
+    "id": "the911fund/skill-of-skills",
+    "language": "Python",
+    "name": "the911fund/skill-of-skills",
+    "stars": 79,
+    "updated_at": "2026-10-21T21:25:05Z",
+    "url": "https://github.com/the911fund/skill-of-skills"
+  },
+  {
+    "description": "Motorola 68000 Disassembler (Macintosh and Atari ST) \u2014 Code Agent",
+    "id": "reyco2000/68000-dissasembler-skill",
+    "language": "Python",
+    "name": "reyco2000/68000-dissasembler-skill",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:24:41Z",
+    "url": "https://github.com/reyco2000/68000-dissasembler-skill"
+  },
+  {
+    "description": "Skill para agentes de IA que define el sistema visual de un proyecto (paleta, tipograf\u00eda, tokens) y genera un DESIGN.md ",
+    "id": "kharoldcanova/design-md",
+    "language": "HTML",
+    "name": "kharoldcanova/design-md",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:24:33Z",
+    "url": "https://github.com/kharoldcanova/design-md"
+  },
+  {
+    "description": "Cut AI token usage and calculation errors: exact, deterministic math for AI assistants in one fast CLI.",
+    "id": "mauronofrio/fixedlogic",
+    "language": "Go",
+    "name": "mauronofrio/fixedlogic",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:23:41Z",
+    "url": "https://github.com/mauronofrio/fixedlogic"
+  },
+  {
+    "description": "CLI toolbox for Observability-Driven Development (ODD): coding agents observe local runs on an OpenTelemetry/Grafana sta",
+    "id": "using-system/oddyssey",
+    "language": "Python",
+    "name": "using-system/oddyssey",
+    "stars": 10,
+    "updated_at": "2026-10-21T21:24:56Z",
+    "url": "https://github.com/using-system/oddyssey"
+  },
+  {
+    "description": "A Claude skill for building, running and debugging agents on locally hosted models (Ollama, vLLM, llama.cpp, LM Studio, ",
+    "id": "ghosthat-studio/local-agents",
+    "language": "Python",
+    "name": "ghosthat-studio/local-agents",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:22:58Z",
+    "url": "https://github.com/ghosthat-studio/local-agents"
+  },
+  {
+    "description": "Spec-driven, traceable AI coding harness, demonstrated on a FastAPI + LangGraph + Redis agent service.",
+    "id": "darrenpaine/harnessd",
+    "language": "Python",
+    "name": "darrenpaine/harnessd",
+    "stars": 0,
+    "updated_at": "2026-10-21T21:27:54Z",
+    "url": "https://github.com/darrenpaine/harnessd"
+  },
+  {
+    "description": "Claude Code skills to reverse engineer any app and rebuild it as your own: recon, architecture, design system, build, te",
+    "id": "realtahailyas/reverse-engineer-app-skills",
+    "language": "Python",
+    "name": "realtahailyas/reverse-engineer-app-skills",
+    "stars": 1,
+    "updated_at": "2026-10-21T21:19:53Z",
+    "url": "https://github.com/realtahailyas/reverse-engineer-app-skills"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-10-21T21:19:52Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-21T21:16:38Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 4,
+    "updated_at": "2026-10-21T21:16:34Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 131,
+    "updated_at": "2026-10-21T21:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
     "id": "trevhud/rote",
     "language": "Python",
@@ -34,15 +160,6 @@
     "stars": 69,
     "updated_at": "2026-10-21T21:14:26Z",
     "url": "https://github.com/getaero-io/gtm-eng-skills"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105633,
-    "updated_at": "2026-10-21T21:13:55Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "My personal, curated set of artifacts for AI coding agents",
@@ -135,15 +252,6 @@
     "url": "https://github.com/ckryptickunal/OpenDesigner"
   },
   {
-    "description": "A Claude skill for building, running and debugging agents on locally hosted models (Ollama, vLLM, llama.cpp, LM Studio, ",
-    "id": "ghosthat-studio/local-agents",
-    "language": "Python",
-    "name": "ghosthat-studio/local-agents",
-    "stars": 1,
-    "updated_at": "2026-10-21T21:03:52Z",
-    "url": "https://github.com/ghosthat-studio/local-agents"
-  },
-  {
     "description": "Agent Skill\uff1a\u628a\u4efb\u610f\u4e3b\u9898\u505a\u6210\u5e26\u914d\u97f3\u3001\u8bcd\u7ea7\u5b57\u5e55\u548c HTML/GSAP \u52a8\u6548\u753b\u9762\u7684\u8bb2\u89e3\u89c6\u9891\uff08MP4\uff09\u4e0e\u5c01\u9762\uff1b\u9010\u5e27\u786e\u5b9a\u6027\u6e32\u67d3\uff0c\u753b\u9762\u6309\u5410\u5b57\u65f6\u523b\u5bf9\u4f4d\u3002Turn any topic into a narrated explainer vide",
     "id": "amliuyong/html-to-explainer-video",
     "language": "Python",
@@ -171,22 +279,13 @@
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-21T21:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Spec-driven, traceable AI coding harness, demonstrated on a FastAPI + LangGraph + Redis agent service.",
-    "id": "darrenpaine/harnessd",
-    "language": "Python",
-    "name": "darrenpaine/harnessd",
-    "stars": 0,
-    "updated_at": "2026-10-21T21:10:36Z",
-    "url": "https://github.com/darrenpaine/harnessd"
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
+    "id": "nanocoai/nanoclaw",
+    "language": "TypeScript",
+    "name": "nanocoai/nanoclaw",
+    "stars": 30976,
+    "updated_at": "2026-10-21T20:59:13Z",
+    "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
     "description": "A programmable typesetter for the web",
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-21T20:48:38Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "17 modular skills that give Claude Code's everyday loop \u2014 brainstorm, plan, build, review, document \u2014 a fixed shape.",
-    "id": "matis-dev/m-skills",
-    "language": "Shell",
-    "name": "matis-dev/m-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:48:35Z",
-    "url": "https://github.com/matis-dev/m-skills"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:47:55Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Open-source AI skills for SEO, AI search visibility, conversion copy, marketing strategy, and business operations. Reusa",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 128,
-    "updated_at": "2026-10-21T20:46:45Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, n",
-    "id": "alexgreensh/attention-span",
-    "language": "Python",
-    "name": "alexgreensh/attention-span",
-    "stars": 1484,
-    "updated_at": "2026-10-21T20:46:27Z",
-    "url": "https://github.com/alexgreensh/attention-span"
-  },
-  {
-    "description": "Unofficial Claude Code plugin: lets Claude drive PhotoCraft, the open-source Photoshop-style editor, on macOS (live app ",
-    "id": "mendelabramzon/photocraft-skill",
-    "language": "Python",
-    "name": "mendelabramzon/photocraft-skill",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:44:56Z",
-    "url": "https://github.com/mendelabramzon/photocraft-skill"
-  },
-  {
-    "description": "Free agent skills and Claude Code plugins: launch-check (pre-launch audit of any URL: exposed keys, open database, SEO, ",
-    "id": "Ces107/agent-forge",
-    "language": "Python",
-    "name": "Ces107/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:44:14Z",
-    "url": "https://github.com/Ces107/agent-forge"
-  },
-  {
-    "description": "Claude skill: reverse-engineer visual references into a scalable Instagram brand identity system (English)",
-    "id": "decodengrow/instagram-visual-identity-en",
-    "language": "\u2014",
-    "name": "decodengrow/instagram-visual-identity-en",
-    "stars": 1,
-    "updated_at": "2026-10-21T20:43:49Z",
-    "url": "https://github.com/decodengrow/instagram-visual-identity-en"
-  },
-  {
-    "description": "Claude skill: reverse-engineer visual references into a scalable Instagram brand identity system",
-    "id": "decodengrow/instagram-visual-identity",
-    "language": "\u2014",
-    "name": "decodengrow/instagram-visual-identity",
-    "stars": 1,
-    "updated_at": "2026-10-21T20:43:47Z",
-    "url": "https://github.com/decodengrow/instagram-visual-identity"
-  },
-  {
-    "description": "Claude Code skills for querying Coinpaprika and DexPaprika crypto market data (CEX prices, DEX pools, tokens, OHLCV).",
-    "id": "coinpaprika/skills",
-    "language": "\u2014",
-    "name": "coinpaprika/skills",
-    "stars": 27,
-    "updated_at": "2026-10-21T20:43:17Z",
-    "url": "https://github.com/coinpaprika/skills"
-  },
-  {
-    "description": "Curated, sanitised subset of authored Claude Code skills \u2014 scaffolding, recap/reflect, and a cross-vendor adversarial-re",
-    "id": "FixPortal/fixportal-claude-skills",
-    "language": "PowerShell",
-    "name": "FixPortal/fixportal-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:42:53Z",
-    "url": "https://github.com/FixPortal/fixportal-claude-skills"
-  },
-  {
-    "description": "Claude Code plugin marketplace \u2014 install plugins, skills, subagents, hooks & MCP servers with /plugin marketplace add",
-    "id": "Max-Levitskiy/skills",
-    "language": "TypeScript",
-    "name": "Max-Levitskiy/skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T20:42:27Z",
-    "url": "https://github.com/Max-Levitskiy/skills"
   }
 ]
