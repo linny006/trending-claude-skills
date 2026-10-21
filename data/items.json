@@ -1,5 +1,77 @@
 [
   {
+    "description": "Launch video creation skill and tooling for agents (mainly for Claude Opus 5.5)",
+    "id": "Intentface/intentface-launch",
+    "language": "TypeScript",
+    "name": "Intentface/intentface-launch",
+    "stars": 4,
+    "updated_at": "2026-10-21T05:13:21Z",
+    "url": "https://github.com/Intentface/intentface-launch"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "HTML",
+    "name": "vanducng/skills",
+    "stars": 8,
+    "updated_at": "2026-10-21T05:13:46Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "",
+    "id": "inxups/inxv-skills",
+    "language": "Python",
+    "name": "inxups/inxv-skills",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:12:32Z",
+    "url": "https://github.com/inxups/inxv-skills"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-21T05:12:15Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Self-hosted worker that turns ready Jira, Linear, and GitHub tickets into pull requests with your coding agent\u2014on your m",
+    "id": "getdevintern/devintern",
+    "language": "TypeScript",
+    "name": "getdevintern/devintern",
+    "stars": 3,
+    "updated_at": "2026-10-21T05:11:18Z",
+    "url": "https://github.com/getdevintern/devintern"
+  },
+  {
+    "description": "12 benchmarked Agent Skills for AI coding agents, by role \u2014 debugging, code review, incident response, CI/CD review, thr",
+    "id": "alphasafal/production-agent-skills",
+    "language": "Python",
+    "name": "alphasafal/production-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-21T05:10:45Z",
+    "url": "https://github.com/alphasafal/production-agent-skills"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 8,
+    "updated_at": "2026-10-21T05:13:41Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-21T05:09:47Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Official InkRoom client, MCP integrations and Agent Skills for AI images, reference edits, product visuals, storyboards ",
     "id": "InkRoom-AI/inkroom-client",
     "language": "Go",
@@ -27,6 +99,15 @@
     "url": "https://github.com/drnachio/postext"
   },
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105312,
+    "updated_at": "2026-10-21T05:05:17Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
     "description": "Agent skill collections for OpenCode/Claude/Cursor \u2014 installable per collection, local-first",
     "id": "tpc-pascal/skillsmith",
     "language": "Shell",
@@ -36,40 +117,13 @@
     "url": "https://github.com/tpc-pascal/skillsmith"
   },
   {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 8,
-    "updated_at": "2026-10-21T05:07:32Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
     "description": "JobSearchAssistant: a human-in-the-loop job search agent, built as a Claude plugin and as a LangGraph pipeline with eval",
     "id": "esscott1/job-search-assistant",
     "language": "Python",
     "name": "esscott1/job-search-assistant",
     "stars": 0,
-    "updated_at": "2026-10-21T05:06:13Z",
+    "updated_at": "2026-10-21T05:10:45Z",
     "url": "https://github.com/esscott1/job-search-assistant"
-  },
-  {
-    "description": "12 benchmarked Agent Skills for AI coding agents, by role \u2014 debugging, code review, incident response, CI/CD review, thr",
-    "id": "alphasafal/production-agent-skills",
-    "language": "Python",
-    "name": "alphasafal/production-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T05:08:51Z",
-    "url": "https://github.com/alphasafal/production-agent-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-21T05:00:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Research-grade investment decision engine for AI agents: isolated multi-agent committee, auditable verdicts, backtests w",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T04:18:28Z",
     "url": "https://github.com/superdb-br/superdb-plugin"
-  },
-  {
-    "description": "Skills oficiales de DyDa Flow (Dydaflow / Flow ERP) para dise\u00f1ar m\u00f3dulos y preparar el prompt del Dise\u00f1ador IA",
-    "id": "dydasoftware/dydaflow-skills",
-    "language": "\u2014",
-    "name": "dydasoftware/dydaflow-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:17:23Z",
-    "url": "https://github.com/dydasoftware/dydaflow-skills"
-  },
-  {
-    "description": "Static scanner for AI agent skills: catches prompt injection, dangerous shell commands and data exfiltration in SKILL.md",
-    "id": "artemasmith/skillsentinel",
-    "language": "Python",
-    "name": "artemasmith/skillsentinel",
-    "stars": 2,
-    "updated_at": "2026-10-21T05:06:25Z",
-    "url": "https://github.com/artemasmith/skillsentinel"
-  },
-  {
-    "description": "A rejection-driven workflow for turning unstable work into stable artifacts.",
-    "id": "phykn/loopy",
-    "language": "Python",
-    "name": "phykn/loopy",
-    "stars": 0,
-    "updated_at": "2026-10-21T04:15:12Z",
-    "url": "https://github.com/phykn/loopy"
-  },
-  {
-    "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents",
-    "id": "Ar9av/obsidian-wiki",
-    "language": "Python",
-    "name": "Ar9av/obsidian-wiki",
-    "stars": 3598,
-    "updated_at": "2026-10-21T04:14:42Z",
-    "url": "https://github.com/Ar9av/obsidian-wiki"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 193,
-    "updated_at": "2026-10-21T04:12:23Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
-    "id": "vanducng/skills",
-    "language": "HTML",
-    "name": "vanducng/skills",
-    "stars": 8,
-    "updated_at": "2026-10-21T05:08:06Z",
-    "url": "https://github.com/vanducng/skills"
   }
 ]
