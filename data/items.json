@@ -1,12 +1,12 @@
 [
   {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 8,
-    "updated_at": "2026-10-21T02:43:49Z",
-    "url": "https://github.com/trevhud/rote"
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 120,
+    "updated_at": "2026-10-21T02:59:58Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
     "description": "Skills Claude Code pour cr\u00e9er ton SaaS personnel (Cloudflare, Convex, Lumail, Stripe) : grill-me, audit-safety et plus. ",
@@ -14,8 +14,116 @@
     "language": "TypeScript",
     "name": "Melvynx/ai-maxxing-skills",
     "stars": 3,
-    "updated_at": "2026-10-21T02:42:24Z",
+    "updated_at": "2026-10-21T02:59:40Z",
     "url": "https://github.com/Melvynx/ai-maxxing-skills"
+  },
+  {
+    "description": "Matt Pocock \u7684 27 \u4e2a\u5de5\u7a0b\u6280\u80fd\uff08grilling \u9700\u6c42\u62f7\u95ee\u3001spec/\u5de5\u5355\u62c6\u5206\u3001TDD\u3001\u53cc\u8f74 code review\u3001\u9886\u57df\u5efa\u6a21\u3001wayfinder \u51b3\u7b56\u5730\u56fe\u3001retro \u590d\u76d8\uff09\u6253\u5305\u6210 DeepSeek Harness \u7684 Ag",
+    "id": "YuKimCai/dsh-mattpocock-skill",
+    "language": "JavaScript",
+    "name": "YuKimCai/dsh-mattpocock-skill",
+    "stars": 1,
+    "updated_at": "2026-10-21T02:57:20Z",
+    "url": "https://github.com/YuKimCai/dsh-mattpocock-skill"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-10-21T02:56:02Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
+    "id": "fattain-naime/engineering-docs",
+    "language": "JavaScript",
+    "name": "fattain-naime/engineering-docs",
+    "stars": 6,
+    "updated_at": "2026-10-21T02:54:33Z",
+    "url": "https://github.com/fattain-naime/engineering-docs"
+  },
+  {
+    "description": "A growing collection of Claude Code skills, packaged as one plugin.",
+    "id": "MarvelCollin/agent-skills",
+    "language": "Shell",
+    "name": "MarvelCollin/agent-skills",
+    "stars": 4,
+    "updated_at": "2026-10-21T02:54:01Z",
+    "url": "https://github.com/MarvelCollin/agent-skills"
+  },
+  {
+    "description": "Paid ads skills for Claude Code, Codex and Cursor. LinkedIn Ads and Google Ads audits, reviews, pause rules and launch b",
+    "id": "adwarp-dev/paid-ads-skills",
+    "language": "JavaScript",
+    "name": "adwarp-dev/paid-ads-skills",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:53:43Z",
+    "url": "https://github.com/adwarp-dev/paid-ads-skills"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 19,
+    "updated_at": "2026-10-21T02:53:37Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "HWP(\ud55c\uae00) \ubb38\uc11c \uc218\uc815 \ubd80\ubd84\uc744 \ube68\uac04 \uae00\uc790\ub85c \ud45c\uc2dc\ud558\ub294 Agent Skill (skills.sh)",
+    "id": "isk2026/hwp-redline",
+    "language": "JavaScript",
+    "name": "isk2026/hwp-redline",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:52:59Z",
+    "url": "https://github.com/isk2026/hwp-redline"
+  },
+  {
+    "description": "Fx Studio \u00b7 fx-sdlc-lab: workspace demo c\u1ee7a lo\u1ea1t video AI-Native SDLC. D\u1ef1ng th\u1eadt t\u1eebng b\u01b0\u1edbc c\u1ee7a The AI-native SDLC playbo",
+    "id": "fx-studio/fx-sdlc-lab",
+    "language": "JavaScript",
+    "name": "fx-studio/fx-sdlc-lab",
+    "stars": 0,
+    "updated_at": "2026-10-21T02:52:33Z",
+    "url": "https://github.com/fx-studio/fx-sdlc-lab"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105284,
+    "updated_at": "2026-10-21T02:58:40Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
+    "id": "skeptrunedev/call4me",
+    "language": "TypeScript",
+    "name": "skeptrunedev/call4me",
+    "stars": 13,
+    "updated_at": "2026-10-21T02:48:45Z",
+    "url": "https://github.com/skeptrunedev/call4me"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 129,
+    "updated_at": "2026-10-21T02:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 8,
+    "updated_at": "2026-10-21T02:43:49Z",
+    "url": "https://github.com/trevhud/rote"
   },
   {
     "description": "Skills oficiales de DyDa Flow (Dydaflow / Flow ERP) para dise\u00f1ar m\u00f3dulos y preparar el prompt del Dise\u00f1ador IA",
@@ -54,33 +162,6 @@
     "url": "https://github.com/breakthrough-edu/breakthrough-whatsapp-live"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105280,
-    "updated_at": "2026-10-21T02:45:07Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
-    "id": "fattain-naime/engineering-docs",
-    "language": "JavaScript",
-    "name": "fattain-naime/engineering-docs",
-    "stars": 6,
-    "updated_at": "2026-10-21T02:38:49Z",
-    "url": "https://github.com/fattain-naime/engineering-docs"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-10-21T02:37:56Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
     "description": "Declarative multi-agent skill stack \u2014 install with npx/bunx skills add, or as a Nix home-manager module",
     "id": "kidskoding/anikonistack",
     "language": "Markdown",
@@ -95,7 +176,7 @@
     "language": "JavaScript",
     "name": "QingYunA/answer-me-with-html",
     "stars": 4120,
-    "updated_at": "2026-10-21T02:35:58Z",
+    "updated_at": "2026-10-21T02:53:59Z",
     "url": "https://github.com/QingYunA/answer-me-with-html"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/Additor/mia-open-sales-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 129,
-    "updated_at": "2026-10-21T02:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u7ecf\u8fc7\u771f\u5b9e\u9879\u76ee\u9a8c\u8bc1\u7684 Agent Skills\uff08SKILL.md \u5f00\u653e\u6807\u51c6\uff09\uff1amodel-connector\uff08\u6a21\u578b\u63a5\u5165+\u514d\u8d39API\u53d1\u73b0\uff09\u3001adversarial-review\uff08AI\u5ba1AI\uff09\u3001browser-login-reuse\uff08\u767b\u5f55\u6001\u590d\u7528\uff09",
     "id": "sichenai/sichen-skills",
     "language": "Python",
@@ -169,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T02:29:12Z",
     "url": "https://github.com/sichenai/sichen-skills"
-  },
-  {
-    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
-    "id": "skeptrunedev/call4me",
-    "language": "TypeScript",
-    "name": "skeptrunedev/call4me",
-    "stars": 13,
-    "updated_at": "2026-10-21T02:29:07Z",
-    "url": "https://github.com/skeptrunedev/call4me"
   },
   {
     "description": "A Better, Verifiable, Snapshot-Based Multi-Edit Tool Plugin For Claude Code",
@@ -266,7 +329,7 @@
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-21T02:31:13Z",
+    "updated_at": "2026-10-21T02:55:48Z",
     "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Python",
     "name": "escoffier-labs/brigade",
     "stars": 79,
-    "updated_at": "2026-10-21T02:41:11Z",
+    "updated_at": "2026-10-21T02:58:23Z",
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
@@ -356,7 +419,7 @@
     "language": "Go",
     "name": "kimjooyoon/gooo-go-ports",
     "stars": 1,
-    "updated_at": "2026-10-21T02:04:41Z",
+    "updated_at": "2026-10-21T02:47:54Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
   },
   {
@@ -365,7 +428,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70235,
-    "updated_at": "2026-10-21T02:39:22Z",
+    "updated_at": "2026-10-21T02:46:37Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Python",
     "name": "iadr-dev/greenlight",
     "stars": 1,
-    "updated_at": "2026-10-21T02:23:56Z",
+    "updated_at": "2026-10-21T02:51:43Z",
     "url": "https://github.com/iadr-dev/greenlight"
-  },
-  {
-    "description": "Worker\u2013reviewer pair coding on herdr: one agent writes, another reviews, a watchdog keeps the pair moving. Optional pi i",
-    "id": "HYPERVAPOR/herdr-pair-coding",
-    "language": "Python",
-    "name": "HYPERVAPOR/herdr-pair-coding",
-    "stars": 1,
-    "updated_at": "2026-10-21T02:01:25Z",
-    "url": "https://github.com/HYPERVAPOR/herdr-pair-coding"
-  },
-  {
-    "description": "Two Claude Code skills for running a team of Claude sessions: a chief-of-staff session between you and the team, and an ",
-    "id": "kl-autonomous/agent-team-skills",
-    "language": "HTML",
-    "name": "kl-autonomous/agent-team-skills",
-    "stars": 2,
-    "updated_at": "2026-10-21T02:00:44Z",
-    "url": "https://github.com/kl-autonomous/agent-team-skills"
-  },
-  {
-    "description": "The community-driven Claude Code plugin marketplace for MSPs \u2014 70+ plugins across PSA, RMM, security, documentation, and",
-    "id": "WYRE-AI/msp-claude-plugins",
-    "language": "Astro",
-    "name": "WYRE-AI/msp-claude-plugins",
-    "stars": 49,
-    "updated_at": "2026-10-21T01:59:26Z",
-    "url": "https://github.com/WYRE-AI/msp-claude-plugins"
-  },
-  {
-    "description": "Hosted anonymous MCP/HTTP: PyPI wheel evidence; mathematical IPv4/IPv6 CIDR-set differences, counts and witnesses. Exact",
-    "id": "noqt/yumi-decision-ledger",
-    "language": "Python",
-    "name": "noqt/yumi-decision-ledger",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:53:53Z",
-    "url": "https://github.com/noqt/yumi-decision-ledger"
-  },
-  {
-    "description": "Agent skills that turn a user request into a finished song through theory-based composition, arrangement, mixing and mas",
-    "id": "emdashsmoker/music-agent-skills",
-    "language": "Python",
-    "name": "emdashsmoker/music-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-21T01:50:20Z",
-    "url": "https://github.com/emdashsmoker/music-agent-skills"
-  },
-  {
-    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 37,
-    "updated_at": "2026-10-21T02:40:15Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Keep your knowledge base current in Google Drive. Claude files your documents as plain Markdown, keeps one up-to-date an",
-    "id": "walkwithedi/drive-wiki",
-    "language": "Python",
-    "name": "walkwithedi/drive-wiki",
-    "stars": 1,
-    "updated_at": "2026-10-21T01:48:56Z",
-    "url": "https://github.com/walkwithedi/drive-wiki"
   }
 ]
