@@ -1,5 +1,158 @@
 [
   {
+    "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
+    "id": "mblode/agent-skills",
+    "language": "Python",
+    "name": "mblode/agent-skills",
+    "stars": 152,
+    "updated_at": "2026-10-22T19:44:33Z",
+    "url": "https://github.com/mblode/agent-skills"
+  },
+  {
+    "description": "Ai skills based on my precedent work and style of dev",
+    "id": "TsukiNi22/ai-utils",
+    "language": "C++",
+    "name": "TsukiNi22/ai-utils",
+    "stars": 1,
+    "updated_at": "2026-10-22T19:44:11Z",
+    "url": "https://github.com/TsukiNi22/ai-utils"
+  },
+  {
+    "description": "Compose Skill (Compose Kit): agent skills for Jetpack Compose & Compose Multiplatform. Makes Claude Code, Codex, Cursor,",
+    "id": "Meet-Miyani/compose-skill",
+    "language": "Shell",
+    "name": "Meet-Miyani/compose-skill",
+    "stars": 306,
+    "updated_at": "2026-10-22T19:42:55Z",
+    "url": "https://github.com/Meet-Miyani/compose-skill"
+  },
+  {
+    "description": "BoxLang AI skills repository and Claude Plugin",
+    "id": "ortus-boxlang/skills",
+    "language": "\u2014",
+    "name": "ortus-boxlang/skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:42:03Z",
+    "url": "https://github.com/ortus-boxlang/skills"
+  },
+  {
+    "description": "Claude Code skills: repo-ready (publish, deploy, Python code health) and repo-scout (find GitHub repos to build on)",
+    "id": "octrow/octrow-skills",
+    "language": "Python",
+    "name": "octrow/octrow-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:41:17Z",
+    "url": "https://github.com/octrow/octrow-skills"
+  },
+  {
+    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 80,
+    "updated_at": "2026-10-22T19:40:08Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
+    "id": "PawanSirsat/Laika",
+    "language": "TypeScript",
+    "name": "PawanSirsat/Laika",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:44:04Z",
+    "url": "https://github.com/PawanSirsat/Laika"
+  },
+  {
+    "description": "@conversiontools agent skills",
+    "id": "conversiontools/agent-skills",
+    "language": "\u2014",
+    "name": "conversiontools/agent-skills",
+    "stars": 7,
+    "updated_at": "2026-10-22T19:37:34Z",
+    "url": "https://github.com/conversiontools/agent-skills"
+  },
+  {
+    "description": "Drop-in Jakarta Faces knowledge base for Claude Code",
+    "id": "omnifaces/claude-faces-expert",
+    "language": "Shell",
+    "name": "omnifaces/claude-faces-expert",
+    "stars": 28,
+    "updated_at": "2026-10-22T19:37:29Z",
+    "url": "https://github.com/omnifaces/claude-faces-expert"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-10-22T19:37:28Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "AI senior software engineer for non-technical builders & vibe coders. Plans, structures, builds, tests, ships & document",
+    "id": "bilawalbaig8/hire-an-engineer",
+    "language": "Python",
+    "name": "bilawalbaig8/hire-an-engineer",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:44:02Z",
+    "url": "https://github.com/bilawalbaig8/hire-an-engineer"
+  },
+  {
+    "description": "Claude skill for scripting multi-clip AI videos in VideoExpress 3.5: multishot prompts, Create Mode styles, chaining and",
+    "id": "ratava/videoexpress-scripting-skill",
+    "language": "\u2014",
+    "name": "ratava/videoexpress-scripting-skill",
+    "stars": 4,
+    "updated_at": "2026-10-22T19:35:12Z",
+    "url": "https://github.com/ratava/videoexpress-scripting-skill"
+  },
+  {
+    "description": "Official Dynamoi plugins for Claude Code, Claude Cowork and Gemini CLI: music promotion and distribution, built for AI a",
+    "id": "getDynamoi/agent-plugins",
+    "language": "\u2014",
+    "name": "getDynamoi/agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:34:06Z",
+    "url": "https://github.com/getDynamoi/agent-plugins"
+  },
+  {
+    "description": "A prose linter that sniffs out AI writing tells. Zero dependencies, countable rules plus one judgment model.",
+    "id": "DanRWilloughby/snifftest",
+    "language": "TypeScript",
+    "name": "DanRWilloughby/snifftest",
+    "stars": 35,
+    "updated_at": "2026-10-22T19:33:54Z",
+    "url": "https://github.com/DanRWilloughby/snifftest"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:33:05Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Agent skill and plugins for US mechanics lien and preliminary notice deadlines (LienDeadline). Works with Claude Code, C",
+    "id": "LienDeadline/skills",
+    "language": "JavaScript",
+    "name": "LienDeadline/skills",
+    "stars": 1,
+    "updated_at": "2026-10-22T19:31:27Z",
+    "url": "https://github.com/LienDeadline/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-22T19:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -58,7 +211,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 102307,
+    "stars": 102308,
     "updated_at": "2026-10-22T19:25:49Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -81,15 +234,6 @@
     "url": "https://github.com/Shaisolaris/solaris-dev-shop"
   },
   {
-    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
-    "id": "PawanSirsat/Laika",
-    "language": "TypeScript",
-    "name": "PawanSirsat/Laika",
-    "stars": 0,
-    "updated_at": "2026-10-22T19:27:25Z",
-    "url": "https://github.com/PawanSirsat/Laika"
-  },
-  {
     "description": "Claude Code and Codex skill: AI agents draw HTML mockups, you review them on a local Figma-like canvas. Python only.",
     "id": "chrisjo-dev/mockup-canvas",
     "language": "Python",
@@ -106,6 +250,15 @@
     "stars": 399,
     "updated_at": "2026-10-22T19:23:30Z",
     "url": "https://github.com/WenyuChiou/ai-research-skills"
+  },
+  {
+    "description": "My Claude Code skills, the ones I use every day.",
+    "id": "eduardokairalla1/personal-skills",
+    "language": "Python",
+    "name": "eduardokairalla1/personal-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:21:36Z",
+    "url": "https://github.com/eduardokairalla1/personal-skills"
   },
   {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
@@ -162,15 +315,6 @@
     "url": "https://github.com/antoine-olivier/reliability-skills"
   },
   {
-    "description": "@conversiontools agent skills",
-    "id": "conversiontools/agent-skills",
-    "language": "\u2014",
-    "name": "conversiontools/agent-skills",
-    "stars": 7,
-    "updated_at": "2026-10-22T19:19:31Z",
-    "url": "https://github.com/conversiontools/agent-skills"
-  },
-  {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
     "id": "MAhmed004/ad-ops-mcp-hub",
     "language": "HTML",
@@ -178,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-10-22T19:19:30Z",
     "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Claude skill for scripting multi-clip AI videos in VideoExpress 3.5: multishot prompts, Create Mode styles, chaining and",
-    "id": "ratava/videoexpress-scripting-skill",
-    "language": "\u2014",
-    "name": "ratava/videoexpress-scripting-skill",
-    "stars": 4,
-    "updated_at": "2026-10-22T19:19:38Z",
-    "url": "https://github.com/ratava/videoexpress-scripting-skill"
   },
   {
     "description": "Official Helius AI tooling repository ",
@@ -234,6 +369,15 @@
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
   },
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70277,
+    "updated_at": "2026-10-22T19:17:29Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
     "id": "easyinplay/harnessed",
     "language": "TypeScript",
@@ -252,15 +396,6 @@
     "url": "https://github.com/activeloopai/hivemind"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-22T19:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skill for storing Laravel images on Cloudflare R2: disk config, validated uploads, private previews via signed URL",
     "id": "ledjayrafael/R2-Bucket-Laravel-Skill",
     "language": "\u2014",
@@ -277,24 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T19:10:37Z",
     "url": "https://github.com/jeaninejiang/shipping-skills"
-  },
-  {
-    "description": "A prose linter that sniffs out AI writing tells. Zero dependencies, countable rules plus one judgment model.",
-    "id": "DanRWilloughby/snifftest",
-    "language": "TypeScript",
-    "name": "DanRWilloughby/snifftest",
-    "stars": 35,
-    "updated_at": "2026-10-22T19:10:13Z",
-    "url": "https://github.com/DanRWilloughby/snifftest"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/ai-utils",
-    "language": "C++",
-    "name": "TsukiNi22/ai-utils",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:09:23Z",
-    "url": "https://github.com/TsukiNi22/ai-utils"
   },
   {
     "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
@@ -329,124 +446,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-10-22T19:07:44Z",
+    "updated_at": "2026-10-22T19:38:58Z",
     "url": "https://github.com/blisspixel/primr"
-  },
-  {
-    "description": "Pinterest MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Pinterest pins, carousels and video pin",
-    "id": "postoncehq/pinterest-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/pinterest-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-22T19:07:33Z",
-    "url": "https://github.com/postoncehq/pinterest-mcp"
-  },
-  {
-    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
-    "id": "LilityV/multai-ai-agent-arsenal",
-    "language": "HTML",
-    "name": "LilityV/multai-ai-agent-arsenal",
-    "stars": 0,
-    "updated_at": "2026-10-22T19:07:31Z",
-    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Bluesky MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Bluesky posts with images and video throu",
-    "id": "postoncehq/bluesky-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/bluesky-mcp",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:07:26Z",
-    "url": "https://github.com/postoncehq/bluesky-mcp"
-  },
-  {
-    "description": "Threads MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Threads posts with text, images, video an",
-    "id": "postoncehq/threads-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/threads-mcp",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:07:21Z",
-    "url": "https://github.com/postoncehq/threads-mcp"
-  },
-  {
-    "description": "X (Twitter) MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule tweets with images, GIFs and video th",
-    "id": "postoncehq/x-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/x-mcp",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:07:17Z",
-    "url": "https://github.com/postoncehq/x-mcp"
-  },
-  {
-    "description": "Facebook MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Facebook Page posts, photos and Reels th",
-    "id": "postoncehq/facebook-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/facebook-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-22T19:07:11Z",
-    "url": "https://github.com/postoncehq/facebook-mcp"
-  },
-  {
-    "description": "YouTube MCP server for Claude, ChatGPT, Cursor and Codex. Upload, publish and schedule YouTube videos and Shorts with ti",
-    "id": "postoncehq/youtube-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/youtube-mcp",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:07:06Z",
-    "url": "https://github.com/postoncehq/youtube-mcp"
-  },
-  {
-    "description": "TikTok MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule TikTok videos and photo slideshows, or sen",
-    "id": "postoncehq/tiktok-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/tiktok-mcp",
-    "stars": 3,
-    "updated_at": "2026-10-22T19:07:01Z",
-    "url": "https://github.com/postoncehq/tiktok-mcp"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-10-22T19:06:57Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "Instagram MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule Instagram posts, carousels and Reels th",
-    "id": "postoncehq/instagram-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/instagram-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-22T19:06:56Z",
-    "url": "https://github.com/postoncehq/instagram-mcp"
-  },
-  {
-    "description": "LinkedIn MCP server for Claude, ChatGPT, Cursor and Codex. Publish and schedule LinkedIn posts, images and video through",
-    "id": "postoncehq/linkedin-mcp",
-    "language": "\u2014",
-    "name": "postoncehq/linkedin-mcp",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:06:50Z",
-    "url": "https://github.com/postoncehq/linkedin-mcp"
-  },
-  {
-    "description": "Official PostOnce skills + MCP server for Claude, ChatGPT, Cursor and Codex. Write native posts, crosspost to 9 social p",
-    "id": "postoncehq/postonce-skills",
-    "language": "\u2014",
-    "name": "postoncehq/postonce-skills",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:06:44Z",
-    "url": "https://github.com/postoncehq/postonce-skills"
-  },
-  {
-    "description": "Hosted LinkedIn MCP server. Connect your own LinkedIn account to Claude, ChatGPT, Codex, Cursor, Gemini CLI or any MCP c",
-    "id": "linkmcp-io/linkmcp",
-    "language": "\u2014",
-    "name": "linkmcp-io/linkmcp",
-    "stars": 3,
-    "updated_at": "2026-10-22T19:06:29Z",
-    "url": "https://github.com/linkmcp-io/linkmcp"
   }
 ]
