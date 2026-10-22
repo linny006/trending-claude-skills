@@ -1,5 +1,104 @@
 [
   {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 30,
+    "updated_at": "2026-10-22T05:59:22Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 79,
+    "updated_at": "2026-10-22T05:57:50Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
+    "id": "Frun1753/claude-codecraft-toolkit",
+    "language": "HTML",
+    "name": "Frun1753/claude-codecraft-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-22T05:57:40Z",
+    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
+  },
+  {
+    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
+    "id": "Neetx/ai-security-research-radar",
+    "language": "Python",
+    "name": "Neetx/ai-security-research-radar",
+    "stars": 7,
+    "updated_at": "2026-10-22T05:57:17Z",
+    "url": "https://github.com/Neetx/ai-security-research-radar"
+  },
+  {
+    "description": "Free AI agent skills for traders: backtest sanity checker (look-ahead, overfitting, costs) and SEC filing finder. Agent ",
+    "id": "Tapeskills/trader-skills",
+    "language": "Python",
+    "name": "Tapeskills/trader-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:55:54Z",
+    "url": "https://github.com/Tapeskills/trader-skills"
+  },
+  {
+    "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
+    "id": "Neetx/ai-research-radar",
+    "language": "Python",
+    "name": "Neetx/ai-research-radar",
+    "stars": 4,
+    "updated_at": "2026-10-22T05:55:06Z",
+    "url": "https://github.com/Neetx/ai-research-radar"
+  },
+  {
+    "description": "Sprint planning for building software with AI agents: hex-ID sprints that never move, one file per sprint, legs sized to",
+    "id": "sooperD00/sprinter-kit",
+    "language": "Python",
+    "name": "sooperD00/sprinter-kit",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:52:56Z",
+    "url": "https://github.com/sooperD00/sprinter-kit"
+  },
+  {
+    "description": "19 agent skills for pricing, discounts, promotions, checkout UX, and conversion in online stores.",
+    "id": "checkout-page/ecommerce-skills",
+    "language": "Python",
+    "name": "checkout-page/ecommerce-skills",
+    "stars": 5,
+    "updated_at": "2026-10-22T05:52:46Z",
+    "url": "https://github.com/checkout-page/ecommerce-skills"
+  },
+  {
+    "description": "\ud55c/\uae00 \uc5c6\uc774 \uacf5\uacf5\uae30\uad00 \ud45c\uc900\uc11c\uc2dd \ubcf4\uace0\uc11c(.hwpx)\ub97c \ub9cc\ub4e4\uace0 \uc77d\ub294 \ub3c4\uad6c \u2014 LLM \uc740 \ub0b4\uc6a9\ub9cc, \uc11c\uc2dd\uc740 \uc5d4\uc9c4\uc774. Claude \uc2a4\ud0ac \u00b7 MCP \uc11c\ubc84 \u00b7 \ud30c\uc774\uc36c | Create and read Korean HWPX (Han",
+    "id": "Eum-Jium/hwpx-reporter",
+    "language": "Python",
+    "name": "Eum-Jium/hwpx-reporter",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:52:01Z",
+    "url": "https://github.com/Eum-Jium/hwpx-reporter"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-22T05:51:34Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 131,
+    "updated_at": "2026-10-22T05:50:25Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
     "id": "ragnarwestad/aide",
     "language": "TypeScript",
@@ -45,24 +144,6 @@
     "url": "https://github.com/getdevintern/devintern"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-22T05:45:22Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-22T05:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Factory skill: a software factory for Claude Code. Spec, build, 4 parallel reviews, approver and a human test gate, with",
     "id": "DevJom/factory-skill",
     "language": "HTML",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T05:44:17Z",
     "url": "https://github.com/Ruzora/hiring-skills"
-  },
-  {
-    "description": "Sprint planning for building software with AI agents: hex-ID sprints that never move, one file per sprint, legs sized to",
-    "id": "sooperD00/sprinter-kit",
-    "language": "Python",
-    "name": "sooperD00/sprinter-kit",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:44:12Z",
-    "url": "https://github.com/sooperD00/sprinter-kit"
   },
   {
     "description": "Open-source job search Agent Skill and CLI: searches wide, matches one verified r\u00e9sum\u00e9, applies within your rules, track",
@@ -212,7 +284,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70257,
-    "updated_at": "2026-10-22T05:45:22Z",
+    "updated_at": "2026-10-22T05:58:37Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -232,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T05:30:09Z",
     "url": "https://github.com/sraivante/mdview"
-  },
-  {
-    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
-    "id": "escoffier-labs/brigade",
-    "language": "Python",
-    "name": "escoffier-labs/brigade",
-    "stars": 79,
-    "updated_at": "2026-10-22T05:44:40Z",
-    "url": "https://github.com/escoffier-labs/brigade"
   },
   {
     "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
@@ -301,7 +364,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 105786,
+    "stars": 105795,
     "updated_at": "2026-10-22T05:21:45Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -347,7 +410,7 @@
     "language": "JavaScript",
     "name": "yulmucoffee/artiboard",
     "stars": 5,
-    "updated_at": "2026-10-22T05:12:37Z",
+    "updated_at": "2026-10-22T05:59:26Z",
     "url": "https://github.com/yulmucoffee/artiboard"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T05:07:22Z",
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
-  },
-  {
-    "description": "Agent skill + tested tools for fan-translating Japanese retro games (SNES, GBA, NDS, PS1, PSP) into English: recon, text",
-    "id": "minhnhattonthat/translate-retro-game",
-    "language": "Python",
-    "name": "minhnhattonthat/translate-retro-game",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:05:57Z",
-    "url": "https://github.com/minhnhattonthat/translate-retro-game"
-  },
-  {
-    "description": "AI Agent \u6280\u80fd\u805a\u5408\u4ed3\uff1a127 \u4e2a\u751f\u4ea7\u7ea7 SKILL.md\uff08\u8de8\u5de5\u5177 + DSH \u517c\u5bb9\uff09\uff5cCloud-neutral toolbelt: 25 tools inventoried weekly",
-    "id": "xingtu1996/xingtu-skills",
-    "language": "Python",
-    "name": "xingtu1996/xingtu-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:03:37Z",
-    "url": "https://github.com/xingtu1996/xingtu-skills"
-  },
-  {
-    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
-    "id": "aiskillstore/marketplace",
-    "language": "Python",
-    "name": "aiskillstore/marketplace",
-    "stars": 442,
-    "updated_at": "2026-10-22T05:02:28Z",
-    "url": "https://github.com/aiskillstore/marketplace"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
-    "id": "OKHP3/skillz",
-    "language": "Python",
-    "name": "OKHP3/skillz",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:34:25Z",
-    "url": "https://github.com/OKHP3/skillz"
-  },
-  {
-    "description": "\u9ea6\u95e8\u5065\u5eb7\u4f53\u68c0\u5b98\uff1a\u57fa\u4e8e\u9ea6\u5f53\u52b3\u5b98\u65b9 MCP \u7684\u5065\u5eb7\u4f53\u68c0 Skill\uff0c\u7528\u771f\u5b9e\u8ba2\u5355\u00d7\u8425\u517b\u8868\u00d7\u79ef\u5206\u00d7\u4f18\u60e0\u5238\u7b97\u51fa\u9ea6\u95e8\u5065\u5eb7\u5206\uff0c\u8f93\u51fa\u53ef\u5206\u4eab\u62a5\u544a\u5361",
-    "id": "nihaobeijing/mcd-health-check",
-    "language": "Python",
-    "name": "nihaobeijing/mcd-health-check",
-    "stars": 1,
-    "updated_at": "2026-10-22T05:01:13Z",
-    "url": "https://github.com/nihaobeijing/mcd-health-check"
-  },
-  {
-    "description": "Claude Code & Codex plugin: choose your repo's AI coding workflow, verification, architecture, and AI code review once \u2014",
-    "id": "enebin/groundwork",
-    "language": "Shell",
-    "name": "enebin/groundwork",
-    "stars": 1,
-    "updated_at": "2026-10-22T05:00:36Z",
-    "url": "https://github.com/enebin/groundwork"
-  },
-  {
-    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 450,
-    "updated_at": "2026-10-22T05:00:53Z",
-    "url": "https://github.com/boshu2/agentops"
   }
 ]
