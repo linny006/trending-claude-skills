@@ -1,5 +1,68 @@
 [
   {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-22T05:49:46Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "Generate publication-ready infographics from codebases, data, or text. Three modes (AI Image, HTML Template, Matplotlib)",
+    "id": "arnaugonzalez/infographic-post-skill",
+    "language": "Python",
+    "name": "arnaugonzalez/infographic-post-skill",
+    "stars": 1,
+    "updated_at": "2026-10-22T05:49:01Z",
+    "url": "https://github.com/arnaugonzalez/infographic-post-skill"
+  },
+  {
+    "description": "Auto-updating list of trending, free & open-source GitHub repos, skills, plugins and MCP servers for Claude Code, Codex ",
+    "id": "AnkTechsol/Useful-repo-by-anktechsol",
+    "language": "Python",
+    "name": "AnkTechsol/Useful-repo-by-anktechsol",
+    "stars": 0,
+    "updated_at": "2026-10-22T05:48:37Z",
+    "url": "https://github.com/AnkTechsol/Useful-repo-by-anktechsol"
+  },
+  {
+    "description": "A curated bundle of 38 Claude Skills for quantitative, qualitative, experimental & mixed-methods research in business, f",
+    "id": "Nero1688/claude-academic-skills",
+    "language": "Python",
+    "name": "Nero1688/claude-academic-skills",
+    "stars": 13,
+    "updated_at": "2026-10-22T05:48:01Z",
+    "url": "https://github.com/Nero1688/claude-academic-skills"
+  },
+  {
+    "description": "Self-hosted worker that turns ready Jira, Linear, and GitHub tickets into pull requests with your coding agent\u2014on your m",
+    "id": "getdevintern/devintern",
+    "language": "TypeScript",
+    "name": "getdevintern/devintern",
+    "stars": 3,
+    "updated_at": "2026-10-22T05:46:44Z",
+    "url": "https://github.com/getdevintern/devintern"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-22T05:45:22Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 131,
+    "updated_at": "2026-10-22T05:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Factory skill: a software factory for Claude Code. Spec, build, 4 parallel reviews, approver and a human test gate, with",
     "id": "DevJom/factory-skill",
     "language": "HTML",
@@ -135,15 +198,6 @@
     "url": "https://github.com/gagip/gagip-dev"
   },
   {
-    "description": "Self-hosted worker that turns ready Jira, Linear, and GitHub tickets into pull requests with your coding agent\u2014on your m",
-    "id": "getdevintern/devintern",
-    "language": "TypeScript",
-    "name": "getdevintern/devintern",
-    "stars": 3,
-    "updated_at": "2026-10-22T05:43:41Z",
-    "url": "https://github.com/getdevintern/devintern"
-  },
-  {
     "description": "\u517d\u697c\u5904\u4f53 \u00b7 \u4e2d\u6587\u957f\u7bc7\u53d9\u4e8b\u5199\u4f5c Skill\uff1a\u4ece 42 \u7bc7\u539f\u6587\u300117.1 \u4e07\u5b57\u91cf\u5316\u63d0\u53d6\u7684\u6280\u6cd5\u7cfb\u7edf\uff0c\u9644 9 \u9879\u6307\u6807\u81ea\u68c0\u811a\u672c",
     "id": "xjinya-xiangwu/shouye-style",
     "language": "Python",
@@ -158,7 +212,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70257,
-    "updated_at": "2026-10-22T05:42:21Z",
+    "updated_at": "2026-10-22T05:45:22Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T05:31:35Z",
     "url": "https://github.com/pagewellai/pagewell"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-22T05:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Local section-wise Markdown viewer & editor with an Agent Skill and Cursor Rule (.mdc) explorer",
@@ -256,7 +301,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 105784,
+    "stars": 105786,
     "updated_at": "2026-10-22T05:21:45Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -403,50 +448,5 @@
     "stars": 450,
     "updated_at": "2026-10-22T05:00:53Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
-    "id": "savanna0425/skillhot",
-    "language": "JavaScript",
-    "name": "savanna0425/skillhot",
-    "stars": 39,
-    "updated_at": "2026-10-22T04:59:37Z",
-    "url": "https://github.com/savanna0425/skillhot"
-  },
-  {
-    "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
-    "id": "aliasunder/agent-plugins",
-    "language": "TypeScript",
-    "name": "aliasunder/agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-22T04:57:19Z",
-    "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
-    "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
-    "id": "paureis/pau-skills",
-    "language": "JavaScript",
-    "name": "paureis/pau-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T04:55:00Z",
-    "url": "https://github.com/paureis/pau-skills"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-10-22T04:52:57Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 62,
-    "updated_at": "2026-10-22T05:44:34Z",
-    "url": "https://github.com/Servosity/msp-skills"
   }
 ]
