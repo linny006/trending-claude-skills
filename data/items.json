@@ -1,5 +1,140 @@
 [
   {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 8,
+    "updated_at": "2026-10-22T00:14:53Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
+    "description": "Complete Claude Code environment: global guidelines, skills, hooks, settings, version-controlled memory and learnings, a",
+    "id": "AnotherSava/claude-code-common",
+    "language": "Python",
+    "name": "AnotherSava/claude-code-common",
+    "stars": 1,
+    "updated_at": "2026-10-22T00:14:26Z",
+    "url": "https://github.com/AnotherSava/claude-code-common"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-10-22T00:13:54Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 160 specialized subagents for full-stack development workflows",
+    "id": "roedyrustam/vibes-plug",
+    "language": "JavaScript",
+    "name": "roedyrustam/vibes-plug",
+    "stars": 111,
+    "updated_at": "2026-10-22T00:13:03Z",
+    "url": "https://github.com/roedyrustam/vibes-plug"
+  },
+  {
+    "description": "61 specialist workflows with executable local tools, evidence checks and an explainable task router. Free under MIT.",
+    "id": "Shaisolaris/solaris-dev-shop",
+    "language": "Python",
+    "name": "Shaisolaris/solaris-dev-shop",
+    "stars": 1,
+    "updated_at": "2026-10-22T00:10:27Z",
+    "url": "https://github.com/Shaisolaris/solaris-dev-shop"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "Python",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-22T00:08:48Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 442,
+    "updated_at": "2026-10-22T00:08:02Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Free copy-paste AGENTS.md, CLAUDE.md and Cursor rules for 20 beginner vibe-coding project types",
+    "id": "getvibekits/vibe-coding-rules",
+    "language": "\u2014",
+    "name": "getvibekits/vibe-coding-rules",
+    "stars": 0,
+    "updated_at": "2026-10-22T00:06:05Z",
+    "url": "https://github.com/getvibekits/vibe-coding-rules"
+  },
+  {
+    "description": "GitHub research for coding agents: find proven open-source projects to try before your agent builds from scratch.",
+    "id": "JunJayDev/github-scout",
+    "language": "Python",
+    "name": "JunJayDev/github-scout",
+    "stars": 0,
+    "updated_at": "2026-10-22T00:05:42Z",
+    "url": "https://github.com/JunJayDev/github-scout"
+  },
+  {
+    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
+    "id": "aranculleton/last-job-search",
+    "language": "Python",
+    "name": "aranculleton/last-job-search",
+    "stars": 4,
+    "updated_at": "2026-10-22T00:05:41Z",
+    "url": "https://github.com/aranculleton/last-job-search"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 193,
+    "updated_at": "2026-10-22T00:06:03Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-10-22T00:04:02Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Local Agents",
+    "id": "jrodrigopuca/local-agents",
+    "language": "Python",
+    "name": "jrodrigopuca/local-agents",
+    "stars": 2,
+    "updated_at": "2026-10-22T00:04:02Z",
+    "url": "https://github.com/jrodrigopuca/local-agents"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 105675,
+    "updated_at": "2026-10-22T00:02:44Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 131,
+    "updated_at": "2026-10-22T00:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Meu kit do Claude Code: skills, agentes, plugins e conectores MCP, em portugu\u00eas, que se atualiza sozinho",
     "id": "matheus-rib1108/meu-kit-claude-code",
     "language": "Python",
@@ -27,24 +162,6 @@
     "url": "https://github.com/TyrusRC/praetor"
   },
   {
-    "description": "\u26a1 Cross-IDE AI skill collection that orchestrates 160 specialized subagents for full-stack development workflows",
-    "id": "roedyrustam/vibes-plug",
-    "language": "JavaScript",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 111,
-    "updated_at": "2026-10-21T23:57:51Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 105673,
-    "updated_at": "2026-10-21T23:57:47Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -68,7 +185,7 @@
     "language": "Python",
     "name": "escoffier-labs/brigade",
     "stars": 79,
-    "updated_at": "2026-10-21T23:54:39Z",
+    "updated_at": "2026-10-22T00:01:28Z",
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
@@ -79,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-10-21T23:45:41Z",
     "url": "https://github.com/ehnruiz/claude-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-21T23:45:22Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skill for Super Productivity Local REST API",
@@ -207,15 +315,6 @@
     "url": "https://github.com/kidskoding/anikonistack"
   },
   {
-    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
-    "id": "aranculleton/last-job-search",
-    "language": "Python",
-    "name": "aranculleton/last-job-search",
-    "stars": 4,
-    "updated_at": "2026-10-21T23:29:31Z",
-    "url": "https://github.com/aranculleton/last-job-search"
-  },
-  {
     "description": "Codex - Claude ochestrator",
     "id": "hoanguyenkh/ai-orchestrator",
     "language": "Python",
@@ -297,15 +396,6 @@
     "url": "https://github.com/jgoneit/jaekit"
   },
   {
-    "description": "Curated agent plugins and tooling by Knitli",
-    "id": "knitli/toolshed",
-    "language": "Python",
-    "name": "knitli/toolshed",
-    "stars": 1,
-    "updated_at": "2026-10-21T23:59:01Z",
-    "url": "https://github.com/knitli/toolshed"
-  },
-  {
     "description": "Free open-source Agent Skills (SKILL.md) for US stock watchlists: NYSE-aware price alerts (market hours & holidays), dai",
     "id": "eli-alvarado/us-watchlist-alerts",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-21T23:09:24Z",
     "url": "https://github.com/Dian-Us-Suqlain/claude-workflow-skills"
-  },
-  {
-    "description": "Your backtest is dead until proven alive. Agent skill + zero-dependency CLI that autopsies trading strategies: era holdo",
-    "id": "Cezart3/backtest-coroner",
-    "language": "Python",
-    "name": "Cezart3/backtest-coroner",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:12:10Z",
-    "url": "https://github.com/Cezart3/backtest-coroner"
-  },
-  {
-    "description": "Interactive local finance reports for AI agents: circular charts, transaction drill-down, English/Chinese and memory-fir",
-    "id": "JasonHMY/personal-finance-visualizer",
-    "language": "Python",
-    "name": "JasonHMY/personal-finance-visualizer",
-    "stars": 1,
-    "updated_at": "2026-10-21T23:09:14Z",
-    "url": "https://github.com/JasonHMY/personal-finance-visualizer"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:07:45Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Agent skill for Brazilian legal case analysis, evidence tracing and labor-law drafting. Skill para an\u00e1lise processual, p",
-    "id": "lucianumm/AuditorProcessual",
-    "language": "Python",
-    "name": "lucianumm/AuditorProcessual",
-    "stars": 3,
-    "updated_at": "2026-10-21T23:07:30Z",
-    "url": "https://github.com/lucianumm/AuditorProcessual"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:07:08Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-10-21T23:06:55Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "A writing skill that removes AI writing patterns from prose, or flags them, while keeping the writer's voice. Agent Skil",
-    "id": "Growthr/no-ai-writing-slop",
-    "language": "\u2014",
-    "name": "Growthr/no-ai-writing-slop",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:06:53Z",
-    "url": "https://github.com/Growthr/no-ai-writing-slop"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-21T23:06:25Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them \u2014 sandb",
-    "id": "UiPath/coder_eval",
-    "language": "Python",
-    "name": "UiPath/coder_eval",
-    "stars": 154,
-    "updated_at": "2026-10-21T23:09:03Z",
-    "url": "https://github.com/UiPath/coder_eval"
-  },
-  {
-    "description": "Read-only Google Cloud and GitHub security audit for Claude Code: ranked gap report mapped to SOC 2, snapshot diffs, cod",
-    "id": "SkilledDragonCorp/cloud-audit-kit",
-    "language": "Python",
-    "name": "SkilledDragonCorp/cloud-audit-kit",
-    "stars": 0,
-    "updated_at": "2026-10-21T23:05:20Z",
-    "url": "https://github.com/SkilledDragonCorp/cloud-audit-kit"
   }
 ]
