@@ -1,12 +1,192 @@
 [
   {
+    "description": "Tiered orchestrator for chaining AI Skills & MCP tools: route card, locked anchors, cost/risk gates. \u6280\u80fd\u4e0eMCP\u603b\u63a7\u8c03\u5ea6",
+    "id": "yanmeng0113-ctrl/eddyy-skill-orchestrator",
+    "language": "Python",
+    "name": "yanmeng0113-ctrl/eddyy-skill-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:59:25Z",
+    "url": "https://github.com/yanmeng0113-ctrl/eddyy-skill-orchestrator"
+  },
+  {
+    "description": "\uce74\ub4dc\ub274\uc2a4\u00b7\uc378\ub124\uc77c\uc744 HTML\ub85c \uc9dc\uc11c \uc815\ud655\ud55c \ud06c\uae30 PNG\ub85c \ucc0d\ub294 Claude Code \uc2a4\ud0ac \u00b7 HTML to exact-size PNG via CDP",
+    "id": "reedodev/html-card-render",
+    "language": "JavaScript",
+    "name": "reedodev/html-card-render",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:59:17Z",
+    "url": "https://github.com/reedodev/html-card-render"
+  },
+  {
+    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
+    "id": "karero/croftweaver",
+    "language": "Python",
+    "name": "karero/croftweaver",
+    "stars": 8,
+    "updated_at": "2026-10-22T10:58:28Z",
+    "url": "https://github.com/karero/croftweaver"
+  },
+  {
+    "description": "AI Agent \u6280\u80fd\u805a\u5408\u4ed3\uff1a127 \u4e2a\u751f\u4ea7\u7ea7 SKILL.md\uff08\u8de8\u5de5\u5177 + DSH \u517c\u5bb9\uff09\uff5cCloud-neutral toolbelt: 25 tools inventoried weekly",
+    "id": "xingtu1996/xingtu-skills",
+    "language": "Python",
+    "name": "xingtu1996/xingtu-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:58:19Z",
+    "url": "https://github.com/xingtu1996/xingtu-skills"
+  },
+  {
+    "description": "\u65e5\u672c\u8a9e\u306e\u30d1\u30ef\u30dd\u8cc7\u6599\u3092\u30b3\u30f3\u30b5\u30eb\u54c1\u8cea\u3067\u4f5c\u308b Claude \u30b9\u30ad\u30eb\u3002PowerPoint \u5b9f\u6a5f\u306e\u6539\u884c\u4f4d\u7f6e\u304b\u3089\u300c\u6ce3\u304d\u5225\u308c\u300d\u3092\u81ea\u52d5\u4fee\u6b63\u3002",
+    "id": "haihan19955/jp-business-slides",
+    "language": "Python",
+    "name": "haihan19955/jp-business-slides",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:57:44Z",
+    "url": "https://github.com/haihan19955/jp-business-slides"
+  },
+  {
+    "description": "Recurring checks, reminders and notes for Claude Code, run in background sessions that never touch your conversation.",
+    "id": "alessandrolattao/pulse",
+    "language": "Python",
+    "name": "alessandrolattao/pulse",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:57:56Z",
+    "url": "https://github.com/alessandrolattao/pulse"
+  },
+  {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
     "id": "ragnarwestad/aide",
     "language": "TypeScript",
     "name": "ragnarwestad/aide",
     "stars": 1,
-    "updated_at": "2026-10-22T10:45:02Z",
+    "updated_at": "2026-10-22T10:56:34Z",
     "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR ",
+    "id": "jayjayholic/jstack",
+    "language": "Shell",
+    "name": "jayjayholic/jstack",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:55:32Z",
+    "url": "https://github.com/jayjayholic/jstack"
+  },
+  {
+    "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
+    "id": "akovalion/paranoid-qa",
+    "language": "Python",
+    "name": "akovalion/paranoid-qa",
+    "stars": 16,
+    "updated_at": "2026-10-22T10:54:28Z",
+    "url": "https://github.com/akovalion/paranoid-qa"
+  },
+  {
+    "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
+    "id": "ShadowSwaps/REA-Reconstruction-Companion",
+    "language": "JavaScript",
+    "name": "ShadowSwaps/REA-Reconstruction-Companion",
+    "stars": 107,
+    "updated_at": "2026-10-22T10:53:09Z",
+    "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion"
+  },
+  {
+    "description": "\ub9ac\ub3c4\uc758 Claude Code \uc2a4\ud0ac \ubaa9\ub85d \u00b7 \uc2a4\ud0ac 13\uac1c\ub294 \uac01\uac01 \ub530\ub85c \ub41c \uc800\uc7a5\uc18c\uc5d0 \uc788\uc2b5\ub2c8\ub2e4 (index of 13 reedodev skills)",
+    "id": "reedodev/reedo-skills",
+    "language": "\u2014",
+    "name": "reedodev/reedo-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:52:43Z",
+    "url": "https://github.com/reedodev/reedo-skills"
+  },
+  {
+    "description": "Agent skill that refuses to let you drop a lead - checkable plans for multi-session work",
+    "id": "MichaelKunKun/big-plan",
+    "language": "\u2014",
+    "name": "MichaelKunKun/big-plan",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:52:36Z",
+    "url": "https://github.com/MichaelKunKun/big-plan"
+  },
+  {
+    "description": "Claude Code / OpenCode skill that audits a codebase for hexagonal architecture (ports and adapters): finds dependency ru",
+    "id": "iDiagoValeta/hexagonal-architecture",
+    "language": "Python",
+    "name": "iDiagoValeta/hexagonal-architecture",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:52:11Z",
+    "url": "https://github.com/iDiagoValeta/hexagonal-architecture"
+  },
+  {
+    "description": "JobAppAgent: open-source AI job application agent (Agent Skill + CLI). Searches wide, matches one verified r\u00e9sum\u00e9, appli",
+    "id": "vaibhavarora14/job-application-agent",
+    "language": "JavaScript",
+    "name": "vaibhavarora14/job-application-agent",
+    "stars": 161,
+    "updated_at": "2026-10-22T10:52:17Z",
+    "url": "https://github.com/vaibhavarora14/job-application-agent"
+  },
+  {
+    "description": "Agent Skill: reverse-engineer a website's design system, motion, and user flows from URLs into a free-first rebuild plan",
+    "id": "niranjraj/thooku",
+    "language": "JavaScript",
+    "name": "niranjraj/thooku",
+    "stars": 1,
+    "updated_at": "2026-10-22T10:51:54Z",
+    "url": "https://github.com/niranjraj/thooku"
+  },
+  {
+    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
+    "id": "ENTEROPNON/salesforce-accelerator-patterns",
+    "language": "HTML",
+    "name": "ENTEROPNON/salesforce-accelerator-patterns",
+    "stars": 2,
+    "updated_at": "2026-10-22T10:50:20Z",
+    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
+  },
+  {
+    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
+    "id": "PawanSirsat/Laika",
+    "language": "TypeScript",
+    "name": "PawanSirsat/Laika",
+    "stars": 0,
+    "updated_at": "2026-10-22T10:58:00Z",
+    "url": "https://github.com/PawanSirsat/Laika"
+  },
+  {
+    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
+    "id": "jin2004-cmd/codex-practical-skills",
+    "language": "Python",
+    "name": "jin2004-cmd/codex-practical-skills",
+    "stars": 1,
+    "updated_at": "2026-10-22T10:47:50Z",
+    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
+  },
+  {
+    "description": "\ube44\uae30\ud68d\uc790/\ubc14\uc774\ube0c\ucf54\ub354\ub97c \uc704\ud55c MVP\ubb38\uc11c \uc0dd\uc131\uc744 \ub3c4\uc640\uc8fc\ub294 \uc2a4\ud0ac\uc785\ub2c8\ub2e4. \uc774 Skill\uc740 AI Agent \uc640\uc758 \ud611\uc5c5\uc5d0 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud569\ub2c8\ub2e4.",
+    "id": "xeno-xeno/mvp-spec",
+    "language": "\u2014",
+    "name": "xeno-xeno/mvp-spec",
+    "stars": 2,
+    "updated_at": "2026-10-22T10:46:51Z",
+    "url": "https://github.com/xeno-xeno/mvp-spec"
+  },
+  {
+    "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
+    "id": "sergebulaev/linkedin-skills",
+    "language": "Python",
+    "name": "sergebulaev/linkedin-skills",
+    "stars": 5059,
+    "updated_at": "2026-10-22T10:45:21Z",
+    "url": "https://github.com/sergebulaev/linkedin-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-22T10:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound",
@@ -50,17 +230,8 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 24,
-    "updated_at": "2026-10-22T10:43:03Z",
+    "updated_at": "2026-10-22T10:45:36Z",
     "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Agent Skill: reverse-engineer a website's design system, motion, and user flows from URLs into a free-first rebuild plan",
-    "id": "niranjraj/thooku",
-    "language": "JavaScript",
-    "name": "niranjraj/thooku",
-    "stars": 1,
-    "updated_at": "2026-10-22T10:40:58Z",
-    "url": "https://github.com/niranjraj/thooku"
   },
   {
     "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser",
@@ -88,15 +259,6 @@
     "stars": 111,
     "updated_at": "2026-10-22T10:40:10Z",
     "url": "https://github.com/roedyrustam/vibes-plug"
-  },
-  {
-    "description": "\ub9ac\ub3c4\uc758 Claude Code \uc2a4\ud0ac \ubaa9\ub85d \u00b7 \uc2a4\ud0ac 12\uac1c\ub294 \uac01\uac01 \ub530\ub85c \ub41c \uc800\uc7a5\uc18c\uc5d0 \uc788\uc2b5\ub2c8\ub2e4 (index of 12 reedodev skills)",
-    "id": "reedodev/reedo-skills",
-    "language": "\u2014",
-    "name": "reedodev/reedo-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:38:43Z",
-    "url": "https://github.com/reedodev/reedo-skills"
   },
   {
     "description": "Run terminal commands through a proxy. Choose a country or city and route a shell session or a single command through a ",
@@ -131,7 +293,7 @@
     "language": "TypeScript",
     "name": "drnachio/postext",
     "stars": 8,
-    "updated_at": "2026-10-22T10:37:00Z",
+    "updated_at": "2026-10-22T10:59:07Z",
     "url": "https://github.com/drnachio/postext"
   },
   {
@@ -194,35 +356,8 @@
     "language": "Python",
     "name": "aranculleton/last-job-search",
     "stars": 4,
-    "updated_at": "2026-10-22T10:33:16Z",
+    "updated_at": "2026-10-22T10:57:02Z",
     "url": "https://github.com/aranculleton/last-job-search"
-  },
-  {
-    "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR ",
-    "id": "jayjayholic/jstack",
-    "language": "Shell",
-    "name": "jayjayholic/jstack",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:31:48Z",
-    "url": "https://github.com/jayjayholic/jstack"
-  },
-  {
-    "description": "\uce74\ub4dc\ub274\uc2a4\u00b7\uc378\ub124\uc77c\uc744 HTML\ub85c \uc9dc\uc11c \uc815\ud655\ud55c \ud06c\uae30 PNG\ub85c \ucc0d\ub294 Claude Code \uc2a4\ud0ac \u00b7 HTML to exact-size PNG via CDP",
-    "id": "reedodev/html-card-render",
-    "language": "JavaScript",
-    "name": "reedodev/html-card-render",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:30:50Z",
-    "url": "https://github.com/reedodev/html-card-render"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-22T10:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Graft agent skills from other people's repositories onto your own setup: resolves the transitive hull, vendors, renames,",
@@ -313,140 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-22T10:26:48Z",
     "url": "https://github.com/datit309/supergraph"
-  },
-  {
-    "description": "SocialDataX skills for Xiaohongshu, XHS, RedNote, and Douyin content research",
-    "id": "DevinChen2014/socialdatax-skills",
-    "language": "JavaScript",
-    "name": "DevinChen2014/socialdatax-skills",
-    "stars": 5,
-    "updated_at": "2026-10-22T10:26:15Z",
-    "url": "https://github.com/DevinChen2014/socialdatax-skills"
-  },
-  {
-    "description": "\ud55c\ucef4\uc624\ud53c\uc2a4 \uc5c6\uc774 \ud55c\uae00(HWPX) \uc591\uc2dd \uce78\uc744 \ub77c\ubca8\ub85c \ucc44\uc6b0\uace0 \uac80\uc99d\ud558\ub294 Claude Code \uc2a4\ud0ac \u00b7 Fill HWPX forms by label",
-    "id": "reedodev/hwpx-form-fill",
-    "language": "Python",
-    "name": "reedodev/hwpx-form-fill",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:25:44Z",
-    "url": "https://github.com/reedodev/hwpx-form-fill"
-  },
-  {
-    "description": "\uc635\uc2dc\ub514\uc5b8\uc744 LLM \uc704\ud0a4(AI\uac00 \uc815\ub9ac\ud558\ub294 \uc9c0\uc2dd \uc800\uc7a5\uace0)\ub85c \ub9cc\ub4dc\ub294 Claude Code \uc2a4\ud0ac \u00b7 Obsidian LLM Wiki starter",
-    "id": "reedodev/obsidian-llm-wiki",
-    "language": "JavaScript",
-    "name": "reedodev/obsidian-llm-wiki",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:25:31Z",
-    "url": "https://github.com/reedodev/obsidian-llm-wiki"
-  },
-  {
-    "description": "\u0e17\u0e31\u0e01\u0e29\u0e30 Claude Code \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e04\u0e19\u0e44\u0e17\u0e22 \u2014 \u0e41\u0e1b\u0e25, \u0e41\u0e04\u0e1b\u0e0a\u0e31\u0e48\u0e19, \u0e40\u0e23\u0e0b\u0e39\u0e40\u0e21\u0e48, \u0e08\u0e14\u0e2b\u0e21\u0e32\u0e22\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23, PDPA, \u0e43\u0e1a\u0e01\u0e33\u0e01\u0e31\u0e1a\u0e20\u0e32\u0e29\u0e35, PromptPay, \u0e40\u0e25\u0e02\u0e1a\u0e31\u0e15\u0e23 \u0e1b\u0e0a\u0e0a., \u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 ",
-    "id": "Boom-Vitt/claude-thai-skills",
-    "language": "Python",
-    "name": "Boom-Vitt/claude-thai-skills",
-    "stars": 57,
-    "updated_at": "2026-10-22T10:24:25Z",
-    "url": "https://github.com/Boom-Vitt/claude-thai-skills"
-  },
-  {
-    "description": "12 Claude Code skills \u0e17\u0e35\u0e48\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a SME \u0e44\u0e17\u0e22 \u2014 pricing waterfall, SME tax tier, Thai VC map, KOL deal w/ WHT, lan",
-    "id": "Boom-Vitt/claude-thai-business-skills",
-    "language": "Python",
-    "name": "Boom-Vitt/claude-thai-business-skills",
-    "stars": 21,
-    "updated_at": "2026-10-22T10:24:07Z",
-    "url": "https://github.com/Boom-Vitt/claude-thai-business-skills"
-  },
-  {
-    "description": "Hook, skill, and CLI script for agents to take screenshots and visually check their work",
-    "id": "mickzijdel/vischeck",
-    "language": "Python",
-    "name": "mickzijdel/vischeck",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:24:05Z",
-    "url": "https://github.com/mickzijdel/vischeck"
-  },
-  {
-    "description": "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and de",
-    "id": "Likenttt/garmin-connect-plugin-for-dsh",
-    "language": "TypeScript",
-    "name": "Likenttt/garmin-connect-plugin-for-dsh",
-    "stars": 40,
-    "updated_at": "2026-10-22T10:23:06Z",
-    "url": "https://github.com/Likenttt/garmin-connect-plugin-for-dsh"
-  },
-  {
-    "description": "\uc635\uc2dc\ub514\uc5b8 \ub178\ud2b8\ub97c \uc5d1\uc2a4\ub808\uc774 \ub1cc\u00b7\uc138\uacc4\uc218 3D\ub85c \ubcf4\uc5ec \uc8fc\ub294 Claude Code \uc2a4\ud0ac \u00b7 Obsidian vault as a 3D x-ray brain / world tree",
-    "id": "reedodev/obsidian-brain-3d",
-    "language": "JavaScript",
-    "name": "reedodev/obsidian-brain-3d",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:22:22Z",
-    "url": "https://github.com/reedodev/obsidian-brain-3d"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-22T10:22:09Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-10-22T10:22:01Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Back up and restore Claude Code and Claude Desktop on Windows: chats, Code-tab sessions, settings, skills, plugins, MCP ",
-    "id": "hrshtk/claude-code-backup",
-    "language": "PowerShell",
-    "name": "hrshtk/claude-code-backup",
-    "stars": 1,
-    "updated_at": "2026-10-22T10:21:59Z",
-    "url": "https://github.com/hrshtk/claude-code-backup"
-  },
-  {
-    "description": "JobAppAgent: open-source AI job application agent (Agent Skill + CLI). Searches wide, matches one verified r\u00e9sum\u00e9, appli",
-    "id": "vaibhavarora14/job-application-agent",
-    "language": "JavaScript",
-    "name": "vaibhavarora14/job-application-agent",
-    "stars": 161,
-    "updated_at": "2026-10-22T10:44:09Z",
-    "url": "https://github.com/vaibhavarora14/job-application-agent"
-  },
-  {
-    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
-    "id": "Neetx/ai-security-research-radar",
-    "language": "Python",
-    "name": "Neetx/ai-security-research-radar",
-    "stars": 7,
-    "updated_at": "2026-10-22T10:20:51Z",
-    "url": "https://github.com/Neetx/ai-security-research-radar"
-  },
-  {
-    "description": "Claude has never seen 68% of the Claude Code docs: research, interactive charts and a plugin that tells it what it misse",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 8,
-    "updated_at": "2026-10-22T10:20:12Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Thai translation of mattpocock/skills \u2014 \u0e09\u0e1a\u0e31\u0e1a\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\u0e02\u0e2d\u0e07 agent skills \u0e42\u0e14\u0e22 Matt Pocock (MIT)",
-    "id": "Boom-Vitt/skills-thai",
-    "language": "Shell",
-    "name": "Boom-Vitt/skills-thai",
-    "stars": 5,
-    "updated_at": "2026-10-22T10:20:06Z",
-    "url": "https://github.com/Boom-Vitt/skills-thai"
   }
 ]
