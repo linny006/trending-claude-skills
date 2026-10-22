@@ -1,11 +1,56 @@
 [
   {
+    "description": "Forge of Thought is an AI cognitive extension: a workshop where your idea is forged into a decision you can stand behind",
+    "id": "pche-broken-artist/forge-of-thought",
+    "language": "Python",
+    "name": "pche-broken-artist/forge-of-thought",
+    "stars": 3,
+    "updated_at": "2026-10-22T19:59:52Z",
+    "url": "https://github.com/pche-broken-artist/forge-of-thought"
+  },
+  {
+    "description": "\ud83e\udde0 One working method for Claude Code and 40 skills that check their own work: every skill ends in a script that prints P",
+    "id": "NJ-Burrito/NJ-Kit",
+    "language": "Python",
+    "name": "NJ-Burrito/NJ-Kit",
+    "stars": 1,
+    "updated_at": "2026-10-22T19:59:33Z",
+    "url": "https://github.com/NJ-Burrito/NJ-Kit"
+  },
+  {
+    "description": "The skills I use to build software with coding agents.",
+    "id": "bostonaholic/skills",
+    "language": "JavaScript",
+    "name": "bostonaholic/skills",
+    "stars": 2,
+    "updated_at": "2026-10-22T19:58:41Z",
+    "url": "https://github.com/bostonaholic/skills"
+  },
+  {
+    "description": "A Claude SKILL that reviews and revises text to keep your unique writing voice while removing tells of AI-generated styl",
+    "id": "smartwatermelon/personify",
+    "language": "Python",
+    "name": "smartwatermelon/personify",
+    "stars": 0,
+    "updated_at": "2026-10-22T19:58:02Z",
+    "url": "https://github.com/smartwatermelon/personify"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-22T19:57:21Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
     "id": "PawanSirsat/Laika",
     "language": "TypeScript",
     "name": "PawanSirsat/Laika",
     "stars": 0,
-    "updated_at": "2026-10-22T19:57:11Z",
+    "updated_at": "2026-10-22T19:57:50Z",
     "url": "https://github.com/PawanSirsat/Laika"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/XiaoMaColtAI/math-modeling-skill"
   },
   {
-    "description": "\ud83e\udde0 One working method for Claude Code and 40 skills that check their own work: every skill ends in a script that prints P",
-    "id": "NJ-Burrito/NJ-Kit",
-    "language": "Python",
-    "name": "NJ-Burrito/NJ-Kit",
-    "stars": 1,
-    "updated_at": "2026-10-22T19:48:54Z",
-    "url": "https://github.com/NJ-Burrito/NJ-Kit"
-  },
-  {
     "description": "The agent skills I use most day to day: one focused playbook each, for Claude Code, Cursor, Copilot, Codex and more.",
     "id": "jars-demo/jars-skills",
     "language": "HTML",
@@ -178,15 +214,6 @@
     "stars": 102311,
     "updated_at": "2026-10-22T19:46:45Z",
     "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-22T19:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Nobody ships AI slop on purpose. These skills make sure you don\u2019t.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-22T19:19:50Z",
     "url": "https://github.com/denzjama/employer-brand-auditor"
-  },
-  {
-    "description": "Independent Claude Skills for the whole smart home: Home Assistant, ESPHome, Node-RED, custom integrations, dashboards, ",
-    "id": "tonylofgren/aurora-smart-home",
-    "language": "Python",
-    "name": "tonylofgren/aurora-smart-home",
-    "stars": 107,
-    "updated_at": "2026-10-22T19:19:46Z",
-    "url": "https://github.com/tonylofgren/aurora-smart-home"
-  },
-  {
-    "description": "Claude Code skills that keep an agent honest: live state, diff review, prior-art search, decision register.",
-    "id": "antoine-olivier/reliability-skills",
-    "language": "Python",
-    "name": "antoine-olivier/reliability-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T19:19:44Z",
-    "url": "https://github.com/antoine-olivier/reliability-skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-22T19:19:30Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
   }
 ]
