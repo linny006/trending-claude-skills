@@ -1,21 +1,12 @@
 [
   {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 62,
-    "updated_at": "2026-10-22T02:59:54Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
-    "id": "escoffier-labs/brigade",
+    "description": "Skills that started with problems I encountered.",
+    "id": "MrBinnacle/skills",
     "language": "Python",
-    "name": "escoffier-labs/brigade",
-    "stars": 79,
-    "updated_at": "2026-10-22T02:59:26Z",
-    "url": "https://github.com/escoffier-labs/brigade"
+    "name": "MrBinnacle/skills",
+    "stars": 1,
+    "updated_at": "2026-10-22T03:14:54Z",
+    "url": "https://github.com/MrBinnacle/skills"
   },
   {
     "description": "Agent Skills (SKILL.md) by OverKill Hill for Claude, OpenClaw, and Codex. BPMN-aware Mermaid diagramming, a LinkedIn voi",
@@ -23,15 +14,123 @@
     "language": "Python",
     "name": "OKHP3/skillz",
     "stars": 3,
-    "updated_at": "2026-10-22T02:59:04Z",
+    "updated_at": "2026-10-22T03:12:59Z",
     "url": "https://github.com/OKHP3/skillz"
+  },
+  {
+    "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR ",
+    "id": "jayjayholic/jstack",
+    "language": "Shell",
+    "name": "jayjayholic/jstack",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:11:29Z",
+    "url": "https://github.com/jayjayholic/jstack"
+  },
+  {
+    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 79,
+    "updated_at": "2026-10-22T03:15:09Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 8,
+    "updated_at": "2026-10-22T03:15:03Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "\u5728\u6539\u8001\u4ee3\u7801\u4e4b\u524d\u6478\u6e05\u5f71\u54cd\u9762\uff1a\u4e09\u5c42\u5f15\u7528\u626b\u63cf\uff08L1/L2/L3\uff09\u3001P0-P3 \u5b9a\u7ea7\u3001\u56de\u5f52\u6e05\u5355\u4e0e\u56de\u6eda\u70b9\u3002\u7ed9 AI \u7f16\u7801\u52a9\u624b\u7528\u7684 skill\u3002",
+    "id": "amlkshoot-hub/legacy-change-impact",
+    "language": "PowerShell",
+    "name": "amlkshoot-hub/legacy-change-impact",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:08:26Z",
+    "url": "https://github.com/amlkshoot-hub/legacy-change-impact"
+  },
+  {
+    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
+    "id": "AiGuangInc/suxiaoqiang-cli",
+    "language": "TypeScript",
+    "name": "AiGuangInc/suxiaoqiang-cli",
+    "stars": 5,
+    "updated_at": "2026-10-22T03:07:15Z",
+    "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
+  },
+  {
+    "description": "The issue-pipeline workflow system as a Claude Code plugin: GitHub Issues as the work-item SSOT, labels as the pipeline,",
+    "id": "itw-creative-works/workkit",
+    "language": "JavaScript",
+    "name": "itw-creative-works/workkit",
+    "stars": 4,
+    "updated_at": "2026-10-22T03:07:07Z",
+    "url": "https://github.com/itw-creative-works/workkit"
+  },
+  {
+    "description": "Skills I keep around for Claude Code and Codex, mostly prompts I got tired of retyping. Take one folder, or let the rout",
+    "id": "wilbeibi/wilbeibi-skills",
+    "language": "Python",
+    "name": "wilbeibi/wilbeibi-skills",
+    "stars": 2,
+    "updated_at": "2026-10-22T03:06:58Z",
+    "url": "https://github.com/wilbeibi/wilbeibi-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-22T03:06:19Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 62,
+    "updated_at": "2026-10-22T03:06:10Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Stop AI hallucinations, Yes-Man sycophancy, robotic AI slop prose, and cheap UI clutter in 30 seconds. Pre-packaged .mdc",
+    "id": "nguyenlong5238-art/anti-slop-ai-harness",
+    "language": "\u2014",
+    "name": "nguyenlong5238-art/anti-slop-ai-harness",
+    "stars": 1,
+    "updated_at": "2026-10-22T03:03:36Z",
+    "url": "https://github.com/nguyenlong5238-art/anti-slop-ai-harness"
+  },
+  {
+    "description": " Agent skill + CLI for PageWell: write a designed document or a runnable single-page artifact with your AI agent, then p",
+    "id": "pagewellai/pagewell",
+    "language": "Shell",
+    "name": "pagewellai/pagewell",
+    "stars": 0,
+    "updated_at": "2026-10-22T03:02:14Z",
+    "url": "https://github.com/pagewellai/pagewell"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 131,
+    "updated_at": "2026-10-22T03:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The open-source app everyone uses to manage agents at work",
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 105726,
+    "stars": 105731,
     "updated_at": "2026-10-22T02:55:42Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -40,7 +139,7 @@
     "id": "MetcalfSolutions/Satori",
     "language": "Python",
     "name": "MetcalfSolutions/Satori",
-    "stars": 94,
+    "stars": 95,
     "updated_at": "2026-10-22T02:51:42Z",
     "url": "https://github.com/MetcalfSolutions/Satori"
   },
@@ -70,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T02:45:50Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-22T02:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
@@ -126,15 +216,6 @@
     "url": "https://github.com/allxsmith/bestax-skills"
   },
   {
-    "description": " Agent skill + CLI for PageWell: write a designed document or a runnable single-page artifact with your AI agent, then p",
-    "id": "pagewellai/pagewell",
-    "language": "Shell",
-    "name": "pagewellai/pagewell",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:43:46Z",
-    "url": "https://github.com/pagewellai/pagewell"
-  },
-  {
     "description": "AI \u89c6\u9891\u4e0e\u81ea\u5a92\u4f53\u9886\u57df\u7684 Claude Code skills\u3001Openclaw skills, MCP \u670d\u52a1\u5668\u3001AI Agent \u80fd\u529b\u7cbe\u9009\u5408\u96c6 \u2014 \u6db5\u76d6\u89c6\u9891\u751f\u6210\u3001\u591a\u5e73\u53f0\u8fd0\u8425\u3001\u5185\u5bb9\u81ea\u52a8\u5316\u7b49\u3002",
     "id": "JuneYaooo/awesome-ai-media-skills-cn",
     "language": "\u2014",
@@ -151,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-10-22T02:43:10Z",
     "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
-  },
-  {
-    "description": "sxq is the official command-line tool for Superun, the vibe coding platform. It syncs your Superun project files to your",
-    "id": "AiGuangInc/suxiaoqiang-cli",
-    "language": "TypeScript",
-    "name": "AiGuangInc/suxiaoqiang-cli",
-    "stars": 5,
-    "updated_at": "2026-10-22T02:53:34Z",
-    "url": "https://github.com/AiGuangInc/suxiaoqiang-cli"
   },
   {
     "description": "My personal Claude Code plugin: skills for a spec-first SDLC, automated PR review, critical reviews, security threat mod",
@@ -180,15 +252,6 @@
     "url": "https://github.com/strbbrn/freemcp-registry"
   },
   {
-    "description": "\u5728\u6539\u8001\u4ee3\u7801\u4e4b\u524d\u6478\u6e05\u5f71\u54cd\u9762\uff1a\u4e09\u5c42\u5f15\u7528\u626b\u63cf\uff08L1/L2/L3\uff09\u3001P0-P3 \u5b9a\u7ea7\u3001\u56de\u5f52\u6e05\u5355\u4e0e\u56de\u6eda\u70b9\u3002\u7ed9 AI \u7f16\u7801\u52a9\u624b\u7528\u7684 skill\u3002",
-    "id": "amlkshoot-hub/legacy-change-impact",
-    "language": "PowerShell",
-    "name": "amlkshoot-hub/legacy-change-impact",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:40:05Z",
-    "url": "https://github.com/amlkshoot-hub/legacy-change-impact"
-  },
-  {
     "description": "Agent Skills for apimodels.app \u2014 call 120+ AI models (image, video, LLM, audio) from Claude Code, Cursor and other codin",
     "id": "stimQQ/apimodels-skill",
     "language": "JavaScript",
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "knitli/toolshed",
     "stars": 1,
-    "updated_at": "2026-10-22T02:59:15Z",
+    "updated_at": "2026-10-22T03:13:51Z",
     "url": "https://github.com/knitli/toolshed"
   },
   {
@@ -230,7 +293,7 @@
     "language": "JavaScript",
     "name": "paureis/pau-skills",
     "stars": 0,
-    "updated_at": "2026-10-22T02:37:31Z",
+    "updated_at": "2026-10-22T03:11:00Z",
     "url": "https://github.com/paureis/pau-skills"
   },
   {
@@ -266,7 +329,7 @@
     "language": "JavaScript",
     "name": "yulmucoffee/artiboard",
     "stars": 5,
-    "updated_at": "2026-10-22T02:30:24Z",
+    "updated_at": "2026-10-22T03:12:39Z",
     "url": "https://github.com/yulmucoffee/artiboard"
   },
   {
@@ -324,21 +387,12 @@
     "url": "https://github.com/WikkyGao/requirement-analysis"
   },
   {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 8,
-    "updated_at": "2026-10-22T02:58:11Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
     "description": "Claude Code plugin marketplace and index of arm-pz agent skills: editorial, teaching, recruiting, SEO planning, release ",
     "id": "arm-pz/caffeinity-skills",
     "language": "\u2014",
     "name": "arm-pz/caffeinity-skills",
     "stars": 0,
-    "updated_at": "2026-10-22T02:18:20Z",
+    "updated_at": "2026-10-22T03:06:25Z",
     "url": "https://github.com/arm-pz/caffeinity-skills"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/heydeacon/skills"
   },
   {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-22T02:57:32Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
     "description": "SEO skills for Claude Code and Codex, powered by the HarborRank MCP server",
     "id": "winsley-jeune/harborrank-skills",
     "language": "\u2014",
@@ -382,7 +427,7 @@
     "id": "JasonColapietro/suede-creator-skills",
     "language": "JavaScript",
     "name": "JasonColapietro/suede-creator-skills",
-    "stars": 128,
+    "stars": 127,
     "updated_at": "2026-10-22T02:13:12Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T02:11:40Z",
     "url": "https://github.com/TangentialSolutions/hey-axi"
-  },
-  {
-    "description": "Claude Code skill that teaches a technical concept as a tree: one node per message, at most five sentences plus a visual",
-    "id": "Siriko404/explain-it",
-    "language": "\u2014",
-    "name": "Siriko404/explain-it",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:11:28Z",
-    "url": "https://github.com/Siriko404/explain-it"
-  },
-  {
-    "description": "Open-source brand skills that turn an idea into a real brand \u2014 name, identity, voice & brand book \u2014 without leaving your",
-    "id": "cofoundy/brand-skills",
-    "language": "TypeScript",
-    "name": "cofoundy/brand-skills",
-    "stars": 58,
-    "updated_at": "2026-10-22T02:08:29Z",
-    "url": "https://github.com/cofoundy/brand-skills"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70252,
-    "updated_at": "2026-10-22T02:53:34Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "A design skill for coding agents, distilled from 34 UI design skills and the evidence on them. Process over rule lists.",
-    "id": "EPISTEX0/web-ui-design-skill",
-    "language": "HTML",
-    "name": "EPISTEX0/web-ui-design-skill",
-    "stars": 0,
-    "updated_at": "2026-10-22T02:03:32Z",
-    "url": "https://github.com/EPISTEX0/web-ui-design-skill"
-  },
-  {
-    "description": "Community-maintained Huawei Cloud billing, cost estimation, controlled provisioning, and account onboarding Agent Skills",
-    "id": "concept-git/cloud-concept-skills",
-    "language": "Python",
-    "name": "concept-git/cloud-concept-skills",
-    "stars": 3,
-    "updated_at": "2026-10-22T02:00:21Z",
-    "url": "https://github.com/concept-git/cloud-concept-skills"
   }
 ]
