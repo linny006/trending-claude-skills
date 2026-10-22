@@ -1,12 +1,30 @@
 [
   {
-    "description": "Claude Code skills for building native macOS SwiftUI apps \u2014 Liquid Glass, tool-window panels, accent & gradient themes. ",
-    "id": "gomin2013/swiftui-mac-skills",
-    "language": "Swift",
-    "name": "gomin2013/swiftui-mac-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T06:14:16Z",
-    "url": "https://github.com/gomin2013/swiftui-mac-skills"
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-10-22T06:27:17Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
+    "id": "Zhonghao1995/agentic-swmm-workflow",
+    "language": "Python",
+    "name": "Zhonghao1995/agentic-swmm-workflow",
+    "stars": 30,
+    "updated_at": "2026-10-22T06:30:04Z",
+    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
+  },
+  {
+    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
+    "id": "the911fund/skill-of-skills",
+    "language": "Python",
+    "name": "the911fund/skill-of-skills",
+    "stars": 79,
+    "updated_at": "2026-10-22T06:25:04Z",
+    "url": "https://github.com/the911fund/skill-of-skills"
   },
   {
     "description": "\u5c06\u4f5c (Jiangzuo) \u2014 \u8d44\u6df1\u5168\u6808\u8f6f\u4ef6\u5de5\u7a0b\u642d\u6863 Agent Skill\uff1a\u5148\u8bfb\u61c2\u3001\u518d\u60f3\u6e05\u3001\u540e\u52a8\u624b\u3001\u5fc5\u9a8c\u8bc1\u3001\u7559\u6587\u6863 | A senior full-stack engineering companion skill",
@@ -14,8 +32,62 @@
     "language": "Python",
     "name": "Zhang-jx00/jiangzuo",
     "stars": 1,
-    "updated_at": "2026-10-22T06:13:33Z",
+    "updated_at": "2026-10-22T06:24:08Z",
     "url": "https://github.com/Zhang-jx00/jiangzuo"
+  },
+  {
+    "description": "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and de",
+    "id": "Likenttt/garmin-connect-plugin-for-dsh",
+    "language": "TypeScript",
+    "name": "Likenttt/garmin-connect-plugin-for-dsh",
+    "stars": 40,
+    "updated_at": "2026-10-22T06:20:13Z",
+    "url": "https://github.com/Likenttt/garmin-connect-plugin-for-dsh"
+  },
+  {
+    "description": "Agent skills for adversarial quality loops and multi-agent delegation. Works in Claude Code (plugin) and Codex.",
+    "id": "fireheartjerry/jerry-skills",
+    "language": "Python",
+    "name": "fireheartjerry/jerry-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:20:11Z",
+    "url": "https://github.com/fireheartjerry/jerry-skills"
+  },
+  {
+    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
+    "id": "costiash/claude-code-docs",
+    "language": "Python",
+    "name": "costiash/claude-code-docs",
+    "stars": 55,
+    "updated_at": "2026-10-22T06:19:07Z",
+    "url": "https://github.com/costiash/claude-code-docs"
+  },
+  {
+    "description": "Claude Code skills for building native macOS SwiftUI apps \u2014 Liquid Glass, tool-window panels, accent & gradient themes. ",
+    "id": "gomin2013/swiftui-mac-skills",
+    "language": "Swift",
+    "name": "gomin2013/swiftui-mac-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T06:16:41Z",
+    "url": "https://github.com/gomin2013/swiftui-mac-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 131,
+    "updated_at": "2026-10-22T06:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 87226,
+    "updated_at": "2026-10-22T06:14:08Z",
+    "url": "https://github.com/tt-a1i/archify"
   },
   {
     "description": "Turn data files (CSV/Excel/JSON/JSONL/TSV) into a validated database, then operate it in natural language \u2014 pluggable me",
@@ -70,15 +142,6 @@
     "stars": 30979,
     "updated_at": "2026-10-22T06:09:51Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Agentic SWMM is an automated, auditable, and memory-informed framework for reproducible stormwater modelling, integratin",
-    "id": "Zhonghao1995/agentic-swmm-workflow",
-    "language": "Python",
-    "name": "Zhonghao1995/agentic-swmm-workflow",
-    "stars": 30,
-    "updated_at": "2026-10-22T06:13:13Z",
-    "url": "https://github.com/Zhonghao1995/agentic-swmm-workflow"
   },
   {
     "description": "Skills that started with problems I encountered.",
@@ -144,15 +207,6 @@
     "url": "https://github.com/everyinfra/seo-skills"
   },
   {
-    "description": "A TypeScript-based Garmin Connect plugin and MCP server with secure browser-based MFA, built for DeepSeek Harness and de",
-    "id": "Likenttt/garmin-connect-plugin-for-dsh",
-    "language": "TypeScript",
-    "name": "Likenttt/garmin-connect-plugin-for-dsh",
-    "stars": 40,
-    "updated_at": "2026-10-22T06:12:52Z",
-    "url": "https://github.com/Likenttt/garmin-connect-plugin-for-dsh"
-  },
-  {
     "description": "A keynote-style launch film in one continuous shot. Free omnigami skill for Claude Code and other agents.",
     "id": "omnigami-ai/unfold",
     "language": "JavaScript",
@@ -202,18 +256,9 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 105798,
+    "stars": 105805,
     "updated_at": "2026-10-22T06:03:09Z",
     "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-10-22T06:02:51Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
@@ -223,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T06:02:38Z",
     "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 131,
-    "updated_at": "2026-10-22T06:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-22T06:05:15Z",
     "url": "https://github.com/mumez/skills-for-skills"
-  },
-  {
-    "description": "AI subscription price comparison for AI assistants: MCP server (ai-price-mcp) + Agent Skill. Data from shuita.xyz",
-    "id": "gm365/shuita-ai-price",
-    "language": "TypeScript",
-    "name": "gm365/shuita-ai-price",
-    "stars": 1,
-    "updated_at": "2026-10-22T05:37:10Z",
-    "url": "https://github.com/gm365/shuita-ai-price"
-  },
-  {
-    "description": "Salesforce ISV & Partner Skills Catalog 2026 \u2013 Reusable Deployment Kit",
-    "id": "ENTEROPNON/salesforce-accelerator-patterns",
-    "language": "HTML",
-    "name": "ENTEROPNON/salesforce-accelerator-patterns",
-    "stars": 2,
-    "updated_at": "2026-10-22T05:35:38Z",
-    "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "File your Indian income tax return (ITR) from your terminal. Deterministic tax engine, both regimes, AY 2026-27. Claude ",
-    "id": "karanb192/itr-wala",
-    "language": "Python",
-    "name": "karanb192/itr-wala",
-    "stars": 878,
-    "updated_at": "2026-10-22T05:35:32Z",
-    "url": "https://github.com/karanb192/itr-wala"
-  },
-  {
-    "description": "Agent Skills (SKILL.md) for Ampersand and relation algebra: explain rules, drive prototype APIs, import data, document s",
-    "id": "stefjoosten/agent-skills",
-    "language": "Python",
-    "name": "stefjoosten/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T05:35:07Z",
-    "url": "https://github.com/stefjoosten/agent-skills"
   }
 ]
