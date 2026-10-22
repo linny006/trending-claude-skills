@@ -1,5 +1,95 @@
 [
   {
+    "description": "NO CORN CONTENT ANYMORE !!!!",
+    "id": "SegMind25/PBLOCK",
+    "language": "Java",
+    "name": "SegMind25/PBLOCK",
+    "stars": 1,
+    "updated_at": "2026-10-22T11:29:46Z",
+    "url": "https://github.com/SegMind25/PBLOCK"
+  },
+  {
+    "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
+    "id": "arbiterForge/codeArbiter",
+    "language": "Python",
+    "name": "arbiterForge/codeArbiter",
+    "stars": 149,
+    "updated_at": "2026-10-22T11:29:44Z",
+    "url": "https://github.com/arbiterForge/codeArbiter"
+  },
+  {
+    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
+    "id": "BENZEMA216/awesome-weread",
+    "language": "JavaScript",
+    "name": "BENZEMA216/awesome-weread",
+    "stars": 67,
+    "updated_at": "2026-10-22T11:29:07Z",
+    "url": "https://github.com/BENZEMA216/awesome-weread"
+  },
+  {
+    "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR ",
+    "id": "jayjayholic/jstack",
+    "language": "Shell",
+    "name": "jayjayholic/jstack",
+    "stars": 0,
+    "updated_at": "2026-10-22T11:28:34Z",
+    "url": "https://github.com/jayjayholic/jstack"
+  },
+  {
+    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
+    "id": "aranculleton/last-job-search",
+    "language": "Python",
+    "name": "aranculleton/last-job-search",
+    "stars": 4,
+    "updated_at": "2026-10-22T11:27:54Z",
+    "url": "https://github.com/aranculleton/last-job-search"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-22T11:27:32Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 8,
+    "updated_at": "2026-10-22T11:25:56Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
+    "description": "Free Claude Code skill: the loading, empty, error and partial states AI-written UI forgets. From UX Engine by designmoti",
+    "id": "designmotionhq/ux-states",
+    "language": "\u2014",
+    "name": "designmotionhq/ux-states",
+    "stars": 0,
+    "updated_at": "2026-10-22T11:23:53Z",
+    "url": "https://github.com/designmotionhq/ux-states"
+  },
+  {
+    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
+    "id": "allxsmith/bestax-skills",
+    "language": "TypeScript",
+    "name": "allxsmith/bestax-skills",
+    "stars": 2,
+    "updated_at": "2026-10-22T11:23:03Z",
+    "url": "https://github.com/allxsmith/bestax-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-22T11:22:28Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u5c06\u4f5c (Jiangzuo) \u2014 \u8d44\u6df1\u5168\u6808\u8f6f\u4ef6\u5de5\u7a0b\u642d\u6863 Agent Skill\uff1a\u5148\u8bfb\u61c2\u3001\u518d\u60f3\u6e05\u3001\u540e\u52a8\u624b\u3001\u5fc5\u9a8c\u8bc1\u3001\u7559\u6587\u6863 | A senior full-stack engineering companion skill",
     "id": "Zhang-jx00/jiangzuo",
     "language": "Python",
@@ -27,15 +117,6 @@
     "url": "https://github.com/ProjAnvil/MindForge"
   },
   {
-    "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 149,
-    "updated_at": "2026-10-22T11:20:19Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
     "description": "A programmable typesetter for the web",
     "id": "drnachio/postext",
     "language": "TypeScript",
@@ -59,7 +140,7 @@
     "language": "Python",
     "name": "google/lightflow",
     "stars": 14,
-    "updated_at": "2026-10-22T11:17:06Z",
+    "updated_at": "2026-10-22T11:23:49Z",
     "url": "https://github.com/google/lightflow"
   },
   {
@@ -99,24 +180,6 @@
     "url": "https://github.com/SELAT-AI/selat-skills"
   },
   {
-    "description": "An AI agent system on Claude Code that runs your whole job search: finds and scores roles, tailors and fact-checks your ",
-    "id": "aranculleton/last-job-search",
-    "language": "Python",
-    "name": "aranculleton/last-job-search",
-    "stars": 4,
-    "updated_at": "2026-10-22T11:15:25Z",
-    "url": "https://github.com/aranculleton/last-job-search"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-22T11:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "\u7ea2\u72d0\u6570\u636e\uff08RedFoxHub\uff09 \u6280\u80fd\u5408\u96c6\uff1a\u9762\u5411 Agent \u7684\u53ef\u590d\u7528 SKILL \u96c6\u5408\uff0c\u8986\u76d6\u7075\u611f\u3001\u9009\u9898\u3001\u6587\u6848\u521b\u4f5c\u3001\u6570\u636e\u590d\u76d8\u7b49\u573a\u666f\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
     "id": "redfox-data/redfox-community",
     "language": "Python",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "Topnotch1851/script-to-video",
     "stars": 0,
-    "updated_at": "2026-10-22T11:13:18Z",
+    "updated_at": "2026-10-22T11:27:59Z",
     "url": "https://github.com/Topnotch1851/script-to-video"
   },
   {
@@ -185,7 +248,7 @@
     "language": "TypeScript",
     "name": "PawanSirsat/Laika",
     "stars": 0,
-    "updated_at": "2026-10-22T11:22:18Z",
+    "updated_at": "2026-10-22T11:28:53Z",
     "url": "https://github.com/PawanSirsat/Laika"
   },
   {
@@ -257,7 +320,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70260,
-    "updated_at": "2026-10-22T11:21:26Z",
+    "updated_at": "2026-10-22T11:26:42Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -313,24 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-22T10:57:56Z",
     "url": "https://github.com/alessandrolattao/pulse"
-  },
-  {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 1,
-    "updated_at": "2026-10-22T11:12:53Z",
-    "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
-    "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR ",
-    "id": "jayjayholic/jstack",
-    "language": "Shell",
-    "name": "jayjayholic/jstack",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:55:32Z",
-    "url": "https://github.com/jayjayholic/jstack"
   },
   {
     "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-22T10:50:20Z",
     "url": "https://github.com/ENTEROPNON/salesforce-accelerator-patterns"
-  },
-  {
-    "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
-    "id": "jin2004-cmd/codex-practical-skills",
-    "language": "Python",
-    "name": "jin2004-cmd/codex-practical-skills",
-    "stars": 1,
-    "updated_at": "2026-10-22T10:47:50Z",
-    "url": "https://github.com/jin2004-cmd/codex-practical-skills"
-  },
-  {
-    "description": "\ube44\uae30\ud68d\uc790/\ubc14\uc774\ube0c\ucf54\ub354\ub97c \uc704\ud55c MVP\ubb38\uc11c \uc0dd\uc131\uc744 \ub3c4\uc640\uc8fc\ub294 \uc2a4\ud0ac\uc785\ub2c8\ub2e4. \uc774 Skill\uc740 AI Agent \uc640\uc758 \ud611\uc5c5\uc5d0 \ud6a8\uacfc\ub97c \ubc1c\ud718\ud569\ub2c8\ub2e4.",
-    "id": "xeno-xeno/mvp-spec",
-    "language": "\u2014",
-    "name": "xeno-xeno/mvp-spec",
-    "stars": 2,
-    "updated_at": "2026-10-22T10:46:51Z",
-    "url": "https://github.com/xeno-xeno/mvp-spec"
-  },
-  {
-    "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments tha",
-    "id": "sergebulaev/linkedin-skills",
-    "language": "Python",
-    "name": "sergebulaev/linkedin-skills",
-    "stars": 5060,
-    "updated_at": "2026-10-22T10:45:21Z",
-    "url": "https://github.com/sergebulaev/linkedin-skills"
-  },
-  {
-    "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound",
-    "id": "dagoSte/squadra",
-    "language": "Python",
-    "name": "dagoSte/squadra",
-    "stars": 319,
-    "updated_at": "2026-10-22T10:44:44Z",
-    "url": "https://github.com/dagoSte/squadra"
-  },
-  {
-    "description": "Personal AI agent plugins and skills - Claude Code compatible",
-    "id": "fsgreco/ai-agent-plugins",
-    "language": "Shell",
-    "name": "fsgreco/ai-agent-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-22T10:44:22Z",
-    "url": "https://github.com/fsgreco/ai-agent-plugins"
   }
 ]
