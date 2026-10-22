@@ -1,11 +1,128 @@
 [
   {
+    "description": "Your coding agent says done. Show the receipt. Evidence-first workflows, practical skills, and plugins for Claude Code a",
+    "id": "Grit-77/done-is-a-claim",
+    "language": "Python",
+    "name": "Grit-77/done-is-a-claim",
+    "stars": 33,
+    "updated_at": "2026-10-22T21:59:09Z",
+    "url": "https://github.com/Grit-77/done-is-a-claim"
+  },
+  {
+    "description": "\ud83e\ude84 Install, review, and share agent skills.",
+    "id": "osrim/niksi",
+    "language": "TypeScript",
+    "name": "osrim/niksi",
+    "stars": 8,
+    "updated_at": "2026-10-22T21:58:56Z",
+    "url": "https://github.com/osrim/niksi"
+  },
+  {
+    "description": "Skill for developing professional C projects, including targeted CUDA, shader, and assembly work",
+    "id": "luppichristian/fluent",
+    "language": "Python",
+    "name": "luppichristian/fluent",
+    "stars": 0,
+    "updated_at": "2026-10-22T21:57:45Z",
+    "url": "https://github.com/luppichristian/fluent"
+  },
+  {
+    "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
+    "id": "CrossRead/scholion",
+    "language": "Python",
+    "name": "CrossRead/scholion",
+    "stars": 4,
+    "updated_at": "2026-10-22T21:57:24Z",
+    "url": "https://github.com/CrossRead/scholion"
+  },
+  {
+    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
+    "id": "solanabr/ai-kit",
+    "language": "Shell",
+    "name": "solanabr/ai-kit",
+    "stars": 110,
+    "updated_at": "2026-10-22T21:56:30Z",
+    "url": "https://github.com/solanabr/ai-kit"
+  },
+  {
+    "description": "Claude Code mod that adds a /sessions pane: browse, resume, recap, rename, compact, join and delete your saved sessions.",
+    "id": "oskarinmix/claude-session-manager",
+    "language": "TypeScript",
+    "name": "oskarinmix/claude-session-manager",
+    "stars": 0,
+    "updated_at": "2026-10-22T21:54:39Z",
+    "url": "https://github.com/oskarinmix/claude-session-manager"
+  },
+  {
+    "description": "The issue-pipeline workflow system as a Claude Code plugin: GitHub Issues as the work-item SSOT, labels as the pipeline,",
+    "id": "itw-creative-works/workkit",
+    "language": "JavaScript",
+    "name": "itw-creative-works/workkit",
+    "stars": 4,
+    "updated_at": "2026-10-22T21:52:36Z",
+    "url": "https://github.com/itw-creative-works/workkit"
+  },
+  {
+    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 80,
+    "updated_at": "2026-10-22T21:59:39Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "52 Claude Code skills for marketing, growth, sales, SEO and productivity",
+    "id": "masterpeteworld/claude-skills",
+    "language": "HTML",
+    "name": "masterpeteworld/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-10-22T21:51:53Z",
+    "url": "https://github.com/masterpeteworld/claude-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 106130,
+    "updated_at": "2026-10-22T21:59:17Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Turn ideas into products, like a professional studio. Agent skills for Claude Code, Codex and more.",
+    "id": "y5ez3g/superstudio",
+    "language": "JavaScript",
+    "name": "y5ez3g/superstudio",
+    "stars": 1,
+    "updated_at": "2026-10-22T21:47:15Z",
+    "url": "https://github.com/y5ez3g/superstudio"
+  },
+  {
+    "description": "JobSearchAssistant: a human-in-the-loop job search agent, built as a Claude plugin and as a LangGraph pipeline with eval",
+    "id": "esscott1/job-search-assistant",
+    "language": "Python",
+    "name": "esscott1/job-search-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-22T21:56:51Z",
+    "url": "https://github.com/esscott1/job-search-assistant"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-22T21:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skills that started with problems I encountered.",
     "id": "MrBinnacle/skills",
     "language": "Python",
     "name": "MrBinnacle/skills",
     "stars": 1,
-    "updated_at": "2026-10-22T21:44:53Z",
+    "updated_at": "2026-10-22T21:58:56Z",
     "url": "https://github.com/MrBinnacle/skills"
   },
   {
@@ -36,15 +153,6 @@
     "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills"
   },
   {
-    "description": "Your coding agent says done. Show the receipt. Evidence-first workflows, practical skills, and plugins for Claude Code a",
-    "id": "Grit-77/done-is-a-claim",
-    "language": "Python",
-    "name": "Grit-77/done-is-a-claim",
-    "stars": 33,
-    "updated_at": "2026-10-22T21:42:20Z",
-    "url": "https://github.com/Grit-77/done-is-a-claim"
-  },
-  {
     "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
     "id": "WenyuChiou/ai-research-skills",
     "language": "Python",
@@ -54,13 +162,13 @@
     "url": "https://github.com/WenyuChiou/ai-research-skills"
   },
   {
-    "description": "JobSearchAssistant: a human-in-the-loop job search agent, built as a Claude plugin and as a LangGraph pipeline with eval",
-    "id": "esscott1/job-search-assistant",
-    "language": "Python",
-    "name": "esscott1/job-search-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:42:10Z",
-    "url": "https://github.com/esscott1/job-search-assistant"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70278,
+    "updated_at": "2026-10-22T21:56:24Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Claude Code plugin that syncs your Claude Code, Git, SSH, project, VS Code, and GitHub CLI config across machines, encry",
@@ -79,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-10-22T21:36:30Z",
     "url": "https://github.com/pthompson8594/openscad-skill"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70279,
-    "updated_at": "2026-10-22T21:39:53Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 106127,
-    "updated_at": "2026-10-22T21:35:17Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "A free, open-source add-on for Claude, ChatGPT, Codex and Cursor that turns a few plain answers into a design system, so",
@@ -151,15 +241,6 @@
     "stars": 23,
     "updated_at": "2026-10-22T21:31:41Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-22T21:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI Agent Skills for Microsoft Power Platform & Dataverse: generate ALM pipelines/scripts with Claude, Copilot, Codex, Cu",
@@ -248,26 +329,8 @@
     "language": "JavaScript",
     "name": "bostonaholic/skills",
     "stars": 2,
-    "updated_at": "2026-10-22T21:18:29Z",
+    "updated_at": "2026-10-22T21:55:03Z",
     "url": "https://github.com/bostonaholic/skills"
-  },
-  {
-    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
-    "id": "escoffier-labs/brigade",
-    "language": "Python",
-    "name": "escoffier-labs/brigade",
-    "stars": 80,
-    "updated_at": "2026-10-22T21:42:42Z",
-    "url": "https://github.com/escoffier-labs/brigade"
-  },
-  {
-    "description": "Claude Code mod that adds a /sessions pane: browse, resume, recap, rename, compact, join and delete your saved sessions.",
-    "id": "oskarinmix/claude-session-manager",
-    "language": "TypeScript",
-    "name": "oskarinmix/claude-session-manager",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:17:01Z",
-    "url": "https://github.com/oskarinmix/claude-session-manager"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -320,7 +383,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 37,
-    "updated_at": "2026-10-22T21:38:56Z",
+    "updated_at": "2026-10-22T21:58:34Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -383,70 +446,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30992,
-    "updated_at": "2026-10-22T21:06:47Z",
+    "updated_at": "2026-10-22T21:53:34Z",
     "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Claude Code skills by Seevali Rathnayake: design-council (a five-designer critique panel), mission-command (a scarce fla",
-    "id": "seevali/claude-skills",
-    "language": "Shell",
-    "name": "seevali/claude-skills",
-    "stars": 1,
-    "updated_at": "2026-10-22T21:06:24Z",
-    "url": "https://github.com/seevali/claude-skills"
-  },
-  {
-    "description": "A Claude Code and Codex plugin that scaffolds AI-native development practices into new projects.  jig adds a repeatable ",
-    "id": "ramboz/jig",
-    "language": "Python",
-    "name": "ramboz/jig",
-    "stars": 7,
-    "updated_at": "2026-10-22T21:06:43Z",
-    "url": "https://github.com/ramboz/jig"
-  },
-  {
-    "description": "Public method documents. How the work is thought and governed. Self-taught, in Dunedin. Not a commercial offer.",
-    "id": "Lycheetah/Lycheetah-Framework",
-    "language": "Python",
-    "name": "Lycheetah/Lycheetah-Framework",
-    "stars": 5,
-    "updated_at": "2026-10-22T21:05:34Z",
-    "url": "https://github.com/Lycheetah/Lycheetah-Framework"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-10-22T21:03:58Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:02:18Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
-  },
-  {
-    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
-    "id": "lobisomenhomemafeminado/skill-vault",
-    "language": "HTML",
-    "name": "lobisomenhomemafeminado/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-10-22T21:02:15Z",
-    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Build responsive business websites from the first brief, with optional custom-address planning through Add Domain.",
-    "id": "vitaliiphangan-code/add-domain-website-skills",
-    "language": "\u2014",
-    "name": "vitaliiphangan-code/add-domain-website-skills",
-    "stars": 0,
-    "updated_at": "2026-10-22T21:02:04Z",
-    "url": "https://github.com/vitaliiphangan-code/add-domain-website-skills"
   }
 ]
