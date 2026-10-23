@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent skills from Altair AI: weekly multi-model AI research on ~70 US stocks and ETFs (SPY, QQQ, SOXX, XBI, NVDA, AAPL\u2026)",
+    "id": "altair-world/altair-skills",
+    "language": "Python",
+    "name": "altair-world/altair-skills",
+    "stars": 1,
+    "updated_at": "2026-10-23T06:30:40Z",
+    "url": "https://github.com/altair-world/altair-skills"
+  },
+  {
+    "description": "Local AI Skills central library with per-project symlink enablement. One AISkills  folder holds every skill source; syml",
+    "id": "chenweil/skillcaddy",
+    "language": "JavaScript",
+    "name": "chenweil/skillcaddy",
+    "stars": 29,
+    "updated_at": "2026-10-23T06:30:28Z",
+    "url": "https://github.com/chenweil/skillcaddy"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-23T06:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code plugin that syncs your Claude Code, Git, SSH, project, VS Code, and GitHub CLI config across machines, encry",
     "id": "qiaeru/skill-dotfiles-sync",
     "language": "Shell",
@@ -216,15 +243,6 @@
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-23T06:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "JobAppAgent: open-source AI job application agent (Agent Skill + CLI). Searches wide, matches one verified r\u00e9sum\u00e9, appli",
     "id": "vaibhavarora14/job-application-agent",
     "language": "JavaScript",
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T06:12:06Z",
     "url": "https://github.com/Muxxik/app-store-aso"
-  },
-  {
-    "description": "Agent skills from Altair AI: weekly multi-model AI research on ~70 US stocks and ETFs (SPY, QQQ, SOXX, XBI, NVDA, AAPL\u2026)",
-    "id": "altair-world/altair-skills",
-    "language": "Python",
-    "name": "altair-world/altair-skills",
-    "stars": 1,
-    "updated_at": "2026-10-23T06:29:55Z",
-    "url": "https://github.com/altair-world/altair-skills"
   },
   {
     "description": "\u5c06\u4f5c (Jiangzuo) \u2014 \u8d44\u6df1\u5168\u6808\u8f6f\u4ef6\u5de5\u7a0b\u642d\u6863 Agent Skill\uff1a\u5148\u8bfb\u61c2\u3001\u518d\u60f3\u6e05\u3001\u540e\u52a8\u624b\u3001\u5fc5\u9a8c\u8bc1\u3001\u7559\u6587\u6863 | A senior full-stack engineering companion skill",
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "madrobotnet/3dprint-scout",
     "stars": 5,
-    "updated_at": "2026-10-23T06:22:24Z",
+    "updated_at": "2026-10-23T06:30:16Z",
     "url": "https://github.com/madrobotnet/3dprint-scout"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T05:51:56Z",
     "url": "https://github.com/mileschintw/career-log-template"
-  },
-  {
-    "description": "A headless Python CLI for interacting with the Tidal music streaming API, designed for LLM agent automation. Supports OA",
-    "id": "SteveGrosbois/tidal-cli",
-    "language": "Shell",
-    "name": "SteveGrosbois/tidal-cli",
-    "stars": 4,
-    "updated_at": "2026-10-23T05:51:57Z",
-    "url": "https://github.com/SteveGrosbois/tidal-cli"
   }
 ]
