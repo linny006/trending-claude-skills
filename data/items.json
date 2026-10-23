@@ -1,5 +1,122 @@
 [
   {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 62,
+    "updated_at": "2026-10-23T03:44:50Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 106230,
+    "updated_at": "2026-10-23T03:42:33Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "a declarative multi-agent skill stack",
+    "id": "kidskoding/anikonistack",
+    "language": "Markdown",
+    "name": "kidskoding/anikonistack",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:42:17Z",
+    "url": "https://github.com/kidskoding/anikonistack"
+  },
+  {
+    "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
+    "id": "StanimirTenev/baton",
+    "language": "Python",
+    "name": "StanimirTenev/baton",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:41:07Z",
+    "url": "https://github.com/StanimirTenev/baton"
+  },
+  {
+    "description": "AI-powered university course planning Skill: analyze course catalogs, recommend courses, build conflict-free weekly time",
+    "id": "ez-hq/uni-course-scheduler",
+    "language": "Python",
+    "name": "ez-hq/uni-course-scheduler",
+    "stars": 1,
+    "updated_at": "2026-10-23T03:40:26Z",
+    "url": "https://github.com/ez-hq/uni-course-scheduler"
+  },
+  {
+    "description": "Claude Code \u6280\u80fd\uff1a\u7528 Orca \u591a\u7a97\u53e3\u6279\u91cf\u6d3e\u5de5\u7684\u603b\u4ee3\u7406\u624b\u518c\uff0c\u9644\u6d3e\u5de5\u811a\u672c\u6a21\u677f\uff08rec \u603b\u4ee3\u7406\uff09",
+    "id": "FeeJson/rec-dispatcher",
+    "language": "Python",
+    "name": "FeeJson/rec-dispatcher",
+    "stars": 0,
+    "updated_at": "2026-10-23T03:40:10Z",
+    "url": "https://github.com/FeeJson/rec-dispatcher"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 87796,
+    "updated_at": "2026-10-23T03:36:31Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-10-23T03:35:37Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Agent skills from Altair AI: weekly multi-model AI research on ~70 US stocks and ETFs (SPY, QQQ, SOXX, XBI, NVDA, AAPL\u2026)",
+    "id": "BichengWang/altair-skills",
+    "language": "Python",
+    "name": "BichengWang/altair-skills",
+    "stars": 1,
+    "updated_at": "2026-10-23T03:33:56Z",
+    "url": "https://github.com/BichengWang/altair-skills"
+  },
+  {
+    "description": "Datacircle lists all the GTM APIs",
+    "id": "waynehamadi/datacircle",
+    "language": "\u2014",
+    "name": "waynehamadi/datacircle",
+    "stars": 1,
+    "updated_at": "2026-10-23T03:33:10Z",
+    "url": "https://github.com/waynehamadi/datacircle"
+  },
+  {
+    "description": "Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude ",
+    "id": "JayPokale/Chisle",
+    "language": "JavaScript",
+    "name": "JayPokale/Chisle",
+    "stars": 696,
+    "updated_at": "2026-10-23T03:32:49Z",
+    "url": "https://github.com/JayPokale/Chisle"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102350,
+    "updated_at": "2026-10-23T03:32:31Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-23T03:30:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Audit-first Claude Code skills for frontend, backend, infra, ops and releases \u2014 one marketplace, eight plugins.",
     "id": "VelimirMueller/ai-development-skills",
     "language": "Shell",
@@ -27,6 +144,15 @@
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70278,
+    "updated_at": "2026-10-23T03:44:17Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Skills that started with problems I encountered.",
     "id": "MrBinnacle/skills",
     "language": "Python",
@@ -52,24 +178,6 @@
     "stars": 8,
     "updated_at": "2026-10-23T03:23:46Z",
     "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 62,
-    "updated_at": "2026-10-23T03:23:16Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 106225,
-    "updated_at": "2026-10-23T03:21:56Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "A method for turning a messy UI into a token-driven, card-based, accessible desktop workbench. Install: npx skills add Q",
@@ -117,15 +225,6 @@
     "url": "https://github.com/heyNag/charms"
   },
   {
-    "description": "Agent skills from Altair AI: weekly multi-model AI research on SPY, QQQ, SOXX and XBI via a free MCP server",
-    "id": "BichengWang/altair-skills",
-    "language": "Python",
-    "name": "BichengWang/altair-skills",
-    "stars": 1,
-    "updated_at": "2026-10-23T03:15:36Z",
-    "url": "https://github.com/BichengWang/altair-skills"
-  },
-  {
     "description": "Find out if your Claude Code / Agent Skills actually trigger: lint for overlap and the description budget, plus a trigge",
     "id": "TanbirRamim/skill-trigger-bench",
     "language": "Python",
@@ -133,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T03:15:24Z",
     "url": "https://github.com/TanbirRamim/skill-trigger-bench"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-23T03:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The skills I use to build software with coding agents.",
@@ -158,7 +248,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 37,
-    "updated_at": "2026-10-23T03:14:44Z",
+    "updated_at": "2026-10-23T03:44:53Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -196,15 +286,6 @@
     "stars": 8,
     "updated_at": "2026-10-23T03:11:26Z",
     "url": "https://github.com/widnyana/eyay-toolkits"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70277,
-    "updated_at": "2026-10-23T03:27:29Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -347,7 +428,7 @@
     "language": "TypeScript",
     "name": "bislink360/styled-markdown",
     "stars": 3,
-    "updated_at": "2026-10-23T02:51:22Z",
+    "updated_at": "2026-10-23T03:40:47Z",
     "url": "https://github.com/bislink360/styled-markdown"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 40,
     "updated_at": "2026-10-23T03:00:56Z",
     "url": "https://github.com/drayline/rootnode-skills"
-  },
-  {
-    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
-    "id": "solanabr/ai-kit",
-    "language": "Shell",
-    "name": "solanabr/ai-kit",
-    "stars": 111,
-    "updated_at": "2026-10-23T03:10:39Z",
-    "url": "https://github.com/solanabr/ai-kit"
-  },
-  {
-    "description": "Agent skill for deploying and operating web apps on Keelson (keelson.run) with the Keelson CLI.",
-    "id": "keelsonhq/skills",
-    "language": "\u2014",
-    "name": "keelsonhq/skills",
-    "stars": 0,
-    "updated_at": "2026-10-23T02:45:05Z",
-    "url": "https://github.com/keelsonhq/skills"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 102346,
-    "updated_at": "2026-10-23T03:10:01Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "\u5973\u6027\u9ad8\u6210\u5c31\u8005\u51b3\u7b56\u667a\u5e93 | Women High-Achievers Decision Intelligence \u2014 AI Skill for real-world decision support based on 22 real wome",
-    "id": "alicexixi85/women-decision-intelligence",
-    "language": "Python",
-    "name": "alicexixi85/women-decision-intelligence",
-    "stars": 4,
-    "updated_at": "2026-10-23T02:42:15Z",
-    "url": "https://github.com/alicexixi85/women-decision-intelligence"
-  },
-  {
-    "description": "STM32 \u5f00\u53d1\u8f85\u52a9 Agent Skill\uff08DSH / Claude Code\uff09\uff1a\u6807\u51c6\u5e93 SPL / HAL(CubeMX) / FreeRTOS \u56db\u8f68\u4ee3\u7801\u751f\u6210\uff0c\u5185\u7f6e\u5de5\u7a0b\u7eaa\u5f8b\u68c0\u67e5\u5668 validate_generated.py \u4e0e 33\u6761\u5751",
-    "id": "wdcjx/Embedded-programming",
-    "language": "C",
-    "name": "wdcjx/Embedded-programming",
-    "stars": 1,
-    "updated_at": "2026-10-23T02:40:24Z",
-    "url": "https://github.com/wdcjx/Embedded-programming"
-  },
-  {
-    "description": "The Ultimate Documentation + PoC Stress Test Toolkit for SREs in 2026",
-    "id": "saumit2401273106-lab/preflight-checklist",
-    "language": "HTML",
-    "name": "saumit2401273106-lab/preflight-checklist",
-    "stars": 1,
-    "updated_at": "2026-10-23T02:39:02Z",
-    "url": "https://github.com/saumit2401273106-lab/preflight-checklist"
-  },
-  {
-    "description": "\u6296\u97f3\u6bcf\u65e5\u70b9\u8d5e\u98d9\u5347\u699c\u67e5\u8be2\u5de5\u5177\u3002\u5b9e\u65f6\u83b7\u53d6\u5168\u5e73\u53f0\u6296\u97f3\u4f5c\u54c1\uff0c\u8f93\u51fa\u5355\u65e5\u70b9\u8d5eTOP1000\u699c\u5355\uff0c\u652f\u6301\u6309\u8d5b\u9053\u67e5\u8be2\u3001\u6309\u5173\u952e\u8bcd\u67e5\u8be2\u3001\u6309\u53d1\u5e03\u65f6\u95f4\u7b5b\u9009\u3001\u6309\u6296\u97f3\u89c6\u9891\u65f6\u957f\u7b5b\u9009\u3002\u5f53\u7528\u6237\u67e5\u8be2\u6296\u97f3\u98d9\u5347\u699c\u3001\u6296\u97f3\u70b9\u8d5e\u98d9\u5347\u3001\u6296\u97f3\u98d9\u5347\u6392\u540d\u3001\u6296\u97f3\u98d9\u5347\u699c\u65f6\u4f7f\u7528\u3002\u89e6\u53d1\u8bcd\uff1a\u6296\u97f3\u98d9\u5347\u699c\u3001\u6296",
-    "id": "why20261/douyin-daily-surge",
-    "language": "JavaScript",
-    "name": "why20261/douyin-daily-surge",
-    "stars": 1,
-    "updated_at": "2026-10-23T02:32:23Z",
-    "url": "https://github.com/why20261/douyin-daily-surge"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30995,
-    "updated_at": "2026-10-23T02:27:40Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 24,
-    "updated_at": "2026-10-23T03:29:50Z",
-    "url": "https://github.com/gaia-react/gaia"
   }
 ]
