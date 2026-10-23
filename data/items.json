@@ -1,12 +1,111 @@
 [
   {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 62,
+    "updated_at": "2026-10-23T05:13:54Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102358,
+    "updated_at": "2026-10-23T05:13:47Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:12:43Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "Documenting my learning path for the Claude Certified Architect certification \u2014 including concepts, summaries, experimen",
+    "id": "Zulqarnayn/Claude-Certified-Architect-Self-Study",
+    "language": "JavaScript",
+    "name": "Zulqarnayn/Claude-Certified-Architect-Self-Study",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:11:33Z",
+    "url": "https://github.com/Zulqarnayn/Claude-Certified-Architect-Self-Study"
+  },
+  {
+    "description": "Compose Skill (Compose Kit): agent skills for Jetpack Compose & Compose Multiplatform. Makes Claude Code, Codex, Cursor,",
+    "id": "Meet-Miyani/compose-skill",
+    "language": "Shell",
+    "name": "Meet-Miyani/compose-skill",
+    "stars": 306,
+    "updated_at": "2026-10-23T05:08:53Z",
+    "url": "https://github.com/Meet-Miyani/compose-skill"
+  },
+  {
+    "description": "Self-hosted project board where your team and Claude Code agents share one source of truth. MCP server, Claude Code plug",
+    "id": "PawanSirsat/Laika",
+    "language": "TypeScript",
+    "name": "PawanSirsat/Laika",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:08:01Z",
+    "url": "https://github.com/PawanSirsat/Laika"
+  },
+  {
+    "description": "\u6df1\u5ea6\u7814\u7a76 \u2192 \u957f\u6587\u5199\u4f5c \u2192 \u516c\u4f17\u53f7\u6392\u7248\u4e00\u6761\u9f99 Skill\uff1a\u7528\u6a2a\u7eb5\u5206\u6790\u6cd5\u8054\u7f51\u7814\u7a76\u4ea7\u54c1/\u516c\u53f8/\u6982\u5ff5/\u4eba\u7269\uff0c\u4ea7\u51fa 1-3 \u4e07\u5b57\u6df1\u5ea6\u957f\u6587\uff0c\u5e76\u6392\u7248\u4e3a\u53ef\u76f4\u63a5\u7c98\u8d34\u8fdb\u5fae\u4fe1\u516c\u4f17\u53f7\u7684 HTML\uff08\u53ef\u9009 PDF \u62a5\u544a\uff09\u3002hv-analysis + gzh-desi",
+    "id": "magofficinalis/gzh-deep-research",
+    "language": "Python",
+    "name": "magofficinalis/gzh-deep-research",
+    "stars": 1,
+    "updated_at": "2026-10-23T05:05:07Z",
+    "url": "https://github.com/magofficinalis/gzh-deep-research"
+  },
+  {
+    "description": "\u77ed\u89c6\u9891\u5206\u955c\u811a\u672c\u8f6c\u6362\u5668 \u2014 \u7532\u65b9\u7a3f\u4e00\u952e\u8f6c\u4e3a\u6807\u51c6\u5316 xlsx \u62cd\u6444\u811a\u672c\uff08\u5f00\u6e90\u7248\uff0c\u7532\u65b9\u4fe1\u606f\u5df2\u8131\u654f\uff09",
+    "id": "zds07/yueji-geshizhuanhua",
+    "language": "Python",
+    "name": "zds07/yueji-geshizhuanhua",
+    "stars": 0,
+    "updated_at": "2026-10-23T05:04:18Z",
+    "url": "https://github.com/zds07/yueji-geshizhuanhua"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 24,
+    "updated_at": "2026-10-23T05:14:52Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
     "description": "Skills de finanzas personales para Australia (Claude / ChatGPT) \u2014 Felipe Diez, Synergic Pro",
     "id": "synergicpro10/skills-finanzas-au",
     "language": "Python",
     "name": "synergicpro10/skills-finanzas-au",
     "stars": 0,
-    "updated_at": "2026-10-23T04:58:19Z",
+    "updated_at": "2026-10-23T05:03:17Z",
     "url": "https://github.com/synergicpro10/skills-finanzas-au"
+  },
+  {
+    "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
+    "id": "savanna0425/skillhot",
+    "language": "JavaScript",
+    "name": "savanna0425/skillhot",
+    "stars": 39,
+    "updated_at": "2026-10-23T05:01:24Z",
+    "url": "https://github.com/savanna0425/skillhot"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-23T05:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent Skill\uff1a\u628a\u4efb\u610f\u4e3b\u9898\u505a\u6210\u5e26\u914d\u97f3\u3001\u8bcd\u7ea7\u5b57\u5e55\u548c HTML/GSAP \u52a8\u6548\u753b\u9762\u7684\u8bb2\u89e3\u89c6\u9891\uff08MP4\uff09\u4e0e\u5c01\u9762\uff1b\u9010\u5e27\u786e\u5b9a\u6027\u6e32\u67d3\uff0c\u753b\u9762\u6309\u5410\u5b57\u65f6\u523b\u5bf9\u4f4d\u3002Turn any topic into a narrated explainer vide",
@@ -16,6 +115,15 @@
     "stars": 2,
     "updated_at": "2026-10-23T04:57:44Z",
     "url": "https://github.com/amliuyong/html-to-explainer-video"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70282,
+    "updated_at": "2026-10-23T05:14:51Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
@@ -36,6 +144,15 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
+    "description": "Recursos de IA. Skills y servidor MCP para que tu agente de c\u00f3digo integre Fiscalapi: Claude Code, Cursor, Codex o Copil",
+    "id": "FiscalAPI/fiscalapi-ai",
+    "language": "TypeScript",
+    "name": "FiscalAPI/fiscalapi-ai",
+    "stars": 0,
+    "updated_at": "2026-10-23T04:54:51Z",
+    "url": "https://github.com/FiscalAPI/fiscalapi-ai"
+  },
+  {
     "description": "The loop for everything!",
     "id": "MadaraUchiha-314/the-loop",
     "language": "Python",
@@ -43,24 +160,6 @@
     "stars": 7,
     "updated_at": "2026-10-23T04:54:27Z",
     "url": "https://github.com/MadaraUchiha-314/the-loop"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 62,
-    "updated_at": "2026-10-23T04:54:15Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 24,
-    "updated_at": "2026-10-23T04:53:55Z",
-    "url": "https://github.com/gaia-react/gaia"
   },
   {
     "description": "Plugin marketplace for Claude Code and Claude Cowork \u2014 fresh-eyes code review agents, workflow orchestrators, and specia",
@@ -76,7 +175,7 @@
     "id": "openqodex/openqodex",
     "language": "TypeScript",
     "name": "openqodex/openqodex",
-    "stars": 791,
+    "stars": 792,
     "updated_at": "2026-10-23T04:53:26Z",
     "url": "https://github.com/openqodex/openqodex"
   },
@@ -90,6 +189,15 @@
     "url": "https://github.com/AN0099/toothpaste-kit"
   },
   {
+    "description": "\u77ed\u89c6\u9891\u521b\u610f\u9884\u89c8\u7a3f\u751f\u6210\u5668 \u00b7 \u4e0e\u5ba2\u6237\u5bf9\u9f50\u7528\u7684\u65b9\u6848\u9884\u89c8\u7a3f\uff089 \u6a21\u5757\u7ed3\u6784\uff0cHTML \u6392\u7248 + Chrome headless \u8f6c PDF \u4ea4\u4ed8\uff09",
+    "id": "zds07/yueji-chuangyi",
+    "language": "Shell",
+    "name": "zds07/yueji-chuangyi",
+    "stars": 0,
+    "updated_at": "2026-10-23T04:52:40Z",
+    "url": "https://github.com/zds07/yueji-chuangyi"
+  },
+  {
     "description": "Two Claude Code skills for running a team of Claude sessions: a chief-of-staff session between you and the team, and an ",
     "id": "kl-autonomous/agent-team-skills",
     "language": "HTML",
@@ -97,6 +205,15 @@
     "stars": 2,
     "updated_at": "2026-10-23T04:50:59Z",
     "url": "https://github.com/kl-autonomous/agent-team-skills"
+  },
+  {
+    "description": "Production-grade Claude Code skills verified against official specifications. Zero dependencies. Complete domain coverag",
+    "id": "LeahyCC/claude-skills",
+    "language": "JavaScript",
+    "name": "LeahyCC/claude-skills",
+    "stars": 3,
+    "updated_at": "2026-10-23T04:46:56Z",
+    "url": "https://github.com/LeahyCC/claude-skills"
   },
   {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
@@ -108,15 +225,6 @@
     "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-23T04:45:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "a declarative multi-agent skill stack",
     "id": "kidskoding/anikonistack",
     "language": "Markdown",
@@ -124,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T04:44:55Z",
     "url": "https://github.com/kidskoding/anikonistack"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 102356,
-    "updated_at": "2026-10-23T04:44:46Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
@@ -171,24 +270,6 @@
     "url": "https://github.com/waynehamadi/datacircle"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70281,
-    "updated_at": "2026-10-23T04:57:21Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Production-grade Claude Code skills verified against official specifications. Zero dependencies. Complete domain coverag",
-    "id": "LeahyCC/claude-skills",
-    "language": "JavaScript",
-    "name": "LeahyCC/claude-skills",
-    "stars": 3,
-    "updated_at": "2026-10-23T04:46:56Z",
-    "url": "https://github.com/LeahyCC/claude-skills"
-  },
-  {
     "description": "AI video & animation skill router \u2014 discover, install & orchestrate Manim/Remotion/Lottie skills by category. \u89c6\u9891\u521b\u4f5c\u6280\u80fd\u8def\u7531\u5668\uff1a",
     "id": "guipi888/video-skill-router",
     "language": "Python",
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "ndisisnd/cook",
     "stars": 2,
-    "updated_at": "2026-10-23T04:56:13Z",
+    "updated_at": "2026-10-23T05:14:06Z",
     "url": "https://github.com/ndisisnd/cook"
   },
   {
@@ -223,15 +304,6 @@
     "stars": 17,
     "updated_at": "2026-10-23T04:35:39Z",
     "url": "https://github.com/Rjxshr1/idea-to-print"
-  },
-  {
-    "description": "Compose Skill (Compose Kit): agent skills for Jetpack Compose & Compose Multiplatform. Makes Claude Code, Codex, Cursor,",
-    "id": "Meet-Miyani/compose-skill",
-    "language": "Shell",
-    "name": "Meet-Miyani/compose-skill",
-    "stars": 306,
-    "updated_at": "2026-10-23T04:34:47Z",
-    "url": "https://github.com/Meet-Miyani/compose-skill"
   },
   {
     "description": "Free Agent Skills (SKILL.md) for formula-first Excel workbooks: spreadsheet linter, break-even pricing, month-end close.",
@@ -247,7 +319,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 106246,
+    "stars": 106250,
     "updated_at": "2026-10-23T04:33:11Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-23T04:19:52Z",
     "url": "https://github.com/StanimirTenev/baton"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-10-23T04:12:56Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 193,
-    "updated_at": "2026-10-23T04:12:13Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "\u57fa\u4e8e\u5fae\u4fe1\u8bfb\u4e66\u5b98\u65b9 Agent Skill \u7684\u4e8c\u521b\u9879\u76ee\u7cbe\u9009 \u00b7 Curated projects built on WeRead's official Agent Skill (released 2026-05-17)",
-    "id": "BENZEMA216/awesome-weread",
-    "language": "JavaScript",
-    "name": "BENZEMA216/awesome-weread",
-    "stars": 67,
-    "updated_at": "2026-10-23T04:10:00Z",
-    "url": "https://github.com/BENZEMA216/awesome-weread"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-23T04:09:53Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-10-23T04:08:39Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Persistent Linux workspaces for agentic development.",
-    "id": "aerovato/container",
-    "language": "TypeScript",
-    "name": "aerovato/container",
-    "stars": 354,
-    "updated_at": "2026-10-23T04:08:31Z",
-    "url": "https://github.com/aerovato/container"
-  },
-  {
-    "description": "\u5c06\u4f5c (Jiangzuo) \u2014 \u8d44\u6df1\u5168\u6808\u8f6f\u4ef6\u5de5\u7a0b\u642d\u6863 Agent Skill\uff1a\u5148\u8bfb\u61c2\u3001\u518d\u60f3\u6e05\u3001\u540e\u52a8\u624b\u3001\u5fc5\u9a8c\u8bc1\u3001\u7559\u6587\u6863 | A senior full-stack engineering companion skill",
-    "id": "Zhang-jx00/jiangzuo",
-    "language": "Python",
-    "name": "Zhang-jx00/jiangzuo",
-    "stars": 1,
-    "updated_at": "2026-10-23T04:07:08Z",
-    "url": "https://github.com/Zhang-jx00/jiangzuo"
-  },
-  {
-    "description": "Agent skill that designs 3D-printable parts reference-first: finds existing models, builds in Fusion, OpenSCAD or Python",
-    "id": "madrobotnet/3dprint-scout",
-    "language": "Python",
-    "name": "madrobotnet/3dprint-scout",
-    "stars": 5,
-    "updated_at": "2026-10-23T04:46:45Z",
-    "url": "https://github.com/madrobotnet/3dprint-scout"
   }
 ]
