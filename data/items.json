@@ -1,12 +1,57 @@
 [
   {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:28:52Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "Two Claude skills that review product design portfolios (IC and leadership) from a hiring manager's point of view.",
+    "id": "smaretto/portfolio-review-skills",
+    "language": "Shell",
+    "name": "smaretto/portfolio-review-skills",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:28:28Z",
+    "url": "https://github.com/smaretto/portfolio-review-skills"
+  },
+  {
+    "description": "VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates",
+    "id": "notque/vexjoy-agent",
+    "language": "Python",
+    "name": "notque/vexjoy-agent",
+    "stars": 443,
+    "updated_at": "2026-10-23T10:28:14Z",
+    "url": "https://github.com/notque/vexjoy-agent"
+  },
+  {
     "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex \u2014 PRDs, postmortems, leases, medical bills, l",
     "id": "mohitagw15856/pm-claude-skills",
     "language": "HTML",
     "name": "mohitagw15856/pm-claude-skills",
     "stars": 1481,
-    "updated_at": "2026-10-23T10:14:27Z",
+    "updated_at": "2026-10-23T10:30:06Z",
     "url": "https://github.com/mohitagw15856/pm-claude-skills"
+  },
+  {
+    "description": "Personal AI agent plugins and skills - Claude Code compatible",
+    "id": "fsgreco/ai-agent-plugins",
+    "language": "Shell",
+    "name": "fsgreco/ai-agent-plugins",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:27:50Z",
+    "url": "https://github.com/fsgreco/ai-agent-plugins"
+  },
+  {
+    "description": "Background music for video, composed in code by Claude Opus 5.5: synth voices + a sampled SoundFont orchestra, rendered ",
+    "id": "ynginkim/op55",
+    "language": "JavaScript",
+    "name": "ynginkim/op55",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:27:22Z",
+    "url": "https://github.com/ynginkim/op55"
   },
   {
     "description": "Distill any crowd text (comments, survey open-ends, interviews, feedback, issue threads) into an evidence-cited action g",
@@ -14,8 +59,98 @@
     "language": "Python",
     "name": "TrueFurina/comment-distillery",
     "stars": 1,
-    "updated_at": "2026-10-23T10:12:25Z",
+    "updated_at": "2026-10-23T10:25:19Z",
     "url": "https://github.com/TrueFurina/comment-distillery"
+  },
+  {
+    "description": "The discipline layer for Claude Code. What Claude Code should be.",
+    "id": "ChaseSunstrom/foreman",
+    "language": "Python",
+    "name": "ChaseSunstrom/foreman",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:24:29Z",
+    "url": "https://github.com/ChaseSunstrom/foreman"
+  },
+  {
+    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
+    "id": "Darkmalan-1987/sparring-reason",
+    "language": "HTML",
+    "name": "Darkmalan-1987/sparring-reason",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:20:22Z",
+    "url": "https://github.com/Darkmalan-1987/sparring-reason"
+  },
+  {
+    "description": "Agent skill that designs 3D-printable parts reference-first: finds existing models, builds in Fusion, OpenSCAD or Python",
+    "id": "madrobotnet/3dprint-scout",
+    "language": "Python",
+    "name": "madrobotnet/3dprint-scout",
+    "stars": 5,
+    "updated_at": "2026-10-23T10:20:13Z",
+    "url": "https://github.com/madrobotnet/3dprint-scout"
+  },
+  {
+    "description": "Open-source, model-independent Agent Skill for evidence-based software reconstruction with REA. Optional integration, po",
+    "id": "ShadowSwaps/REA-Reconstruction-Companion",
+    "language": "JavaScript",
+    "name": "ShadowSwaps/REA-Reconstruction-Companion",
+    "stars": 108,
+    "updated_at": "2026-10-23T10:29:01Z",
+    "url": "https://github.com/ShadowSwaps/REA-Reconstruction-Companion"
+  },
+  {
+    "description": "Scans Python projects for known vulnerabilities by matching installed uv.lock versions against the OSV.dev API.",
+    "id": "AlessandroAnnini/osv-uv-scan",
+    "language": "Python",
+    "name": "AlessandroAnnini/osv-uv-scan",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:18:24Z",
+    "url": "https://github.com/AlessandroAnnini/osv-uv-scan"
+  },
+  {
+    "description": "Scans C# and .NET projects for known vulnerabilities by matching NuGet package versions against the OSV.dev API.",
+    "id": "AlessandroAnnini/osv-nuget-scan",
+    "language": "JavaScript",
+    "name": "AlessandroAnnini/osv-nuget-scan",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:18:21Z",
+    "url": "https://github.com/AlessandroAnnini/osv-nuget-scan"
+  },
+  {
+    "description": "Scans Node.js projects for known vulnerabilities by matching installed package-lock.json versions against the OSV.dev AP",
+    "id": "AlessandroAnnini/osv-npm-scan",
+    "language": "JavaScript",
+    "name": "AlessandroAnnini/osv-npm-scan",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:18:19Z",
+    "url": "https://github.com/AlessandroAnnini/osv-npm-scan"
+  },
+  {
+    "description": "Evidence-first skills for AI coding agents: plan, TDD, debug, review, verify, ship. Works with Codex, Cursor, Gemini CLI",
+    "id": "HugoLopes45/hl-skills",
+    "language": "Python",
+    "name": "HugoLopes45/hl-skills",
+    "stars": 2,
+    "updated_at": "2026-10-23T10:17:30Z",
+    "url": "https://github.com/HugoLopes45/hl-skills"
+  },
+  {
+    "description": " Memory, features, skills, and agents for Claude, centralized and versioned, one-command installation ",
+    "id": "RemiAsselin42/claude-config",
+    "language": "Shell",
+    "name": "RemiAsselin42/claude-config",
+    "stars": 1,
+    "updated_at": "2026-10-23T10:15:26Z",
+    "url": "https://github.com/RemiAsselin42/claude-config"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-23T10:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
@@ -50,7 +185,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70286,
-    "updated_at": "2026-10-23T10:10:59Z",
+    "updated_at": "2026-10-23T10:25:16Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -70,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T10:08:59Z",
     "url": "https://github.com/superdb-br/superdb-plugin"
-  },
-  {
-    "description": "Background music for video, composed in code by Claude Opus 5.5: synth voices + a sampled SoundFont orchestra, rendered ",
-    "id": "ynginkim/op55",
-    "language": "JavaScript",
-    "name": "ynginkim/op55",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:08:54Z",
-    "url": "https://github.com/ynginkim/op55"
   },
   {
     "description": "\ud83e\udead Agent Skills for technical event organizers: conferences, meetups, hackathons, speakers, and sponsorships.",
@@ -108,31 +234,13 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "Scans Python projects for known vulnerabilities by matching installed uv.lock versions against the OSV.dev API.",
-    "id": "AlessandroAnnini/osv-uv-scan",
-    "language": "Python",
-    "name": "AlessandroAnnini/osv-uv-scan",
+    "description": "Norske Claude-skills for offentlige anbud",
+    "id": "Sporg-no/anbudsskriver",
+    "language": "\u2014",
+    "name": "Sporg-no/anbudsskriver",
     "stars": 0,
-    "updated_at": "2026-10-23T10:02:45Z",
-    "url": "https://github.com/AlessandroAnnini/osv-uv-scan"
-  },
-  {
-    "description": "Scans C# and .NET projects for known vulnerabilities by matching NuGet package versions against the OSV.dev API.",
-    "id": "AlessandroAnnini/osv-nuget-scan",
-    "language": "JavaScript",
-    "name": "AlessandroAnnini/osv-nuget-scan",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:02:37Z",
-    "url": "https://github.com/AlessandroAnnini/osv-nuget-scan"
-  },
-  {
-    "description": "Scans Node.js projects for known vulnerabilities by matching installed package-lock.json versions against the OSV.dev AP",
-    "id": "AlessandroAnnini/osv-npm-scan",
-    "language": "JavaScript",
-    "name": "AlessandroAnnini/osv-npm-scan",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:02:27Z",
-    "url": "https://github.com/AlessandroAnnini/osv-npm-scan"
+    "updated_at": "2026-10-23T10:22:36Z",
+    "url": "https://github.com/Sporg-no/anbudsskriver"
   },
   {
     "description": "\u7eaf\u4ee3\u7801\u89c6\u9891 \u00b7 \u98ce\u683c\u6280\u80fd\u5e93\uff1a\u7528\u4e00\u4efd JSON \u5267\u672c\uff0c\u8ba9 AI \u76f4\u63a5\u5199\u51fa\u7cbe\u81f4\u7684\u666e\u6cd5\u8bb2\u89e3\u77ed\u89c6\u9891\uff08\u5149\u611f\u5f69\u8272\u98ce / \u6df1\u8272\u79d1\u6280\u98ce\uff09",
@@ -151,15 +259,6 @@
     "stars": 29,
     "updated_at": "2026-10-23T10:00:34Z",
     "url": "https://github.com/chenweil/skillcaddy"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-23T10:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI \u00d7 BDD spec-driven development for Claude Code. greenlight turns a feature request into human-approved, executable spe",
@@ -225,15 +324,6 @@
     "url": "https://github.com/reem-plus/quiver-compass"
   },
   {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 1,
-    "updated_at": "2026-10-23T09:54:04Z",
-    "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
     "description": "\u0421\u043a\u0456\u043b \u0434\u043b\u044f Claude Code: \u0440\u0435\u0441\u0435\u0440\u0447 \u0432\u0456\u0440\u0443\u0441\u043d\u0438\u0445 Instagram-\u0440\u0456\u043b\u0441\u0456\u0432 \u0443 \u0431\u0443\u0434\u044c-\u044f\u043a\u0456\u0439 \u043d\u0456\u0448\u0456 \u0437 \u043d\u0443\u043b\u044f \u2013 \u0442\u0430\u0431\u043b\u0438\u0446\u044f \u0437\u0430\u043b\u044c\u043e\u0442\u0456\u0432 \u0456 \u0441\u0446\u0435\u043d\u0430\u0440\u0456\u0457 \u0437 \u0445\u0443\u043a\u043e\u043c 1 \u0432",
     "id": "JulyLay/proekt-research",
     "language": "Python",
@@ -266,7 +356,7 @@
     "language": "JavaScript",
     "name": "prosyo-ai/gtm-skill",
     "stars": 0,
-    "updated_at": "2026-10-23T09:52:44Z",
+    "updated_at": "2026-10-23T10:23:26Z",
     "url": "https://github.com/prosyo-ai/gtm-skill"
   },
   {
@@ -274,7 +364,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 106365,
+    "stars": 106370,
     "updated_at": "2026-10-23T09:51:45Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -292,7 +382,7 @@
     "id": "Ryze-AI-Adgent/open-seo-mcp-skills",
     "language": "Shell",
     "name": "Ryze-AI-Adgent/open-seo-mcp-skills",
-    "stars": 6602,
+    "stars": 6608,
     "updated_at": "2026-10-23T09:50:40Z",
     "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills"
   },
@@ -301,7 +391,7 @@
     "id": "irinabuht12-oss/marketing-skills",
     "language": "\u2014",
     "name": "irinabuht12-oss/marketing-skills",
-    "stars": 5353,
+    "stars": 5358,
     "updated_at": "2026-10-23T09:50:38Z",
     "url": "https://github.com/irinabuht12-oss/marketing-skills"
   },
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T09:48:45Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.",
-    "id": "devohmycode/Skills-Atlas",
-    "language": "TypeScript",
-    "name": "devohmycode/Skills-Atlas",
-    "stars": 33,
-    "updated_at": "2026-10-23T09:47:45Z",
-    "url": "https://github.com/devohmycode/Skills-Atlas"
-  },
-  {
-    "description": "HTPD (Hyper Text Portable Document): convert PDFs into one AI-readable file, so any AI answers from the document with pa",
-    "id": "narendrachampaneri/htpd",
-    "language": "C++",
-    "name": "narendrachampaneri/htpd",
-    "stars": 1,
-    "updated_at": "2026-10-23T09:47:07Z",
-    "url": "https://github.com/narendrachampaneri/htpd"
-  },
-  {
-    "description": "LLM\uc774 \uae30\uc220 \ubb38\uc11c\uc640 \ucc44\ud305 \ub2f5\ubcc0\uc744 \uc26c\uc6b4 \ud55c\uad6d\uc5b4\ub85c \uc4f0\uac8c \ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac. SimpleEnglish(ASD-STE100)\uc758 \ud55c\uad6d\uc5b4 \ud30c\uc0dd \ud504\ub85c\uc81d\ud2b8.",
-    "id": "say8425/SimpleKorean",
-    "language": "Python",
-    "name": "say8425/SimpleKorean",
-    "stars": 1,
-    "updated_at": "2026-10-23T09:46:29Z",
-    "url": "https://github.com/say8425/SimpleKorean"
-  },
-  {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 25,
-    "updated_at": "2026-10-23T10:03:06Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "Personal SKILLS.md collection",
-    "id": "Lu1sDV/skillsmd",
-    "language": "CodeQL",
-    "name": "Lu1sDV/skillsmd",
-    "stars": 2,
-    "updated_at": "2026-10-23T09:44:57Z",
-    "url": "https://github.com/Lu1sDV/skillsmd"
-  },
-  {
-    "description": "Claude wrote you an essay. Type /brainrot. A Claude Code skill that turns the last reply into a Subway Surfers / Minecra",
-    "id": "WaichL/brainrot-skill",
-    "language": "Python",
-    "name": "WaichL/brainrot-skill",
-    "stars": 0,
-    "updated_at": "2026-10-23T09:43:40Z",
-    "url": "https://github.com/WaichL/brainrot-skill"
-  },
-  {
-    "description": "Forge of Thought is an AI cognitive extension: a workshop where your idea is forged into a decision you can stand behind",
-    "id": "pche-broken-artist/forge-of-thought",
-    "language": "Python",
-    "name": "pche-broken-artist/forge-of-thought",
-    "stars": 3,
-    "updated_at": "2026-10-23T09:42:38Z",
-    "url": "https://github.com/pche-broken-artist/forge-of-thought"
-  },
-  {
-    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 37,
-    "updated_at": "2026-10-23T10:11:44Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Claude Code plugins I use every day: skills and mods, cleaned up so they work on anyone's machine.",
-    "id": "mutlumehmet/claude-plugins",
-    "language": "TypeScript",
-    "name": "mutlumehmet/claude-plugins",
-    "stars": 5,
-    "updated_at": "2026-10-23T09:41:05Z",
-    "url": "https://github.com/mutlumehmet/claude-plugins"
-  },
-  {
-    "description": "  Automated daily job search pipeline \u2014 aggregates company tracking, sends styled HTML email digests, tailors resumes wi",
-    "id": "Mahashwetha/Job-search-email-system-claude",
-    "language": "Python",
-    "name": "Mahashwetha/Job-search-email-system-claude",
-    "stars": 10,
-    "updated_at": "2026-10-23T09:40:26Z",
-    "url": "https://github.com/Mahashwetha/Job-search-email-system-claude"
   }
 ]
