@@ -1,5 +1,149 @@
 [
   {
+    "description": "Scans C# and .NET projects for known vulnerabilities by matching NuGet package versions against the OSV.dev API.",
+    "id": "AlessandroAnnini/osv-nuget-scan",
+    "language": "JavaScript",
+    "name": "AlessandroAnnini/osv-nuget-scan",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:15:08Z",
+    "url": "https://github.com/AlessandroAnnini/osv-nuget-scan"
+  },
+  {
+    "description": "Free agent skills and Claude Code plugins: launch-check (pre-launch audit of any URL: exposed keys, open database, SEO, ",
+    "id": "Ces107/agent-forge",
+    "language": "Python",
+    "name": "Ces107/agent-forge",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:15:04Z",
+    "url": "https://github.com/Ces107/agent-forge"
+  },
+  {
+    "description": "Skills that let multiple AI agents develop one Git repo in parallel: branch/worktree isolation, dependency-aware plannin",
+    "id": "UlyssesLeoLee/MAGOS",
+    "language": "Python",
+    "name": "UlyssesLeoLee/MAGOS",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:14:57Z",
+    "url": "https://github.com/UlyssesLeoLee/MAGOS"
+  },
+  {
+    "description": "HTPD (Hyper Text Portable Document): convert PDFs into one AI-readable file, so any AI answers from the document with pa",
+    "id": "narendrachampaneri/htpd",
+    "language": "C++",
+    "name": "narendrachampaneri/htpd",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:14:27Z",
+    "url": "https://github.com/narendrachampaneri/htpd"
+  },
+  {
+    "description": "An agent skill (SKILL.md) that bans the obvious answer first, then forces non-obvious ideas with a cheap first experimen",
+    "id": "ato22c/idea-flip",
+    "language": "HTML",
+    "name": "ato22c/idea-flip",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:14:22Z",
+    "url": "https://github.com/ato22c/idea-flip"
+  },
+  {
+    "description": "Evidence-first skills for AI coding agents: plan, TDD, debug, review, verify, ship. Works with Codex, Cursor, Gemini CLI",
+    "id": "HugoLopes45/hl-skills",
+    "language": "Python",
+    "name": "HugoLopes45/hl-skills",
+    "stars": 2,
+    "updated_at": "2026-10-23T12:14:25Z",
+    "url": "https://github.com/HugoLopes45/hl-skills"
+  },
+  {
+    "description": "The discipline layer for Claude Code. What Claude Code should be.",
+    "id": "ChaseSunstrom/foreman",
+    "language": "Python",
+    "name": "ChaseSunstrom/foreman",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:12:58Z",
+    "url": "https://github.com/ChaseSunstrom/foreman"
+  },
+  {
+    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
+    "id": "filippolmt/skills",
+    "language": "HTML",
+    "name": "filippolmt/skills",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:12:50Z",
+    "url": "https://github.com/filippolmt/skills"
+  },
+  {
+    "description": "Your LLM reviewer said APPROVE. Did it? A structured verdict contract: prompt rule + parser + exit-code gate in one stdl",
+    "id": "tonydzi/verdict-contract",
+    "language": "Python",
+    "name": "tonydzi/verdict-contract",
+    "stars": 4,
+    "updated_at": "2026-10-23T12:11:43Z",
+    "url": "https://github.com/tonydzi/verdict-contract"
+  },
+  {
+    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
+    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "language": "HTML",
+    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:11:41Z",
+    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
+  },
+  {
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster ",
+    "id": "isaccanedo/claude-code",
+    "language": "TypeScript",
+    "name": "isaccanedo/claude-code",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:11:12Z",
+    "url": "https://github.com/isaccanedo/claude-code"
+  },
+  {
+    "description": "Claude Code skills ranked daily from GitHub: all time, this week, this month",
+    "id": "selan-ai/top-claude-code-skills",
+    "language": "\u2014",
+    "name": "selan-ai/top-claude-code-skills",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:10:57Z",
+    "url": "https://github.com/selan-ai/top-claude-code-skills"
+  },
+  {
+    "description": "split AI collaboration into four seats that are independent of each other and check each other \u2014 execution, review, over",
+    "id": "lannerk/FRAME-Development-Model",
+    "language": "Shell",
+    "name": "lannerk/FRAME-Development-Model",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:10:49Z",
+    "url": "https://github.com/lannerk/FRAME-Development-Model"
+  },
+  {
+    "description": "Turn any docs site into a Claude Code / Codex agent skill (SKILL.md), llms.txt, llms-full.txt and AGENTS.md. Web scrapin",
+    "id": "OfficialSpicrawl/docs2skill",
+    "language": "JavaScript",
+    "name": "OfficialSpicrawl/docs2skill",
+    "stars": 0,
+    "updated_at": "2026-10-23T12:10:18Z",
+    "url": "https://github.com/OfficialSpicrawl/docs2skill"
+  },
+  {
+    "description": "Claude skills that turn your course notes into a syllabus, an interactive revision page and a study plan.",
+    "id": "CAFEERON21br18/claude-skills",
+    "language": "\u2014",
+    "name": "CAFEERON21br18/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-23T12:10:06Z",
+    "url": "https://github.com/CAFEERON21br18/claude-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-23T12:09:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u5f00\u6e90\u7684\u8bfe\u4ef6\u4e0e\u4f5c\u4e1a\u5b66\u4e60\u53ef\u89c6\u5316\u5de5\u4f5c\u6d41\uff0c\u5df2\u6ce8\u518c\u4e3a\u5177\u4f53\u547d\u4ee4\uff0c\u4e3a1024\u8282\u65e5\u732e\u793c",
     "id": "white-sand-grand/study-flow-skills",
     "language": "Python",
@@ -9,15 +153,6 @@
     "url": "https://github.com/white-sand-grand/study-flow-skills"
   },
   {
-    "description": "Free agent skills and Claude Code plugins: launch-check (pre-launch audit of any URL: exposed keys, open database, SEO, ",
-    "id": "Ces107/agent-forge",
-    "language": "Python",
-    "name": "Ces107/agent-forge",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:08:35Z",
-    "url": "https://github.com/Ces107/agent-forge"
-  },
-  {
     "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
     "id": "ragnarwestad/aide",
     "language": "TypeScript",
@@ -25,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T12:07:47Z",
     "url": "https://github.com/ragnarwestad/aide"
-  },
-  {
-    "description": "HTPD (Hyper Text Portable Document): convert PDFs into one AI-readable file, so any AI answers from the document with pa",
-    "id": "narendrachampaneri/htpd",
-    "language": "C++",
-    "name": "narendrachampaneri/htpd",
-    "stars": 1,
-    "updated_at": "2026-10-23T12:07:19Z",
-    "url": "https://github.com/narendrachampaneri/htpd"
   },
   {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
@@ -117,15 +243,6 @@
     "url": "https://github.com/Synthos-Logic/penalista-italia"
   },
   {
-    "description": "Turn any docs site into a Claude Code / Codex agent skill (SKILL.md), llms.txt, llms-full.txt and AGENTS.md. Web scrapin",
-    "id": "OfficialSpicrawl/docs2skill",
-    "language": "TypeScript",
-    "name": "OfficialSpicrawl/docs2skill",
-    "stars": 0,
-    "updated_at": "2026-10-23T12:02:51Z",
-    "url": "https://github.com/OfficialSpicrawl/docs2skill"
-  },
-  {
     "description": "Claude Cowork skill kit for Italian civil law practice: 12 skills across litigation, labour and family law, grounded on ",
     "id": "Synthos-Logic/civilista-italia",
     "language": "Python",
@@ -166,7 +283,7 @@
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70289,
+    "stars": 70288,
     "updated_at": "2026-10-23T12:01:37Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
@@ -178,15 +295,6 @@
     "stars": 37,
     "updated_at": "2026-10-23T12:04:57Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-23T12:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
@@ -270,15 +378,6 @@
     "url": "https://github.com/cooler333/awesome-claude-code"
   },
   {
-    "description": "The discipline layer for Claude Code. What Claude Code should be.",
-    "id": "ChaseSunstrom/foreman",
-    "language": "Python",
-    "name": "ChaseSunstrom/foreman",
-    "stars": 1,
-    "updated_at": "2026-10-23T11:56:03Z",
-    "url": "https://github.com/ChaseSunstrom/foreman"
-  },
-  {
     "description": "\u2699\ufe0f There are many like them, but these dotfiles are mine. A stow-managed macOS setup: Zsh, Neovim, tmux, Ghostty, and a ",
     "id": "magnusrodseth/dotfiles",
     "language": "JavaScript",
@@ -302,7 +401,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 123,
-    "updated_at": "2026-10-23T11:53:43Z",
+    "updated_at": "2026-10-23T12:12:28Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T11:48:09Z",
     "url": "https://github.com/JesperDramsch/pogo-filter-workshop"
-  },
-  {
-    "description": "Persistent, commit-tracked codebase architecture and convention mapper for Claude Skills and AI coding agents",
-    "id": "janghotan/repo-onboarding",
-    "language": "Python",
-    "name": "janghotan/repo-onboarding",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:47:10Z",
-    "url": "https://github.com/janghotan/repo-onboarding"
-  },
-  {
-    "description": "Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap",
-    "id": "n-shadloo/secure-code-auditor",
-    "language": "Python",
-    "name": "n-shadloo/secure-code-auditor",
-    "stars": 4,
-    "updated_at": "2026-10-23T11:46:36Z",
-    "url": "https://github.com/n-shadloo/secure-code-auditor"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 30999,
-    "updated_at": "2026-10-23T11:45:32Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 6,
-    "updated_at": "2026-10-23T11:45:19Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "\ud83c\udf0a Universal AI Agent Swarm & MCP Plugin with 171 specialized skills and 8 autonomous subagents for Antigravity, Claude C",
-    "id": "roedyrustam/vibes-plug",
-    "language": "JavaScript",
-    "name": "roedyrustam/vibes-plug",
-    "stars": 113,
-    "updated_at": "2026-10-23T11:44:32Z",
-    "url": "https://github.com/roedyrustam/vibes-plug"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/ai-utils",
-    "language": "C++",
-    "name": "TsukiNi22/ai-utils",
-    "stars": 1,
-    "updated_at": "2026-10-23T11:43:45Z",
-    "url": "https://github.com/TsukiNi22/ai-utils"
-  },
-  {
-    "description": "An agent skill (SKILL.md) that bans the obvious answer first, then forces non-obvious ideas with a cheap first experimen",
-    "id": "ato22c/idea-flip",
-    "language": "HTML",
-    "name": "ato22c/idea-flip",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:43:43Z",
-    "url": "https://github.com/ato22c/idea-flip"
-  },
-  {
-    "description": "\ud83d\udea2 Run Claude Code's \u2699\ufe0f Dynamic Workflows, \ud83d\udc65 Agent Teams & \u26a1 Subagents on any third-party model \u2014 DeepSeek \u00b7 GLM \u00b7 Kimi \u00b7",
-    "id": "ethanhq/cc-fleet",
-    "language": "Go",
-    "name": "ethanhq/cc-fleet",
-    "stars": 185,
-    "updated_at": "2026-10-23T11:42:35Z",
-    "url": "https://github.com/ethanhq/cc-fleet"
-  },
-  {
-    "description": "Free SEO guides for AI agents: an Agent Skill and Claude Code plugin for Claude Code, Codex, Cursor and Gemini CLI, with",
-    "id": "davit-khaburdzania/rillow-seo-skill",
-    "language": "\u2014",
-    "name": "davit-khaburdzania/rillow-seo-skill",
-    "stars": 0,
-    "updated_at": "2026-10-23T11:42:14Z",
-    "url": "https://github.com/davit-khaburdzania/rillow-seo-skill"
-  },
-  {
-    "description": "A Claude skill for converting any HTML/CSS/JavaScript project into a production-ready WordPress Block Theme (Full Site E",
-    "id": "siddik-web/wp-block-theme-converter",
-    "language": "JavaScript",
-    "name": "siddik-web/wp-block-theme-converter",
-    "stars": 48,
-    "updated_at": "2026-10-23T11:41:40Z",
-    "url": "https://github.com/siddik-web/wp-block-theme-converter"
-  },
-  {
-    "description": "\ud83e\udde0 One working method for Claude Code and 40 skills that check their own work: every skill ends in a script that prints P",
-    "id": "NJ-Burrito/NJ-Kit",
-    "language": "Python",
-    "name": "NJ-Burrito/NJ-Kit",
-    "stars": 1,
-    "updated_at": "2026-10-23T11:38:00Z",
-    "url": "https://github.com/NJ-Burrito/NJ-Kit"
   }
 ]
