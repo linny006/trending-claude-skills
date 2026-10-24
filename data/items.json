@@ -1,10 +1,91 @@
 [
   {
+    "description": "Agent skill for vericoding: code plus a machine-checked proof against a frozen spec (Lean 4 first), with a gate that rej",
+    "id": "alok/vericoding-skill",
+    "language": "Python",
+    "name": "alok/vericoding-skill",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:44:34Z",
+    "url": "https://github.com/alok/vericoding-skill"
+  },
+  {
+    "description": "Evidence-first engineering skills for Claude Code and Codex: investigate, decide, review and ship on evidence, not vibes",
+    "id": "NguyenHuy190303/EEP",
+    "language": "CSS",
+    "name": "NguyenHuy190303/EEP",
+    "stars": 2,
+    "updated_at": "2026-10-24T08:42:31Z",
+    "url": "https://github.com/NguyenHuy190303/EEP"
+  },
+  {
+    "description": "Six agent skills (dev-core, backend-dev, frontend-dev, fullstack-integration, ship-and-operate, debug-production) that m",
+    "id": "Singhak/dev-skills",
+    "language": "Shell",
+    "name": "Singhak/dev-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:39:49Z",
+    "url": "https://github.com/Singhak/dev-skills"
+  },
+  {
+    "description": "My Claude Code settings and custom commands",
+    "id": "lacerbi/dotclaude",
+    "language": "Shell",
+    "name": "lacerbi/dotclaude",
+    "stars": 2,
+    "updated_at": "2026-10-24T08:38:52Z",
+    "url": "https://github.com/lacerbi/dotclaude"
+  },
+  {
+    "description": "Ontology, semantic-layer, concept-design, and presentation Agent Skills.",
+    "id": "ontology-of-everything/concept-skills",
+    "language": "Shell",
+    "name": "ontology-of-everything/concept-skills",
+    "stars": 11,
+    "updated_at": "2026-10-24T08:40:14Z",
+    "url": "https://github.com/ontology-of-everything/concept-skills"
+  },
+  {
+    "description": "Epistemic discipline for AI assistants \u2014 truth statuses, an error registry, mutation-tested guards. Plain files, git as ",
+    "id": "nowespojrzenie/HEXAGRAM",
+    "language": "Shell",
+    "name": "nowespojrzenie/HEXAGRAM",
+    "stars": 1,
+    "updated_at": "2026-10-24T08:36:09Z",
+    "url": "https://github.com/nowespojrzenie/HEXAGRAM"
+  },
+  {
+    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
+    "id": "doomsday-network/bounty-guard",
+    "language": "Python",
+    "name": "doomsday-network/bounty-guard",
+    "stars": 8,
+    "updated_at": "2026-10-24T08:33:57Z",
+    "url": "https://github.com/doomsday-network/bounty-guard"
+  },
+  {
+    "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
+    "id": "StanimirTenev/baton",
+    "language": "Python",
+    "name": "StanimirTenev/baton",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:32:52Z",
+    "url": "https://github.com/StanimirTenev/baton"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T08:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 102639,
+    "stars": 102641,
     "updated_at": "2026-10-24T08:27:12Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -22,7 +103,7 @@
     "id": "hsheimbuch/understandable",
     "language": "\u2014",
     "name": "hsheimbuch/understandable",
-    "stars": 0,
+    "stars": 2,
     "updated_at": "2026-10-24T08:22:10Z",
     "url": "https://github.com/hsheimbuch/understandable"
   },
@@ -40,7 +121,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 106698,
+    "stars": 106702,
     "updated_at": "2026-10-24T08:17:26Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -63,15 +144,6 @@
     "url": "https://github.com/Rigjite/Ecosystem-Digital-Twin"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T08:15:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
     "id": "Ovid/paad",
     "language": "Python",
@@ -86,7 +158,7 @@
     "language": "Rust",
     "name": "semlith/semlith",
     "stars": 5,
-    "updated_at": "2026-10-24T08:12:41Z",
+    "updated_at": "2026-10-24T08:33:24Z",
     "url": "https://github.com/semlith/semlith"
   },
   {
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70301,
-    "updated_at": "2026-10-24T08:29:40Z",
+    "updated_at": "2026-10-24T08:44:01Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -284,7 +356,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-24T08:29:42Z",
+    "updated_at": "2026-10-24T08:41:08Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T07:37:25Z",
     "url": "https://github.com/SkilledDragonCorp/gws-audit-kit"
-  },
-  {
-    "description": "Modern Jetpack Compose Fixer 2026 \u2013 Debug Errors & Boost Android UI Performance",
-    "id": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "language": "HTML",
-    "name": "viibhutisharma30/jetpack-compose-remediation-kit",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:37:04Z",
-    "url": "https://github.com/viibhutisharma30/jetpack-compose-remediation-kit"
-  },
-  {
-    "description": "Community-maintained Huawei Cloud billing, cost estimation, controlled provisioning, and account onboarding Agent Skills",
-    "id": "concept-git/cloud-concept-skills",
-    "language": "Python",
-    "name": "concept-git/cloud-concept-skills",
-    "stars": 3,
-    "updated_at": "2026-10-24T07:36:54Z",
-    "url": "https://github.com/concept-git/cloud-concept-skills"
-  },
-  {
-    "description": "Ontology, semantic-layer, concept-design, and presentation Agent Skills.",
-    "id": "ontology-of-everything/concept-skills",
-    "language": "Shell",
-    "name": "ontology-of-everything/concept-skills",
-    "stars": 11,
-    "updated_at": "2026-10-24T07:36:47Z",
-    "url": "https://github.com/ontology-of-everything/concept-skills"
-  },
-  {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
-    "stars": 3,
-    "updated_at": "2026-10-24T07:35:30Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
-  },
-  {
-    "description": "Shareable dev-tooling configs (ESLint, Prettier, tsconfig, Lefthook, remark, commitlint) and a Claude Code plugin market",
-    "id": "arnaud-zg/configs",
-    "language": "TypeScript",
-    "name": "arnaud-zg/configs",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:35:16Z",
-    "url": "https://github.com/arnaud-zg/configs"
-  },
-  {
-    "description": "Free global SEO/GEO skill for Claude Code, Codex & 10 agent hosts \u2014 18 market portals, 56 stdlib scripts, 672 golden tes",
-    "id": "everyinfra/seo-skills",
-    "language": "Python",
-    "name": "everyinfra/seo-skills",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:07:17Z",
-    "url": "https://github.com/everyinfra/seo-skills"
-  },
-  {
-    "description": "Agent skills for Reelary: search your own videos and photos by meaning, find b-roll, build rough cuts, Shorts and FCPXML",
-    "id": "reelary/skills",
-    "language": "\u2014",
-    "name": "reelary/skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:34:04Z",
-    "url": "https://github.com/reelary/skills"
-  },
-  {
-    "description": " AI Security Research Radar \u2014 AI for security and security for AI",
-    "id": "Neetx/ai-security-research-radar",
-    "language": "Python",
-    "name": "Neetx/ai-security-research-radar",
-    "stars": 7,
-    "updated_at": "2026-10-24T07:31:37Z",
-    "url": "https://github.com/Neetx/ai-security-research-radar"
   }
 ]
