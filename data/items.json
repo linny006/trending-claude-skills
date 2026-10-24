@@ -1,12 +1,93 @@
 [
   {
-    "description": "Agent skill: entry point to an accumulated MV skill family - an index of which skill governs what, plus 11 cross-cutting",
-    "id": "CatsMansion/mv-playbook",
-    "language": "\u2014",
-    "name": "CatsMansion/mv-playbook",
+    "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
+    "id": "paureis/pau-skills",
+    "language": "JavaScript",
+    "name": "paureis/pau-skills",
     "stars": 0,
-    "updated_at": "2026-10-24T06:59:17Z",
-    "url": "https://github.com/CatsMansion/mv-playbook"
+    "updated_at": "2026-10-24T07:14:19Z",
+    "url": "https://github.com/paureis/pau-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70299,
+    "updated_at": "2026-10-24T07:14:20Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Agent skills from Altair AI: weekly multi-model AI research on ~70 US stocks and ETFs (SPY, QQQ, SOXX, XBI, NVDA, AAPL\u2026)",
+    "id": "altair-world/altair-skills",
+    "language": "Python",
+    "name": "altair-world/altair-skills",
+    "stars": 2,
+    "updated_at": "2026-10-24T07:12:38Z",
+    "url": "https://github.com/altair-world/altair-skills"
+  },
+  {
+    "description": "\u5c06\u4f5c (Jiangzuo) \u2014 \u8d44\u6df1\u5168\u6808\u8f6f\u4ef6\u5de5\u7a0b\u642d\u6863 Agent Skill\uff1a\u5148\u8bfb\u61c2\u3001\u518d\u60f3\u6e05\u3001\u540e\u52a8\u624b\u3001\u5fc5\u9a8c\u8bc1\u3001\u7559\u6587\u6863 | A senior full-stack engineering companion skill",
+    "id": "Zhang-jx00/jiangzuo",
+    "language": "Python",
+    "name": "Zhang-jx00/jiangzuo",
+    "stars": 1,
+    "updated_at": "2026-10-24T07:12:34Z",
+    "url": "https://github.com/Zhang-jx00/jiangzuo"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f macOS dotfiles + my Claude Code config \u2014 GNU Stow managed",
+    "id": "zeikar/dotfiles",
+    "language": "Shell",
+    "name": "zeikar/dotfiles",
+    "stars": 1,
+    "updated_at": "2026-10-24T07:10:24Z",
+    "url": "https://github.com/zeikar/dotfiles"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 3070,
+    "updated_at": "2026-10-24T07:09:50Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Claude Code plugin marketplace and index of arm-pz agent skills: editorial, teaching, recruiting, SEO planning, release ",
+    "id": "arm-pz/caffeinity-skills",
+    "language": "Python",
+    "name": "arm-pz/caffeinity-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:08:08Z",
+    "url": "https://github.com/arm-pz/caffeinity-skills"
+  },
+  {
+    "description": "Structured OT/ICS security runbooks for AI agents. Mapped to IEC 62443, NIST SP 800-82, and MITRE ATT&CK for ICS.",
+    "id": "comradezephyr/ot-ics-agent-skills",
+    "language": "Python",
+    "name": "comradezephyr/ot-ics-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:07:53Z",
+    "url": "https://github.com/comradezephyr/ot-ics-agent-skills"
+  },
+  {
+    "description": "Agent skill: structure a lyric PV as a system - named style families with mood tags instead of sliders, three-stage text",
+    "id": "CatsMansion/mv-pv-arrangement",
+    "language": "\u2014",
+    "name": "CatsMansion/mv-pv-arrangement",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:07:17Z",
+    "url": "https://github.com/CatsMansion/mv-pv-arrangement"
+  },
+  {
+    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
+    "id": "Edward0l1/skill-flare-discover",
+    "language": "HTML",
+    "name": "Edward0l1/skill-flare-discover",
+    "stars": 1,
+    "updated_at": "2026-10-24T07:07:04Z",
+    "url": "https://github.com/Edward0l1/skill-flare-discover"
   },
   {
     "description": "Agent skill: Japanese lyric subtitles for music videos - \u6587\u7bc0 (bunsetsu) line breaking, onsets measured on the separated v",
@@ -14,8 +95,71 @@
     "language": "Python",
     "name": "CatsMansion/mv-jp-lyrics-subtitle",
     "stars": 0,
-    "updated_at": "2026-10-24T06:59:12Z",
+    "updated_at": "2026-10-24T07:06:43Z",
     "url": "https://github.com/CatsMansion/mv-jp-lyrics-subtitle"
+  },
+  {
+    "description": "Claude Code skills that end in PASS or FAIL: a free working method and 40 skills (plugin in 2 lines). QA and Jira, PDFs,",
+    "id": "NJ-Burrito/NJ-Kit",
+    "language": "Python",
+    "name": "NJ-Burrito/NJ-Kit",
+    "stars": 1,
+    "updated_at": "2026-10-24T07:05:47Z",
+    "url": "https://github.com/NJ-Burrito/NJ-Kit"
+  },
+  {
+    "description": "Agent skill: how many character/background assets an MV actually needs (about one per 3-4 shots) and how to generate the",
+    "id": "CatsMansion/mv-character-assets",
+    "language": "\u2014",
+    "name": "CatsMansion/mv-character-assets",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:05:43Z",
+    "url": "https://github.com/CatsMansion/mv-character-assets"
+  },
+  {
+    "description": "Agent skill: entry point to an accumulated MV skill family - an index of which skill governs what, plus 11 cross-cutting",
+    "id": "CatsMansion/mv-playbook",
+    "language": "\u2014",
+    "name": "CatsMansion/mv-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:05:13Z",
+    "url": "https://github.com/CatsMansion/mv-playbook"
+  },
+  {
+    "description": "Translate whole English books into Chinese editions that read like published translations, for about $1 a book. Consiste",
+    "id": "xubing0602/scriptorium",
+    "language": "Python",
+    "name": "xubing0602/scriptorium",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:04:56Z",
+    "url": "https://github.com/xubing0602/scriptorium"
+  },
+  {
+    "description": "Split a repo across a team of Claude Code sessions and watch the whole team live on one map: who owns what, what each se",
+    "id": "havanafrog/agentsemble",
+    "language": "JavaScript",
+    "name": "havanafrog/agentsemble",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:04:52Z",
+    "url": "https://github.com/havanafrog/agentsemble"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-10-24T07:03:25Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6240,
+    "updated_at": "2026-10-24T07:00:19Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -23,7 +167,7 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 133,
-    "updated_at": "2026-10-24T06:58:32Z",
+    "updated_at": "2026-10-24T07:00:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -103,18 +247,9 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 369,
+    "stars": 373,
     "updated_at": "2026-10-24T06:47:20Z",
     "url": "https://github.com/google/elephant-goldfish-model"
-  },
-  {
-    "description": "Translate whole English books into Chinese editions that read like published translations, for about $1 a book. Consiste",
-    "id": "xubing0602/scriptorium",
-    "language": "Python",
-    "name": "xubing0602/scriptorium",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:46:47Z",
-    "url": "https://github.com/xubing0602/scriptorium"
   },
   {
     "description": "Link WhatsApp to Claude (or any MCP client) in ~20 minutes: a live self-refreshing QR page that makes pairing actually w",
@@ -142,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-10-24T06:44:46Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Agent skill: structure a lyric PV as a system - named style families with mood tags instead of sliders, three-stage text",
-    "id": "CatsMansion/mv-pv-arrangement",
-    "language": "\u2014",
-    "name": "CatsMansion/mv-pv-arrangement",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:44:23Z",
-    "url": "https://github.com/CatsMansion/mv-pv-arrangement"
   },
   {
     "description": "Clone web pages, web apps, desktop apps, Android apps & games (plus original game mashups) with Claude Code & Codex. Rea",
@@ -212,7 +338,7 @@
     "language": "Python",
     "name": "Rigjite/Ecosystem-Digital-Twin",
     "stars": 0,
-    "updated_at": "2026-10-24T06:42:01Z",
+    "updated_at": "2026-10-24T07:14:16Z",
     "url": "https://github.com/Rigjite/Ecosystem-Digital-Twin"
   },
   {
@@ -232,15 +358,6 @@
     "stars": 8,
     "updated_at": "2026-10-24T06:40:32Z",
     "url": "https://github.com/eduair94/cambio-uruguay"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70298,
-    "updated_at": "2026-10-24T06:59:24Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
@@ -297,15 +414,6 @@
     "url": "https://github.com/narendrachampaneri/htpd"
   },
   {
-    "description": "Agent skill: how many character/background assets an MV actually needs (about one per 3-4 shots) and how to generate the",
-    "id": "CatsMansion/mv-character-assets",
-    "language": "\u2014",
-    "name": "CatsMansion/mv-character-assets",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:32:39Z",
-    "url": "https://github.com/CatsMansion/mv-character-assets"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -320,7 +428,7 @@
     "language": "Python",
     "name": "iadr-dev/greenlight",
     "stars": 1,
-    "updated_at": "2026-10-24T06:59:19Z",
+    "updated_at": "2026-10-24T07:13:16Z",
     "url": "https://github.com/iadr-dev/greenlight"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 159,
     "updated_at": "2026-10-24T06:28:10Z",
     "url": "https://github.com/mblode/agent-skills"
-  },
-  {
-    "description": "Post \u2014 a Claude skill for Xiaohongshu / X share-image sets that look native and sell: App Store poster layout, real scre",
-    "id": "jack-reson8/post-skill",
-    "language": "HTML",
-    "name": "jack-reson8/post-skill",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:25:34Z",
-    "url": "https://github.com/jack-reson8/post-skill"
-  },
-  {
-    "description": "\u4eba\u8bdd \u2014 a Claude skill that writes Chinese posts in a real person's voice: strips AI tells, adds \u7f51\u611f and small jokes. Exampl",
-    "id": "jack-reson8/renhua",
-    "language": "\u2014",
-    "name": "jack-reson8/renhua",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:25:31Z",
-    "url": "https://github.com/jack-reson8/renhua"
-  },
-  {
-    "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
-    "id": "the911fund/skill-of-skills",
-    "language": "Python",
-    "name": "the911fund/skill-of-skills",
-    "stars": 79,
-    "updated_at": "2026-10-24T06:25:04Z",
-    "url": "https://github.com/the911fund/skill-of-skills"
-  },
-  {
-    "description": "JobSearchAssistant: a human-in-the-loop job search agent, built as a Claude plugin and as a LangGraph pipeline with eval",
-    "id": "esscott1/job-search-assistant",
-    "language": "Python",
-    "name": "esscott1/job-search-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:23:44Z",
-    "url": "https://github.com/esscott1/job-search-assistant"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 106680,
-    "updated_at": "2026-10-24T06:22:29Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "One router for local Ollama, Codex and Claude: bulky jobs go to the cheapest worker whose answer can be checked - verifi",
-    "id": "mixocreative/token-economy-delegation",
-    "language": "Python",
-    "name": "mixocreative/token-economy-delegation",
-    "stars": 1,
-    "updated_at": "2026-10-24T06:22:07Z",
-    "url": "https://github.com/mixocreative/token-economy-delegation"
-  },
-  {
-    "description": "Agent skills from Altair AI: weekly multi-model AI research on ~70 US stocks and ETFs (SPY, QQQ, SOXX, XBI, NVDA, AAPL\u2026)",
-    "id": "altair-world/altair-skills",
-    "language": "Python",
-    "name": "altair-world/altair-skills",
-    "stars": 2,
-    "updated_at": "2026-10-24T06:20:05Z",
-    "url": "https://github.com/altair-world/altair-skills"
-  },
-  {
-    "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
-    "id": "costiash/claude-code-docs",
-    "language": "Python",
-    "name": "costiash/claude-code-docs",
-    "stars": 55,
-    "updated_at": "2026-10-24T06:18:59Z",
-    "url": "https://github.com/costiash/claude-code-docs"
-  },
-  {
-    "description": "Publication-ready research figures from a single command: forest plots, KM curves with risk tables, PRISMA 2020, ROC wit",
-    "id": "docsor1212/academic-figures",
-    "language": "Python",
-    "name": "docsor1212/academic-figures",
-    "stars": 1,
-    "updated_at": "2026-10-24T06:18:03Z",
-    "url": "https://github.com/docsor1212/academic-figures"
-  },
-  {
-    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
-    "id": "ikaijua/Awesome-AITools",
-    "language": "Python",
-    "name": "ikaijua/Awesome-AITools",
-    "stars": 6240,
-    "updated_at": "2026-10-24T06:59:08Z",
-    "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:12:44Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "This is a set of documentation both for the user and the agent; an information corpus, a skill library, and agent relay ",
-    "id": "AN0099/toothpaste-kit",
-    "language": "Shell",
-    "name": "AN0099/toothpaste-kit",
-    "stars": 1,
-    "updated_at": "2026-10-24T06:10:15Z",
-    "url": "https://github.com/AN0099/toothpaste-kit"
   }
 ]
