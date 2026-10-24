@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI \u5199\u597d\u4e86\u8f6f\u4ef6\uff0c\u6388\u6743\u600e\u4e48\u4fdd\u62a4\uff1f\u4ece\u516c\u5f00\u7834\u89e3\u6848\u4f8b\u53cd\u63a8\u5361\u5bc6\u3001\u6fc0\u6d3b\u7801\u3001\u79bb\u7ebf\u8bb8\u53ef\u8bc1\u4e0e\u8054\u7f51\u9a8c\u8bc1\u8bbe\u8ba1\u3002Vendor-neutral Agent Skill for software licensing, license key validation, ",
+    "id": "MuCheng2007/software-protection-skill",
+    "language": "Python",
+    "name": "MuCheng2007/software-protection-skill",
+    "stars": 2,
+    "updated_at": "2026-10-24T03:44:28Z",
+    "url": "https://github.com/MuCheng2007/software-protection-skill"
+  },
+  {
+    "description": "Agent skills that end in decisions. First skill: decision-deck, executive HTML decks from documents, with critical analy",
+    "id": "jorgeac12/decisive",
+    "language": "HTML",
+    "name": "jorgeac12/decisive",
+    "stars": 0,
+    "updated_at": "2026-10-24T03:43:54Z",
+    "url": "https://github.com/jorgeac12/decisive"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 106636,
+    "updated_at": "2026-10-24T03:42:24Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "HTPD (Hyper Text Portable Document): convert PDFs into one AI-readable file, so any AI answers from the document with pa",
+    "id": "narendrachampaneri/htpd",
+    "language": "C++",
+    "name": "narendrachampaneri/htpd",
+    "stars": 1,
+    "updated_at": "2026-10-24T03:40:24Z",
+    "url": "https://github.com/narendrachampaneri/htpd"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 62,
+    "updated_at": "2026-10-24T03:37:30Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "How two coding agents (Claude Code and Codex CLI) share one memory: standing rules, per-project facts, an external-memor",
+    "id": "ericpardee/agent-files",
+    "language": "Python",
+    "name": "ericpardee/agent-files",
+    "stars": 3,
+    "updated_at": "2026-10-24T03:31:20Z",
+    "url": "https://github.com/ericpardee/agent-files"
+  },
+  {
+    "description": "Free Claude Code audit toolkit: accessibility, performance, SEO, privacy, design, deploy safety, codebase audits. 14 sla",
+    "id": "Surfrrosa/claude-skills",
+    "language": "\u2014",
+    "name": "Surfrrosa/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-24T03:31:06Z",
+    "url": "https://github.com/Surfrrosa/claude-skills"
+  },
+  {
+    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
+    "id": "solanabr/ai-kit",
+    "language": "Shell",
+    "name": "solanabr/ai-kit",
+    "stars": 111,
+    "updated_at": "2026-10-24T03:42:24Z",
+    "url": "https://github.com/solanabr/ai-kit"
+  },
+  {
+    "description": "",
+    "id": "SELAT-AI/selat-skills",
+    "language": "JavaScript",
+    "name": "SELAT-AI/selat-skills",
+    "stars": 2,
+    "updated_at": "2026-10-24T03:30:24Z",
+    "url": "https://github.com/SELAT-AI/selat-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-24T03:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "\u041f\u0430\u0440\u0441\u0435\u0440 \u0442\u0451\u043f\u043b\u044b\u0445 \u043b\u0438\u0434\u043e\u0432: FL.ru, Kwork, \u0410\u0432\u0438\u0442\u043e. \u0421\u043a\u043e\u0440\u0438\u043d\u0433 0-100, \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430 \u043f\u0440\u043e\u0433\u043e\u043d\u0430. MIT.",
     "id": "r0undm1dn1ghty-star/ds_warm-lead-parser",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 25,
-    "updated_at": "2026-10-24T03:29:24Z",
+    "updated_at": "2026-10-24T03:45:10Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -45,6 +135,15 @@
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70292,
+    "updated_at": "2026-10-24T03:27:07Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
     "id": "jgoneit/jaekit",
     "language": "Python",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:26:26Z",
     "url": "https://github.com/jgoneit/jaekit"
-  },
-  {
-    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
-    "id": "solanabr/ai-kit",
-    "language": "Shell",
-    "name": "solanabr/ai-kit",
-    "stars": 111,
-    "updated_at": "2026-10-24T03:27:38Z",
-    "url": "https://github.com/solanabr/ai-kit"
   },
   {
     "description": "The quality-ranked discovery engine for AI coding skills, plugins and MCP servers across Claude Code, Codex, Cursor, Win",
@@ -72,6 +162,15 @@
     "url": "https://github.com/the911fund/skill-of-skills"
   },
   {
+    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
+    "id": "WenyuChiou/awesome-agentic-ai-zh",
+    "language": "Python",
+    "name": "WenyuChiou/awesome-agentic-ai-zh",
+    "stars": 7960,
+    "updated_at": "2026-10-24T03:24:25Z",
+    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
+  },
+  {
     "description": "77 defensive security skills for Claude Code: drop-in SKILL.md files for detection engineering, incident response, threa",
     "id": "umbrasec-labs/umbra-blue",
     "language": "Python",
@@ -79,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-10-24T03:22:47Z",
     "url": "https://github.com/umbrasec-labs/umbra-blue"
+  },
+  {
+    "description": "Solid Claude",
+    "id": "Founderwithabs/SOLIDSFORYOU",
+    "language": "Python",
+    "name": "Founderwithabs/SOLIDSFORYOU",
+    "stars": 1,
+    "updated_at": "2026-10-24T03:22:41Z",
+    "url": "https://github.com/Founderwithabs/SOLIDSFORYOU"
   },
   {
     "description": "Always-current official Claude docs inside Claude Code. A 3 MB metadata plugin: live on-demand fetching from Anthropic's",
@@ -108,15 +216,6 @@
     "url": "https://github.com/fangdididi/asset-size-matrix"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 106632,
-    "updated_at": "2026-10-24T03:17:15Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Security firewall and supply-chain verifier for Claude Code / Codex / Agent skills and MCPs.",
     "id": "solanabr/safe-ai-skill",
     "language": "Rust",
@@ -144,33 +243,6 @@
     "url": "https://github.com/JuneYaooo/awesome-ai-media-skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70291,
-    "updated_at": "2026-10-24T03:27:07Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-24T03:15:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 62,
-    "updated_at": "2026-10-24T03:25:24Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
     "description": "An Agent Skill that turns AI agent mistakes into short rules in your repo, so Claude Code, Codex, Cursor, and every othe",
     "id": "mikaeladityan/lessons-learned",
     "language": "JavaScript",
@@ -193,7 +265,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 88336,
+    "stars": 88341,
     "updated_at": "2026-10-24T03:06:35Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -214,15 +286,6 @@
     "stars": 21,
     "updated_at": "2026-10-24T03:02:30Z",
     "url": "https://github.com/andisab/swe-marketplace"
-  },
-  {
-    "description": "Solid Claude",
-    "id": "Founderwithabs/SOLIDSFORYOU",
-    "language": "Python",
-    "name": "Founderwithabs/SOLIDSFORYOU",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:22:41Z",
-    "url": "https://github.com/Founderwithabs/SOLIDSFORYOU"
   },
   {
     "description": "Production-grade Claude Code skills verified against official specifications. Zero dependencies. Complete domain coverag",
@@ -250,15 +313,6 @@
     "stars": 450,
     "updated_at": "2026-10-24T02:55:00Z",
     "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "Agent skills that end in decisions. First skill: decision-deck, executive HTML decks from documents, with critical analy",
-    "id": "jorgeac12/decisive",
-    "language": "HTML",
-    "name": "jorgeac12/decisive",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:58:28Z",
-    "url": "https://github.com/jorgeac12/decisive"
   },
   {
     "description": "Claude Code plugin marketplace and index of arm-pz agent skills: editorial, teaching, recruiting, SEO planning, release ",
@@ -374,7 +428,7 @@
     "language": "Go",
     "name": "grundmanise/agentx",
     "stars": 1,
-    "updated_at": "2026-10-24T03:30:08Z",
+    "updated_at": "2026-10-24T03:43:07Z",
     "url": "https://github.com/grundmanise/agentx"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-24T02:30:21Z",
     "url": "https://github.com/MarvelCollin/agent-skills"
-  },
-  {
-    "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
-    "id": "paureis/pau-skills",
-    "language": "JavaScript",
-    "name": "paureis/pau-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T03:12:22Z",
-    "url": "https://github.com/paureis/pau-skills"
-  },
-  {
-    "description": "Pro Motion \u2014 a Claude Code skill for audio-first motion-graphics launch, brand & TVC films, rendered in code and cut to ",
-    "id": "jack-reson8/pro-motion",
-    "language": "JavaScript",
-    "name": "jack-reson8/pro-motion",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:29:49Z",
-    "url": "https://github.com/jack-reson8/pro-motion"
-  },
-  {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-24T03:26:51Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
-    "description": "Agent skill collections for OpenCode/Claude/Cursor \u2014 installable per collection, local-first",
-    "id": "tpc-pascal/skillsmith",
-    "language": "Shell",
-    "name": "tpc-pascal/skillsmith",
-    "stars": 1,
-    "updated_at": "2026-10-24T02:26:02Z",
-    "url": "https://github.com/tpc-pascal/skillsmith"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 193,
-    "updated_at": "2026-10-24T02:23:47Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "90s game pictures from a text file: a Claude skill and Python CLI that renders small JSON scenes as Doom/Build-style sti",
-    "id": "StevenGlick/ai-raster-scene",
-    "language": "Python",
-    "name": "StevenGlick/ai-raster-scene",
-    "stars": 0,
-    "updated_at": "2026-10-24T02:23:11Z",
-    "url": "https://github.com/StevenGlick/ai-raster-scene"
   }
 ]
