@@ -1,5 +1,77 @@
 [
   {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102639,
+    "updated_at": "2026-10-24T08:27:12Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "HTPD (Hyper Text Portable Document): convert PDFs into one AI-readable file, so any AI answers from the document with pa",
+    "id": "narendrachampaneri/htpd",
+    "language": "C++",
+    "name": "narendrachampaneri/htpd",
+    "stars": 2,
+    "updated_at": "2026-10-24T08:25:15Z",
+    "url": "https://github.com/narendrachampaneri/htpd"
+  },
+  {
+    "description": "Stops Claude from writing dense, hard-to-follow prose. A Claude Code skill based on research into why AI-generated text ",
+    "id": "hsheimbuch/understandable",
+    "language": "\u2014",
+    "name": "hsheimbuch/understandable",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:22:10Z",
+    "url": "https://github.com/hsheimbuch/understandable"
+  },
+  {
+    "description": "Agent skill collections for OpenCode/Claude/Cursor \u2014 installable per collection, local-first",
+    "id": "tpc-pascal/skillsmith",
+    "language": "Shell",
+    "name": "tpc-pascal/skillsmith",
+    "stars": 1,
+    "updated_at": "2026-10-24T08:17:52Z",
+    "url": "https://github.com/tpc-pascal/skillsmith"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 106698,
+    "updated_at": "2026-10-24T08:17:26Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Automates plan \u2192 implement \u2192 review iteration loops using multiple AI agents.",
+    "id": "NYTC69/review-loop",
+    "language": "Python",
+    "name": "NYTC69/review-loop",
+    "stars": 3,
+    "updated_at": "2026-10-24T08:16:16Z",
+    "url": "https://github.com/NYTC69/review-loop"
+  },
+  {
+    "description": "Agent skill for designing and operating digital twins of ecosystems \u2014 lakes, rivers, agricultural land, air basins, cons",
+    "id": "Rigjite/Ecosystem-Digital-Twin",
+    "language": "Python",
+    "name": "Rigjite/Ecosystem-Digital-Twin",
+    "stars": 0,
+    "updated_at": "2026-10-24T08:15:20Z",
+    "url": "https://github.com/Rigjite/Ecosystem-Digital-Twin"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T08:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The practices that made software work didn't stop working. They stopped keeping up. PAAD brings them back at AI speed.",
     "id": "Ovid/paad",
     "language": "Python",
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70301,
-    "updated_at": "2026-10-24T08:13:42Z",
+    "updated_at": "2026-10-24T08:29:40Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -135,15 +207,6 @@
     "url": "https://github.com/AnkTechsol/Useful-repo-by-anktechsol"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T08:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit - development, all languages, agents, ",
     "id": "andreibesleaga/GABBE",
     "language": "Python",
@@ -151,15 +214,6 @@
     "stars": 23,
     "updated_at": "2026-10-24T07:59:37Z",
     "url": "https://github.com/andreibesleaga/GABBE"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 106694,
-    "updated_at": "2026-10-24T08:14:48Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "\u8e0f\u96ea\u521b\u610f\u98ce\u683c\u63d2\u753b skill\uff0c\u5305\u542b14 \u5bb6\u65cf  \u4e30\u5bcc\u7684\u53d8\u4f53\u98ce\u683c\u5e93\uff0c\u63d0\u793a\u8bcd\u4e03\u7ef4\u4f18\u5316\uff0c\u5143\u63d0\u793a\u8bcd\u521b\u4f5c\uff0c\u521b\u4f5c\u504f\u597d\u672c\u5730\u8bb0\u5fc6\u3002",
@@ -230,7 +284,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-24T07:47:02Z",
+    "updated_at": "2026-10-24T08:29:42Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-24T07:31:37Z",
     "url": "https://github.com/Neetx/ai-security-research-radar"
-  },
-  {
-    "description": "AI Research Radar \u2014 Evidence-Grounded Trend Ledger for AI Systems",
-    "id": "Neetx/ai-research-radar",
-    "language": "Python",
-    "name": "Neetx/ai-research-radar",
-    "stars": 4,
-    "updated_at": "2026-10-24T07:26:41Z",
-    "url": "https://github.com/Neetx/ai-research-radar"
-  },
-  {
-    "description": "Claude Code skills for building native macOS SwiftUI apps \u2014 HTML prototype first, Liquid Glass, tool-window panels, acce",
-    "id": "gomin2013/swiftui-mac-skills",
-    "language": "Swift",
-    "name": "gomin2013/swiftui-mac-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:26:01Z",
-    "url": "https://github.com/gomin2013/swiftui-mac-skills"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:25:19Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-10-24T07:23:30Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "STM32 \u5f00\u53d1\u8f85\u52a9 Agent Skill\uff08DSH / Claude Code\uff09\uff1a\u6807\u51c6\u5e93 SPL / HAL(CubeMX) / FreeRTOS \u56db\u8f68\u4ee3\u7801\u751f\u6210\uff0c\u5185\u7f6e\u5de5\u7a0b\u7eaa\u5f8b\u68c0\u67e5\u5668 validate_generated.py \u4e0e 37\u6761\u5751",
-    "id": "wdcjx/Embedded-programming",
-    "language": "C",
-    "name": "wdcjx/Embedded-programming",
-    "stars": 6,
-    "updated_at": "2026-10-24T07:22:49Z",
-    "url": "https://github.com/wdcjx/Embedded-programming"
-  },
-  {
-    "description": "Canonical self-hosted repository for Claude Skills CLI packages with automated sync and validation",
-    "id": "newbe36524/myskills",
-    "language": "Python",
-    "name": "newbe36524/myskills",
-    "stars": 0,
-    "updated_at": "2026-10-24T07:22:40Z",
-    "url": "https://github.com/newbe36524/myskills"
   }
 ]
