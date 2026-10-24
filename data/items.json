@@ -1,6 +1,105 @@
 [
   {
-    "description": "An agent skill for hand-painted animated shorts and music videos in code: watercolor, ink, crayon. \u8ba9 AI agent \u7528\u4ee3\u7801\u753b\u624b\u7ed8\u52a8\u753b\u77ed\u7247",
+    "description": "Linter for Claude Code SKILL.md packs: 15 rules, listing-budget simulator, trigger-collision finder, SARIF output and a ",
+    "id": "waseemnasir2k26/claude-skill-lint",
+    "language": "Python",
+    "name": "waseemnasir2k26/claude-skill-lint",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:43:43Z",
+    "url": "https://github.com/waseemnasir2k26/claude-skill-lint"
+  },
+  {
+    "description": "Claude skill: reverse-engineer visual references into a scalable Instagram brand identity system (English)",
+    "id": "decodengrow/instagram-visual-identity-en",
+    "language": "\u2014",
+    "name": "decodengrow/instagram-visual-identity-en",
+    "stars": 2,
+    "updated_at": "2026-10-24T09:44:18Z",
+    "url": "https://github.com/decodengrow/instagram-visual-identity-en"
+  },
+  {
+    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
+    "id": "mimukit/skills",
+    "language": "Shell",
+    "name": "mimukit/skills",
+    "stars": 1,
+    "updated_at": "2026-10-24T09:42:11Z",
+    "url": "https://github.com/mimukit/skills"
+  },
+  {
+    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
+    "id": "semlith/semlith",
+    "language": "Rust",
+    "name": "semlith/semlith",
+    "stars": 5,
+    "updated_at": "2026-10-24T09:42:10Z",
+    "url": "https://github.com/semlith/semlith"
+  },
+  {
+    "description": "Graft agent skills from other people's repositories onto your own setup: resolves the transitive hull, vendors, renames,",
+    "id": "remigius42/skill-graft",
+    "language": "Python",
+    "name": "remigius42/skill-graft",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:39:28Z",
+    "url": "https://github.com/remigius42/skill-graft"
+  },
+  {
+    "description": "\ud83d\udcbe MOI: agent-agnostic generative UI workspace. Give your agent a skill and let it build software around itself.",
+    "id": "molefrog/moi",
+    "language": "TypeScript",
+    "name": "molefrog/moi",
+    "stars": 188,
+    "updated_at": "2026-10-24T09:38:10Z",
+    "url": "https://github.com/molefrog/moi"
+  },
+  {
+    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 37,
+    "updated_at": "2026-10-24T09:36:05Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Find agent skills that silently stopped working, and when your agent's behavior changed. For Claude Code, Codex and Deep",
+    "id": "lijiaqi-AI-Product-Manager/skill-healthcheck",
+    "language": "TypeScript",
+    "name": "lijiaqi-AI-Product-Manager/skill-healthcheck",
+    "stars": 1,
+    "updated_at": "2026-10-24T09:39:26Z",
+    "url": "https://github.com/lijiaqi-AI-Product-Manager/skill-healthcheck"
+  },
+  {
+    "description": "Multi-agent folder cleanup skill for shared AI project workspaces. Stops Claude, ChatGPT, Codex, Copilot, Gemini, Grok, ",
+    "id": "JesseRaber/multi-agent-folder-cleanup",
+    "language": "Python",
+    "name": "JesseRaber/multi-agent-folder-cleanup",
+    "stars": 1,
+    "updated_at": "2026-10-24T09:33:13Z",
+    "url": "https://github.com/JesseRaber/multi-agent-folder-cleanup"
+  },
+  {
+    "description": "A second opinion from a panel of AI models (Gemini, GPT, Grok, Muse Spark, MiMo, Nemotron, Step, Kimi, Qwen, DeepSeek, G",
+    "id": "igorsaevets/ai-second-opinion",
+    "language": "Python",
+    "name": "igorsaevets/ai-second-opinion",
+    "stars": 0,
+    "updated_at": "2026-10-24T09:32:38Z",
+    "url": "https://github.com/igorsaevets/ai-second-opinion"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T09:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "An agent skill for hand-drawn animated shorts and music videos made entirely in code: nine styles, each with a finished ",
     "id": "nzl153/paint-video-skill",
     "language": "JavaScript",
     "name": "nzl153/paint-video-skill",
@@ -23,17 +122,8 @@
     "language": "Python",
     "name": "haoming-luo/agentfem",
     "stars": 29,
-    "updated_at": "2026-10-24T09:28:13Z",
+    "updated_at": "2026-10-24T09:32:25Z",
     "url": "https://github.com/haoming-luo/agentfem"
-  },
-  {
-    "description": "Find agent skills that silently stopped working, and when your agent's behavior changed. For Claude Code, Codex and Deep",
-    "id": "lijiaqi-AI-Product-Manager/skill-healthcheck",
-    "language": "TypeScript",
-    "name": "lijiaqi-AI-Product-Manager/skill-healthcheck",
-    "stars": 1,
-    "updated_at": "2026-10-24T09:26:48Z",
-    "url": "https://github.com/lijiaqi-AI-Product-Manager/skill-healthcheck"
   },
   {
     "description": "Claude skills that turn your course notes into a syllabus, an interactive revision page and a study plan.",
@@ -104,7 +194,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70303,
-    "updated_at": "2026-10-24T09:21:53Z",
+    "updated_at": "2026-10-24T09:39:32Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -140,7 +230,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-24T09:19:27Z",
+    "updated_at": "2026-10-24T09:35:57Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -151,24 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T09:18:28Z",
     "url": "https://github.com/fangdididi/deprecation-runway"
-  },
-  {
-    "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
-    "id": "semlith/semlith",
-    "language": "Rust",
-    "name": "semlith/semlith",
-    "stars": 5,
-    "updated_at": "2026-10-24T09:17:36Z",
-    "url": "https://github.com/semlith/semlith"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T09:15:11Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Agent skill: how many character/background assets an MV actually needs (about one per 3-4 shots) and how to generate the",
@@ -247,7 +319,7 @@
     "id": "doomsday-network/bounty-guard",
     "language": "Python",
     "name": "doomsday-network/bounty-guard",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-10-24T09:05:18Z",
     "url": "https://github.com/doomsday-network/bounty-guard"
   },
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "TranBaDat2607/claude-code-kaggle-grandmaster",
     "stars": 0,
-    "updated_at": "2026-10-24T09:03:40Z",
+    "updated_at": "2026-10-24T09:41:44Z",
     "url": "https://github.com/TranBaDat2607/claude-code-kaggle-grandmaster"
   },
   {
@@ -342,15 +414,6 @@
     "url": "https://github.com/Singhak/dev-skills"
   },
   {
-    "description": "Graft agent skills from other people's repositories onto your own setup: resolves the transitive hull, vendors, renames,",
-    "id": "remigius42/skill-graft",
-    "language": "Python",
-    "name": "remigius42/skill-graft",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:51:01Z",
-    "url": "https://github.com/remigius42/skill-graft"
-  },
-  {
     "description": "Agent skill for vericoding: code plus a machine-checked proof against a frozen spec (Lean 4 first), with a gate that rej",
     "id": "alok/vericoding-skill",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T08:46:03Z",
     "url": "https://github.com/pjdurden/claude-skills-live"
-  },
-  {
-    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
-    "id": "filippolmt/skills",
-    "language": "HTML",
-    "name": "filippolmt/skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T08:45:57Z",
-    "url": "https://github.com/filippolmt/skills"
-  },
-  {
-    "description": "Evidence-first engineering skills for Claude Code and Codex: investigate, decide, review and ship on evidence, not vibes",
-    "id": "NguyenHuy190303/EEP",
-    "language": "CSS",
-    "name": "NguyenHuy190303/EEP",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:42:31Z",
-    "url": "https://github.com/NguyenHuy190303/EEP"
-  },
-  {
-    "description": "My Claude Code settings and custom commands",
-    "id": "lacerbi/dotclaude",
-    "language": "Shell",
-    "name": "lacerbi/dotclaude",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:38:52Z",
-    "url": "https://github.com/lacerbi/dotclaude"
-  },
-  {
-    "description": "Epistemic discipline for AI assistants \u2014 truth statuses, an error registry, mutation-tested guards. Plain files, git as ",
-    "id": "nowespojrzenie/HEXAGRAM",
-    "language": "Shell",
-    "name": "nowespojrzenie/HEXAGRAM",
-    "stars": 1,
-    "updated_at": "2026-10-24T08:36:09Z",
-    "url": "https://github.com/nowespojrzenie/HEXAGRAM"
-  },
-  {
-    "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
-    "id": "StanimirTenev/baton",
-    "language": "Python",
-    "name": "StanimirTenev/baton",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:32:52Z",
-    "url": "https://github.com/StanimirTenev/baton"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 102653,
-    "updated_at": "2026-10-24T08:27:12Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "HTPD (Hyper Text Portable Document): convert PDFs into one AI-readable file, so any AI answers from the document with pa",
-    "id": "narendrachampaneri/htpd",
-    "language": "C++",
-    "name": "narendrachampaneri/htpd",
-    "stars": 2,
-    "updated_at": "2026-10-24T08:25:15Z",
-    "url": "https://github.com/narendrachampaneri/htpd"
   }
 ]
