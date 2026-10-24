@@ -1,5 +1,32 @@
 [
   {
+    "description": "Copy That: taste-first skills for Claude Code and Codex. Launch films, launch plans, Chinese copy, share images, skills ",
+    "id": "jack-reson8/copy-that",
+    "language": "\u2014",
+    "name": "jack-reson8/copy-that",
+    "stars": 0,
+    "updated_at": "2026-10-24T23:15:59Z",
+    "url": "https://github.com/jack-reson8/copy-that"
+  },
+  {
+    "description": "A Claude skill for writing skills that actually change what gets generated \u2014 with a static audit script",
+    "id": "jack-reson8/skill-skill",
+    "language": "Python",
+    "name": "jack-reson8/skill-skill",
+    "stars": 0,
+    "updated_at": "2026-10-24T23:15:45Z",
+    "url": "https://github.com/jack-reson8/skill-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T23:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skills for matching decompilation of video games: per-function loop, parallel agents, toolchain forensics, session",
     "id": "Ketbome/decomp-skills",
     "language": "Python",
@@ -178,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T23:00:33Z",
     "url": "https://github.com/yngbrll/vb-winforms-toolkit"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T23:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Workflow skills for AI coding agents: safe git branching, ask-don't-assume, change logging, multi-agent coordination, cl",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-24T22:32:55Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Skill for developing professional C projects, including targeted CUDA, shader, and assembly work",
-    "id": "luppichristian/fluent",
-    "language": "Python",
-    "name": "luppichristian/fluent",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:30:54Z",
-    "url": "https://github.com/luppichristian/fluent"
-  },
-  {
-    "description": "Defensive OSINT skills for Claude Code: links and Telegram deep links, email headers, photo metadata, domains, IPs. Pure",
-    "id": "AHeartOfIron/osint-skills",
-    "language": "Python",
-    "name": "AHeartOfIron/osint-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T22:30:25Z",
-    "url": "https://github.com/AHeartOfIron/osint-skills"
   }
 ]
