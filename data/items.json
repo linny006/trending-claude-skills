@@ -1,21 +1,120 @@
 [
   {
+    "description": "Agent skills for building, shipping, and growing software products",
+    "id": "tenequm/skills",
+    "language": "Python",
+    "name": "tenequm/skills",
+    "stars": 40,
+    "updated_at": "2026-10-23T23:59:50Z",
+    "url": "https://github.com/tenequm/skills"
+  },
+  {
+    "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR ",
+    "id": "jayjayholic/jstack",
+    "language": "TypeScript",
+    "name": "jayjayholic/jstack",
+    "stars": 1,
+    "updated_at": "2026-10-23T23:59:40Z",
+    "url": "https://github.com/jayjayholic/jstack"
+  },
+  {
+    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 37,
+    "updated_at": "2026-10-23T23:59:24Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Free Claude Code / agent skills for AI agencies: isolated client workspaces, scope-creep guard, offers and cold email. S",
+    "id": "CalebAnderson-Coder/ai-agency-os-starter",
+    "language": "PowerShell",
+    "name": "CalebAnderson-Coder/ai-agency-os-starter",
+    "stars": 0,
+    "updated_at": "2026-10-23T23:58:55Z",
+    "url": "https://github.com/CalebAnderson-Coder/ai-agency-os-starter"
+  },
+  {
     "description": "Run coding agents anywhere and keep one record of the work, with tools and memory in sync across your harnesses. Local f",
     "id": "escoffier-labs/brigade",
     "language": "Python",
     "name": "escoffier-labs/brigade",
     "stars": 81,
-    "updated_at": "2026-10-23T23:44:56Z",
+    "updated_at": "2026-10-23T23:57:29Z",
     "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
+    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "language": "Python",
+    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "stars": 17,
+    "updated_at": "2026-10-23T23:52:44Z",
+    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
+  },
+  {
+    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
+    "id": "google/elephant-goldfish-model",
+    "language": "Python",
+    "name": "google/elephant-goldfish-model",
+    "stars": 305,
+    "updated_at": "2026-10-23T23:51:04Z",
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "description": "Agent skills for matching decompilation of video games: per-function loop, parallel agents, toolchain forensics, session",
+    "id": "Ketbome/decomp-skills",
+    "language": "Python",
+    "name": "Ketbome/decomp-skills",
+    "stars": 2,
+    "updated_at": "2026-10-23T23:50:35Z",
+    "url": "https://github.com/Ketbome/decomp-skills"
+  },
+  {
+    "description": "JobSearchAssistant: a human-in-the-loop job search agent, built as a Claude plugin and as a LangGraph pipeline with eval",
+    "id": "esscott1/job-search-assistant",
+    "language": "Python",
+    "name": "esscott1/job-search-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-23T23:48:41Z",
+    "url": "https://github.com/esscott1/job-search-assistant"
+  },
+  {
+    "description": "React components and Claude skills with a designer's eye, installable with the shadcn CLI: npx shadcn add @creative-ui/<",
+    "id": "krutikkkkkkkkk/creative-ui",
+    "language": "TypeScript",
+    "name": "krutikkkkkkkkk/creative-ui",
+    "stars": 18,
+    "updated_at": "2026-10-23T23:47:36Z",
+    "url": "https://github.com/krutikkkkkkkkk/creative-ui"
+  },
+  {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-23T23:52:49Z",
+    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "The open-source app everyone uses to manage agents at work",
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 106585,
-    "updated_at": "2026-10-23T23:43:19Z",
+    "stars": 106586,
+    "updated_at": "2026-10-23T23:52:47Z",
     "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-23T23:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "A programmable typesetter for the web",
@@ -63,15 +162,6 @@
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
-    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
-    "id": "google/elephant-goldfish-model",
-    "language": "Python",
-    "name": "google/elephant-goldfish-model",
-    "stars": 304,
-    "updated_at": "2026-10-23T23:44:39Z",
-    "url": "https://github.com/google/elephant-goldfish-model"
-  },
-  {
     "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
     "id": "DozenTwelve/Papermorph",
     "language": "JavaScript",
@@ -79,15 +169,6 @@
     "stars": 849,
     "updated_at": "2026-10-23T23:35:49Z",
     "url": "https://github.com/DozenTwelve/Papermorph"
-  },
-  {
-    "description": "Agent skills for matching decompilation of video games: per-function loop, parallel agents, toolchain forensics, session",
-    "id": "Ketbome/decomp-skills",
-    "language": "Python",
-    "name": "Ketbome/decomp-skills",
-    "stars": 2,
-    "updated_at": "2026-10-23T23:35:13Z",
-    "url": "https://github.com/Ketbome/decomp-skills"
   },
   {
     "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
@@ -135,15 +216,6 @@
     "url": "https://github.com/aleks-tpom6oh/human-autocomplete"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-23T23:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
     "id": "camilemuz/local-doc-rag-skill",
     "language": "HTML",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-23T23:29:24Z",
     "url": "https://github.com/500bitcoins/recast"
-  },
-  {
-    "description": "React components and Claude skills with a designer's eye, installable with the shadcn CLI: npx shadcn add @creative-ui/<",
-    "id": "krutikkkkkkkkk/creative-ui",
-    "language": "TypeScript",
-    "name": "krutikkkkkkkkk/creative-ui",
-    "stars": 18,
-    "updated_at": "2026-10-23T23:27:43Z",
-    "url": "https://github.com/krutikkkkkkkkk/creative-ui"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -311,7 +374,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70292,
-    "updated_at": "2026-10-23T23:34:10Z",
+    "updated_at": "2026-10-23T23:46:46Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -338,7 +401,7 @@
     "language": "Python",
     "name": "fireheartjerry/jerry-skills",
     "stars": 0,
-    "updated_at": "2026-10-23T23:08:38Z",
+    "updated_at": "2026-10-23T23:54:10Z",
     "url": "https://github.com/fireheartjerry/jerry-skills"
   },
   {
@@ -369,15 +432,6 @@
     "url": "https://github.com/Wang-Cankun/cankun-skills"
   },
   {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-23T23:29:31Z",
-    "url": "https://github.com/martinambrus/haive"
-  },
-  {
     "description": "Rooms where agents talk to each other. A room is a URL: no accounts, nothing to install, plain HTTP.",
     "id": "dariorapisardi/parlor.sh",
     "language": "Gleam",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-23T23:03:15Z",
     "url": "https://github.com/JasonHMY/personal-finance-visualizer"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:02:23Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 124,
-    "updated_at": "2026-10-23T23:31:56Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Agent skill for finding vetted free media sources via FMHY \u2014 ships a greppable offline mirror of the FMHY wiki catalogue",
-    "id": "gwyntel/fmhy-skill",
-    "language": "Python",
-    "name": "gwyntel/fmhy-skill",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:01:37Z",
-    "url": "https://github.com/gwyntel/fmhy-skill"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-10-23T23:01:14Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-10-23T23:00:06Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Free PHP2Shell (CVE-2026-109618, CVE-2026-109619) check skill for Claude Code and Codex. Reads the PHP package and runti",
-    "id": "phpfixes/phpfixes-php2shell",
-    "language": "Python",
-    "name": "phpfixes/phpfixes-php2shell",
-    "stars": 0,
-    "updated_at": "2026-10-23T22:58:36Z",
-    "url": "https://github.com/phpfixes/phpfixes-php2shell"
   }
 ]
