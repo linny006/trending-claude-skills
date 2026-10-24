@@ -1,5 +1,59 @@
 [
   {
+    "description": "Raftly: idea to production with the judgment of a senior product and engineering org. A Claude Code plugin: /raftly",
+    "id": "roszhan2684/raftly",
+    "language": "Python",
+    "name": "roszhan2684/raftly",
+    "stars": 0,
+    "updated_at": "2026-10-24T15:43:59Z",
+    "url": "https://github.com/roszhan2684/raftly"
+  },
+  {
+    "description": "Official MCP server, CLI, and Python/TypeScript SDKs for Axiom Lab (axiomlab.online) \u2014 turn PDF pitch decks, slides, and",
+    "id": "Axiom-lab-tech/axiomlab-mcp",
+    "language": "TypeScript",
+    "name": "Axiom-lab-tech/axiomlab-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-24T15:43:48Z",
+    "url": "https://github.com/Axiom-lab-tech/axiomlab-mcp"
+  },
+  {
+    "description": "A daily-driver collection of skills for agentic coding - a portable, agent-agnostic catalog managed with the vd CLI.",
+    "id": "vanducng/skills",
+    "language": "HTML",
+    "name": "vanducng/skills",
+    "stars": 8,
+    "updated_at": "2026-10-24T15:44:24Z",
+    "url": "https://github.com/vanducng/skills"
+  },
+  {
+    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
+    "id": "google/elephant-goldfish-model",
+    "language": "Python",
+    "name": "google/elephant-goldfish-model",
+    "stars": 455,
+    "updated_at": "2026-10-24T15:44:37Z",
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T15:42:57Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI \u00d7 BDD spec-driven development for Claude Code. greenlight turns a feature request into human-approved, executable spe",
+    "id": "iadr-dev/greenlight",
+    "language": "Python",
+    "name": "iadr-dev/greenlight",
+    "stars": 1,
+    "updated_at": "2026-10-24T15:42:52Z",
+    "url": "https://github.com/iadr-dev/greenlight"
+  },
+  {
     "description": "Graft agent skills from other people's repositories onto your own setup: resolves the transitive hull, vendors, renames,",
     "id": "remigius42/skill-graft",
     "language": "Python",
@@ -32,7 +86,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70302,
-    "updated_at": "2026-10-24T15:41:37Z",
+    "updated_at": "2026-10-24T15:43:27Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/bumeter/vscode-claude-skills"
   },
   {
-    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
-    "id": "google/elephant-goldfish-model",
-    "language": "Python",
-    "name": "google/elephant-goldfish-model",
-    "stars": 454,
-    "updated_at": "2026-10-24T15:42:06Z",
-    "url": "https://github.com/google/elephant-goldfish-model"
-  },
-  {
     "description": "AI writes the code. Comprende makes sure you understand it ",
     "id": "AbdulrahmanMasoud/comprende",
     "language": "JavaScript",
@@ -162,21 +207,12 @@
     "url": "https://github.com/elsoul/erpc-sdk"
   },
   {
-    "description": "AI \u00d7 BDD spec-driven development for Claude Code. greenlight turns a feature request into human-approved, executable spe",
-    "id": "iadr-dev/greenlight",
-    "language": "Python",
-    "name": "iadr-dev/greenlight",
-    "stars": 1,
-    "updated_at": "2026-10-24T15:42:52Z",
-    "url": "https://github.com/iadr-dev/greenlight"
-  },
-  {
     "description": "The open-source app everyone uses to manage agents at work",
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
     "stars": 106810,
-    "updated_at": "2026-10-24T15:30:44Z",
+    "updated_at": "2026-10-24T15:42:57Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T15:30:36Z",
     "url": "https://github.com/farhan6667/urdu-tts-pronunciation"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T15:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Script + screenshots in, a narrated product walkthrough out. Ships as a static web page or MP4. Claude Code / Codex skil",
@@ -250,15 +277,6 @@
     "stars": 79,
     "updated_at": "2026-10-24T15:25:04Z",
     "url": "https://github.com/the911fund/skill-of-skills"
-  },
-  {
-    "description": "Official MCP server, CLI, and Python/TypeScript SDKs for Axiom Lab (axiomlab.online) \u2014 turn PDF pitch decks, slides, and",
-    "id": "Axiom-lab-tech/axiomlab-mcp",
-    "language": "TypeScript",
-    "name": "Axiom-lab-tech/axiomlab-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:24:39Z",
-    "url": "https://github.com/Axiom-lab-tech/axiomlab-mcp"
   },
   {
     "description": "Run coding agents anywhere and keep one record of the work, with tools and memory in sync across your harnesses. Local f",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T15:08:48Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Claude Code skill: turn short videos (TikTok, Reels, Shorts, YouTube) into evidence-backed Markdown for AI agents. Local",
-    "id": "stanleypdp/Claude-Video-Journalist",
-    "language": "Python",
-    "name": "stanleypdp/Claude-Video-Journalist",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:02:56Z",
-    "url": "https://github.com/stanleypdp/Claude-Video-Journalist"
-  },
-  {
-    "description": "42 expert Claude Code skills for AI UX and agent design, AI marketing and growth, product, strategy, finance, and game t",
-    "id": "varunk130/claude-code-skills",
-    "language": "Python",
-    "name": "varunk130/claude-code-skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T15:02:12Z",
-    "url": "https://github.com/varunk130/claude-code-skills"
   }
 ]
