@@ -1,11 +1,155 @@
 [
   {
+    "description": "Pro Motion \u2014 a Claude Code skill for audio-first motion-graphics launch, brand & TVC films, rendered in code and cut to ",
+    "id": "jack-reson8/pro-motion",
+    "language": "JavaScript",
+    "name": "jack-reson8/pro-motion",
+    "stars": 0,
+    "updated_at": "2026-10-24T02:29:49Z",
+    "url": "https://github.com/jack-reson8/pro-motion"
+  },
+  {
+    "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring",
+    "id": "getcargohq/cargo-skills",
+    "language": "TypeScript",
+    "name": "getcargohq/cargo-skills",
+    "stars": 20,
+    "updated_at": "2026-10-24T02:28:46Z",
+    "url": "https://github.com/getcargohq/cargo-skills"
+  },
+  {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-24T02:27:54Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "Agent skill collections for OpenCode/Claude/Cursor \u2014 installable per collection, local-first",
+    "id": "tpc-pascal/skillsmith",
+    "language": "Shell",
+    "name": "tpc-pascal/skillsmith",
+    "stars": 1,
+    "updated_at": "2026-10-24T02:26:02Z",
+    "url": "https://github.com/tpc-pascal/skillsmith"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 106619,
+    "updated_at": "2026-10-24T02:26:00Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
+    "id": "nikolai-vysotskyi/trace-mcp",
+    "language": "TypeScript",
+    "name": "nikolai-vysotskyi/trace-mcp",
+    "stars": 193,
+    "updated_at": "2026-10-24T02:23:47Z",
+    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
+  },
+  {
+    "description": "90s game pictures from a text file: a Claude skill and Python CLI that renders small JSON scenes as Doom/Build-style sti",
+    "id": "StevenGlick/ai-raster-scene",
+    "language": "Python",
+    "name": "StevenGlick/ai-raster-scene",
+    "stars": 0,
+    "updated_at": "2026-10-24T02:23:11Z",
+    "url": "https://github.com/StevenGlick/ai-raster-scene"
+  },
+  {
+    "description": "agentx is the inventory manager for your agents. View, manage, and sync skills, MCPs and plugins across machines. Availa",
+    "id": "grundmanise/agentx",
+    "language": "Go",
+    "name": "grundmanise/agentx",
+    "stars": 1,
+    "updated_at": "2026-10-24T02:27:11Z",
+    "url": "https://github.com/grundmanise/agentx"
+  },
+  {
+    "description": "Este repositorio agrupa skills reutilizables para Claude Code. Cada skill se define en su propia carpeta con un archivo ",
+    "id": "bacsystem/skills",
+    "language": "JavaScript",
+    "name": "bacsystem/skills",
+    "stars": 1,
+    "updated_at": "2026-10-24T02:21:44Z",
+    "url": "https://github.com/bacsystem/skills"
+  },
+  {
+    "description": "Mem\u00f3ria persistente e time de agentes para o Claude Code, dentro do seu reposit\u00f3rio. Feito em Rust.",
+    "id": "poupar-ai/OpenDots",
+    "language": "Rust",
+    "name": "poupar-ai/OpenDots",
+    "stars": 1,
+    "updated_at": "2026-10-24T02:21:30Z",
+    "url": "https://github.com/poupar-ai/OpenDots"
+  },
+  {
+    "description": "Datacircle lists all the GTM APIs",
+    "id": "waynehamadi/datacircle",
+    "language": "\u2014",
+    "name": "waynehamadi/datacircle",
+    "stars": 1,
+    "updated_at": "2026-10-24T02:21:00Z",
+    "url": "https://github.com/waynehamadi/datacircle"
+  },
+  {
+    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
+    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "language": "Python",
+    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
+    "stars": 17,
+    "updated_at": "2026-10-24T02:20:14Z",
+    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "TypeScript",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 69,
+    "updated_at": "2026-10-24T02:18:41Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70291,
+    "updated_at": "2026-10-24T02:25:02Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-24T02:17:41Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 132,
+    "updated_at": "2026-10-24T02:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A serious harness for Claude Code. Specs before code, gates on every commit, the Code Audit Team on every merge. Ships a",
     "id": "gaia-react/gaia",
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 25,
-    "updated_at": "2026-10-24T02:14:36Z",
+    "updated_at": "2026-10-24T02:15:24Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -18,13 +162,13 @@
     "url": "https://github.com/andisab/swe-marketplace"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 106613,
-    "updated_at": "2026-10-24T02:14:17Z",
-    "url": "https://github.com/paperclipai/paperclip"
+    "description": "An Agent Skill that turns AI agent mistakes into short rules in your repo, so Claude Code, Codex, Cursor, and every othe",
+    "id": "mikaeladityan/lessons-learned",
+    "language": "JavaScript",
+    "name": "mikaeladityan/lessons-learned",
+    "stars": 0,
+    "updated_at": "2026-10-24T02:14:03Z",
+    "url": "https://github.com/mikaeladityan/lessons-learned"
   },
   {
     "description": "PDF-Unterlagen gezielt durchsuchen, Originalseiten pr\u00fcfen und Text sowie Bilder mit Quellenbezug weiterverwenden. Lokale",
@@ -58,7 +202,7 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 320,
+    "stars": 322,
     "updated_at": "2026-10-24T02:06:25Z",
     "url": "https://github.com/google/elephant-goldfish-model"
   },
@@ -117,15 +261,6 @@
     "url": "https://github.com/arm-pz/do-better"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 132,
-    "updated_at": "2026-10-24T02:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Agent skill that audits and fine-tunes a skill that already exists: triggering descriptions, sibling overlaps, stale nam",
     "id": "arm-pz/tune-skill",
     "language": "Python",
@@ -171,21 +306,12 @@
     "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70291,
-    "updated_at": "2026-10-24T02:12:31Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "The Claude Code skills, hooks and scripts I use every day packaged as a plugin",
     "id": "paureis/pau-skills",
     "language": "JavaScript",
     "name": "paureis/pau-skills",
     "stars": 0,
-    "updated_at": "2026-10-24T01:54:59Z",
+    "updated_at": "2026-10-24T02:26:29Z",
     "url": "https://github.com/paureis/pau-skills"
   },
   {
@@ -196,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T01:54:16Z",
     "url": "https://github.com/uulucky/claude-skill-eu-einvoice"
-  },
-  {
-    "description": "Mem\u00f3ria persistente e time de agentes para o Claude Code, dentro do seu reposit\u00f3rio. Feito em Rust.",
-    "id": "poupar-ai/OpenDots",
-    "language": "Rust",
-    "name": "poupar-ai/OpenDots",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:53:23Z",
-    "url": "https://github.com/poupar-ai/OpenDots"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -279,15 +396,6 @@
     "url": "https://github.com/tjq001/hv-code-templates"
   },
   {
-    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
-    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "language": "Python",
-    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "stars": 17,
-    "updated_at": "2026-10-24T02:10:04Z",
-    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
-  },
-  {
     "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
     "id": "Frun1753/claude-codecraft-toolkit",
     "language": "HTML",
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-24T01:36:46Z",
     "url": "https://github.com/bostonaholic/skills"
-  },
-  {
-    "description": "Ai skills based on my precedent work and style of dev",
-    "id": "TsukiNi22/ai-utils",
-    "language": "C++",
-    "name": "TsukiNi22/ai-utils",
-    "stars": 1,
-    "updated_at": "2026-10-24T01:35:43Z",
-    "url": "https://github.com/TsukiNi22/ai-utils"
-  },
-  {
-    "description": "Claude Code session handoffs \u2014 now a Claude Code mod: /compact-handoff swaps the conversation for a validated handoff an",
-    "id": "REMvisual/claude-handoff",
-    "language": "TypeScript",
-    "name": "REMvisual/claude-handoff",
-    "stars": 66,
-    "updated_at": "2026-10-24T01:33:16Z",
-    "url": "https://github.com/REMvisual/claude-handoff"
-  },
-  {
-    "description": "A trilingual (\u7e41\u4e2d / English / \u7b80\u4e2d) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ cura",
-    "id": "WenyuChiou/awesome-agentic-ai-zh",
-    "language": "Python",
-    "name": "WenyuChiou/awesome-agentic-ai-zh",
-    "stars": 7947,
-    "updated_at": "2026-10-24T01:33:07Z",
-    "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh"
-  },
-  {
-    "description": "Best AI Agent Skill Finder 2026 \u2013 Multi-Registry Install & Security Labels",
-    "id": "Edward0l1/skill-flare-discover",
-    "language": "HTML",
-    "name": "Edward0l1/skill-flare-discover",
-    "stars": 1,
-    "updated_at": "2026-10-24T01:30:37Z",
-    "url": "https://github.com/Edward0l1/skill-flare-discover"
-  },
-  {
-    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
-    "id": "Rick-254/moodle-quizsmith",
-    "language": "HTML",
-    "name": "Rick-254/moodle-quizsmith",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:28:26Z",
-    "url": "https://github.com/Rick-254/moodle-quizsmith"
-  },
-  {
-    "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring",
-    "id": "getcargohq/cargo-skills",
-    "language": "TypeScript",
-    "name": "getcargohq/cargo-skills",
-    "stars": 20,
-    "updated_at": "2026-10-24T01:30:00Z",
-    "url": "https://github.com/getcargohq/cargo-skills"
-  },
-  {
-    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
-    "id": "Ford-1/postgresql-mcp-connector",
-    "language": "HTML",
-    "name": "Ford-1/postgresql-mcp-connector",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:26:05Z",
-    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
-  },
-  {
-    "description": "Free PHP2Shell (CVE-2026-109618, CVE-2026-109619) check skill for Claude Code and Codex. Reads the PHP package and runti",
-    "id": "phpfixes/phpfixes-php2shell",
-    "language": "Python",
-    "name": "phpfixes/phpfixes-php2shell",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:26:39Z",
-    "url": "https://github.com/phpfixes/phpfixes-php2shell"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 124,
-    "updated_at": "2026-10-24T01:23:46Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
-    "description": "Agent Skills for Pugi: build and deliver apps, design, templates, brand, security, publish to *.pugi.app",
-    "id": "pugi-io/skills",
-    "language": "Python",
-    "name": "pugi-io/skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:19:48Z",
-    "url": "https://github.com/pugi-io/skills"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-10-24T01:17:41Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
-    "id": "consolascionw/prompt-to-pattern-design",
-    "language": "HTML",
-    "name": "consolascionw/prompt-to-pattern-design",
-    "stars": 0,
-    "updated_at": "2026-10-24T01:16:47Z",
-    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
   }
 ]
