@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent skill: entry point to an accumulated MV skill family - an index of which skill governs what, plus 11 cross-cutting",
+    "id": "CatsMansion/mv-playbook",
+    "language": "\u2014",
+    "name": "CatsMansion/mv-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:59:17Z",
+    "url": "https://github.com/CatsMansion/mv-playbook"
+  },
+  {
+    "description": "Agent skill: Japanese lyric subtitles for music videos - \u6587\u7bc0 (bunsetsu) line breaking, onsets measured on the separated v",
+    "id": "CatsMansion/mv-jp-lyrics-subtitle",
+    "language": "Python",
+    "name": "CatsMansion/mv-jp-lyrics-subtitle",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:59:12Z",
+    "url": "https://github.com/CatsMansion/mv-jp-lyrics-subtitle"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T06:58:32Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
     "id": "HIDORAKAI002/ai-workspace-archive",
     "language": "\u2014",
@@ -7,6 +34,15 @@
     "stars": 37,
     "updated_at": "2026-10-24T06:57:14Z",
     "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102629,
+    "updated_at": "2026-10-24T06:56:29Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The mo",
@@ -67,7 +103,7 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 368,
+    "stars": 369,
     "updated_at": "2026-10-24T06:47:20Z",
     "url": "https://github.com/google/elephant-goldfish-model"
   },
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T06:46:47Z",
     "url": "https://github.com/xubing0602/scriptorium"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T06:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Link WhatsApp to Claude (or any MCP client) in ~20 minutes: a live self-refreshing QR page that makes pairing actually w",
@@ -115,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-24T06:44:46Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "Agent skill: entry point to an accumulated MV skill family - an index of which skill governs what, plus 11 cross-cutting",
-    "id": "CatsMansion/mv-playbook",
-    "language": "\u2014",
-    "name": "CatsMansion/mv-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:44:28Z",
-    "url": "https://github.com/CatsMansion/mv-playbook"
   },
   {
     "description": "Agent skill: structure a lyric PV as a system - named style families with mood tags instead of sliders, three-stage text",
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70298,
-    "updated_at": "2026-10-24T06:57:16Z",
+    "updated_at": "2026-10-24T06:59:24Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "iadr-dev/greenlight",
     "stars": 1,
-    "updated_at": "2026-10-24T06:28:49Z",
+    "updated_at": "2026-10-24T06:59:19Z",
     "url": "https://github.com/iadr-dev/greenlight"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 159,
     "updated_at": "2026-10-24T06:28:10Z",
     "url": "https://github.com/mblode/agent-skills"
-  },
-  {
-    "description": "Agent skill: Japanese lyric subtitles for music videos - \u6587\u7bc0 (bunsetsu) line breaking, onsets measured on the separated v",
-    "id": "CatsMansion/mv-jp-lyrics-subtitle",
-    "language": "Python",
-    "name": "CatsMansion/mv-jp-lyrics-subtitle",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:26:39Z",
-    "url": "https://github.com/CatsMansion/mv-jp-lyrics-subtitle"
   },
   {
     "description": "Post \u2014 a Claude skill for Xiaohongshu / X share-image sets that look native and sell: App Store poster layout, real scre",
@@ -373,7 +382,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 106678,
+    "stars": 106680,
     "updated_at": "2026-10-24T06:22:29Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "ikaijua/Awesome-AITools",
     "stars": 6240,
-    "updated_at": "2026-10-24T06:58:17Z",
+    "updated_at": "2026-10-24T06:59:08Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T06:10:15Z",
     "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "Free AI skills for real estate agents, realtors and estate agents: fair-housing-checked listing descriptions, lead follo",
-    "id": "polytheseus/real-estate-skills",
-    "language": "\u2014",
-    "name": "polytheseus/real-estate-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:07:27Z",
-    "url": "https://github.com/polytheseus/real-estate-skills"
   }
 ]
