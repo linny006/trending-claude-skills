@@ -1,5 +1,95 @@
 [
   {
+    "description": "Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns",
+    "id": "antonbabenko/terraform-skill",
+    "language": "\u2014",
+    "name": "antonbabenko/terraform-skill",
+    "stars": 2422,
+    "updated_at": "2026-10-24T11:55:58Z",
+    "url": "https://github.com/antonbabenko/terraform-skill"
+  },
+  {
+    "description": "A platform engineering handbook covering Kubernetes, OpenShift, Argo CD, Flux CD, AWS, Azure, Terraform, and GitHub Acti",
+    "id": "nitinjain999/platform-skills",
+    "language": "Shell",
+    "name": "nitinjain999/platform-skills",
+    "stars": 70,
+    "updated_at": "2026-10-24T11:55:14Z",
+    "url": "https://github.com/nitinjain999/platform-skills"
+  },
+  {
+    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
+    "id": "karero/croftweaver",
+    "language": "Python",
+    "name": "karero/croftweaver",
+    "stars": 8,
+    "updated_at": "2026-10-24T11:49:47Z",
+    "url": "https://github.com/karero/croftweaver"
+  },
+  {
+    "description": "Godot 4 skills for Claude Code. Directs it to built-in nodes, resources and project settings across 2D, 3D, UI, audio, s",
+    "id": "MindsMaster/godot-claude-code-skills",
+    "language": "Python",
+    "name": "MindsMaster/godot-claude-code-skills",
+    "stars": 1,
+    "updated_at": "2026-10-24T11:49:10Z",
+    "url": "https://github.com/MindsMaster/godot-claude-code-skills"
+  },
+  {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-24T11:54:38Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
+    "description": "Claude Code skill: Claude leads coding agents \u2014 plans, writes specs and verifies, while Codex CLI and CodeBuddy CLI do t",
+    "id": "DeanHilarious/claude-leading-agents",
+    "language": "JavaScript",
+    "name": "DeanHilarious/claude-leading-agents",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:47:23Z",
+    "url": "https://github.com/DeanHilarious/claude-leading-agents"
+  },
+  {
+    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
+    "id": "Servosity/msp-skills",
+    "language": "Go",
+    "name": "Servosity/msp-skills",
+    "stars": 62,
+    "updated_at": "2026-10-24T11:47:07Z",
+    "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-10-24T11:46:02Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Real artistic colour palettes (Wada plates, Heian kasane, public-domain paintings) turned into OKLCH ramps, design token",
+    "id": "youssef4laa/artistic-color-palettes",
+    "language": "Python",
+    "name": "youssef4laa/artistic-color-palettes",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:45:56Z",
+    "url": "https://github.com/youssef4laa/artistic-color-palettes"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T11:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
     "id": "consolascionw/prompt-to-pattern-design",
     "language": "HTML",
@@ -16,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-24T11:44:43Z",
     "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
-  },
-  {
-    "description": "Real artistic colour palettes (Wada plates, Heian kasane, public-domain paintings) turned into OKLCH ramps, design token",
-    "id": "youssef4laa/artistic-color-palettes",
-    "language": "Python",
-    "name": "youssef4laa/artistic-color-palettes",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:43:52Z",
-    "url": "https://github.com/youssef4laa/artistic-color-palettes"
   },
   {
     "description": "Ai skills based on my precedent work and style of dev",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T11:41:33Z",
     "url": "https://github.com/PawanSirsat/Laika"
-  },
-  {
-    "description": "Claude Code skill: Claude leads coding agents \u2014 plans, writes specs and verifies, while Codex CLI and CodeBuddy CLI do t",
-    "id": "DeanHilarious/claude-leading-agents",
-    "language": "JavaScript",
-    "name": "DeanHilarious/claude-leading-agents",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:41:30Z",
-    "url": "https://github.com/DeanHilarious/claude-leading-agents"
   },
   {
     "description": "Free Claude Code skill: audit a slow or full Mac and clean it up safely. Nothing deleted without your OK.",
@@ -126,15 +198,6 @@
     "url": "https://github.com/BaixuanZhu/skills"
   },
   {
-    "description": "Free MCP servers + Claude Code Skills for MSP tools - PSA, RMM, backup, M365. Local-first: your data never leaves your n",
-    "id": "Servosity/msp-skills",
-    "language": "Go",
-    "name": "Servosity/msp-skills",
-    "stars": 62,
-    "updated_at": "2026-10-24T11:36:10Z",
-    "url": "https://github.com/Servosity/msp-skills"
-  },
-  {
     "description": "Agent Skill + CLI that cuts wasted tokens in Codex, Claude Code and OpenCode: compact logs, stop identical retries, audi",
     "id": "noamshorts22-prog/usage-engineer",
     "language": "Python",
@@ -148,7 +211,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 106745,
+    "stars": 106750,
     "updated_at": "2026-10-24T11:35:15Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -180,21 +243,12 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T11:30:24Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
     "id": "martinambrus/haive",
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-24T11:29:53Z",
+    "updated_at": "2026-10-24T11:52:22Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -212,7 +266,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70302,
-    "updated_at": "2026-10-24T11:37:53Z",
+    "updated_at": "2026-10-24T11:54:57Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Kotlin",
     "name": "yschimke/compose-ai-tools",
     "stars": 124,
-    "updated_at": "2026-10-24T11:37:55Z",
+    "updated_at": "2026-10-24T11:50:46Z",
     "url": "https://github.com/yschimke/compose-ai-tools"
   },
   {
@@ -324,15 +378,6 @@
     "url": "https://github.com/dilmun-studio/dilmun-skills"
   },
   {
-    "description": "Godot 4 skills for Claude Code. Directs it to built-in nodes, resources and project settings across 2D, 3D, UI, audio, s",
-    "id": "MindsMaster/godot-claude-code-skills",
-    "language": "Python",
-    "name": "MindsMaster/godot-claude-code-skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T11:18:08Z",
-    "url": "https://github.com/MindsMaster/godot-claude-code-skills"
-  },
-  {
     "description": "\u53d1\u5e03\u524d\u62ff\u4f60\u81ea\u5df1\u7684\u6750\u6599\u6838\u5bf9\u6587\u6863\u91cc\u7684\u6bcf\u6761\u8bf4\u6cd5\uff1a\u6bcf\u6761\u5e26\u8bc1\u636e\uff0c\u6838\u4e0d\u52a8\u7684\u4e0d\u4e71\u5224 \u00b7 A Claude Code skill that audits claims against your own evidence",
     "id": "panglezym/show-receipts",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-24T11:09:08Z",
     "url": "https://github.com/ChuluuMGL/proposal-skill"
-  },
-  {
-    "description": "Pro Motion \u2014 a Claude Code skill for audio-first motion-graphics launch, brand & TVC films, rendered in code and cut to ",
-    "id": "jack-reson8/pro-motion",
-    "language": "JavaScript",
-    "name": "jack-reson8/pro-motion",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:08:21Z",
-    "url": "https://github.com/jack-reson8/pro-motion"
-  },
-  {
-    "description": "agent-skills,Expert code review skill: SOLID, security, performance, error handling, boundary conditions",
-    "id": "yugef3h/leo-skills",
-    "language": "\u2014",
-    "name": "yugef3h/leo-skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T11:05:00Z",
-    "url": "https://github.com/yugef3h/leo-skills"
-  },
-  {
-    "description": "Claude skill: change one thing in a video and keep the rest of the shot. Swap, recast or restyle on the Darkwoods API, w",
-    "id": "500bitcoins/recast",
-    "language": "JavaScript",
-    "name": "500bitcoins/recast",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:04:54Z",
-    "url": "https://github.com/500bitcoins/recast"
-  },
-  {
-    "description": "\u5bf9\u6297\u5f0f\u5ba1\u67e5 skill + \u53ef\u6267\u884c\u8d1f\u63a7\u5de5\u5177\u94fe\u3002\u8ba9\u300c\u505a\u5b8c\u4e86\u300d\u8fd9\u4e2a\u7ed3\u8bba\u625b\u5f97\u4f4f\u8bc1\u4f2a\u3002",
-    "id": "newye123/adversarial-review",
-    "language": "Python",
-    "name": "newye123/adversarial-review",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:04:06Z",
-    "url": "https://github.com/newye123/adversarial-review"
-  },
-  {
-    "description": "Skill Market plugin for DeepSeek Harness (DSH): browse, install, create and import agent skills from GitHub - live insta",
-    "id": "LCG24-ux/dsh-skill-market",
-    "language": "JavaScript",
-    "name": "LCG24-ux/dsh-skill-market",
-    "stars": 0,
-    "updated_at": "2026-10-24T11:03:07Z",
-    "url": "https://github.com/LCG24-ux/dsh-skill-market"
   }
 ]
