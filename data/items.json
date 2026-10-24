@@ -1,5 +1,95 @@
 [
   {
+    "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
+    "id": "HIDORAKAI002/ai-workspace-archive",
+    "language": "\u2014",
+    "name": "HIDORAKAI002/ai-workspace-archive",
+    "stars": 37,
+    "updated_at": "2026-10-24T06:57:14Z",
+    "url": "https://github.com/HIDORAKAI002/ai-workspace-archive"
+  },
+  {
+    "description": "\u6536\u5f55\u6700\u5168\u3001\u66f4\u65b0\u6700\u5feb\u7684\u6280\u80fdSkills\u5546\u5e97\uff1a\u7cbe\u9009\u539f\u521b\u6280\u80fd\u5305\uff08\u6db5\u76d6\u6587\u6863\u5904\u7406\u3001\u5185\u5bb9\u521b\u4f5c\u3001\u7f16\u7a0b\u5f00\u53d1\u3001\u673a\u5668\u5b66\u4e60\u3001\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff09\uff0c\u5168\u90e8\u6253\u5305\u597d\u53ef\u76f4\u63a5\u5b89\u88c5\u4f7f\u7528\uff01\u540c\u65f6\u81ea\u52a8\u6293\u53d6GitHub\u4e0a\u4e07\u4e2aSkills\u9879\u76ee\uff0c\u6309\u5206\u7c7b\u3001\u66f4\u65b0\u65f6\u95f4\u3001Star\u6570\u91cf\u6574\u7406\u3002The mo",
+    "id": "anbeime/skill",
+    "language": "Python",
+    "name": "anbeime/skill",
+    "stars": 8588,
+    "updated_at": "2026-10-24T06:56:24Z",
+    "url": "https://github.com/anbeime/skill"
+  },
+  {
+    "description": "Dazzler: frontend design skill for AI with expressive typography, vibrant color theory, and purposeful interfaces.",
+    "id": "jongos/Dazzler",
+    "language": "Python",
+    "name": "jongos/Dazzler",
+    "stars": 3,
+    "updated_at": "2026-10-24T06:55:43Z",
+    "url": "https://github.com/jongos/Dazzler"
+  },
+  {
+    "description": "Open-source skills for Claude Code and Codex, with an MCP server, a PyPI package and Suede Awesome Everything, a directo",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 125,
+    "updated_at": "2026-10-24T06:51:48Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "GTM engineering skills for AI coding agents \u2014 build lead lists, find & verify emails, waterfall enrichment, lead scoring",
+    "id": "getcargohq/cargo-skills",
+    "language": "TypeScript",
+    "name": "getcargohq/cargo-skills",
+    "stars": 20,
+    "updated_at": "2026-10-24T06:57:31Z",
+    "url": "https://github.com/getcargohq/cargo-skills"
+  },
+  {
+    "description": "Background music for video, composed in code by Claude Opus 5.5: synth voices + a sampled SoundFont orchestra, rendered ",
+    "id": "ynginkim/op55",
+    "language": "JavaScript",
+    "name": "ynginkim/op55",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:53:21Z",
+    "url": "https://github.com/ynginkim/op55"
+  },
+  {
+    "description": "A serious harness for Claude Code. Specs before code, gates on every commit, the Code Audit Team on every merge. Ships a",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 25,
+    "updated_at": "2026-10-24T06:51:58Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
+    "id": "google/elephant-goldfish-model",
+    "language": "Python",
+    "name": "google/elephant-goldfish-model",
+    "stars": 368,
+    "updated_at": "2026-10-24T06:47:20Z",
+    "url": "https://github.com/google/elephant-goldfish-model"
+  },
+  {
+    "description": "Translate whole English books into Chinese editions that read like published translations, for about $1 a book. Consiste",
+    "id": "xubing0602/scriptorium",
+    "language": "Python",
+    "name": "xubing0602/scriptorium",
+    "stars": 0,
+    "updated_at": "2026-10-24T06:46:47Z",
+    "url": "https://github.com/xubing0602/scriptorium"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T06:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Link WhatsApp to Claude (or any MCP client) in ~20 minutes: a live self-refreshing QR page that makes pairing actually w",
     "id": "tonydzi/whatsapp-mcp-kit",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "PowerShell",
     "name": "tonydzi/telegram-mcp-kit",
     "stars": 6,
-    "updated_at": "2026-10-24T06:44:55Z",
+    "updated_at": "2026-10-24T06:46:16Z",
     "url": "https://github.com/tonydzi/telegram-mcp-kit"
   },
   {
@@ -131,7 +221,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70298,
-    "updated_at": "2026-10-24T06:39:56Z",
+    "updated_at": "2026-10-24T06:57:16Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -162,21 +252,12 @@
     "url": "https://github.com/solanabr/safe-ai-skill"
   },
   {
-    "description": "Dazzler: frontend design skill for AI with expressive typography, vibrant color theory, and purposeful interfaces.",
-    "id": "jongos/Dazzler",
-    "language": "Python",
-    "name": "jongos/Dazzler",
-    "stars": 3,
-    "updated_at": "2026-10-24T06:34:45Z",
-    "url": "https://github.com/jongos/Dazzler"
-  },
-  {
     "description": "A fast local vector store and code graph for AI agents \u2014 index your files once, keep it current as you save, and answer ",
     "id": "semlith/semlith",
     "language": "Rust",
     "name": "semlith/semlith",
     "stars": 5,
-    "updated_at": "2026-10-24T06:34:05Z",
+    "updated_at": "2026-10-24T06:52:26Z",
     "url": "https://github.com/semlith/semlith"
   },
   {
@@ -216,15 +297,6 @@
     "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T06:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "AI \u00d7 BDD spec-driven development for Claude Code. greenlight turns a feature request into human-approved, executable spe",
     "id": "iadr-dev/greenlight",
     "language": "Python",
@@ -239,7 +311,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 149,
-    "updated_at": "2026-10-24T06:28:15Z",
+    "updated_at": "2026-10-24T06:46:57Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -301,7 +373,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 106677,
+    "stars": 106678,
     "updated_at": "2026-10-24T06:22:29Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -342,21 +414,12 @@
     "url": "https://github.com/docsor1212/academic-figures"
   },
   {
-    "description": "Open-source skills for Claude Code and Codex, with an MCP server, a PyPI package and Suede Awesome Everything, a directo",
-    "id": "JasonColapietro/suede-creator-skills",
-    "language": "JavaScript",
-    "name": "JasonColapietro/suede-creator-skills",
-    "stars": 125,
-    "updated_at": "2026-10-24T06:33:23Z",
-    "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
     "name": "ikaijua/Awesome-AITools",
     "stars": 6240,
-    "updated_at": "2026-10-24T06:13:51Z",
+    "updated_at": "2026-10-24T06:58:17Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-24T06:07:27Z",
     "url": "https://github.com/polytheseus/real-estate-skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-24T06:07:04Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "\u53d1\u5e03\u524d\u62ff\u4f60\u81ea\u5df1\u7684\u6750\u6599\u6838\u5bf9\u6587\u6863\u91cc\u7684\u6bcf\u6761\u8bf4\u6cd5\uff1a\u6bcf\u6761\u5e26\u8bc1\u636e\uff0c\u6838\u4e0d\u52a8\u7684\u4e0d\u4e71\u5224 \u00b7 A Claude Code skill that audits claims against your own evidence",
-    "id": "panglezym/show-receipts",
-    "language": "Python",
-    "name": "panglezym/show-receipts",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:04:53Z",
-    "url": "https://github.com/panglezym/show-receipts"
-  },
-  {
-    "description": "Turn a mockup into a dev-ready handoff spec: tokens, component states, accessibility notes, open questions",
-    "id": "humbleteam/design-handoff",
-    "language": "\u2014",
-    "name": "humbleteam/design-handoff",
-    "stars": 1,
-    "updated_at": "2026-10-24T06:02:29Z",
-    "url": "https://github.com/humbleteam/design-handoff"
-  },
-  {
-    "description": "WCAG 2.2 accessibility audit skill for Claude Code - severity-ranked findings with success-criterion citations",
-    "id": "humbleteam/accessibility-audit",
-    "language": "\u2014",
-    "name": "humbleteam/accessibility-audit",
-    "stars": 2,
-    "updated_at": "2026-10-24T06:02:11Z",
-    "url": "https://github.com/humbleteam/accessibility-audit"
-  },
-  {
-    "description": "Agent Skill\uff1a\u628a\u4efb\u610f\u4e3b\u9898\u505a\u6210\u5e26\u914d\u97f3\u3001\u8bcd\u7ea7\u5b57\u5e55\u548c HTML/GSAP \u52a8\u6548\u753b\u9762\u7684\u8bb2\u89e3\u89c6\u9891\uff08MP4\uff09\u4e0e\u5c01\u9762\uff1b\u9010\u5e27\u786e\u5b9a\u6027\u6e32\u67d3\uff0c\u753b\u9762\u6309\u5410\u5b57\u65f6\u523b\u5bf9\u4f4d\u3002Turn any topic into a narrated explainer vide",
-    "id": "amliuyong/html-to-explainer-video",
-    "language": "Python",
-    "name": "amliuyong/html-to-explainer-video",
-    "stars": 5,
-    "updated_at": "2026-10-24T06:01:28Z",
-    "url": "https://github.com/amliuyong/html-to-explainer-video"
-  },
-  {
-    "description": "Canonical self-hosted repository for Claude Skills CLI packages with automated sync and validation",
-    "id": "newbe36524/myskills",
-    "language": "Python",
-    "name": "newbe36524/myskills",
-    "stars": 0,
-    "updated_at": "2026-10-24T06:00:42Z",
-    "url": "https://github.com/newbe36524/myskills"
-  },
-  {
-    "description": "A serious harness for Claude Code. Specs before code, gates on every commit, the Code Audit Team on every merge. Ships a",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 25,
-    "updated_at": "2026-10-24T06:06:35Z",
-    "url": "https://github.com/gaia-react/gaia"
   }
 ]
