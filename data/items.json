@@ -1,5 +1,86 @@
 [
   {
+    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
+    "id": "elsoul/erpc-sdk",
+    "language": "JavaScript",
+    "name": "elsoul/erpc-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-24T21:04:26Z",
+    "url": "https://github.com/elsoul/erpc-sdk"
+  },
+  {
+    "description": "Solid Claude",
+    "id": "Founderwithabs/SOLIDSFORYOU",
+    "language": "Python",
+    "name": "Founderwithabs/SOLIDSFORYOU",
+    "stars": 1,
+    "updated_at": "2026-10-24T21:02:29Z",
+    "url": "https://github.com/Founderwithabs/SOLIDSFORYOU"
+  },
+  {
+    "description": "Agent Skill that lets Claude Code, Codex, Cursor, Copilot and other AI agents set up and harden a Debian/Ubuntu VPS with",
+    "id": "mountain-beaver/vps-forge",
+    "language": "Shell",
+    "name": "mountain-beaver/vps-forge",
+    "stars": 4,
+    "updated_at": "2026-10-24T21:02:25Z",
+    "url": "https://github.com/mountain-beaver/vps-forge"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 106908,
+    "updated_at": "2026-10-24T21:04:41Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
+    "id": "martinambrus/haive",
+    "language": "TypeScript",
+    "name": "martinambrus/haive",
+    "stars": 5,
+    "updated_at": "2026-10-24T21:01:25Z",
+    "url": "https://github.com/martinambrus/haive"
+  },
+  {
+    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
+    "id": "MAhmed004/ad-ops-mcp-hub",
+    "language": "HTML",
+    "name": "MAhmed004/ad-ops-mcp-hub",
+    "stars": 2,
+    "updated_at": "2026-10-24T21:01:04Z",
+    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
+  },
+  {
+    "description": "Portable, vendor-neutral engineering agent skills. Installs on your agent when you pull the repo. Security, architecture",
+    "id": "techfleetworks/enterprise-software-AI-skills",
+    "language": "JavaScript",
+    "name": "techfleetworks/enterprise-software-AI-skills",
+    "stars": 1,
+    "updated_at": "2026-10-24T21:00:51Z",
+    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
+  },
+  {
+    "description": "Claude Code skill that finds system-design bugs (double charges, dual writes, unsafe retries) in your codebase or design",
+    "id": "stohirov/review-architecture",
+    "language": "Java",
+    "name": "stohirov/review-architecture",
+    "stars": 0,
+    "updated_at": "2026-10-24T21:00:43Z",
+    "url": "https://github.com/stohirov/review-architecture"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-24T21:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
     "id": "YoniChechik/claude-code-config",
     "language": "Shell",
@@ -27,15 +108,6 @@
     "url": "https://github.com/chrislacey89/skills"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 106907,
-    "updated_at": "2026-10-24T20:57:33Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
     "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
     "language": "Python",
@@ -52,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T20:55:59Z",
     "url": "https://github.com/rocosen/flashdata-mcp"
-  },
-  {
-    "description": "Agent Skill that lets Claude Code, Codex, Cursor, Copilot and other AI agents set up and harden a Debian/Ubuntu VPS with",
-    "id": "mountain-beaver/vps-forge",
-    "language": "Shell",
-    "name": "mountain-beaver/vps-forge",
-    "stars": 4,
-    "updated_at": "2026-10-24T20:54:06Z",
-    "url": "https://github.com/mountain-beaver/vps-forge"
-  },
-  {
-    "description": "Deterministic multi-CLI orchestration and AI agentic workflow utility.",
-    "id": "martinambrus/haive",
-    "language": "TypeScript",
-    "name": "martinambrus/haive",
-    "stars": 5,
-    "updated_at": "2026-10-24T20:53:48Z",
-    "url": "https://github.com/martinambrus/haive"
   },
   {
     "description": "Claude commands that speed up everyday dev workflows",
@@ -142,15 +196,6 @@
     "stars": 11,
     "updated_at": "2026-10-24T20:45:55Z",
     "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T20:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code plugins I use every day: skills and mods, cleaned up so they work on anyone's machine.",
@@ -396,15 +441,6 @@
     "url": "https://github.com/getvibekits/vibe-coding-rules"
   },
   {
-    "description": "Claude Code skill that finds system-design bugs (double charges, dual writes, unsafe retries) in your codebase or design",
-    "id": "stohirov/review-architecture",
-    "language": "Java",
-    "name": "stohirov/review-architecture",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:58:56Z",
-    "url": "https://github.com/stohirov/review-architecture"
-  },
-  {
     "description": "A free, open-source add-on for Claude, ChatGPT, Codex and Cursor that turns a few plain answers into a design system, so",
     "id": "ckryptickunal/OpenDesigner",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-24T20:23:49Z",
     "url": "https://github.com/ckryptickunal/OpenDesigner"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-10-24T20:21:31Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Portable, vendor-neutral engineering agent skills. Installs on your agent when you pull the repo. Security, architecture",
-    "id": "techfleetworks/enterprise-software-AI-skills",
-    "language": "JavaScript",
-    "name": "techfleetworks/enterprise-software-AI-skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T20:56:31Z",
-    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
-  },
-  {
-    "description": "Claude Code skills for product designers: inspect Figma files, explore design directions, build editable Figma designs, ",
-    "id": "rainbows4dinos/design-agent-skills",
-    "language": "\u2014",
-    "name": "rainbows4dinos/design-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:21:10Z",
-    "url": "https://github.com/rainbows4dinos/design-agent-skills"
-  },
-  {
-    "description": "Edge finds task-fit agent skills, shows available evidence, and loads pinned versions into AI agents.",
-    "id": "getedgehq/skills",
-    "language": "Python",
-    "name": "getedgehq/skills",
-    "stars": 5,
-    "updated_at": "2026-10-24T20:20:59Z",
-    "url": "https://github.com/getedgehq/skills"
   }
 ]
