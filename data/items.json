@@ -1,12 +1,39 @@
 [
   {
-    "description": "Reliable GIS for AI agents \u2014 vector/raster, terrain, network access and scanned-map georeferencing as a Claude Code / Co",
-    "id": "shio-vinyl/gis-kit",
+    "description": "Curated catalog of 12 video-generation Skills for Claude Code \u2014 Manim, React Video, Screencast-to-Viral, and more.",
+    "id": "AIPMAndy/Andy-Video-Skill",
     "language": "Python",
-    "name": "shio-vinyl/gis-kit",
+    "name": "AIPMAndy/Andy-Video-Skill",
+    "stars": 2,
+    "updated_at": "2026-10-25T03:42:09Z",
+    "url": "https://github.com/AIPMAndy/Andy-Video-Skill"
+  },
+  {
+    "description": "Remove ads from the Google TV / Android TV home screen and speed the TV up over ADB, no root. Claude Code skill: debloat",
+    "id": "JohnWayneeee/cleantv",
+    "language": "Java",
+    "name": "JohnWayneeee/cleantv",
     "stars": 0,
-    "updated_at": "2026-10-25T03:28:59Z",
-    "url": "https://github.com/shio-vinyl/gis-kit"
+    "updated_at": "2026-10-25T03:41:11Z",
+    "url": "https://github.com/JohnWayneeee/cleantv"
+  },
+  {
+    "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playboo",
+    "id": "nexorahai-svg/claude-knowledge-library",
+    "language": "HTML",
+    "name": "nexorahai-svg/claude-knowledge-library",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:41:36Z",
+    "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-25T03:44:00Z",
+    "url": "https://github.com/inkatze/planwright"
   },
   {
     "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
@@ -14,8 +41,44 @@
     "language": "TypeScript",
     "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "stars": 3074,
-    "updated_at": "2026-10-25T03:27:23Z",
+    "updated_at": "2026-10-25T03:37:25Z",
     "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70319,
+    "updated_at": "2026-10-25T03:33:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 4,
+    "updated_at": "2026-10-25T03:30:34Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T03:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Reliable GIS for AI agents \u2014 vector/raster, terrain, network access and scanned-map georeferencing as a Claude Code / Co",
+    "id": "shio-vinyl/gis-kit",
+    "language": "Python",
+    "name": "shio-vinyl/gis-kit",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:28:59Z",
+    "url": "https://github.com/shio-vinyl/gis-kit"
   },
   {
     "description": "",
@@ -59,17 +122,8 @@
     "language": "JavaScript",
     "name": "paureis/pau-skills",
     "stars": 0,
-    "updated_at": "2026-10-25T03:24:29Z",
+    "updated_at": "2026-10-25T03:34:19Z",
     "url": "https://github.com/paureis/pau-skills"
-  },
-  {
-    "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playboo",
-    "id": "nexorahai-svg/claude-knowledge-library",
-    "language": "HTML",
-    "name": "nexorahai-svg/claude-knowledge-library",
-    "stars": 0,
-    "updated_at": "2026-10-25T03:23:44Z",
-    "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
   },
   {
     "description": "",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "inatbalthazar/humanizer-th",
     "stars": 0,
-    "updated_at": "2026-10-25T03:21:49Z",
+    "updated_at": "2026-10-25T03:44:05Z",
     "url": "https://github.com/inatbalthazar/humanizer-th"
   },
   {
@@ -103,18 +157,9 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 107010,
+    "stars": 107014,
     "updated_at": "2026-10-25T03:18:26Z",
     "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T03:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
@@ -122,7 +167,7 @@
     "language": "JavaScript",
     "name": "fattain-naime/engineering-docs",
     "stars": 6,
-    "updated_at": "2026-10-25T03:06:51Z",
+    "updated_at": "2026-10-25T03:31:46Z",
     "url": "https://github.com/fattain-naime/engineering-docs"
   },
   {
@@ -220,7 +265,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 102852,
+    "stars": 102856,
     "updated_at": "2026-10-25T02:52:43Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -259,15 +304,6 @@
     "stars": 8,
     "updated_at": "2026-10-25T02:46:54Z",
     "url": "https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70318,
-    "updated_at": "2026-10-25T03:17:23Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Skills for brand design, auditing, and the creation of design systems",
@@ -400,7 +436,7 @@
     "id": "morganlinton/BeautifulRust",
     "language": "Python",
     "name": "morganlinton/BeautifulRust",
-    "stars": 240,
+    "stars": 246,
     "updated_at": "2026-10-25T02:19:48Z",
     "url": "https://github.com/morganlinton/BeautifulRust"
   },
@@ -412,41 +448,5 @@
     "stars": 148,
     "updated_at": "2026-10-25T03:26:49Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
-  },
-  {
-    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
-    "id": "abbyuraffi-netizen/maxvision-claude-forge",
-    "language": "HTML",
-    "name": "abbyuraffi-netizen/maxvision-claude-forge",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:10:38Z",
-    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
-    "id": "solanabr/ai-kit",
-    "language": "Shell",
-    "name": "solanabr/ai-kit",
-    "stars": 111,
-    "updated_at": "2026-10-25T02:06:11Z",
-    "url": "https://github.com/solanabr/ai-kit"
-  },
-  {
-    "description": "Explainer pages for readers with ADHD or a short working memory. A Claude Code plugin and Agent Skills that turn agent o",
-    "id": "ariasr47/glance-explainer",
-    "language": "HTML",
-    "name": "ariasr47/glance-explainer",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:03:00Z",
-    "url": "https://github.com/ariasr47/glance-explainer"
-  },
-  {
-    "description": "Skill marketplace for Claude Code, pi and Codex \u2014 install one skill per plugin, or read the vendored tree. External skil",
-    "id": "filippolmt/skills",
-    "language": "HTML",
-    "name": "filippolmt/skills",
-    "stars": 1,
-    "updated_at": "2026-10-25T02:00:49Z",
-    "url": "https://github.com/filippolmt/skills"
   }
 ]
