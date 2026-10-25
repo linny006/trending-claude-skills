@@ -1,5 +1,95 @@
 [
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107008,
+    "updated_at": "2026-10-25T03:07:19Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
+    "id": "fattain-naime/engineering-docs",
+    "language": "JavaScript",
+    "name": "fattain-naime/engineering-docs",
+    "stars": 6,
+    "updated_at": "2026-10-25T03:06:51Z",
+    "url": "https://github.com/fattain-naime/engineering-docs"
+  },
+  {
+    "description": "Run coding agents anywhere and keep one record of the work, with tools and memory in sync across your harnesses. Local f",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 81,
+    "updated_at": "2026-10-25T03:06:45Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "A serious harness for Claude Code. Specs before code, gates on every commit, the Code Audit Team on every merge. Ships a",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 26,
+    "updated_at": "2026-10-25T03:11:36Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "\u623f\u4e1c\u519b\u5e08 \u2014 \u4e2d\u6587 Airbnb \u77ed\u79df\u5168\u6d41\u7a0b\u8fd0\u8425 Claude Skill\uff1a\u5ba2\u4eba\u6d88\u606f\u3001\u65e5\u5386\u3001\u5b9a\u4ef7\u3001\u5c4b\u4e3b\u6708\u62a5\u4e0e\u8d26\u5355\u3001\u8bc4\u4f30\u6d4b\u7b97",
+    "id": "sf-ryanyan/host-strategist",
+    "language": "Python",
+    "name": "sf-ryanyan/host-strategist",
+    "stars": 1,
+    "updated_at": "2026-10-25T03:05:27Z",
+    "url": "https://github.com/sf-ryanyan/host-strategist"
+  },
+  {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 35,
+    "updated_at": "2026-10-25T03:04:48Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "\u4e2d\u5f0f\u4eba\u6587\u7eaa\u5f55\u7247\u89e3\u8bf4\u8bcd\u5199\u4f5c\u6280\u80fd \u00b7 \u4e09\u9636\u6bb5\u6d41\u7a0b\u3001\u5341\u4e8c\u6761\u786c\u89c4\u5219\u3001\u53ef\u6d4b\u98ce\u683c\u9608\u503c\u4e0e\u4f53\u68c0\u811a\u672c",
+    "id": "YBaiSS/documentary-script",
+    "language": "Python",
+    "name": "YBaiSS/documentary-script",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:03:48Z",
+    "url": "https://github.com/YBaiSS/documentary-script"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1270,
+    "updated_at": "2026-10-25T03:03:09Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "An AI-assistant skill that turns a short story (Chinese, English or Korean) into an episodic AI drama: script, storyboar",
+    "id": "azrianobr/dramazing",
+    "language": "JavaScript",
+    "name": "azrianobr/dramazing",
+    "stars": 1,
+    "updated_at": "2026-10-25T03:00:35Z",
+    "url": "https://github.com/azrianobr/dramazing"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T03:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Turns a YAML scene into an SVG and tells an AI, in text, what it drew and what is wrong with it.",
     "id": "guilhermebkel/scenec",
     "language": "TypeScript",
@@ -27,15 +117,6 @@
     "url": "https://github.com/wilsonwu-ai/claude-graph-skills"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 107004,
-    "updated_at": "2026-10-25T02:57:15Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Names the harness piece behind each problem in your sessions, what it cost, and whether the fix worked.",
     "id": "guilhermebkel/harness-ledger",
     "language": "TypeScript",
@@ -49,7 +130,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 102846,
+    "stars": 102850,
     "updated_at": "2026-10-25T02:52:43Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -85,27 +166,18 @@
     "id": "Speedrunlab/reverse-engineer-anything-self-learning-loop",
     "language": "\u2014",
     "name": "Speedrunlab/reverse-engineer-anything-self-learning-loop",
-    "stars": 7,
+    "stars": 8,
     "updated_at": "2026-10-25T02:46:54Z",
     "url": "https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T02:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 35,
-    "updated_at": "2026-10-25T02:42:26Z",
-    "url": "https://github.com/travsteward/openwriter"
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70318,
+    "updated_at": "2026-10-25T03:02:04Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "inatbalthazar/humanizer-th",
     "stars": 0,
-    "updated_at": "2026-10-25T02:44:11Z",
+    "updated_at": "2026-10-25T03:11:35Z",
     "url": "https://github.com/inatbalthazar/humanizer-th"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T02:40:53Z",
     "url": "https://github.com/Yasmani-Vinamagua/design-system-skill"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70317,
-    "updated_at": "2026-10-25T02:46:33Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -149,7 +212,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-10-25T02:38:57Z",
+    "updated_at": "2026-10-25T03:14:10Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -185,17 +248,8 @@
     "language": "Python",
     "name": "jgoneit/jaekit",
     "stars": 0,
-    "updated_at": "2026-10-25T02:33:29Z",
+    "updated_at": "2026-10-25T03:10:41Z",
     "url": "https://github.com/jgoneit/jaekit"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1270,
-    "updated_at": "2026-10-25T02:38:33Z",
-    "url": "https://github.com/reticlehq/reticle"
   },
   {
     "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
@@ -274,18 +328,9 @@
     "id": "morganlinton/BeautifulRust",
     "language": "Python",
     "name": "morganlinton/BeautifulRust",
-    "stars": 229,
+    "stars": 237,
     "updated_at": "2026-10-25T02:19:48Z",
     "url": "https://github.com/morganlinton/BeautifulRust"
-  },
-  {
-    "description": "Run coding agents anywhere and keep one record of the work, with tools and memory in sync across your harnesses. Local f",
-    "id": "escoffier-labs/brigade",
-    "language": "Python",
-    "name": "escoffier-labs/brigade",
-    "stars": 81,
-    "updated_at": "2026-10-25T02:59:22Z",
-    "url": "https://github.com/escoffier-labs/brigade"
   },
   {
     "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
@@ -340,24 +385,6 @@
     "stars": 486,
     "updated_at": "2026-10-25T02:00:45Z",
     "url": "https://github.com/google/elephant-goldfish-model"
-  },
-  {
-    "description": "A serious harness for Claude Code. Specs before code, gates on every commit, the Code Audit Team on every merge. Ships a",
-    "id": "gaia-react/gaia",
-    "language": "Shell",
-    "name": "gaia-react/gaia",
-    "stars": 26,
-    "updated_at": "2026-10-25T02:50:13Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
-    "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
-    "id": "fattain-naime/engineering-docs",
-    "language": "JavaScript",
-    "name": "fattain-naime/engineering-docs",
-    "stars": 6,
-    "updated_at": "2026-10-25T02:52:13Z",
-    "url": "https://github.com/fattain-naime/engineering-docs"
   },
   {
     "description": "Agent skills for people tired of AI slop. 35 skills, 11 subagents, 41 rules and 5 hooks for Claude Code, Cursor and Code",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-25T01:41:51Z",
     "url": "https://github.com/williamhorschak-dev/wisconsin-legal-ai-skills"
-  },
-  {
-    "description": "Independently checked Go API ports and original Gooo policy programs for coding agents, with stdio MCP, native CLI previ",
-    "id": "kimjooyoon/gooo-go-ports",
-    "language": "Go",
-    "name": "kimjooyoon/gooo-go-ports",
-    "stars": 1,
-    "updated_at": "2026-10-25T02:35:05Z",
-    "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
-    "description": "The control plane for game-dev agents \u2014 close the loop with verified compile, test, and cross-model review across Unity,",
-    "id": "tykisgod/quick-question",
-    "language": "Python",
-    "name": "tykisgod/quick-question",
-    "stars": 13,
-    "updated_at": "2026-10-25T01:38:40Z",
-    "url": "https://github.com/tykisgod/quick-question"
-  },
-  {
-    "description": "Claude Code skills for product designers: inspect Figma files, explore design directions, build editable Figma designs, ",
-    "id": "rainbows4dinos/design-agent-skills",
-    "language": "\u2014",
-    "name": "rainbows4dinos/design-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:37:18Z",
-    "url": "https://github.com/rainbows4dinos/design-agent-skills"
   }
 ]
