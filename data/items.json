@@ -1,5 +1,50 @@
 [
   {
+    "description": "Adversarial review for AI-produced work: red-team decisions, plans, claims and code, plus bounded PR review. Claude skil",
+    "id": "rivendale/ai-redteam",
+    "language": "Python",
+    "name": "rivendale/ai-redteam",
+    "stars": 2,
+    "updated_at": "2026-10-25T12:02:07Z",
+    "url": "https://github.com/rivendale/ai-redteam"
+  },
+  {
+    "description": "A Claude skill that answers questions about a UK company from the Companies House register, and refuses to fill the gaps",
+    "id": "Quantum3-tech/uk-company-check-skill",
+    "language": "\u2014",
+    "name": "Quantum3-tech/uk-company-check-skill",
+    "stars": 0,
+    "updated_at": "2026-10-25T12:01:29Z",
+    "url": "https://github.com/Quantum3-tech/uk-company-check-skill"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6245,
+    "updated_at": "2026-10-25T12:01:08Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102951,
+    "updated_at": "2026-10-25T12:00:51Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T12:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
     "id": "Darkmalan-1987/sparring-reason",
     "language": "HTML",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "karero/croftweaver",
     "stars": 8,
-    "updated_at": "2026-10-25T11:57:30Z",
+    "updated_at": "2026-10-25T12:01:55Z",
     "url": "https://github.com/karero/croftweaver"
   },
   {
@@ -85,7 +130,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 107116,
+    "stars": 107117,
     "updated_at": "2026-10-25T11:53:29Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -106,15 +151,6 @@
     "stars": 16,
     "updated_at": "2026-10-25T11:53:17Z",
     "url": "https://github.com/StasPotapov/present"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 102951,
-    "updated_at": "2026-10-25T11:52:31Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "A collection of mainly my own productivity plugins for Claude Code.",
@@ -157,7 +193,7 @@
     "id": "morganlinton/BeautifulRust",
     "language": "Python",
     "name": "morganlinton/BeautifulRust",
-    "stars": 389,
+    "stars": 391,
     "updated_at": "2026-10-25T11:48:49Z",
     "url": "https://github.com/morganlinton/BeautifulRust"
   },
@@ -214,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T11:45:32Z",
     "url": "https://github.com/waynehamadi/datacircle"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T11:45:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Hosted anonymous MCP/HTTP: PyPI wheel evidence; mathematical IPv4/IPv6 CIDR-set differences, counts and witnesses. Exact",
@@ -355,7 +382,7 @@
     "id": "CorvinLabs/CorvinOS",
     "language": "Python",
     "name": "CorvinLabs/CorvinOS",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-10-25T11:31:38Z",
     "url": "https://github.com/CorvinLabs/CorvinOS"
   },
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-25T11:55:47Z",
     "url": "https://github.com/madrobotnet/3dprint-scout"
-  },
-  {
-    "description": "ChemDraw Skill \u00b7 AI \u7ed8\u5236\u53ef\u7f16\u8f91\u5316\u5b66\u7ed3\u6784\u5f0f \u2014 Editable ChemDraw structures for Claude Code, Codex & any AI agent: draw molecules, reb",
-    "id": "ZiChenWang114514/chemdraw-skill",
-    "language": "Python",
-    "name": "ZiChenWang114514/chemdraw-skill",
-    "stars": 28,
-    "updated_at": "2026-10-25T11:55:42Z",
-    "url": "https://github.com/ZiChenWang114514/chemdraw-skill"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70325,
-    "updated_at": "2026-10-25T11:53:27Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "\u0418\u0418-\u0441\u043a\u0438\u043b\u043b\u044b \u0438 \u043f\u043b\u0430\u0433\u0438\u043d\u044b \u0434\u043b\u044f \u044e\u0440\u0438\u0441\u0442\u043e\u0432 \u0438 \u0430\u0434\u0432\u043e\u043a\u0430\u0442\u043e\u0432 (Claude Code): \u0430\u0434\u0432\u043e\u043a\u0430\u0442 \u0434\u044c\u044f\u0432\u043e\u043b\u0430, \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f \u043f\u043e \u0434\u0435\u043b\u0443, \u0445\u043e\u0434\u0430\u0442\u0430\u0439\u0441\u0442\u0432\u0430, \u043a\u043b\u0438\u0435\u043d\u0442\u0441\u043a\u0438\u0435 \u0440",
-    "id": "arsenyajurist-sudo/legal-skills",
-    "language": "\u2014",
-    "name": "arsenyajurist-sudo/legal-skills",
-    "stars": 1,
-    "updated_at": "2026-10-25T11:21:30Z",
-    "url": "https://github.com/arsenyajurist-sudo/legal-skills"
   }
 ]
