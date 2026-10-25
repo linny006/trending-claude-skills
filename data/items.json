@@ -1,5 +1,95 @@
 [
   {
+    "description": "Skills that started with problems I encountered.",
+    "id": "MrBinnacle/skills",
+    "language": "Python",
+    "name": "MrBinnacle/skills",
+    "stars": 1,
+    "updated_at": "2026-10-25T23:25:00Z",
+    "url": "https://github.com/MrBinnacle/skills"
+  },
+  {
+    "description": "Claude Skills for Roblox/Luau: simulator & tycoon economy design with a Lune pacing calculator (cost curves, rebirths, o",
+    "id": "2328312928-commits/roblox-luau-skill",
+    "language": "Luau",
+    "name": "2328312928-commits/roblox-luau-skill",
+    "stars": 0,
+    "updated_at": "2026-10-25T23:25:02Z",
+    "url": "https://github.com/2328312928-commits/roblox-luau-skill"
+  },
+  {
+    "description": "Create an all-CG save \u2014 unlock every CG / gallery / recollection room in your own offline single-player saves. Agent ski",
+    "id": "xixi048/create-all-cg-save",
+    "language": "Python",
+    "name": "xixi048/create-all-cg-save",
+    "stars": 0,
+    "updated_at": "2026-10-25T23:24:16Z",
+    "url": "https://github.com/xixi048/create-all-cg-save"
+  },
+  {
+    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
+    "id": "CorvinLabs/CorvinOS",
+    "language": "Python",
+    "name": "CorvinLabs/CorvinOS",
+    "stars": 20,
+    "updated_at": "2026-10-25T23:22:42Z",
+    "url": "https://github.com/CorvinLabs/CorvinOS"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107283,
+    "updated_at": "2026-10-25T23:21:27Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
+    "id": "Rick-254/moodle-quizsmith",
+    "language": "HTML",
+    "name": "Rick-254/moodle-quizsmith",
+    "stars": 0,
+    "updated_at": "2026-10-25T23:20:15Z",
+    "url": "https://github.com/Rick-254/moodle-quizsmith"
+  },
+  {
+    "description": "Claude Code skills for operating infrastructure in production",
+    "id": "ap369/infra-skills",
+    "language": "Python",
+    "name": "ap369/infra-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T23:19:10Z",
+    "url": "https://github.com/ap369/infra-skills"
+  },
+  {
+    "description": "Portable, vendor-neutral engineering agent skills. Installs on your agent when you pull the repo. Security, architecture",
+    "id": "techfleetworks/enterprise-software-AI-skills",
+    "language": "JavaScript",
+    "name": "techfleetworks/enterprise-software-AI-skills",
+    "stars": 1,
+    "updated_at": "2026-10-25T23:21:25Z",
+    "url": "https://github.com/techfleetworks/enterprise-software-AI-skills"
+  },
+  {
+    "description": "Claude skill: grill the product from the user's side and fix the gaps",
+    "id": "kevlar10x/gtp",
+    "language": "\u2014",
+    "name": "kevlar10x/gtp",
+    "stars": 0,
+    "updated_at": "2026-10-25T23:15:26Z",
+    "url": "https://github.com/kevlar10x/gtp"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T23:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Plugin: Local Linear AI agent, your favorite harness",
     "id": "mikhailkogan17/cycler",
     "language": "JavaScript",
@@ -23,7 +113,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-25T23:13:31Z",
+    "updated_at": "2026-10-25T23:20:55Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -50,17 +140,8 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 37,
-    "updated_at": "2026-10-25T23:12:33Z",
+    "updated_at": "2026-10-25T23:26:10Z",
     "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 20,
-    "updated_at": "2026-10-25T23:12:05Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
   },
   {
     "description": "Claude Code & Codex skills that make coding agents prove their work: risk-proportional workflows, CI proof gates, debugg",
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 444,
-    "updated_at": "2026-10-25T23:08:52Z",
+    "updated_at": "2026-10-25T23:25:54Z",
     "url": "https://github.com/aiskillstore/marketplace"
   },
   {
@@ -126,15 +207,6 @@
     "url": "https://github.com/deciqAI/knowledge-skills"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 107280,
-    "updated_at": "2026-10-25T23:06:39Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Claude Code plugin for evidence-based research digests from the feeds you follow: keeps only articles with measured resu",
     "id": "r-hural/evidence-echo",
     "language": "Python",
@@ -171,13 +243,13 @@
     "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
   },
   {
-    "description": "Claude Code skills for operating infrastructure in production",
-    "id": "ap369/infra-skills",
-    "language": "Python",
-    "name": "ap369/infra-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:02:09Z",
-    "url": "https://github.com/ap369/infra-skills"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70331,
+    "updated_at": "2026-10-25T23:03:30Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Skills for Claude Code that stop your agent from breaking production: post-deploy smoke, prove it's live, safe git acros",
@@ -205,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T23:00:32Z",
     "url": "https://github.com/dakcoh/commerce-backend-expert"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T23:00:17Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -311,7 +374,7 @@
     "language": "Go",
     "name": "kimjooyoon/gooo-go-ports",
     "stars": 1,
-    "updated_at": "2026-10-25T22:52:05Z",
+    "updated_at": "2026-10-25T23:28:13Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
   },
   {
@@ -369,15 +432,6 @@
     "url": "https://github.com/scenario-labs/skills"
   },
   {
-    "description": "Create an all-CG save \u2014 unlock every CG / gallery / recollection room in your own offline single-player saves. Agent ski",
-    "id": "xixi048/create-all-cg-save",
-    "language": "Python",
-    "name": "xixi048/create-all-cg-save",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:40:27Z",
-    "url": "https://github.com/xixi048/create-all-cg-save"
-  },
-  {
     "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
     "id": "tjq001/hv-code-templates",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T22:38:36Z",
     "url": "https://github.com/tamtree-ai/stick-stage"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-10-25T22:37:49Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
-    "id": "boshu2/agentops",
-    "language": "Go",
-    "name": "boshu2/agentops",
-    "stars": 450,
-    "updated_at": "2026-10-25T23:07:49Z",
-    "url": "https://github.com/boshu2/agentops"
-  },
-  {
-    "description": "\ud83c\udfe8 Hotel AI Skills 2026: Enterprise Revenue & P&L Optimization Suite",
-    "id": "sujal11101/hotel-ai-operations-suite",
-    "language": "HTML",
-    "name": "sujal11101/hotel-ai-operations-suite",
-    "stars": 2,
-    "updated_at": "2026-10-25T22:35:21Z",
-    "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
-  },
-  {
-    "description": "Skill de Claude que analiza las m\u00e9tricas de los bancos argentinos como un estratega senior: datos oficiales del BCRA e I",
-    "id": "AGVD-CODE/Banking-Metrics-Analyst",
-    "language": "Python",
-    "name": "AGVD-CODE/Banking-Metrics-Analyst",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:34:53Z",
-    "url": "https://github.com/AGVD-CODE/Banking-Metrics-Analyst"
-  },
-  {
-    "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playboo",
-    "id": "nexorahai-svg/claude-knowledge-library",
-    "language": "Python",
-    "name": "nexorahai-svg/claude-knowledge-library",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:31:52Z",
-    "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1271,
-    "updated_at": "2026-10-25T22:30:47Z",
-    "url": "https://github.com/reticlehq/reticle"
   }
 ]
