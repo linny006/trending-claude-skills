@@ -1,21 +1,57 @@
 [
   {
+    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
+    "id": "kurone-kito/idd-skill",
+    "language": "TypeScript",
+    "name": "kurone-kito/idd-skill",
+    "stars": 11,
+    "updated_at": "2026-10-25T21:48:37Z",
+    "url": "https://github.com/kurone-kito/idd-skill"
+  },
+  {
     "description": "Claude Code plugin that syncs your Claude Code, Git, SSH, project, VS Code, and GitHub CLI config across machines, encry",
     "id": "qiaeru/skill-dotfiles-sync",
     "language": "Shell",
     "name": "qiaeru/skill-dotfiles-sync",
     "stars": 1,
-    "updated_at": "2026-10-25T21:43:22Z",
+    "updated_at": "2026-10-25T21:48:01Z",
     "url": "https://github.com/qiaeru/skill-dotfiles-sync"
   },
   {
-    "description": "A skill for terminal AI agents that turns your lecture PDFs into study notes that explain the why: fact-checked against ",
-    "id": "blackpaired/ai-study-notes",
-    "language": "Shell",
-    "name": "blackpaired/ai-study-notes",
+    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
+    "id": "doomsday-network/doomsday",
+    "language": "Python",
+    "name": "doomsday-network/doomsday",
+    "stars": 22,
+    "updated_at": "2026-10-25T21:47:10Z",
+    "url": "https://github.com/doomsday-network/doomsday"
+  },
+  {
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
+    "id": "scenario-labs/skills",
+    "language": "Python",
+    "name": "scenario-labs/skills",
+    "stars": 1132,
+    "updated_at": "2026-10-25T21:47:20Z",
+    "url": "https://github.com/scenario-labs/skills"
+  },
+  {
+    "description": "Claude Code skill that catches App Store rejections before you submit: paywall disclosures, review prompts, ATT, permiss",
+    "id": "acalise/ios-app-rejection-checker",
+    "language": "Python",
+    "name": "acalise/ios-app-rejection-checker",
     "stars": 2,
-    "updated_at": "2026-10-25T21:43:18Z",
-    "url": "https://github.com/blackpaired/ai-study-notes"
+    "updated_at": "2026-10-25T21:45:39Z",
+    "url": "https://github.com/acalise/ios-app-rejection-checker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T21:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -23,35 +59,8 @@
     "language": "Python",
     "name": "martinholovsky/SOTA-skills",
     "stars": 23,
-    "updated_at": "2026-10-25T21:43:15Z",
+    "updated_at": "2026-10-25T21:47:08Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "A skill for terminal AI agents that turns your lecture notes into Anki packages: basic, cloze and image occlusion cards,",
-    "id": "blackpaired/ai-study-anki",
-    "language": "Python",
-    "name": "blackpaired/ai-study-anki",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:43:14Z",
-    "url": "https://github.com/blackpaired/ai-study-anki"
-  },
-  {
-    "description": "A skill for terminal AI agents that teaches you your lecture notes step by step like a private tutor: core rules first, ",
-    "id": "blackpaired/ai-study-tutor",
-    "language": "Shell",
-    "name": "blackpaired/ai-study-tutor",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:43:10Z",
-    "url": "https://github.com/blackpaired/ai-study-tutor"
-  },
-  {
-    "description": "A skill for terminal AI agents that quizzes you on your lecture notes like an oral examiner: one question at a time, det",
-    "id": "blackpaired/ai-study-quiz",
-    "language": "Shell",
-    "name": "blackpaired/ai-study-quiz",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:43:05Z",
-    "url": "https://github.com/blackpaired/ai-study-quiz"
   },
   {
     "description": "DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context tha",
@@ -151,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T21:30:45Z",
     "url": "https://github.com/alexzvency-ship-it/claude-browser-automator"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T21:30:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skills for building Go and Node.js apps on Google Cloud: Firestore, Cloud SQL, Cloud Run and App Engine, plu",
@@ -265,7 +265,7 @@
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 107268,
+    "stars": 107270,
     "updated_at": "2026-10-25T21:22:36Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -304,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T21:20:56Z",
     "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
-    "id": "kurone-kito/idd-skill",
-    "language": "TypeScript",
-    "name": "kurone-kito/idd-skill",
-    "stars": 11,
-    "updated_at": "2026-10-25T21:20:24Z",
-    "url": "https://github.com/kurone-kito/idd-skill"
   },
   {
     "description": "Agent skills and goal-state loops for Claude Code, Kiro and Codex: fan-out with verification, evidence-first PRs, stacke",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-10-25T21:05:21Z",
     "url": "https://github.com/Weiming3/skill-publisher"
+  },
+  {
+    "description": "AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plu",
+    "id": "codenamev/ai-software-architect",
+    "language": "JavaScript",
+    "name": "codenamev/ai-software-architect",
+    "stars": 79,
+    "updated_at": "2026-10-25T21:05:02Z",
+    "url": "https://github.com/codenamev/ai-software-architect"
   }
 ]
