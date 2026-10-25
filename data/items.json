@@ -1,12 +1,39 @@
 [
   {
-    "description": "9 Claude skills for NSE India intraday trading: scanner, news, entry/exit on NSE ticks, 10,000-session relay, rupee sizi",
-    "id": "parinshahAIbuilder/nse-day-trader-skill",
+    "description": "Script + screenshots in, a narrated product walkthrough out. Ships as a static web page or MP4. Claude Code / Codex skil",
+    "id": "SilverNine/script-to-guide",
+    "language": "TypeScript",
+    "name": "SilverNine/script-to-guide",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:59:00Z",
+    "url": "https://github.com/SilverNine/script-to-guide"
+  },
+  {
+    "description": "AI \u5199\u597d\u4e86\u8f6f\u4ef6\uff0c\u6388\u6743\u600e\u4e48\u4fdd\u62a4\uff1f\u4ece\u516c\u5f00\u7834\u89e3\u6848\u4f8b\u53cd\u63a8\u5361\u5bc6\u3001\u6fc0\u6d3b\u7801\u3001\u79bb\u7ebf\u8bb8\u53ef\u8bc1\u4e0e\u8054\u7f51\u9a8c\u8bc1\u8bbe\u8ba1\u3002Vendor-neutral Agent Skill for software licensing, license key validation, ",
+    "id": "MuCheng2007/software-protection-skill",
     "language": "Python",
-    "name": "parinshahAIbuilder/nse-day-trader-skill",
-    "stars": 1,
-    "updated_at": "2026-10-25T08:45:01Z",
-    "url": "https://github.com/parinshahAIbuilder/nse-day-trader-skill"
+    "name": "MuCheng2007/software-protection-skill",
+    "stars": 2,
+    "updated_at": "2026-10-25T08:57:44Z",
+    "url": "https://github.com/MuCheng2007/software-protection-skill"
+  },
+  {
+    "description": "Your coding agent says \"done.\" These skills make it mean it. Sharpen the axe first.",
+    "id": "akshay-diwadkar/first-four-hours",
+    "language": "Python",
+    "name": "akshay-diwadkar/first-four-hours",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:50:09Z",
+    "url": "https://github.com/akshay-diwadkar/first-four-hours"
+  },
+  {
+    "description": "\u300c\u5feb\u70b9\u4e0b\u73ed\u300d\u5de5\u4f5c\u7cfb\u7edf\u2014\u2014\u9762\u5411\u8111\u529b\u5de5\u4f5c\u8005\u7684 40 \u4e2a\u804c\u573a Agent Skills\uff08\u6c9f\u901a\u6c47\u62a5\u3001\u4f1a\u8bae\u3001\u804c\u4e1a\u9009\u62e9\uff1b\u975e\u6e38\u620f/\u9b54\u517d\uff09\u3002Workplace skills for Claude Code / Codex / ZCode / Kimi-CL",
+    "id": "dennydkt/xbskill",
+    "language": "Python",
+    "name": "dennydkt/xbskill",
+    "stars": 2,
+    "updated_at": "2026-10-25T08:49:39Z",
+    "url": "https://github.com/dennydkt/xbskill"
   },
   {
     "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
@@ -14,8 +41,62 @@
     "language": "Python",
     "name": "jianshuo/claude-skills",
     "stars": 137,
-    "updated_at": "2026-10-25T08:44:33Z",
+    "updated_at": "2026-10-25T08:49:06Z",
     "url": "https://github.com/jianshuo/claude-skills"
+  },
+  {
+    "description": "Evidence-based Claude skill to build and run a dating-app profile: photos, bio, prompts, messaging, KPIs.",
+    "id": "lucasbaret/online-dating-protocol",
+    "language": "\u2014",
+    "name": "lucasbaret/online-dating-protocol",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:48:53Z",
+    "url": "https://github.com/lucasbaret/online-dating-protocol"
+  },
+  {
+    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
+    "id": "YoniChechik/claude-code-config",
+    "language": "Shell",
+    "name": "YoniChechik/claude-code-config",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:46:56Z",
+    "url": "https://github.com/YoniChechik/claude-code-config"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 88892,
+    "updated_at": "2026-10-25T08:46:31Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
+    "id": "ragnarwestad/aide",
+    "language": "TypeScript",
+    "name": "ragnarwestad/aide",
+    "stars": 1,
+    "updated_at": "2026-10-25T08:45:36Z",
+    "url": "https://github.com/ragnarwestad/aide"
+  },
+  {
+    "description": "9 Claude skills for NSE India intraday trading: scanner, news, entry/exit on NSE ticks, 10,000-session relay, rupee sizi",
+    "id": "parinshahAIbuilder/nse-day-trader-skill",
+    "language": "Python",
+    "name": "parinshahAIbuilder/nse-day-trader-skill",
+    "stars": 1,
+    "updated_at": "2026-10-25T08:45:23Z",
+    "url": "https://github.com/parinshahAIbuilder/nse-day-trader-skill"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T08:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The wayback machine for Agent Skills: 1,170+ skills from 24 sources, any two side by side, any skill's commit-by-commit ",
@@ -63,11 +144,20 @@
     "url": "https://github.com/ikaijua/Awesome-AITools"
   },
   {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70326,
+    "updated_at": "2026-10-25T08:40:09Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "The open-source app everyone uses to manage agents at work",
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 107077,
+    "stars": 107081,
     "updated_at": "2026-10-25T08:39:38Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -126,15 +216,6 @@
     "url": "https://github.com/polytheseus/trades-skills"
   },
   {
-    "description": "Personal Claude Code configuration (hooks, commands, agents, settings).",
-    "id": "YoniChechik/claude-code-config",
-    "language": "Shell",
-    "name": "YoniChechik/claude-code-config",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:36:24Z",
-    "url": "https://github.com/YoniChechik/claude-code-config"
-  },
-  {
     "description": "Free AI skills for Vinted, eBay, Etsy and Depop sellers: listings buyers find, calm replies to offers and claims, UK tax",
     "id": "polytheseus/seller-skills",
     "language": "\u2014",
@@ -171,15 +252,6 @@
     "url": "https://github.com/parinshahAIbuilder/india-finance-agent-skills"
   },
   {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 88892,
-    "updated_at": "2026-10-25T08:41:59Z",
-    "url": "https://github.com/tt-a1i/archify"
-  },
-  {
     "description": "Agent skill: build fact-checked, multilingual, pre-rendered portfolio websites for real people with any AI coding agent ",
     "id": "Worakornk/portfolio-site-builder",
     "language": "\u2014",
@@ -187,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T08:34:25Z",
     "url": "https://github.com/Worakornk/portfolio-site-builder"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70327,
-    "updated_at": "2026-10-25T08:40:09Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
@@ -234,30 +297,12 @@
     "url": "https://github.com/Ovid/paad"
   },
   {
-    "description": "Script + screenshots in, a narrated product walkthrough out. Ships as a static web page or MP4. Claude Code / Codex skil",
-    "id": "SilverNine/script-to-guide",
-    "language": "TypeScript",
-    "name": "SilverNine/script-to-guide",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:30:40Z",
-    "url": "https://github.com/SilverNine/script-to-guide"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T08:30:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Independently checked Go API ports and original Gooo policy programs for coding agents, with stdio MCP, native CLI previ",
     "id": "kimjooyoon/gooo-go-ports",
     "language": "Go",
     "name": "kimjooyoon/gooo-go-ports",
     "stars": 1,
-    "updated_at": "2026-10-25T08:32:31Z",
+    "updated_at": "2026-10-25T08:56:31Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T08:05:02Z",
     "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
-  },
-  {
-    "description": "Skill cho tr\u1ee3 l\u00fd AI h\u1ed7 tr\u1ee3 vi\u1ebft v\u00e0 ph\u1ea3n bi\u1ec7n v\u0103n b\u1ea3n l\u1eadp lu\u1eadn h\u1ecdc thu\u1eadt b\u1eb1ng ti\u1ebfng Vi\u1ec7t, t\u1eadp trung v\u00e0o b\u1ed1i c\u1ea3nh MBA/EMBA",
-    "id": "sefxvn16/emba-skill",
-    "language": "\u2014",
-    "name": "sefxvn16/emba-skill",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:16:53Z",
-    "url": "https://github.com/sefxvn16/emba-skill"
-  },
-  {
-    "description": "43 Codex skills and 221 engineering workflows for mapping, review, debugging and verification.",
-    "id": "arty-kk/vibe-coding",
-    "language": "HTML",
-    "name": "arty-kk/vibe-coding",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:02:45Z",
-    "url": "https://github.com/arty-kk/vibe-coding"
-  },
-  {
-    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
-    "id": "24bsc244-svg/pdlc-forge",
-    "language": "HTML",
-    "name": "24bsc244-svg/pdlc-forge",
-    "stars": 3,
-    "updated_at": "2026-10-25T07:59:21Z",
-    "url": "https://github.com/24bsc244-svg/pdlc-forge"
-  },
-  {
-    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
-    "id": "karero/croftweaver",
-    "language": "Python",
-    "name": "karero/croftweaver",
-    "stars": 8,
-    "updated_at": "2026-10-25T07:58:42Z",
-    "url": "https://github.com/karero/croftweaver"
-  },
-  {
-    "description": "Crawlora Agent Skills \u2014 structured public web data (search, e-commerce, social, finance, app stores, media, reviews) via",
-    "id": "Crawlora-org/crawlora-skills",
-    "language": "Shell",
-    "name": "Crawlora-org/crawlora-skills",
-    "stars": 1,
-    "updated_at": "2026-10-25T07:58:26Z",
-    "url": "https://github.com/Crawlora-org/crawlora-skills"
   }
 ]
