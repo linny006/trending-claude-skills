@@ -1,5 +1,77 @@
 [
   {
+    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
+    "id": "yngbrll/vb-winforms-toolkit",
+    "language": "HTML",
+    "name": "yngbrll/vb-winforms-toolkit",
+    "stars": 1,
+    "updated_at": "2026-10-25T03:59:16Z",
+    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
+  },
+  {
+    "description": "How two coding agents (Claude Code and Codex CLI) share one memory: standing rules, per-project facts, an external-memor",
+    "id": "ericpardee/agent-files",
+    "language": "Python",
+    "name": "ericpardee/agent-files",
+    "stars": 3,
+    "updated_at": "2026-10-25T03:58:08Z",
+    "url": "https://github.com/ericpardee/agent-files"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107019,
+    "updated_at": "2026-10-25T03:55:32Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playboo",
+    "id": "nexorahai-svg/claude-knowledge-library",
+    "language": "Python",
+    "name": "nexorahai-svg/claude-knowledge-library",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:53:03Z",
+    "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
+  },
+  {
+    "description": "Design-pattern judgment for coding agents: all 23 GoF patterns, when NOT to use them, the cheaper alternative, and how t",
+    "id": "DreamOfXM/head-first-design-patterns",
+    "language": "Python",
+    "name": "DreamOfXM/head-first-design-patterns",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:48:30Z",
+    "url": "https://github.com/DreamOfXM/head-first-design-patterns"
+  },
+  {
+    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
+    "id": "YPares/rigup.nix",
+    "language": "Nix",
+    "name": "YPares/rigup.nix",
+    "stars": 96,
+    "updated_at": "2026-10-25T03:47:45Z",
+    "url": "https://github.com/YPares/rigup.nix"
+  },
+  {
+    "description": "Curated library of 68+ Sovereign On-Demand Runbooks & Operational Skills for AI Agents. Standardized 20-keyword frontmat",
+    "id": "flowork-os/FLOWORK-SKILLS",
+    "language": "TypeScript",
+    "name": "flowork-os/FLOWORK-SKILLS",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:46:57Z",
+    "url": "https://github.com/flowork-os/FLOWORK-SKILLS"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T03:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Curated catalog of 12 video-generation Skills for Claude Code \u2014 Manim, React Video, Screencast-to-Viral, and more.",
     "id": "AIPMAndy/Andy-Video-Skill",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T03:41:11Z",
     "url": "https://github.com/JohnWayneeee/cleantv"
-  },
-  {
-    "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playboo",
-    "id": "nexorahai-svg/claude-knowledge-library",
-    "language": "HTML",
-    "name": "nexorahai-svg/claude-knowledge-library",
-    "stars": 0,
-    "updated_at": "2026-10-25T03:41:36Z",
-    "url": "https://github.com/nexorahai-svg/claude-knowledge-library"
   },
   {
     "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70319,
-    "updated_at": "2026-10-25T03:33:09Z",
+    "updated_at": "2026-10-25T03:54:04Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T03:30:34Z",
     "url": "https://github.com/chrislacey89/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T03:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Reliable GIS for AI agents \u2014 vector/raster, terrain, network access and scanned-map georeferencing as a Claude Code / Co",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "inatbalthazar/humanizer-th",
     "stars": 0,
-    "updated_at": "2026-10-25T03:44:05Z",
+    "updated_at": "2026-10-25T03:57:07Z",
     "url": "https://github.com/inatbalthazar/humanizer-th"
   },
   {
@@ -153,15 +207,6 @@
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 107014,
-    "updated_at": "2026-10-25T03:18:26Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
     "id": "fattain-naime/engineering-docs",
     "language": "JavaScript",
@@ -176,7 +221,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 26,
-    "updated_at": "2026-10-25T03:11:36Z",
+    "updated_at": "2026-10-25T03:45:59Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -265,7 +310,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 102856,
+    "stars": 102862,
     "updated_at": "2026-10-25T02:52:43Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -301,7 +346,7 @@
     "id": "Speedrunlab/reverse-engineer-anything-self-learning-loop",
     "language": "\u2014",
     "name": "Speedrunlab/reverse-engineer-anything-self-learning-loop",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-10-25T02:46:54Z",
     "url": "https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop"
   },
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-25T02:26:15Z",
     "url": "https://github.com/Lycheetah/Lycheetah-Framework"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 194,
-    "updated_at": "2026-10-25T02:22:36Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "Plugin do Claude Code para orquestrar times de agentes de IA com spec como contrato. O Orchestrator decide o time m\u00ednimo",
-    "id": "renanpchaves/sdd-karazhan",
-    "language": "Shell",
-    "name": "renanpchaves/sdd-karazhan",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:20:36Z",
-    "url": "https://github.com/renanpchaves/sdd-karazhan"
-  },
-  {
-    "description": "Script + screenshots in, a narrated product walkthrough out. Ships as a static web page or MP4. Claude Code / Codex skil",
-    "id": "SilverNine/script-to-guide",
-    "language": "TypeScript",
-    "name": "SilverNine/script-to-guide",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:19:51Z",
-    "url": "https://github.com/SilverNine/script-to-guide"
-  },
-  {
-    "description": "A Claude Code plugin that teaches Claude to write idiomatic, robust Rust",
-    "id": "morganlinton/BeautifulRust",
-    "language": "Python",
-    "name": "morganlinton/BeautifulRust",
-    "stars": 246,
-    "updated_at": "2026-10-25T02:19:48Z",
-    "url": "https://github.com/morganlinton/BeautifulRust"
-  },
-  {
-    "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
-    "id": "arbiterForge/codeArbiter",
-    "language": "Python",
-    "name": "arbiterForge/codeArbiter",
-    "stars": 148,
-    "updated_at": "2026-10-25T03:26:49Z",
-    "url": "https://github.com/arbiterForge/codeArbiter"
   }
 ]
