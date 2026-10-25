@@ -1,5 +1,50 @@
 [
   {
+    "description": "Business data as geometry that AI agents navigate: investigation workflows for anomaly triage, root cause, fraud and AML",
+    "id": "hypertopos/hypertopos-skills",
+    "language": "\u2014",
+    "name": "hypertopos/hypertopos-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:12:46Z",
+    "url": "https://github.com/hypertopos/hypertopos-skills"
+  },
+  {
+    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
+    "id": "elsoul/erpc-sdk",
+    "language": "JavaScript",
+    "name": "elsoul/erpc-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-25T19:14:54Z",
+    "url": "https://github.com/elsoul/erpc-sdk"
+  },
+  {
+    "description": "Scan AI agent skills, plugins, MCP servers, and CLI tools (npm/PyPI/Go, cargo, release binaries, curl|bash installers) f",
+    "id": "elliottwaves-20/agent-guard",
+    "language": "Python",
+    "name": "elliottwaves-20/agent-guard",
+    "stars": 5,
+    "updated_at": "2026-10-25T19:12:33Z",
+    "url": "https://github.com/elliottwaves-20/agent-guard"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T19:11:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107238,
+    "updated_at": "2026-10-25T19:10:04Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
     "description": "An Agent Skill for any coding agent that turns a technical blog post into a LeetCode-style workbook: rebuild what the po",
     "id": "knmn2000/tech-blog-to-workbook",
     "language": "Python",
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-25T19:08:34Z",
+    "updated_at": "2026-10-25T19:13:52Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -49,7 +94,7 @@
     "id": "backnotprop/pstack",
     "language": "JavaScript",
     "name": "backnotprop/pstack",
-    "stars": 2778,
+    "stars": 2779,
     "updated_at": "2026-10-25T19:07:35Z",
     "url": "https://github.com/backnotprop/pstack"
   },
@@ -108,15 +153,6 @@
     "url": "https://github.com/ilan-uzan/claude-money-skills"
   },
   {
-    "description": "ERPC Official Multi-Network Blockchain SDK Built for Developers. Ready for AI Agents.",
-    "id": "elsoul/erpc-sdk",
-    "language": "JavaScript",
-    "name": "elsoul/erpc-sdk",
-    "stars": 2,
-    "updated_at": "2026-10-25T19:09:21Z",
-    "url": "https://github.com/elsoul/erpc-sdk"
-  },
-  {
     "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
     "id": "trevhud/rote",
     "language": "Python",
@@ -171,15 +207,6 @@
     "url": "https://github.com/arifszn/seemore-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T19:00:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR ",
     "id": "jayjayholic/jstack",
     "language": "TypeScript",
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "hraness/wordcell",
     "stars": 16,
-    "updated_at": "2026-10-25T18:55:13Z",
+    "updated_at": "2026-10-25T19:11:29Z",
     "url": "https://github.com/hraness/wordcell"
   },
   {
@@ -351,15 +378,6 @@
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 107236,
-    "updated_at": "2026-10-25T19:10:04Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
     "id": "alexzvency-ship-it/claude-browser-automator",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T18:45:27Z",
     "url": "https://github.com/lhg-skills/lhg-writing"
-  },
-  {
-    "description": "Compare API policies and saved MCP catalogs with Gooo. Offline CLIs, service-grant MCP tools, and replayable results.",
-    "id": "kimjooyoon/gooo-go-ports",
-    "language": "Go",
-    "name": "kimjooyoon/gooo-go-ports",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:45:21Z",
-    "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
-    "description": "A Claude Code skill that writes, voices and renders two-character explainer skits about your product, with TikTok, Insta",
-    "id": "divinadevosai/skit-studio",
-    "language": "HTML",
-    "name": "divinadevosai/skit-studio",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:45:09Z",
-    "url": "https://github.com/divinadevosai/skit-studio"
   }
 ]
