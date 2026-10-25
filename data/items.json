@@ -1,5 +1,104 @@
 [
   {
+    "description": "Turns a YAML scene into an SVG and tells an AI, in text, what it drew and what is wrong with it.",
+    "id": "guilhermebkel/scenec",
+    "language": "TypeScript",
+    "name": "guilhermebkel/scenec",
+    "stars": 1,
+    "updated_at": "2026-10-25T02:59:08Z",
+    "url": "https://github.com/guilhermebkel/scenec"
+  },
+  {
+    "description": "Open-source skills for Claude Code and Codex, with an MCP server, a PyPI package and Suede Awesome Everything, a directo",
+    "id": "JasonColapietro/suede-creator-skills",
+    "language": "JavaScript",
+    "name": "JasonColapietro/suede-creator-skills",
+    "stars": 125,
+    "updated_at": "2026-10-25T02:58:39Z",
+    "url": "https://github.com/JasonColapietro/suede-creator-skills"
+  },
+  {
+    "description": "Three Claude Code skills: /graph plans and gates agent fan-out, /bakeoff runs a blind champion/challenger test of build ",
+    "id": "wilsonwu-ai/claude-graph-skills",
+    "language": "TypeScript",
+    "name": "wilsonwu-ai/claude-graph-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:58:23Z",
+    "url": "https://github.com/wilsonwu-ai/claude-graph-skills"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107004,
+    "updated_at": "2026-10-25T02:57:15Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Names the harness piece behind each problem in your sessions, what it cost, and whether the fix worked.",
+    "id": "guilhermebkel/harness-ledger",
+    "language": "TypeScript",
+    "name": "guilhermebkel/harness-ledger",
+    "stars": 5,
+    "updated_at": "2026-10-25T02:57:08Z",
+    "url": "https://github.com/guilhermebkel/harness-ledger"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102846,
+    "updated_at": "2026-10-25T02:52:43Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Claude Code skill: engineering lessons for DFT (VASP) -> Wannier90 -> tight-binding -> Brillouin-zone transport calculat",
+    "id": "DarrenWongKaWa/dft-wannier-transport-skill",
+    "language": "\u2014",
+    "name": "DarrenWongKaWa/dft-wannier-transport-skill",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:52:42Z",
+    "url": "https://github.com/DarrenWongKaWa/dft-wannier-transport-skill"
+  },
+  {
+    "description": "\u83b7\u53d6\u6296\u97f3\u771f\u5b9e\u4e00\u624b\u6570\u636e\uff0c\u9006\u5411\u62c6\u89e3\u6296\u97f3\u5e73\u53f0\u8d26\u53f7\uff0c\u6839\u636e\u8d26\u53f7\u4e92\u52a8\u6570\u636e\u53ca\u8d26\u53f7\u4f5c\u54c1\u6570\u636e\uff0c\u4ea7\u51fa\u53ef\u590d\u523b\u7684\u8fd0\u8425\u624b\u518c\u3002\u5f53\u7528\u6237\u63d0\u51fa\u300c\u62c6\u89e3\u67d0\u8d26\u53f7\u300d\u300c\u5206\u6790\u5bf9\u6807\u53f7\u300d\u300c\u770b\u770bXX\u53f7\u4e3a\u4ec0\u4e48\u706b\u300d\u300c\u590d\u523b\u8fd9\u4e2a\u8d26\u53f7\u7684\u98ce\u683c\u300d\u300c\u6293\u53d6\u6296\u97f3\u8d26\u53f7\u6570\u636e\u300d\u300c\u7ade\u54c1\u8d26\u53f7\u5206\u6790\u300d\u300c\u5bf9\u6807\u8d26\u53f7\u6570\u636e\u300d\u300c\u8d26\u53f7\u8bca",
+    "id": "why20261/douyin-account-teardown",
+    "language": "JavaScript",
+    "name": "why20261/douyin-account-teardown",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:49:11Z",
+    "url": "https://github.com/why20261/douyin-account-teardown"
+  },
+  {
+    "description": "Agent skill: publish files to a permanent deed.page URL with one curl request. No account.",
+    "id": "f-o-x11/deed-page-skill",
+    "language": "\u2014",
+    "name": "f-o-x11/deed-page-skill",
+    "stars": 2,
+    "updated_at": "2026-10-25T02:48:16Z",
+    "url": "https://github.com/f-o-x11/deed-page-skill"
+  },
+  {
+    "description": "Agent skill: examine a product you're authorised to rebuild, build your own, then test against the original and fix gaps",
+    "id": "Speedrunlab/reverse-engineer-anything-self-learning-loop",
+    "language": "\u2014",
+    "name": "Speedrunlab/reverse-engineer-anything-self-learning-loop",
+    "stars": 7,
+    "updated_at": "2026-10-25T02:46:54Z",
+    "url": "https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T02:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
     "id": "travsteward/openwriter",
     "language": "TypeScript",
@@ -32,7 +131,7 @@
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70317,
-    "updated_at": "2026-10-25T02:43:30Z",
+    "updated_at": "2026-10-25T02:46:33Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -45,22 +144,13 @@
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
   },
   {
-    "description": "Turns a YAML scene into an SVG and tells an AI, in text, what it drew and what is wrong with it.",
-    "id": "guilhermebkel/scenec",
-    "language": "TypeScript",
-    "name": "guilhermebkel/scenec",
-    "stars": 1,
-    "updated_at": "2026-10-25T02:39:33Z",
-    "url": "https://github.com/guilhermebkel/scenec"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 106998,
-    "updated_at": "2026-10-25T02:44:37Z",
-    "url": "https://github.com/paperclipai/paperclip"
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage design, buil",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:38:57Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "A shared task board for people and their Claude agents, built as one claude.ai artifact. Views drawn by code, not tokens",
@@ -112,18 +202,9 @@
     "id": "ikaijua/Awesome-AITools",
     "language": "Python",
     "name": "ikaijua/Awesome-AITools",
-    "stars": 6243,
+    "stars": 6244,
     "updated_at": "2026-10-25T02:30:54Z",
     "url": "https://github.com/ikaijua/Awesome-AITools"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T02:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Skills Claude Code pour cr\u00e9er ton SaaS personnel (Cloudflare, Convex, Lumail, Stripe) : grill-me, audit-safety et plus. ",
@@ -193,18 +274,9 @@
     "id": "morganlinton/BeautifulRust",
     "language": "Python",
     "name": "morganlinton/BeautifulRust",
-    "stars": 223,
+    "stars": 229,
     "updated_at": "2026-10-25T02:19:48Z",
     "url": "https://github.com/morganlinton/BeautifulRust"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 102847,
-    "updated_at": "2026-10-25T02:35:52Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Run coding agents anywhere and keep one record of the work, with tools and memory in sync across your harnesses. Local f",
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "escoffier-labs/brigade",
     "stars": 81,
-    "updated_at": "2026-10-25T02:37:41Z",
+    "updated_at": "2026-10-25T02:59:22Z",
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
@@ -221,7 +293,7 @@
     "language": "Python",
     "name": "arbiterForge/codeArbiter",
     "stars": 148,
-    "updated_at": "2026-10-25T02:15:35Z",
+    "updated_at": "2026-10-25T02:57:16Z",
     "url": "https://github.com/arbiterForge/codeArbiter"
   },
   {
@@ -265,7 +337,7 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 484,
+    "stars": 486,
     "updated_at": "2026-10-25T02:00:45Z",
     "url": "https://github.com/google/elephant-goldfish-model"
   },
@@ -275,7 +347,7 @@
     "language": "Shell",
     "name": "gaia-react/gaia",
     "stars": 26,
-    "updated_at": "2026-10-25T01:59:19Z",
+    "updated_at": "2026-10-25T02:50:13Z",
     "url": "https://github.com/gaia-react/gaia"
   },
   {
@@ -284,17 +356,8 @@
     "language": "JavaScript",
     "name": "fattain-naime/engineering-docs",
     "stars": 6,
-    "updated_at": "2026-10-25T02:41:34Z",
+    "updated_at": "2026-10-25T02:52:13Z",
     "url": "https://github.com/fattain-naime/engineering-docs"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:38:57Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Agent skills for people tired of AI slop. 35 skills, 11 subagents, 41 rules and 5 hooks for Claude Code, Cursor and Code",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T01:37:18Z",
     "url": "https://github.com/rainbows4dinos/design-agent-skills"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-10-25T01:31:25Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
-    "id": "martinholovsky/SOTA-skills",
-    "language": "Python",
-    "name": "martinholovsky/SOTA-skills",
-    "stars": 23,
-    "updated_at": "2026-10-25T01:28:35Z",
-    "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-25T01:27:55Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Build reusable, agent-readable frameworks from any domain expertise. Open methodology + worked examples from a 1,000+ fr",
-    "id": "framework-creator/framework-builder",
-    "language": "\u2014",
-    "name": "framework-creator/framework-builder",
-    "stars": 11,
-    "updated_at": "2026-10-25T01:27:53Z",
-    "url": "https://github.com/framework-creator/framework-builder"
-  },
-  {
-    "description": "Local-first credential broker for MCP. AI coding agents (Claude Code, Cursor, Codex\u2026) call APIs, SSH and databases throu",
-    "id": "ermoluk/mcp-warden",
-    "language": "Rust",
-    "name": "ermoluk/mcp-warden",
-    "stars": 1,
-    "updated_at": "2026-10-25T01:25:54Z",
-    "url": "https://github.com/ermoluk/mcp-warden"
-  },
-  {
-    "description": "Claude Code skills, subagents and hooks for an agent that proves its work.",
-    "id": "ehnruiz/claude-skills",
-    "language": "JavaScript",
-    "name": "ehnruiz/claude-skills",
-    "stars": 3,
-    "updated_at": "2026-10-25T01:25:19Z",
-    "url": "https://github.com/ehnruiz/claude-skills"
-  },
-  {
-    "description": "Claude skill for verifiable citations in APA 7 & IEEE \u2014 reliable sources, clickable hyperlinks and screenshot evidence o",
-    "id": "Chocax/citeproof-claude-skill",
-    "language": "Python",
-    "name": "Chocax/citeproof-claude-skill",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:25:16Z",
-    "url": "https://github.com/Chocax/citeproof-claude-skill"
   }
 ]
