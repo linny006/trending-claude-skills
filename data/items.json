@@ -1,5 +1,131 @@
 [
   {
+    "description": "Customs check for third-party agent skills before install or update: pin the revision, declare needed capabilities, scan",
+    "id": "fangdididi/skill-customs",
+    "language": "Python",
+    "name": "fangdididi/skill-customs",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:15:04Z",
+    "url": "https://github.com/fangdididi/skill-customs"
+  },
+  {
+    "description": "Pro Motion \u2014 a Claude Code skill for audio-first motion-graphics launch, brand & TVC films, rendered in code and cut to ",
+    "id": "jack-reson8/pro-motion",
+    "language": "JavaScript",
+    "name": "jack-reson8/pro-motion",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:14:58Z",
+    "url": "https://github.com/jack-reson8/pro-motion"
+  },
+  {
+    "description": "Copy That: taste-first skills for Claude Code and Codex. Launch films, launch plans, Chinese copy, share images, skills ",
+    "id": "jack-reson8/copy-that",
+    "language": "\u2014",
+    "name": "jack-reson8/copy-that",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:15:07Z",
+    "url": "https://github.com/jack-reson8/copy-that"
+  },
+  {
+    "description": "A Claude skill for writing skills that actually change what gets generated \u2014 with a static audit script",
+    "id": "jack-reson8/skill-skill",
+    "language": "Python",
+    "name": "jack-reson8/skill-skill",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:13:56Z",
+    "url": "https://github.com/jack-reson8/skill-skill"
+  },
+  {
+    "description": "Background music for video, composed in code by Claude Opus 5.5: synth voices + a sampled SoundFont orchestra, rendered ",
+    "id": "ynginkim/op55",
+    "language": "JavaScript",
+    "name": "ynginkim/op55",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:13:45Z",
+    "url": "https://github.com/ynginkim/op55"
+  },
+  {
+    "description": "Ready-to-install agent skills, each wrapping a nanoodle visual AI workflow \u2014 poster, photo restyle, jingle, narrated poe",
+    "id": "nanoodlecom/noodle-skills",
+    "language": "JavaScript",
+    "name": "nanoodlecom/noodle-skills",
+    "stars": 2,
+    "updated_at": "2026-10-25T00:12:28Z",
+    "url": "https://github.com/nanoodlecom/noodle-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:10:51Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "3 skills gratis de Claude Code para dise\u00f1adores, en espa\u00f1ol: UX writing con tuteo, contraste de colores y SEO b\u00e1sico.",
+    "id": "Clagoss/claude-code-para-disenadores",
+    "language": "JavaScript",
+    "name": "Clagoss/claude-code-para-disenadores",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:08:51Z",
+    "url": "https://github.com/Clagoss/claude-code-para-disenadores"
+  },
+  {
+    "description": "Agent skills that turn a user request into a finished song through theory-based composition, arrangement, mixing and mas",
+    "id": "emdashsmoker/music-agent-skills",
+    "language": "Python",
+    "name": "emdashsmoker/music-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:08:31Z",
+    "url": "https://github.com/emdashsmoker/music-agent-skills"
+  },
+  {
+    "description": "Agent Skills that write logically structured HWPX, DOCX and PPTX documents. HWPX, DOCX, PPTX \ubb38\uc11c\ub97c \ub17c\ub9ac\uc801\uc73c\ub85c \uc791\uc131\ud558\ub294 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \ubaa8\uc74c",
+    "id": "emdashsmoker/biz-docgen-agent-skills",
+    "language": "Python",
+    "name": "emdashsmoker/biz-docgen-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:08:29Z",
+    "url": "https://github.com/emdashsmoker/biz-docgen-agent-skills"
+  },
+  {
+    "description": "Lusona provides a guided, adaptive process for an AI agent to deliver a requested outcome. You set the outcome, constrai",
+    "id": "Lusona/ai-skills",
+    "language": "Shell",
+    "name": "Lusona/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:07:00Z",
+    "url": "https://github.com/Lusona/ai-skills"
+  },
+  {
+    "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance",
+    "id": "martinholovsky/SOTA-skills",
+    "language": "Python",
+    "name": "martinholovsky/SOTA-skills",
+    "stars": 23,
+    "updated_at": "2026-10-25T00:10:20Z",
+    "url": "https://github.com/martinholovsky/SOTA-skills"
+  },
+  {
+    "description": "Claude Code skills for operating infrastructure in production",
+    "id": "ap369/infra-skills",
+    "language": "Python",
+    "name": "ap369/infra-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:03:07Z",
+    "url": "https://github.com/ap369/infra-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T00:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "",
     "id": "rhawk117/rygentic-harness",
     "language": "Python",
@@ -7,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T23:59:11Z",
     "url": "https://github.com/rhawk117/rygentic-harness"
-  },
-  {
-    "description": "Rules and skills for coding agents: AI Skill Studio (CLAUDE.md, AGENTS.md, Cursor rules, SKILL.md generator), Skill Libr",
-    "id": "Saad-web-spec/DevScratchPad",
-    "language": "TypeScript",
-    "name": "Saad-web-spec/DevScratchPad",
-    "stars": 2,
-    "updated_at": "2026-10-24T23:54:48Z",
-    "url": "https://github.com/Saad-web-spec/DevScratchPad"
   },
   {
     "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
@@ -68,7 +185,7 @@
     "language": "TypeScript",
     "name": "martinambrus/haive",
     "stars": 5,
-    "updated_at": "2026-10-24T23:50:27Z",
+    "updated_at": "2026-10-25T00:11:13Z",
     "url": "https://github.com/martinambrus/haive"
   },
   {
@@ -97,15 +214,6 @@
     "stars": 5,
     "updated_at": "2026-10-24T23:45:31Z",
     "url": "https://github.com/chgagne/claude-skills-research"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-24T23:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
@@ -139,7 +247,7 @@
     "id": "thedotmack/claude-mem",
     "language": "TypeScript",
     "name": "thedotmack/claude-mem",
-    "stars": 102820,
+    "stars": 102822,
     "updated_at": "2026-10-24T23:40:31Z",
     "url": "https://github.com/thedotmack/claude-mem"
   },
@@ -151,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T23:39:47Z",
     "url": "https://github.com/Max-Levitskiy/skills"
-  },
-  {
-    "description": "Claude Code skills for operating infrastructure in production",
-    "id": "ap369/infra-skills",
-    "language": "Python",
-    "name": "ap369/infra-skills",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:37:10Z",
-    "url": "https://github.com/ap369/infra-skills"
   },
   {
     "description": "Turns a YAML scene into an SVG and tells an AI, in text, what it drew and what is wrong with it.",
@@ -306,31 +405,13 @@
     "url": "https://github.com/jfships/content-genome"
   },
   {
-    "description": "Copy That: taste-first skills for Claude Code and Codex. Launch films, launch plans, Chinese copy, share images, skills ",
-    "id": "jack-reson8/copy-that",
-    "language": "\u2014",
-    "name": "jack-reson8/copy-that",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:17:17Z",
-    "url": "https://github.com/jack-reson8/copy-that"
-  },
-  {
     "description": "\ud83e\udd16 An automated setup kit for implementing loop engineering based on issue-driven development in your repository; since 2",
     "id": "kurone-kito/idd-skill",
     "language": "TypeScript",
     "name": "kurone-kito/idd-skill",
     "stars": 11,
-    "updated_at": "2026-10-24T23:48:32Z",
+    "updated_at": "2026-10-25T00:11:12Z",
     "url": "https://github.com/kurone-kito/idd-skill"
-  },
-  {
-    "description": "A Claude skill for writing skills that actually change what gets generated \u2014 with a static audit script",
-    "id": "jack-reson8/skill-skill",
-    "language": "Python",
-    "name": "jack-reson8/skill-skill",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:15:45Z",
-    "url": "https://github.com/jack-reson8/skill-skill"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -367,86 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-24T23:09:10Z",
     "url": "https://github.com/itw-creative-works/workkit"
-  },
-  {
-    "description": "Open-source econometrics skill for Claude: diagnostics, causal inference (DiD, RDD, synthetic control), survival, text a",
-    "id": "FabianCornejo/econometric-skills",
-    "language": "Python",
-    "name": "FabianCornejo/econometric-skills",
-    "stars": 1,
-    "updated_at": "2026-10-24T23:06:44Z",
-    "url": "https://github.com/FabianCornejo/econometric-skills"
-  },
-  {
-    "description": "A Claude Code skill that builds your whole App Store page: screenshots, header and search video from your own design sys",
-    "id": "wojdan/appstoreconnect-setup",
-    "language": "JavaScript",
-    "name": "wojdan/appstoreconnect-setup",
-    "stars": 1,
-    "updated_at": "2026-10-24T23:05:28Z",
-    "url": "https://github.com/wojdan/appstoreconnect-setup"
-  },
-  {
-    "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
-    "id": "reem-plus/quiver-compass",
-    "language": "HTML",
-    "name": "reem-plus/quiver-compass",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:03:20Z",
-    "url": "https://github.com/reem-plus/quiver-compass"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:52:05Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
-  },
-  {
-    "description": "An AI agent skill: the Y Combinator Startup School playbook \u2014 rules, numbers, calculators. Unofficial summary.",
-    "id": "FulltimeMasha/unicorn-founder",
-    "language": "Python",
-    "name": "FulltimeMasha/unicorn-founder",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:02:23Z",
-    "url": "https://github.com/FulltimeMasha/unicorn-founder"
-  },
-  {
-    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
-    "id": "munexor/seo-opportunity-nexus",
-    "language": "HTML",
-    "name": "munexor/seo-opportunity-nexus",
-    "stars": 0,
-    "updated_at": "2026-10-24T23:01:06Z",
-    "url": "https://github.com/munexor/seo-opportunity-nexus"
-  },
-  {
-    "description": "\u2728 Personal plugins for Claude Code (& friends)... maybe worth sharing!",
-    "id": "emaballarin/ccplugins",
-    "language": "Python",
-    "name": "emaballarin/ccplugins",
-    "stars": 4,
-    "updated_at": "2026-10-24T23:00:49Z",
-    "url": "https://github.com/emaballarin/ccplugins"
-  },
-  {
-    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
-    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "language": "HTML",
-    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
-    "stars": 1,
-    "updated_at": "2026-10-24T23:00:40Z",
-    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
-  },
-  {
-    "description": "Modernize VB.NET WinForms Apps with Claude Code Skills on .NET 9 in 2026",
-    "id": "yngbrll/vb-winforms-toolkit",
-    "language": "HTML",
-    "name": "yngbrll/vb-winforms-toolkit",
-    "stars": 1,
-    "updated_at": "2026-10-24T23:00:33Z",
-    "url": "https://github.com/yngbrll/vb-winforms-toolkit"
   }
 ]
