@@ -1,5 +1,131 @@
 [
   {
+    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
+    "id": "travsteward/openwriter",
+    "language": "TypeScript",
+    "name": "travsteward/openwriter",
+    "stars": 35,
+    "updated_at": "2026-10-25T02:42:26Z",
+    "url": "https://github.com/travsteward/openwriter"
+  },
+  {
+    "description": "",
+    "id": "inatbalthazar/humanizer-th",
+    "language": "Python",
+    "name": "inatbalthazar/humanizer-th",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:44:11Z",
+    "url": "https://github.com/inatbalthazar/humanizer-th"
+  },
+  {
+    "description": "Skills for brand design, auditing, and the creation of design systems",
+    "id": "Yasmani-Vinamagua/design-system-skill",
+    "language": "\u2014",
+    "name": "Yasmani-Vinamagua/design-system-skill",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:40:53Z",
+    "url": "https://github.com/Yasmani-Vinamagua/design-system-skill"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70317,
+    "updated_at": "2026-10-25T02:43:30Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-10-25T02:40:07Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Turns a YAML scene into an SVG and tells an AI, in text, what it drew and what is wrong with it.",
+    "id": "guilhermebkel/scenec",
+    "language": "TypeScript",
+    "name": "guilhermebkel/scenec",
+    "stars": 1,
+    "updated_at": "2026-10-25T02:39:33Z",
+    "url": "https://github.com/guilhermebkel/scenec"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 106998,
+    "updated_at": "2026-10-25T02:44:37Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "A shared task board for people and their Claude agents, built as one claude.ai artifact. Views drawn by code, not tokens",
+    "id": "yulmucoffee/artiboard",
+    "language": "JavaScript",
+    "name": "yulmucoffee/artiboard",
+    "stars": 14,
+    "updated_at": "2026-10-25T02:37:01Z",
+    "url": "https://github.com/yulmucoffee/artiboard"
+  },
+  {
+    "description": "AI-Powered AST Context Engine: Outline-Driven Code Generation 2026",
+    "id": "consolascionw/prompt-to-pattern-design",
+    "language": "HTML",
+    "name": "consolascionw/prompt-to-pattern-design",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:33:58Z",
+    "url": "https://github.com/consolascionw/prompt-to-pattern-design"
+  },
+  {
+    "description": "AI Skill Finder 2026: Automated Search & Install for Claude Code",
+    "id": "lobisomenhomemafeminado/skill-vault",
+    "language": "HTML",
+    "name": "lobisomenhomemafeminado/skill-vault",
+    "stars": 1,
+    "updated_at": "2026-10-25T02:33:51Z",
+    "url": "https://github.com/lobisomenhomemafeminado/skill-vault"
+  },
+  {
+    "description": "Spec turns requests into goal documents; Seal implements, verifies, and records completion.",
+    "id": "jgoneit/jaekit",
+    "language": "Python",
+    "name": "jgoneit/jaekit",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:33:29Z",
+    "url": "https://github.com/jgoneit/jaekit"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1270,
+    "updated_at": "2026-10-25T02:38:33Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "Collection of AI-related utilities. Welcome to submit pull requests /\u6536\u85cfAI\u76f8\u5173\u7684\u5b9e\u7528\u5de5\u5177\uff0c\u6b22\u8fce\u63d0\u4ea4pull requests",
+    "id": "ikaijua/Awesome-AITools",
+    "language": "Python",
+    "name": "ikaijua/Awesome-AITools",
+    "stars": 6243,
+    "updated_at": "2026-10-25T02:30:54Z",
+    "url": "https://github.com/ikaijua/Awesome-AITools"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-25T02:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Skills Claude Code pour cr\u00e9er ton SaaS personnel (Cloudflare, Convex, Lumail, Stripe) : grill-me, audit-safety et plus. ",
     "id": "Melvynx/ai-maxxing-skills",
     "language": "HTML",
@@ -9,33 +135,6 @@
     "url": "https://github.com/Melvynx/ai-maxxing-skills"
   },
   {
-    "description": "",
-    "id": "inatbalthazar/humanizer-th",
-    "language": "Python",
-    "name": "inatbalthazar/humanizer-th",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:28:34Z",
-    "url": "https://github.com/inatbalthazar/humanizer-th"
-  },
-  {
-    "description": "Skills for brand design, auditing, and the creation of design systems",
-    "id": "Yasmani-Vinamagua/design-system-skill",
-    "language": "\u2014",
-    "name": "Yasmani-Vinamagua/design-system-skill",
-    "stars": 0,
-    "updated_at": "2026-10-25T02:27:10Z",
-    "url": "https://github.com/Yasmani-Vinamagua/design-system-skill"
-  },
-  {
-    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
-    "id": "reticlehq/reticle",
-    "language": "TypeScript",
-    "name": "reticlehq/reticle",
-    "stars": 1270,
-    "updated_at": "2026-10-25T02:26:48Z",
-    "url": "https://github.com/reticlehq/reticle"
-  },
-  {
     "description": "Comprehensive Claude Code skill bundle for Flare-family EVM development: chain registry, FTSO/FDC/FAssets/Smart Accounts",
     "id": "Thanasimos/Thanas-flare-builders-toolkit",
     "language": "TypeScript",
@@ -43,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T02:26:48Z",
     "url": "https://github.com/Thanasimos/Thanas-flare-builders-toolkit"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 106995,
-    "updated_at": "2026-10-25T02:26:29Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "Public method documents. How the work is thought and governed. Self-taught, in Dunedin. Not a commercial offer.",
@@ -103,9 +193,18 @@
     "id": "morganlinton/BeautifulRust",
     "language": "Python",
     "name": "morganlinton/BeautifulRust",
-    "stars": 218,
+    "stars": 223,
     "updated_at": "2026-10-25T02:19:48Z",
     "url": "https://github.com/morganlinton/BeautifulRust"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 102847,
+    "updated_at": "2026-10-25T02:35:52Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Run coding agents anywhere and keep one record of the work, with tools and memory in sync across your harnesses. Local f",
@@ -113,17 +212,8 @@
     "language": "Python",
     "name": "escoffier-labs/brigade",
     "stars": 81,
-    "updated_at": "2026-10-25T02:27:00Z",
+    "updated_at": "2026-10-25T02:37:41Z",
     "url": "https://github.com/escoffier-labs/brigade"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-25T02:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Open-source governance and hard gates for AI coding agents across Claude Code, Codex CLI, and Pi.",
@@ -142,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T02:10:38Z",
     "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70318,
-    "updated_at": "2026-10-25T02:09:21Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Claude Code / Codex / AI configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and se",
@@ -198,21 +279,12 @@
     "url": "https://github.com/gaia-react/gaia"
   },
   {
-    "description": "The open-source writing surface for AI agents. Markdown-native editor with pending change review \u2014 your agent writes, yo",
-    "id": "travsteward/openwriter",
-    "language": "TypeScript",
-    "name": "travsteward/openwriter",
-    "stars": 35,
-    "updated_at": "2026-10-25T01:57:30Z",
-    "url": "https://github.com/travsteward/openwriter"
-  },
-  {
     "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
     "id": "fattain-naime/engineering-docs",
     "language": "JavaScript",
     "name": "fattain-naime/engineering-docs",
     "stars": 6,
-    "updated_at": "2026-10-25T01:54:34Z",
+    "updated_at": "2026-10-25T02:41:34Z",
     "url": "https://github.com/fattain-naime/engineering-docs"
   },
   {
@@ -221,7 +293,7 @@
     "language": "Shell",
     "name": "cody-hutson/pmo-platform",
     "stars": 0,
-    "updated_at": "2026-10-25T02:26:09Z",
+    "updated_at": "2026-10-25T02:38:57Z",
     "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
@@ -293,7 +365,7 @@
     "language": "Go",
     "name": "kimjooyoon/gooo-go-ports",
     "stars": 1,
-    "updated_at": "2026-10-25T01:41:33Z",
+    "updated_at": "2026-10-25T02:35:05Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T01:25:16Z",
     "url": "https://github.com/Chocax/citeproof-claude-skill"
-  },
-  {
-    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster ",
-    "id": "isaccanedo/claude-code",
-    "language": "TypeScript",
-    "name": "isaccanedo/claude-code",
-    "stars": 1,
-    "updated_at": "2026-10-25T01:22:57Z",
-    "url": "https://github.com/isaccanedo/claude-code"
-  },
-  {
-    "description": "Agent Skills for subtitles and transcripts: check and fix subtitle reading speed (CPS) in SRT/VTT. Works in Claude Code,",
-    "id": "hypercube67-formal/scribetoany-skills",
-    "language": "Python",
-    "name": "hypercube67-formal/scribetoany-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:18:41Z",
-    "url": "https://github.com/hypercube67-formal/scribetoany-skills"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:18:37Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Pide la web de tu negocio en una l\u00ednea y recibe una p\u00e1gina con concepto propio, WhatsApp y auditor\u00eda, no otra plantilla ",
-    "id": "La-Boveda-del-Master/master-web",
-    "language": "Python",
-    "name": "La-Boveda-del-Master/master-web",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:18:22Z",
-    "url": "https://github.com/La-Boveda-del-Master/master-web"
-  },
-  {
-    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
-    "id": "skeptrunedev/call4me",
-    "language": "TypeScript",
-    "name": "skeptrunedev/call4me",
-    "stars": 14,
-    "updated_at": "2026-10-25T01:18:13Z",
-    "url": "https://github.com/skeptrunedev/call4me"
-  },
-  {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 6,
-    "updated_at": "2026-10-25T01:17:52Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
-    "description": "x402 pay-per-call tools for AI agents (USDC on Base): $0.001 OpenAI-compatible chat, web page reader, email verification",
-    "id": "letom1176-spec/orchard-data-mcp",
-    "language": "JavaScript",
-    "name": "letom1176-spec/orchard-data-mcp",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:17:22Z",
-    "url": "https://github.com/letom1176-spec/orchard-data-mcp"
-  },
-  {
-    "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR ",
-    "id": "jayjayholic/jstack",
-    "language": "TypeScript",
-    "name": "jayjayholic/jstack",
-    "stars": 1,
-    "updated_at": "2026-10-25T01:17:09Z",
-    "url": "https://github.com/jayjayholic/jstack"
   }
 ]
