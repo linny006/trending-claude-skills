@@ -1,5 +1,122 @@
 [
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107323,
+    "updated_at": "2026-10-26T02:14:27Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Slash commands for Claude Code \u2014 manage GitHub issues and pull requests, one focused workflow at a time.",
+    "id": "claude-contrib/claude-skills",
+    "language": "jq",
+    "name": "claude-contrib/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:13:51Z",
+    "url": "https://github.com/claude-contrib/claude-skills"
+  },
+  {
+    "description": "Skills and agents for Claude and Gemini",
+    "id": "AnaCataVC/amiga-ia",
+    "language": "JavaScript",
+    "name": "AnaCataVC/amiga-ia",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:11:33Z",
+    "url": "https://github.com/AnaCataVC/amiga-ia"
+  },
+  {
+    "description": "Curated agent plugins and tooling by Knitli",
+    "id": "knitli/toolshed",
+    "language": "Python",
+    "name": "knitli/toolshed",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:09:52Z",
+    "url": "https://github.com/knitli/toolshed"
+  },
+  {
+    "description": "LLM Wiki skills that structure knowledge on git with tags, lineage and version control.",
+    "id": "mengjiasun1992/structural-llm-wiki",
+    "language": "Python",
+    "name": "mengjiasun1992/structural-llm-wiki",
+    "stars": 2,
+    "updated_at": "2026-10-26T02:07:56Z",
+    "url": "https://github.com/mengjiasun1992/structural-llm-wiki"
+  },
+  {
+    "description": "Free AI skills for bookkeepers and small accounting practices: records chasers, transaction query lists, plain-English c",
+    "id": "polytheseus/bookkeeper-skills",
+    "language": "JavaScript",
+    "name": "polytheseus/bookkeeper-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:07:49Z",
+    "url": "https://github.com/polytheseus/bookkeeper-skills"
+  },
+  {
+    "description": "Skills and a git-guard hook for Claude Code and OpenCode: branch and PR workflow, secrets out of the code, clean code. D",
+    "id": "JuanJo24S/claude-develop-skills",
+    "language": "Shell",
+    "name": "JuanJo24S/claude-develop-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:06:34Z",
+    "url": "https://github.com/JuanJo24S/claude-develop-skills"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 4,
+    "updated_at": "2026-10-26T02:05:53Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 4438,
+    "updated_at": "2026-10-26T02:05:42Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "Agent Skills by mr-kelly",
+    "id": "mr-kelly/skills",
+    "language": "JavaScript",
+    "name": "mr-kelly/skills",
+    "stars": 5,
+    "updated_at": "2026-10-26T02:02:28Z",
+    "url": "https://github.com/mr-kelly/skills"
+  },
+  {
+    "description": "Security review for third-party Claude skills and plugins before you install them. Deterministic preflight + guided sema",
+    "id": "juli-amezquita/skill-security-reviewer",
+    "language": "Python",
+    "name": "juli-amezquita/skill-security-reviewer",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:02:11Z",
+    "url": "https://github.com/juli-amezquita/skill-security-reviewer"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-26T02:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70332,
+    "updated_at": "2026-10-26T02:14:13Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "Jeffy Loop is an autonomous software-engineering control system that forces an LLM to continuously audit, act, verify, c",
     "id": "lenamonj/jeffy-loop",
     "language": "Shell",
@@ -23,26 +140,8 @@
     "language": "Python",
     "name": "HunterGHall/jarvis",
     "stars": 0,
-    "updated_at": "2026-10-26T01:57:33Z",
+    "updated_at": "2026-10-26T02:00:35Z",
     "url": "https://github.com/HunterGHall/jarvis"
-  },
-  {
-    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
-    "id": "QingYunA/answer-me-with-html",
-    "language": "JavaScript",
-    "name": "QingYunA/answer-me-with-html",
-    "stars": 4437,
-    "updated_at": "2026-10-26T01:58:14Z",
-    "url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
-    "description": "LLM Wiki skills that structure knowledge on git with tags, lineage and version control.",
-    "id": "mengjiasun1992/structural-llm-wiki",
-    "language": "Python",
-    "name": "mengjiasun1992/structural-llm-wiki",
-    "stars": 1,
-    "updated_at": "2026-10-26T01:56:44Z",
-    "url": "https://github.com/mengjiasun1992/structural-llm-wiki"
   },
   {
     "description": "Agent Skills that help AI agents such as Claude Code drive desktop apps well.",
@@ -81,15 +180,6 @@
     "url": "https://github.com/AWEI-73/trace-code-lines"
   },
   {
-    "description": "Skills and agents for Claude and Gemini",
-    "id": "AnaCataVC/amiga-ia",
-    "language": "JavaScript",
-    "name": "AnaCataVC/amiga-ia",
-    "stars": 1,
-    "updated_at": "2026-10-26T01:50:25Z",
-    "url": "https://github.com/AnaCataVC/amiga-ia"
-  },
-  {
     "description": "Agent Skills for Claude Code, Cursor, Codex, Windsurf, Cline & OpenClaw: AI image generation, text to speech, talking he",
     "id": "beatra-ai/beatra-skills",
     "language": "Python",
@@ -112,7 +202,7 @@
     "id": "morganlinton/BeautifulRust",
     "language": "Python",
     "name": "morganlinton/BeautifulRust",
-    "stars": 756,
+    "stars": 765,
     "updated_at": "2026-10-26T01:48:37Z",
     "url": "https://github.com/morganlinton/BeautifulRust"
   },
@@ -142,15 +232,6 @@
     "stars": 37,
     "updated_at": "2026-10-26T01:45:16Z",
     "url": "https://github.com/transcendr/slopware-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-26T01:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR ",
@@ -207,24 +288,6 @@
     "url": "https://github.com/sherifabdlnaby/skills"
   },
   {
-    "description": "Security review for third-party Claude skills and plugins before you install them. Deterministic preflight + guided sema",
-    "id": "juli-amezquita/skill-security-reviewer",
-    "language": "Python",
-    "name": "juli-amezquita/skill-security-reviewer",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:40:33Z",
-    "url": "https://github.com/juli-amezquita/skill-security-reviewer"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 5,
-    "updated_at": "2026-10-26T01:53:16Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
     "description": "\u53d1\u5e03\u524d\u62ff\u4f60\u81ea\u5df1\u7684\u6750\u6599\u6838\u5bf9\u6587\u6863\u91cc\u7684\u6bcf\u6761\u8bf4\u6cd5\uff1a\u6bcf\u6761\u5e26\u8bc1\u636e\uff0c\u6838\u4e0d\u52a8\u7684\u4e0d\u4e71\u5224 \u00b7 A Claude Code skill that audits claims against your own evidence",
     "id": "panglezym/show-receipts",
     "language": "Python",
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "curie-eng/curie",
     "stars": 37,
-    "updated_at": "2026-10-26T01:57:53Z",
+    "updated_at": "2026-10-26T02:03:27Z",
     "url": "https://github.com/curie-eng/curie"
   },
   {
@@ -284,7 +347,7 @@
     "language": "JavaScript",
     "name": "yulmucoffee/artiboard",
     "stars": 15,
-    "updated_at": "2026-10-26T01:30:48Z",
+    "updated_at": "2026-10-26T02:08:39Z",
     "url": "https://github.com/yulmucoffee/artiboard"
   },
   {
@@ -295,15 +358,6 @@
     "stars": 5,
     "updated_at": "2026-10-26T01:30:20Z",
     "url": "https://github.com/mutlumehmet/claude-plugins"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70331,
-    "updated_at": "2026-10-26T01:59:49Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Crawlora Agent Skills \u2014 structured public web data (search, e-commerce, social, finance, app stores, media, reviews) via",
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:27:18Z",
     "url": "https://github.com/Cynthia-wlan9509/offline-game-revival"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 107316,
-    "updated_at": "2026-10-26T01:58:32Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:11:50Z",
     "url": "https://github.com/aliasunder/agent-plugins"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-10-26T01:11:25Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
-    "id": "chrislacey89/skills",
-    "language": "Shell",
-    "name": "chrislacey89/skills",
-    "stars": 4,
-    "updated_at": "2026-10-26T01:56:17Z",
-    "url": "https://github.com/chrislacey89/skills"
-  },
-  {
-    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
-    "id": "cunhaax/ai-workflow",
-    "language": "Python",
-    "name": "cunhaax/ai-workflow",
-    "stars": 5,
-    "updated_at": "2026-10-26T01:09:49Z",
-    "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
-    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, a",
-    "id": "wshobson/agents",
-    "language": "Python",
-    "name": "wshobson/agents",
-    "stars": 41713,
-    "updated_at": "2026-10-26T01:08:14Z",
-    "url": "https://github.com/wshobson/agents"
-  },
-  {
-    "description": "A Claude skill (and Claude Code plugin) that turns raw GoPro fishing footage into YouTube edits, TikTok/Reels/Shorts cat",
-    "id": "pj4533/fishing-video-editing",
-    "language": "Python",
-    "name": "pj4533/fishing-video-editing",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:07:12Z",
-    "url": "https://github.com/pj4533/fishing-video-editing"
   }
 ]
