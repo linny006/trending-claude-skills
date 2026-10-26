@@ -1,5 +1,113 @@
 [
   {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 5,
+    "updated_at": "2026-10-26T05:12:48Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
+    "description": "Your voice agent sounds robotic. A Claude Code skill that finds out why and fixes the prompt, config and calls. Built fo",
+    "id": "dakshinsiva/voice-doctor",
+    "language": "Python",
+    "name": "dakshinsiva/voice-doctor",
+    "stars": 3,
+    "updated_at": "2026-10-26T05:15:11Z",
+    "url": "https://github.com/dakshinsiva/voice-doctor"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107364,
+    "updated_at": "2026-10-26T05:09:39Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Claude Code skills for motion design written in code \u2014 logo-layers: logo picture \u2192 animatable layered SVG parts + pen ce",
+    "id": "Lother13501350/launchflim-skills",
+    "language": "Python",
+    "name": "Lother13501350/launchflim-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T05:09:26Z",
+    "url": "https://github.com/Lother13501350/launchflim-skills"
+  },
+  {
+    "description": "A shared task board for people and their Claude agents, built as one claude.ai artifact. Views drawn by code, not tokens",
+    "id": "yulmucoffee/artiboard",
+    "language": "JavaScript",
+    "name": "yulmucoffee/artiboard",
+    "stars": 16,
+    "updated_at": "2026-10-26T05:08:01Z",
+    "url": "https://github.com/yulmucoffee/artiboard"
+  },
+  {
+    "description": "Skills shared by soulmachine for improving daily work efficiency with AI Agents (Claude Code, Codex, etc.)",
+    "id": "soulmachine/skills",
+    "language": "Shell",
+    "name": "soulmachine/skills",
+    "stars": 3,
+    "updated_at": "2026-10-26T05:07:30Z",
+    "url": "https://github.com/soulmachine/skills"
+  },
+  {
+    "description": "Structural LLM Wiki (sllmwiki) is an agent skill, packaged as a Claude Code plugin, that turns a git repository into a w",
+    "id": "mengjiasun1992/structural-llm-wiki",
+    "language": "Python",
+    "name": "mengjiasun1992/structural-llm-wiki",
+    "stars": 3,
+    "updated_at": "2026-10-26T05:15:02Z",
+    "url": "https://github.com/mengjiasun1992/structural-llm-wiki"
+  },
+  {
+    "description": "Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified.",
+    "id": "aiskillstore/marketplace",
+    "language": "Python",
+    "name": "aiskillstore/marketplace",
+    "stars": 444,
+    "updated_at": "2026-10-26T05:01:57Z",
+    "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "skill de claude code para investigar casos reales con m\u00e9todo",
+    "id": "kisnner26/detective-skill",
+    "language": "\u2014",
+    "name": "kisnner26/detective-skill",
+    "stars": 0,
+    "updated_at": "2026-10-26T05:01:21Z",
+    "url": "https://github.com/kisnner26/detective-skill"
+  },
+  {
+    "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
+    "id": "LilityV/multai-ai-agent-arsenal",
+    "language": "HTML",
+    "name": "LilityV/multai-ai-agent-arsenal",
+    "stars": 0,
+    "updated_at": "2026-10-26T05:00:54Z",
+    "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-26T05:00:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70335,
+    "updated_at": "2026-10-26T04:57:54Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
     "description": "\u6bcf\u5929\u66f4\u65b0\u7684\u5f00\u6e90 Agent Skills \u4e2d\u6587\u53d1\u73b0\u7ad9\u3001\u5206\u7c7b\u7d22\u5f15\u4e0e GitHub \u699c\u5355",
     "id": "savanna0425/skillhot",
     "language": "JavaScript",
@@ -63,15 +171,6 @@
     "url": "https://github.com/waynehamadi/datacircle"
   },
   {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 107363,
-    "updated_at": "2026-10-26T04:50:50Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "\u4ece\u6e90\u7801\u6ce8\u91ca\u751f\u6210\u81ea\u66f4\u65b0\u7684\u5355\u6587\u4ef6 HTML \u4ee3\u7801\u624b\u518c",
     "id": "yschdxm/code-manual",
     "language": "Python",
@@ -90,40 +189,13 @@
     "url": "https://github.com/DozenTwelve/Papermorph"
   },
   {
-    "description": "A shared task board for people and their Claude agents, built as one claude.ai artifact. Views drawn by code, not tokens",
-    "id": "yulmucoffee/artiboard",
-    "language": "JavaScript",
-    "name": "yulmucoffee/artiboard",
-    "stars": 16,
-    "updated_at": "2026-10-26T04:52:57Z",
-    "url": "https://github.com/yulmucoffee/artiboard"
-  },
-  {
-    "description": "Structural LLM Wiki (sllmwiki) is an agent skill, packaged as a Claude Code plugin, that turns a git repository into a w",
-    "id": "mengjiasun1992/structural-llm-wiki",
-    "language": "Python",
-    "name": "mengjiasun1992/structural-llm-wiki",
-    "stars": 3,
-    "updated_at": "2026-10-26T04:59:55Z",
-    "url": "https://github.com/mengjiasun1992/structural-llm-wiki"
-  },
-  {
     "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 89311,
+    "stars": 89316,
     "updated_at": "2026-10-26T04:46:54Z",
     "url": "https://github.com/tt-a1i/archify"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-26T04:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI \u5b9e\u7528 Skill \u5e93 \u00b7 16 ready-to-use Codex/Claude Agent skills: job-search memory, offer decision, LLM output quality gate, p",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T04:05:27Z",
     "url": "https://github.com/dmminga1983/minga-prompt-audit"
-  },
-  {
-    "description": "Where my hug at? Tell your AI agent what you want a model to do. It finds what Hugging Face already has for it, what to ",
-    "id": "bikemeardsley/where-my-hug",
-    "language": "TypeScript",
-    "name": "bikemeardsley/where-my-hug",
-    "stars": 1,
-    "updated_at": "2026-10-26T04:05:06Z",
-    "url": "https://github.com/bikemeardsley/where-my-hug"
-  },
-  {
-    "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, f",
-    "id": "fattain-naime/engineering-docs",
-    "language": "JavaScript",
-    "name": "fattain-naime/engineering-docs",
-    "stars": 6,
-    "updated_at": "2026-10-26T04:04:30Z",
-    "url": "https://github.com/fattain-naime/engineering-docs"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70334,
-    "updated_at": "2026-10-26T04:57:54Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Sanmu's Agent Skills collection. Academic PDFs, textbooks and slides to Markdown with LaTeX validation, high-resolution ",
-    "id": "luffysolution-svg/sanmu-skills",
-    "language": "Python",
-    "name": "luffysolution-svg/sanmu-skills",
-    "stars": 1,
-    "updated_at": "2026-10-26T03:58:57Z",
-    "url": "https://github.com/luffysolution-svg/sanmu-skills"
-  },
-  {
-    "description": "The Art of Customer Validation: 2026\u2019s Overlooked Startup Growth Filter",
-    "id": "hieu5882/telos-customer-validator",
-    "language": "HTML",
-    "name": "hieu5882/telos-customer-validator",
-    "stars": 0,
-    "updated_at": "2026-10-26T03:56:57Z",
-    "url": "https://github.com/hieu5882/telos-customer-validator"
-  },
-  {
-    "description": "The Ultimate guide to PostgreSQL Optimization for AI Code Generation in 2026",
-    "id": "bokyostudio/pg-practice-knowledgebase",
-    "language": "HTML",
-    "name": "bokyostudio/pg-practice-knowledgebase",
-    "stars": 0,
-    "updated_at": "2026-10-26T03:54:44Z",
-    "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
-    "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "language": "HTML",
-    "name": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
-    "stars": 0,
-    "updated_at": "2026-10-26T03:52:28Z",
-    "url": "https://github.com/mohamoudj6-del/AlterLab-FC-Agent-Playbook"
-  },
-  {
-    "description": "AI agents and Nix: parametrable skills/instructions and tools, packaged together in a reproducible and modular fashion",
-    "id": "YPares/rigup.nix",
-    "language": "Nix",
-    "name": "YPares/rigup.nix",
-    "stars": 96,
-    "updated_at": "2026-10-26T03:50:48Z",
-    "url": "https://github.com/YPares/rigup.nix"
   }
 ]
