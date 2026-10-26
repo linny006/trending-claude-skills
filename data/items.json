@@ -1,21 +1,102 @@
 [
   {
+    "description": "Create easy clamping for margins, paddings and fonts with CSS & Tailwind output",
+    "id": "Willem-Jaap/cssclamp",
+    "language": "TypeScript",
+    "name": "Willem-Jaap/cssclamp",
+    "stars": 2,
+    "updated_at": "2026-10-26T14:45:11Z",
+    "url": "https://github.com/Willem-Jaap/cssclamp"
+  },
+  {
+    "description": "Compare API policies and saved MCP catalogs with Gooo. Offline CLIs, service-grant MCP tools, and replayable results.",
+    "id": "kimjooyoon/gooo-go-ports",
+    "language": "Go",
+    "name": "kimjooyoon/gooo-go-ports",
+    "stars": 1,
+    "updated_at": "2026-10-26T14:44:48Z",
+    "url": "https://github.com/kimjooyoon/gooo-go-ports"
+  },
+  {
+    "description": "\u2728 Personal plugins for Claude Code (& friends)... maybe worth sharing!",
+    "id": "emaballarin/ccplugins",
+    "language": "Python",
+    "name": "emaballarin/ccplugins",
+    "stars": 4,
+    "updated_at": "2026-10-26T14:44:22Z",
+    "url": "https://github.com/emaballarin/ccplugins"
+  },
+  {
+    "description": "\ud83e\udead Agent Skills for technical event organizers: conferences, meetups, hackathons, speakers, and sponsorships.",
+    "id": "samber/dev-event-organizer-skills",
+    "language": "Python",
+    "name": "samber/dev-event-organizer-skills",
+    "stars": 4,
+    "updated_at": "2026-10-26T14:42:13Z",
+    "url": "https://github.com/samber/dev-event-organizer-skills"
+  },
+  {
     "description": "Multi-domain collection of rules, skills, and agents for Claude Code: dev-loop harness, Git workflow, DevOps/Kubernetes,",
     "id": "alexeyshishin/as-skill",
     "language": "Go",
     "name": "alexeyshishin/as-skill",
     "stars": 6,
-    "updated_at": "2026-10-26T14:29:43Z",
+    "updated_at": "2026-10-26T14:44:11Z",
     "url": "https://github.com/alexeyshishin/as-skill"
   },
   {
-    "description": "Scramble statistical AI text watermarks by rewriting with a local model (vLLM, Ollama), and strip C2PA, EXIF, XMP and in",
-    "id": "novatechflow/ai-watermark-scrambler",
+    "description": "\u7b7e\u8bc190\u5929\u8ba1\u7b97\u5668 \u00b7 Schengen 90/180 calculator\uff5c213\u56fd\u505c\u7559\u89c4\u5219\u4e0e\u8d85\u671f\u540e\u679c\uff5c\u7533\u683935\u56fd\u5171\u4eab\u989d\u5ea6\u7cbe\u786e\u7b97\u6cd5\uff5c\u79bb\u7ebf\u53ef\u9a8c\u8bc1",
+    "id": "nocaptain-oss/visa-stay-guard",
     "language": "Python",
-    "name": "novatechflow/ai-watermark-scrambler",
-    "stars": 2,
-    "updated_at": "2026-10-26T14:28:00Z",
-    "url": "https://github.com/novatechflow/ai-watermark-scrambler"
+    "name": "nocaptain-oss/visa-stay-guard",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:41:06Z",
+    "url": "https://github.com/nocaptain-oss/visa-stay-guard"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 107522,
+    "updated_at": "2026-10-26T14:44:59Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "A daily job search pipeline built for Claude: collects, filters and scores roles, and tailors your resume with an indepe",
+    "id": "kalitab/morning-job-scan",
+    "language": "HTML",
+    "name": "kalitab/morning-job-scan",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:39:42Z",
+    "url": "https://github.com/kalitab/morning-job-scan"
+  },
+  {
+    "description": "n8n Claude Code Marketplace 2026 \u26a1 Production-Grade Skills for GTM & Workflow Automation",
+    "id": "abbyuraffi-netizen/maxvision-claude-forge",
+    "language": "HTML",
+    "name": "abbyuraffi-netizen/maxvision-claude-forge",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:39:14Z",
+    "url": "https://github.com/abbyuraffi-netizen/maxvision-claude-forge"
+  },
+  {
+    "description": "A local dashboard for your Claude Code chats",
+    "id": "Abdifatah09/chatdeck",
+    "language": "Python",
+    "name": "Abdifatah09/chatdeck",
+    "stars": 1,
+    "updated_at": "2026-10-26T14:43:22Z",
+    "url": "https://github.com/Abdifatah09/chatdeck"
+  },
+  {
+    "description": "\u628a\u754c\u9762\u505a\u5bf9\u3001\u505a\u5b9e\uff1a\u6309\u8bbe\u8ba1\u7a3f/\u622a\u56fe\u8fd8\u539f\u5e76\u6574\u6539\uff0c\u6216\u4ece 0 \u751f\u6210\u80fd\u9a8c\u6536\u7684\u524d\u7aef\u9aa8\u67b6\u300218 \u4e2a\u771f\u5b9e\u7ad9\u5b9e\u6d4b\u3002",
+    "id": "liuzheng6621/frontend-fidelity",
+    "language": "JavaScript",
+    "name": "liuzheng6621/frontend-fidelity",
+    "stars": 1,
+    "updated_at": "2026-10-26T14:37:15Z",
+    "url": "https://github.com/liuzheng6621/frontend-fidelity"
   },
   {
     "description": "Claude Code / Codex / OpenCode agent skills for writing Chinese web novels (\u7f51\u6587): \u626b\u699c\u3001\u62c6\u6587\u3001\u5199\u4f5c\u3001\u53bbAI\u5473\u3001\u5c01\u9762\u5168\u6d41\u7a0b\uff0c\u957f\u7bc7\u77ed\u7bc7\u90fd\u652f\u6301 | 13 skills",
@@ -23,8 +104,89 @@
     "language": "Python",
     "name": "zenstory-ai/oh-story-claudecode",
     "stars": 8022,
-    "updated_at": "2026-10-26T14:30:11Z",
+    "updated_at": "2026-10-26T14:39:23Z",
     "url": "https://github.com/zenstory-ai/oh-story-claudecode"
+  },
+  {
+    "description": "A self-hosted copilot in my terminal: Claude Code skills for home infra, retro gaming, career, health, and \u041f\u043e\u0434\u0430\u0439 \u0433\u043b\u043e\u0431\u0430\u0442\u0430",
+    "id": "ivan-zdravkov/ivan-the-terminal",
+    "language": "Python",
+    "name": "ivan-zdravkov/ivan-the-terminal",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:35:59Z",
+    "url": "https://github.com/ivan-zdravkov/ivan-the-terminal"
+  },
+  {
+    "description": "Practical Agent Skills (SKILL.md) for Claude Code: token audit and more. Local, no telemetry.",
+    "id": "MalikKhaledSaid/agent-skills",
+    "language": "Python",
+    "name": "MalikKhaledSaid/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:35:58Z",
+    "url": "https://github.com/MalikKhaledSaid/agent-skills"
+  },
+  {
+    "description": "Scramble statistical AI text watermarks by rewriting with a local model (vLLM, Ollama), and strip C2PA, EXIF, XMP and in",
+    "id": "novatechflow/ai-watermark-scrambler",
+    "language": "Python",
+    "name": "novatechflow/ai-watermark-scrambler",
+    "stars": 2,
+    "updated_at": "2026-10-26T14:45:10Z",
+    "url": "https://github.com/novatechflow/ai-watermark-scrambler"
+  },
+  {
+    "description": "Official MCP server for the conv2pdf API: an AI assistant converts Office documents, images and e-books to PDF, and merg",
+    "id": "Jamalofski/conv2pdf-mcp",
+    "language": "JavaScript",
+    "name": "Jamalofski/conv2pdf-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:35:23Z",
+    "url": "https://github.com/Jamalofski/conv2pdf-mcp"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 3,
+    "updated_at": "2026-10-26T14:33:15Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "Two Claude accounts on one computer, one Code tab session list in the Claude desktop app. Windows or macOS. Unofficial.",
+    "id": "RonenBinyaminov/claude-dual-account",
+    "language": "PowerShell",
+    "name": "RonenBinyaminov/claude-dual-account",
+    "stars": 1,
+    "updated_at": "2026-10-26T14:34:06Z",
+    "url": "https://github.com/RonenBinyaminov/claude-dual-account"
+  },
+  {
+    "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
+    "id": "CrossRead/scholion",
+    "language": "Python",
+    "name": "CrossRead/scholion",
+    "stars": 4,
+    "updated_at": "2026-10-26T14:31:10Z",
+    "url": "https://github.com/CrossRead/scholion"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-26T14:30:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Turn your AI assistant into the System from Solo Leveling: every task a quest, every Jinwoo skill a ready-made prompt. F",
+    "id": "vrd07/solo-leveling-arise-skills",
+    "language": "\u2014",
+    "name": "vrd07/solo-leveling-arise-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T14:30:07Z",
+    "url": "https://github.com/vrd07/solo-leveling-arise-skills"
   },
   {
     "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
@@ -70,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-10-26T14:24:20Z",
     "url": "https://github.com/PicsArt/gen-ai-skills"
-  },
-  {
-    "description": "Practical Agent Skills (SKILL.md) for Claude Code: token audit and more. Local, no telemetry.",
-    "id": "MalikKhaledSaid/agent-skills",
-    "language": "Python",
-    "name": "MalikKhaledSaid/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:23:35Z",
-    "url": "https://github.com/MalikKhaledSaid/agent-skills"
   },
   {
     "description": "Drive a phased implementation plan from a Claude Code session, including from your phone. Plan in markdown, one PR per p",
@@ -153,15 +306,6 @@
     "url": "https://github.com/prosyo-ai/gtm-skill"
   },
   {
-    "description": "Your genome, labs, prescriptions and wearables sit in silos that never compare notes, so contradictions go unnoticed. Th",
-    "id": "CrossRead/scholion",
-    "language": "Python",
-    "name": "CrossRead/scholion",
-    "stars": 4,
-    "updated_at": "2026-10-26T14:19:58Z",
-    "url": "https://github.com/CrossRead/scholion"
-  },
-  {
     "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
     "id": "scenario-labs/skills",
     "language": "Python",
@@ -187,15 +331,6 @@
     "stars": 949,
     "updated_at": "2026-10-26T14:19:43Z",
     "url": "https://github.com/DozenTwelve/Papermorph"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 107521,
-    "updated_at": "2026-10-26T14:27:06Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
@@ -225,13 +360,13 @@
     "url": "https://github.com/sujal11101/hotel-ai-operations-suite"
   },
   {
-    "description": "A daily job search pipeline built for Claude: collects, filters and scores roles, and tailors your resume with an indepe",
-    "id": "kalitab/morning-job-scan",
-    "language": "HTML",
-    "name": "kalitab/morning-job-scan",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:17:24Z",
-    "url": "https://github.com/kalitab/morning-job-scan"
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70351,
+    "updated_at": "2026-10-26T14:17:27Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "A massive, self-updating local archive of AI tools \u2014 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cl",
@@ -288,15 +423,6 @@
     "url": "https://github.com/rainbows4dinos/design-agent-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-26T14:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
     "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
     "language": "TypeScript",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T14:12:26Z",
     "url": "https://github.com/Azmainn/base-learner"
-  },
-  {
-    "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
-    "id": "nikolai-vysotskyi/trace-mcp",
-    "language": "TypeScript",
-    "name": "nikolai-vysotskyi/trace-mcp",
-    "stars": 198,
-    "updated_at": "2026-10-26T14:12:02Z",
-    "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
-  },
-  {
-    "description": "A self-hosted copilot in my terminal: Claude Code skills for home infra, retro gaming, career, health, and \u041f\u043e\u0434\u0430\u0439 \u0433\u043b\u043e\u0431\u0430\u0442\u0430",
-    "id": "ivan-zdravkov/ivan-the-terminal",
-    "language": "Python",
-    "name": "ivan-zdravkov/ivan-the-terminal",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:27:29Z",
-    "url": "https://github.com/ivan-zdravkov/ivan-the-terminal"
-  },
-  {
-    "description": "You shipped it and nobody is buying. Install this and Claude Code diagnoses why, then hands you the proven moves that fi",
-    "id": "maxxthemate-png/why-isnt-it-selling",
-    "language": "Python",
-    "name": "maxxthemate-png/why-isnt-it-selling",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:09:28Z",
-    "url": "https://github.com/maxxthemate-png/why-isnt-it-selling"
-  },
-  {
-    "description": "Grafana-native LLMOps dashboards for FinOps, agents, quality and AI governance. Automated query and deployment checks, w",
-    "id": "alebgl77/grafana-llmops-forge",
-    "language": "Python",
-    "name": "alebgl77/grafana-llmops-forge",
-    "stars": 1,
-    "updated_at": "2026-10-26T14:08:52Z",
-    "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
-    "description": "Launch your open-source project: readiness score, rule-checked posts for HN, Reddit, V2EX, \u5c0f\u7ea2\u4e66 & more, launch tracking \u00b7",
-    "id": "2104178150-ai/megaphone",
-    "language": "Python",
-    "name": "2104178150-ai/megaphone",
-    "stars": 3,
-    "updated_at": "2026-10-26T14:08:12Z",
-    "url": "https://github.com/2104178150-ai/megaphone"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code Agent to Discord, Telegram, Whats",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 21,
-    "updated_at": "2026-10-26T14:07:57Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Claude Code skill: a panel of independent reviewer agents, picked for the output, challenges finished work and returns o",
-    "id": "Matteoikarieth96/adversarial-review-skill",
-    "language": "Python",
-    "name": "Matteoikarieth96/adversarial-review-skill",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:07:55Z",
-    "url": "https://github.com/Matteoikarieth96/adversarial-review-skill"
-  },
-  {
-    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
-    "id": "karero/croftweaver",
-    "language": "Python",
-    "name": "karero/croftweaver",
-    "stars": 8,
-    "updated_at": "2026-10-26T14:07:23Z",
-    "url": "https://github.com/karero/croftweaver"
-  },
-  {
-    "description": "Claude Code skill: take a skill to a public GitHub repo without leaking anything: scan, independent review, private firs",
-    "id": "Matteoikarieth96/skill-release-skill",
-    "language": "Python",
-    "name": "Matteoikarieth96/skill-release-skill",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:07:23Z",
-    "url": "https://github.com/Matteoikarieth96/skill-release-skill"
-  },
-  {
-    "description": "Claude Code skill: design a print-ready full-wrap beer can label (Hopera 330 ml sleek template by default) with a 3D can",
-    "id": "Matteoikarieth96/beer-can-label-skill",
-    "language": "Python",
-    "name": "Matteoikarieth96/beer-can-label-skill",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:07:18Z",
-    "url": "https://github.com/Matteoikarieth96/beer-can-label-skill"
-  },
-  {
-    "description": "Claude Code skill: design FDM 3D-printable parts in code, from intake questions to a checked STL, a local 3D preview, a ",
-    "id": "Matteoikarieth96/3d-print-design-skill",
-    "language": "Python",
-    "name": "Matteoikarieth96/3d-print-design-skill",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:07:16Z",
-    "url": "https://github.com/Matteoikarieth96/3d-print-design-skill"
-  },
-  {
-    "description": "My personal collection of AI agent skills; the *kit family. Portable, one install away.",
-    "id": "mimukit/skills",
-    "language": "Shell",
-    "name": "mimukit/skills",
-    "stars": 2,
-    "updated_at": "2026-10-26T14:07:15Z",
-    "url": "https://github.com/mimukit/skills"
-  },
-  {
-    "description": "Claude Code skill: from a company, a role and your resume to one interview prep page with TL;DR, overview, Q&A, personal",
-    "id": "Matteoikarieth96/hiring-prep-skill",
-    "language": "Python",
-    "name": "Matteoikarieth96/hiring-prep-skill",
-    "stars": 1,
-    "updated_at": "2026-10-26T14:07:13Z",
-    "url": "https://github.com/Matteoikarieth96/hiring-prep-skill"
-  },
-  {
-    "description": "Claude Code skill: investor-angle due diligence on crypto/EVM projects, from intake questions to a scored report and an ",
-    "id": "Matteoikarieth96/evm-dd-skill",
-    "language": "Python",
-    "name": "Matteoikarieth96/evm-dd-skill",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:07:11Z",
-    "url": "https://github.com/Matteoikarieth96/evm-dd-skill"
   }
 ]
