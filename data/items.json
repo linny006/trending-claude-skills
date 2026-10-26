@@ -1,5 +1,122 @@
 [
   {
+    "description": "RooYun Skill & MCP\uff1a\u8ba9 Claude Code / Codex / Cursor \u4e00\u53e5\u8bdd\u9a71\u52a8 AI \u6f2b\u5267\u3001AI \u77ed\u5267\u521b\u4f5c\u753b\u5e03",
+    "id": "DeepHiveAI/rooyun-skill",
+    "language": "JavaScript",
+    "name": "DeepHiveAI/rooyun-skill",
+    "stars": 0,
+    "updated_at": "2026-10-26T13:44:50Z",
+    "url": "https://github.com/DeepHiveAI/rooyun-skill"
+  },
+  {
+    "description": "cybersecurity analysis skill for any AI model or agent \u2014 recon, code vulnerabilities, AI-generated code review, threat a",
+    "id": "omaromar9091/Security-Analyst",
+    "language": "Python",
+    "name": "omaromar9091/Security-Analyst",
+    "stars": 1,
+    "updated_at": "2026-10-26T13:42:49Z",
+    "url": "https://github.com/omaromar9091/Security-Analyst"
+  },
+  {
+    "description": "Official Claude Code and AI agent skill pack for integrating and orchestrating Authkestra",
+    "id": "Authkestra/skills",
+    "language": "Python",
+    "name": "Authkestra/skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T13:41:38Z",
+    "url": "https://github.com/Authkestra/skills"
+  },
+  {
+    "description": "Practical Agent Skills (SKILL.md) for Claude Code: token audit and more. Local, no telemetry.",
+    "id": "MalikKhaledSaid/agent-skills",
+    "language": "Python",
+    "name": "MalikKhaledSaid/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T13:40:30Z",
+    "url": "https://github.com/MalikKhaledSaid/agent-skills"
+  },
+  {
+    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
+    "id": "karero/croftweaver",
+    "language": "Python",
+    "name": "karero/croftweaver",
+    "stars": 8,
+    "updated_at": "2026-10-26T13:40:20Z",
+    "url": "https://github.com/karero/croftweaver"
+  },
+  {
+    "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound",
+    "id": "dagoSte/squadra",
+    "language": "Python",
+    "name": "dagoSte/squadra",
+    "stars": 614,
+    "updated_at": "2026-10-26T13:41:04Z",
+    "url": "https://github.com/dagoSte/squadra"
+  },
+  {
+    "description": "Agent skill: play the Crawler Zoo Arena, 16 games for AI agents over plain HTTP or MCP",
+    "id": "mrpk-sam/crawler-zoo-arena",
+    "language": "\u2014",
+    "name": "mrpk-sam/crawler-zoo-arena",
+    "stars": 0,
+    "updated_at": "2026-10-26T13:39:50Z",
+    "url": "https://github.com/mrpk-sam/crawler-zoo-arena"
+  },
+  {
+    "description": "A second opinion on your decisions, from a different AI company than the one you think with.",
+    "id": "mtangoz/grill",
+    "language": "JavaScript",
+    "name": "mtangoz/grill",
+    "stars": 1,
+    "updated_at": "2026-10-26T13:39:39Z",
+    "url": "https://github.com/mtangoz/grill"
+  },
+  {
+    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
+    "id": "scenario-labs/skills",
+    "language": "Python",
+    "name": "scenario-labs/skills",
+    "stars": 1146,
+    "updated_at": "2026-10-26T13:43:00Z",
+    "url": "https://github.com/scenario-labs/skills"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 3084,
+    "updated_at": "2026-10-26T13:39:03Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "A self-hosted copilot in my terminal: Claude Code skills for home infra, retro gaming, career, kitchen and training. Lea",
+    "id": "ivan-zdravkov/ivan-the-terminal",
+    "language": "Python",
+    "name": "ivan-zdravkov/ivan-the-terminal",
+    "stars": 0,
+    "updated_at": "2026-10-26T13:39:01Z",
+    "url": "https://github.com/ivan-zdravkov/ivan-the-terminal"
+  },
+  {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 152,
+    "updated_at": "2026-10-26T13:39:34Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-26T13:37:28Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills ranked daily from GitHub: all time, this week, this month",
     "id": "selan-ai/top-claude-code-skills",
     "language": "\u2014",
@@ -9,21 +126,12 @@
     "url": "https://github.com/selan-ai/top-claude-code-skills"
   },
   {
-    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
-    "id": "karero/croftweaver",
-    "language": "Python",
-    "name": "karero/croftweaver",
-    "stars": 8,
-    "updated_at": "2026-10-26T13:36:32Z",
-    "url": "https://github.com/karero/croftweaver"
-  },
-  {
     "description": "Framework-aware code intelligence MCP server \u2014 88 framework integrations, 81 languages, 72.7% fewer input tokens to revi",
     "id": "nikolai-vysotskyi/trace-mcp",
     "language": "TypeScript",
     "name": "nikolai-vysotskyi/trace-mcp",
     "stars": 198,
-    "updated_at": "2026-10-26T13:34:28Z",
+    "updated_at": "2026-10-26T13:42:57Z",
     "url": "https://github.com/nikolai-vysotskyi/trace-mcp"
   },
   {
@@ -36,20 +144,11 @@
     "url": "https://github.com/netopsengineer/agent-skill-description-optimizer"
   },
   {
-    "description": "A self-hosted copilot in my terminal: Claude Code skills for home infra, retro gaming, career, kitchen and training. Lea",
-    "id": "ivan-zdravkov/ivan-the-terminal",
-    "language": "Python",
-    "name": "ivan-zdravkov/ivan-the-terminal",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:32:25Z",
-    "url": "https://github.com/ivan-zdravkov/ivan-the-terminal"
-  },
-  {
     "description": "The open-source app everyone uses to manage agents at work",
     "id": "paperclipai/paperclip",
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
-    "stars": 107509,
+    "stars": 107511,
     "updated_at": "2026-10-26T13:32:11Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "alebgl77/grafana-llmops-forge",
     "stars": 1,
-    "updated_at": "2026-10-26T13:30:27Z",
+    "updated_at": "2026-10-26T13:41:33Z",
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
   },
   {
@@ -115,15 +214,6 @@
     "stars": 10,
     "updated_at": "2026-10-26T13:26:01Z",
     "url": "https://github.com/ashishkaloge/map-design"
-  },
-  {
-    "description": "Practical Agent Skills (SKILL.md) for Claude Code: token audit and more. Local, no telemetry.",
-    "id": "MalikKhaledSaid/agent-skills",
-    "language": "Python",
-    "name": "MalikKhaledSaid/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:25:35Z",
-    "url": "https://github.com/MalikKhaledSaid/agent-skills"
   },
   {
     "description": "A local dashboard for your Claude Code chats",
@@ -234,15 +324,6 @@
     "url": "https://github.com/reticlehq/reticle"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-26T13:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "#1 Product of The Day @ Product Hunt. The GTM co-founder you don't have. Open-source GTM Agent Skills for developer tool",
     "id": "AIDevGTM/gtm-cofounder",
     "language": "\u2014",
@@ -297,15 +378,6 @@
     "url": "https://github.com/rivendale/ai-redteam"
   },
   {
-    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
-    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "language": "TypeScript",
-    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
-    "stars": 3083,
-    "updated_at": "2026-10-26T13:36:57Z",
-    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
-  },
-  {
     "description": "How I work with coding agents: one entry skill, small principle skills.",
     "id": "dip497/onmywatch",
     "language": "HTML",
@@ -313,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T13:11:39Z",
     "url": "https://github.com/dip497/onmywatch"
-  },
-  {
-    "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spen",
-    "id": "scenario-labs/skills",
-    "language": "Python",
-    "name": "scenario-labs/skills",
-    "stars": 1146,
-    "updated_at": "2026-10-26T13:36:39Z",
-    "url": "https://github.com/scenario-labs/skills"
   },
   {
     "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps be",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T13:06:56Z",
     "url": "https://github.com/PawanSirsat/Laika"
-  },
-  {
-    "description": "90 specialist AI agents + 3 project-local extensions for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agen",
-    "id": "simota/agent-skills",
-    "language": "Python",
-    "name": "simota/agent-skills",
-    "stars": 95,
-    "updated_at": "2026-10-26T13:05:58Z",
-    "url": "https://github.com/simota/agent-skills"
-  },
-  {
-    "description": "Free, source-available Claude Code skill that draws narrated videos in code: YouTube Shorts, explainers, 3D flights. Ins",
-    "id": "ww-w-ai/super-video-agent",
-    "language": "JavaScript",
-    "name": "ww-w-ai/super-video-agent",
-    "stars": 16,
-    "updated_at": "2026-10-26T13:02:35Z",
-    "url": "https://github.com/ww-w-ai/super-video-agent"
-  },
-  {
-    "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, ",
-    "id": "alirezarezvani/claude-skills",
-    "language": "Python",
-    "name": "alirezarezvani/claude-skills",
-    "stars": 28748,
-    "updated_at": "2026-10-26T13:01:07Z",
-    "url": "https://github.com/alirezarezvani/claude-skills"
-  },
-  {
-    "description": "Evidence-first AI skills for CRM & Marketing Ops: Adobe Campaign v8 QA, troubleshooting, reporting, postmortems, capacit",
-    "id": "sghatge/crm-ops-ai-skills",
-    "language": "\u2014",
-    "name": "sghatge/crm-ops-ai-skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T12:59:58Z",
-    "url": "https://github.com/sghatge/crm-ops-ai-skills"
-  },
-  {
-    "description": "Claude Code skills for clear, simple engineering documentation (ASD-STE100)",
-    "id": "Escoto/knowledge_sharing",
-    "language": "HTML",
-    "name": "Escoto/knowledge_sharing",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:00:03Z",
-    "url": "https://github.com/Escoto/knowledge_sharing"
-  },
-  {
-    "description": "Evaluate your startup idea from 1 to 5",
-    "id": "eph5xx/tweakidea",
-    "language": "Python",
-    "name": "eph5xx/tweakidea",
-    "stars": 54,
-    "updated_at": "2026-10-26T13:22:01Z",
-    "url": "https://github.com/eph5xx/tweakidea"
-  },
-  {
-    "description": "Spec-driven development for AI coding assistants (Claude Code, Codex, OpenCode, Copilot) \u2014 specs, skills and a dashboard",
-    "id": "ragnarwestad/aide",
-    "language": "TypeScript",
-    "name": "ragnarwestad/aide",
-    "stars": 1,
-    "updated_at": "2026-10-26T12:54:53Z",
-    "url": "https://github.com/ragnarwestad/aide"
   }
 ]
