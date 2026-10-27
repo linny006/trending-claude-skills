@@ -1,12 +1,21 @@
 [
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 103683,
-    "updated_at": "2026-10-27T20:58:16Z",
-    "url": "https://github.com/thedotmack/claude-mem"
+    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
+    "id": "trevhud/rote",
+    "language": "Python",
+    "name": "trevhud/rote",
+    "stars": 8,
+    "updated_at": "2026-10-27T20:59:41Z",
+    "url": "https://github.com/trevhud/rote"
+  },
+  {
+    "description": "Agent skill for drafting and reviewing CVs from verified experience. Candidate-led wording, phrase-overlap review and lo",
+    "id": "chindris-mihai-alexandru/cv-witness",
+    "language": "HTML",
+    "name": "chindris-mihai-alexandru/cv-witness",
+    "stars": 1,
+    "updated_at": "2026-10-27T20:59:27Z",
+    "url": "https://github.com/chindris-mihai-alexandru/cv-witness"
   },
   {
     "description": "Agent skills (SKILL.md) that check before an agent acts: invoices before paying, new counterparties, x402 payments, Dutc",
@@ -14,8 +23,35 @@
     "language": "\u2014",
     "name": "factline-dev/factline-skills",
     "stars": 0,
-    "updated_at": "2026-10-27T20:57:33Z",
+    "updated_at": "2026-10-27T20:59:19Z",
     "url": "https://github.com/factline-dev/factline-skills"
+  },
+  {
+    "description": "Opinionated Claude Code skills for OpenSpec inside Conductor: start a batch of parallel explorations, babysit them to pr",
+    "id": "aaroncohn/openspec-conductor-powerups",
+    "language": "Python",
+    "name": "aaroncohn/openspec-conductor-powerups",
+    "stars": 1,
+    "updated_at": "2026-10-27T20:58:55Z",
+    "url": "https://github.com/aaroncohn/openspec-conductor-powerups"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-27T20:58:52Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 103684,
+    "updated_at": "2026-10-27T20:58:16Z",
+    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Skills gratis de Claude en espa\u00f1ol: usa Claude mejor y gasta menos de tu l\u00edmite",
@@ -31,7 +67,7 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 3046,
+    "stars": 3047,
     "updated_at": "2026-10-27T20:56:18Z",
     "url": "https://github.com/google/elephant-goldfish-model"
   },
@@ -41,7 +77,7 @@
     "language": "TypeScript",
     "name": "paperclipai/paperclip",
     "stars": 107968,
-    "updated_at": "2026-10-27T20:55:00Z",
+    "updated_at": "2026-10-27T20:58:54Z",
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T20:52:37Z",
     "url": "https://github.com/GaffaAI/gaffa-for-ai"
-  },
-  {
-    "description": "Opinionated Claude Code skills for OpenSpec inside Conductor: start a batch of parallel explorations, babysit them to pr",
-    "id": "aaroncohn/openspec-conductor-powerups",
-    "language": "Python",
-    "name": "aaroncohn/openspec-conductor-powerups",
-    "stars": 1,
-    "updated_at": "2026-10-27T20:52:18Z",
-    "url": "https://github.com/aaroncohn/openspec-conductor-powerups"
   },
   {
     "description": "Security scanner for Claude Code skills and plugins: detects prompt injection, hidden instructions, credential theft, da",
@@ -135,24 +162,6 @@
     "url": "https://github.com/reticlehq/reticle"
   },
   {
-    "description": "Compile AI agent skills into cheap, fast, deterministic pipelines that run without an LLM in the loop",
-    "id": "trevhud/rote",
-    "language": "Python",
-    "name": "trevhud/rote",
-    "stars": 8,
-    "updated_at": "2026-10-27T20:47:27Z",
-    "url": "https://github.com/trevhud/rote"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-27T20:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T20:39:57Z",
     "url": "https://github.com/docsor1212/paper-polisher-pro"
-  },
-  {
-    "description": "Agent skill for drafting and reviewing CVs from verified experience. Candidate-led wording, phrase-overlap review and lo",
-    "id": "chindris-mihai-alexandru/cv-witness",
-    "language": "HTML",
-    "name": "chindris-mihai-alexandru/cv-witness",
-    "stars": 1,
-    "updated_at": "2026-10-27T20:35:43Z",
-    "url": "https://github.com/chindris-mihai-alexandru/cv-witness"
   },
   {
     "description": "MultAI Agent 2026: Autonomous Browser Engine with 7 AI Fallbacks & Comparator",
@@ -337,7 +337,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 90382,
+    "stars": 90383,
     "updated_at": "2026-10-27T20:18:23Z",
     "url": "https://github.com/tt-a1i/archify"
   },
