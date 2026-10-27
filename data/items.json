@@ -1,5 +1,50 @@
 [
   {
+    "description": "Desktop trading cockpit for the day-trader-skill pack: clear entry, stop loss and take profit on every ticket, and the f",
+    "id": "MauricioRodCar/Levelset",
+    "language": "TypeScript",
+    "name": "MauricioRodCar/Levelset",
+    "stars": 0,
+    "updated_at": "2026-10-27T00:44:56Z",
+    "url": "https://github.com/MauricioRodCar/Levelset"
+  },
+  {
+    "description": "Free Claude skill to prepare, work and follow up a B2B trade show: timeline, meeting requests, booth qualification and p",
+    "id": "DataOrigin/trade-show-prep-skill",
+    "language": "\u2014",
+    "name": "DataOrigin/trade-show-prep-skill",
+    "stars": 0,
+    "updated_at": "2026-10-27T00:44:54Z",
+    "url": "https://github.com/DataOrigin/trade-show-prep-skill"
+  },
+  {
+    "description": "Your coding agent makes phone calls for you: an MCP tool on Telnyx + OpenAI GPT-Live",
+    "id": "skeptrunedev/call4me",
+    "language": "TypeScript",
+    "name": "skeptrunedev/call4me",
+    "stars": 16,
+    "updated_at": "2026-10-27T00:43:48Z",
+    "url": "https://github.com/skeptrunedev/call4me"
+  },
+  {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-10-27T00:43:48Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-27T00:43:01Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Test your business idea before you spend a dollar on it. 15 Claude skills: IdeaGauge scoring, a board on the Hormozi, Th",
     "id": "lumka1-png/Launchproof",
     "language": "Python",
@@ -58,7 +103,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 89793,
+    "stars": 89795,
     "updated_at": "2026-10-27T00:39:26Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -207,15 +252,6 @@
     "url": "https://github.com/Lusona/ai-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-27T00:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "An open-source AI based digital marketing operating system for strategy, SEO, AEO/GEO, paid media, content, CRM, and ana",
     "id": "indranilbanerjee/digital-marketing-pro",
     "language": "Python",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "emdashsmoker/biz-docgen-agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-27T00:42:30Z",
+    "updated_at": "2026-10-27T00:45:09Z",
     "url": "https://github.com/emdashsmoker/biz-docgen-agent-skills"
   },
   {
@@ -364,7 +400,7 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 1776,
+    "stars": 1777,
     "updated_at": "2026-10-27T00:19:08Z",
     "url": "https://github.com/google/elephant-goldfish-model"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-27T00:14:42Z",
     "url": "https://github.com/tomoshaw/key-account-dev-skills"
-  },
-  {
-    "description": "Portable AI agent skills built on the open SKILL.md standard  \u2014 self-contained capabilities any compatible agent can dis",
-    "id": "Hefrock/agent-skills",
-    "language": "Python",
-    "name": "Hefrock/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T00:12:03Z",
-    "url": "https://github.com/Hefrock/agent-skills"
-  },
-  {
-    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
-    "id": "JhoseWolf/sageox-hivemind-engine",
-    "language": "HTML",
-    "name": "JhoseWolf/sageox-hivemind-engine",
-    "stars": 3,
-    "updated_at": "2026-10-27T00:11:13Z",
-    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
-  },
-  {
-    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
-    "id": "ashfaquecg806-dot/symfony-ux-insights",
-    "language": "HTML",
-    "name": "ashfaquecg806-dot/symfony-ux-insights",
-    "stars": 1,
-    "updated_at": "2026-10-27T00:11:11Z",
-    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
-  },
-  {
-    "description": "Multi-domain collection of rules, skills, and agents for Claude Code: dev-loop harness, Git workflow, DevOps/Kubernetes,",
-    "id": "alexeyshishin/as-skill",
-    "language": "Go",
-    "name": "alexeyshishin/as-skill",
-    "stars": 6,
-    "updated_at": "2026-10-27T00:09:38Z",
-    "url": "https://github.com/alexeyshishin/as-skill"
   }
 ]
