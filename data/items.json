@@ -1,12 +1,30 @@
 [
   {
-    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
-    "id": "geml-spec/geml",
-    "language": "JavaScript",
-    "name": "geml-spec/geml",
-    "stars": 29,
-    "updated_at": "2026-10-28T10:30:03Z",
-    "url": "https://github.com/geml-spec/geml"
+    "description": "Work that survives the session. Task folders and logbooks for Claude Code, held by hooks: a task header with state, owne",
+    "id": "StanimirTenev/baton",
+    "language": "Python",
+    "name": "StanimirTenev/baton",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:44:52Z",
+    "url": "https://github.com/StanimirTenev/baton"
+  },
+  {
+    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
+    "id": "curie-eng/curie",
+    "language": "Python",
+    "name": "curie-eng/curie",
+    "stars": 37,
+    "updated_at": "2026-10-28T10:44:18Z",
+    "url": "https://github.com/curie-eng/curie"
+  },
+  {
+    "description": "Claude Code plugin and Agent Skill for MentionAgent: link building outreach from your agent over MCP",
+    "id": "BuildsbyMatt/mentionagent-claude-skill",
+    "language": "\u2014",
+    "name": "BuildsbyMatt/mentionagent-claude-skill",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:44:13Z",
+    "url": "https://github.com/BuildsbyMatt/mentionagent-claude-skill"
   },
   {
     "description": "Source-checked MCP servers, agent skills and tools, with access notes. Point an agent at this repo to bootstrap.",
@@ -14,8 +32,152 @@
     "language": "Python",
     "name": "techhorizonlabs/gearlist",
     "stars": 2,
-    "updated_at": "2026-10-28T10:29:51Z",
+    "updated_at": "2026-10-28T10:43:07Z",
     "url": "https://github.com/techhorizonlabs/gearlist"
+  },
+  {
+    "description": "Aggregation repo of Agent Skills shared across AI harnesses \u2014 vendored from upstream sources (mattpocock, kill-ai-slop, ",
+    "id": "hu3rror/my-skills",
+    "language": "JavaScript",
+    "name": "hu3rror/my-skills",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:42:15Z",
+    "url": "https://github.com/hu3rror/my-skills"
+  },
+  {
+    "description": "Practical Agent Skills (SKILL.md) for Claude Code: token audit and more. Local, no telemetry.",
+    "id": "MalikKhaledSaid/agent-skills",
+    "language": "Python",
+    "name": "MalikKhaledSaid/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:42:10Z",
+    "url": "https://github.com/MalikKhaledSaid/agent-skills"
+  },
+  {
+    "description": "JobAppAgent: open-source AI job application agent (Agent Skill + CLI). Searches wide, matches one verified r\u00e9sum\u00e9, appli",
+    "id": "vaibhavarora14/job-application-agent",
+    "language": "JavaScript",
+    "name": "vaibhavarora14/job-application-agent",
+    "stars": 168,
+    "updated_at": "2026-10-28T10:40:43Z",
+    "url": "https://github.com/vaibhavarora14/job-application-agent"
+  },
+  {
+    "description": "Claude skills for the Indian stock market (NSE/BSE): market pulse, stock explainer, position sizer with Indian charges, ",
+    "id": "Amar1907-creator/india-trading-skills",
+    "language": "Python",
+    "name": "Amar1907-creator/india-trading-skills",
+    "stars": 1,
+    "updated_at": "2026-10-28T10:38:32Z",
+    "url": "https://github.com/Amar1907-creator/india-trading-skills"
+  },
+  {
+    "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-repo",
+    "id": "elementalsouls/Claude-BugHunter",
+    "language": "Python",
+    "name": "elementalsouls/Claude-BugHunter",
+    "stars": 5326,
+    "updated_at": "2026-10-28T10:38:13Z",
+    "url": "https://github.com/elementalsouls/Claude-BugHunter"
+  },
+  {
+    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
+    "id": "HsuanYuLee/polaris",
+    "language": "Shell",
+    "name": "HsuanYuLee/polaris",
+    "stars": 5,
+    "updated_at": "2026-10-28T10:38:13Z",
+    "url": "https://github.com/HsuanYuLee/polaris"
+  },
+  {
+    "description": "Official imageat agent skill: generate images and videos from Claude Code, Codex, Cursor and other agents",
+    "id": "incendies/imageat-skills",
+    "language": "\u2014",
+    "name": "incendies/imageat-skills",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:37:17Z",
+    "url": "https://github.com/incendies/imageat-skills"
+  },
+  {
+    "description": "Get AI work you'd put your name on. Skills for Claude Code and GitHub Copilot: pages that don't look generated, evidence",
+    "id": "rohitjz/skills",
+    "language": "HTML",
+    "name": "rohitjz/skills",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:37:15Z",
+    "url": "https://github.com/rohitjz/skills"
+  },
+  {
+    "description": "\u4e13\u95e8\u4e0b\u8f7d \u67d0\u4e2a \u5fae\u4fe1\u516c\u4f17\u53f7\u7684\u6240\u6709\u6587\u7ae0\u7684skills\uff0c\u6279\u91cf\u4e0b\u8f7d\uff0c\u81ea\u9002\u5e94\u9650\u6d41",
+    "id": "konglong87/wechat-download-skill",
+    "language": "Python",
+    "name": "konglong87/wechat-download-skill",
+    "stars": 2,
+    "updated_at": "2026-10-28T10:37:15Z",
+    "url": "https://github.com/konglong87/wechat-download-skill"
+  },
+  {
+    "description": "A local web dashboard for your Claude Code setup. See, edit, switch on or off, and favorite every skill, agent, plugin, ",
+    "id": "Sumonta056/claude-storehouse",
+    "language": "JavaScript",
+    "name": "Sumonta056/claude-storehouse",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:37:26Z",
+    "url": "https://github.com/Sumonta056/claude-storehouse"
+  },
+  {
+    "description": "You shipped it and nobody is buying. Install this and Claude Code diagnoses why, then hands you the proven moves that fi",
+    "id": "maxxthemate-png/why-isnt-it-selling",
+    "language": "Python",
+    "name": "maxxthemate-png/why-isnt-it-selling",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:35:22Z",
+    "url": "https://github.com/maxxthemate-png/why-isnt-it-selling"
+  },
+  {
+    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
+    "id": "shauryalowkeygotaura/brand-launchpad",
+    "language": "HTML",
+    "name": "shauryalowkeygotaura/brand-launchpad",
+    "stars": 1,
+    "updated_at": "2026-10-28T10:34:31Z",
+    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
+  },
+  {
+    "description": "A free, open-source add-on for Claude, ChatGPT, Codex and Cursor that turns a few plain answers into a design system, so",
+    "id": "ckryptickunal/OpenDesigner",
+    "language": "Python",
+    "name": "ckryptickunal/OpenDesigner",
+    "stars": 13,
+    "updated_at": "2026-10-28T10:30:31Z",
+    "url": "https://github.com/ckryptickunal/OpenDesigner"
+  },
+  {
+    "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Muse, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent wor",
+    "id": "michael-denyer/pstack-claude",
+    "language": "TypeScript",
+    "name": "michael-denyer/pstack-claude",
+    "stars": 3544,
+    "updated_at": "2026-10-28T10:38:31Z",
+    "url": "https://github.com/michael-denyer/pstack-claude"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-28T10:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 29,
+    "updated_at": "2026-10-28T10:30:03Z",
+    "url": "https://github.com/geml-spec/geml"
   },
   {
     "description": "Claude Code skill / Agent Skill: turn code into editable draw.io diagrams (.drawio + verified PNG) from Mermaid. Class, ",
@@ -63,15 +225,6 @@
     "url": "https://github.com/ajitta/dialectic-skills"
   },
   {
-    "description": "Claude skills for the Indian stock market (NSE/BSE): market pulse, stock explainer, position sizer with Indian charges, ",
-    "id": "Amar1907-creator/india-trading-skills",
-    "language": "Python",
-    "name": "Amar1907-creator/india-trading-skills",
-    "stars": 1,
-    "updated_at": "2026-10-28T10:26:14Z",
-    "url": "https://github.com/Amar1907-creator/india-trading-skills"
-  },
-  {
     "description": "The issue-pipeline workflow system as a Claude Code plugin: GitHub Issues as the work-item SSOT, labels as the pipeline,",
     "id": "itw-creative-works/workkit",
     "language": "JavaScript",
@@ -97,15 +250,6 @@
     "stars": 20,
     "updated_at": "2026-10-28T10:23:50Z",
     "url": "https://github.com/liyupi/memecub"
-  },
-  {
-    "description": "Get AI work you'd put your name on. Skills for Claude Code and GitHub Copilot: pages that don't look generated, evidence",
-    "id": "rohitjz/skills",
-    "language": "HTML",
-    "name": "rohitjz/skills",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:23:49Z",
-    "url": "https://github.com/rohitjz/skills"
   },
   {
     "description": "MCM/ICM\uff08\u7f8e\u8d5b\uff09\u4f18\u79c0\u8bba\u6587\u5199\u4f5c\u6307\u5357\uff1a502 \u7bc7\u83b7\u5956\u8bba\u6587\uff082004\u20132024\uff09\u8bed\u6599\u63d0\u70bc\u7684\u5199\u4f5c\u53e3\u5f84 + \u5728\u7ebf\u6458\u8981\u81ea\u68c0\u5668\uff0c\u9644 Agent \u6280\u80fd\u5305\uff08Claude Code / OpenCode / Codex\uff09\u3001LaTeX \u6a21\u677f\u4e0e\u81ea\u52a8\u5316\u811a\u672c\u3002",
@@ -180,15 +324,6 @@
     "url": "https://github.com/berkcapar/product-management-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-28T10:15:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Open-source GTM skills for Claude: call prep, follow-ups, deal reviews, competitive intel and more, grounded in your rea",
     "id": "zime-skills/zime-skills",
     "language": "\u2014",
@@ -196,15 +331,6 @@
     "stars": 8,
     "updated_at": "2026-10-28T10:15:10Z",
     "url": "https://github.com/zime-skills/zime-skills"
-  },
-  {
-    "description": "\u4e13\u95e8\u4e0b\u8f7d \u67d0\u4e2a \u5fae\u4fe1\u516c\u4f17\u53f7\u7684\u6240\u6709\u6587\u7ae0\u7684skills\uff0c\u6279\u91cf\u4e0b\u8f7d\uff0c\u81ea\u9002\u5e94\u9650\u6d41",
-    "id": "konglong87/wechat-download-skill",
-    "language": "Python",
-    "name": "konglong87/wechat-download-skill",
-    "stars": 2,
-    "updated_at": "2026-10-28T10:14:51Z",
-    "url": "https://github.com/konglong87/wechat-download-skill"
   },
   {
     "description": "\u9762\u5411 AI Agent \u7684 STM32 \u5f00\u53d1\u6280\u80fd\uff1aSPL/HAL \u00d7 \u88f8\u673a/FreeRTOS \u56db\u8f68\u4ee3\u7801\u751f\u6210\uff0c\u5e26\u5f15\u811a\u5206\u914d\u8868\u3001\u63a5\u7ebf\u8868\u4e0e\u9759\u6001\u7eaa\u5f8b\u68c0\u67e5\u5668\uff0c\u6c89\u6dc0 48 \u6761\u5b9e\u6d4b\u5751\u3002",
@@ -311,7 +437,7 @@
     "language": "Shell",
     "name": "gaia-harness/gaia",
     "stars": 26,
-    "updated_at": "2026-10-28T10:05:22Z",
+    "updated_at": "2026-10-28T10:38:41Z",
     "url": "https://github.com/gaia-harness/gaia"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-28T10:08:46Z",
     "url": "https://github.com/WhiteMuush/Your-Claude-DevOps"
-  },
-  {
-    "description": "Claude Code plugin for Kaggle competitions: makes Claude a Grandmaster-level AI teammate. Leak-free CV, experiment track",
-    "id": "TranBaDat2607/claude-code-kaggle-grandmaster",
-    "language": "Python",
-    "name": "TranBaDat2607/claude-code-kaggle-grandmaster",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:03:52Z",
-    "url": "https://github.com/TranBaDat2607/claude-code-kaggle-grandmaster"
-  },
-  {
-    "description": "Automated data broker removal tool \u232b close your accounts, erase your data.",
-    "id": "danieljustus/symaira-eraseme",
-    "language": "Rust",
-    "name": "danieljustus/symaira-eraseme",
-    "stars": 9,
-    "updated_at": "2026-10-28T10:02:57Z",
-    "url": "https://github.com/danieljustus/symaira-eraseme"
-  },
-  {
-    "description": "\ud83c\udfac Claude Code skill: a pre-publish review for every Instagram reel through 74 principles from Adam Mosseri's public post",
-    "id": "Brain-ai-biz/mosseri-skill",
-    "language": "Python",
-    "name": "Brain-ai-biz/mosseri-skill",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:03:05Z",
-    "url": "https://github.com/Brain-ai-biz/mosseri-skill"
-  },
-  {
-    "description": "A Claude Code workspace template with AI skills for JIRA, PRs, code review, estimation, and daily standups",
-    "id": "HsuanYuLee/polaris",
-    "language": "Shell",
-    "name": "HsuanYuLee/polaris",
-    "stars": 5,
-    "updated_at": "2026-10-28T10:02:15Z",
-    "url": "https://github.com/HsuanYuLee/polaris"
-  },
-  {
-    "description": "A collection of personal AI coding assistant configurations, specialist agents, and automated workflows optimized for Py",
-    "id": "Borda/AI-Rig",
-    "language": "Python",
-    "name": "Borda/AI-Rig",
-    "stars": 29,
-    "updated_at": "2026-10-28T10:01:57Z",
-    "url": "https://github.com/Borda/AI-Rig"
-  },
-  {
-    "description": "Four agent skills plus the Gaffa docs MCP server, installed as one plugin for AI coding tools.",
-    "id": "GaffaAI/gaffa-for-ai",
-    "language": "Shell",
-    "name": "GaffaAI/gaffa-for-ai",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:00:19Z",
-    "url": "https://github.com/GaffaAI/gaffa-for-ai"
-  },
-  {
-    "description": "Edit videos with Claude Code: local transcripts, rough cuts, word-by-word captions, overlays and renders with ffmpeg \u2014 p",
-    "id": "Fluffyattack/edit-bay",
-    "language": "Python",
-    "name": "Fluffyattack/edit-bay",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:00:06Z",
-    "url": "https://github.com/Fluffyattack/edit-bay"
-  },
-  {
-    "description": "Dev setup, scripts, and Claude Code toolkit",
-    "id": "larsmagnus/dev",
-    "language": "TypeScript",
-    "name": "larsmagnus/dev",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:58:06Z",
-    "url": "https://github.com/larsmagnus/dev"
-  },
-  {
-    "description": "The discipline layer for Claude Code. What Claude Code should be.",
-    "id": "ChaseSunstrom/foreman",
-    "language": "Python",
-    "name": "ChaseSunstrom/foreman",
-    "stars": 1,
-    "updated_at": "2026-10-28T09:57:18Z",
-    "url": "https://github.com/ChaseSunstrom/foreman"
-  },
-  {
-    "description": "Write a premise, get a captioned, lip-synced 9:16 comedy short. Open source, no API keys, runs offline. Built on Remotio",
-    "id": "tamtree-ai/stick-stage",
-    "language": "TypeScript",
-    "name": "tamtree-ai/stick-stage",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:57:17Z",
-    "url": "https://github.com/tamtree-ai/stick-stage"
-  },
-  {
-    "description": "Versionierte Heimat meiner Agent Skills f\u00fcr Claude (claude.ai, Claude Code, API).",
-    "id": "wemwi/skill-library",
-    "language": "HTML",
-    "name": "wemwi/skill-library",
-    "stars": 1,
-    "updated_at": "2026-10-28T09:56:48Z",
-    "url": "https://github.com/wemwi/skill-library"
-  },
-  {
-    "description": "Open-source, self-hostable platform that turns agents into co-workers. Start with Software Factory: delegate GitHub issu",
-    "id": "curie-eng/curie",
-    "language": "Python",
-    "name": "curie-eng/curie",
-    "stars": 37,
-    "updated_at": "2026-10-28T10:03:48Z",
-    "url": "https://github.com/curie-eng/curie"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70426,
-    "updated_at": "2026-10-28T10:25:40Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Claude Code Skill:  Casa Editoriale ",
-    "id": "Joestick71/orbitanera",
-    "language": "\u2014",
-    "name": "Joestick71/orbitanera",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:56:17Z",
-    "url": "https://github.com/Joestick71/orbitanera"
   }
 ]
