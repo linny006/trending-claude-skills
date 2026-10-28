@@ -1,5 +1,176 @@
 [
   {
+    "description": "Claude Code skill for motion-graphics videos, drawn entirely in code: kinetic type, real motion blur, synthesized score,",
+    "id": "Praduan-1510/motion-film",
+    "language": "JavaScript",
+    "name": "Praduan-1510/motion-film",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:14:37Z",
+    "url": "https://github.com/Praduan-1510/motion-film"
+  },
+  {
+    "description": "Source-checked MCP servers, agent skills and tools, with access notes. Point an agent at this repo to bootstrap.",
+    "id": "techhorizonlabs/gearlist",
+    "language": "Python",
+    "name": "techhorizonlabs/gearlist",
+    "stars": 2,
+    "updated_at": "2026-10-28T09:13:48Z",
+    "url": "https://github.com/techhorizonlabs/gearlist"
+  },
+  {
+    "description": "SQL Server performance tuning skills for LLMs \u2014 829 checks across 26 skills covering T-SQL, execution plans, wait stats,",
+    "id": "vanterx/mssql-performance-skills",
+    "language": "TypeScript",
+    "name": "vanterx/mssql-performance-skills",
+    "stars": 12,
+    "updated_at": "2026-10-28T09:11:58Z",
+    "url": "https://github.com/vanterx/mssql-performance-skills"
+  },
+  {
+    "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native r",
+    "id": "reticlehq/reticle",
+    "language": "TypeScript",
+    "name": "reticlehq/reticle",
+    "stars": 1277,
+    "updated_at": "2026-10-28T09:10:49Z",
+    "url": "https://github.com/reticlehq/reticle"
+  },
+  {
+    "description": "A free, open-source suite of website skills: instructions your AI coding assistant follows to build and test a site you ",
+    "id": "karero/croftweaver",
+    "language": "Python",
+    "name": "karero/croftweaver",
+    "stars": 8,
+    "updated_at": "2026-10-28T09:10:17Z",
+    "url": "https://github.com/karero/croftweaver"
+  },
+  {
+    "description": "Reliable GIS for AI agents \u2014 vector/raster, terrain, network access and scanned-map georeferencing as a Claude Code / Co",
+    "id": "shioo-gis/gis-kit",
+    "language": "Python",
+    "name": "shioo-gis/gis-kit",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:10:09Z",
+    "url": "https://github.com/shioo-gis/gis-kit"
+  },
+  {
+    "description": "AI agents for your CRM and call recorder: 5 Claude Code skills that join lemlist and Claap to rank campaigns by good sal",
+    "id": "Othmane-Khadri/ai-agents-crm-call-recorders-lemlist-claap",
+    "language": "\u2014",
+    "name": "Othmane-Khadri/ai-agents-crm-call-recorders-lemlist-claap",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:09:26Z",
+    "url": "https://github.com/Othmane-Khadri/ai-agents-crm-call-recorders-lemlist-claap"
+  },
+  {
+    "description": "JobAppAgent: open-source AI job application agent (Agent Skill + CLI). Searches wide, matches one verified r\u00e9sum\u00e9, appli",
+    "id": "vaibhavarora14/job-application-agent",
+    "language": "JavaScript",
+    "name": "vaibhavarora14/job-application-agent",
+    "stars": 168,
+    "updated_at": "2026-10-28T09:08:36Z",
+    "url": "https://github.com/vaibhavarora14/job-application-agent"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70426,
+    "updated_at": "2026-10-28T09:11:39Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\ud83d\udcda \u7ed9\u4e2d\u56fd\u5f8b\u5e08/\u6cd5\u52a1\u7684\u4e00\u7ad9\u5f0f\u5f00\u6e90 AI \u5de5\u5177\u5730\u56fe\uff5c200+ \u4e2a gh \u6838\u9a8c\u5f00\u6e90\u4ed3\u00b7\u6309\u5de5\u4f5c\u573a\u666f\u5206\u7c7b\u00b7\u80fd\u5426\u5546\u7528\u6807\u6ce8\uff5cawesome list",
+    "id": "lilialla/awesome-legal-ai-zh",
+    "language": "Python",
+    "name": "lilialla/awesome-legal-ai-zh",
+    "stars": 173,
+    "updated_at": "2026-10-28T09:07:28Z",
+    "url": "https://github.com/lilialla/awesome-legal-ai-zh"
+  },
+  {
+    "description": "Skill per Claude Code: collega una nuova API Google (Search Console, Tag Manager, Business Profile, YouTube Data\u2026) alle ",
+    "id": "SalvatoreSalernods/collega-api-google",
+    "language": "Shell",
+    "name": "SalvatoreSalernods/collega-api-google",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:06:43Z",
+    "url": "https://github.com/SalvatoreSalernods/collega-api-google"
+  },
+  {
+    "description": "Short Claude Code sessions with a handover file every new session loads by itself, plus effort rules and a usage audit",
+    "id": "nrzz/claude-code-handover",
+    "language": "JavaScript",
+    "name": "nrzz/claude-code-handover",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:06:14Z",
+    "url": "https://github.com/nrzz/claude-code-handover"
+  },
+  {
+    "description": "Build Garmin Connect IQ watch faces with Claude Code \u2014 skill, MCP, pixel fonts, benchmark",
+    "id": "vitalikryzhenkous/connectiq-watchface-kit",
+    "language": "Python",
+    "name": "vitalikryzhenkous/connectiq-watchface-kit",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:05:29Z",
+    "url": "https://github.com/vitalikryzhenkous/connectiq-watchface-kit"
+  },
+  {
+    "description": "\u7194\u5ca9 Lava\uff1aA \u80a1\u80a1\u7968\u4e0e\u6982\u5ff5\u677f\u5757\u7684\u6d88\u606f\u9762\u70ed\u5ea6\u76d1\u6d4b\uff08\u7ed3\u6784\u5316\u53ea\u8bfb MCP/REST\uff0c\u652f\u6301\u91cf\u5316\u4ea4\u6613\u5de5\u5177\u4e0e AI Agent \u80a1\u5e02\u7814\u7a76\u63a5\u5165\uff09",
+    "id": "dustinliang666-blip/lava-mcp",
+    "language": "\u2014",
+    "name": "dustinliang666-blip/lava-mcp",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:04:59Z",
+    "url": "https://github.com/dustinliang666-blip/lava-mcp"
+  },
+  {
+    "description": "\u8ba9 AI agent \u66ff\u4f60\u8bfb\u65b0\u95fb\u5e76\u5c55\u793a\u603b\u7ed3\u7684 skill\uff1a\u8ba2\u9605\u6e90 \u2192 \u7b5b\u9009\u5408\u5e76 \u2192 \u4e2d\u6587\u6458\u8981 \u2192 \u672c\u5730\u9605\u8bfb\u5668\u3002\u8dd1\u5728\u73b0\u6709\u5927\u6a21\u578b\u8ba2\u9605\u91cc\uff0c\u65e0\u9700\u989d\u5916 API key\u3002",
+    "id": "lxucs/news-pool",
+    "language": "Python",
+    "name": "lxucs/news-pool",
+    "stars": 1,
+    "updated_at": "2026-10-28T09:04:58Z",
+    "url": "https://github.com/lxucs/news-pool"
+  },
+  {
+    "description": "Claude Code and Codex skill: AI agents draw HTML mockups, you review them on a local Figma-like canvas. Python only.",
+    "id": "chrisjo-dev/mockup-canvas",
+    "language": "Python",
+    "name": "chrisjo-dev/mockup-canvas",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:03:26Z",
+    "url": "https://github.com/chrisjo-dev/mockup-canvas"
+  },
+  {
+    "description": "Skill para agentes de IA: escrita em portugu\u00eas europeu (PT-PT) com a ortografia anterior ao Acordo Ortogr\u00e1fico de 1990.",
+    "id": "insforca/PortuguesSkill",
+    "language": "Python",
+    "name": "insforca/PortuguesSkill",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:00:56Z",
+    "url": "https://github.com/insforca/PortuguesSkill"
+  },
+  {
+    "description": "Interactive docs for coding agents. Agents publish research as readable sessions; humans read, annotate, and decide, the",
+    "id": "ENEmyr/brief",
+    "language": "TypeScript",
+    "name": "ENEmyr/brief",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:00:51Z",
+    "url": "https://github.com/ENEmyr/brief"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-28T09:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Ready-to-use Claude Code configuration for Dev and Ops work: global rules, 32 skills, hooks and memory scaffolding. Gene",
     "id": "WhiteMuush/Your-Claude-DevOps",
     "language": "JavaScript",
@@ -9,15 +180,6 @@
     "url": "https://github.com/WhiteMuush/Your-Claude-DevOps"
   },
   {
-    "description": "Reliable GIS for AI agents \u2014 vector/raster, terrain, network access and scanned-map georeferencing as a Claude Code / Co",
-    "id": "shioo-gis/gis-kit",
-    "language": "Python",
-    "name": "shioo-gis/gis-kit",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:58:19Z",
-    "url": "https://github.com/shioo-gis/gis-kit"
-  },
-  {
     "description": "A Codex and Claude Code plugin with focused skills for turning requests into clear, actionable work: intent clarificatio",
     "id": "wheakerd/axiom",
     "language": "Python",
@@ -25,24 +187,6 @@
     "stars": 3,
     "updated_at": "2026-10-28T08:57:26Z",
     "url": "https://github.com/wheakerd/axiom"
-  },
-  {
-    "description": "Source-checked MCP servers, agent skills and tools, with access notes. Point an agent at this repo to bootstrap.",
-    "id": "techhorizonlabs/gearlist",
-    "language": "Python",
-    "name": "techhorizonlabs/gearlist",
-    "stars": 2,
-    "updated_at": "2026-10-28T08:57:00Z",
-    "url": "https://github.com/techhorizonlabs/gearlist"
-  },
-  {
-    "description": "Interactive docs for coding agents. Agents publish research as readable sessions; humans read, annotate, and decide, the",
-    "id": "ENEmyr/brief",
-    "language": "TypeScript",
-    "name": "ENEmyr/brief",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:54:19Z",
-    "url": "https://github.com/ENEmyr/brief"
   },
   {
     "description": "Agent skills for researching your family history, for Grok Bot, Codex, Claude and Gemini",
@@ -77,7 +221,7 @@
     "language": "HTML",
     "name": "wemwi/skill-library",
     "stars": 1,
-    "updated_at": "2026-10-28T08:50:19Z",
+    "updated_at": "2026-10-28T09:15:07Z",
     "url": "https://github.com/wemwi/skill-library"
   },
   {
@@ -117,30 +261,12 @@
     "url": "https://github.com/unmerge-app/unmerge-mcp"
   },
   {
-    "description": "Skill para agentes de IA: escrita em portugu\u00eas europeu (PT-PT) com a ortografia anterior ao Acordo Ortogr\u00e1fico de 1990.",
-    "id": "insforca/PortuguesSkill",
-    "language": "Python",
-    "name": "insforca/PortuguesSkill",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:46:56Z",
-    "url": "https://github.com/insforca/PortuguesSkill"
-  },
-  {
-    "description": "SQL Server performance tuning skills for LLMs \u2014 829 checks across 26 skills covering T-SQL, execution plans, wait stats,",
-    "id": "vanterx/mssql-performance-skills",
-    "language": "TypeScript",
-    "name": "vanterx/mssql-performance-skills",
-    "stars": 12,
-    "updated_at": "2026-10-28T08:46:50Z",
-    "url": "https://github.com/vanterx/mssql-performance-skills"
-  },
-  {
     "description": "A Claude Code plugin that turns a rough request into a clear spec.",
     "id": "SatanshuMishra/interphase",
     "language": "Python",
     "name": "SatanshuMishra/interphase",
     "stars": 1,
-    "updated_at": "2026-10-28T08:50:48Z",
+    "updated_at": "2026-10-28T09:13:44Z",
     "url": "https://github.com/SatanshuMishra/interphase"
   },
   {
@@ -162,20 +288,11 @@
     "url": "https://github.com/crowdsecurity/crowdsec-skill"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-28T08:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Open-source skills for designing and reviewing software with AI agents",
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 3801,
+    "stars": 3822,
     "updated_at": "2026-10-28T08:44:12Z",
     "url": "https://github.com/google/elephant-goldfish-model"
   },
@@ -193,7 +310,7 @@
     "id": "BubbleBrainBB/BB-Video",
     "language": "JavaScript",
     "name": "BubbleBrainBB/BB-Video",
-    "stars": 43,
+    "stars": 44,
     "updated_at": "2026-10-28T08:43:17Z",
     "url": "https://github.com/BubbleBrainBB/BB-Video"
   },
@@ -203,7 +320,7 @@
     "language": "Python",
     "name": "blisspixel/primr",
     "stars": 3,
-    "updated_at": "2026-10-28T08:58:52Z",
+    "updated_at": "2026-10-28T09:02:04Z",
     "url": "https://github.com/blisspixel/primr"
   },
   {
@@ -234,15 +351,6 @@
     "url": "https://github.com/ghuron/skills"
   },
   {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70426,
-    "updated_at": "2026-10-28T08:57:38Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
     "description": "\u8b93 Claude \u5beb\u51fa\u53f0\u7063\u8b80\u8005\u8b80\u5f97\u9806\u7684\u6b63\u9ad4\u4e2d\u6587\uff1a\u907f\u958b AI \u8154\u3001\u7ffb\u8b6f\u8154\u8207\u5c0d\u5cb8\u7528\u8a9e\u7684 Agent Skill",
     "id": "tedliou/baihua",
     "language": "Python",
@@ -266,7 +374,7 @@
     "language": "Shell",
     "name": "gaia-harness/gaia",
     "stars": 26,
-    "updated_at": "2026-10-28T08:58:05Z",
+    "updated_at": "2026-10-28T09:04:51Z",
     "url": "https://github.com/gaia-harness/gaia"
   },
   {
@@ -274,7 +382,7 @@
     "id": "tt-a1i/archify",
     "language": "JavaScript",
     "name": "tt-a1i/archify",
-    "stars": 90705,
+    "stars": 90718,
     "updated_at": "2026-10-28T08:36:48Z",
     "url": "https://github.com/tt-a1i/archify"
   },
@@ -340,113 +448,5 @@
     "stars": 135,
     "updated_at": "2026-10-28T08:24:51Z",
     "url": "https://github.com/Canary-ECAD/eplan-mcp"
-  },
-  {
-    "description": "Turn blurry raster logos into clean, scalable SVGs - CLI, Python library and Claude skill. Traces the graphic with potra",
-    "id": "bernhardbrugger/logo-to-svg",
-    "language": "Python",
-    "name": "bernhardbrugger/logo-to-svg",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:38:16Z",
-    "url": "https://github.com/bernhardbrugger/logo-to-svg"
-  },
-  {
-    "description": "",
-    "id": "2000silpeed/meta-prompt-skill",
-    "language": "Python",
-    "name": "2000silpeed/meta-prompt-skill",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:23:55Z",
-    "url": "https://github.com/2000silpeed/meta-prompt-skill"
-  },
-  {
-    "description": "Find design token drift in a codebase: raw hex colors, off-scale spacing, near-duplicate values",
-    "id": "humbleteam/audit-design-tokens",
-    "language": "\u2014",
-    "name": "humbleteam/audit-design-tokens",
-    "stars": 2,
-    "updated_at": "2026-10-28T08:22:23Z",
-    "url": "https://github.com/humbleteam/audit-design-tokens"
-  },
-  {
-    "description": "\u6e17\u900f\u6d4b\u8bd5 / \u5b89\u5168\u7814\u7a76 / \u6f0f\u6d1e\u53d1\u73b0\u5168\u6d41\u7a0b Agent Skill\u3002",
-    "id": "enilmalus/Enil-ling-pesing",
-    "language": "\u2014",
-    "name": "enilmalus/Enil-ling-pesing",
-    "stars": 4,
-    "updated_at": "2026-10-28T08:21:59Z",
-    "url": "https://github.com/enilmalus/Enil-ling-pesing"
-  },
-  {
-    "description": "Relex plugin for Claude",
-    "id": "relexlegal/relex-claude",
-    "language": "Python",
-    "name": "relexlegal/relex-claude",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:21:12Z",
-    "url": "https://github.com/relexlegal/relex-claude"
-  },
-  {
-    "description": "Skill de Claude Code: presentaciones de investigaci\u00f3n donde cada cifra cita su fuente, con contraevidencia, verificaci\u00f3n",
-    "id": "correiacristofer/deck-evidencia",
-    "language": "JavaScript",
-    "name": "correiacristofer/deck-evidencia",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:20:57Z",
-    "url": "https://github.com/correiacristofer/deck-evidencia"
-  },
-  {
-    "description": "Use Claude Code to create & launch cold email campaigns",
-    "id": "stacksushi/claudecodeoutbound",
-    "language": "TypeScript",
-    "name": "stacksushi/claudecodeoutbound",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:20:54Z",
-    "url": "https://github.com/stacksushi/claudecodeoutbound"
-  },
-  {
-    "description": "Agent Skills by mr-kelly",
-    "id": "mr-kelly/skills",
-    "language": "JavaScript",
-    "name": "mr-kelly/skills",
-    "stars": 5,
-    "updated_at": "2026-10-28T08:20:50Z",
-    "url": "https://github.com/mr-kelly/skills"
-  },
-  {
-    "description": "Auto dlmm Meteora bot system",
-    "id": "romankurnovskii/etemaro",
-    "language": "TypeScript",
-    "name": "romankurnovskii/etemaro",
-    "stars": 44,
-    "updated_at": "2026-10-28T08:23:26Z",
-    "url": "https://github.com/romankurnovskii/etemaro"
-  },
-  {
-    "description": "\u4e00\u5957\u628a\u300a\u7b56\u7565\u535a\u5f08\u300b\u84b8\u998f\u6210\u53ef\u590d\u7528\u535a\u5f08\u5206\u6790 skill \u7684 AI \u5de5\u5177\u5305\uff1a\u5148\u7ed9\u5c40\u9762\u5224\u578b\uff0c\u518d\u5b9a\u4f4d\u5747\u8861\u3001\u8bc4\u4f30\u4fe1\u606f\u53ef\u4fe1\u5ea6\u3001\u8bbe\u5b9a\u51fa\u4ef7\u4e0e\u9000\u51fa\u7eaa\u5f8b\u3002",
-    "id": "raphael-y7/game-of-strategy-skill",
-    "language": "\u2014",
-    "name": "raphael-y7/game-of-strategy-skill",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:20:17Z",
-    "url": "https://github.com/raphael-y7/game-of-strategy-skill"
-  },
-  {
-    "description": "\u4e00\u5957\u628a\u300a\u6ce2\u6d6a\u7406\u8bba\u300b\u84b8\u998f\u6210\u53ef\u590d\u7528 AI skill \u7684\u80a1\u7968\u6ce2\u6d6a\u5206\u6790\u5de5\u5177\u5305\uff1a\u4e5d\u7ea7\u6d6a\u7ea7\u6570\u6d6a\u3001\u901a\u9053\u6cd5\u5b9a\u4f4d\u7b2c\u4e94\u6d6a\u7ec8\u70b9\u3001\u9012\u5f52\u6301\u6709\u5356\u51fa\u3001\u8c03\u6574\u5f62\u6001\u4e0e\u718a\u5e02\u5efa\u4ed3\u8bca\u65ad\u3002",
-    "id": "raphael-y7/wave-theory-skill",
-    "language": "\u2014",
-    "name": "raphael-y7/wave-theory-skill",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:20:09Z",
-    "url": "https://github.com/raphael-y7/wave-theory-skill"
-  },
-  {
-    "description": "\u4e00\u5957\u628a\u300a\u5f7c\u5f97\u00b7\u6797\u5947\u7684\u6210\u529f\u6295\u8d44\u300b\u84b8\u998f\u6210\u53ef\u590d\u7528\u9009\u80a1\u4e0e\u6301\u6709\u80fd\u529b\u5361\u7684 AI skill \u5de5\u5177\u5305",
-    "id": "raphael-y7/peter-lynch-invest-skill",
-    "language": "\u2014",
-    "name": "raphael-y7/peter-lynch-invest-skill",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:20:07Z",
-    "url": "https://github.com/raphael-y7/peter-lynch-invest-skill"
   }
 ]
