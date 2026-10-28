@@ -1,11 +1,137 @@
 [
   {
+    "description": "MCP server for EPLAN Electric P8: ~200 tools to drive EPLAN from Claude Code, Codex, Cursor or any MCP client (actions, ",
+    "id": "Canary-ECAD/eplan-mcp",
+    "language": "Python",
+    "name": "Canary-ECAD/eplan-mcp",
+    "stars": 135,
+    "updated_at": "2026-10-28T06:39:20Z",
+    "url": "https://github.com/Canary-ECAD/eplan-mcp"
+  },
+  {
+    "description": "\ud83d\udc00 the agentic stack for those who have to save tokens",
+    "id": "shortcuts/radin",
+    "language": "Shell",
+    "name": "shortcuts/radin",
+    "stars": 6,
+    "updated_at": "2026-10-28T06:39:57Z",
+    "url": "https://github.com/shortcuts/radin"
+  },
+  {
+    "description": "Agent skill for designing and red-teaming AI benchmarks and evals, with a scorer attack battery, judge meta-evaluation, ",
+    "id": "closestfriend/benchmark-designer",
+    "language": "Python",
+    "name": "closestfriend/benchmark-designer",
+    "stars": 0,
+    "updated_at": "2026-10-28T06:39:25Z",
+    "url": "https://github.com/closestfriend/benchmark-designer"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 108093,
+    "updated_at": "2026-10-28T06:42:19Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "MCM/ICM \u4f18\u79c0\u8bba\u6587\u5199\u4f5c\u6307\u5357\uff1a502 \u7bc7\u83b7\u5956\u8bba\u6587\uff082004\u20132024\uff09\u8bed\u6599\u63d0\u70bc\u7684\u5199\u4f5c\u53e3\u5f84 + \u5728\u7ebf\u6458\u8981\u81ea\u68c0\u5668\uff0c\u9644 Agent \u6280\u80fd\u5305\u3001LaTeX \u6a21\u677f\u4e0e\u81ea\u52a8\u5316\u811a\u672c\u3002",
+    "id": "Timevelyer/mcm-o-guide",
+    "language": "JavaScript",
+    "name": "Timevelyer/mcm-o-guide",
+    "stars": 0,
+    "updated_at": "2026-10-28T06:36:47Z",
+    "url": "https://github.com/Timevelyer/mcm-o-guide"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70421,
+    "updated_at": "2026-10-28T06:39:58Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "\uac1c\ubc1c \uacfc\uc815\uc5d0\uc11c \uc4f0\ub294 Claude Code \uc2a4\ud0ac \ubaa8\uc74c. \uc791\uc5c5 \uc804 \uc694\uccad \uad6c\uccb4\ud654, \ubaa8\ub378\ubcc4 \ud504\ub86c\ud504\ud2b8 \uc124\uacc4\uc640 \uc2a4\ud0ac \uc644\uc131, \ubb38\uc11c \uc791\uc131, \ucf54\ub4dc \ucee8\ubca4\uc158 \uc124\uc815\u00b7\uac80\uc0ac \ub4f1 \uc77c\uc0c1 \uac1c\ubc1c \ud750\ub984\uc744 \ub3d5\ub294\ub2e4.",
+    "id": "develeep/dev-gongbang",
+    "language": "Python",
+    "name": "develeep/dev-gongbang",
+    "stars": 0,
+    "updated_at": "2026-10-28T06:35:42Z",
+    "url": "https://github.com/develeep/dev-gongbang"
+  },
+  {
+    "description": "\u4e00\u6b21\u5b8c\u6574\u7684\u65c5\u884c\u89c4\u5212\uff1a\u8bbf\u8c08\u6536\u655b \u2192 \u81ea\u7136\u89c2\u5bdf\u4e13\u9879 \u2192 \u7ea2\u65b9\u590d\u6838 \u2192 \u53ef\u7167\u7740\u8d70\u7684\u6bcf\u65e5\u884c\u7a0b\uff08Markdown + \u7eaf\u79bb\u7ebf\u5355\u6587\u4ef6 HTML\uff09",
+    "id": "fengdihuahua/travel-orchestrator",
+    "language": "Python",
+    "name": "fengdihuahua/travel-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-10-28T06:33:41Z",
+    "url": "https://github.com/fengdihuahua/travel-orchestrator"
+  },
+  {
+    "description": "\u26a1 SageOx HiveMind 2026 \u2014 Agentic Engineering Toolkit for Autonomous Workflows",
+    "id": "JhoseWolf/sageox-hivemind-engine",
+    "language": "HTML",
+    "name": "JhoseWolf/sageox-hivemind-engine",
+    "stars": 3,
+    "updated_at": "2026-10-28T06:33:05Z",
+    "url": "https://github.com/JhoseWolf/sageox-hivemind-engine"
+  },
+  {
+    "description": "Symfony UX Skills Bundle 2026 - Master Live & Twig Components, Turbo, Stimulus",
+    "id": "ashfaquecg806-dot/symfony-ux-insights",
+    "language": "HTML",
+    "name": "ashfaquecg806-dot/symfony-ux-insights",
+    "stars": 1,
+    "updated_at": "2026-10-28T06:32:48Z",
+    "url": "https://github.com/ashfaquecg806-dot/symfony-ux-insights"
+  },
+  {
+    "description": "Flint \u00b7 local-skills-hub \u2014 a local-first personal AI skills asset manager. Centralize, tag, deduplicate skills, and depl",
+    "id": "lcy362/flint",
+    "language": "TypeScript",
+    "name": "lcy362/flint",
+    "stars": 35,
+    "updated_at": "2026-10-28T06:32:20Z",
+    "url": "https://github.com/lcy362/flint"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 90622,
+    "updated_at": "2026-10-28T06:31:21Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "Ready-to-use Claude Code skills and plugins: make AI coding agents faster, more reliable, and prove their work.",
+    "id": "WST2002/claude-code-skills",
+    "language": "JavaScript",
+    "name": "WST2002/claude-code-skills",
+    "stars": 3,
+    "updated_at": "2026-10-28T06:30:24Z",
+    "url": "https://github.com/WST2002/claude-code-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-28T06:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Code skills for KiCad 10 hardware engineering: requirements, part selection, schematic and PCB inspection and rev",
     "id": "Natchpai/Hardware-Copilot",
     "language": "Python",
     "name": "Natchpai/Hardware-Copilot",
     "stars": 0,
-    "updated_at": "2026-10-28T06:29:54Z",
+    "updated_at": "2026-10-28T06:30:47Z",
     "url": "https://github.com/Natchpai/Hardware-Copilot"
   },
   {
@@ -49,18 +175,9 @@
     "id": "BubbleBrainBB/BB-Video",
     "language": "JavaScript",
     "name": "BubbleBrainBB/BB-Video",
-    "stars": 27,
+    "stars": 29,
     "updated_at": "2026-10-28T06:28:59Z",
     "url": "https://github.com/BubbleBrainBB/BB-Video"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70419,
-    "updated_at": "2026-10-28T06:28:17Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
     "description": "Datacircle lists all the GTM APIs",
@@ -97,15 +214,6 @@
     "stars": 24,
     "updated_at": "2026-10-28T06:24:28Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 108092,
-    "updated_at": "2026-10-28T06:29:11Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "Professional Claude skills for real estate agents and fitness coaches.",
@@ -171,15 +279,6 @@
     "url": "https://github.com/indranilbanerjee/digital-marketing-pro"
   },
   {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 90617,
-    "updated_at": "2026-10-28T06:28:30Z",
-    "url": "https://github.com/tt-a1i/archify"
-  },
-  {
     "description": "Compare API policies and saved MCP catalogs with Gooo. Offline CLIs, service-grant MCP tools, and replayable results.",
     "id": "kimjooyoon/gooo-go-ports",
     "language": "Go",
@@ -230,7 +329,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 1276,
-    "updated_at": "2026-10-28T06:26:51Z",
+    "updated_at": "2026-10-28T06:34:30Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -279,15 +378,6 @@
     "url": "https://github.com/alexcpn/greybeard"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-28T06:15:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Turn a song into a pixel-art MV: research \u2192 script \u2192 storyboard \u2192 render \u2192 audit. Spec-first, no code, works with any ag",
     "id": "Zhxsnd/pixel-mv-director",
     "language": "\u2014",
@@ -313,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T06:11:11Z",
     "url": "https://github.com/jinyeong03/ai-lawbook"
-  },
-  {
-    "description": "MCM/ICM \u4f18\u79c0\u8bba\u6587\u5199\u4f5c\u6307\u5357\uff1a502 \u7bc7\u83b7\u5956\u8bba\u6587\uff082004\u20132024\uff09\u8bed\u6599\u63d0\u70bc\u7684\u5199\u4f5c\u53e3\u5f84 + \u5728\u7ebf\u6458\u8981\u81ea\u68c0\u5668\uff0c\u9644 Agent \u6280\u80fd\u5305\u3001LaTeX \u6a21\u677f\u4e0e\u81ea\u52a8\u5316\u811a\u672c\u3002",
-    "id": "Timevelyer/mcm-o-guide",
-    "language": "JavaScript",
-    "name": "Timevelyer/mcm-o-guide",
-    "stars": 0,
-    "updated_at": "2026-10-28T06:09:33Z",
-    "url": "https://github.com/Timevelyer/mcm-o-guide"
   },
   {
     "description": "Free AI skills for bookkeepers and small accounting practices: records chasers, transaction query lists, plain-English c",
@@ -367,86 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-28T06:02:43Z",
     "url": "https://github.com/AgentGameLab/mneme"
-  },
-  {
-    "description": "A Claude skill that makes AI-built software check its own work: gated work packages, independent review, decision record",
-    "id": "MahdiAbdnabi/Claude-playbook-skills",
-    "language": "Python",
-    "name": "MahdiAbdnabi/Claude-playbook-skills",
-    "stars": 0,
-    "updated_at": "2026-10-28T06:00:11Z",
-    "url": "https://github.com/MahdiAbdnabi/Claude-playbook-skills"
-  },
-  {
-    "description": "\u5fae\u4fe1\u8bfb\u4e66\u82cf\u683c\u62c9\u5e95\u4f34\u8bfb skill\uff1a\u79bb\u7ebf\u5355\u6587\u4ef6\uff0c\u7528\u8ffd\u95ee\u5f0f\u5bf9\u8bdd\u966a\u4f60\u8bfb\u4e66\uff0c\u7ef4\u62a4 Reader Memory \u4e0e\u8de8\u4e66\u89c2\u70b9\u5bf9\u7167\u3002An offline Socratic reading companion for WeRead \u2014 question-d",
-    "id": "bonniegeng-max/weread-socrates",
-    "language": "HTML",
-    "name": "bonniegeng-max/weread-socrates",
-    "stars": 1,
-    "updated_at": "2026-10-28T05:59:46Z",
-    "url": "https://github.com/bonniegeng-max/weread-socrates"
-  },
-  {
-    "description": "Claude Code & Codex plugin: choose your repo's AI coding workflow, verification, architecture, and AI code review once \u2014",
-    "id": "enebin/groundwork",
-    "language": "Python",
-    "name": "enebin/groundwork",
-    "stars": 2,
-    "updated_at": "2026-10-28T05:59:27Z",
-    "url": "https://github.com/enebin/groundwork"
-  },
-  {
-    "description": "",
-    "id": "2000silpeed/meta-prompt-skill",
-    "language": "Python",
-    "name": "2000silpeed/meta-prompt-skill",
-    "stars": 0,
-    "updated_at": "2026-10-28T05:59:12Z",
-    "url": "https://github.com/2000silpeed/meta-prompt-skill"
-  },
-  {
-    "description": "\u628a\u6587\u5b57\u3001\u5bf9\u8bdd\u3001\u65e5\u8bb0\u3001\u7167\u7247\u7b14\u8bb0\u53d8\u6210\u6f2b\u753b / \u7ed8\u672c / \u4fe1\u606f\u56fe / \u56fe\u6587\u957f\u56fe\u7684 agent skill\uff0c\u81ea\u5e26\u5206\u955c\u89c4\u5212\u4e0e 11 \u79cd\u753b\u98ce\u9884\u8bbe\u3002Turn text, dialog, diary entries, or photo notes into",
-    "id": "bonniegeng-max/text-to-comic",
-    "language": "Python",
-    "name": "bonniegeng-max/text-to-comic",
-    "stars": 1,
-    "updated_at": "2026-10-28T05:58:37Z",
-    "url": "https://github.com/bonniegeng-max/text-to-comic"
-  },
-  {
-    "description": "\u8bd7\u9047 \u00b7 \u5510\u8bd7\u5b8b\u8bcd\u5171\u9e23\u65e5\u7b7e skill\uff1a\u4eca\u65e5\u65e5\u7b7e / \u627e\u4e00\u53e5\u8bd7 / \u8bf4\u4eba\u8bdd\u62c6\u89e3 / \u80cc\u8bd7\u590d\u4e60 / \u8bfb\u8bd7\u5468\u8bb0\uff0c\u542b\u674e\u767d\u5168\u96c6 + \u675c\u752b\u82cf\u8f7c\u7cbe\u9009\u8bd7\u5e93\u3002Connect Tang and Song poetry with everyday life \u2014",
-    "id": "bonniegeng-max/poetry-resonance",
-    "language": "\u2014",
-    "name": "bonniegeng-max/poetry-resonance",
-    "stars": 1,
-    "updated_at": "2026-10-28T05:58:11Z",
-    "url": "https://github.com/bonniegeng-max/poetry-resonance"
-  },
-  {
-    "description": "\u770b\u5c55\u5168\u94fe\u8def\u52a9\u624b\uff1a\u884c\u524d\u7b56\u5c55\u5361 \u2192 \u884c\u4e2d\u89c2\u5c55\u5f15\u5bfc\u4e0e\u5c55\u54c1\u8bb2\u89e3 \u2192 \u884c\u540e\u7535\u5b50\u624b\u5e10 + \u5c55\u54c1\u6253\u5361\u5370\u7ae0\u3002An end-to-end museum companion \u2014 pre-visit cards, in-visit guidance, post-",
-    "id": "bonniegeng-max/museum-explorer",
-    "language": "JavaScript",
-    "name": "bonniegeng-max/museum-explorer",
-    "stars": 1,
-    "updated_at": "2026-10-28T05:57:46Z",
-    "url": "https://github.com/bonniegeng-max/museum-explorer"
-  },
-  {
-    "description": "xhs\u5168\u7f51\u5b9e\u65f6\u70ed\u70b9\u9002\u5408\u5185\u5bb9\u521b\u4f5c\u8005\u3001\u8fd0\u8425\u3001\u7535\u5546\u3001\u8425\u9500\u5728\u7528\u6237\u60f3\u77e5\u9053\u73b0\u5728\u6700\u70ed\u95e8\u7684\u6296\u97f3\u70ed\u70b9\u65f6\u4f7f\u7528\uff0c\u5e2e\u52a9\u57fa\u4e8e\u8f93\u5165\u6750\u6599\u751f\u6210\u5b9e\u65f6\u70ed\u70b9\u3001\u5f53\u524d\u70ed\u699c\u5185\u5bb9\u3001\u503c\u5f97\u5373\u65f6\u8ddf\u8fdb\u7684\u8bdd\u9898\u3002",
-    "id": "why20261/rednote-hot-trend",
-    "language": "JavaScript",
-    "name": "why20261/rednote-hot-trend",
-    "stars": 0,
-    "updated_at": "2026-10-28T05:57:42Z",
-    "url": "https://github.com/why20261/rednote-hot-trend"
-  },
-  {
-    "description": "\u628a Markdown \u4ece\u804a\u5929\u91cc\u62ff\u51fa\u6765\uff1a.md \u2192 \u624b\u673a\u6d4f\u89c8\u5668\u53ef\u76f4\u63a5\u6253\u5f00\u7684\u7f51\u9875\uff0c\u8868\u683c\u5bf9\u9f50\u3001\u4ee3\u7801\u5e26\u4e00\u952e\u590d\u5236\uff0c\u53ef\u9009\u957f\u622a\u56fe\u5bfc\u51fa\u3002\u672c\u5730\u8fd0\u884c\u3001\u4e0d\u4e0a\u4f20\u3002Pulling Markdown out of chat into something people ",
-    "id": "bonniegeng-max/md-out-of-chat",
-    "language": "Python",
-    "name": "bonniegeng-max/md-out-of-chat",
-    "stars": 1,
-    "updated_at": "2026-10-28T05:57:21Z",
-    "url": "https://github.com/bonniegeng-max/md-out-of-chat"
   }
 ]
