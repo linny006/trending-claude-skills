@@ -1,5 +1,95 @@
 [
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 108080,
+    "updated_at": "2026-10-28T05:12:58Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 90583,
+    "updated_at": "2026-10-28T05:10:45Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "2,355 free articles on Claude Code skills, tutorials & comparisons",
+    "id": "theluckystrike/claude-skills-guide",
+    "language": "HTML",
+    "name": "theluckystrike/claude-skills-guide",
+    "stars": 4,
+    "updated_at": "2026-10-28T05:07:36Z",
+    "url": "https://github.com/theluckystrike/claude-skills-guide"
+  },
+  {
+    "description": "Run coding agents anywhere and keep one record of the work, with tools and memory in sync across your harnesses. Local f",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 81,
+    "updated_at": "2026-10-28T05:08:56Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 103783,
+    "updated_at": "2026-10-28T05:05:31Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "One format, two readers. People and AI agents now co-write the same document. Legible for people; addressable, verifiabl",
+    "id": "geml-spec/geml",
+    "language": "JavaScript",
+    "name": "geml-spec/geml",
+    "stars": 29,
+    "updated_at": "2026-10-28T05:04:06Z",
+    "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Machine-wide PI WEB panel for managing the agent skills Pi loads from ~/.agents/skills.",
+    "id": "elementalvoid/pi-web-skills",
+    "language": "TypeScript",
+    "name": "elementalvoid/pi-web-skills",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:06:48Z",
+    "url": "https://github.com/elementalvoid/pi-web-skills"
+  },
+  {
+    "description": "A coding-agent skill that audits a Shopify store before launch and returns a prioritised fix list, with validated JSON r",
+    "id": "DU8866-nice/shopify-launch-check-skill",
+    "language": "JavaScript",
+    "name": "DU8866-nice/shopify-launch-check-skill",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:03:03Z",
+    "url": "https://github.com/DU8866-nice/shopify-launch-check-skill"
+  },
+  {
+    "description": "PostgreSQL MCP 2026 Best AI Database Access Tool for Developers",
+    "id": "Ford-1/postgresql-mcp-connector",
+    "language": "HTML",
+    "name": "Ford-1/postgresql-mcp-connector",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:00:59Z",
+    "url": "https://github.com/Ford-1/postgresql-mcp-connector"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-28T05:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent skill for Bricks Builder: paste-ready JSON for layouts, templates, query loops, popups, ACF and WooCommerce, verif",
     "id": "wpgaurav/bricks-skills",
     "language": "\u2014",
@@ -63,30 +153,12 @@
     "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
   },
   {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 103781,
-    "updated_at": "2026-10-28T04:56:19Z",
-    "url": "https://github.com/thedotmack/claude-mem"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 108076,
-    "updated_at": "2026-10-28T04:59:47Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
     "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
     "id": "code-yeongyu/oh-my-openagent",
     "language": "TypeScript",
     "name": "code-yeongyu/oh-my-openagent",
     "stars": 70414,
-    "updated_at": "2026-10-28T04:57:44Z",
+    "updated_at": "2026-10-28T05:14:26Z",
     "url": "https://github.com/code-yeongyu/oh-my-openagent"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Shell",
     "name": "gaia-harness/gaia",
     "stars": 26,
-    "updated_at": "2026-10-28T04:55:58Z",
+    "updated_at": "2026-10-28T05:04:10Z",
     "url": "https://github.com/gaia-harness/gaia"
   },
   {
@@ -171,15 +243,6 @@
     "url": "https://github.com/alicexixi85/women-decision-intelligence"
   },
   {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 90577,
-    "updated_at": "2026-10-28T04:46:59Z",
-    "url": "https://github.com/tt-a1i/archify"
-  },
-  {
     "description": "Datacircle lists all the GTM APIs",
     "id": "waynehamadi/datacircle",
     "language": "\u2014",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T04:45:57Z",
     "url": "https://github.com/bokyostudio/pg-practice-knowledgebase"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-28T04:45:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Spitball, grill and build an idea into a polished one-page site, in whatever AI assistant you use.",
@@ -302,7 +356,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 1276,
-    "updated_at": "2026-10-28T04:54:14Z",
+    "updated_at": "2026-10-28T05:13:32Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "JEFF7712/nix-agent",
     "stars": 17,
-    "updated_at": "2026-10-28T04:25:57Z",
+    "updated_at": "2026-10-28T05:13:05Z",
     "url": "https://github.com/JEFF7712/nix-agent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T04:22:13Z",
     "url": "https://github.com/nerdkim/im-a-korean-ai-in-seoul"
-  },
-  {
-    "description": "Battle-tested DayZ (Enfusion) modding knowledge for AI coding assistants: 42 domain playbooks (DayZ 1.29 stable and 1.30",
-    "id": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "language": "Python",
-    "name": "willy92wins/DayZ-Modding-Knowledge-Pack",
-    "stars": 18,
-    "updated_at": "2026-10-28T04:20:36Z",
-    "url": "https://github.com/willy92wins/DayZ-Modding-Knowledge-Pack"
-  },
-  {
-    "description": "\ud83d\ude80 WebGPU Agent Skill 2026: Build GPU Apps with Easel.js & AI Coding Agents",
-    "id": "AllyJuma1/easel-js-cpu-render-kit",
-    "language": "HTML",
-    "name": "AllyJuma1/easel-js-cpu-render-kit",
-    "stars": 1,
-    "updated_at": "2026-10-28T04:19:20Z",
-    "url": "https://github.com/AllyJuma1/easel-js-cpu-render-kit"
-  },
-  {
-    "description": "Run coding agents anywhere and keep one record of the work, with tools and memory in sync across your harnesses. Local f",
-    "id": "escoffier-labs/brigade",
-    "language": "Python",
-    "name": "escoffier-labs/brigade",
-    "stars": 81,
-    "updated_at": "2026-10-28T04:51:01Z",
-    "url": "https://github.com/escoffier-labs/brigade"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 2,
-    "updated_at": "2026-10-28T04:15:40Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "2,355 free articles on Claude Code skills, tutorials & comparisons",
-    "id": "theluckystrike/claude-skills-guide",
-    "language": "HTML",
-    "name": "theluckystrike/claude-skills-guide",
-    "stars": 4,
-    "updated_at": "2026-10-28T04:14:23Z",
-    "url": "https://github.com/theluckystrike/claude-skills-guide"
-  },
-  {
-    "description": "Turn a business's own proven documents into checked templates with a click-to-accept approval gate.",
-    "id": "rodaddy/doc-factory",
-    "language": "HTML",
-    "name": "rodaddy/doc-factory",
-    "stars": 0,
-    "updated_at": "2026-10-28T04:14:10Z",
-    "url": "https://github.com/rodaddy/doc-factory"
   }
 ]
