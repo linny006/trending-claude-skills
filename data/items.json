@@ -1,5 +1,50 @@
 [
   {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 108403,
+    "updated_at": "2026-10-29T08:45:51Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Focused workflow skills for Codex and Claude Code that turn requests into clear, actionable work.",
+    "id": "wheakerd/axiom",
+    "language": "Python",
+    "name": "wheakerd/axiom",
+    "stars": 3,
+    "updated_at": "2026-10-29T08:45:48Z",
+    "url": "https://github.com/wheakerd/axiom"
+  },
+  {
+    "description": "Cost control for long Claude Code sessions on Windows, macOS and Linux: tiered context ceilings, a blocking handoff gate",
+    "id": "YahyaLendani/opus-tuner-claude-skill",
+    "language": "PowerShell",
+    "name": "YahyaLendani/opus-tuner-claude-skill",
+    "stars": 7,
+    "updated_at": "2026-10-29T08:45:47Z",
+    "url": "https://github.com/YahyaLendani/opus-tuner-claude-skill"
+  },
+  {
+    "description": "\u7d2b\u5fae\u6597\u6570\u590d\u523b\uff1aWeb + MCP + Skill\uff0c\u57fa\u4e8e MIT \u6392\u76d8\u5f15\u64ce\u4e0e\u5b98\u65b9 v4.0 \u6570\u636e\u96c6\uff08CC BY 4.0\uff09\uff0c\u652f\u6301\u767e\u5ea6\u642d\u5b50",
+    "id": "JUTZUGC/ziwei-doushu",
+    "language": "TypeScript",
+    "name": "JUTZUGC/ziwei-doushu",
+    "stars": 1,
+    "updated_at": "2026-10-29T08:45:42Z",
+    "url": "https://github.com/JUTZUGC/ziwei-doushu"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-29T08:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agent Skills em portugu\u00eas para abrir neg\u00f3cio em Portugal \u2014 Finan\u00e7as, IVA, Seguran\u00e7a Social. Foco em brasileiros e estran",
     "id": "rubensbmelo/portugal-business-skills",
     "language": "\u2014",
@@ -16,24 +61,6 @@
     "stars": 8,
     "updated_at": "2026-10-29T08:44:41Z",
     "url": "https://github.com/CitiesSkylinesModding/agents-plugins"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 108402,
-    "updated_at": "2026-10-29T08:42:31Z",
-    "url": "https://github.com/paperclipai/paperclip"
-  },
-  {
-    "description": "\u7d2b\u5fae\u6597\u6570\u590d\u523b\uff1aWeb + MCP + Skill\uff0c\u57fa\u4e8e MIT \u6392\u76d8\u5f15\u64ce\u4e0e\u5b98\u65b9 v4.0 \u6570\u636e\u96c6\uff08CC BY 4.0\uff09\uff0c\u652f\u6301\u767e\u5ea6\u642d\u5b50",
-    "id": "JUTZUGC/ziwei-doushu",
-    "language": "TypeScript",
-    "name": "JUTZUGC/ziwei-doushu",
-    "stars": 1,
-    "updated_at": "2026-10-29T08:41:28Z",
-    "url": "https://github.com/JUTZUGC/ziwei-doushu"
   },
   {
     "description": "\ud83d\udd0a Claude Code skill that designs game sound effects that don't sound like raw beeps: click-proof synth, CC0 foley pipeli",
@@ -61,15 +88,6 @@
     "stars": 126,
     "updated_at": "2026-10-29T08:39:52Z",
     "url": "https://github.com/JasonColapietro/suede-creator-skills"
-  },
-  {
-    "description": "Cost control for long Claude Code sessions on Windows, macOS and Linux: tiered context ceilings, a blocking handoff gate",
-    "id": "YahyaLendani/opus-tuner-claude-skill",
-    "language": "PowerShell",
-    "name": "YahyaLendani/opus-tuner-claude-skill",
-    "stars": 7,
-    "updated_at": "2026-10-29T08:43:57Z",
-    "url": "https://github.com/YahyaLendani/opus-tuner-claude-skill"
   },
   {
     "description": "AI agent skill for marketing: website & landing page audits, marketing plans, social media and paid ads (ROAS, CAC, LTV,",
@@ -205,15 +223,6 @@
     "stars": 547,
     "updated_at": "2026-10-29T08:30:15Z",
     "url": "https://github.com/EricTechPro/super-board"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-29T08:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "The math layer for marketing agents: 73 skills, 62 with deterministic engines that return numbers and a verdict. Keep yo",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-29T08:07:55Z",
     "url": "https://github.com/AN0099/toothpaste-kit"
-  },
-  {
-    "description": "Superpowers skills for the DeepSeek Harness (dsh): a full engineering methodology served through dsh's own filesystem sk",
-    "id": "minglo/dsh-skill-superpowers",
-    "language": "JavaScript",
-    "name": "minglo/dsh-skill-superpowers",
-    "stars": 2,
-    "updated_at": "2026-10-29T08:06:09Z",
-    "url": "https://github.com/minglo/dsh-skill-superpowers"
   }
 ]
