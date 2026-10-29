@@ -1,5 +1,158 @@
 [
   {
+    "description": "Claude Code\uc5d0\uc11c Claude\uac00 \ucc98\uc74c\ubd80\ud130 \ud55c\uad6d\uc5b4\ub85c \uc0dd\uac01\ud574 \uc790\uc5f0\uc2a4\ub7ec\uc6b4 \ud55c\uad6d\uc5b4\ub97c \uc4f0\ub3c4\ub85d \ud55c\uad6d\uc5b4 \uc791\uc131 skill\uacfc \ubb38\uccb4 \uac80\uc0ac hook\uc744 \uc124\uce58\ud569\ub2c8\ub2e4.",
+    "id": "nerdkim/im-a-korean-ai-in-seoul",
+    "language": "JavaScript",
+    "name": "nerdkim/im-a-korean-ai-in-seoul",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:59:59Z",
+    "url": "https://github.com/nerdkim/im-a-korean-ai-in-seoul"
+  },
+  {
+    "description": "The discipline layer for Claude Code. What Claude Code should be.",
+    "id": "ChaseSunstrom/foreman",
+    "language": "Python",
+    "name": "ChaseSunstrom/foreman",
+    "stars": 1,
+    "updated_at": "2026-10-29T00:59:56Z",
+    "url": "https://github.com/ChaseSunstrom/foreman"
+  },
+  {
+    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
+    "id": "TyrusRC/praetor",
+    "language": "Python",
+    "name": "TyrusRC/praetor",
+    "stars": 7,
+    "updated_at": "2026-10-29T00:58:52Z",
+    "url": "https://github.com/TyrusRC/praetor"
+  },
+  {
+    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+    "id": "tt-a1i/archify",
+    "language": "JavaScript",
+    "name": "tt-a1i/archify",
+    "stars": 90999,
+    "updated_at": "2026-10-29T00:56:37Z",
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "description": "Hermes Skills: \u89c6\u9891\u8f6c\u6587\u5b57 / AI\u6587\u6848\u53bb\u5473 / \u6587\u6863OCR / \u7535\u5546\u7d20\u6750\u5de5\u574a (Video-to-text, AI text de-humanizer, OCR, E-commerce Material Studio)",
+    "id": "jiawood2006/hermes-skills",
+    "language": "Python",
+    "name": "jiawood2006/hermes-skills",
+    "stars": 2,
+    "updated_at": "2026-10-29T00:56:29Z",
+    "url": "https://github.com/jiawood2006/hermes-skills"
+  },
+  {
+    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
+    "id": "allxsmith/bestax-skills",
+    "language": "TypeScript",
+    "name": "allxsmith/bestax-skills",
+    "stars": 2,
+    "updated_at": "2026-10-29T00:56:25Z",
+    "url": "https://github.com/allxsmith/bestax-skills"
+  },
+  {
+    "description": "Claude Code skill that searches Reddit and digests threads, read-only, through a local Chrome window. No API key or acco",
+    "id": "adigourdi/reddit-skill",
+    "language": "JavaScript",
+    "name": "adigourdi/reddit-skill",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:55:33Z",
+    "url": "https://github.com/adigourdi/reddit-skill"
+  },
+  {
+    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
+    "id": "WenyuChiou/ai-research-skills",
+    "language": "Python",
+    "name": "WenyuChiou/ai-research-skills",
+    "stars": 410,
+    "updated_at": "2026-10-29T00:55:19Z",
+    "url": "https://github.com/WenyuChiou/ai-research-skills"
+  },
+  {
+    "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+    "id": "DozenTwelve/Papermorph",
+    "language": "JavaScript",
+    "name": "DozenTwelve/Papermorph",
+    "stars": 998,
+    "updated_at": "2026-10-29T00:55:08Z",
+    "url": "https://github.com/DozenTwelve/Papermorph"
+  },
+  {
+    "description": "Tsubaiso Intelligence Skill \u2014 PSA/IMA\uff08Salesforce\uff09\u696d\u52d9\u306e\u53c2\u7167\u30fb\u30c7\u30fc\u30bf\u6295\u5165\u30fb\u30e1\u30bf\u30c7\u30fc\u30bf\u69cb\u6210\u30fb\u5e33\u7968\u30fb\u4ed5\u69d8\u53ef\u8996\u5316\u30fb\u66f4\u65b0\u652f\u63f4\u30fb\u30ed\u30fc\u30ab\u30eb API \u64cd\u4f5c\u3068\u3001\u5c0e\u5165\uff0f\u30ed\u30fc\u30eb\u30a2\u30a6\u30c8\uff0fPoC\uff0f\u958b\u767a\u904b\u7528\u30e9\u30a4\u30d5\u30b5\u30a4\u30af",
+    "id": "tsubaiso/tsubaiso-intelligence",
+    "language": "Python",
+    "name": "tsubaiso/tsubaiso-intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:55:08Z",
+    "url": "https://github.com/tsubaiso/tsubaiso-intelligence"
+  },
+  {
+    "description": "The deckhands do the work, the officer of the watch runs the deck: parallel Claude subagents in git worktrees, coordinat",
+    "id": "jrabercrombie/watchbill",
+    "language": "Shell",
+    "name": "jrabercrombie/watchbill",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:53:16Z",
+    "url": "https://github.com/jrabercrombie/watchbill"
+  },
+  {
+    "description": "\u4fe1\u606f\u5361\u77ed\u89c6\u9891\u5168\u81ea\u52a8\u6d41\u6c34\u7ebf \u00b7 agent \u6280\u80fd\u5305\uff1a\u53e3\u64ad TTS + HTML/CSS \u4fe1\u606f\u5361\u6e32\u67d3 + BGM + \u5b57\u5e55\uff0c\u4e00\u6761 60s \u6210\u7247\u73b0\u91d1\u6210\u672c\u7ea6 0.2 \u5143 | Infocard short-video pipeline as an a",
+    "id": "lmxcode/infocard-video",
+    "language": "Python",
+    "name": "lmxcode/infocard-video",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:51:26Z",
+    "url": "https://github.com/lmxcode/infocard-video"
+  },
+  {
+    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+    "id": "code-yeongyu/oh-my-openagent",
+    "language": "TypeScript",
+    "name": "code-yeongyu/oh-my-openagent",
+    "stars": 70440,
+    "updated_at": "2026-10-29T00:56:51Z",
+    "url": "https://github.com/code-yeongyu/oh-my-openagent"
+  },
+  {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "id": "paperclipai/paperclip",
+    "language": "TypeScript",
+    "name": "paperclipai/paperclip",
+    "stars": 108301,
+    "updated_at": "2026-10-29T00:55:43Z",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
+    "id": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "name": "thedotmack/claude-mem",
+    "stars": 104043,
+    "updated_at": "2026-10-29T00:48:27Z",
+    "url": "https://github.com/thedotmack/claude-mem"
+  },
+  {
+    "description": "Pipeline-first Claude Code skills pack \u2014 30 composable skills for structured feature delivery from shape to ship",
+    "id": "chrislacey89/skills",
+    "language": "Shell",
+    "name": "chrislacey89/skills",
+    "stars": 4,
+    "updated_at": "2026-10-29T00:47:25Z",
+    "url": "https://github.com/chrislacey89/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 133,
+    "updated_at": "2026-10-29T00:45:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "GTM Research & Competitive AI Toolkit 2026 - Raine Soriano",
     "id": "reem-plus/quiver-compass",
     "language": "HTML",
@@ -16,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T00:43:39Z",
     "url": "https://github.com/holapancho/ley-a-fondo-chile"
-  },
-  {
-    "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it",
-    "id": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "name": "thedotmack/claude-mem",
-    "stars": 104039,
-    "updated_at": "2026-10-29T00:43:34Z",
-    "url": "https://github.com/thedotmack/claude-mem"
   },
   {
     "description": "Free, offline Vietnamese copy linter plus 16 agent skills for Claude Code, Codex, Gemini CLI and Antigravity. Flags calq",
@@ -50,7 +194,7 @@
     "language": "TypeScript",
     "name": "reticlehq/reticle",
     "stars": 1280,
-    "updated_at": "2026-10-29T00:42:18Z",
+    "updated_at": "2026-10-29T00:52:53Z",
     "url": "https://github.com/reticlehq/reticle"
   },
   {
@@ -59,7 +203,7 @@
     "language": "Python",
     "name": "HunterGHall/jarvis",
     "stars": 0,
-    "updated_at": "2026-10-29T00:41:00Z",
+    "updated_at": "2026-10-29T00:51:46Z",
     "url": "https://github.com/HunterGHall/jarvis"
   },
   {
@@ -72,20 +216,11 @@
     "url": "https://github.com/LilityV/multai-ai-agent-arsenal"
   },
   {
-    "description": "The discipline layer for Claude Code. What Claude Code should be.",
-    "id": "ChaseSunstrom/foreman",
-    "language": "Python",
-    "name": "ChaseSunstrom/foreman",
-    "stars": 1,
-    "updated_at": "2026-10-29T00:39:06Z",
-    "url": "https://github.com/ChaseSunstrom/foreman"
-  },
-  {
     "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refi",
     "id": "oil-oil/oil-ui",
     "language": "Python",
     "name": "oil-oil/oil-ui",
-    "stars": 2458,
+    "stars": 2459,
     "updated_at": "2026-10-29T00:37:24Z",
     "url": "https://github.com/oil-oil/oil-ui"
   },
@@ -94,18 +229,9 @@
     "id": "google/elephant-goldfish-model",
     "language": "Python",
     "name": "google/elephant-goldfish-model",
-    "stars": 4761,
+    "stars": 4771,
     "updated_at": "2026-10-29T00:34:01Z",
     "url": "https://github.com/google/elephant-goldfish-model"
-  },
-  {
-    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-    "id": "tt-a1i/archify",
-    "language": "JavaScript",
-    "name": "tt-a1i/archify",
-    "stars": 90995,
-    "updated_at": "2026-10-29T00:33:48Z",
-    "url": "https://github.com/tt-a1i/archify"
   },
   {
     "description": "Free PHP2Shell (CVE-2026-109618, CVE-2026-109619) check skill for Claude Code and Codex. Reads the PHP package and runti",
@@ -135,24 +261,6 @@
     "url": "https://github.com/lhitches/claude-seo-skills"
   },
   {
-    "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
-    "id": "DozenTwelve/Papermorph",
-    "language": "JavaScript",
-    "name": "DozenTwelve/Papermorph",
-    "stars": 998,
-    "updated_at": "2026-10-29T00:30:40Z",
-    "url": "https://github.com/DozenTwelve/Papermorph"
-  },
-  {
-    "description": "The bestax coding-agent plugin, generated from allxsmith/bestax",
-    "id": "allxsmith/bestax-skills",
-    "language": "TypeScript",
-    "name": "allxsmith/bestax-skills",
-    "stars": 2,
-    "updated_at": "2026-10-29T00:30:38Z",
-    "url": "https://github.com/allxsmith/bestax-skills"
-  },
-  {
     "description": "Stack-agnostic agentic-programming workflow skills + documentation scaffold",
     "id": "gtrabanco/agentic-workflow",
     "language": "JavaScript",
@@ -162,15 +270,6 @@
     "url": "https://github.com/gtrabanco/agentic-workflow"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 133,
-    "updated_at": "2026-10-29T00:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Compare API policies and saved MCP catalogs with Gooo. Offline CLIs, service-grant MCP tools, and replayable results.",
     "id": "kimjooyoon/gooo-go-ports",
     "language": "Go",
@@ -178,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T00:30:04Z",
     "url": "https://github.com/kimjooyoon/gooo-go-ports"
-  },
-  {
-    "description": "The open-source app everyone uses to manage agents at work",
-    "id": "paperclipai/paperclip",
-    "language": "TypeScript",
-    "name": "paperclipai/paperclip",
-    "stars": 108302,
-    "updated_at": "2026-10-29T00:28:53Z",
-    "url": "https://github.com/paperclipai/paperclip"
   },
   {
     "description": "Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's featur",
@@ -234,15 +324,6 @@
     "url": "https://github.com/sarojkjha/aaj-marketing-skills"
   },
   {
-    "description": "Agentic pentest & red-team harness via Burp Suite MCP toolkit",
-    "id": "TyrusRC/praetor",
-    "language": "Python",
-    "name": "TyrusRC/praetor",
-    "stars": 7,
-    "updated_at": "2026-10-29T00:25:41Z",
-    "url": "https://github.com/TyrusRC/praetor"
-  },
-  {
     "description": "Axiom is a curated marketplace of shared plugins for Claude Code and Codex.",
     "id": "netopsengineer/axiom",
     "language": "Python",
@@ -266,7 +347,7 @@
     "language": "Python",
     "name": "escoffier-labs/brigade",
     "stars": 81,
-    "updated_at": "2026-10-29T00:44:47Z",
+    "updated_at": "2026-10-29T00:58:41Z",
     "url": "https://github.com/escoffier-labs/brigade"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T00:14:02Z",
     "url": "https://github.com/BlackAngel242/skill-market"
-  },
-  {
-    "description": "Free AI skills for bookkeepers and small accounting practices: records chasers, transaction query lists, plain-English c",
-    "id": "polytheseus/bookkeeper-skills",
-    "language": "JavaScript",
-    "name": "polytheseus/bookkeeper-skills",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:13:10Z",
-    "url": "https://github.com/polytheseus/bookkeeper-skills"
-  },
-  {
-    "description": "Agent work-stack deals page + query helpers (smoke test)",
-    "id": "connormatthewdouglas/agent-work-stack-deals",
-    "language": "HTML",
-    "name": "connormatthewdouglas/agent-work-stack-deals",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:12:26Z",
-    "url": "https://github.com/connormatthewdouglas/agent-work-stack-deals"
-  },
-  {
-    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-    "id": "code-yeongyu/oh-my-openagent",
-    "language": "TypeScript",
-    "name": "code-yeongyu/oh-my-openagent",
-    "stars": 70439,
-    "updated_at": "2026-10-29T00:40:31Z",
-    "url": "https://github.com/code-yeongyu/oh-my-openagent"
-  },
-  {
-    "description": "Agent Skills for medical research \u2014 literature search, reporting-guideline & citation checks, statistics, publication fi",
-    "id": "Aperivue/medsci-skills",
-    "language": "Python",
-    "name": "Aperivue/medsci-skills",
-    "stars": 353,
-    "updated_at": "2026-10-29T00:09:47Z",
-    "url": "https://github.com/Aperivue/medsci-skills"
-  },
-  {
-    "description": "AI coding harness composition orchestrator \u2014 manifest-described upstreams, composition skill workflows. Apache-2.0.",
-    "id": "easyinplay/harnessed",
-    "language": "TypeScript",
-    "name": "easyinplay/harnessed",
-    "stars": 2,
-    "updated_at": "2026-10-29T00:10:05Z",
-    "url": "https://github.com/easyinplay/harnessed"
-  },
-  {
-    "description": "AI-Powered Ads Manager 2026: Google, Meta, TikTok & LinkedIn Automation with Human Oversight",
-    "id": "MAhmed004/ad-ops-mcp-hub",
-    "language": "HTML",
-    "name": "MAhmed004/ad-ops-mcp-hub",
-    "stars": 2,
-    "updated_at": "2026-10-29T00:07:28Z",
-    "url": "https://github.com/MAhmed004/ad-ops-mcp-hub"
-  },
-  {
-    "description": "Official Machine Relations skill and MRI research tools for AI visibility, GEO/AEO, SEO content discovery and digital PR",
-    "id": "Bramwell-Inc/machinerelations-plugins",
-    "language": "JavaScript",
-    "name": "Bramwell-Inc/machinerelations-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:02:36Z",
-    "url": "https://github.com/Bramwell-Inc/machinerelations-plugins"
-  },
-  {
-    "description": "Kluris gives AI coding agents shared, human-curated team knowledge: git-backed brains of markdown that agents search and",
-    "id": "ngvoicu/kluris",
-    "language": "Rust",
-    "name": "ngvoicu/kluris",
-    "stars": 6,
-    "updated_at": "2026-10-29T00:00:29Z",
-    "url": "https://github.com/ngvoicu/kluris"
-  },
-  {
-    "description": "Nerviz \u2014 an agent harness for Spring Boot. Claude Code skills, agents and hooks that generate Spring Boot projects and k",
-    "id": "nerviz-ai/nerviz",
-    "language": "Java",
-    "name": "nerviz-ai/nerviz",
-    "stars": 10,
-    "updated_at": "2026-10-29T00:00:36Z",
-    "url": "https://github.com/nerviz-ai/nerviz"
   }
 ]
